@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:30Z",
+            "timestamp": 1574815950081
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925939",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "RAID"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Paul",
+                "family": "Guerrero",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925939-1",
+                "unstructured": "Arnold, S., M., W., Worring, M., Santini, S., Gupta, A., and Jain, R. 2000. Content-based image retrieval at the end of the early years.IEEE PAMI 22, 12 (Dec.), 1349--1380."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-2",
+                "unstructured": "Badadapure, P. R. 2013. Content-Based Image Retrieval by Combining Structural and Content Based Features.International Journal of Engineering and Advanced Technology 2, 4, 154--156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-3",
+                "unstructured": "Belongie, S., Malik, J., and Puzicha, J. 2002. Shape matching and object recognition using shape contexts.Pattern Analysis and Machine Intelligence, IEEE Transactions on 24, 4, 509--522."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-4",
+                "unstructured": "Berthouzoz, F., Li, W., Dontcheva, M., and Agrawala, M. 2011. A framework for content-adaptive photo manipulation macros: Application to face, landscape, and global manipulations.ACM TOG 30, 5 (Oct.), 120:1--120:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-5",
+                "unstructured": "Bloch, I. 2005. Fuzzy spatial relationships for image processing and interpretation: A review. InImage and Vision Computing, vol. 23, 89--110."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-6",
+                "unstructured": "2015. Boost polygon, version 1.58. www.boost.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-7",
+                "unstructured": "Cao, Y., Wang, C., Zhang, L., and Zhang, L. 2011. Edgel index for large-scale sketch-based image search. InIEEE CVPR, 761--768."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-8",
+                "unstructured": "Celebi, M. E., and Aslandogan, Y. A. 2005. A comparative study of three moment-based shape descriptors. InIEEE Proc. of the Internat. Conf. on Information Technology, 788--793."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-9",
+                "unstructured": "Chandran, S., and Kiran, N. 2003. Image retrieval with embedded region relationships. InProceedings of SAC, 760."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-10",
+                "unstructured": "Chao, Y.-W., Wang, Z., He, Y., Wang, J., and Deng, J. 2015. Hico: A benchmark for recognizing human-object interactions in images. InProceedings of the IEEE International Conference on Computer Vision.",
+                "DOI": "10.1109/ICCV.2015.122",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-11",
+                "unstructured": "Chen, T., Cheng, M.-M., Tan, P., Shamir, A., and Hu, S.-M. 2009. Sketch2photo: Internet image montage.ACM TOG 28, 5 (Dec.), 124:1--124:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-12",
+                "unstructured": "Chen, K., Lai, Y.-K., Wu, Y.-X., Martin, R., and Hu, S.-M. 2014. Automatic semantic modeling of indoor scenes from low-quality rgb-d data using contextual information.ACM TOG 33, 6 (Nov.), 208:1--208:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-13",
+                "unstructured": "Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., and Yuille, A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs.ICLR(Nov.)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-14",
+                "unstructured": "Choi, W., Shahid, K., and Savarese, S. 2009. What are they doing?: Collective activity classification using spatio-temporal relationship among people. InICCV Workshops, 1282--1289."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-15",
+                "unstructured": "Chua, T. S., Tan, K.-L., and Ooi, B. C. 1997. Fast signature-based color-spatial image retrieval. InMultimedia Computing and Systems '97. Proceedings., IEEE International Conference on, 362--369."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-16",
+                "unstructured": "Eitz, M., Hildebrand, K., Boubekeur, T., and Alexa, M. 2009. A descriptor for large scale image retrieval based on sketched feature lines. InEurographics Symposium on Sketch-Based Interfaces and Modeling, 29--38."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-17",
+                "unstructured": "Eitz, M., Hildebrand, K., Boubekeur, T., and Alexa, M. 2009. A descriptor for large scale image retrieval based on sketched feature lines. InSBIM '09, ACM, New York, NY, USA, 29--36.",
+                "DOI": "10.1145/1572741.1572747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-18",
+                "unstructured": "Eitz, M., Richter, R., Hildebrand, K., Boubekeur, T., and Alexa, M. 2011. Photosketcher: Interactive sketch-based image synthesis.Computer Graphics and Applications, IEEE 31, 6 (Nov), 56--66."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-19",
+                "unstructured": "Eitz, M., Richter, R., Boubekeur, T., Hildebrand, K., and Alexa, M. 2012. Sketch-based shape retrieval.ACM TOG 31, 4 (July), 31:1--31:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-20",
+                "unstructured": "Fisher, M., Savva, M., and Hanrahan, P. 2011. Characterizing structural relationships in scenes using graph kernels. InACM TOG, vol. 30, ACM, 34.",
+                "DOI": "10.1145/1964921.1964929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-21",
+                "unstructured": "Fisher, M., Ritchie, D., Savva, M., Funkhouser, T., and Hanrahan, P. 2012. Example-based synthesis of 3d object arrangements. InACM SIGGRAPH Asia.",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-22",
+                "unstructured": "Fisher, M., Savva, M., Li, Y., Hanrahan, P., and Niessner, M. 2015. Activity-centric scene synthesis for functional 3d scene modeling.ACM TOG 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-23",
+                "unstructured": "Flusser, J. 1992. Invariant shape description and measure of object similarity. InImage Processing and its Applications, 1992., International Conference on, 139--142."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-24",
+                "unstructured": "Goshtasby, A. 1985. Description and discrimination of planar shapes using shape matrices.IEEE PAMI 7, 6, 738--743."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-25",
+                "unstructured": "Hays, J., and Efros, A. A. 2007. Scene completion using millions of photographs.ACM TOG 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-26",
+                "unstructured": "Hsieh, S.-M., and Hsu, C.-C. 2008. Retrieval of images by spatial and object similarities.Inf. Process. Manage. 44, 3 (May), 1214--1233."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-27",
+                "unstructured": "Hu, S.-M., Zhang, F.-L., Wang, M., Martin, R. R., and Wang, J. 2013. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing.ACM TOG 32, 6, 1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-28",
+                "unstructured": "Hu, R., Zhu, C., van Kaick, O., Liu, L., Shamir, A., and Zhang, H. 2015. Interaction context (icon): Towards a geometric functionality descriptor.ACM TOG 34, 4 (July), 83:1--83:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-29",
+                "unstructured": "Huang, H., Yin, K., Gong, M., Lischinski, D., Cohen-Or, D., Ascher, U., and Chen, B. 2013. \"mind the gap\": Tele-registration for structure-driven image completion.ACM TOG 32, 6 (Nov.), 174:1--174:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-30",
+                "unstructured": "Huang, S., Wang, W., and Zhang, H. 2014. Retrieving images using saliency detection and graph matching. InIEEE ICIP, 3087--3091."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-31",
+                "unstructured": "Jansen, S., Shantia, A., and Wiering, M. A. 2015. The neural-sift feature descriptor for visual vocabulary object recognition. InIJCNN, 1--8.",
+                "DOI": "10.1109/IJCNN.2015.7280660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-32",
+                "unstructured": "Karpathy, A., and Li, F.-F. 2015. Deep Visual-Semantic Alignments for Generating Image Descriptions. InIEEE CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-33",
+                "unstructured": "Kazmi, I. K., You, L., and Zhang, J. J. 2013. A survey of 2d and 3d shape descriptors.2014 11th International Conference on Computer Graphics, Imaging and Visualization 0, 1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-34",
+                "unstructured": "Kim, V. G., Chaudhuri, S., Guibas, L., and Funkhouser, T. 2014. Shape2Pose: Human-Centric Shape Analysis.ACM SIGGRAPH 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-35",
+                "unstructured": "Ko, B., and Byun, H. 2002. Multiple Regions and Their Spatial Relationship-Based Image Retrieval. InLNCS 2383.81--90.",
+                "DOI": "10.1007/3-540-45479-9_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-36",
+                "unstructured": "Krishna, R., Zhu, Y., Groth, O., Johnson, J., Hata, K., Kravitz, J., Chen, S., Kalantidis, Y., Li, L.-J., Shamma, D. A., Bernstein, M., and Fei-Fei, L. 2016. Visual genome: Connecting language and vision using crowd-sourced dense image annotations.",
+                "DOI": "10.1007/s11263-016-0981-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-37",
+                "unstructured": "Kulkarni, G., Premraj, V., Ordonez, V., Dhar, S., Li, S., Choi, Y., Berg, A. C., and Berg, T. L. 2013. Baby talk: Understanding and generating simple image descriptions.IEEE PAMI 35, 12, 2891--2903."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-38",
+                "unstructured": "Lan, T., Yang, W., Wang, Y., and Mori, G. 2012. Image retrieval with structured object queries using latent ranking SVM. InLect. Notes in Computer Science, vol. 7577 LNCS, 129--142.",
+                "DOI": "10.1007/978-3-642-33783-3_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-39",
+                "unstructured": "Lan, T., Raptis, M., Sigal, L., and Mori, G. 2013. From subcategories to visual composites: A multi-level framework for object detection. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2013.53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-40",
+                "unstructured": "Lee, S. L. S., and Hwang, E. H. E. 2002. Spatial similarity and annotation-based image retrieval system.Proceedings of Fourth Int. Symposium on Multimedia Software Engineering."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-41",
+                "unstructured": "Lin, T., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Doll&#225;r, P., and Zitnick, C. L. 2014. Microsoft COCO: common objects in context.CoRR abs/1405.0312."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-42",
+                "unstructured": "Liu, T., Chaudhuri, S., Kim, V. G., Huang, Q.-X., Mitra, N. J., and Funkhouser, T. 2014. Creating Consistent Scene Graphs Using a Probabilistic Grammar.ACM Transactions on Graphics (Proc. of SIGGRAPH Asia) 33, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-43",
+                "unstructured": "Long, J., Shelhamer, E., and Darrell, T. 2015. Fully convolutional networks for semantic segmentation.IEEE CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-44",
+                "unstructured": "Lowe, D. 2004. Distinctive image features from scale-invariant keypoints.Int. Journal of Computer Vision 60, 2, 91--110."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-45",
+                "unstructured": "Malisiewicz, T., and A., E. A. 2009. Beyond Categories: The Visual Memex Model for Reasoning About Object Relationships. InNIPS, 1--9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-46",
+                "unstructured": "Ooi, B. C., Tan, K.-L., Chua, T. S., and Hsu, W. 1998. Fast image retrieval using color-spatial information.The VLDB Journal 7, 2, 115--128."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-47",
+                "unstructured": "Pentland, A., Picard, R. W., and Sclaroff, S. 1996. Photobook: Content-based manipulation of image databases.Int. J. Comput. Vision 18, 3 (June), 233--254."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-48",
+                "unstructured": "Rubner, Y., Tomasi, C., and Guibas, L. J. 1998. A metric for distributions with applications to image databases. IEEE Computer Society, Washington, DC, USA, IEEE ICCV, 59--66."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-49",
+                "unstructured": "Sadeghi, M. A., and Farhadi, A. 2011. Recognition using visual phrases. IEEE Computer Society, Washington, DC, USA, IEEE CVPR, 1745--1752."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-50",
+                "unstructured": "Shao, T., Monszpart, A., Zheng, Y., Koo, B., Xu, W., Zhou, K., and Mitra, N. 2014. Imagining the unseen: Stability-based cuboid arrangements for scene understanding.ACM SIGGRAPH Asia.* Joint first authors.",
+                "DOI": "10.1145/2661229.2661288",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-51",
+                "unstructured": "Shechtman, E., and Irani, M. 2007. Matching local self-similarities across images and videos. InIEEE CVPR, 1--8.",
+                "DOI": "10.1109/CVPR.2007.383198",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-52",
+                "unstructured": "Smith, J. R., and Chang, S.-F. 1996. Visualseek: A fully automated content-based image query system. InProceedings of the Fourth ACM International Conference on Multimedia, ACM, New York, NY, USA, MULTIMEDIA '96, 87--98.",
+                "DOI": "10.1145/244130.244151",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-53",
+                "unstructured": "Teague, M. R. 1980. Image analysis via the general theory of moments*.J. Opt. Soc. Am. 70, 8 (Aug), 920--930."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-54",
+                "unstructured": "Wang, J., and Hua, X.-S. 2011. Interactive image search by color map.ACM Trans. Intell. Syst. Technol. 3, 1, 12:1--12:23."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-55",
+                "unstructured": "Wang, Y.-H., 2003. Image indexing and similarity retrieval based on spatial relationship model.",
+                "DOI": "10.1016/S0020-0255(03)00005-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-56",
+                "unstructured": "Xu, H., Wang, J., Hua, X.-S., and Li, S. 2010. Image search by concept map. InProceedings of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval, ACM, New York, NY, USA, SIGIR '10, 275--282.",
+                "DOI": "10.1145/1835449.1835497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-57",
+                "unstructured": "Xu, K., Chen, K., Fu, H., Sun, W.-L., and Hu, S.-M. 2013. Sketch2scene: Sketch-based co-retrieval and co-placement of 3d models.ACM TOG 32, 4 (July), 123:1--123:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-58",
+                "unstructured": "Y&#252;cer, K., Jacobson, A., Hornung, A., and Sorkine, O. 2012. Transfusive image manipulation.ACM TOG 31, 6 (Nov.), 176:1--176:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-59",
+                "unstructured": "Zhang, D., and Lu, G. 2004. Review of shape representation and description techniques.Pattern Recognition 37, 1, 1--19."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-60",
+                "unstructured": "Zhao, X., Wang, H., and Komura, T. 2014. Indexing 3d scenes using the interaction bisector surface.ACM TOG 33, 3 (June), 22:1--22:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-61",
+                "unstructured": "Zheng, Y., Cohen-Or, D., Averkiou, M., and Mitra, N. J. 2014. Recurring part arrangements in shape collections.Computer Graphics Forum.",
+                "DOI": "10.1111/cgf.12309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-62",
+                "unstructured": "Zheng, S., Jayasumana, S., Romera-Paredes, B., Vineet, V., Su, Z., Du, D., Huang, C., and Torr, P. 2015. Conditional random fields as recurrent neural networks. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2015.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925939-63",
+                "unstructured": "Zhou, X. M., Ang, C. H., and Ling, T. W. 2001. Image retrieval based on object's orientation spatial relationship.Pattern Recognition Letters 22, 5, 469--477."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925939&amp;ftid=1755934&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:38:38Z",
+            "timestamp": 1568162318000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a relation-augmented image descriptor"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925939",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

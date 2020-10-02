@@ -1,0 +1,71 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Bayesian online regression for adaptive direct illumination sampling <i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Petr <span class="family">Vévoda</span></li>
+<li> Ivo <span class="family">Kondapaneni</span></li>
+<li> Jaroslav <span class="family">Křivánek</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201340">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://cgg.mff.cuni.cz/~jaroslav/papers/2018-bayesianlighting/2018-vevoda-bayesianlighting-paper.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://cgg.mff.cuni.cz/~jaroslav/papers/2018-bayesianlighting/index.htm">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://corona-renderer.com/">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201340-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201340-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Binary</li>
+<li><span class="family">Able to run a replicability test</span>: Cannot answer</li>
+<li><span class="family">Replicability score</span>: N/A</li>
+<li><span class="family">License</span>: Cannot answer</li>
+<li><span class="family">Build mechanism</span>: part of a commercial software</li>
+<li><span class="family">Mandatory dependencies</span>:None</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   10</li>
+<li><span class="family">Reviewer</span>: 1</li>
+</ul><h2>Comments</h2><pre>Commercial renderer, not tested.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [0,0,0,0]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

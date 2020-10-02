@@ -1,0 +1,98 @@
+{
+    "Timestamp": "12/12/2019 9:53:18",
+    "Title": "Deep appearance models for face rendering",
+    "DOI": "10.1145/3197517.3201401",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution, On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://arxiv.org/abs/1808.00362",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://research.fb.com/wp-content/uploads/2018/08/Deep-Appearance-Models-for-Face-Rendering.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Private Companies",
+    "ACM 1": "Neural networks",
+    "ACM 2": "Image-based rendering",
+    "ACM 3": "Virtual reality",
+    "ACM 4": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 23,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://research.fb.com/publications/deep-appearance-models-for-face-rendering/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Rendering",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Stephen",
+            "family": "Lombardi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Jason",
+            "family": "Saragih",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Tomas",
+            "family": "Simon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Yaser",
+            "family": "Sheikh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 3.5,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=4&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=45909111"
+}

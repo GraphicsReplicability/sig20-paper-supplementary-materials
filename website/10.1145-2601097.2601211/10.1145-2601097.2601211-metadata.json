@@ -1,0 +1,376 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:31Z",
+            "timestamp": 1575507211038
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61272305"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "National Program for Special Support of Eminent Professionals of China",
+                "award": []
+            },
+            {
+                "name": "Columbia Junior Faculty Startup Fund",
+                "award": []
+            },
+            {
+                "name": "National Hightech R&#38;D Program",
+                "award": [
+                    "2012AA011503"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601211",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "A reduced model for interactive hairs"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Menglei",
+                "family": "Chai",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601211-1",
+                "unstructured": "An, S. S., Kim, T., and James, D. L. 2008. Optimizing cubature for efficient integration of subspace deformations.ACM Trans. Graph. 27, 5 (Dec.), 165:1--165:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-2",
+                "unstructured": "Anjyo, K.-i., Usami, Y., and Kurihara, T. 1992. A simple method for extracting the natural beauty of hair. InSIGGRAPH Computer Graphics, vol. 26, 111--120.",
+                "DOI": "10.1145/142920.134021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-3",
+                "unstructured": "Bando, Y., Chen, B.-Y., and Nishita, T. 2003. Animating hair with loosely connected particles.Computer Graphics Forum 22, 3, 411--418.",
+                "DOI": "10.1111/1467-8659.00688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-4",
+                "unstructured": "Bergou, M., Wardetzky, M., Robinson, S., Audoly, B., and Grinspun, E. 2008. Discrete elastic rods.ACM Trans. Graph. 27, 3, 63."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-5",
+                "unstructured": "Bertails, F., Kim, T.-Y., Cani, M.-P., and Neumann, U. 2003. Adaptive wisp tree: a multiresolution control structure for simulating dynamic clustering in hair motion. InProceedings of SCA, 207--213."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-6",
+                "unstructured": "Bertails, F., Audoly, B., Cani, M.-P., Querleux, B., Leroy, F., and L&#233;v&#234;que, J.-L. 2006. Super-helices for predicting the dynamics of natural hair.ACM Trans. Graph. 25, 3, 1180--1187."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-7",
+                "unstructured": "Cao, C., Weng, Y., Lin, S., and Zhou, K. 2013. 3D shape regression for real-time facial animation.ACM Trans. Graph. 32, 4 (July), 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-8",
+                "unstructured": "Casati, R., Bertails-Descoubes, F., et al. 2013. Super space clothoids.ACM Trans. Graph. 32, 4, 48."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-9",
+                "unstructured": "Chang, J. T., Jin, J., and Yu, Y. 2002. A practical model for hair mutual interactions. InProceedings of SCA, 73--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-10",
+                "unstructured": "Choe, B., Choi, M. G., and Ko, H.-S. 2005. Simulating complex hair with robust collision handling. InProceedings of SCA, 153--160."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-11",
+                "unstructured": "Daviet, G., Bertails-Descoubes, F., and Boissieux, L. 2011. A hybrid iterative solver for robustly capturing Coulomb friction in hair dynamics.ACM Trans. Graph. 30, 6, 139."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-12",
+                "unstructured": "Feng, W.-W., Yu, Y., and Kim, B.-U. 2010. A deformation transformer for real-time cloth animation.ACM Trans. Graph. 29, 4, 108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-13",
+                "unstructured": "Guan, P., Sigal, L., Reznitskaya, V., and Hodgins, J. K. 2012. Multi-linear data-driven dynamic hair model with efficient hair-body collision handling. InProceedings of SCA, 295--304."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-14",
+                "unstructured": "Hadap, S., and Magnenat-Thalmann, N. 2001. Modeling dynamic hair as a continuum.Computer Graphics Forum 20, 3, 329--338.",
+                "DOI": "10.1111/1467-8659.00525",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-15",
+                "unstructured": "Iben, H., Meyer, M., Petrovic, L., Soares, O., Anderson, J., and Witkin, A. 2013. Artistic simulation of curly hair. InProceedings of SCA, 63--71."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-16",
+                "unstructured": "James, D. L., and Fatahalian, K. 2003. Precomputing interactive dynamic deformable scenes.ACM Trans. Graph. 22, 3, 879--887.",
+                "DOI": "10.1145/882262.882359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-17",
+                "unstructured": "James, D. L., and Twigg, C. D. 2005. Skinning mesh animations.ACM Trans. Graph. 24, 3, 399--407.",
+                "DOI": "10.1145/1073204.1073206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-18",
+                "unstructured": "Karypis, G., and Kumar, V. 1998. A fast and high quality multilevel scheme for partitioning irregular graphs.SIAM Journal on scientific Computing 20, 1, 359--392.",
+                "DOI": "10.1137/S1064827595287997",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-19",
+                "unstructured": "Kavan, L., Gerszewski, D., Bargteil, A. W., and Sloan, P.-P. 2011. Physics-inspired upsampling for cloth simulation in games.ACM Trans. Graph. 30, 4, 93."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-20",
+                "unstructured": "Le, B. H., and Deng, Z. 2012. Smooth skinning decomposition with rigid bones.ACM Trans. Graph. 31, 6, 199."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-21",
+                "unstructured": "Liu, T., Bargteil, A. W., O'Brien, J. F., and Kavan, L. 2013. Fast simulation of mass-spring systems.ACM Trans. Graph. 32, 6, 214."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-22",
+                "unstructured": "Lokovic, T., and Veach, E. 2000. Deep shadow maps. InProceedings of SIGGRAPH, 385--392.",
+                "DOI": "10.1145/344779.344958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-23",
+                "unstructured": "Marschner, S. R., Jensen, H. W., Cammarano, M., Worley, S., and Hanrahan, P. 2003. Light scattering from human hair fibers.ACM Trans. Graph. 22, 3, 780--791.",
+                "DOI": "10.1145/882262.882345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-24",
+                "unstructured": "McAdams, A., Selle, A., Ward, K., Sifakis, E., and Teran, J. 2009. Detail preserving continuum simulation of straight hair.ACM Trans. Graph. 28, 3, 62."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-25",
+                "unstructured": "M&#252;ller, M., Heidelberger, B., Hennix, M., and Ratcliff, J. 2007. Position based dynamics.Journal of Visual Communication and Image Representation 18, 2, 109--118."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-26",
+                "unstructured": "M&#252;ller, M., Kim, T.-Y., and Chentanez, N. 2012. Fast simulation of inextensible hair and fur. InWorkshop on Virtual Reality Interaction and Physical Simulation, 39--44."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-27",
+                "unstructured": "Petrovic, L., Henne, M., and Anderson, J. 2005. Volumetric methods for simulation and rendering of hair.Pixar Animation Studios."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-28",
+                "unstructured": "Plante, E., Cani, M.-P., and Poulin, P. 2001. A layered wisp model for simulating interactions inside long hair. InComputer Animation and Simulation. Springer, 139--148."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-29",
+                "unstructured": "Rosenblum, R. E., Carlson, W. E., and Tripp, E. 1991. Simulating the structure and dynamics of human hair: modelling, rendering and animation.The Journal of Visualization and Computer Animation 2, 4, 141--148.",
+                "DOI": "10.1002/vis.4340020410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-30",
+                "unstructured": "Schittkowski, K. 2005. QL: A Fortran code for convex quadratic programming-user's guide, Version 2.11.Report, Department of Mathematics, University of Bayreuth."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-31",
+                "unstructured": "Seeger, M. 2007. Low rank updates for the Cholesky decomposition.University of California at Berkeley, Tech. Rep."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-32",
+                "unstructured": "Selle, A., Lentine, M., and Fedkiw, R. 2008. A mass spring model for hair simulation.ACM Trans. Graph. 27, 3, 64."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-33",
+                "unstructured": "Tariq, S., and Bavoil, L. 2008. Real time hair simulation and rendering on the GPU. InACM SIGGRAPH 2008 talks, 37."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-34",
+                "unstructured": "Treuille, A., Lewis, A., and Popovi&#263;, Z. 2006. Model reduction for real-time fluids.ACM Trans. Graph. 25, 3, 826--834."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-35",
+                "unstructured": "Vazirani, V. V. 2001.Approximation Algorithms. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-36",
+                "unstructured": "Wang, X. C., and Phillips, C. 2002. Multi-weight enveloping: least-squares approximation techniques for skin animation. InProceedings of SCA, 129--138.",
+                "DOI": "10.1145/545261.545283",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-37",
+                "unstructured": "Wang, H., O'Brien, J. F., and Ramamoorthi, R. 2011. Data-driven elastic models for cloth: modeling and measurement.ACM Trans. Graph. 30, 4, 71."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-38",
+                "unstructured": "Ward, K., and Lin, M. C. 2003. Adaptive grouping and subdivision for simulating hair dynamics. InProceedings of Pacific Graphics, 234--243."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-39",
+                "unstructured": "Ward, K., Lin, M. C., Joohi, L., Fisher, S., and Macri, D. 2003. Modeling hair using level-of-detail representations. InProceedings of Computer Animation and Social Agents, 41--47."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-40",
+                "unstructured": "Ward, K., Bertails, F., Kim, T.-Y., Marschner, S. R., Cani, M.-P., and Lin, M. C. 2007. A survey on hair modeling: styling, simulation, and rendering.IEEE TVCG 13, 2, 213--234."
+            },
+            {
+                "key": "key-10.1145/2601097.2601211-41",
+                "unstructured": "Wicke, M., Stanton, M., and Treuille, A. 2009. Modular bases for fluid dynamics.ACM Trans. Graph. 28, 3, 39."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601211&amp;ftid=1488933&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:38Z",
+            "timestamp": 1565663738000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601211",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,660 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853820
+        },
+        "reference-count": 86,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201293",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "A moving least squares material point method with displacement discontinuity and two-way rigid body coupling"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yuanming",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Yu",
+                "family": "Fang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Ziheng",
+                "family": "Ge",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Ziyin",
+                "family": "Qu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Yixin",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Andre",
+                "family": "Pradhana",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Chenfanfu",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201293-1",
+                "unstructured": "N. Akinci, M. Ihmsen, G. Akinci, B. Solenthaler, and M. Teschner. 2012. Versatile rigid-fluid coupling for incompressible SPH.ACM Trans Graph31, 4, Article 62 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-2",
+                "unstructured": "V. Azevedo, C. Batty, and M. Oliveira. 2016. Preserving geometry and topology for fluid flows with thin obstacles and narrow gaps.ACM Trans Graph35, 4 (2016), 97."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-3",
+                "unstructured": "S. Band, C. Gissler, and M. Teschner. 2017. Moving least squares boundaries for SPH fluids.Virtual Reality Interactions and Physical Simulations (VRIPhys)(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-4",
+                "unstructured": "B. Banerjee, J. Guilkey, T. Harman, J. Schmidt, and P. McMurtry. 2012. Simulation of impact and fragmentation with the material point method.arXiv preprint arXiv:1201.2452(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-5",
+                "unstructured": "Z. Bao, J. Hong, J. Teran, and R. Fedkiw. 2007. Fracturing rigid materials.IEEE Transactions on Visualization and Computer Graphics13, 2 (2007).",
+                "DOI": "10.1109/TVCG.2007.39",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-6",
+                "unstructured": "C. Batty, F. Bertails, and R. Bridson. 2007. A fast variational framework for accurate solid-fluid coupling.ACM Trans Graph26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-7",
+                "unstructured": "M. Becker, H. Tessendorf, and M. Teschner. 2009. Direct forcing for Lagrangian rigid-fluid coupling.IEEE Transactions on Visualization and Computer Graphics15, 3 (May 2009), 493--503.",
+                "DOI": "10.1109/TVCG.2008.107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-8",
+                "unstructured": "T. Belytschko, Y. Lu, and L. Gu. 1994. Element-free Galerkin methods.International journal for numerical methods in engineering37, 2 (1994), 229--256.",
+                "DOI": "10.1002/nme.1620370205",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-9",
+                "unstructured": "T. Belytschko and M. Tabbara. 1996. Dynamic fracture using element-free Galerkin methods.Internal J. Numer. Methods Engrg.39, 6 (1996), 923--938.",
+                "DOI": "10.1002/(SICI)1097-0207(19960330)39:6<923::AID-NME887>3.0.CO;2-W",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-10",
+                "unstructured": "J. Brackbill and H. Ruppel. 1986. FLIP: A method for adaptively zoned, Particle-In-Cell calculations of fluid flows in two dimensions.J Comp Phys65 (1986), 314--343.",
+                "DOI": "10.1016/0021-9991(86)90211-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-11",
+                "unstructured": "M. Carlson, P. Mucha, and G. Turk. 2004. Rigid fluid: animating the interplay between rigid bodies and fluid.ACM Trans Graph23, 3 (2004), 377--384.",
+                "DOI": "10.1145/1015706.1015733",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-12",
+                "unstructured": "Z. Chen, M. Yao, R. Feng, and H. Wang. 2014. Physics-inspired adaptive fracture refinement.ACM Trans Graph33, 4 (2014), 113."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-13",
+                "unstructured": "N. Chentanez, T. Goktekin, B. Feldman, and J. O'Brien. 2006. Simultaneous coupling of fluids and deformable bodies. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.Eurographics Association, 83--89.",
+                "DOI": "10.1145/1179849.1179930",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-14",
+                "unstructured": "G. Daviet and F. Bertails-Descoubes. 2016. A semi-implicit material point method for the continuum simulation of granular materials.ACM Trans Graph35, 4 (2016), 102:1--102:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-15",
+                "unstructured": "F. de Goes, C. Wallez, J. Huang, D. Pavlov, and M. Desbrun. 2015. Power particles: an incompressible fluid solver based on power diagrams.ACM Trans Graph34, 4 (2015), 50--1.",
+                "DOI": "10.1145/2766901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-16",
+                "unstructured": "B. Feldman, J. O'Brien, and B. Klingner. 2005. Animating gases with hybrid meshes. InACM Trans Graph, Vol. 24. ACM, 904--909.",
+                "DOI": "10.1145/1186822.1073281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-17",
+                "unstructured": "S. Fleishman, D. Cohen-Or, and C. Silva. 2005. Robust moving least-squares fitting with sharp features. InACM Trans Graph, Vol. 24. ACM, 544--552.",
+                "DOI": "10.1145/1186822.1073227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-18",
+                "unstructured": "C. Fu, Q. Guo, T. Gast, C. Jiang, and J. Teran. 2017. A polynomial Particle-In-Cell method.ACM Trans Graph36, 6, Article 222 (2017), 12 pages.",
+                "DOI": "10.1145/3130800.3130878",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-19",
+                "unstructured": "M. Gao, A. Pradhana Tampubolon, C. Jiang, and E. Sifakis. 2017. An adaptive Generalized Interpolation Material Point Method for simulating elastoplastic materials.ACM Trans Graph36, 6 (2017).",
+                "DOI": "10.1145/3130800.3130879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-20",
+                "unstructured": "T. Gast, C. Schroeder, A. Stomakhin, C. Jiang, and J. Teran. 2015. Optimization integrator for large time steps.IEEE Trans Vis Comp Graph21, 10 (2015), 1103--1115.",
+                "DOI": "10.1109/TVCG.2015.2459687",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-21",
+                "unstructured": "E. Guendelman, A. Selle, F. Losasso, and R. Fedkiw. 2005. Coupling water and smoke to thin deformable and rigid shells.ACM Trans Graph24, 3 (July 2005), 973--981.",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-22",
+                "unstructured": "D. Hahn and C. Wojtan. 2015. High-resolution brittle fracture simulation with boundary elements.ACM Trans Graph34, 4 (2015), 151."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-23",
+                "unstructured": "D. Hahn and C. Wojtan. 2016. Fast approximations for boundary element based brittle fracture simulation.ACM Trans Graph35, 4 (2016), 104."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-24",
+                "unstructured": "J. Hegemann, C. Jiang, C. Schroeder, and J. Teran. 2013. A level set method for ductile fracture. InProc ACM SIGGRAPH/Eurograp Symp Comp Anim.193--201.",
+                "DOI": "10.1145/2485895.2485908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-25",
+                "unstructured": "Y. Hu. 2018. Taichi: An Open-Source Computer Graphics Library.arXiv preprint arXiv:1804.09293(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-26",
+                "unstructured": "Y. Hu, Y. Fang, Z. Ge, Z. Qu, Y. Zhu, A. Pradhana, and C. Jiang. 2018. A moving least squares Material Point Method with displacement discontinuity and two-way rigid body coupling: supplementary document. 37, 4 (2018), 150."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-27",
+                "unstructured": "A. Huerta, T. Belytschko, S. Fern&#225;ndez-M&#233;ndez, and T. Rabczuk. 2004. Meshfree methods. (2004).",
+                "DOI": "10.1002/0470091355.ecm005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-28",
+                "unstructured": "Thomas J.R. Hughes. 2012.The finite element method: Linear static and dynamic finite element analysis.Courier Corporation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-29",
+                "unstructured": "G. Irving, J. Teran, and R. Fedkiw. 2004. Invertible finite elements for robust simulation of large deformation. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.131--140.",
+                "DOI": "10.1145/1028523.1028541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-30",
+                "unstructured": "C. Jiang, T. Gast, and J. Teran. 2017a. Anisotropic elastoplasticity for cloth, knit and hair frictional contact.ACM Trans Graph36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-31",
+                "unstructured": "C. Jiang, C. Schroeder, A. Selle, J. Teran, and A. Stomakhin. 2015. The affine particle-in-cell method.ACM Trans Graph34, 4 (2015), 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-32",
+                "unstructured": "C. Jiang, C. Schroeder, and J. Teran. 2017b. An angular momentum conserving affine-particle-in-cell method.J. Comput. Phys.338 (2017), 137--164.",
+                "DOI": "10.1016/j.jcp.2017.02.050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-33",
+                "unstructured": "C. Jiang, C. Schroeder, J. Teran, A. Stomakhin, and A. Selle. 2016. The material point method for simulating continuum materials. InSIGGRAPH 2016 Course.24:1--24:52.",
+                "DOI": "10.1145/2897826.2927348",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-34",
+                "unstructured": "Y. Kanamori, N. Cuong, and T. Nishita. 2011. Local optimization of distortions in wide-angle images using moving least-squares. InProceedings of the 27th Spring Conference on Computer Graphics.ACM, 51--56."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-35",
+                "unstructured": "P. Kaufmann, S. Martin, M. Botsch, and M. Gross. 2009. Flexible simulation of deformable models using discontinuous Galerkin FEM.Graphical Models71, 4 (2009), 153--167.",
+                "DOI": "10.1016/j.gmod.2009.02.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-36",
+                "unstructured": "G. Kl&#225;r, T. Gast, A. Pradhana Tampubolon, C. Fu, C. Schroeder, C. Jiang, and J. Teran. 2016. Drucker-prager elastoplasticity for sand animation.ACM Trans Graph35, 4 (2016), 103:1--103:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-37",
+                "unstructured": "B. Klingner, B. Feldman, N. Chentanez, and J. O'Brien. 2006. Fluid animation with dynamic meshes. InACM Trans Graph, Vol. 25. ACM, 820--825."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-38",
+                "unstructured": "D. Koschier and J. Bender. 2017. Density maps for improved SPH boundary handling. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.ACM, 1.",
+                "DOI": "10.1145/3099564.3099565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-39",
+                "unstructured": "D. Koschier, J. Bender, and N. Thuerey. 2017. Robust extended finite elements for complex cutting of deformables.ACM Trans Graph36, 4 (2017), 55."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-40",
+                "unstructured": "P. Lancaster and K. Salkauskas. 1981. Surfaces generated by moving least squares methods.Mathematics of computation37, 155 (1981), 141--158.",
+                "DOI": "10.1090/S0025-5718-1981-0616367-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-41",
+                "unstructured": "T. Langlois, S. An, K. Jin, and D. James. 2014. Eigenmode compression for modal sound models.ACM Trans Graph33, 4 (2014), 40."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-42",
+                "unstructured": "D. Levin. 1998. The approximation power of moving least-squares.Mathematics of Computation of the American Mathematical Society67, 224 (1998), 1517--1531.",
+                "DOI": "10.1090/S0025-5718-98-00974-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-43",
+                "unstructured": "D. Levin. 2004. Mesh-independent surface interpolation. InGeometric modeling for scientific visualization.Springer, 37--49.",
+                "DOI": "10.1007/978-3-662-07443-5_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-44",
+                "unstructured": "C. Li, T. Zhang, and D. Goldman. 2013. A terradynamics of legged locomotion on granular media.Science339, 6126 (2013), 1408--1412.",
+                "DOI": "10.1126/science.1229163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-45",
+                "unstructured": "W. Liu, S. Jun, and Y. Zhang. 1995. Reproducing kernel particle methods.International journal for numerical methods in fluids20, 8-9 (1995), 1081--1106."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-46",
+                "unstructured": "F. Losasso, T. Shinar, A. Selle, and R. Fedkiw. 2006. Multiple interacting liquids. InACM Trans Graph, Vol. 25. ACM, 812--819.",
+                "DOI": "10.1145/1179352.1141960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-47",
+                "unstructured": "M. Macklin and M. M&#252;ller. 2013. Position based fluids.ACM Trans Graph32, 4 (2013), 104:1--104:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-48",
+                "unstructured": "M. Macklin, M. M&#252;ller, N. Chentanez, and T. Kim. 2014. Unified particle physics for real-time applications.ACM Trans Graph33, 4 (2014), 153:1--153:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-49",
+                "unstructured": "S. Martin, P. Kaufmann, M. Botsch, E. Grinspun, and M. Gross. 2010. Unified simulation of elastic rods, shells, and solids. InACM Transactions on Graphics (TOG), Vol. 29. ACM, 39.",
+                "DOI": "10.1145/1833349.1778776",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-50",
+                "unstructured": "N. Mitchell, M. Aanjaneya, R. Setaluri, and E. Sifakis. 2015. Non-manifold level sets: A multivalued implicit surface representation with applications to self-collision processing.ACM Trans Graph34, 6 (2015), 247.",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-51",
+                "unstructured": "N. Molino, Z. Bao, and R. Fedkiw. 2005. A virtual node algorithm for changing mesh topology during simulation. InACM SIGGRAPH 2005 Courses.ACM, 4.",
+                "DOI": "10.1145/1198555.1198574",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-52",
+                "unstructured": "G. Moutsanidis, D. Kamensky, D.Z. Zhang, Y. Bazilevs, and C.C. Long. 2018. Modeling sub-grid scale discontinuities in the Material Point Method using a single velocity field.Submitted, received via private communication(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-53",
+                "unstructured": "M. M&#252;ller, D. Charypar, and M. Gross. 2003. Particle-based fluid simulation for interactive applications. InSymp Comp Anim (SCA '03).154--159."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-54",
+                "unstructured": "M. M&#252;ller and M. Gross. 2004. Interactive virtual materials. InProceedings of Graphics Interface 2004 (GI '04).Canadian Human-Computer Commu, 239--246."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-55",
+                "unstructured": "M. M&#252;ller, B. Heidelberger, M. Hennix, and J. Ratcliff. 2007. Position based dynamics.J Vis Comm Imag Repre18, 2 (2007), 109--118.",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-56",
+                "unstructured": "M. M&#252;ller, R. Keiser, A. Nealen, M. Pauly, M. Gross, and M. Alexa. 2004. Point based animation of elastic, plastic and melting objects. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.Eurographics Association, 141--151."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-57",
+                "unstructured": "K. Museth. 2013. VDB: High-resolution sparse volumes with dynamic topology.ACM Trans Graph32, 3 (2013), 27.",
+                "DOI": "10.1145/2487228.2487235",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-58",
+                "unstructured": "J. Nairn. 2003. Material point method calculations with explicit cracks.Computer Modeling in Engineering and Sciences4, 6 (2003), 649--664."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-59",
+                "unstructured": "R. Narain, A. Golas, and M. Lin. 2010. Free-flowing granular materials with two-way solid coupling.ACM Trans Graph29, 6 (2010), 173:1--173:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-60",
+                "unstructured": "J. O'Brien, A. Bargteil, and J. Hodgins. 2002. Graphical modeling and animation of ductile fracture. InProc ACM SIGGRAPH 2002.291--294.",
+                "DOI": "10.1145/566570.566579",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-61",
+                "unstructured": "J. O'Brien and J. Hodgins. 1999. Graphical modeling and animation of brittle fracture. InProceedings of the 26th annual conference on Computer graphics and interactive techniques.ACM Press/Addison-Wesley Publishing Co., 137--146.",
+                "DOI": "10.1145/311535.311550",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-62",
+                "unstructured": "M. Pauly, R. Keiser, B. Adams, P. Dutr&#233;, M. Gross, and L. J Guibas. 2005. Meshless animation of fracturing solids.ACM Trans Graph24, 3 (2005), 957--964.",
+                "DOI": "10.1145/1073204.1073296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-63",
+                "unstructured": "T. Pfaff, R. Narain, J. de Joya, and J. O'Brien. 2014. Adaptive tearing and cracking of thin sheets.ACM Trans Garph33, 4 (2014), 110."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-64",
+                "unstructured": "D. Ram, T. Gast, C. Jiang, C. Schroeder, A. Stomakhin, J. Teran, and P. Kavehpour. 2015. A material point method for viscoelastic fluids, foams and sponges. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.157--163.",
+                "DOI": "10.1145/2786784.2786798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-65",
+                "unstructured": "A. Robinson-Mosher, R. English, and R. Fedkiw. 2009. Accurate tangential velocities for solid fluid coupling. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.ACM, 227--236.",
+                "DOI": "10.1145/1599470.1599500",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-66",
+                "unstructured": "A. Robinson-Mosher, T. Shinar, J. Gretarsson, J. Su, and R. Fedkiw. 2008. Two-way coupling of fluids to rigid and deformable solids and shells.ACM Trans Graph27, 3 (2008), 46:1--46:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-67",
+                "unstructured": "S. Sato, Y. Dobashi, K. Iwasaki, T. Yamamoto, and T. Nishita. 2014. Deformation of 2D flow fields using stream functions. InSIGGRAPH Asia 2014 Technical Briefs.ACM, 4.",
+                "DOI": "10.1145/2669024.2669039",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-68",
+                "unstructured": "S. Schaefer, T. McPhail, and J. Warren. 2006. Image deformation using moving least squares. InACM Trans Graph, Vol. 25. ACM, 533--540.",
+                "DOI": "10.1145/1179352.1141920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-69",
+                "unstructured": "R. Setaluri, M. Aanjaneya, S. Bauer, and E. Sifakis. 2014. SPGrid: A sparse paged grid structure applied to adaptive smoke simulation.ACM Trans Graph33, 6 (2014), 205."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-70",
+                "unstructured": "T. Shinar, C. Schroeder, and R. Fedkiw. 2008. Two-way coupling of rigid and deformable bodies. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation.Eurographics Association, 95--103."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-71",
+                "unstructured": "E. Sifakis, K. Der, and R. Fedkiw. 2007. Arbitrary cutting of deformable tetrahedralized objects. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.Eurographics Association, 73--80."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-72",
+                "unstructured": "M. Steffen, R. Kirby, and M. Berzins. 2008. Analysis and reduction of quadrature errors in the material point method (MPM).Int J Numer Meth Eng76, 6 (2008), 922--948.",
+                "DOI": "10.1002/nme.2360",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-73",
+                "unstructured": "A. Stomakhin, C. Schroeder, L. Chai, J. Teran, and A. Selle. 2013. A material point method for snow simulation.ACM Trans Graph32, 4 (2013), 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-74",
+                "unstructured": "A. Stomakhin, C. Schroeder, C. Jiang, L. Chai, J. Teran, and A. Selle. 2014. Augmented MPM for phase-change and varied materials.ACM Trans Graph33, 4 (2014), 138:1--138:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-75",
+                "unstructured": "D. Sulsky, S. Zhou, and H. Schreyer. 1995. Application of a particle-in-cell method to solid mechanics.Comp Phys Comm87, 1 (1995), 236--252.",
+                "DOI": "10.1016/0010-4655(94)00170-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-76",
+                "unstructured": "A. Pradhana Tampubolon, T. Gast, G. Kl&#225;r, C. Fu, J. Teran, C. Jiang, and K. Museth. 2017. Multi-species simulation of porous sand and water mixtures.ACM Trans Graph36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073651",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-77",
+                "unstructured": "D. Terzopoulos and K. Fleischer. 1988. Modeling inelastic deformation: viscolelasticity, plasticity, fracture.SIGGRAPH Comp Graph22, 4 (1988), 269--278.",
+                "DOI": "10.1145/378456.378522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-78",
+                "unstructured": "Y. Wang, C. Jiang, C. Schroeder, and J. Teran. 2014. An adaptive virtual node algorithm with robust mesh cutting. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.Eurographics Association, 77--85."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-79",
+                "unstructured": "C. Wojtan, N. Th&#252;rey, M. Gross, and G. Turk. 2009. Deforming meshes that split and merge. InACM Trans Graph, Vol. 28. ACM, 76.",
+                "DOI": "10.1145/1576246.1531382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-80",
+                "unstructured": "J. Wretborn, R. Armiento, and K. Museth. 2017. Animation of crack propagation by means of an extended multi-body solver for the material point method.Computers &#38; Graphics(2017).",
+                "DOI": "10.1016/j.cag.2017.10.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-81",
+                "unstructured": "J. Wu, R. Westermann, and C. Dick. 2015. A survey of physically based simulation of cuts in deformable bodies. InComp Graph Forum, Vol. 34. Wiley Online Library, 161--187.",
+                "DOI": "10.1111/cgf.12528",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-82",
+                "unstructured": "H. Xu and J. Barbi&#269;. 2014. Signed distance fields for polygon soup meshes. InProceedings of Graphics Interface 2014.Canadian Information Processing Society, 35--41."
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-83",
+                "unstructured": "Y. Yue, B. Smith, C. Batty, C. Zheng, and E. Grinspun. 2015. Continuum foam: a material point method for shear-dependent flows.ACM Trans Graph34, 5 (2015), 160:1--160:20.",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-84",
+                "unstructured": "O. Zarifi and C. Batty. 2017. A positive-definite cut-cell method for strong two-way coupling between fluids and deformable bodies. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.ACM, 7.",
+                "DOI": "10.1145/3099564.3099572",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-85",
+                "unstructured": "Y. Zhu and R. Bridson. 2005. Animating sand as a fluid.ACM Trans Graph24, 3 (2005), 965--972.",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201293-86",
+                "unstructured": "Y. Zhu and S. Gortler. 2007. 3D deformation using moving least squares. (2007)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201293&ftid=1991762&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:59:13Z",
+            "timestamp": 1571673553000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 86,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201293",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

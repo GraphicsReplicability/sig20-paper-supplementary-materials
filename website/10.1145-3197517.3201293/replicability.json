@@ -1,0 +1,125 @@
+{
+    "Timestamp": "1/20/2020 13:10:56",
+    "Title": "A moving least squares material point method with displacement discontinuity and two-way rigid body coupling",
+    "DOI": "10.1145/3197517.3201293",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/yuanming-hu/taichi_mpm",
+    "code URL  2": "",
+    "PDF URL": "https://www.seas.upenn.edu/~cffjiang/research/mlsmpm/hu2018mlsmpm.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Commandline instructions in README",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "An example is provided in file mls.mpm88 (which is particularly well explained) which is consistent with the paper result. Many other examples are provided in the scripts folder, however this requires installing taichi (a legacy branch) which fails (even after adding a -fpermissive option which suppressed some errors) with:\n\"error: no match for \u2018operator+=\u2019 (operand types are \u2018taichi::RigidBody<2>::InertiaType\u2019 {aka \u2018float\u2019} and \u2018taichi::MatrixND<2, float, taichi::InstSetExt::AVX2>\u2019)\" \n\nHence I was not able to reproduce other results using the provided scripts.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 24,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "taichi.h",
+    "Project URL": "https://yzhu.io/publication/mpm2018siggraph/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Yuanming",
+            "family": "Hu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Yu",
+            "family": "Fang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Tsinghua University"
+                }
+            ]
+        },
+        {
+            "given": "Ziheng",
+            "family": "Ge",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Ziyin",
+            "family": "Qu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania"
+                }
+            ]
+        },
+        {
+            "given": "Yixin",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, Los Angeles"
+                }
+            ]
+        },
+        {
+            "given": "Andre",
+            "family": "Pradhana",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania"
+                }
+            ]
+        },
+        {
+            "given": "Chenfanfu",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

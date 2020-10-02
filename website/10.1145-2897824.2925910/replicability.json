@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/8/2020 18:43:47",
+    "Title": "Resolving Fluid Boundary Layers with Particle Strength Exchange and Weak Adaptivity",
+    "DOI": "10.1145/2897824.2925910",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/zhxx1987/IVOCK",
+    "code URL  2": "",
+    "PDF URL": "https://www.cs.ubc.ca/~rbridson/docs/zhang-siggraph2016-whirp_vflip.pdf",
+    "License type": "GPL",
+    "Build mechanism": "IDE Project (VS,..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 1,
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Physical simulation",
+    "ACM 2": "Partial differential equations",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "The code comes with a solver, a particle simulator and a particle renderer that renders the simulation. Compiling the code required a number of steps (under Visual Studio 2017):\n* for the TBB_Multigrid project, you need to set the TBBROOT environment variable to your TBB path.\n\n* for the Smoke_Solver project:\n- in Smoke_Solver.vcxproj, the tbb props file should be updated to mach your TBB_Multigrid path (since the props file is shipped) and some paths that are hardcoded (e.g., C:\\Users\\xinxin\\Dropbox\\xinxin_code\\TBB_Multigrid\\TBB_Multigrid ) should be updated.\n- same process for particle_renderer.vcproj.xinxin-PC.xinxin\n- in TBB_SETTINGS.props, change glew64 to glew32 (?)\n- the projects can then be loaded (and possibly retargeted) in Visual Studio.\n\n- In util.h of both Smoke_Solver and particle_renderer projects, you need to comment out the function lround line 197--203\n- You should add the path to the libraries for glew (and use glew32 instead of glew64 ?),  freeglut and tbb\n\n- to read the resulting sgi files, you can download the sgi plugin for photoshop (put the plugin in C:\\Program Files\\Adobe\\Adobe Photoshop CC 2019\\Plug-ins and restard photoshop)\n\nUltimately, the simulation runs smoothly and produces files that consist in the particles for each time frame.\nThe renderer is not documented and hard to play with. Using wrong values can lead to extreme times (I had a rendering compute for 67 hours and resulting in a constant blueish image ; some renderings just crash using a wrong \"quality_factor\" value which makes gigantic shadow maps...). Using the following values worked well:\n.\\particle_renderer.exe [path to frames] 0.01 0.01 0.1 10 10 10 10 150 180\n(where here 150--180 renders frames from 150 to 180).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 9,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "TBB / glew",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Xinxin",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "UBC Computer Science"
+                }
+            ]
+        },
+        {
+            "given": "Minchen",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UBC Computer Science"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "Bridson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UBC Computer Science, Autodesk Canada"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

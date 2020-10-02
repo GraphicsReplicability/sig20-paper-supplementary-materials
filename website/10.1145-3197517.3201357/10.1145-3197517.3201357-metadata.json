@@ -1,0 +1,490 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813585
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201357",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 33,
+        "title": [
+            "Looking to listen at the cocktail party"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ariel",
+                "family": "Ephrat",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google Research and The Hebrew University of Jerusalem, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Inbar",
+                "family": "Mosseri",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Oran",
+                "family": "Lang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Tali",
+                "family": "Dekel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kevin",
+                "family": "Wilson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Avinatan",
+                "family": "Hassidim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "William T.",
+                "family": "Freeman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Rubinstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201357-1",
+                "unstructured": "T. Afouras, J. S. Chung, and A. Zisserman. 2018. The Conversation: Deep Audio-Visual Speech Enhancement. InarXiv:1804.04121.",
+                "DOI": "10.21437/Interspeech.2018-1400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-2",
+                "unstructured": "Anna Llagostera Casanovas, Gianluca Monaci, Pierre Vandergheynst, and R&#233;mi Gribonval. 2010. Blind audiovisual source separation based on sparse redundant representations.IEEE Transactions on Multimedia12, 5 (2010), 358--371.",
+                "DOI": "10.1109/TMM.2010.2050650",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-3",
+                "unstructured": "E Colin Cherry. 1953. Some experiments on the recognition of speech, with one and with two ears.The Journal of the acoustical society of America25, 5 (1953), 975--979.",
+                "DOI": "10.1121/1.1907229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-4",
+                "unstructured": "Joon Son Chung, Andrew W. Senior, Oriol Vinyals, and Andrew Zisserman. 2016. Lip Reading Sentences in the Wild.CoRRabs/1611.05358 (2016).",
+                "DOI": "10.1109/CVPR.2017.367",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-5",
+                "unstructured": "Forrester Cole, David Belanger, Dilip Krishnan, Aaron Sarna, Inbar Mosseri, and William T Freeman. 2016. Synthesizing normalized faces from facial identity features. InCVPR'17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-6",
+                "unstructured": "Pierre Comon and Christian Jutten. 2010.Handbook of Blind Source Separation: Independent component analysis and applications.Academic press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-7",
+                "unstructured": "Masood Delfarah and DeLiang Wang. 2017. Features for Masking-Based Monaural Speech Separation in Reverberant Conditions.IEEE/ACM Transactions on Audio, Speech, and Language Processing25 (2017), 1085--1094."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-8",
+                "unstructured": "Ariel Ephrat, Tavi Halperin, and Shmuel Peleg. 2017. Improved Speech Reconstruction from Silent Video. InICCV 2017 Workshop on Computer Vision for Audio-Visual Media.",
+                "DOI": "10.1109/ICCVW.2017.61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-9",
+                "unstructured": "Hakan Erdogan, John R. Hershey, Shinji Watanabe, and Jonathan Le Roux. 2015. Phase-sensitive and recognition-boosted speech separation using deep recurrent neural networks.IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2015).",
+                "DOI": "10.1109/ICASSP.2015.7178061",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-10",
+                "unstructured": "Weijiang Feng, Naiyang Guan, Yuan Li, Xiang Zhang, and Zhigang Luo. 2017. Audio visual speech recognition with multimodal recurrent neural networks. InNeural Networks (IJCNN), 2017 International Joint Conference on.IEEE, 681--688.",
+                "DOI": "10.1109/IJCNN.2017.7965918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-11",
+                "unstructured": "Aviv Gabbay, Ariel Ephrat, Tavi Halperin, and Shmuel Peleg. 2018. Seeing Through Noise: Speaker Separation and Enhancement using Visually-derived Speech.IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2018).",
+                "DOI": "10.1109/ICASSP.2018.8462527",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-12",
+                "unstructured": "Aviv Gabbay, Asaph Shamir, and Shmuel Peleg. 2017. Visual Speech Enhancement using Noise-Invariant Training.arXiv preprint arXiv:1711.08789(2017).",
+                "DOI": "10.21437/Interspeech.2018-1955",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-13",
+                "unstructured": "R Gao, R Feris, and K. Grauman. 2018. Learning to Separate Object Sounds by Watching Unlabeled Video.arXiv preprint arXiv:1804.01665(2018).",
+                "DOI": "10.1007/978-3-030-01219-9_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-14",
+                "unstructured": "Jort F. Gemmeke, Daniel P. W. Ellis, Dylan Freedman, Aren Jansen, Wade Lawrence, R. Channing Moore, Manoj Plakal, and Marvin Ritter. 2017. Audio Set: An ontology and human-labeled dataset for audio events. InProc. IEEE ICASSP 2017.",
+                "DOI": "10.1109/ICASSP.2017.7952261",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-15",
+                "unstructured": "Elana Zion Golumbic, Gregory B Cogan, Charles E. Schroeder, and David Poeppel. 2013. Visual input enhances selective speech envelope tracking in auditory cortex at a \"cocktail party\".The Journal of neuroscience : the official journal of the Society for Neuroscience33 4 (2013), 1417--26."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-16",
+                "unstructured": "Naomi Harte and Eoin Gillen. 2015. TCD-TIMIT: An audio-visual corpus of continuous speech.IEEE Transactions on Multimedia17, 5 (2015), 603--615.",
+                "DOI": "10.1109/TMM.2015.2407694",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-17",
+                "unstructured": "David F. Harwath, Antonio Torralba, and James R. Glass. 2016. Unsupervised Learning of Spoken Language with Visual Context. InNIPS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-18",
+                "unstructured": "John Hershey, Hagai Attias, Nebojsa Jojic, and Trausti Kristjansson. 2004. Audio-visual graphical models for speech processing. InIEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).",
+                "DOI": "10.1109/ICASSP.2004.1327194",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-19",
+                "unstructured": "John R Hershey and Michael Casey. 2002. Audio-visual sound separation via hidden Markov models. InAdvances in Neural Information Processing Systems.1173--1180."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-20",
+                "unstructured": "John R. Hershey, Zhuo Chen, Jonathan Le Roux, and Shinji Watanabe. 2016. Deep clustering: Discriminative embeddings for segmentation and separation.IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2016), 31--35."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-21",
+                "unstructured": "Andrew Hines, Eoin Gillen, Damien Kelly, Jan Skoglund, Anil C. Kokaram, and Naomi Harte. 2015. ViSQOLAudio: An objective audio quality metric for low bitrate codecs.The Journal of the Acoustical Society of America137 6 (2015), EL449--55.",
+                "DOI": "10.1121/1.4921674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-22",
+                "unstructured": "Andrew Hines and Naomi Harte. 2012. Speech Intelligibility Prediction Using a Neurogram Similarity Index Measure.Speech Commun.54, 2 (Feb. 2012), 306--320.",
+                "DOI": "10.1016/j.specom.2011.09.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-23",
+                "unstructured": "Ken Hoover, Sourish Chaudhuri, Caroline Pantofaru, Malcolm Slaney, and Ian Sturdy. 2017. Putting a Face to the Voice: Fusing Audio and Visual Signals Across a Video to Determine Speakers.CoRRabs/1706.00079 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-24",
+                "unstructured": "Jen-Cheng Hou, Syu-Siang Wang, Ying-Hui Lai, Jen-Chun Lin, Yu Tsao, Hsiu-Wen Chang, and Hsin-Min Wang. 2018. Audio-Visual Speech Enhancement Using Multimodal Deep Convolutional Neural Networks.IEEE Transactions on Emerging Topics in Computational Intelligence2, 2 (2018), 117--128.",
+                "DOI": "10.1109/TETCI.2017.2784878",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-25",
+                "unstructured": "Yongtao Hu, Jimmy SJ Ren, Jingwen Dai, Chang Yuan, Li Xu, and Wenping Wang. 2015. Deep multimodal speaker naming. InProceedings of the 23rd ACM international conference on Multimedia.ACM, 1107--1110.",
+                "DOI": "10.1145/2733373.2806293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-26",
+                "unstructured": "Sergey Ioffe and Christian Szegedy. 2015. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. InICML."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-27",
+                "unstructured": "Yusuf Isik, Jonathan Le Roux, Zhuo Chen, Shinji Watanabe, and John R Hershey. 2016. Single-Channel Multi-Speaker Separation Using Deep Clustering.Interspeech(2016), 545--549."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-28",
+                "unstructured": "Faheem Khan. 2016.Audio-visual speaker separation.Ph.D. Dissertation. University of East Anglia."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-29",
+                "unstructured": "Wei Ji Ma, Xiang Zhou, Lars A. Ross, John J. Foxe, and Lucas C. Parra. 2009. Lip-Reading Aids Word Recognition Most in Moderate Noise: A Bayesian Explanation Using High-Dimensional Feature Space.PLoS ONE4 (2009), 233 -- 252."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-30",
+                "unstructured": "Josh H McDermott. 2009. The cocktail party problem.Current Biology19, 22 (2009), R1024--R1027."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-31",
+                "unstructured": "Gianluca Monaci. 2011. Towards real-time audiovisual speaker localization. InSignal Processing Conference, 2011 19th European.IEEE, 1055--1059."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-32",
+                "unstructured": "Youssef Mroueh, Etienne Marcheret, and Vaibhava Goel. 2015. Deep multimodal learning for audio-visual speech recognition. InAcoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on.IEEE, 2130--2134.",
+                "DOI": "10.1109/ICASSP.2015.7178347",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-33",
+                "unstructured": "Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, and Andrew Y. Ng. 2011. Multimodal Deep Learning. InICML."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-34",
+                "unstructured": "Andrew Owens and Alexei A Efros. 2018. Audio-Visual Scene Analysis with Self-Supervised Multisensory Features. (2018).",
+                "DOI": "10.1007/978-3-030-01231-1_39",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-35",
+                "unstructured": "Eric K. Patterson, Sabri Gurbuz, Zekeriya Tufekci, and John N. Gowdy. 2002. Moving-Talker, Speaker-Independent Feature Study, and Baseline Results Using the CUAVE Multimodal Speech Corpus.EURASIP J. Adv. Sig. Proc.2002 (2002), 1189--1201.",
+                "DOI": "10.1155/S1110865702206101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-36",
+                "unstructured": "Jie Pu, Yannis Panagakis, Stavros Petridis, and Maja Pantic. 2017. Audio-visual object localization and separation using low-rank and sparsity. InAcoustics, Speech and Signal Processing (ICASSP), 2017 IEEE International Conference on.IEEE, 2901--2905.",
+                "DOI": "10.1109/ICASSP.2017.7952687",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-37",
+                "unstructured": "Bertrand Rivet, Wenwu Wang, Syed M. Naqvi, and Jonathon A. Chambers. 2014. Audio-visual Speech Source Separation: An overview of key methodologies.IEEE Signal Processing Magazine31 (2014), 125--134.",
+                "DOI": "10.1109/MSP.2013.2296173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-38",
+                "unstructured": "Antony W Rix, John G Beerends, Michael P Hollier, and Andries P Hekstra. 2001. Perceptual evaluation of speech quality (PESQ)-a new method for speech quality assessment of telephone networks and codecs. InAcoustics, Speech, and Signal Processing, 2001. Proceedings.(ICASSP'01). 2001 IEEE International Conference on, Vol. 2. IEEE, 749--752."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-39",
+                "unstructured": "Ethan M Rudd, Manuel G&#252;nther, and Terrance E Boult. 2016. Moon: A mixed objective optimization network for the recognition of facial attributes. InEuropean Conference on Computer Vision.Springer, 19--35."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-40",
+                "unstructured": "J S Garofolo, Lori Lamel, W M Fisher, Jonathan Fiscus, D S. Pallett, N L. Dahlgren, and V Zue. 1992. TIMIT Acoustic-phonetic Continuous Speech Corpus. (11 1992)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-41",
+                "unstructured": "Lei Sun, Jun Du, Li-Rong Dai, and Chin-Hui Lee. 2017. Multiple-target deep learning for LSTM-RNN based speech enhancement. InHSCMA.",
+                "DOI": "10.1109/HSCMA.2017.7895577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-42",
+                "unstructured": "Cees H Taal, Richard C Hendriks, Richard Heusdens, and Jesper Jensen. 2010. A short-time objective intelligibility measure for time-frequency weighted noisy speech. InAcoustics Speech and Signal Processing (ICASSP), 2010 IEEE International Conference on.IEEE, 4214--4217."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-43",
+                "unstructured": "Emmanuel Vincent, Jon Barker, Shinji Watanabe, Jonathan Le Roux, Francesco Nesta, and Marco Matassoni. 2013. The second `chime' speech separation and recognition challenge: Datasets, tasks and baselines.2013 IEEE International Conference on Acoustics, Speech and Signal Processing(2013), 126--130.",
+                "DOI": "10.1109/ICASSP.2013.6637622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-44",
+                "unstructured": "E. Vincent, R. Gribonval, and C. Fevotte. 2006. Performance Measurement in Blind Audio Source Separation.Trans. Audio, Speech and Lang. Proc.14, 4 (2006), 1462--1469.",
+                "DOI": "10.1109/TSA.2005.858005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-45",
+                "unstructured": "DeLiang Wang and Jitong Chen. 2017. Supervised Speech Separation Based on Deep Learning: An Overview.CoRRabs/1708.07524 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-46",
+                "unstructured": "Yuxuan Wang, Arun Narayanan, and DeLiang Wang. 2014. On training targets for supervised speech separation.IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)22, 12 (2014), 1849--1858."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-47",
+                "unstructured": "Ziteng Wang, Xiaofei Wang, Xu Li, Qiang Fu, and Yonghong Yan. 2016. Oracle performance investigation of the ideal masks. InIWAENC.",
+                "DOI": "10.1109/IWAENC.2016.7602888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-48",
+                "unstructured": "Felix Weninger, Hakan Erdogan, Shinji Watanabe, Emmanuel Vincent, Jonathan Le Roux, John R. Hershey, and Bj&#246;rn W. Schuller. 2015. Speech Enhancement with LSTM Recurrent Neural Networks and its Application to Noise-Robust ASR. InLVA/ICA.",
+                "DOI": "10.1007/978-3-319-22482-4_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-49",
+                "unstructured": "Dong Yu, Morten Kolb&#230;k, Zheng-Hua Tan, and Jesper Jensen. 2017. Permutation invariant training of deep models for speaker-independent multi-talker speech separation.IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2017), 241--245."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-50",
+                "unstructured": "Matthew D Zeiler and Rob Fergus. 2014. Visualizing and understanding convolutional networks. InEuropean conference on computer vision.Springer, 818--833."
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-51",
+                "unstructured": "Hang Zhao, Chuang Gan, Andrew Rouditchenko, Carl Vondrick, Josh McDermott, and Antonio Torralba. 2018. The Sound of Pixels. (2018).",
+                "DOI": "10.1007/978-3-030-01246-5_35",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201357-52",
+                "unstructured": "Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, and Antonio Torralba. 2014. Object detectors emerge in deep scene cnns.arXiv preprint arXiv:1412.6856(2014)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201357&ftid=1991600&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:24Z",
+            "timestamp": 1571673324000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a speaker-independent audio-visual model for speech separation"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201357",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

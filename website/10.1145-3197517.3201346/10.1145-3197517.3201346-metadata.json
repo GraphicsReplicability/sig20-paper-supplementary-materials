@@ -1,0 +1,556 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410079
+        },
+        "reference-count": 65,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000005",
+                "name": "U.S. Department of Defense",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W81XWH-15-1-0147"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1422795"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007297",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N000141110719, N000141210834"
+                ]
+            },
+            {
+                "name": "Intel STC-Visual Computing Grant",
+                "award": [
+                    "20112360"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201346",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "A material point method for thin shells with frictional contact"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qi",
+                "family": "Guo",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Xuchen",
+                "family": "Han",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chuyuan",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Gast",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Rasmus",
+                "family": "Tamstorf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Walt Disney Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Joseph",
+                "family": "Teran",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201346-1",
+                "unstructured": "T. Belytschko, W. Liu, B. Moran, and K. Elkhodary. 2013.Nonlinear finite elements for continua and structures.John Wiley and sons."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-2",
+                "unstructured": "J. Bonet and R. Wood. 2008.Nonlinear continuum mechanics for finite element analysis.Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511755446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-3",
+                "unstructured": "R. Bridson, R. Fedkiw, and J. Anderson. 2002. Robust Treatment of Collisions, Contact and Friction for Cloth Animation.ACM Trans Graph21, 3 (2002), 594--603.",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-4",
+                "unstructured": "R. Bridson, S. Marino, and R. Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-5",
+                "unstructured": "Edwin Catmull and James Clark. 1978. Recursively generated B-spline surfaces on arbitrary topological meshes.Computer-aided design10, 6 (1978), 350--355.",
+                "DOI": "10.1016/0010-4485(78)90110-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-6",
+                "unstructured": "B. Chen and M. Govindaraj. 1995. A Physically Based Model of Fabric Drape Using Flexible Shell Theory.Text Res J65, 6 (1995), 324--330.",
+                "DOI": "10.1177/004051759506500603",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-7",
+                "unstructured": "F. Cirak and M. Ortiz. 2001. Fully C1-conforming subdivision elements for finite deformation thin-shell analysis.Int J Num Meth Eng51, 7 (2001), 813--833.",
+                "DOI": "10.1002/nme.182.abs",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-8",
+                "unstructured": "F. Cirak, M. Ortiz, and P. Schr&#246;der. 2000. Subdivision surfaces: a new paradigm for thin-shell finite-element analysis.Int J Num Meth Eng47, 12 (2000), 2039--2072.",
+                "DOI": "10.1002/(SICI)1097-0207(20000430)47:12<2039::AID-NME872>3.0.CO;2-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-9",
+                "unstructured": "David Clyde. 2017.Numerical Subdivision Surfaces for Simulation and Data Driven Modeling of Woven Cloth.Ph.D. Dissertation. University of California, Los Angeles."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-10",
+                "unstructured": "D. Clyde, J. Teran, and R. Tamstorf. 2017. Modeling and data-driven parameter estimation for woven fabrics. InProc ACM SIGGRAPH/Eurograp Symp Comp Anim (SCA '17).ACM, New York, NY, USA, 17:1--17:11.",
+                "DOI": "10.1145/3099564.3099577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-11",
+                "unstructured": "J. Collier, B. Collier, G. O'Toole, and S. Sargand. 1991. Drape prediction by means of finite-element analysis.J Textile Inst82, 1 (1991), 96--107.",
+                "DOI": "10.1080/00405009108658741",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-12",
+                "unstructured": "G. Daviet and F. Bertails-Descoubes. 2016. A Semi-implicit Material Point Method for the Continuum Simulation of Granular Materials.ACM Trans Graph35, 4 (2016), 102:1--102:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-13",
+                "unstructured": "R. Echter, B. Oesterle, and M. Bischoff. 2013. A hierarchic family of isogeometric shell finite elements.Comp Meth App Mech Eng254 (2013), 170 -- 180.",
+                "DOI": "10.1016/j.cma.2012.10.018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-14",
+                "unstructured": "J. Eischen, S. Deng, and T. Clapp. 1996. Finite-element modeling and control of flexible fabric parts.IEEE Comp Graph App16, 5 (1996), 71--80.",
+                "DOI": "10.1109/38.536277",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-15",
+                "unstructured": "O. Etzmuss, J. Gross, and W. Strasser. 2003a. Deriving a particle system from continuum mechanics for the animation of deformable objects.IEEE Trans Vis Comp Graph9, 4 (Oct. 2003), 538--550.",
+                "DOI": "10.1109/TVCG.2003.1260747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-16",
+                "unstructured": "O. Etzmuss, M. Keckeisen, and W. Strasser. 2003b. A fast finite element solution for cloth modeling. InProc 11th Vac Conf Comp Graph App (PG '03).IEEE Computer Society, Washington, DC, USA, 244--254."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-17",
+                "unstructured": "Y. Fan, J. Litven, D. Levin, and D. Pai. 2013. Eulerian-on-Lagrangian Simulation.ACM Trans Graph32, 3 (2013), 22:1--22:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-18",
+                "unstructured": "Y. Fan, J. Litven, and D. Pai. 2014. Active Volumetric Musculoskeletal Systems.ACM Trans Graph33, 4 (2014), 152:1--152:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-19",
+                "unstructured": "C. Fu, Q. Guo, T. Gast, C. Jiang, and J. Teran. 2017. A Polynomial Particle-in-cell Method.ACM Trans Graph36, 6 (Nov. 2017), 222:1--222:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-20",
+                "unstructured": "L. Gan, N. Ly, and G. Steven. 1995. A study of fabric deformation using nonlinear finite elements.Text Res J65, 11 (1995), 660--668.",
+                "DOI": "10.1177/004051759506501106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-21",
+                "unstructured": "Y. Gingold, A. Secord, J. Han, E. Grinspun, and D. Zorin. 2004. A discrete model for inelastic deformation of thin shells. InTech Report: Courant Institute of Mathematical Sciences, New York University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-22",
+                "unstructured": "A. Golas, R. Narain, and M. Lin. 2014. Continuum modeling of crowd turbulence.Phys Rev E90 (2014), 042816. Issue 4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-23",
+                "unstructured": "O. Gonzalez and A. Stuart. 2008.A first course in continuum mechanics.Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511619571",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-24",
+                "unstructured": "E. Grinspun, F. Cirak, P. Schr&#246;der, and M. Ortiz. 1999. Non-linear mechanics and collisions for subdivision surfaces.Technical report, Caltech Multi-Res Modeling Group(1999)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-25",
+                "unstructured": "E. Grinspun, A. Hirani, M. Desbrun, and P. Schr&#246;der. 2003. Discrete Shells. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 62--67."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-26",
+                "unstructured": "E. Grinspun, P. Krysl, and P. Schr&#246;der. 2002. CHARMS: A simple framework for adaptive simulation.ACM Trans Graph21, 3 (2002), 281--290.",
+                "DOI": "10.1145/566654.566578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-27",
+                "unstructured": "E. Grinspun and P. Schr&#246;der. 2001. Normal bounds for subdivision-surface interference detection. InIEEE Viz.333--340.",
+                "DOI": "10.1109/VISUAL.2001.964529",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-28",
+                "unstructured": "Q. Guo, X. Han, C. Fu, T. Gast, R. Tamstorf, and J. Teran. 2018. A Material Point Method for Thin Shells with Frictional Contact: Supplementary Technical Document. (2018).",
+                "DOI": "10.1145/3197517.3201346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-29",
+                "unstructured": "D. Harmon, E. Vouga, R. Tamstorf, and E. Grinspun. 2008. Robust Treatment of Simultaneous Collisions.ACM Trans Graph27, 3 (2008), 23:1--23:4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-30",
+                "unstructured": "C. Jiang, T. Gast, and J. Teran. 2017. Anisotropic elastoplasticity for cloth, knit and hair frictional contact.ACM Trans Graph36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-31",
+                "unstructured": "C. Jiang, C. Schroeder, A. Selle, J. Teran, and A. Stomakhin. 2015. The Affine Particle-In-Cell Method.ACM Trans Graph34, 4 (2015), 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-32",
+                "unstructured": "C. Kane, E. Repetto, M. Ortiz, and J. Marsden. 1999. Finite element analysis of nonsmooth contact.Comp Meth App Mech Eng180, 1 (1999), 1 -- 26.",
+                "DOI": "10.1016/S0045-7825(99)00034-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-33",
+                "unstructured": "P. Kaufmann, S. Martin, M. Botsch, and M. Gross. 2009. Implementation of discontinuous Galerkin Kirchhoff-Love shells.ETH Zurich, Department of Computer Science, Technical Report No. 622(2009)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-34",
+                "unstructured": "J. Kiendl, K. Bletzinger, J. Linhard, and R. Wuchner. 2009. Isogeometric shell analysis with Kirchhoff-Love elements.Comp Meth App Mech Eng198, 49 (2009), 3902 -- 3914.",
+                "DOI": "10.1016/j.cma.2009.08.013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-35",
+                "unstructured": "J. Kiendl, M. Hsu, M. Wu, and A. Reali. 2015. Isogeometric Kirchhoff-Love shell formulations for general hyperelastic materials.Comp Meth App Mech Eng291, Supplement C (2015), 280--303."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-36",
+                "unstructured": "G. Kl&#225;r, T. Gast, A. Pradhana, C. Fu, C. Schroeder, C.Jiang, and J. Teran. 2016. Drucker-Prager Elastoplasticity for Sand Animation.ACM Trans Graph35, 4 (2016), 103:1--103:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-37",
+                "unstructured": "D. Levin, J. Litven, G. Jones, S. Sueda, and D. Pai. 2011. Eulerian Solid Simulation with Contact.ACM Trans Graph30, 4 (2011), 36:1--36:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-38",
+                "unstructured": "D. Li, S. Sueda, D. Neog, and D. Pai. 2013. Thin Skin Elastodynamics.ACM Trans Graph32, 4 (2013), 49:1--49:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-39",
+                "unstructured": "Q. Long, P. Bornemann, and F. Cirak. 2012. Shear flexible subdivision shells.Int J Num Meth Eng90, 13 (2012), 1549--1577.",
+                "DOI": "10.1002/nme.3368",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-40",
+                "unstructured": "L. De Lorenzis, P. Wriggers, and T. Hughes. 2014. Isogeometric contact: a review.GAMM-Mitteilungen37, 1 (2014), 85--123.",
+                "DOI": "10.1002/gamm.201410005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-41",
+                "unstructured": "J. Lu. 2011. Isogeometric contact analysis: Geometric basis and formulation for frictionless contact.Comp Meth App Mech Eng200, 5 (2011), 726 -- 741.",
+                "DOI": "10.1016/j.cma.2010.10.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-42",
+                "unstructured": "J. Lu and C. Zheng. 2014. Dynamic cloth simulation by isogeometric analysis.Comp Meth App Mech Eng268, Supplement C (2014), 475 -- 493."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-43",
+                "unstructured": "X. Man and C. Swan. 2007. A mathematical modeling framework for analysis of functional clothing.J Eng Fibers Fabrics2, 3 (2007), 10--28. http://www.jeffjournal.org/papers/Volume2/Swan(6-14R1).pdf",
+                "DOI": "10.1177/155892500700200302",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-44",
+                "unstructured": "S. Martin, P. Kaufmann, M. Botsch, E. Grinspun, and M. Gross. 2010. Unified simulation of elastic rods, shells, and solids.ACM Trans Graph29, 4 (2010), 39:1--39:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-45",
+                "unstructured": "M. Matzen and M. Bischoff. 2016. A weighted point-based formulation for isogeometric contact.Comp Meth App Mech Eng308, Supplement C (2016), 73--95."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-46",
+                "unstructured": "M. Matzen, T. Cichosz, and M. Bischoff. 2013. A point to segment contact formulation for isogeometric, NURBS based finite elements.Comp Meth App Mech Eng255, Supplement C (2013), 27--39."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-47",
+                "unstructured": "A. McAdams, A. Selle, K. Ward, E. Sifakis, and J. Teran. 2009. Detail Preserving Continuum Simulation of Straight Hair.ACM Trans Graph28, 3 (2009), 62:1--62:6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-48",
+                "unstructured": "R. Mindlin. 1951. Influence of rotary inertia and shear on flexural motions of isotropic elastic plates.J App Mech18 (1951), 31--38."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-49",
+                "unstructured": "R. Narain, A. Golas, S. Curtis, and M. Lin. 2009. Aggregate Dynamics for Dense Crowd Simulation.ACM Trans Graph28, 5 (2009), 122:1--122:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-50",
+                "unstructured": "R. Narain, A. Golas, and M. Lin. 2010. Free-flowing granular materials with two-way solid coupling.ACM Trans Graph29, 6 (2010), 173:1--173:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-51",
+                "unstructured": "R. Narain, T. Pfaff and J. O'Brien. 2013. Folding and crumpling adaptive sheets.ACM Trans Graph32, 4 (July 2013), 51:1--51:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-52",
+                "unstructured": "L. Noels and R. Radovitzky. 2008. A new discontinuous Galerkin method for Kirchhoff-Love shells.Comp Meth App Mech Eng197 (2008), 2901--2929.",
+                "DOI": "10.1016/j.cma.2008.01.018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-53",
+                "unstructured": "M. Otaduy, R. Tamstorf, D. Steinemann, and M. Gross. 2009. Implicit Contact Handling for Deformable Objects.Comp Graph Forum28, 2 (2009).",
+                "DOI": "10.1111/j.1467-8659.2009.01396.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-54",
+                "unstructured": "E. Sifakis, S. Marino, and J. Teran. 2008. Globally Coupled Collision Handling Using Volume Preserving Impulses. InProc 2008 ACM SIGGRAPH/Eurographics Symp Comp Anim.147--153."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-55",
+                "unstructured": "J. Simo and D. Fox. 1989. On a stress resultant geometrically exact shell model. Part I: Formulation and optimal parametrization.Comp Meth App Mech Eng72, 3 (1989), 267 -- 304.",
+                "DOI": "10.1016/0045-7825(89)90002-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-56",
+                "unstructured": "Jos Stam. 1998. Exact evaluation of Catmull-Clark subdivision surfaces at arbitrary parameter values. InProceedings of the 25th annual conference on Computer graphics and interactive techniques.ACM, 395--404."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-57",
+                "unstructured": "A. Stomakhin, C. Schroeder, L. Chai, J. Teran, and A. Selle. 2013. A Material Point Method for snow simulation.ACM Trans Graph32, 4 (2013), 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-58",
+                "unstructured": "M. Tang, H. Wang, L. Tang, R. Tong, and D. Manocha. 2016. CAMA: Contact-Aware Matrix Assembly with Unified Collision Handling for GPU-based Cloth Simulation.Comp Graph Forum35, 2 (2016), 511--521."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-59",
+                "unstructured": "A. Temizer, P. Wriggers, and T. Hughes. 2011. Contact treatment in isogeometric analysis with NURBS.Comp Meth App Mech Eng200, 9 (2011), 1100 -- 1112.",
+                "DOI": "10.1016/j.cma.2010.11.020",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-60",
+                "unstructured": "Y. Teng, D. Levin, and T. Kim. 2016. Eulerian Solid-fluid Coupling.ACM Trans Graph35, 6 (2016), 200:1--200:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-61",
+                "unstructured": "D. Terzopoulos, J. Platt, A. Barr, and K. Fleischer. 1987. Elastically Deformable Models.SIGGRAPH Comput Graph21, 4 (1987), 205--214.",
+                "DOI": "10.1145/37402.37427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-62",
+                "unstructured": "B. Thomaszewski, M. Wacker, and W. Strasser. 2006. A consistent bending model for cloth simulation with corotational subdivision finite elements. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim.Eurographics Association, 107--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-63",
+                "unstructured": "A. Wawrzinek, K. Hildebrandt, and K. Polthier. 2011. Koiter's thin shells on Catmull-Clark limit surfaces. InVision, Modeling, and Visualization (2011), Peter Eisert, Joachim Hornegger, and Konrad Polthier (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-64",
+                "unstructured": "Y. Yue, B. Smith, C. Batty, C. Zheng, and E. Grinspun. 2015. Continuum foam: a material point method for shear-dependent flows.ACM Trans Graph34, 5 (2015), 160:1--160:20.",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201346-65",
+                "unstructured": "Y. Zhu and R. Bridson. 2005. Animating sand as a fluid.ACM Trans Graph24, 3 (2005), 965--972.",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201346&ftid=1991666&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:51Z",
+            "timestamp": 1571673531000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 65,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201346",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

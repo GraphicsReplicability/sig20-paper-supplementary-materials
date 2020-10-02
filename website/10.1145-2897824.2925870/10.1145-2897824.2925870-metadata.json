@@ -1,0 +1,348 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:30Z",
+            "timestamp": 1574815950071
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "NSERC",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "611370,2015-05407"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61522213,61528208,61379090"
+                ]
+            },
+            {
+                "name": "Guangdong Science and Technology Program",
+                "award": [
+                    "2015A030312015,2014B050502009,2014TX01X033"
+                ]
+            },
+            {
+                "name": "ISF-NSFC",
+                "award": [
+                    "2216/15"
+                ]
+            },
+            {
+                "name": "National 973 Program",
+                "award": [
+                    "2014CB360503,2015CB352501"
+                ]
+            },
+            {
+                "name": "Shenzhen Innovation Program",
+                "award": [
+                    "JCYJ20151015151249564"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925870",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Learning how objects function via co-analysis of interactions"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Ruizhen",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Oliver",
+                "family": "van Kaick",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carleton University"
+                    }
+                ]
+            },
+            {
+                "given": "Bojian",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "SIAT"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and SIAT"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925870-1",
+                "unstructured": "Bar-Aviv, E., and Rivlin, E. 2006. Functional 3D object classification using simulation of embodied agent. InBritish Machine Vision Conference, 32:1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-2",
+                "unstructured": "Breiman, L. 2001. Random forests.Machine learning 45, 1, 5--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-3",
+                "unstructured": "Chen, D.-Y., Tian, X.-P., Shen, Y.-T., and Ouhyoung, M. 2003. On visual similarity based 3D model retrieval.Computer Graphics Forum (Proc. of Eurographics) 22, 3, 223--232."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-4",
+                "unstructured": "Fish, N., Averkiou, M., van Kaick, O., Sorkine-Hornung, O., Cohen-Or, D., and Mitra, N. J. 2014. Meta-representation of shape families.ACM Trans. on Graphics 33, 4, 34:1--11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-5",
+                "unstructured": "Fisher, M., Ritchie, D., Savva, M., Funkhouser, T., and Hanrahan, P. 2012. Example-based synthesis of 3D object arrangements.ACM Trans. on Graphics 31, 6, 135:1--11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-6",
+                "unstructured": "Fisher, M., Li, Y., Savva, M., Hanrahan, P., and Niessner, M. 2015. Activity-centric scene synthesis for functional 3D scene modeling.ACM Trans. on Graphics 34, 6, 212:1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-7",
+                "unstructured": "Grabner, H., Gall, J., and Van Gool, L. 2011. What makes a chair a chair? InProc. IEEE Conf. on Computer Vision &#38; Pattern Recognition, 1529--1536."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-8",
+                "unstructured": "Greene, M. R., Baldassano, C., Beck, D. M., and Fei-Fei, L. 2016. Visual scenes are categorized by function.Journal of Experimental Psychology: General 145, 1, 82--94."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-9",
+                "unstructured": "Hu, R., Zhu, C., van Kaick, O., Liu, L., Shamir, A., and Zhang, H. 2015. Interaction context (ICON): Towards a geometric functionality descriptor.ACM Trans. on Graphics 34, 4, 83:1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-10",
+                "unstructured": "Kim, V. G., Chaudhuri, S., Guibas, L., and Funkhouser, T. 2014. Shape2Pose: Human-centric shape analysis.ACM Trans. on Graphics 33, 4, 120:1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-11",
+                "unstructured": "Laga, H., Mortara, M., and Spagnuolo, M. 2013. Geometry and context for semantic correspondence and functionality recognition in manmade 3D shapes.ACM Trans. on Graphics 32, 5, 150:1--16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-12",
+                "unstructured": "Mitra, N., Wand, M., Zhang, H., Cohen-Or, D., and Bokeloh, M. 2013. Structure-aware shape processing. InEurographics State-of-the-art Report (STAR).",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-13",
+                "unstructured": "Niu, B., Wang, J., and Wang, H. 2015. Bacterial-inspired algorithms for solving constrained optimization problems.Neurocomputing 148, 54--62."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-14",
+                "unstructured": "Savva, M., Chang, A. X., Hanrahan, P., Fisher, M., and Niessner, M. 2014. SceneGrok: Inferring action maps in 3D environments.ACM Trans. on Graphics 33, 6, 212:1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-15",
+                "unstructured": "Schmidt, M., van den Berg, E., Friedlander, M. P., and Murphy, K. 2009. Optimizing costly functions with simple constraints: A limited-memory projected quasi-Newton algorithm. InProc. Int. Conf. AI and Stat., 456--463."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-16",
+                "unstructured": "Schultz, M., and Joachims, T. 2004. Learning a distance metric from relative comparisons.Advances in neural information processing systems (NIPS), 41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-17",
+                "unstructured": "Shi, Y., Long, P., Xu, K., Huang, H., and Xiong, Y. 2016. Data-driven contextual modeling for 3D scene understanding.Computers &#38; Graphics 55, 55--67."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-18",
+                "unstructured": "Stark, L., and Bowyer, K. 1991. Achieving generalized object recognition through reasoning about association of function to structure.IEEE Trans. Pattern Analysis &#38; Machine Intelligence 13, 10, 1097--1104."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-19",
+                "unstructured": "Stark, L., and Bowyer, K. 1996.Generic Object Recognition Using Form and Function. World Scientific.",
+                "DOI": "10.1142/2123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-20",
+                "unstructured": "Xu, K., Ma, R., Zhang, H., Zhu, C., Shamir, A., Cohen-Or, D., and Huang, H. 2014. Organizing heterogeneous scene collection through contextual focal points.ACM Trans. on Graphics 33, 4, 35:1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-21",
+                "unstructured": "Yumer, M. E., Chaudhuri, S., Hodgins, J. K., and Kara, L. B. 2015. Semantic shape editing using deformation handles.ACM Trans. on Graphics 34, 4, 86:1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-22",
+                "unstructured": "Zhao, X., Wang, H., and Komura, T. 2014. Indexing 3D scenes using the interaction bisector surface.ACM Trans. on Graphics 33, 3, 22:1--14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-23",
+                "unstructured": "Zhu, P., Hu, Q., Zuo, W., and Yang, M. 2014. Multi-granularity distance metric learning via neighborhood granule margin maximization.Information Sciences 282, 321--331."
+            },
+            {
+                "key": "key-10.1145/2897824.2925870-24",
+                "unstructured": "Zhu, Y., Fathi, A., and Fei-Fei, L. 2014. Reasoning about object affordances in a knowledge base representation. InProc. Euro. Conf. on Computer Vision.",
+                "DOI": "10.1007/978-3-319-10605-2_27",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925870&amp;ftid=1755840&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:38:28Z",
+            "timestamp": 1568162308000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925870",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

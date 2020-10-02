@@ -1,0 +1,486 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410104
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000181",
+                "name": "Air Force Office of Scientific Research",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "FA9550-12-1-0372"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "ONR MURI",
+                "award": [
+                    "N00014-13-1-0341"
+                ]
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "DMS 1228304, CCF 1161480, IIS-1251217, CNS-0831374"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601117",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 36,
+        "title": [
+            "Shape2Pose"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Vladimir G.",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Siddhartha",
+                "family": "Chaudhuri",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Leonidas",
+                "family": "Guibas",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Thomas",
+                "family": "Funkhouser",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601117-1",
+                "unstructured": "Bard, C., and Troccaz, J. 1990. Automatic preshaping for a dextrous hand from a simple description of objects.Intelligent Robots and Systems, 865--872."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-2",
+                "unstructured": "Bohg, J., Morales, A., Asfour, T., and Kragic, D. 2013. Data driven grasp synthesis - a survey.IEEE Transactions on Robotics.",
+                "DOI": "10.1109/TRO.2013.2289018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-3",
+                "unstructured": "Breiman, L. 2001. Random forests.Mach. Learning 45, 1, 5--32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-4",
+                "unstructured": "Buss, S. R. 2005. Introduction to inverse kinematics with jacobian transpose, pseudoinverse and damped least squares methods.Unpublished survey."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-5",
+                "unstructured": "Chaudhuri, S., Kalogerakis, E., Guibas, L., and Koltun, V. 2011. Probabilistic reasoning for assembly-based 3D modeling.SIGGRAPH, 35:1--35:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-6",
+                "unstructured": "Chen, X., Saparov, A., Pang, B., and Funkhouser, T. 2012. Schelling points on 3D surface meshes.SIGGRAPH 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-7",
+                "unstructured": "Delaitre, V., Fouhey, D., Laptev, I., Sivic, J., Gupta, A., and Efros, A. 2012. Scene semantics from long-term observation of people. InECCV.",
+                "DOI": "10.1007/978-3-642-33783-3_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-8",
+                "unstructured": "Feix, T., Romero, J., Ek, C., Schmiedmayer, H., and Kragic, D. 2013. A metric for comparing the anthropomorphic motion capability of artificial hands.IEEE Transactions on Robotics 29, 1, 82--93.",
+                "DOI": "10.1109/TRO.2012.2217675",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-9",
+                "unstructured": "Fouhey, D. F., Delaitre, V., Gupta, A., Efros, A. A., Laptev, I., and Sivic, J. 2012. People watching: Human actions as a cue for single-view geometry. InECCV.",
+                "DOI": "10.1007/978-3-642-33715-4_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-10",
+                "unstructured": "Fritz, G., Paletta, L., Breithaupt, R., and Rome, E. 2006. Learning predictive features in affordance based robotic perception systems. InIntelligent Robots and Systems, 3642--3647."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-11",
+                "unstructured": "Fu, H., Cohen-Or, D., Dror, G., and Sheffer, A. 2008. Upright orientation of man-made objects.SIGGRAPH.",
+                "DOI": "10.1145/1399504.1360641",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-12",
+                "unstructured": "Gal, R., and Cohen-Or, D. 2006. Salient geometric features for partial shape matching and similarity.ACM Trans. Graph.",
+                "DOI": "10.1145/1122501.1122507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-13",
+                "unstructured": "Gal, R., Sorkine, O., Mitra, N. J., and Cohen-Or, D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation.SIGGRAPH 28, 3, #33, 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-14",
+                "unstructured": "Gibson, J. J. 1977. The theory of affordances.Lawrence Erlbaum."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-15",
+                "unstructured": "Goldfeder, C., and Allen, P. K. 2011. Data-driven grasping.Auton. Robots 31, 1, 1--20.",
+                "DOI": "10.1007/s10514-011-9228-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-16",
+                "unstructured": "Golovinskiy, A., and Funkhouser, T. 2009. Consistent segmentation of 3D models.Proc. SMI 33, 3, 262--269."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-17",
+                "unstructured": "Grabner, H., Gall, J., and van Gool, L. 2011. What makes a chair a chair?CVPR.",
+                "DOI": "10.1109/CVPR.2011.5995327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-18",
+                "unstructured": "Gupta, A., Satkin, S., Efros, A. A., and Hebert, M. 2011. From 3D scene geometry to human workspace. InIEEE CVPR.",
+                "DOI": "10.1109/CVPR.2011.5995448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-19",
+                "unstructured": "Hermans, T., Rehg, J. M., and Bobick, A. 2011. Affordance prediction via learned object attributes.ICRA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-20",
+                "unstructured": "Huang, Q., Koltun, V., and Guibas, L. 2011. Joint shape segmentation with linear programming. InSIGGRAPH Asia.",
+                "DOI": "10.1145/2024156.2024159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-21",
+                "unstructured": "Huang, Q.-x., Zhang, G.-X., Gao, L., Hu, S.-M., Butscher, A., and Guibas, L. 2012. An optimization approach for extracting and encoding consistent maps.SIGGRAPH Asia.",
+                "DOI": "10.1145/2366145.2366186",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-22",
+                "unstructured": "Huang, Q., Su, H., and Guibas, L. 2013. Fine-grained semi-supervised labeling of large shape collections.SIGGRAPH Asia.",
+                "DOI": "10.1145/2508363.2508364",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-23",
+                "unstructured": "Jiang, Y., and Saxena, A. 2012. Hallucinating humans for learning robotic placement of objects.ISER.",
+                "DOI": "10.1007/978-3-319-00065-7_61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-24",
+                "unstructured": "Jiang, Y., and Saxena, A. 2013. Infinite latent conditional random fields for modeling environments through humans.RSS.",
+                "DOI": "10.15607/RSS.2013.IX.034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-25",
+                "unstructured": "Jiang, Y., Lim, M., and Saxena, A. 2012. Learning object arrangements in 3D scenes using human context.ICML."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-26",
+                "unstructured": "Jiang, Y., Koppula, H. S., and Saxena, A. 2013. Hallucinated humans as the hidden context for labeling 3D scenes.CVPR.",
+                "DOI": "10.1109/CVPR.2013.385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-27",
+                "unstructured": "Kalogerakis, E., Hertzmann, A., and Singh, K. 2010. Learning 3D mesh segmentation and labeling. InSIGGRAPH.",
+                "DOI": "10.1145/1833349.1778839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-28",
+                "unstructured": "Kalogerakis, E., Chaudhuri, S., Koller, D., and Koltun, V. 2012. A probabilistic model for component-based shape synthesis.SIGGRAPH.",
+                "DOI": "10.1145/2185520.2335406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-29",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N., DiVerdi, S., and Funkhouser, T. 2012. Exploring collections of 3D models using fuzzy correspondences.SIGGRAPH.",
+                "DOI": "10.1145/2185520.2185550",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-30",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N. J., Chaudhuri, S., DiVerdi, S., and Funkhouser, T. 2013. Learning part-based templates from large collections of 3D shapes.SIGGRAPH.",
+                "DOI": "10.1145/2461912.2461933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-31",
+                "unstructured": "Lee, C., Varshney, A., and Jacobs, D. 2005. Mesh saliency.SIGGRAPH.",
+                "DOI": "10.1145/1186822.1073244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-32",
+                "unstructured": "Lenz, I., Lee, H., and Saxena, A. 2013. Deep learning for detecting robotic grasps. InRSS.",
+                "DOI": "10.15607/RSS.2013.IX.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-33",
+                "unstructured": "Mitra, N. J., Pauly, M., Wand, M., and Ceylan, D. 2012. Symmetry in 3D geometry: Extraction and applications. InEUROGRAPHICS State-of-the-art Report.",
+                "DOI": "10.1111/cgf.12010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-34",
+                "unstructured": "Mitra, N. J., Wand, M., Zhang, H., Cohen-Or, D., Kim, V., and Huang, Q.-X. 2013. Structure-aware shape processing. InCourses Siggraph Asia.",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-35",
+                "unstructured": "Norman, D. 1988.The Psychology of Everyday Things. Basic Books."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-36",
+                "unstructured": "Ovsjanikov, M., Li, W., Guibas, L., and Mitra, N. J. 2011. Exploration of continuous variability in collections of 3D shapes.SIGGRAPH 30, 4, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-37",
+                "unstructured": "Podolak, J., Shilane, P., Golovinskiy, A., Rusinkiewicz, S., and Funkhouser, T. 2006. A planar-reflective symmetry transform for 3D shapes.ACM Trans. Graph. 25, 3.",
+                "DOI": "10.1145/1141911.1141923",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-38",
+                "unstructured": "Pollard, N. S., and Zordan, V. B. 2005. Physically based grasping control from example.SCA.",
+                "DOI": "10.1145/1073368.1073413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-39",
+                "unstructured": "Przybylski, M., Wachter, M., Asfour, T., and Dillmann, R. 2012. A skeleton-based approach to grasp known objects with a humanoid robot.Humanoid Robots.",
+                "DOI": "10.1109/HUMANOIDS.2012.6651547",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-40",
+                "unstructured": "Rosales, C., Porta, J., and Ros, L. 2011. Global optimization of robotic grasps.RSS.",
+                "DOI": "10.15607/RSS.2011.VII.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-41",
+                "unstructured": "Saxena, A., Driemeyer, J., Kearns, J., and Ng, A. 2006. Robotic grasping of novel objects. InNIPS."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-42",
+                "unstructured": "Saxena, A. 2009.Monocular depth perception and robotic grasping of novel objects. PhD thesis, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-43",
+                "unstructured": "Secord, A., Lu, C., Finkelstein, A., Singh, M., and Nealen, A. 2011. Perceptual models of viewpoint preference.ACM Trans. Graph. 50, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-44",
+                "unstructured": "Shapira, L., Shamir, A., and Cohen-Or, D. 2008. Consistent mesh partitioning and skeletonisation using the shape diameter function.Vis. Comput. 24, 4, 249--259.",
+                "DOI": "10.1007/s00371-007-0197-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-45",
+                "unstructured": "Shilane, P., and Funkhouser, T. 2007. Distinctive regions of 3d surfaces.ACM Trans. Graph. 26, 2 (June).",
+                "DOI": "10.1145/1243980.1243981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-46",
+                "unstructured": "Sidi, O., van Kaick, O., Kleiman, Y., Zhang, H., and Cohen-Or, D. 2011. Unsupervised co-segmentation of a set of shapes via descriptor-space spectral clustering.SIGGRAPH Asia 30, 6, 126:1--126:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-47",
+                "unstructured": "Stark, M., Lies, P., Zillich, M., Wyatt, J., and Schiele, B. 2008. Functional object class detection based on learned affordance cues.Computer Vision Systems.",
+                "DOI": "10.1007/978-3-540-79547-6_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-48",
+                "unstructured": "Sun, J., Moore, J. L., Bobick, A., and Rehg, J. M. 2009. Learning visual object categories for robot affordance prediction.The International Journal of Robotics Research."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-49",
+                "unstructured": "Trimble, 2013. Trimble 3D warehouse, http://sketchup.google.com/3dwarehouse/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-50",
+                "unstructured": "van Kaick, O., Xu, K., Zhang, H., Wang, Y., Sun, S., Shamir, A., and Cohen-Or, D. 2013. Co-hierarchical analysis of shape structures.SIGGRAPH 32, 4, 69:1--69:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-51",
+                "unstructured": "Wei, P., Zhao, Y. B., Zheng, N., and Zhu, S. 2013. Modeling 4D human-object interactions for event and object recognition.ICCV.",
+                "DOI": "10.1109/ICCV.2013.406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-52",
+                "unstructured": "Ying, L., Fu, J. L., and Pollard, N. S. 2007. Data-driven grasp synthesis using shape matching and task-based pruning.Transactions on Visualization and Computer Graphics 13, 4, 732--747.",
+                "DOI": "10.1109/TVCG.2007.1033",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601117-53",
+                "unstructured": "Zhao, W., Zhang, J., Min, J., and Chai, J. 2013. Robust realtime physically based motion control for human grasping. InSIGGRAPH Asia.",
+                "DOI": "10.1145/2508363.2508412",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601117&amp;ftid=1488928&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:50Z",
+            "timestamp": 1565663750000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "human-centric shape analysis"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601117",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

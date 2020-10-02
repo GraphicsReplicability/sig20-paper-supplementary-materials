@@ -1,0 +1,107 @@
+{
+    "Timestamp": "1/13/2020 17:30:20",
+    "Title": "Schr\u00f6dinger's Smoke",
+    "DOI": "10.1145/2897824.2925868",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Matlab / Mathematica / .., Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://page.math.tu-berlin.de/~chern/projects/SchrodingersSmoke/SchrodingersSmokeCode.zip",
+    "code URL  2": "",
+    "PDF URL": "http://multires.caltech.edu/pubs/SchrodingersSmoke.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Physics",
+    "ACM 2": "Partial differential equations",
+    "ACM 3": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The matlab scripts work out of the box. The houdini file for each figure of the paper are provided. In my houdini only the particle view was possible so the rendering was not as nice as the ones in the paper but the geometry was consistent.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 21,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab/houdini",
+    "Project URL": "http://page.math.tu-berlin.de/~chern/projects/SchrodingersSmoke/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Albert",
+            "family": "Chern",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Caltech"
+                }
+            ]
+        },
+        {
+            "given": "Felix",
+            "family": "Kn\u00f6ppel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "TU Berlin"
+                }
+            ]
+        },
+        {
+            "given": "Ulrich",
+            "family": "Pinkall",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "TU Berlin"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Schr\u00f6der",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Caltech"
+                }
+            ]
+        },
+        {
+            "given": "Steffen",
+            "family": "Wei\u00dfmann",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Inc."
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 10,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=10&types=mmmmtttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=10137977"
+}

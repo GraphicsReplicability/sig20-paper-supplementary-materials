@@ -1,0 +1,294 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    4
+                ]
+            ],
+            "date-time": "2020-01-04T05:03:25Z",
+            "timestamp": 1578114205454
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Columbia Junior Faculty Startup Fund",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601187",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Fast multipole representation of diffusion curves and points"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Timothy",
+                "family": "Sun",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Papoj",
+                "family": "Thamjaroenporn",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601187-1",
+                "unstructured": "Abraham, R., 2010. Strange attractors, http://www.chaoscope.org."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-2",
+                "unstructured": "Agarwala, A., Dontcheva, M., Agrawala, M., Drucker, S., Colburn, A., Curless, B., S alesin, D., and Cohen, M. 2004. Interactive digital photomontage.ACM Trans. Graph. (SIGGRAPH 2004) 23, 3 (Aug.), 294--302."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-3",
+                "unstructured": "Bezerra, H., Eisemann, E., DeCarlo, D., and Thollot, J. 2010. Diffusion constraints for vector graphics. InProceedings of the 8th International Symposium on Non-Photorealistic Animation and Rendering, ACM, 35--42."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-4",
+                "unstructured": "Bowers, J. C., Leahey, J., and Wang, R. 2011. A ray tracing approach to diffusion curves. InComputer Graphics Forum, vol. 30, Wiley Online Library, 1345--1352."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-5",
+                "unstructured": "Boy&#233;, S., Barla, P., and Guennebaud, G. 2012. A vectorial solver for free-form vector gradients.ACM Trans. Graph. 31, 6 (Nov.), 173:1--173:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-6",
+                "unstructured": "Brochu, T., Keeler, T., and Bridson, R. 2012. Linear-time smoke animation with vortex sheet meshes. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '12, 87--95."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-7",
+                "unstructured": "Farbman, Z., Hoffer, G., Lipman, Y., Cohen-Or, D., and Lischinski, D. 2009. Coordinates for instant image cloning.ACM Trans. Graph. (SIGGRAPH 2009) 28, 3 (July), 67:1--67:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-8",
+                "unstructured": "Finch, M., Snyder, J., and Hoppe, H. 2011. Freeform vector graphics with controlled thin-plate splines.ACM Trans. Graph. (SIGGRAPH Asia 2011) 30, 6 (Dec.), 166:1--166:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-9",
+                "unstructured": "Greengard, L., and Rokhlin, V. 1987. A fast algorithm for particle simulations.J. Comput. Phys. 73, 2 (Dec.), 325--348."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-10",
+                "unstructured": "Greengard, L., and Strain, J. 1991. The fast gauss transform.SIAM J. Sci. Stat. Comput. 12, 1 (Jan.), 79--94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-11",
+                "unstructured": "Gumerov, N. A., and Duraiswami, R. 2006. Fast multipole method for the biharmonic equation in three dimensions.Journal of Computational Physics 215, 1, 363--383.",
+                "DOI": "10.1016/j.jcp.2005.10.029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-12",
+                "unstructured": "Hanrahan, P., Salzman, D., and Aupperle, L. 1991. A rapid hierarchical radiosity algorithm.SIGGRAPH Comput. Graph. 25, 4 (July), 197--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-13",
+                "unstructured": "Ilbery, P., Kendall, L., Concolato, C., and McCosker, M. 2013. Biharmonic diffusion curve images from boundary elements.ACM Trans. Graph. (SIGGRAPH Asia 2013) 32, 6 (Nov.), 219:1--219:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-14",
+                "unstructured": "Jeschke, S., Cline, D., and Wonka, P. 2009. A gpu laplacian solver for diffusion curves and poisson image editing.ACM Trans. Graph. (SIGGRAPH Asia 2009) 28, 5 (Dec.), 116:1--116:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-15",
+                "unstructured": "Kemp, M. 1998. Attractive attractors.Nature 394, 627 (Aug.).",
+                "DOI": "10.1038/29195",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-16",
+                "unstructured": "Lefebvre, S., and Hoppe, H. 2005. Parallel controllable texture synthesis.ACM Trans. Graph. 24, 3 (July), 777--786."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-17",
+                "unstructured": "Li, Y., Sharan, L., and Adelson, E. H. 2005. Compressing and companding high dynamic range images with subband architectures.ACM Trans. Graph. (SIGGRAPH 2005) 24, 3 (July), 836--844."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-18",
+                "unstructured": "Liu, Y., and Nishimura, N. 2006. The fast multipole boundary element method for potential problems: a tutorial.Engineering Analysis with Boundary Elements 30, 5, 371--381.",
+                "DOI": "10.1016/j.enganabound.2005.11.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-19",
+                "unstructured": "Munkberg, J., Clarberg, P., Hasselgren, J., and Akenine-M&#246;ller, T. 2006. High dynamic range texture compression for graphics hardware.ACM Trans. Graph. 25, 3 (July), 698--706."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-20",
+                "unstructured": "Orzan, A., Bousseau, A., Winnem&#246;ller, H., Barla, P., Thollot, J., and Salesin, D. 2008. Diffusion curves: A vector representation for smooth-shaded images.ACM Trans. on Graphics (SIGGRAPH 2008) 27, 3 (Aug.), 92:1--92:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-21",
+                "unstructured": "Pang, W.-M., Qin, J., Cohen, M., Heng, P.-A., and Choi, K.-S. 2012. Fast rendering of diffusion curves with triangles.IEEE Computer Graphics and Applications 32, 4, 68--78.",
+                "DOI": "10.1109/MCG.2011.86",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-22",
+                "unstructured": "P&#233;rez, P., Gangnet, M., and Blake, A. 2003. Poisson image editing.ACM Trans. Graph. (SIGGRAPH 2003) 22, 3 (July), 313--318."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-23",
+                "unstructured": "Porter, T., and Duff, T. 1984. Compositing digital images. InACM Siggraph Computer Graphics, vol. 18, ACM, 253--259."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-24",
+                "unstructured": "Sun, X., Xie, G., Dong, Y., Lin, S., Xu, W., Wang, W., Tong, X., and Guo, B. 2012. Diffusion curve textures for resolution independent texture mapping.ACM Trans. Graph. (SIGGRAPH 2012) 31, 4 (July).",
+                "DOI": "10.1145/2185520.2335425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-25",
+                "unstructured": "Takayama, K., Sorkine, O., Nealen, A., and Igarashi, T. 2010. Volumetric modeling with diffusion surfaces.ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 29, 6, 180:1--180:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-26",
+                "unstructured": "Zheng, C., and James, D. L. 2010. Rigid-body fracture sound with precomputed soundbanks.ACM Transactions on Graphics 29, 4 (July), 69:1--69:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601187-27",
+                "unstructured": "Zheng, C., and James, D. L. 2011. Toward high-quality modal contact sound.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2011) 30, 4 (Aug.).",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601187&amp;ftid=1488861&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:35Z",
+            "timestamp": 1565663675000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601187",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "Timestamp": "12/30/2019 2:11:49",
+    "Title": "Physics-driven pattern adjustment for direct 3D garment editing",
+    "DOI": "10.1145/2897824.2925896",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://www.cs.ubc.ca/labs/imager/tr/2016/PhysicsDrivenPatternAdjustment/hybrids.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 34,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://www.cs.ubc.ca/labs/imager/tr/2016/PhysicsDrivenPatternAdjustment/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Aric",
+            "family": "Bartle",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Alla",
+            "family": "Sheffer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Vladimir G.",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Danny M.",
+            "family": "Kaufman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Nicholas",
+            "family": "Vining",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Floraine",
+            "family": "Berthouzoz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

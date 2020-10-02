@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813578
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CR-PLAY (611089), DREAMSPACE (610005)"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000266",
+                "name": "Engineering and Physical Sciences Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAMERA (EP/M023281/1), OAK (EP/K023578/1, EP/K02339X/1)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925973",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Roto++"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Wenbin",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Fabio",
+                "family": "Viola",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Foundry"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Starck",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Foundry"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriel J.",
+                "family": "Brostow",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Neill D. F.",
+                "family": "Campbell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bath"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925973-1",
+                "unstructured": "Agarwal, S., Mierle, K., and Others, 2015. Ceres solver. http://ceres-solver.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-2",
+                "unstructured": "Agarwala, A., Hertzmann, A., Salesin, D. H., and Seitz, S. M. 2004. Keyframe-based tracking for rotoscoping and animation.ACM Trans. on Graphics 23, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-3",
+                "unstructured": "Bai, X., and Sapiro, G. 2007. A geodesic framework for fast interactive image and video segmentation and matting. InIEEE Int. Conf. on Computer Vision (ICCV).",
+                "DOI": "10.21236/ADA478319",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-4",
+                "unstructured": "Bai, X., Wang, J., Simons, D., and Sapiro, G. 2009. Video snapcut: Robust video object cutout using localized classifiers.ACM Trans. on Graphics 28, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-5",
+                "unstructured": "Baker, S., and Matthews, I. 2004. Lucas-kanade 20 years on: A unifying framework. Int.Journal of Computer Vision 56, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-6",
+                "unstructured": "Baumberg, A. M., and Hogg, D. C. 1994. An efficient method for contour tracking using active shape models. InIEEE Workshop on Motion of Nonrigid and Articulated Objects, 194--199."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-7",
+                "unstructured": "Benhimane, S., and Malis, E. 2004. Real-time image-based tracking of planes using efficient second-order minimization. InIEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS), vol. 1, 943--948.",
+                "DOI": "10.1109/IROS.2004.1389474",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-8",
+                "unstructured": "Blender Online Community. 2015.Blender - a 3D modelling and rendering package. Blender Foundation."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-9",
+                "unstructured": "Boykov, Y. Y., and Jolly, M.-P. 2001. Interactive graph cuts for optimal boundary amp; region segmentation of objects in n-d images. In IEEE Int.Conf. on Computer Vision (ICCV), vol. 1, 105--112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-10",
+                "unstructured": "Bratt, B. 2011.Rotoscoping: Techniques and Tools for the Aspiring Artist. Taylor &#38; Francis.",
+                "DOI": "10.4324/9780240817057",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-11",
+                "unstructured": "Campbell, N. D. F., and Kautz, J. 2014. Learning a manifold of fonts.ACM Trans. on Graphics 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-12",
+                "unstructured": "Chuang, Y.-Y., Agarwala, A., Curless, B., Salesin, D. H., and Szeliski, R. 2002. Video matting of complex scenes.ACM Trans. on Graphics 21, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-13",
+                "unstructured": "Cootes, T. F., Taylor, C. J., Cooper, D. H., and Graham, J. 1995. Active shape models and their training and application.Computer Vision and Image Understanding 61, 1, 38--59."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-14",
+                "unstructured": "Criminisi, A., Sharp, T., Rother, C., and P&#233;rez, P. 2010. Geodesic image and video editing.ACM Trans. on Graphics 29, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-15",
+                "unstructured": "Dame, A., Prisacariu, V. A., Ren, C. Y., and Reid, I. 2013. Dense reconstruction using 3D object shape priors. InIEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2013.170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-16",
+                "unstructured": "Erofeev, M., Gitman, Y., Vatolin, D., Fedorov, A., and Wang, J. 2015. Perceptually motivated benchmark for video matting. InBritish Machine Vision Conference (BMVC).",
+                "DOI": "10.5244/C.29.99",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-17",
+                "unstructured": "Fan, Q., Zhong, F., Lischinski, D., Cohen-Or, D., and Chen, B. 2015. JumpCut: non-successive mask transfer and interpolation for video cutout.ACM Trans. on Graphics 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-18",
+                "unstructured": "Grochow, K., Martin, S. L., Hertzmann, A., and Popovi&#263;, Z. 2004. Style-based inverse kinematics.ACM Trans. on Graphics 23, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-19",
+                "unstructured": "Grundmann, M., Kwatra, V., Han, M., and Essa, I. 2010. Efficient hierarchical graph based video segmentation.IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2010.5539893",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-20",
+                "unstructured": "Kwatra, V., Sch&#246;dl, A., Essa, I., Turk, G., and Bobick, A. 2003. Graphcut textures: image and video synthesis using graph cuts.ACM Trans. on Graphics 22, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-21",
+                "unstructured": "Lawrence, N. 2005. Probabilistic non-linear principal component analysis with gaussian process latent variable models.Journal of Machine Learning Research 6, 1783--1816."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-22",
+                "unstructured": "Lebeda, K., Hadfield, S., Matas, J., and Bowden, R. 2016. Texture-independent long-term tracking using virtual corners.IEEE Trans. on Image Processing 25, 1, 359--371."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-23",
+                "unstructured": "Levin, A., Lischinski, D., and Weiss, Y. 2008. A closed-form solution to natural image matting.IEEE Trans. on Pattern Analysis and Machine Intelligence 30, 2, 228--242."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-24",
+                "unstructured": "Li, Y., Sun, J., and Shum, H.-Y. 2005. Video object cut and paste. ACM Trans. on Graphics 24, 3.",
+                "DOI": "10.1145/1073204.1073234",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-25",
+                "unstructured": "Loper, M. M., Mahmood, N., and Black, M. J. 2014. MoSh: Motion and shape capture from sparse markers.ACM Trans. on Graphics 33, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-26",
+                "unstructured": "Lucas, B. D., and Kanade, T. 1981. An iterative image registration technique with an application to stereo vision. InInt. Joint Conf. on AI, vol. 2, 674--679."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-27",
+                "unstructured": "Mortensen, E. N., and Barrett, W. A. 1995. Intelligent scissors for image composition. InProc. of SIGGRAPH, ACM, 191--198.",
+                "DOI": "10.1145/218380.218442",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-28",
+                "unstructured": "Prisacariu, V. A., and Reid, I. 2011. Nonlinear shape manifolds as shape priors in level set segmentation and tracking. InIEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2011.5995687",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-29",
+                "unstructured": "Rasmussen, C. E., and Williams, C. 2006.Gaussian Processes for Machine Learning. MIT Press.",
+                "DOI": "10.7551/mitpress/3206.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-30",
+                "unstructured": "Rhemann, C., Rother, C., Wang, J., Gelautz, M., Kohli, P., and Rott, P. 2009. A perceptually motivated online benchmark for image matting. InIEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2009.5206503",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-31",
+                "unstructured": "Rother, C., Kolmogorov, V., and Blake, A. 2004. \"Grab-Cut\": Interactive foreground extraction using iterated graph cuts.ACM Trans. on Graphics 23, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-32",
+                "unstructured": "Rzeszutek, R., El-Maraghi, T., and Androutsos, D. 2009. Interactive rotoscoping through scale-space random walks. InIEEE Int. Conf. on Multimedia and Expo (ICME), 1334--1337."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-33",
+                "unstructured": "Santosa, S., Chevalier, F., Balakrishnan, R., and Singh, K. 2013. Direct space-time trajectory control for visual media editing. InACM SIGCHI Conf. on Human Factors in Computing Systems, 1149--1158."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-34",
+                "unstructured": "SilhouetteFX.Silhouette 5.2 User Guide 2014."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-35",
+                "unstructured": "Smith, A. R., and Blinn, J. F. 1996. Blue screen matting. InProc. of SIGGRAPH, ACM, 259--268.",
+                "DOI": "10.1145/237170.237263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-36",
+                "unstructured": "Su, Q., Li, W. H. A., Wang, J., and Fu, H. 2014. EZ-Sketching: Three-level optimization for error-tolerant image tracing.ACM Trans. on Graphics 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-37",
+                "unstructured": "Subr, K., Paris, S., Soler, C., and Kautz, J. 2013. Accurate binary image selection from inaccurate user input.Computer Graphics Forum 32, 2, 41--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-38",
+                "unstructured": "Titsias, M., and Lawrence, N. 2010. Bayesian gaussian process latent variable model. InProc. of 13thInt. Workshop on AI and Stats."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-39",
+                "unstructured": "Torresani, L., Yang, D. B., Alexander, E. J., and Bregler, C. 2001. Tracking and modeling non-rigid objects with rank constraints. InIEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-40",
+                "unstructured": "Torresani, L., Hertzmann, A., and Bregler, C. 2008. Nonrigid structure-from-motion: Estimating shape and motion with hierarchical priors.IEEE Trans. on Pattern Analysis and Machine Intelligence 30, 5, 878--892."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-41",
+                "unstructured": "Tsai, D., Flagg, M., Nakazawa, A., and Rehg, J. M. 2012. Motion coherent tracking using multi-label mrf optimization.Int. Journal of Computer Vision 100, 2, 190--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-42",
+                "unstructured": "Turmukhambetov, D., Campbell, N. D. F., Goldman, D. B., and Kautz, J. 2015. Interactive sketch-driven image synthesis.Computer Graphics Forum 34, 8, 130--142."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-43",
+                "unstructured": "Wang, J., and Cohen, M. F. 2007. Image and video matting: A survey.ACM Foundations and Trends in Computer Graphics and Vision 3, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-44",
+                "unstructured": "Wang, T., and Collomosse, J. 2012. Probabilistic motion diffusion of labeling priors for coherent video segmentation.IEEE Trans. on Multimedia 14, 2, 389--400."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-45",
+                "unstructured": "Wang, J., Bhat, P., Colburn, R. A., Agrawala, M., and Cohen, M. F. 2005. Interactive video cutout.ACM Trans. on Graphics 24, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925973-46",
+                "unstructured": "Wang, J., Agrawala, M., and Cohen, M. F. 2007. Soft scissors: An interactive tool for realtime high quality matting.ACM Trans. on Graphics 26, 3."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925973&amp;ftid=1755865&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:42:06Z",
+            "timestamp": 1568162526000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "accelerating professional rotoscoping using shape manifolds"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925973",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

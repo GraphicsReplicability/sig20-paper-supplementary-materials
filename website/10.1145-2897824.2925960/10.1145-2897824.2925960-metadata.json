@@ -1,0 +1,446 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    26
+                ]
+            ],
+            "date-time": "2019-12-26T15:03:12Z",
+            "timestamp": 1577372592557
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAREER-1453101"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925960",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+            "Acoustic voxels"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Dingzeyu",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925960-1",
+                "unstructured": "Allen, A., and Raghuvanshi, N. 2015. Aerophones in flatland: Interactive wave simulation of wind instruments.ACM Trans. Graph. 34, 4 (July).",
+                "DOI": "10.1145/2767001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-2",
+                "unstructured": "Angell, T., Jiang, X., and Kleinman, R. 1997. A distributed source method for inverse acoustic scattering.Inverse Problems 13, 2, 531."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-3",
+                "unstructured": "Aubry, J.-P. 2013.Beginning with Code_Aster. Framasoft."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-4",
+                "unstructured": "Barbi&#269;, J., da Silva, M., and Popovi&#263;, J. 2009. Deformable object animation using reduced optimal control.ACM Trans. Graph. 28, 3 (July).",
+                "DOI": "10.1145/1531326.1531359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-5",
+                "unstructured": "Bharaj, G., Levin, D. I. W., Tompkin, J., Fei, Y., Pfister, H., Matusik, W., and Zheng, C. 2015. Computational design of metallophone contact sounds.ACM Trans. Graph. 34, 6 (Oct.).",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-6",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Trans. Graph. 29, 4 (July).",
+                "DOI": "10.1145/1833351.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-7",
+                "unstructured": "Braden, A. C., Newton, M. J., and Campbell, D. M. 2009. Trombone bore optimization based on input impedance targets.The Journal of the Acoustical Society of America 125, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-8",
+                "unstructured": "Caloz, C., and Itoh, T. 2005.Electromagnetic metamaterials: transmission line theory and microwave applications.John Wiley &#38; Sons.",
+                "DOI": "10.1002/0471754323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-9",
+                "unstructured": "Chiu, M.-C. 2010. Shape optimization of multi-chamber mufflers with plug-inlet tube on a venting process by genetic algorithms.Applied Acoustics 71, 6, 495--505."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-10",
+                "unstructured": "Christopoulos, C. 2006.The Transmission-Line Modeling (TLM) Method in Electromagnetics. Morgan &#38; Claypool Publishers."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-11",
+                "unstructured": "De Lima, K. F., Lenzi, A., and Barbieri, R. 2011. The study of reactive silencers by shape and parametric optimization techniques.Applied Acoustics 72, 4, 142--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-12",
+                "unstructured": "Dokmani&#263;, I., Parhizkar, R., Walther, A., Lu, Y. M., and Vetterli, M. 2013. Acoustic echoes reveal room shape.Proceedings of the National Academy of Sciences 110, 30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-13",
+                "unstructured": "Feij&#243;o, G. R., Oberai, A. A., and Pinsky, P. M. 2004. An application of shape optimization in the solution of inverse acoustic scattering problems.Inverse problems 20, 1, 199."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-14",
+                "unstructured": "Funkhouser, T., Carlbom, I., Elko, G., Pingali, G., Sondhi, M., and West, J. 1998. A beam tracing approach to acoustic modeling for interactive virtual environments. InProc. of SIGGRAPH 98.",
+                "DOI": "10.1145/280814.280818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-15",
+                "unstructured": "Funkhouser, T. A., Min, P., and Carlbom, I. 1999. Realtime acoustic modeling for distributed virtual environments. InProc. of SIGGRAPH 99.",
+                "DOI": "10.1145/311535.311590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-16",
+                "unstructured": "H&#228;m&#228;l&#228;inen, P., Eriksson, S., Tanskanen, E., Kyrki, V., and Lehtinen, J. 2014. Online motion synthesis using sequential monte carlo.ACM Trans. Graph. 33, 4 (July).",
+                "DOI": "10.1145/2601097.2601218",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-17",
+                "unstructured": "Ingard, U. 2009.Noise reduction analysis.Jones &#38; Bartlett Publishers."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-18",
+                "unstructured": "James, D. L., Barbic, J., and Pai, D. K. 2006. Precomputed acoustic transfer: Output-sensitive, accurate sound generation for geometrically complex vibration sources.ACM Trans. Graph. 25, 3 (July).",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-19",
+                "unstructured": "Kac, M. 1966. Can one hear the shape of a drum?American Mathematical Monthly, 1--23."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-20",
+                "unstructured": "Kausel, W. 2001. Optimization of brasswind instruments and its application in bore reconstruction.Journal of New Music Research 30, 1, 69--82."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-21",
+                "unstructured": "Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. 1983. Optimization by simulated annealing.Science 220, 4598, 671--680."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-22",
+                "unstructured": "Laput, G., Brockmeyer, E., Hudson, S. E., and Harrison, C. 2015. Acoustruments: Passive, acoustically-driven, interactive controls for handheld devices. InProc. CHI 2015, ACM.",
+                "DOI": "10.1145/2782782.2792490",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-23",
+                "unstructured": "Li, D., Fei, Y., and Zheng, C. 2015. Interactive acoustic transfer approximation for modal sound.ACM Trans. Graph. 35, 1 (Dec.).",
+                "DOI": "10.1145/2820612",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-24",
+                "unstructured": "McNamara, A., Treuille, A., Popovi&#263;, Z., and Stam, J. 2004. Fluid control using the adjoint method.ACM Trans. Graph. 23, 3 (Aug.).",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-25",
+                "unstructured": "Mehra, R., Raghuvanshi, N., Antani, L., Chandak, A., Curtis, S., and Manocha, D. 2013. Wave-based sound propagation in large open scenes using an equivalent source formulation.ACM Trans. Graph. 32, 2 (Apr.).",
+                "DOI": "10.1145/2451236.2451245",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-26",
+                "unstructured": "Miguez, J., Crisan, D., and Djuric, P. M. 2010. Sequential monte carlo methods for the optimization of a general class of objective functions.SIAM Journal on Optimization."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-27",
+                "unstructured": "Monks, M., Oh, B. M., and Dorsey, J. 2000. Audioptimiza-tion: goal-based acoustic design.Computer Graphics and Applications, IEEE 20, 3, 76--90."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-28",
+                "unstructured": "Munjal, M. 2014.Acoustics of Ducts and Mufflers, second ed. John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-29",
+                "unstructured": "Noreland, J. D., Udawalpola, M. R., and Berggren, O. M. 2010. A hybrid scheme for bore design optimization of a brass instrument.Journal of the Acoustical Society of America 128, 3, 1391--1400."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-30",
+                "unstructured": "Panetta, J., Zhou, Q., Malomo, L., Pietroni, N., Cignoni, P., and Zorin, D. 2015. Elastic textures for additive fabrication.ACM Trans. Graph. 34, 4 (July).",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-31",
+                "unstructured": "Pegoraro, V., Wald, I., and Parker, S. G. 2008. Sequential monte carlo adaptation in low-anisotropy participating media. InComputer Graphics Forum, vol. 27, Wiley Online Library.",
+                "DOI": "10.1111/j.1467-8659.2008.01247.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-32",
+                "unstructured": "Pierce, A. D., et al. 1991.Acoustics: an introduction to its physical principles and applications.Acoustical Society of America Melville, NY."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-33",
+                "unstructured": "Raghuvanshi, N., and Snyder, J. 2014. Parametric wave field coding for precomputed sound propagation.ACM Trans. Graph. 33, 4 (July).",
+                "DOI": "10.1145/2601097.2601184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-34",
+                "unstructured": "Raghuvanshi, N., Snyder, J., Mehra, R., Lin, M., and Govindaraju, N. 2010. Precomputed wave simulation for realtime sound propagation of dynamic sources in complex scenes.ACM Trans. Graph. 29, 4 (July).",
+                "DOI": "10.1145/1778765.1778805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-35",
+                "unstructured": "Rienstra, S. W., and Hirschberg, A. 2003. An introduction to acoustics.Eindhoven University of Technology 18, 19."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-36",
+                "unstructured": "Ritchie, D., Mildenhall, B., Goodman, N. D., and Hanrahan, P. 2015. Controlling procedural modeling programs with stochastically-ordered sequential monte carlo.ACM Trans. Graph. 34, 4 (July).",
+                "DOI": "10.1145/2766895",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-37",
+                "unstructured": "Robert, C., and Casella, G. 2013.Monte Carlo statistical methods.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-38",
+                "unstructured": "Savage, V., Head, A., Hartmann, B., Goldman, D. B., Mysore, G., and Li, W. 2015. Lamello: Passive acoustic sensing for tangible input components. InProc. CHI 2015, ACM.",
+                "DOI": "10.1145/2702123.2702207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-39",
+                "unstructured": "Schumacher, C., Bickel, B., Rys, J., Marschner, S., Daraio, C., and Gross, M. 2015. Microstructures to control elasticity in 3d printing.ACM Trans. Graph. 34, 4 (July).",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-40",
+                "unstructured": "Selamet, A., Denia, F., and Besa, A. 2003. Acoustic behavior of circular dual-chamber mufflers.Journal of Sound and Vibration 265, 5, 967--985."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-41",
+                "unstructured": "Sigmund, O. 1994. Materials with prescribed constitutive parameters: an inverse homogenization problem.International Journal of Solids and Structures 31, 17, 2313--2329."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-42",
+                "unstructured": "Stettner, A., and Greenberg, D. P. 1989. Computer graphics visualization for acoustic simulation. InComputer Graphics, vol. 23.",
+                "DOI": "10.1145/74333.74353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-43",
+                "unstructured": "Takala, T., and Hahn, J. 1992. Sound rendering. InComputer Graphics, vol. 26, 211--220.",
+                "DOI": "10.1145/133994.134063",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-44",
+                "unstructured": "Tao, Z., and Seybert, A. 2003. A review of current techniques for measuring muffler transmission loss. Tech. rep., SAE Technical Paper.",
+                "DOI": "10.4271/2003-01-1653",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-45",
+                "unstructured": "Tsingos, N., Funkhouser, T., Ngan, A., and Carlbom, I. 2001. Modeling acoustics in virtual environments using the uniform theory of diffraction. InProc. of SIGGRAPH 2001.",
+                "DOI": "10.1145/383259.383323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-46",
+                "unstructured": "Umetani, N., Kaufman, D. M., Igarashi, T., and Grinspun, E. 2011. Sensitive couture for interactive garment modeling and editing.ACM Trans. Graph. 30, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-47",
+                "unstructured": "Willis, K. D. D., and Wilson, A. D. 2013. Infrastructs: Fabricating information inside physical objects for imaging in the terahertz region.ACM Trans. Graph. 32, 4 (July).",
+                "DOI": "10.1145/2461912.2461936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-48",
+                "unstructured": "Wojtan, C., Mucha, P. J., and Turk, G. 2006. Keyframe control of complex particle systems using the adjoint method. InProc. SCA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-49",
+                "unstructured": "Zhu, C., Byrd, R. H., Lu, P., and Nocedal, J. 1997. Algorithm 778: L-bfgs-b: Fortran subroutines for large-scale bound-constrained optimization.ACM Trans. Math. Softw. 23, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925960-50",
+                "unstructured": "Zoran, A. 2011. The 3d printed flute: Digital fabrication and design of musical instruments.Journal of New Music Research 40, 4, 379--387."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925960&amp;ftid=1755855&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:34Z",
+            "timestamp": 1568162734000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "computational optimization of modular acoustic filters"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925960",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

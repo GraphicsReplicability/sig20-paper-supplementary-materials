@@ -1,0 +1,340 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227083
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "FP7-323567 HARVEST4D, FP7-287723 REVERIE"
+                ]
+            },
+            {
+                "name": "ANR iSpace&#38;Time project",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601130",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+            "Point morphology"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "St\u00e9phane",
+                "family": "Calderon",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Tamy",
+                "family": "Boubekeur",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601130-1",
+                "unstructured": "Adamson, A., and Alexa, M. 2004. Approximating bounded, non-orientable surfaces from points. InProceedings of the Shape Modeling International 2004, IEEE Computer Society, Washington, DC, USA, SMI '04, 243--252.",
+                "DOI": "10.1109/SMI.2004.1314511",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-2",
+                "unstructured": "Adamson, A., and Alexa, M. 2006. Point-sampled cell complexes.ACM Trans. Graph. 25, 3, 671--680.",
+                "DOI": "10.1145/1141911.1141940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-3",
+                "unstructured": "Alexa, M., and Adamson, A. 2009. Interpolatory point set surfaces---convexity and hermite data.ACM Trans. Graph. 28, 2 (May), 20:1--20:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-4",
+                "unstructured": "Alexa, M., Behr, J., Cohen-Or, D., Fleishman, S., Levin, D., and Silva, C. T. 2001. Point set surfaces. InProceedings of the conference on Visualization '01, IEEE Computer Society, Washington, DC, USA, VIS '01, 21--28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-5",
+                "unstructured": "Alexa, M., Rusinkiewicz, S., Alexa, M., and Adamson, A. 2004. On normals and projection operators for surfaces defined by point sets. InIn Eurographics Symp. on Point-Based Graphics, 149--155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-6",
+                "unstructured": "Amenta, N., and Kil, Y. J. 2004. Defining point-set surfaces. InACM SIGGRAPH 2004 Papers, ACM, New York, NY, USA, SIGGRAPH '04, 264--270."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-7",
+                "unstructured": "Amenta, N., Choi, S., and Kolluri, K. 2001. The power crust. In6th ACM Symposium on Solid Modeling, 249--260."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-8",
+                "unstructured": "Babaud, J., Witkin, A. P., Baudin, M., and Duda, R. O. 1986. Uniqueness of the gaussian kernel for scale-space filtering.IEEE Trans. Pattern Anal. Mach. Intell. 8, 1 (Jan.), 26--33."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-9",
+                "unstructured": "Barki, H., Denis, F., and Dupont, F. 2011. Contributing vertices-based minkowski sum of a nonconvex--convex pair of polyhedra.ACM Trans. Graph. 30(Feb.), 3:1--3:16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-10",
+                "unstructured": "Bowers, J., Wang, R., Wei, L.-Y., and Maletz, D. 2010. Parallel poisson disk sampling with spectrum analysis on surfaces. InACM SIGGRAPH Asia 2010 papers, ACM, New York, NY, USA, SIGGRAPH ASIA '10, 166:1--166:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-11",
+                "unstructured": "Campen, M., and Kobbelt, L. 2010. Polygonal boundary evaluation of minkowski sums and swept volumes.Computer Graphics Forum 29, 5, 1613--1622.",
+                "DOI": "10.1111/j.1467-8659.2010.01770.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-12",
+                "unstructured": "Chen, Y., Wang, H., W. Rosen, D., and Rossignac, J. 2005. A point-based offsetting method of polygonal meshes. Tech. rep."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-13",
+                "unstructured": "Cheng, Y. 1995. Mean shift, mode seeking, and clustering.IEEE Trans. Pattern Anal. Mach. Intell. 17, 8 (Aug.), 790--799."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-14",
+                "unstructured": "Fleishman, S., Cohen-Or, D., and Silva, C. T. 2005. Robust moving least-squares fitting with sharp features.ACM Trans. Graph. 24, 3, 544--552.",
+                "DOI": "10.1145/1073204.1073227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-15",
+                "unstructured": "Fukunaga, K., and Hostetler, L. D. 1975. The estimation of the gradient of a density function, with applications in pattern recognition.IEEE Transactions on Information Theory 21, 1, 32--40.",
+                "DOI": "10.1109/TIT.1975.1055330",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-16",
+                "unstructured": "Garland, M., and Heckbert, P. 1997. Surface simplification using quadric error metrics. InProceedings of the 24th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 209--216."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-17",
+                "unstructured": "Guennebaud, G., and Gross, M. 2007. Algebraic point set surfaces. InACM SIGGRAPH 2007 papers, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-18",
+                "unstructured": "Jacobson, A., Kavan, L., and Sorkine-Hornung, O. 2013. Robust inside-outside segmentation using generalized winding numbers.ACM Trans. Graph. 32, 4, 33:1--33:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-19",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson surface reconstruction. InProceedings of the fourth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '06, 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-20",
+                "unstructured": "Kobbelt, L. P., Botsch, M., Schwanecke, U., and Seidel, H.-P. 2001. Feature sensitive surface extraction from volume data. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '01, 57--66."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-21",
+                "unstructured": "Kolluri, R. 2008. Provably good moving least squares.ACM Trans. Algorithms 4, 2 (May), 18:1--18:25."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-22",
+                "unstructured": "Levin, D. 1998. The approximation power of moving least-squares.Mathematics of Computation 67, 1517--1531.",
+                "DOI": "10.1090/S0025-5718-98-00974-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-23",
+                "unstructured": "Levin, D. 2003. Mesh-independent surface interpolation.Geometric Modeling for Scientific Visualization 3, 37--49."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-24",
+                "unstructured": "Lien, J.-M. 2007. Point-based minkowski sum boundary. InProceedings of the 15th Pacific Conference on Computer Graphics and Applications, IEEE Computer Society, Washington, DC, USA, 261--270.",
+                "DOI": "10.1109/PG.2007.49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-25",
+                "unstructured": "Lipman, Y., Cohen-Or, D., Levin, D., and Tal-Ezer, H. 2007. Parameterization-free projection for geometry reconstruction.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-26",
+                "unstructured": "Mellado, N., Barla, P., Guennebaud, G., Reuter, P., and Schlick, C. 2012. Growing least squares for the continuous analysis of manifolds in scale-space.Computer Graphics Forum(July).",
+                "DOI": "10.1111/j.1467-8659.2012.03174.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-27",
+                "unstructured": "Miklos, B., Giesen, J., and Pauly, M. 2010. Discrete scale axis representations for 3d geometry. InACM SIGGRAPH 2010 Papers, ACM, New York, NY, USA, SIGGRAPH '10, 101:1--101:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-28",
+                "unstructured": "Molchanov, V., Rosenthal, P., and Linsen, L. 2010. Noniterative second-order approximation of signed distance functions for any isosurface representation.Computer Graphics Forum 29, 3, 1211--1220.",
+                "DOI": "10.1111/j.1467-8659.2009.01699.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-29",
+                "unstructured": "Najman, L., and Talbot, H., Eds. 2010.Mathematical Morphology: From Theory to Applications. Wiley."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-30",
+                "unstructured": "Nelaturi, S., and Shapiro, V. 2009. Configuration products in geometric modeling. In2009 SIAM/ACM Joint Conference on Geometric and Physical Modeling, ACM, New York, NY, USA, SPM '09, 247--258."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-31",
+                "unstructured": "Ohtake, Y., and Belyaev, A. G. 2002. Dual/primal mesh optimization for polygonized implicit surfaces. InProceedings of the Seventh ACM Symposium on Solid Modeling and Applications, ACM, New York, NY, USA, SMA '02, 171--178."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-32",
+                "unstructured": "&#214;ztireli, C., Guennebaud, G., and Gross, M. 2009. Feature preserving point set surfaces based on non-linear kernel regression.Computer Graphics Forum 28, 2, 493--501."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-33",
+                "unstructured": "&#214;ztireli, A. C., Alexa, M., and Gross, M. 2010. Spectral sampling of manifolds. InACM SIGGRAPH Asia 2010 papers, ACM, New York, NY, USA, SIGGRAPH ASIA '10, 168:1--168:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-34",
+                "unstructured": "Pauly, M., Kobbelt, L. P., and Gross, M. 2006. Point-based multiscale surface representation.ACM Trans. Graph. 25(April), 177--193.",
+                "DOI": "10.1145/1138450.1138451",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-35",
+                "unstructured": "Peternell, M., and Steiner, T. 2007. Minkowski sum boundary surfaces of 3d-objects.Graph. Models 69, 3--4 (May), 180--190."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-36",
+                "unstructured": "Reuter, P., Joyot, P., Trunzler, J., Boubekeur, T., and Schlick, C. 2005. Surface reconstruction with enriched reproducing kernel particle approximation. InIEEE/Eurographics Symposium on Point-Based Graphics, Eurographics/IEEE Computer Society, 79--87."
+            },
+            {
+                "key": "key-10.1145/2601097.2601130-37",
+                "unstructured": "Serra, J. 1983.Image Analysis and Mathematical Morphology. Academic Press, Inc., Orlando, FL, USA."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601130&amp;ftid=1488854&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:29Z",
+            "timestamp": 1565663669000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601130",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

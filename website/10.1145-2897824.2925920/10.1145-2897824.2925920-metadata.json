@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ],
+            "date-time": "2020-01-10T07:43:32Z",
+            "timestamp": 1578642212491
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "307754"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1284/12"
+                ]
+            },
+            {
+                "name": "I-CORE (Israel PBC and ISF)",
+                "award": [
+                    "4/11"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925920",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 32,
+        "title": [
+            "Accelerated quadratic proxy for geometric optimization"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Shahar Z.",
+                "family": "Kovalsky",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Meirav",
+                "family": "Galun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925920-1",
+                "unstructured": "Aigerman, N., Poranne, R., and Lipman, Y. 2015. Seamless surface mappings.ACM Transactions on Graphics (TOG) 34, 4, 72."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-2",
+                "unstructured": "Baraff, D., and Witkin, A. 1998. Large steps in cloth simulation. InProceedings of the 25th annual conference on Computer graphics and interactive techniques, ACM, 43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-3",
+                "unstructured": "Beck, A., and Teboulle, M. 2009. A fast iterative shrinkage-thresholding algorithm for linear inverse problems.SIAM journal on imaging sciences 2, 1, 183--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-4",
+                "unstructured": "Ben-Chen, M., Weber, O., and Gotsman, C. 2009. Variational harmonic maps for space deformation. InACM Transactions on Graphics (TOG), vol. 28, ACM, 34.",
+                "DOI": "10.1145/1576246.1531340",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-5",
+                "unstructured": "Botsch, M., and Sorkine, O. 2008. On linear variational surface deformation methods.Visualization and Computer Graphics, IEEE Transactions on 14, 1, 213--230."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-6",
+                "unstructured": "Botsch, M., Pauly, M., Gross, M. H., and Kobbelt, L. 2006. Primo: coupled prisms for intuitive surface modeling. InSymposium on Geometry Processing, no. EPFL-CONF-149310, 11--20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-7",
+                "unstructured": "Chao, I., Pinkall, U., Sanan, P., and Schr&#246;der, P. 2010. A simple geometric model for elastic deformations. InACM Transactions on Graphics (TOG), vol. 29, ACM, 38.",
+                "DOI": "10.1145/1833349.1778775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-8",
+                "unstructured": "Combettes, P. L., and Pesquet, J.-C. 2011. Proximal splitting methods in signal processing. InFixed-point algorithms for inverse problems in science and engineering.Springer, 185--212.",
+                "DOI": "10.1007/978-1-4419-9569-8_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-9",
+                "unstructured": "Degener, P., Meseth, J., and Klein, R. 2003. An adaptable surface parameterization method.IMR 3, 201--213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-10",
+                "unstructured": "Desbrun, M., Meyer, M., and Alliez, P. 2002. Intrinsic parameterizations of surface meshes. InComputer Graphics Forum, vol. 21, Wiley Online Library, 209--218.",
+                "DOI": "10.1111/1467-8659.00580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-11",
+                "unstructured": "Farago, I., and Karatson, J. 2008. Sobolev gradient type preconditioning for the saint-venant model of elasto-plastic torsion.Int. J. Numer. Anal. Model 5, 2, 206--221."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-12",
+                "unstructured": "Floater, M. S., and Hormann, K. 2005. Surface parameterization: a tutorial and survey.Advances in multiresolution for geometric modelling 1, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-13",
+                "unstructured": "Fu, X.-M., Liu, Y., and Guo, B. 2015. Computing locally injective mappings by advanced mips.ACM Transactions on Graphics (TOG) 34, 4, 71."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-14",
+                "unstructured": "Grinspun, E., Hirani, A., Desbrun, M., and Schr&#246;der, P. 2003. Discrete Shells. InACM SIGGRAPH / Eurographics Symposium on Computer Animation, 62--67."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-15",
+                "unstructured": "Hildebrandt, K., Schulz, C., Tycowicz, C. V., and Polthier, K. 2011. Interactive surface modeling using modal analysis.ACM Transactions on Graphics (TOG) 30, 5, 119."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-16",
+                "unstructured": "Hormann, K., and Greiner, G. 2000. Mips: An efficient global parametrization method. Tech. rep., DTIC Document."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-17",
+                "unstructured": "Huang, J., Shi, X., Liu, X., Zhou, K., Wei, L.-Y., Teng, S.-H., Bao, H., Guo, B., and Shum, H.-Y. 2006. Subspace gradient domain mesh deformation.ACM Transactions on Graphics (TOG) 25, 3, 1126--1134."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-18",
+                "unstructured": "Huang, Q.-X., Wicke, M., Adams, B., and Guibas, L. 2009. Shape decomposition using modal analysis. InComputer Graphics Forum, vol. 28, Wiley Online Library, 407--416.",
+                "DOI": "10.1111/j.1467-8659.2009.01380.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-19",
+                "unstructured": "Iserles, A. 2009.A first course in the numerical analysis of differential equations. No. 44. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511995569",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-20",
+                "unstructured": "Ju, T., Schaefer, S., and Warren, J. 2005. Mean value coordinates for closed triangular meshes. InACM Transactions on Graphics (TOG), vol. 24, ACM, 561--566.",
+                "DOI": "10.1145/1186822.1073229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-21",
+                "unstructured": "Kovalsky, S. Z., Aigerman, N., Basri, R., and Lipman, Y. 2014. Controlling singular values with semidefinite programming.ACM Transactions on Graphics 33, 4, 68."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-22",
+                "unstructured": "Kovalsky, S. Z., Aigerman, N., Basri, R., and Lipman, Y. 2015. Large-scale bounded distortion mappings.ACM Transactions on Graphics (TOG) 34, 6, 191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-23",
+                "unstructured": "Lee, J., Sun, Y., and Saunders, M. 2012. Proximal newton-type methods for convex optimization. InAdvances in Neural Information Processing Systems, 836--844."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-24",
+                "unstructured": "Levy, B., Petitjean, S., Ray, N., and Maillot, J. 2002. Least squares conformal maps for automatic texture atlas generation.ACM Transactions on Graphics (TOG) 21, 3, 362--371."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-25",
+                "unstructured": "Li, H., and Lin, Z. 2015. Accelerated proximal gradient methods for nonconvex programming.In Advances in Neural Information Processing Systems, 379--387."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-26",
+                "unstructured": "Liu, L., Zhang, L., Xu, Y., Gotsman, C., and Gortler, S. J. 2008. A local/global approach to mesh parameterization. InComputer Graphics Forum, vol. 27, Wiley Online Library, 1495--1504."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-27",
+                "unstructured": "Liu, T., Bargteil, A. W., O'Brien, J. F., and Kavan, L. 2013. Fast simulation of mass-spring systems.ACM Transactions on Graphics (TOG) 32, 6, 214."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-28",
+                "unstructured": "Nesterov, Y 1983. A method of solving a convex programming problem with convergence rate o (1/k2). InSoviet Mathematics Doklady, vol. 27, 372--376."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-29",
+                "unstructured": "Nocedal, J., and Wright, S. 2006.Numerical optimization.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-30",
+                "unstructured": "Ochs, P., Chen, Y., Brox, T., and Pock, T. 2014. ipiano: Inertial proximal algorithm for nonconvex optimization.SIAM Journal on Imaging Sciences 7, 2, 1388--1419."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-31",
+                "unstructured": "Papadopoulo, T., and Lourakis, M. I. 2000. Estimating the jacobian of the singular value decomposition: Theory and applications. InComputer Vision-ECCV 2000.Springer, 554--570."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-32",
+                "unstructured": "Parikh, N., and Boyd, S. P. 2014. Proximal algorithms.Foundations and Trends in optimization 1,3, 127--239."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-33",
+                "unstructured": "Petersen, K. B., Pedersen, M. S., et al. 2008. The matrix cookbook.Technical University of Denmark7, 15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-34",
+                "unstructured": "Polyak, B. T. 1964. Some methods of speeding up the convergence of iteration methods.USSR Computational Mathematics and Mathematical Physics 4, 5, 1--17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-35",
+                "unstructured": "Saad, Y., and Van Der Vorst, H. A. 2000. Iterative solution of linear systems in the 20th century.Journal of Computational and Applied Mathematics 123, 1, 1--33."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-36",
+                "unstructured": "Sacht, L., Vouga, E., and Jacobson, A. 2015. Nested cages.ACM Transactions on Graphics (TOG) 34, 6, 170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-37",
+                "unstructured": "Schuller, C., Kavan, L., Panozzo, D., and Sorkine-Hornung, O. 2013. Locally injective mappings.Computer Graphics Forum (proceedings of Symposium on Geometry Processing) 32, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-38",
+                "unstructured": "Sheffer, A., Praun, E., and Rose, K. 2006. Mesh parameterization methods and their applications.Foundations and Trends(R) in Computer Graphics and Vision 2, 2, 105--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-39",
+                "unstructured": "Si, H. 2015. Tetgen, a delaunay-based quality tetrahedral mesh generator.ACM Transactions on Mathematical Software (TOMS) 41, 2, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-40",
+                "unstructured": "Smith, J., and Schaefer, S. 2015. Bijective parameterization with free boundaries.ACM Trans. Graph. 34, 4 (July), 70:1--70:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-41",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InSymposium on Geometry processing, vol. 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-42",
+                "unstructured": "Terzopoulos, D., and Fleischer, K. 1988. Modeling inelastic deformation: viscolelasticity, plasticity, fracture. InACM Siggraph Computer Graphics, vol. 22, ACM, 269--278.",
+                "DOI": "10.1145/54852.378522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-43",
+                "unstructured": "Tuckerman, L. S. 2015. Laplacian preconditioning for the inverse arnoldi method.Communications in Computational Physics 18, 05, 1336--1351."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-44",
+                "unstructured": "Tutte, W. T. 1963. How to draw a graph.Proc. London Math. Soc 13, 3, 743--768."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-45",
+                "unstructured": "Wang, Y., Jacobson, A., Barbic, J., and Kavan, L. 2015. Linear subspace design for real-time shape deformation.ACM Trans. Graph. 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925920-46",
+                "unstructured": "Wardetzky, M., Bergou, M., Harmon, D., Zorin, D., and Grinspun, E. 2007. Discrete quadratic curvature energies.Computer Aided Geometric Design 24, 8, 499--518."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925920&amp;ftid=1755853&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:00Z",
+            "timestamp": 1568162940000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925920",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

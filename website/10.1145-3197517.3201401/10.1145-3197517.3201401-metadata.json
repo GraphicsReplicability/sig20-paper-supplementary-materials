@@ -1,0 +1,384 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813586
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201401",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Deep appearance models for face rendering"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Stephen",
+                "family": "Lombardi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Jason",
+                "family": "Saragih",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Tomas",
+                "family": "Simon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201401-1",
+                "unstructured": "Volker Blanz and Thomas Vetter. 1999. A Morphable Model for the Synthesis of 3D Faces. InProceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '99).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 187--194.",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-2",
+                "unstructured": "S. M. Boker, J. F. Cohn, B. J. Theobald, I. Matthews, M. Mangini, J. R. Spies, Z Ambadar, and T. R. Brick. 2011. Motion Dynamics, Not Perceived Sex, Influence Head Movements in Conversation.J. Exp. Psychol. Hum. Percept. Perform.37 (2011). 874--891.",
+                "DOI": "10.1037/a0021928",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-3",
+                "unstructured": "Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, and Dilip Krishnan. 2017. Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks. (07 2017), 95--104."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-4",
+                "unstructured": "Chen Cao, Hongzhi Wu, Yanlin Weng, Tianjia Shao, and Kun Zhou. 2016. Real-time Facial Animation with Image-based Dynamic Avatars.ACM Trans. Graph.35, 4, Article 126 (July 2016), 12 pages.",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-5",
+                "unstructured": "Dan Casas, Andrew Feng, Oleg Alexander, Graham Fyffe, Paul Debevec, Ryosuke Ichikari, Hao Li, Kyle Olszewski, Evan Suma, and Ari Shapiro. 2016. Rapid Photorealistic Blendshape Modeling from RGB-D Sensors. InProceedings of the 29th International Conference on Computer Animation and Social Agents (CASA '16).ACM, New York, NY, USA, 121--129.",
+                "DOI": "10.1145/2915926.2915936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-6",
+                "unstructured": "S. A. Cassidy, B. Stenger, K. Yanagisawa, R. Cipolla, R. Anderson, V. Wan, S. Baron-Cohen, and L Van Dongen. 2016. Expressive Visual Text-to-Speech as an Assistive Technology for Individuals with Autism Spectrum Conditions.Computer Vision and Image Understanding148 (2016), 193--200.",
+                "DOI": "10.1016/j.cviu.2015.08.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-7",
+                "unstructured": "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, and Pieter Abbeel. 2016. Variational Lossy Autoencoder.CoRRabs/1611.02731 (2016). arXiv:1611.02731 http://arxiv.org/abs/1611.02731"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-8",
+                "unstructured": "Timothy F. Cootes, Gareth J. Edwards, and Christopher J. Taylor. 2001. Active Appearance Models.IEEE Transactions on Pattern Analysis and Machine Intelligence23, 6 (June 2001), 681--685.",
+                "DOI": "10.1109/34.927467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-9",
+                "unstructured": "Kristin J. Dana, Bram van Ginneken, Shree K. Nayar, and Jan J. Koenderink. 1999. Reflectance and Texture of Real-world Surfaces.ACM Transactions on Graphics18, 1 (Jan. 1999), 1--34.",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-10",
+                "unstructured": "G. J. Edwards, C. J. Taylor, and T. F. Cootes. 1998. Interpreting Face Images Using Active Appearance Models. InProceedings of the 3rd. International Conference on Face &#38; Gesture Recognition (FG '98).IEEE Computer Society, Washington, DC, USA, 300--.",
+                "DOI": "10.1109/AFGR.1998.670965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-11",
+                "unstructured": "P. Ekman. 1980.The Face of Man: Expressions of Universal Emotions in a New Guinea Village.Garland Publishing, Incorporated."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-12",
+                "unstructured": "Steven J. Gortler, Radek Grzeszczuk, Richard Szeliski, and Michael F. Cohen. 1996. The Lumigraph. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH 1996).ACM, New York, NY, USA, 43--54.",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-13",
+                "unstructured": "X. Hou, L. Shen, K. Sun, and G. Qiu. 2017. Deep Feature Consistent Variational Autoencoder. In2017 IEEE Winter Conference on Applications of Computer Vision (WACV).1133--1141.",
+                "DOI": "10.1109/WACV.2017.131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-14",
+                "unstructured": "Wei-Ning Hsu, Yu Zhang, and James R. Glass. 2017. Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data. InNIPS.1876--1887."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-15",
+                "unstructured": "Liwen Hu, Shunsuke Saito, Lingyu Wei, Koki Nagano, Jaewoo Seo, Jens Fursund, Iman Sadeghi, Carrie Sun, Yen-Chun Chen, and Hao Li. 2017. Avatar Digitization from a Single Image for Real-time Rendering.ACM Trans. Graph.36, 6, Article 195 (Nov. 2017), 14 pages.",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-16",
+                "unstructured": "Alexandra Eugen Ichim, Sofien Bouaziz, and Mark Pauly. 2015. Dynamic 3D Avatar Creation from Hand-held Video Input.ACM Transactions on Graphics34, 4, Article 45 (July 2015), 14 pages.",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-17",
+                "unstructured": "Sergey Ioffe and Christian Szegedy. 2015. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.. InICML (JMLR Workshop and Conference Proceedings), Francis R. Bach and David M. Blei (Eds.), Vol. 37. JMLR.org, 448--456. http://dblp.uni-trier.de/db/conf/icml/icml2015.html#IoffeS15"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-18",
+                "unstructured": "Sing Bing Kang, R. Szeliski, and P. Anandan. 2000. The geometry-image representation tradeoff for rendering. InProceedings 2000 International Conference on Image Processing, Vol. 2. 13--16 vol.2.",
+                "DOI": "10.1109/ICIP.2000.899212",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-19",
+                "unstructured": "Vahid Kazemi and Josephine Sullivan. 2014. One Millisecond Face Alignment with an Ensemble of Regression Trees. InIEEE International Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2014.241",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-20",
+                "unstructured": "Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, and Jiwon Kim. 2017. Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. InICML."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-21",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.Proceedings of the 3rd International Conference on Learning Representationsabs/1412.6980 (2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-22",
+                "unstructured": "Diederik P. Kingma and Max Welling. 2013. Auto-Encoding Variational Bayes. InProceedings of the 2nd International Conference on Learning Representations."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-23",
+                "unstructured": "Oliver Klehm, Fabrice Rousselle, Marios Papas, Derek Bradley, Christophe Hery, Bernd Bickel, Wojciech Jarosz, and Thabo Beeler. 2015. Recent Advances in Facial Appearance Capture.Computer Graphics Forum (Proceedings of Eurographics)34, 2 (May 2015), 709--733.",
+                "DOI": "10.1111/cgf.12594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-24",
+                "unstructured": "Reinhard Knothe, Brian Amberg, Sami Romdhani, Volker Blanz, and Thomas Vetter. 2011.Morphable Models of Faces.Springer London, London, 137--168.",
+                "DOI": "10.1007/978-0-85729-932-1_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-25",
+                "unstructured": "Tejas D. Kulkarni, William F. Whitney, Pushmeet Kohli, and Joshua B. Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. InProceedings of the 28th International Conference on Neural Information Processing Systems (NIPS'15).MIT Press, Cambridge, MA, USA, 2539--2547."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-26",
+                "unstructured": "Samuli Laine, Tero Karras, Timo Aila, Antti Herva, Shunsuke Saito, Ronald Yu, Hao Li, and Jaakko Lehtinen. 2017. Production-level Facial Performance Capture Using Deep Convolutional Neural Networks. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '17).ACM, New York, NY, USA, Article 10, 10 pages.",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-27",
+                "unstructured": "J.P. Lewis and Ken Anjyo. 2010. Direct Manipulation Blendshapes.IEEE Computer Graphics and Applications30, 4 (2010), 42--50."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-28",
+                "unstructured": "John P. Lewis, Ken ichi Anjyo, Taehyun Rhee, Mengjie Zhang, Fr&#233;d&#233;ric H. Pighin, and Zhigang Deng. 2014. Practice and Theory of Blendshape Facial Models. InProc. Eurographics State of The Art Report."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-29",
+                "unstructured": "Ming-Yu Liu, Thomas Breuel, and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. InNIPS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-30",
+                "unstructured": "Iain Matthews and Simon Baker. 2004. Active Appearance Models Revisited.International Journal of Computer Vision60, 2 (Nov. 2004), 135--164.",
+                "DOI": "10.1023/B:VISI.0000029666.37597.d3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-31",
+                "unstructured": "Kyle Olszewski, Joseph J. Lim, Shunsuke Saito, and Hao Li. 2016. High-Fidelity Facial and Speech Animation for VR HMDs.Proceedings of ACM SIGGRAPH Asia 201635, 6 (December 2016).",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-32",
+                "unstructured": "Alec Radford, Luke Metz, and Soumith Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.CoRRabs/1511.06434 (2015). http://arxiv.org/abs/1511.06434"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-33",
+                "unstructured": "Tim Salimans and Diederik P Kingma. 2016. Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks. InAdvances in Neural Information Processing Systems 29, D. D. Lee, M. Sugiyama, U. V. Luxburg, I. Guyon, and R. Garnett (Eds.). Curran Associates, Inc., 901--909."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-34",
+                "unstructured": "Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, and Lior Wolf. 2014. DeepFace: Closing the Gap to Human-Level Performance in Face Verification. InProceedings of the 2014 IEEE Conference on Computer Vision and Pattern Recognition (CVPR '14).IEEE Computer Society, Washington, DC, USA, 1701--1708.",
+                "DOI": "10.1109/CVPR.2014.220",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-35",
+                "unstructured": "G. Taubin. 1995. Curve and Surface Smoothing Without Shrinkage. InProceedings of the Fifth International Conference on Computer Vision (ICCV '95).IEEE Computer Society, Washington, DC, USA, 852--.",
+                "DOI": "10.1109/ICCV.1995.466848",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-36",
+                "unstructured": "J. Thies, M. Zollh&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2018. FaceVR: Real-Time Gaze-Aware Facial Reenactment in Virtual Reality.ACM Transactions on Graphics 2018 (TOG)(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-37",
+                "unstructured": "Georgios Tzimiropoulos, Joan Alabort-i Medina, Stefanos Zafeiriou, and Maja Pantic. 2013.Generic Active Appearance Models Revisited.Springer Berlin Heidelberg, Berlin, Heidelberg, 650--663."
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-38",
+                "unstructured": "Xuehan Xiong and Fernando De la Torre Frade. 2013. Supervised Descent Method and its Applications to Face Alignment. InIEEE International Conference on Computer Vision and Pattern Recognition.Pittsburgh, PA.",
+                "DOI": "10.1109/CVPR.2013.75",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201401-39",
+                "unstructured": "Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. 2017. Unpaired Image-to-image Translation using Cycle-Consistent Adversarial Networks. (December 2017)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201401&ftid=1991729&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:48:30Z",
+            "timestamp": 1571672910000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201401",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

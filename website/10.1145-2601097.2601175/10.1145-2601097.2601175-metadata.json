@@ -1,0 +1,476 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228101
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Hertz Foundation Fellowship",
+                "award": []
+            },
+            {
+                "name": "ONR MURI",
+                "award": [
+                    "N00014-13-1-0341"
+                ]
+            },
+            {
+                "name": "Max Planck Center for Visual Computing and Communications",
+                "award": []
+            },
+            {
+                "name": "Google research award",
+                "award": []
+            },
+            {
+                "name": "NSF GRF program",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "1161480"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601175",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Earth mover's distances on discrete surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Raif",
+                "family": "Rustamov",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Leonidas",
+                "family": "Guibas",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Adrian",
+                "family": "Butscher",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601175-1",
+                "unstructured": "Agueh, M., and Carlier, G. 2011. Barycenters in the Wasserstein space.SIAM J. Math. Anal. 43, 2, 904--924.",
+                "DOI": "10.1137/100805741",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-2",
+                "unstructured": "Arnold, V. 2003.Lectures on Partial Differential Equations. Universitext. Springer.",
+                "DOI": "10.1007/978-3-662-05441-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-3",
+                "unstructured": "Beckmann, M. 1952. A continuous model of transportation.Econometrica, 643--660.",
+                "DOI": "10.2307/1907646",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-4",
+                "unstructured": "Benamou, J.-D., and Brenier, Y. 2000. A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem.Numerische Mathematik 84, 3, 375--393.",
+                "DOI": "10.1007/s002110050002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-5",
+                "unstructured": "Bonneel, N., van de Panne, M., Paris, S., and Heidrich, W. 2011. Displacement interpolation using Lagrangian mass transport.TOG 30, 6 (Dec.), 158:1--158:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-6",
+                "unstructured": "Bonneel, N., Rabin, J., Peyr&#233;, G., and Pfister, H. 2013. Sliced and Radon Wasserstein barycenters of measures. Tech. rep., Preprint Hal-00881872."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-7",
+                "unstructured": "Boyd, S., Parikh, N., Chu, E., Peleato, B., and Eckstein, J. 2011. Distributed optimization and statistical learning via the alternating direction method of multipliers.Found. Trends Mach. Learn. 3, 1 (Jan.), 1--122."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-8",
+                "unstructured": "Campen, M., Heistermann, M., and Kobbelt, L. 2013. Practical anisotropic geodesy.Proc. SGP 32, 5, 63--71."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-9",
+                "unstructured": "Canny, J., and Reif, J. 1987. New lower bound techniques for robot motion planning problems. InFound. Comp. Sci., no. 28, 49--60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-10",
+                "unstructured": "Chazal, F., Cohen-Steiner, D., and M&#233;rigot, Q. 2010. Geometric inference for measures based on distance functions. Tech. Rep. 6930, INRIA, June."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-11",
+                "unstructured": "Chazal, F., Cohen-Steiner, D., and M&#233;rigot, Q. 2011. Geometric inference for probability measures.Found. Comp. Math. 11, 6, 733--751."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-12",
+                "unstructured": "Coifman, R. R., Lafon, S., Lee, A. B., Maggioni, M., Nadler, B., Warner, F., and Zucker, S. W. 2005. Geometric diffusions as a tool for harmonic analysis and structure definition of data: Diffusion maps.PNAS 102, 21, 7426--7431.",
+                "DOI": "10.1073/pnas.0500334102",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-13",
+                "unstructured": "Connolly, C., Burns, J. B., and Weiss, R. 1990. Path planning using Laplace's equation. InProc. Conf. on Robotics and Automation, vol. 3, 2102--2106.",
+                "DOI": "10.1109/ROBOT.1990.126315",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-14",
+                "unstructured": "Crane, K., Weischedel, C., and Wardetzky, M. 2013. Geodesics in heat: A new approach to computing distance based on heat flow.TOG 32, 5 (Oct.), 152:1--152:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-15",
+                "unstructured": "de Goes, F., Cohen-Steiner, D., Alliez, P., and Desbrun, M. 2011. An optimal transport approach to robust reconstruction and simplification of 2d shapes.CGF 30, 5, 1593--1602."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-16",
+                "unstructured": "de Goes, F., Breeden, K., Ostromoukhov, V., and Desbrun, M. 2012. Blue noise through optimal transport.TOG 31, 6 (Nov.), 171:1--171:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-17",
+                "unstructured": "Deza, M. M., and Laurent, M. 2009.Geometry of Cuts and Metrics. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-18",
+                "unstructured": "Dominitz, A., and Tannenbaum, A. 2010. Texture mapping via optimal mass transport.TVCG 16, 3, 419--433."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-19",
+                "unstructured": "Feldman, M., and McCann, R. 2002. Monge's transport problem on a Riemannian manifold.Trans. AMS 354, 4, 1667--1697.",
+                "DOI": "10.1090/S0002-9947-01-02930-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-20",
+                "unstructured": "Folland, G. B. 1999.Real analysis: modern techniques and their applications, vol. 361. Wiley New York."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-21",
+                "unstructured": "Fouss, F., Pirotte, A., Renders, J.-M., and Saerens, M. 2007. Random-walk computation of similarities between nodes of a graph with application to collaborative recommendation.Trans. Knowledge and Data Eng. 19, 3, 355--369.",
+                "DOI": "10.1109/TKDE.2007.46",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-22",
+                "unstructured": "Gu, X., Luo, F., Sun, J., and Yau, S.-T., 2013. Variational principles for Minkowski type problems, discrete optimal transport, and discrete Monge-Amp&#232;re equations."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-23",
+                "unstructured": "He, B., Yang, H., and Wang, S. 2000. Alternating direction method with self-adaptive penalty parameters for monotone variational inequalities.J. Optim. Theory and App. 106, 2, 337--356.",
+                "DOI": "10.1023/A:1004603514434",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-24",
+                "unstructured": "Jiang, X., Lim, L.-H., Yao, Y., and Ye, Y. 2011. Statistical ranking and combinatorial Hodge theory.Mathematical Programming 127, 1, 203--244.",
+                "DOI": "10.1007/s10107-010-0419-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-25",
+                "unstructured": "Ju, T., Schaefer, S., and Warren, J. 2005. Mean value coordinates for closed triangular meshes.TOG 24, 3 (July), 561--566."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-26",
+                "unstructured": "Kimmel, R., and Sethian, J. A. 1998. Computing geodesic paths on manifolds. InPNAS, 8431--8435."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-27",
+                "unstructured": "Lai, R., Liang, J., and Zhao, H.-K. 2013. A local mesh method for solving PDEs on point clouds.Inverse Prob. and Imaging 7, 3, 737--755.",
+                "DOI": "10.3934/ipi.2013.7.737",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-28",
+                "unstructured": "Li, Y. 1998. A Newton acceleration of the Weiszfeld algorithm for minimizing the sum of Euclidean distances.Comp. Optim. and App. 10, 3, 219--242.",
+                "DOI": "10.1023/A:1018333422414",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-29",
+                "unstructured": "Lia, G., Guoa, L., Niea, J., and Liu, T. 2010. An automated pipeline for cortical sulcal fundi extraction.Medical Image Analysis 14, 3, 343--359.",
+                "DOI": "10.1016/j.media.2010.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-30",
+                "unstructured": "Liang, J., and Zhao, H. 2013. Solving partial differential equations on point clouds.J. Sci. Comp. 35, 3, A1461--A1486."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-31",
+                "unstructured": "Lipman, Y., and Daubechies, I. 2011. Conformal Wasserstein distances: Comparing surfaces in polynomial time.Advances in Mathematics 227, 3, 1047--1077.",
+                "DOI": "10.1016/j.aim.2011.01.020",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-32",
+                "unstructured": "Lipman, Y., Rustamov, R., and Funkhouser, T. 2010. Biharmonic distance.TOG 29, 3 (June).",
+                "DOI": "10.1145/1805964.1805971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-33",
+                "unstructured": "Lipman, Y., Puente, J., and Daubechies, I. 2013. Conformal Wasserstein distance: II. Computational aspects and extensions.Math. Comp. 82, 331--381.",
+                "DOI": "10.1090/S0025-5718-2012-02569-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-34",
+                "unstructured": "M&#233;moli, F. 2011. Gromov--Wasserstein distances and the metric approach to object matching.Found. Comp. Math. 11, 4, 417--487."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-35",
+                "unstructured": "M&#233;rigot, Q. 2011. A multiscale approach to optimal transport.CGF 30, 5, 1583--1592."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-36",
+                "unstructured": "Mitchell, J. S. B., Mount, D. M., and Papadimitriou, C. H. 1987. The discrete geodesic problem.SIAM J. Comput. 16, 4 (Aug.), 647--668."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-37",
+                "unstructured": "Mullen, P., Memari, P., de Goes, F., and Desbrun, M. 2011. HOT: Hodge-optimized triangulations.TOG 30, 4 (July), 103:1--103:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-38",
+                "unstructured": "Pan, S., and Jiang, Y. 2008. Smoothing Newton method for minimizing the sum ofp-norms.J. Optim. Theory and App. 137, 2, 255--275.",
+                "DOI": "10.1007/s10957-008-9364-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-39",
+                "unstructured": "Panozzo, D., Baran, I., Diamanti, O., and Sorkine-Hornung, O. 2013. Weighted averages on surfaces.TOG 32, 4 (July), 60:1--60:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-40",
+                "unstructured": "Pele, O., and Werman, M. 2009. Fast and robust earth mover's distances. InProc. ICCV, 460--467."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-41",
+                "unstructured": "Plastria, F. 2011. The Weiszfeld algorithm: Proof, amendments, and extensions. InFound. of Location Anal., H. A. Eiselt and V. Marianov, Eds., vol. 155 ofOperations Research &#38; Management Science. 357--389."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-42",
+                "unstructured": "Polthier, K., and Preuss, E. 2003. Identifying vector field singularities using a discrete Hodge decomposition. InVis. and Math. III, H.-C. Hege and K. Polthier, Eds. Springer, 113--134."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-43",
+                "unstructured": "Qi, L., Sun, D., and Zhou, G. 2002. A primal--dual algorithm for minimizing a sum of Euclidean norms.J. Comp. Applied Math. 138, 1, 127--150.",
+                "DOI": "10.1016/S0377-0427(01)00357-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-44",
+                "unstructured": "Rubner, Y., Tomasi, C., and Guibas, L. J. 2000. The earth mover's distance as a metric for image retrieval.IJCV 40, 2 (Nov.), 99--121."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-45",
+                "unstructured": "Rustamov, R. M., Lipman, Y., and Funkhouser, T. 2009. Interior distance using barycentric coordinates. InProc. SGP, 1279--1288."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-46",
+                "unstructured": "Santambrogio, F. 2009. Absolute continuity and summability of transport densities: simpler proofs and new estimates.Calc. Var. PDE 36, 3, 343--354.",
+                "DOI": "10.1007/s00526-009-0231-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-47",
+                "unstructured": "Santambrogio, F. 2013. Prescribed-divergence problems in optimal transportation. MSRI lecture notes, October 2013."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-48",
+                "unstructured": "Sayas, F.-J., 2008. A gentle introduction to the finite element method."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-49",
+                "unstructured": "Schwarz, G. 1995.Hodge decomposition: a method for solving boundary value problems. Lecture notes in mathematics. Springer.",
+                "DOI": "10.1007/BFb0095981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-50",
+                "unstructured": "Solomon, J., Nguyen, A., Butscher, A., Ben-Chen, M., and Guibas, L. 2012. Soft maps between surfaces.CGF 31, 5 (Aug.), 1617--1626."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-51",
+                "unstructured": "Solomon, J., Guibas, L., and Butscher, A. 2013. Dirichlet energy for analysis of synthesis of soft maps.Proc. SGP 32, 5 (Aug.), 197--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-52",
+                "unstructured": "Sun, J., Chen, X., and Funkhouser, T. A. 2010. Fuzzy geodesics and consistent sparse correspondences for deformable shapes.Proc. SGP 29, 5, 1535--1544."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-53",
+                "unstructured": "Surazhsky, V., Surazhsky, T., Kirsanov, D., Gortler, S. J., and Hoppe, H. 2005. Fast exact and approximate geodesics on meshes.TOG 24, 3 (July), 553--560."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-54",
+                "unstructured": "Takano, Y., and Yamamoto, Y. 2010. Metric-preserving reduction of earth mover's distance.Asia Pac. J. Oper. Res. 27, 39.",
+                "DOI": "10.1142/S0217595910002545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-55",
+                "unstructured": "Tong, Y., Alliez, P., Cohen-Steiner, D., and Desbrun, M. 2006. Designing quadrangulations with discrete harmonic forms. InProc. SGP, 201--210."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-56",
+                "unstructured": "Villani, C. 2003.Topics in Optimal Transportation. AMS.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-57",
+                "unstructured": "Weiszfeld, E. 1937. Sur le point pour lequel la somme des distances denpoints donn&#233;s est minimum.T&#244;hoku Math. J. 43, 355--386."
+            },
+            {
+                "key": "key-10.1145/2601097.2601175-58",
+                "unstructured": "Zhou, G., Toh, K., and Sun, D. 2003. Globally and quadratically convergent algorithm for minimizing the sum of Euclidean norms.J. Optim. Theory and App. 119, 2, 357--377.",
+                "DOI": "10.1023/B:JOTA.0000005450.58251.6d",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601175&amp;ftid=1488875&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:52Z",
+            "timestamp": 1565663692000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601175",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

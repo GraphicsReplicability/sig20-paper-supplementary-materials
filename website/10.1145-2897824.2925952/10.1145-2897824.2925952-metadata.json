@@ -1,0 +1,272 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    20
+                ]
+            ],
+            "date-time": "2019-12-20T09:23:30Z",
+            "timestamp": 1576833810227
+        },
+        "reference-count": 17,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925952",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Automatically scheduling halide image processing pipelines"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Ravi Teja",
+                "family": "Mullapudi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Adams",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Dillon",
+                "family": "Sharlet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925952-1",
+                "unstructured": "Adams, A., Talvala, E.-V., Park, S. H., Jacobs, D. E., Ajdin, B., Gelfand, N., Dolson, J., Vaquero, D., Baek, J., Tico, M., Lensch, H. P. A., Matusik, W., Pulli, K., Horowitz, M., and Levoy, M. 2010. The frankencamera: An experimental platform for computational photography.ACM Transactions on Graphics 29, 4 (July), 29:1--29:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-2",
+                "unstructured": "Ansel, J., Kamil, S., Veeramachaneni, K., Ragan-Kelley, J., Bosboom, J., O'Reilly, U.-M., and Amarasinghe, S. 2014. OpenTuner: An extensible framework for program autotuning. InProceedings of the 23rd International Conference on Parallel Architectures and Compilation, ACM, 303--316.",
+                "DOI": "10.1145/2628071.2628092",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-3",
+                "unstructured": "Chen, J., Paris, S., and Durand, F. 2007. Real-time edge-aware image processing with the bilateral grid.ACM Transactions on Graphics 26, 3 (July), 103:1--103:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-4",
+                "unstructured": "Darbon, J., Cunha, A., Chan, T. F., Osher, S., and Jensen, G. J. 2008. Fast nonlocal filtering applied to electron cryomicroscopy. InBiomedical Imaging: From Nano to Macro, 2008. ISBI 2008. 5th IEEE International Symposium on, IEEE, 1331--1334.",
+                "DOI": "10.1109/ISBI.2008.4541250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-5",
+                "unstructured": "Farbman, Z., Fattal, R., and Lischinski, D. 2011. Convolution pyramids.ACM Transactions on Graphics 30, 6 (Dec.), 175:1--175:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-6",
+                "unstructured": "Harris, C., and Stephens, M. 1988. A combined corner and edge detector. InIn Proc. of Fourth Alvey Vision Conference, 147--151."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-7",
+                "unstructured": "Hegarty, J., Brunhaver, J., DeVito, Z., Ragan-Kelley, J., Cohen, N., Bell, S., Vasilyev, A., Horowitz, M., and Hanrahan, P. 2014. Darkroom: compiling high-level image processing code into hardware pipelines.ACM Transactions on Graphics 33, 4 (July), 144:1--144:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-8",
+                "unstructured": "Hegarty, J., Daly, R., DeVito, Z., Ragan-Kelley, J., Horowitz, M., and Hanrahan, P. 2016. Rigel: Flexible multi-rate image processing hardware.ACM Transactions on Graphics 36, 4 (July)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-9",
+                "unstructured": "Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R., Guadarrama, S., and Darrell, T. 2014. Caffe: Convolutional architecture for fast feature embedding.arXiv preprint arXiv:1408.5093.",
+                "DOI": "10.1145/2647868.2654889",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-10",
+                "unstructured": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in neural information processing systems, 1097--1105."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-11",
+                "unstructured": "Mullapudi, R. T., Vasista, V., and Bondhugula, U. 2015. PolyMage: Automatic optimization for image processing pipelines. InProceedings of the Twentieth International Conference on Architectural Support for Programming Languages and Operating Systems, 429--443."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-12",
+                "unstructured": "Paris, S., Hasinoff, S. W., and Kautz, J. 2011. Local Laplacian filters: edge-aware image processing with a Laplacian pyramid.ACM Transactions on Graphics 30, 4 (July), 68:1--68:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-13",
+                "unstructured": "Ragan-Kelley, J., Adams, A., Paris, S., Levoy, M., Amarasinghe, S., and Durand, F. 2012. Decoupling algorithms from schedules for easy optimization of image processing pipelines.ACM Transactions on Graphics 31, 4 (July), 32:1--32:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-14",
+                "unstructured": "Ragan-Kelley, J., Barnes, C., Adams, A., Paris, S., Durand, F., and Amarasinghe, S. 2013. Halide: A language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines. InProceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation, 519--530.",
+                "DOI": "10.1145/2491956.2462176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-15",
+                "unstructured": "Ragan-Kelley, J., Adams, A., and Sharlet, D. 2015. An introduction to Halide. InACM SIGGRAPH 2015 Courses, ACM, 3:1--3:160.",
+                "DOI": "10.1145/2776880.2792710",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-16",
+                "unstructured": "Rhemann, C., Hosni, A., Bleyer, M., Rother, C., and Gelautz, M. 2011. Fast cost-volume filtering for visual correspondence and beyond. InProceedings of the 2011 IEEE Conference on Computer Vision and Pattern Recognition, 3017--3024."
+            },
+            {
+                "key": "key-10.1145/2897824.2925952-17",
+                "unstructured": "Simonyan, K., and Zisserman, A. 2014. Very deep convolutional networks for large-scale image recognition.arXiv preprint arXiv:1409.1556."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925952&amp;ftid=1755854&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:01Z",
+            "timestamp": 1568162701000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 17,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925952",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

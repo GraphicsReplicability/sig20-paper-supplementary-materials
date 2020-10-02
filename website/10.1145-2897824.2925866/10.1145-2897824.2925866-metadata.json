@@ -1,0 +1,436 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:48Z",
+            "timestamp": 1574815968922
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925866",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "GazeStereo3D"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Petr",
+                "family": "Kellnhofer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik and Saarland University, MMCI"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Mohamed M.",
+                "family": "Hefeeda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Qatar Computing Research Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925866-1",
+                "unstructured": "Banks, M., Sekuler, A., and Anderson, S. 1991. Peripheral spatial vision: Limits imposed by optics, photoreceptors, and receptor pooling.J Opt Soc Am A 8, 11, 1775--87."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-2",
+                "unstructured": "Becker, W., and Juergens, R. 1975. Saccadic reactions to double-step stimuli: Evidence for model feedback and continuous information uptake. InBasic Mechanisms of Ocular Motility and their Clinical Implications, 519--527."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-3",
+                "unstructured": "Bernhard, M., Dell'mour, C., Hecher, M., Stavrakis, E., and Wimmer, M. 2014. The effects of fast disparity adjustment in gaze-controlled stereoscopic applications. InProc. Symp. on Eye Tracking Research and Appl. (ETRA), 111--118."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-4",
+                "unstructured": "Bradshaw, M. F., and Rogers, B. J. 1999. Sensitivity to horizontal and vertical corrugations defined by binocular disparity.Vision Res. 39, 18, 3049--56."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-5",
+                "unstructured": "Brookes, A., and Stevens, K. A. 1989. The analogy between stereo depth and brightness.Perception 18, 5, 601--614."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-6",
+                "unstructured": "Butler, D. J., Wulff, J., Stanley, G. B., and Black, M. J. 2012. A naturalistic open source movie for optical flow evaluation. InEuropean Conf. on Computer Vision (ECCV), Springer-Verlag, A. Fitzgibbon et al. (Eds.), Ed., Part IV, LNCS 7577, 611--625.",
+                "DOI": "10.1007/978-3-642-33783-3_44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-7",
+                "unstructured": "Chamaret, C., Godeffroy, S., Lopez, P., and Le Meur, O. 2010. Adaptive 3D rendering based on region-of-interest. InProc. SPIE vol. 7524, 0V-1-12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-8",
+                "unstructured": "Chapiro, A., Heinzle, S., Aydn, T. O., Poulakos, S., Zwicker, M., Smolic, A., and Gross, M. 2014. Optimizing stereo-to-multiview conversion for autostereoscopic displays.Computer Graphics Forum 33, 2, 63--72."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-9",
+                "unstructured": "Cisarik, P. M., and Harwerth, R. S. 2005. Stereoscopic depth magnitude estimation: Effects of stimulus spatial frequency and eccentricity.Behavioural Brain Research 160, 1, 88--98."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-10",
+                "unstructured": "Coutant, B. E., and Westheimer, G. 1993. Population distribution of stereoscopic ability.Ophthalmic and Physiological Optics 13, 1, 3--7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-11",
+                "unstructured": "Cumming, B. G. 1995. The relationship between stereoacuity and stereomotion thresholds.Perception 24, 1, 105--114."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-12",
+                "unstructured": "Didyk, P., Ritschel, T., Eisemann, E., Myszkowski, K., and Seidel, H.-P. 2010. Adaptive image-space stereo view synthesis. InVision, Modeling and Visualization Workshop, 299--306."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-13",
+                "unstructured": "Didyk, P., Ritschel, T., Eisemann, E., Myszkowski, K., and Seidel, H.-P. 2011. A perceptual model for disparity.ACM Trans. Graph. (Proc. SIGGRAPH) 30, 4, 96."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-14",
+                "unstructured": "Didyk, P., Ritschel, T., Eisemann, E., Myszkowski, K., Seidel, H.-P., and Matusik, W. 2012. A luminance-contrast-aware disparity model and applications.ACM Trans. Graph. (Proc. SIGGRAPH) 31, 6, 184."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-15",
+                "unstructured": "Duchowski, A. T., House, D. H., Gestring, J., Congdon, R., &#346;wirski, L., Dodgson, N. A., Krejtz, K., and Krejtz, I. 2014. Comparing estimated gaze depth in virtual and physical environments. InProc. Symp. on Eye Tracking Res. and Appl. (ETRA), 103--110."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-16",
+                "unstructured": "Duchowski, A. T., House, D. H., Gestring, J., Wang, R. I., Krejtz, K., Krejtz, I., Mantiuk, R., and Bazyluk, B. 2014. Reducing visual discomfort of 3D stereoscopic displays with gaze-contingent depth-of-field. InProc. ACM Symp. on Appl. Perc. (SAP), 39--46."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-17",
+                "unstructured": "Fisker, M., Gram, K., Thomsen, K. K., Vasilarou, D., and Kraus, M. 2013. Automatic convergence adjustment for stereoscopy using eye tracking. InEurographics 2013-Posters, 23--24."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-18",
+                "unstructured": "Geisler, W. S., and Perry, J. S. 1998. A real-time foveated multiresolution system for low-bandwidth video communication. InProc. SPIE vol. 3299, 294--305."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-19",
+                "unstructured": "Guenter, B., Finch, M., Drucker, S., Tan, D., and Snyder, J. 2012. Foveated 3D graphics.ACM Transactions on Graphics (Proc SIGGRAPH Asia) 31, 6, 164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-20",
+                "unstructured": "Hanhart, P., and Ebrahimi, T. 2014. Subjective evaluation of two stereoscopic imaging systems exploiting visual attention to improve 3D quality of experience. InProc. SPIE vol. 9011, 0D-1-11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-21",
+                "unstructured": "Harris, J. M., and Watamaniuk, S. N. 1995. Speed discrimination of motion-in-depth using binocular cues.Vision Research 35, 7, 885--896."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-22",
+                "unstructured": "Harris, J. M., McKee, S. P., and Watamaniuk, S. N. 1998. Visual search for motion-in-depth: Stereomotion does not 'pop out' from disparity noise.Nature Neuroscience 1, 2, 165--168."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-23",
+                "unstructured": "Hoffman, D., Girshick, A., Akeley, K., and Banks, M. 2008. Vergence-accommodation conflicts hinder visual performance and cause visual fatigue.J. Vision 8, 3, 1--30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-24",
+                "unstructured": "Hoffman, D. M., Karasev, V. I., and Banks, M. S. 2011. Temporal presentation protocols in stereoscopic displays: Flicker visibility, perceived motion, and perceived depth.Journal of the Society for Information Display 19, 3, 271--297."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-25",
+                "unstructured": "Jacobs, D., Gallo, O., A. Cooper, E., Pulli, K., and Levoy, M. 2015. Simulating the visual experience of very bright and very dark scenes.ACM Trans. Graph. 34, 3, 25:1--25:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-26",
+                "unstructured": "Jones, G. R., Lee, D., Holliman, N. S., and Ezra, D. 2001. Controlling perceived depth in stereoscopic images. InSPIE vol. 4297, 42--53."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-27",
+                "unstructured": "Kane, D., Guan, P., and Banks, M. S. 2014. The limits of human stereopsis in space and time.The Journal of Neuroscience 34, 4, 1397--1408."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-28",
+                "unstructured": "Kim, T., Park, J., Lee, S., and Bovik, A. C. 2014. 3D visual discomfort prediction based on physiological optics of binocular vision and foveation. InAsia-Pacific Signal and Information Proc. Assoc. (APSIPA), 1--4.",
+                "DOI": "10.1109/APSIPA.2014.7041805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-29",
+                "unstructured": "Komogortsev, O. V., and Khan, J. I. 2008. Eye movement prediction by Kalman filter with integrated linear horizontal oculomotor plant mechanical model. InProc. Symp. on Eye Tracking Res. and Appl. (ETRA), 229--236."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-30",
+                "unstructured": "Krishnan, V., Farazian, F., and Stark, L. 1973. An analysis of latencies and prediction in the fusional vergence system.Am. J. Optometry and Arch. Am. Academy of Optometry 50, 933--9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-31",
+                "unstructured": "Lang, M., Hornung, A., Wang, O., Poulakos, S., Smolic, A., and Gross, M. 2010. Nonlinear disparity mapping for stereoscopic 3D.ACM Trans. Graph. (Proc. SIGGRAPH) 29, 4, 75."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-32",
+                "unstructured": "Liu, S., and Hua, H. 2008. Spatialchromatic foveation for gaze contingent displays. InProc. Symp. on Eye Tracking Res. and Appl. (ETRA), 139--142."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-33",
+                "unstructured": "Loschky, L. C., and Wolverton, G. S. 2007. How late can you update gaze-contingent multiresolutional displays without detection?ACM Trans. Multimedia Comput. Commun. Appl. 3, 4, 7:1--7:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-34",
+                "unstructured": "Mantiuk, R., Bazyluk, B., and Tomaszewska, A. 2011. Gaze-dependent depth-of-field effect rendering in virtual environments. InSerious Games Development and Appl.1--12.",
+                "DOI": "10.1007/978-3-642-23834-5_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-35",
+                "unstructured": "Masia, B., Wetzstein, G., Aliaga, C., Raskar, R., and Gutierrez, D. 2013. Display adaptive 3D content remapping.Computers &#38; Graphics 37, 8, 983--996."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-36",
+                "unstructured": "McConkie, G. W., and Loschky, L. C. 2002. Perception onset time during fixations in free viewing.Behavior Research Methods, Instruments, &#38; Computers 34, 4, 481--490."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-37",
+                "unstructured": "Murphy, H., and Duchowski, A. T. 2001. Gaze-contingent level of detail rendering.Eurographics Short Presntations."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-38",
+                "unstructured": "Oskam, T., Hornung, A., Bowles, H., Mitchell, K., and Gross, M. H. 2011. OSCAM-optimized stereoscopic camera control for interactive 3D.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 30, 6, 189."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-39",
+                "unstructured": "Peli, E., Hedges, T. R., Tang, J., and Landmann, D. 2001. A binocular stereoscopic display system with coupled convergence and accommodation demands. InSID Symposium Digest of Technical Papers, vol. 32, 1296--1299."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-40",
+                "unstructured": "Portfors-Yeomans, C., and Regan, D. 1996. Cyclopean discrimination thresholds for the direction and speed of motion in depth.Vision Research 36, 20, 3265--3279."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-41",
+                "unstructured": "Rawlings, S. C., and Shipley, T. 1969. Stereoscopic acuity and horizontal angular distance from fixation.J. Opt. Soc. Am. 59, 8, 991--993."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-42",
+                "unstructured": "Reinhard, E., Ward, G., Debevec, P., Pattanaik, S., Heidrich, W., and Myszkowski, K. 2010.High Dynamic Range Imaging. Morgan Kaufmann Publishers, 2nd edition."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-43",
+                "unstructured": "Scharstein, D., Hirschm&#252;ller, H., Kitajima, Y., Krathwohl, G., Ne&#353;i&#263;, N., Wang, X., and Westling, P. 2014. High-resolution stereo datasets with subpixel-accurate ground truth. InPattern Recognition.Springer, 31--42.",
+                "DOI": "10.1007/978-3-319-11752-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-44",
+                "unstructured": "Semmlow, J., and Wetzel, P. 1979. Dynamic contributions of the components of binocular vergence.J Opt Soc Am A 69, 639--45."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-45",
+                "unstructured": "Semmlow, J., Hung, G., and Ciuffreda, K. 1986. Quantitative assessment of disparity vergence components.Invest. Ophthalmol. Vis. Sci. 27, 558--64."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-46",
+                "unstructured": "Sherstyuk, A., Dey, A., Sandor, C., and State, A. 2012. Dynamic eye convergence for head-mounted displays improves user performance in virtual environments. InProc I3D, 23--30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-47",
+                "unstructured": "Shibata, T., Kim, J., Hoffman, D. M., and Banks, M. S. 2011. The zone of comfort: Predicting visual discomfort with stereo displays.J. Vision 11, 8, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-48",
+                "unstructured": "Templin, K., Didyk, P., Myszkowski, K., Hefeeda, M. M., Seidel, H.-P., and Matusik, W. 2014. Modeling and optimizing eye vergence response to stereoscopic cuts.ACM Transactions on Graphics (Proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-49",
+                "unstructured": "Tyler, C. W. 1975. Spatial organization of binocular disparity sensitivity.Vision Research 15, 5, 583--590."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-50",
+                "unstructured": "Vinnikov, M., and Allison, R. S. 2014. Gaze-contingent depth of field in realistic scenes: The user experience. InProc. Symp. on Eye Tracking Res. and Appl. (ETRA), 119--126.",
+                "DOI": "10.1145/2578153.2578170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-51",
+                "unstructured": "Watson, A. B., and Pelli, D. G. 1983. QUEST: A Bayesian adaptive psychometric method.Perception &#38; Psychophysics 33, 2, 113--120."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-52",
+                "unstructured": "Zhang, J., and Sclaroff, S. 2013. Saliency detection: a Boolean map approach. InProc. of the IEEE International Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2013.26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-53",
+                "unstructured": "Zilly, F., Kluger, J., and Kauff, P. 2011. Production rules for stereo acquisition.Proc. IEEE 99, 4, 590--606."
+            },
+            {
+                "key": "key-10.1145/2897824.2925866-54",
+                "unstructured": "Zwicker, M., Matusik, W., Durand, F., and Pfister, H. 2006. Antialiasing for automultiscopic 3D displays. InProceedings of the 17th Eurographics Conference on Rendering Techniques, Eurographics Association, 73--82.",
+                "DOI": "10.1145/1179849.1179983",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925866&amp;ftid=1755895&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:42:56Z",
+            "timestamp": 1568162576000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "seamless disparity manipulations"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925866",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

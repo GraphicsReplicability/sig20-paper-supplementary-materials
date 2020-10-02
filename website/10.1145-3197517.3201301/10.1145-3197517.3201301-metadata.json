@@ -1,0 +1,412 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:43:16Z",
+            "timestamp": 1578724996813
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201301",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Point convolutional neural networks by extension operators"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Matan",
+                "family": "Atzmon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Haggai",
+                "family": "Maron",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201301-1",
+                "unstructured": "Mart&#237;n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Man&#233;, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi&#233;gas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. (2015). https://www.tensorflow.org/ Software available from tensorflow.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-2",
+                "unstructured": "Mikhail Belkin and Partha Niyogi. 2005. Towards a theoretical foundation for Laplacian-based manifold methods.. InCOLT, Vol. 3559. Springer, 486--500.",
+                "DOI": "10.1007/11503415_33",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-3",
+                "unstructured": "Jon Louis Bentley. 1975. Multidimensional binary search trees used for associative searching.Commun. ACM18, 9 (1975), 509--517.",
+                "DOI": "10.1145/361002.361007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-4",
+                "unstructured": "Matthew Berger, Andrea Tagliasacchi, Lee M Seversky, Pierre Alliez, Gael Guennebaud, Joshua A Levine, Andrei Sharf, and Claudio T Silva. 2017. A survey of surface reconstruction from point clouds. InComputer Graphics Forum, Vol. 36. Wiley Online Library, 301--329."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-5",
+                "unstructured": "Davide Boscaini, Jonathan Masci, Emanuele Rodol&#224;, and Michael M. Bronstein. 2016. Learning shape correspondence with anisotropic convolutional neural networks. InNIPS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-6",
+                "unstructured": "Andrew Brock, Theodore Lim, James M Ritchie, and Nick Weston. 2016. Generative and discriminative voxel modeling with convolutional neural networks.arXiv preprint arXiv:1608.04236(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-7",
+                "unstructured": "Michael M Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, and Pierre Vandergheynst. 2017. Geometric deep learning: going beyond euclidean data.IEEE Signal Processing Magazine34, 4 (2017), 18--42."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-8",
+                "unstructured": "David S Broomhead and David Lowe. 1988.Radial basis functions, multi-variable functional interpolation and adaptive networks.Technical Report. Royal Signals and Radar Establishment Malvern (United Kingdom)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-9",
+                "unstructured": "Joan Bruna, Wojciech Zaremba, Arthur Szlam, and Yann LeCun. 2013. Spectral networks and locally connected networks on graphs.arXiv preprint arXiv:1312.6203(2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-10",
+                "unstructured": "Yu D Burago and Viktor A Zalgaller. 2013.Geometry III: theory of surfaces.Vol. 48. Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-11",
+                "unstructured": "Jonathan C Carr, Richard K Beatson, Jon B Cherrie, Tim J Mitchell, W Richard Fright, Bruce C McCallum, and Tim R Evans. 2001. Reconstruction and representation of 3D objects with radial basis functions. InProceedings of the 28th annual conference on Computer graphics and interactive techniques.ACM, 67--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-12",
+                "unstructured": "&#214;zg&#252;n &#199;i&#231;ek, Ahmed Abdulkadir, Soeren S Lienkamp, Thomas Brox, and Olaf Ronneberger. 2016. 3D U-Net: learning dense volumetric segmentation from sparse annotation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention.Springer, 424--432.",
+                "DOI": "10.1007/978-3-319-46723-8_49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-13",
+                "unstructured": "Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, and Yichen Wei. 2017. Deformable Convolutional Networks.arXiv preprint arXiv:1703.06211(2017).",
+                "DOI": "10.1109/ICCV.2017.89",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-14",
+                "unstructured": "Micha&#235;l Defferrard, Xavier Bresson, and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. InAdvances in Neural Information Processing Systems.3837--3845."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-15",
+                "unstructured": "Manfredo P Do Carmo, Gerd Fischer, Ulrich Pinkall, and Helmut Reckziegel. 2017. Differential Geometry. InMathematical Models.Springer, 155--180."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-16",
+                "unstructured": "Paul Guerrero, Yanir Kleiman, Maks Ovsjanikov, and Niloy J Mitra. 2017. PCP-NET: Learning Local Shape Properties from Raw Point Clouds.arXiv preprint arXiv:1710.04954(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-17",
+                "unstructured": "Vishakh Hegde and Reza Zadeh. 2016. Fusionnet: 3d object classification using multiple data representations.arXiv preprint arXiv:1607.05695(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-18",
+                "unstructured": "Mikael Henaff, Joan Bruna, and Yann LeCun. 2015. Deep convolutional networks on graph-structured data.arXiv preprint arXiv:1506.05163(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-19",
+                "unstructured": "Evangelos Kalogerakis, Melinos Averkiou, Subhransu Maji, and Siddhartha Chaudhuri. 2016. 3D Shape Segmentation with Projective Convolutional Networks.arXiv preprint arXiv:1612.02808(2016).",
+                "DOI": "10.1109/CVPR.2017.702",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-20",
+                "unstructured": "Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen. 2017. Progressive growing of gans for improved quality, stability, and variation.arXiv preprint arXiv:1710.10196(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-21",
+                "unstructured": "Roman Klokov and Victor Lempitsky. 2017. Escape from Cells: Deep Kd-Networks for The Recognition of 3D Point Cloud Models.arXiv preprint arXiv:1704.01222(2017).",
+                "DOI": "10.1109/ICCV.2017.99",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-22",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in neural information processing systems.1097--1105."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-23",
+                "unstructured": "Yangyan Li, Rui Bu, Mingchao Sun, and Baoquan Chen. 2018. PointCNN.arXiv preprint arXiv:1801.07791(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-24",
+                "unstructured": "Yangyan Li, Soeren Pirk, Hao Su, Charles R Qi, and Leonidas J Guibas. 2016. Fpnn: Field probing neural networks for 3d data. InAdvances in Neural Information Processing Systems.307--315."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-25",
+                "unstructured": "Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, VLADIMIR G KIM, and Yaron Lipman. 2017. Convolutional Neural Networks on Surfaces via Seamless Toric Covers. SIGGRAPH.",
+                "DOI": "10.1145/3072959.3073616",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-26",
+                "unstructured": "Jonathan Masci, Davide Boscaini, Michael Bronstein, and Pierre Vandergheynst. 2015. Geodesic convolutional neural networks on riemannian manifolds. InProceedings of the IEEE International Conference on Computer Vision Workshops.37--45.",
+                "DOI": "10.1109/ICCVW.2015.112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-27",
+                "unstructured": "Daniel Maturana and Sebastian Scherer. 2015. Voxnet: A 3d convolutional neural network for real-time object recognition. InIntelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on.IEEE, 922--928."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-28",
+                "unstructured": "Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodol&#224;, Jan Svoboda, and Michael M Bronstein. 2016. Geometric deep learning on graphs and manifolds using mixture model CNNs.arXiv preprint arXiv:1611.08402(2016).",
+                "DOI": "10.1109/CVPR.2017.576",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-29",
+                "unstructured": "Elizbar A Nadaraya. 1964. On estimating regression.Theory of Probability &#38; Its Applications9, 1 (1964), 141--142.",
+                "DOI": "10.1137/1109020",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-30",
+                "unstructured": "Mark JL Orr. 1999. Recent advances in radial basis function networks.Institute for Adaptative and Neural Computation(1999)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-31",
+                "unstructured": "Mark JL Orr et al. 1996. Introduction to radial basis function networks. (1996)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-32",
+                "unstructured": "Jooyoung Park and Irwin W Sandberg. 1991. Universal approximation using radial-basis-function networks.Neural computation3, 2 (1991), 246--257.",
+                "DOI": "10.1162/neco.1991.3.2.246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-33",
+                "unstructured": "Charles R. Qi, Hao Su, Kaichun Mo, and Leonidas J. Guibas. 2016a. PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.arXiv preprint arXiv:1612.00593(2016).",
+                "DOI": "10.1109/CVPR.2017.16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-34",
+                "unstructured": "Charles Ruizhongtai Qi, Hao Su, Matthias Nie&#223;ner, Angela Dai, Mengyuan Yan, and Leonidas Guibas. 2016b. Volumetric and Multi-View CNNs for Object Classification on 3D Data. InProc. Computer Vision and Pattern Recognition (CVPR), IEEE.",
+                "DOI": "10.1109/CVPR.2016.609",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-35",
+                "unstructured": "Charles R Qi, Li Yi, Hao Su, and Leonidas J Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.arXiv preprint arXiv:1706.02413(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-36",
+                "unstructured": "Siamak Ravanbakhsh, Jeff Schneider, and Barnabas Poczos. 2016. Deep learning with sets and point clouds.arXiv preprint arXiv:1611.04500(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-37",
+                "unstructured": "Gernot Riegler, Ali Osman Ulusoys, and Andreas Geiger. 2016. Octnet: Learning deep 3d representations at high resolutions.arXiv preprint arXiv:1611.05009(2016).",
+                "DOI": "10.1109/CVPR.2017.701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-38",
+                "unstructured": "Kristof Sch&#252;tt, Pieter-Jan Kindermans, Huziel Enoc Sauceda Felix, Stefan Chmiela, Alexandre Tkatchenko, and Klaus-Robert M&#252;ller. 2017. MolecuLeNet: A continuous-filter convolutional neural network for modeling quantum interactions. InAdvances in Neural Information Processing Systems.992--1002."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-39",
+                "unstructured": "Martin Simonovsky and Nikos Komodakis. 2017. Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.arXiv preprint arXiv:1704.02901(2017).",
+                "DOI": "10.1109/CVPR.2017.11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-40",
+                "unstructured": "Ayan Sinha, Jing Bai, and Karthik Ramani. 2016. Deep learning 3D shape surfaces using geometry images. InEuropean Conference on Computer Vision.Springer, 223--240.",
+                "DOI": "10.1007/978-3-319-46466-4_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-41",
+                "unstructured": "Hang Su, Subhransu Maji, Evangelos Kalogerakis, and Erik Learned-Miller. 2015. Multi-view convolutional neural networks for 3d shape recognition. InProceedings of the IEEE International Conference on Computer Vision.945--953.",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-42",
+                "unstructured": "Peng-Shuai Wang, Yang Liu, Yu-Xiao Guo, Chun-Yu Sun, and Xin Tong. 2017. O-cnn: Octree-based convolutional neural networks for 3d shape analysis.ACM Transactions on Graphics (TOG)36, 4 (2017), 72."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-43",
+                "unstructured": "Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E Sarma, Michael M Bronstein, and Justin M Solomon. 2018. Dynamic Graph CNN for Learning on Point Clouds.arXiv preprint arXiv:1801.07829(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-44",
+                "unstructured": "Eric W Weisstein. 2000. Normal sum distribution. (2000).",
+                "DOI": "10.1007/1-4020-0613-6_12512",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-45",
+                "unstructured": "Holger Wendland. 2004.Scattered data approximation.Vol. 17. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511617539",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-46",
+                "unstructured": "Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, and Jianxiong Xiao. 2015. 3d shapenets: A deep representation for volumetric shapes. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.1912--1920.",
+                "DOI": "10.1109/CVPR.2015.7298801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-47",
+                "unstructured": "Li Yi, Vladimir G Kim, Duygu Ceylan, I Shen, Mengyan Yan, Hao Su, ARCewu Lu, Qixing Huang, Alia Sheffer, Leonidas Guibas, et al. 2016a. A scalable active framework for region annotation in 3d shape collections.ACM Transactions on Graphics (TOG)35, 6 (2016), 210."
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-48",
+                "unstructured": "Li Yi, Hao Su, Xingwen Guo, and Leonidas Guibas. 2016b. SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation.arXiv preprint arXiv:1612.00606(2016).",
+                "DOI": "10.1109/CVPR.2017.697",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201301-49",
+                "unstructured": "Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakhutdinov, and Alexander Smola. 2017. Deep Sets.arXiv preprint arXiv:1703.06114(2017)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201301&ftid=1991771&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:49:21Z",
+            "timestamp": 1571672961000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201301",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

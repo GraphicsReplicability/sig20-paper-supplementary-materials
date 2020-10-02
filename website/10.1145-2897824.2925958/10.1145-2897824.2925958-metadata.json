@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:19Z",
+            "timestamp": 1574815999365
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925958",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Connected fermat spirals for layered fabrication"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Fanglin",
+                "family": "Gu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Qi-Xing",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TTI Chicago"
+                    }
+                ]
+            },
+            {
+                "given": "Jorge",
+                "family": "Garcia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Yong",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC"
+                    }
+                ]
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Bedrich",
+                "family": "Benes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925958-1",
+                "unstructured": "Arkina, E. M., Feketeb, S. P., and Mitchell, J. S. 2000. Approximation algorithms for lawn mowing and milling.Computational Geometry 17, 1-2, 25--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-2",
+                "unstructured": "Chen, X., Zhang, H., Lin, J., Hu, R., Lu, L., Huang, Q., Benes, B., Cohen-Or, D., and Chen, B. 2015. Dapper: Decompose-and-pack for 3D Printing.ACM Trans. on Graph 34, 6, 213:1--213:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-3",
+                "unstructured": "Dafner, R., Cohen-Or, D., and Matias, Y. 2000. Context-based Space Filling Curves.Computer Graphics Forum 19, 3, 209--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-4",
+                "unstructured": "Ding, D., Pan, Z. S., Cuiuri, D., and Li, H. 2014. A tool-path generation strategy for wire and arc additive manufacturing.Int. J. of Adv. Manufact. Tech. 73, 1-4, 173--183."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-5",
+                "unstructured": "Dinh, H. Q., Gelman, F., Lefebvre, S., and Claux, F. 2015. Modeling and Toolpath Generation for Consumer-level 3D Printing. InACM SIGGRAPH Courses, 17:1--17:273."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-6",
+                "unstructured": "Dwivedi, R., and Kovacevic, R. 2004. Automated torch path planning using polygon subdivision for solid freeform fabrication based on welding.J. of Manufact. Sys. 23, 4, 278--291."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-7",
+                "unstructured": "El-Midany, T. T., Elkeran, A., and Tawfik, H. 1993. Tool path pattern comparison: contour-parallel with direction-parallel. InGeom. model. and imaging --- new trends, 77--82."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-8",
+                "unstructured": "Gibson, I., Rosen, D., and Stucker, B. 2015.Additive Manufacturing Technologies, 2nd ed. Springer.",
+                "DOI": "10.1007/978-1-4939-2113-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-9",
+                "unstructured": "Held, M., and Spielberger, C. 2014. Improved spiral highspeed machining of multiply-connected pockets.Computer-Aided Design and Applications 11, 3, 346--357."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-10",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2013. Orthogonal slicing for additive manufacturing.Computers &#38; Graphics 37, 6, 669--675. Shape Model. Intl. (SMI) Conf.",
+                "DOI": "10.1016/j.cag.2013.05.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-11",
+                "unstructured": "Hu, R., Li, H., Zhang, H., and Cohen-Or, D. 2014. Approximate pyramidal shape decomposition. ACM Trans. on Graph 33, 6, 213:1--213:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-12",
+                "unstructured": "Jin, G., Li, W., and Gao, L. 2013. An adaptive process planning approach of rapid prototyping and manufacturing. Robotics and Computer-Integrated Manufacturing 29, 1, 23--38.",
+                "DOI": "10.1016/j.rcim.2012.07.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-13",
+                "unstructured": "Jin, Y. A., He, Y., Fu, J. Z., Gan, W. F., and Lin, Z. W. 2014. Optimization of tool-path generation for material extrusion-based additive manufacturing technology. Additive Manufacturing 1, 4, 32--47.",
+                "DOI": "10.1016/j.addma.2014.08.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-14",
+                "unstructured": "Johnson, A., 2015. Clipper - an open source freeware library for clipping and offsetting lines and polygons. http://www.angusj.com/delphi/clipper.php."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-15",
+                "unstructured": "Kulkarni, P., Marsan, A., and Dutta, D. 2000. A review of process planning techniques in layered manufacturing. Rapid Prototyping Journal 6, 18--35.",
+                "DOI": "10.1108/13552540010309859",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-16",
+                "unstructured": "Lu, L., Sharf, A., Zhao, H., Wei, Y., Fan, Q., Chen, X., Savoye, Y., Tu, C., Cohen-Or, D., and Chen, B. 2014. Build-to-last: Strength to weight 3D printed objects. ACM Trans. on Graph 33, 4, 97:1--97:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-17",
+                "unstructured": "Luo, L., Baran, I., Rusinkiewicz, S., and Matusik, W. 2012. Chopper: Partitioning models into 3D-printable parts. ACM Trans. on Graph 31, 6, 129:1--129:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-18",
+                "unstructured": "Pedersen, H., and Singh, K. 2006. Organic labyrinths and mazes. In Proc. of Non-photorealistic Animation and Rendering (NPAR), 79--86.",
+                "DOI": "10.1145/1124728.1124742",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-19",
+                "unstructured": "Pottmann, H., Wallner, J., Huang, Q.-X., and Yang, Y.-L. 2009. Integral invariants for robust geometry processing. Comp. Aided Geom. Design 26, 1, 37--60.",
+                "DOI": "10.1016/j.cagd.2008.01.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-20",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing shapes for 3D fabrication. ACM Trans. on Graph 32, 4, 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-21",
+                "unstructured": "Ren, F., Sun, Y., and Guo, D. 2009. Combined reparameterization-based spiral toolpath generation for five-axis sculptured surface machining. Int. J. of Adv. Manufac. Tech. 40, 7, 760--768.",
+                "DOI": "10.1007/s00170-008-1385-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-22",
+                "unstructured": "Slic3r, 2016. Slic3r. http://slic3r.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-23",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: improving structural strength of 3D printable objects. ACM Trans. on Graph 31, 4, 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-24",
+                "unstructured": "Vanek, J., Garcia, J., Benes, B., Mech, R., Carr, N., Stava, O., and Miller, G. 2014. PackMerger: A 3D print volume optimizer. Computer Graphics Forum 33, 6, 322--332.",
+                "DOI": "10.1111/cgf.12353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-25",
+                "unstructured": "Vanek, J., Galicia, J. A. G., and Benes, B. 2014. Clever support: Efficient support structure generation for digital fabrication. Computer Graphics Forum 33, 5, 117--125.",
+                "DOI": "10.1111/cgf.12437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-26",
+                "unstructured": "Wang, L., and Cao, J. 2012. A look-ahead and adaptive speed control algorithm for high-speed CNC equipment. Int. J. of Adv. Manufact. Techn. 63, 705--717.",
+                "DOI": "10.1007/s00170-012-3924-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-27",
+                "unstructured": "Wang, L., Cao, J. F., and Li, Y. Q. 2010. Speed optimization control method of smooth motion for high-speed CNC machine tools. Int. J. of Adv. Manufact. Tech. 49, 313--325.",
+                "DOI": "10.1007/s00170-009-2383-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-28",
+                "unstructured": "Wasser, T., Jayal, A. D., and Pistor, C. 1999. Implementation and evaluation of novel buildstyles in fused deposition modeling. Strain 5, 6, 95--102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-29",
+                "unstructured": "Wikipedia, 2015. Fermat's spiral --- wikipedia, the free encyclopedia. [Online; accessed 28-November-2015]."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-30",
+                "unstructured": "Wikipedia, 2016. Labyrinth --- wikipedia, the free encyclopedia. [Online; accessed 10-April-2016]."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-31",
+                "unstructured": "Yang, Y., Loh, H., Fuh, J., and Wang, Y. 2002. Equidistant path generation for improving scanning efficiency in layered manufacturing.Rapid Prototyping Journal 8, 1, 30--37."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-32",
+                "unstructured": "Yao, M., Chen, Z., Luo, L., Wang, R., and Wang, H. 2015. Level-set-based partitioning and packing optimization of a printable model.ACM Trans. on Graph 34, 6, 214:1--214:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925958-33",
+                "unstructured": "Zhang, X., Le, X., Panotopoulou, A., Whiting, E., and Wang, C. C. L. 2015. Perceptual Models of Preference in 3D Printing Direction.ACM Trans. Graph. 34, 6, 215:1--215:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925958&amp;ftid=1755885&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:01Z",
+            "timestamp": 1568162761000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925958",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

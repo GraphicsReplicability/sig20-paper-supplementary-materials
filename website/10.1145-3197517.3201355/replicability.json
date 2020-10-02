@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/13/2020 12:35:35",
+    "Title": "What characterizes personalities of graphic designs?",
+    "DOI": "10.1145/3197517.3201355",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "http://nxzhao.com/projects/design_personality/personality_scoring_network_SIG18.zip",
+    "code URL  2": "",
+    "PDF URL": "http://nxzhao.com/projects/design_personality/Graphic_Design_Personality_SIG18_zhao.pdf",
+    "License type": "This code is copyrighted by the authors and is for non-commercial research purposes only. Please contact nanxuanzhao@gmail.com if you are interested in licensing for commercial purposes",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Perception",
+    "ACM 2": "Neural networks",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The authors provide both the training data and the pretrained models. However, I obtained tensorflow errors when trying to test the model:\n\nValueError: Negative dimension size caused by subtracting 4 from 3 for 'MaxPool' (op: 'MaxPool') with input shapes: [?,3,300,64].",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "keras/theano/h5py/tensorflow",
+    "Project URL": "http://nxzhao.com/projects/design_personality/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Nanxuan",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "City University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Ying",
+            "family": "Cao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "City University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Rynson W. H.",
+            "family": "Lau",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "City University of Hong Kong"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

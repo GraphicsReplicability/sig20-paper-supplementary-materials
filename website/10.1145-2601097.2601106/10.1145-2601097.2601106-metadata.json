@@ -1,0 +1,464 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410043
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Israel-US BSF",
+                "award": []
+            },
+            {
+                "name": "European Research Council under the European Unions Seventh Framework Programme (FP/2007-2013)/ERC",
+                "award": [
+                    "257453"
+                ]
+            },
+            {
+                "name": "Side Effects",
+                "award": []
+            },
+            {
+                "name": "JSPS Postdoctoral Fellowships for Research Abroad",
+                "award": []
+            },
+            {
+                "name": "The Walt Disney Company",
+                "award": []
+            },
+            {
+                "name": "Autodesk",
+                "award": []
+            },
+            {
+                "name": "NVIDIA",
+                "award": []
+            },
+            {
+                "name": "Niedersachsen-Israel",
+                "award": []
+            },
+            {
+                "name": "SNSF",
+                "award": [
+                    "200021 137626"
+                ]
+            },
+            {
+                "name": "Intel",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601106",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 33,
+        "title": [
+            "Wire mesh design"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Akash",
+                "family": "Garg",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Andrew O.",
+                "family": "Sageman-Furnas",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Bailin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yonghao",
+                "family": "Yue",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Max",
+                "family": "Wardetzky",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601106-1",
+                "unstructured": "Adkins, J. E. 1956. Finite Plane Deformation of Thin Elastic Sheets Reinforced with Inextensible Cords.Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 249, 961, 125--150.",
+                "DOI": "10.1098/rsta.1956.0017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-2",
+                "unstructured": "Aono, M., Denti, P., Breen, D. E., and Wozny, M. J. 1996. Fitting a woven cloth model to a curved surface: dart insertion.IEEE Computer Graphics and Applications 16, 5, 60--70.",
+                "DOI": "10.1109/38.536276",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-3",
+                "unstructured": "Aono, M., Breen, D. E., and Wozny, M. J. 2001. Modeling methods for the design of 3D broadcloth composite parts.Computer-Aided Design 33, 13, 989--1007.",
+                "DOI": "10.1016/S0010-4485(00)00135-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-4",
+                "unstructured": "Aono, M. 1994.Computer-Aided Geometric Design for Forming Woven Cloth Composites. PhD thesis, Rensselaer Polytechnic Institute."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-5",
+                "unstructured": "Baillargeon, Y., and Vu-Khanh, T. 2001. Prediction of fiber orientation and microstructure of woven fabric composites after forming.Composite Structures 52, 3-4, 475--481.",
+                "DOI": "10.1016/S0263-8223(01)00037-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-6",
+                "unstructured": "Bakelman, I. Y. 1965. Chebyshev networks in manifolds of bounded curvature.Trudy Matematicheskogo Instituta im. VA Steklova 76, 124--129."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-7",
+                "unstructured": "Bieberbach, L. 1926. &#252;ber Tchebychefsche Netze auf Fl&#228;chen negativer kr&#252;mmung, sowie auf einigen weiteren fl&#228;chenarten.Preuss. Akad. Wiss., Phys. Math. Kl 23, 294--321."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-8",
+                "unstructured": "Bo, P., Pottmann, H., Kilian, M., Wang, W., and Wallner, J. 2011. Circular arc structures.ACM Trans. Graph. (SIGGRAPH '11) 30, 4, 101:1--101:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-9",
+                "unstructured": "Bobenko, A. I., and Pinkall, U. 1996. Discrete surfaces with constant negative Gaussian curvature and the Hirota equation.Journal of Differential Geometry 43, 3, 527--611."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-10",
+                "unstructured": "Bouaziz, S., Deuss, M., Schwartzburg, Y., Weise, T., and Pauly, M. 2012. Shape-up: Shaping discrete geometry with projections.Comp. Graph. Forum (SGP '12) 31, 5, 1657--1667."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-11",
+                "unstructured": "Burago, Y. D., Ivanov, S. V., and Malev, S. G. 2007. Remarks on Chebyshev Coordinates.Journal of Mathematical Sciences 140, 4, 497--501.",
+                "DOI": "10.1007/s10958-007-0429-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-12",
+                "unstructured": "Cignoni, P., Pietroni, N., Malomo, L., and Scopigno, R. 2014. Field-aligned mesh joinery.ACM Trans. Graph. 33, 1, 11:1--11:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-13",
+                "unstructured": "de Goes, F., Alliez, P., Owhadi, H., and Desbrun, M. 2013. On the equilibrium of simplicial masonry structures.ACM Trans. Graph. (SIGGRAPH '13) 32, 4, 93:1--93:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-14",
+                "unstructured": "Deng, B., Bouaziz, S., Deuss, M., Zhang, J., Schwartzburg, Y., and Pauly, M. 2013. Exploring local modifications for constrained meshes.Computer Graphics Forum (EUROGRAPHICS '13) 32, 2, 11--20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-15",
+                "unstructured": "Deng, B., Bouaziz, S., Deuss, M., Kaspar, A., Schwartzburg, Y., and Pauly, M. 2014. Interactive design exploration for constrained meshes.Computer-Aided Design. To appear.",
+                "DOI": "10.1016/j.cad.2014.01.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-16",
+                "unstructured": "Eigensatz, M., Kilian, M., Schiftner, A., Mitra, N., Pottmann, H., and Pauly, M. 2010. Paneling architectural freeform surfaces.ACM Trans. Graph. (SIGGRAPH '10) 29, 4, 45:1--45:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-17",
+                "unstructured": "Ghys, &#201;. 2011. Sur la coupe des v&#234;tements: variation autour d'un th&#232;me de Tchebychev.L'Enseignement Math&#233;matique Revue Internationale 2e S&#232;rie 57, 1--2, 165--208."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-18",
+                "unstructured": "Hazzidakis, J. N. 1879. &#220;ber einige Eigenschaften der Fl&#228;chen mit constantem Kr&#252;mmungsmass.Journal f&#252;r die reine und angewandte Mathematik 88, 68--73."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-19",
+                "unstructured": "Hoffmann, T. 1999. Discrete Amsler surfaces and a discrete Painlev&#233; III equation.Oxford Lecture Series in Mathematics and its Applications 16, 83--96."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-20",
+                "unstructured": "Liu, Y., Pottmann, H., Wallner, J., Yang, Y.-L., and Wang, W. 2006. Geometric modeling with conical meshes and developable surfaces.ACM Trans. Graph. (SIGGRAPH '06) 25, 3, 681--689."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-21",
+                "unstructured": "Liu, Y., Pan, H., Snyder, J., Wang, W., and Guo, B. 2013. Computing self-supporting surfaces by regular triangulation.ACM Trans. Graph. (SIGGRAPH '13) 32, 4, 92:1--92:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-22",
+                "unstructured": "M&#246;bius, J., and Kobbelt, L. 2012. Openflipper: An open source geometry processing and rendering framework. InCurves and Surfaces, J.-D. Boissonnat, P. Chenin, A. Cohen, C. Gout, T. Lyche, M.-L. Mazure, and L. Schumaker, Eds., vol. 6920 ofLecture Notes in Computer Science. Springer Berlin Heidelberg, 488--500."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-23",
+                "unstructured": "Panozzo, D., Block, P., and Sorkine-Hornung, O. 2013. Designing unreinforced masonry models.ACM Trans. Graph. (SIGGRAPH '13) 32, 4, 91:1--91:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-24",
+                "unstructured": "Pinkall, U. 2008. Designing cylinders with constant negative curvature. InDiscrete Differential Geometry. Springer, 57--66.",
+                "DOI": "10.1007/978-3-7643-8621-4_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-25",
+                "unstructured": "Pipkin, A. C. 1984. Equilibrium of Tchebychev nets.Archive for Rational Mechanics and Analysis 85, 1, 81--97.",
+                "DOI": "10.1007/BF00250867",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-26",
+                "unstructured": "Pipkin, A. C. 1986. Continuously distributed wrinkles in fabrics.Archive for Rational Mechanics and Analysis 95, 2, 93--115.",
+                "DOI": "10.1007/BF00281083",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-27",
+                "unstructured": "Poranne, R., Ovreiu, E., and Gotsman, C. 2013. Interactive planarization and optimization of 3D meshes.Computer Graphics Forum 32, 1, 152--163.",
+                "DOI": "10.1111/cgf.12005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-28",
+                "unstructured": "Pottmann, H., Schiftner, A., Bo, P., Schmiedhofer, H., Wang, W., Baldassini, N., and Wallner, J. 2008. Freeform surfaces from single curved panels.ACM Trans. Graph. (SIGGRAPH '08) 27, 3, 76:1--76:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-29",
+                "unstructured": "Pottmann, H., Huang, Q., Deng, B., Schiftner, A., Kilian, M., Guibas, L., and Wallner, J. 2010. Geodesic patterns.ACM Trans. Graph. (SIGGRAPH '10) 29, 4, 43:1--43:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-30",
+                "unstructured": "Rivlin, R. S. 1958. The deformation of a membrane formed by inextensible cords.Archive for Rational Mechanics and Analysis 2, 1, 447--476.",
+                "DOI": "10.1007/BF00277942",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-31",
+                "unstructured": "Rivlin, R. S. 1964. Networks of inextensible cords. InNonlinear Problems of Engineering. Academic Press Professional, Inc., New York, 51--64.",
+                "DOI": "10.1016/B978-1-4832-0078-1.50011-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-32",
+                "unstructured": "Rivlin, R. S. 1997. Plane Strain of a Net Formed by Inextensible Cords. InCollected Papers of R. S. Rivlin, G. I. Barenblatt and D. D. Joseph, Eds. Springer New York, 511--534."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-33",
+                "unstructured": "Robertson, R. E., Hsiue, E. S., Sickafus, E. N., and Yeh, G. S. Y. 1981. Fiber rearrangements during the molding of continuous fiber composites. I. Flat cloth to a hemisphere.Polymer composites 2, 3, 126--131.",
+                "DOI": "10.1002/pc.750020309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-34",
+                "unstructured": "Robertson, R. E., Chu, T. J., Gerard, R. J., Kim, J. H., Park, M., Kim, H. G., and Peterson, R. C. 2000. Three-dimensional fiber reinforcement shapes obtainable from flat, bidirectional fabrics without wrinkling or cutting. Part 2: a single n-sided pyramid, cone, or round box.Composites Part A: Applied Science and Manufacturing 31, 11, 1149--1165."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-35",
+                "unstructured": "Samelson, S. L., and Dayawansa, W. P. 1995. On the Existence of Global Tchebychev Nets.Transactions of the American Mathematical Society 347, 2, 651--660.",
+                "DOI": "10.1090/S0002-9947-1995-1233983-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-36",
+                "unstructured": "Samelson, S. L. 1991. Global Tchebychev Nets on Complete Two-Dimensional Riemannian Surfaces.Archive for Rational Mechanics and Analysis 114, 3, 237--254.",
+                "DOI": "10.1007/BF00385970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-37",
+                "unstructured": "Sauer, R. 1970.Differenzengeometrie. Springer Verlag, Berlin.",
+                "DOI": "10.1007/978-3-642-86411-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-38",
+                "unstructured": "Schwartzburg, Y., and Pauly, M. 2013. Fabrication-aware design with intersecting planar pieces.Computer Graphics Forum (EUROGRAPHICS '13) 32, 2, 317--326."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-39",
+                "unstructured": "Tschebyscheff, P. L. 1878. Sur la coupe des v&#234;tements, \"On the cutting of garments\".Association francaise pour l'avancement des sciences, 154--155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-40",
+                "unstructured": "van West, B. P., Pipes, R. B., and Keefe, M. 1990. A Simulation of the Draping of Bidirectional Fabrics over Arbitrary Surfaces.Journal of the Textile Institute 81, 4, 448--460.",
+                "DOI": "10.1080/00405009008658722",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-41",
+                "unstructured": "Voss, A. 1882. &#220;ber ein neues Princip der Abbildung krummer Oberfl&#228;chen.Mathematische Annalen 19, 1--26."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-42",
+                "unstructured": "Vouga, E., H&#246;binger, M., Wallner, J., and Pottmann, H. 2012. Design of self-supporting surfaces.ACM Trans. Graph. (SIGGRAPH '12) 31, 4, 87:1--87:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-43",
+                "unstructured": "Wang, W. B., and Pipkin, A. C. 1986. Inextensible networks with bending stiffness.Quarterly Journal of Mechanics &#38; Applied Mathematics 39, 3, 343--359."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-44",
+                "unstructured": "Wang, J., Paton, R., and Page, J. R. 1999. The draping of woven fabric preforms and prepregs for production of polymer composite components.Composites Part A: Applied Science and Manufacturing 30, 6, 757--765.",
+                "DOI": "10.1016/S1359-835X(98)00187-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-45",
+                "unstructured": "Wang, W., Liu, Y., Yan, D., Chan, B., Ling, R., and Sun, F. 2008. Hexagonal meshes with planar faces.HKU CS Tech Report TR-2008-13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-46",
+                "unstructured": "Wunderlich, W. 1951.Zur Differenzengeometrie der Fl&#228;chen konstanter negativer Kr&#252;mmung. Springer Verlag."
+            },
+            {
+                "key": "key-10.1145/2601097.2601106-47",
+                "unstructured": "Ye, L., and Daghyani, H. R. 1997. Characteristics of woven fibre fabric reinforced composites in forming process.Composites Part A: Applied Science and Manufacturing 28, 9, 869--874.",
+                "DOI": "10.1016/S1359-835X(97)00053-5",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601106&amp;ftid=1488874&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:07:59Z",
+            "timestamp": 1498151279000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601106",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

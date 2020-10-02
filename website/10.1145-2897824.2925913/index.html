@@ -1,0 +1,103 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Point Registration via Efficient Convex Relaxation <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Haggai <span class="family">Maron</span></li>
+<li> Nadav <span class="family">Dym</span></li>
+<li> Itay <span class="family">Kezurer</span></li>
+<li> Shahar <span class="family">Kovalsky</span></li>
+<li> Yaron <span class="family">Lipman</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925913">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://shaharkov.github.io/projects/ProcrustesMatchingSDP_lowres.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://www.wisdom.weizmann.ac.il/~itayke/assets/pm-code.zip">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://www.wisdom.weizmann.ac.il/~haggaim/projects/point_registration/code.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925913-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925913-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Paywall Closed source software or libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   40</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>A few steps to make the program run on Windows+Matlab R2018a:
+- in all test files, replace
+addpath(genpath('~/mosek'))
+addpath(genpath('~/yalmip'))
+by the actual paths, e.g., 
+addpath(genpath('C:\Program Files\Mosek\9.1\toolbox\R2015a'))
+addpath(genpath('C:\libs\YALMIP-master'))
+
+and similarly for the toolbox_graph (downloadable at https://fr.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph ) or the FAUST data (e.g., addpath('C:\ICCV_2015_source_code\training\watertight_5000') )
+
+- in interleaving.m, line 82, replace
+ X_proj = reshape( intlinprog(fObj,intcon,[],[],A_ds,b_ds,lb,ub,options ), n, n );
+ by
+  X_proj = reshape( intlinprog(fObj,intcon,[],[],A_ds,b_ds,lb,ub,struct(options) ), n, n );
+
+ - in interleaving.m, line 97, replace 
+ X_proj = reshape( intlinprog(fObj,intcon,[],[],A_ds,b_ds,lb,ub,options ), n, n );
+ by
+ X_proj = reshape( intlinprog(fObj,intcon,[],[],A_ds,b_ds,lb,ub,struct(options) ), n, n );
+
+While this produces a warning, this prevents an error in Mosek's intlinprog at line 135
+  options          = mskoptimset(defaultopt,options)
+  
+- Make sure you have about 10GB of free RAM, otherwise Mosek crashes.
+- If you installed Mosek after having installed Yalmip and already run the code unsuccessfully, make sure to "clear CACHED_SOLVERS" otherwise Mosek won't be found by Yalmip as the available solvers are cached.
+ 
+The Faust dataset is at http://faust.is.tue.mpg.de/ (though I don't think the original dataset is needed) and the iccv code has moved from web.stanford.edu/~cqf/convex to   https://cqf.io/convex/
+
+The different tests for 'synthetic', 'faust' and 'scape' run smoothly and produce the expected matchings. I did not test the last script, testPMSDP_scapeRawScans, since it requires manually preprocessing the SCAPE dataset with the ICCV code.
+
+Another run on Linux produced similar results.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,3,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

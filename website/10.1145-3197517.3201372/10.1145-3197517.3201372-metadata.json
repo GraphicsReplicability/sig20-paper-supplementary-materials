@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848181
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201372",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Scale-aware black-and-white abstraction of 3D shapes"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "You-En",
+                "family": "Lin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "National Tsing Hua University"
+                    }
+                ]
+            },
+            {
+                "given": "Yong-Liang",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bath"
+                    }
+                ]
+            },
+            {
+                "given": "Hung-Kuo",
+                "family": "Chu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National Tsing Hua University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201372-1",
+                "unstructured": "Rayan Abdullah and Roger H&#252;ber. 2006.Pictograms, Icons &#38; Signs: A Guide to Information Graphics.Thames and Hudson Ltd."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-2",
+                "unstructured": "Arthur Appel, F. James Rohlf, and Arthur J. Stein. 1979. The Haloed Line Effect for Hidden Line Elimination.. InProceedings of the 6th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '79).151--157.",
+                "DOI": "10.1145/800249.807437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-3",
+                "unstructured": "Henk Bekker, Jos B.T.M. Roerdink, Tobias Isenberg, and Maarten H. Everts. 2009. Depth-Dependent Halos: Illustrative Rendering of Dense Line Data.IEEE Transactions on Visualization and Computer Graphics15 (2009), 1299--1306.",
+                "DOI": "10.1109/TVCG.2009.138",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-4",
+                "unstructured": "Gilbert Louis Bernstein and Wilmot Li. 2015. Lillicon: Using Transient Widgets to Create Scale Variations of Icons.ACM Trans. Graph.34, 4 (2015), 144:1--144:11.",
+                "DOI": "10.1145/2766980",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-5",
+                "unstructured": "Stefan Bruckner and Eduard Gr&#246;ller. 2007. Enhancing Depth-Perception with Flexible Volumetric Halos.IEEE Transactions on Visualization and Computer Graphics13, 6 (2007), 1344--1351.",
+                "DOI": "10.1109/TVCG.2007.70555",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-6",
+                "unstructured": "Ding-Yun Chen, Xiao-Pei Tian, Yu-Te Shen, and Ming Ouhyoung. 2003. On Visual Similarity Based 3D Model Retrieval.Computer Graphics Forum22, 3 (2003), 223--232.",
+                "DOI": "10.1111/1467-8659.00669",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-7",
+                "unstructured": "Forrester Cole, Aleksey Golovinskiy, Alex Limpaecher, Heather Stoddart Barros, Adam Finkelstein, Thomas Funkhouser, and Szymon Rusinkiewicz. 2008. Where Do People Draw Lines?ACM Trans. Graph.27, 3 (2008), 88:1--88:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-8",
+                "unstructured": "Doug DeCarlo, Adam Finkelstein, Szymon Rusinkiewicz, and Anthony Santella. 2003. Suggestive Contours for Conveying Shape.ACM Trans. Graph.22, 3 (2003), 848--855.",
+                "DOI": "10.1145/882262.882354",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-9",
+                "unstructured": "Elmar Eisemann, Sylvain Paris, and Fr&#233;do Durand. 2009. A Visibility Algorithm for Converting 3D Meshes into Editable 2D Vector Graphics.ACM Trans. Graph.28, 3 (2009), 83:1--83:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-10",
+                "unstructured": "Gershon Elber. 1995. Line illustrations is computer graphics.The Visual Computer11, 6 (1995), 290--296.",
+                "DOI": "10.1007/BF01898406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-11",
+                "unstructured": "Ran Gal, Olga Sorkine, Niloy J. Mitra, and Daniel Cohen-Or. 2009. iWIRES: An Analyze-and-edit Approach to Shape Manipulation.ACM Trans. Graph.28, 3 (2009), 33:1--33:10.",
+                "DOI": "10.1145/1576246.1531339",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-12",
+                "unstructured": "Aaron Hertzmann and Denis Zorin. 2000. Illustrating Smooth Surfaces. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).517--526.",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-13",
+                "unstructured": "Tilke Judd, Fr&#233;do Durand, and Edward Adelson. 2007. Apparent Ridges for Line Drawing.ACM Trans. Graph.26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-14",
+                "unstructured": "Alexander Kolliopoulos, Jack M. Wang, and Aaron Hertzmann. 2006. Segmentation-based 3D Artistic Rendering. InProceedings of the 17th Eurographics Conference on Rendering Techniques (EGSR '06).361--370."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-15",
+                "unstructured": "Hua Li and David Mould. 2015. Contrast-Enhanced Black and White Images.Comput. Graph. Forum34, 7 (2015), 319--328.",
+                "DOI": "10.1111/cgf.12770",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-16",
+                "unstructured": "Yiming Liu, Aseem Agarwala, Jingwan Lu, and Szymon Rusinkiewicz. 2016. Data-driven Iconification. InProceedings of the Joint Symposium on Computational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering (Expresive '16).113--124."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-17",
+                "unstructured": "Thomas Luft, Carsten Colditz, and Oliver Deussen. 2006. Image Enhancement by Unsharp Masking the Depth Buffer.ACM Trans. Graph.25, 3 (2006), 1206--1213.",
+                "DOI": "10.1145/1141911.1142016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-18",
+                "unstructured": "Ravish Mehra, Qingnan Zhou, Jeremy Long, Alla Sheffer, Amy Gooch, and Niloy J. Mitra. 2009. Abstraction of Man-made Shapes.ACM Trans. Graph.28, 5 (2009), 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-19",
+                "unstructured": "Tom Page. 2014. Skeuomorphism or Flat Design: Future Directions in Mobile Device User Interface UI Design Education.Int. J. Mob. Learn. Organ.8, 2 (2014), 130--142.",
+                "DOI": "10.1504/IJMLO.2014.062350",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-20",
+                "unstructured": "Paul L. Rosin and Yu-Kun Lai. 2010. Towards Artistic Minimal Rendering. InProceedings of the 8th International Symposium on Non-Photorealistic Animation and Rendering (NPAR '10).119--127.",
+                "DOI": "10.1145/1809939.1809953",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-21",
+                "unstructured": "Szymon Rusinkiewicz, Forrester Cole, Doug DeCarlo, and Adam Finkelstein. 2008. Line Drawings from 3D Models. InACM SIGGRAPH 2008 Classes (SIGGRAPH '08).39:1--39:356.",
+                "DOI": "10.1145/1401132.1401188",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-22",
+                "unstructured": "Peter Selinger. 2003. Potrace: a polygon-based tracing algorithm. InIn http://potrace.sourceforge.net."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-23",
+                "unstructured": "Ariel Shamir. 2008. A survey on Mesh Segmentation Techniques.Computer Graphics Forum27, 6 (2008), 1539--1556.",
+                "DOI": "10.1111/j.1467-8659.2007.01103.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-24",
+                "unstructured": "Jie Xu and Craig S. Kaplan. 2008. Artistic Thresholding. InProceedings of the 6th International Symposium on Non-photorealistic Animation and Rendering (NPAR '08).39--47.",
+                "DOI": "10.1145/1377980.1377990",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-25",
+                "unstructured": "Yong-Liang Yang, Jun Wang, and Niloy J. Mitra. 2015. Reforming Shapes for Material-aware Fabrication.Comput. Graph. Forum34, 5 (2015), 53--64.",
+                "DOI": "10.1111/cgf.12696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-26",
+                "unstructured": "Jonathan S. Yedidia, William T. Freeman, and Yair Weiss. 2003. Exploring Artificial Intelligence in the New Millennium. Chapter Understanding Belief Propagation and Its Generalizations, 239--269."
+            },
+            {
+                "key": "key-10.1145/3197517.3201372-27",
+                "unstructured": "Mehmet Ersin Yumer and Levent Burak Kara. 2012. Co-abstraction of Shape Collections.ACM Trans. Graph.31, 6 (2012), 166:1--166:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201372&ftid=1991757&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:42Z",
+            "timestamp": 1571673342000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201372",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

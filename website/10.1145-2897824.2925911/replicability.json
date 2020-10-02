@@ -1,0 +1,117 @@
+{
+    "Timestamp": "12/31/2019 3:05:24",
+    "Title": "Synthesis of Filigrees for Digital Fabrication",
+    "DOI": "10.1145/2897824.2925911",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://hal.inria.fr/hal-01401520",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://i.cs.hku.hk/~wkchen/projects/papers/weikai_sig16_filigree_final.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Shape modeling",
+    "ACM 2": "Physical simulation",
+    "ACM 3": "Geometric topology",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 28,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://i.cs.hku.hk/~wkchen/projects/proj_sig16.html",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "There are two moderately difficult algorithms in the paper, but they do not implement all the steps of the synthesis pipeline.",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 1,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Weikai",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "The University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Xiaolong",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Shiqing",
+            "family": "Xin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Ningbo University"
+                }
+            ]
+        },
+        {
+            "given": "Yang",
+            "family": "Xia",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dalian University of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Sylvain",
+            "family": "Lefebvre",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "INRIA"
+                }
+            ]
+        },
+        {
+            "given": "Wenping",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The University of Hong Kong"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 7,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=7&types=mmmmmmmm",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=13926268"
+}

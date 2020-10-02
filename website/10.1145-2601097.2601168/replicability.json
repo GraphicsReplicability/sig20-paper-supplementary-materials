@@ -1,0 +1,116 @@
+{
+    "Timestamp": "12/16/2019 13:10:07",
+    "Title": "Build-to-Last: Strength to Weight 3D Printed Objects",
+    "DOI": "10.1145/2601097.2601168",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://homes.cs.washington.edu/~haisen/BuildtoLast/3DP_SIG2014.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Parametric curve and surface models",
+    "ACM 2": "Volumetric models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 222,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://homes.cs.washington.edu/~haisen/BuildtoLast/index.html",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2014,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Lin",
+            "family": "Lu",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Baoquan",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Andrei",
+            "family": "Sharf",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Haisen",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Yuan",
+            "family": "Wei",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Qingnan",
+            "family": "Fan",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Xuelin",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Yann",
+            "family": "Savoye",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Changhe",
+            "family": "Tu",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Daniel",
+            "family": "Cohen-Or",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "Altmetric score": 6,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=6&types=aaaaaaaa",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=35256644"
+}

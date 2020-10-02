@@ -1,0 +1,508 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:55Z",
+            "timestamp": 1574859835365
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201387",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Hyper-reduced projective dynamics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Christopher",
+                "family": "Brandt",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            },
+            {
+                "given": "Elmar",
+                "family": "Eisemann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            },
+            {
+                "given": "Klaus",
+                "family": "Hildebrandt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201387-1",
+                "unstructured": "Steven S. An, Theodore Kim, and Doug L. James. 2008. Optimizing cubature for efficient integration of subspace deformations. ACM Trans. Graph. 27, 5 (2008), 1--10.",
+                "DOI": "10.1145/1409060.1409118",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-2",
+                "unstructured": "Jernej Barbi&#269; and Doug L. James. 2005. Real-Time Subspace Integration for St. Venant-Kirchhoff Deformable Models. ACM Trans. Graph. 24, 3 (2005), 982--990.",
+                "DOI": "10.1145/1073204.1073300",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-3",
+                "unstructured": "Jernej Barbi&#269; and Doug L. James. 2010. Subspace Self-collision Culling. ACM Trans. Graph. 29, 4 (2010), 81:1--81:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-4",
+                "unstructured": "Jernej Barbi&#269;, Funshing Sin, and Eitan Grinspun. 2012. Interactive Editing of Deformable Simulations. ACM Trans. Graph. 31, 4 (2012), 70:1--70:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-5",
+                "unstructured": "Maxime Barrault, Yvon Maday, Ngoc Cuong Nguyen, and Anthony T. Patera. 2004. An 'empirical interpolation' method: application to efficient reduced-basis discretization of partial differential equations. Comptes Rendus Mathematique 339, 9 (2004), 667--672.",
+                "DOI": "10.1016/j.crma.2004.08.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-6",
+                "unstructured": "Jan Bender, Dan Koschier, Patrick Charrier, and Daniel Weber. 2014. Position-based simulation of continuous materials. Computers &#38; Graphics 44 (2014), 1 -- 10.",
+                "DOI": "10.1016/j.cag.2014.07.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-7",
+                "unstructured": "Jan Bender, Matthias M&#252;ller, and Miles Macklin. 2017. Position-Based Simulation Methods in Computer Graphics. In EUROGRAPHICS 2017 Tutorials."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-8",
+                "unstructured": "Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, and Mark Pauly. 2014. Projective Dynamics: Fusing Constraint Projections for Fast Simulation. ACM Trans. Graph. 33, 4 (2014), 154:1--154:11.",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-9",
+                "unstructured": "Christopher Brandt and Klaus Hildebrandt. 2017. Compressed Vibration Modes of Deformable Bodies. Computer Aided Geometric Design 52--53 (2017), 297--312."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-10",
+                "unstructured": "Christopher Brandt, Christoph von Tycowicz, and Klaus Hildebrandt. 2016. Geometric Flows of Curves in Shape Space for Processing Motion of Deformable Objects. Computer Graphics Forum 35, 2 (2016).",
+                "DOI": "10.1111/cgf.12832",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-11",
+                "unstructured": "Marcel Campen, Martin Heistermann, and Leif Kobbelt. 2013. Practical Anisotropic Geodesy. Computer Graphics Forum 32, 5 (2013), 63--71.",
+                "DOI": "10.1111/cgf.12173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-12",
+                "unstructured": "Steve Capell, Seth Green, Brian Curless, Tom Duchamp, and Zoran Popovi&#269;. 2002. A Multiresolution Framework for Dynamic Deformations. In Proc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 41--47.",
+                "DOI": "10.1145/545261.545268",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-13",
+                "unstructured": "Jeffrey N. Chadwick, Steven S. An, and Doug L. James. 2009. Harmonic shells: a practical nonlinear sound model for near-rigid thin shells. ACM Trans. Graph. 28, 5 (2009), 119:1--119:10.",
+                "DOI": "10.1145/1661412.1618465",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-14",
+                "unstructured": "Isaac Chao, Ulrich Pinkall, Patrick Sanan, and Peter Schr&#246;der. 2010. A simple geometric model for elastic deformations. ACM Trans. Graph. 29 (2010), 38:1--38:6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-15",
+                "unstructured": "Saifon Chaturantabut and Danny C Sorensen. 2010. Nonlinear model reduction via discrete empirical interpolation. SIAM Journal on Scientific Computing 32, 5 (2010), 2737--2764.",
+                "DOI": "10.1137/090766498",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-16",
+                "unstructured": "Xiang Chen, Changxi Zheng, and Kun Zhou. 2017. Example-Based Subspace Stress Analysis for Interactive Shape Design. IEEE Trans. Vis. and Comp. Graph. 23, 10 (2017), 2314--2327.",
+                "DOI": "10.1109/TVCG.2016.2618875",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-17",
+                "unstructured": "Min Gyu Choi and Hyeong-Seok Ko. 2005. Modal Warping: Real-Time Simulation of Large Rotational Deformation and Manipulation. IEEE Trans. Vis. Comput. Graphics 11, 1 (2005), 91--101.",
+                "DOI": "10.1109/TVCG.2005.13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-18",
+                "unstructured": "Leonardo Dagum and Ramesh Menon. 1998. OpenMP: An Industry-Standard API for Shared-Memory Programming. IEEE Comput. Sci. Eng. 5, 1 (1998), 46--55.",
+                "DOI": "10.1109/99.660313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-19",
+                "unstructured": "Gilles Debunne, Mathieu Desbrun, Marie-Paule Cani, and Alan H. Barr. 2001. Dynamic Real-time Deformations Using Space &#38; Time Adaptive Sampling. In Proc. ACM SIGGRAPH. 31--36.",
+                "DOI": "10.1145/383259.383262",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-20",
+                "unstructured": "Benjamin Gilles, Guillaume Bousquet, Francois Faure, and Dinesh K. Pai. 2011. Frame-based Elastic Models. ACM Trans. Graph. 30, 2 (2011), 15:1--15:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-21",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#238;t Jacob, et al. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-22",
+                "unstructured": "Fabian Hahn, Bernhard Thomaszewski, Stelian Coros, Robert W Sumner, Forrester Cole, Mark Meyer, Tony DeRose, and Markus H. Gross. 2014. Subspace clothing simulation using adaptive bases. ACM Trans. Graph. 33, 4 (2014), 105:1--105:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-23",
+                "unstructured": "David Harmon and Denis Zorin. 2013. Subspace integration with local deformations. ACM Trans. Graph. 32, 4 (2013), 107:1--107:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-24",
+                "unstructured": "Klaus Hildebrandt, Christian Schulz, Christoph von Tycowicz, and Konrad Polthier. 2011. Interactive surface modeling using modal analysis. ACM Trans. Graph. 30, 5 (2011), 119:1--119:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-25",
+                "unstructured": "Klaus Hildebrandt, Christian Schulz, Christoph von Tycowicz, and Konrad Polthier. 2012. Interactive spacetime control of deformable objects. ACM Trans. Graph. 31, 4 (2012), 71:1--71:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-26",
+                "unstructured": "Jin Huang, Xiaohan Shi, Xinguo Liu, Kun Zhou, Li-Yi Wei, Shang-Hua Teng, Hujun Bao, Baining Guo, and Heung-Yeung Shum. 2006. Subspace gradient domain mesh deformation. ACM Trans. Graph. 25, 3 (2006).",
+                "DOI": "10.1145/1141911.1142003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-27",
+                "unstructured": "Jin Huang, Yiying Tong, Kun Zhou, Hujun Bao, and Mathieu Desbrun. 2011. Interactive Shape Interpolation through Controllable Dynamic Deformation. IEEE Trans. Vis. Comput. Graph. 17, 7 (2011), 983--992.",
+                "DOI": "10.1109/TVCG.2010.109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-28",
+                "unstructured": "Alec Jacobson, Ilya Baran, Ladislav Kavan, Jovan Popovi&#263;, and Olga Sorkine. 2012. Fast Automatic Skinning Transformations. ACM Trans. Graph. 31, 4 (2012), 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-29",
+                "unstructured": "Alec Jacobson, Ilya Baran, Jovan Popovic, and Olga Sorkine. 2011. Bounded biharmonic weights for real-time deformation. ACM Trans. Graph. 30, 4 (2011), 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-30",
+                "unstructured": "Lily Kharevych, Patrick Mullen, Houman Owhadi, and Mathieu Desbrun. 2009. Numerical Coarsening of Inhomogeneous Elastic Materials. ACM Trans. Graph. 28, 3 (2009), 51:1--51:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-31",
+                "unstructured": "Theodore Kim and John Delaney. 2013. Subspace Fluid Re-simulation. ACM Trans. Graph. 32, 4 (2013), 62:1--62:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-32",
+                "unstructured": "Tae-Yong Kim, Nuttapong Chentanez, and Matthias M&#252;ller-Fischer. 2012. Long Range Attachments - a Method to Simulate Inextensible Clothing in Computer Games. In Proc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 305--310."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-33",
+                "unstructured": "Petr Krysl, Sanjay Lall, and Jerrold E. Marsden. 2001. Dimensional Model Reduction in Non-linear Finite Element Dynamics of Solids and Structures. Int. J. Numer. Meth. Eng 51 (2001), 479--504.",
+                "DOI": "10.1002/nme.167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-34",
+                "unstructured": "Siwang Li, Jin Huang, Fernando de Goes, Xiaogang Jin, Hujun Bao, and Mathieu Desbrun. 2014. Space-time Editing of Elastic Motion Through Material Optimization and Reduction. ACM Trans. Graph. 33, 4 (2014), 108:1--108:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-35",
+                "unstructured": "Tiantian Liu, Adam W. Bargteil, James F. O'Brien, and Ladislav Kavan. 2013. Fast Simulation of Mass-spring Systems. ACM Trans. Graph. 32, 6 (2013), 214:1--214:7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-36",
+                "unstructured": "Tiantian Liu, Sofien Bouaziz, and Ladislav Kavan. 2017. Quasi-Newton Methods for Real-Time Simulation of Hyperelastic Materials. ACM Trans. Graph. 36, 3 (2017), 23:1--23:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-37",
+                "unstructured": "Miles Macklin and Matthias M&#252;ller. 2013. Position Based Fluids. ACM Trans. Graph. 32, 4 (2013), 104:1--104:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-38",
+                "unstructured": "Miles Macklin, Matthias M&#252;ller, and Nuttapong Chentanez. 2016. XPBD: Position-based Simulation of Compliant Constrained Dynamics. In Proc. ACM Motion in Games. 49--54.",
+                "DOI": "10.1145/2994258.2994272",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-39",
+                "unstructured": "Sebastian Martin, Bernhard Thomaszewski, Eitan Grinspun, and Markus Gross. 2011. Example-based Elastic Materials. ACM Trans. Graph. 30, 4 (2011), 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-40",
+                "unstructured": "Matthias M&#252;ller. 2008. Hierarchical Position Based Dynamics. In Proc. Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-41",
+                "unstructured": "Matthias M&#252;ller and Nuttapong Chentanez. 2011. Solid Simulation with Oriented Particles. ACM Trans. Graph. 30, 4 (2011), 92:1--92:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-42",
+                "unstructured": "Matthias M&#252;ller, Nuttapong Chentanez, Tae-Yong Kim, and Miles Macklin. 2014. Strain Based Dynamics. In Proc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 149--157."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-43",
+                "unstructured": "Matthias M&#252;ller, Bruno Heidelberger, Marcus Hennix, and John Ratcliff. 2007. Position Based Dynamics. J. Vis. Comun. Image Represent. 18, 2 (2007), 109--118.",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-44",
+                "unstructured": "Matthias M&#252;ller, Bruno Heidelberger, Matthias Teschner, and Markus Gross. 2005. Meshless Deformations Based on Shape Matching. In Proc. ACM SIGGRAPH. 471--478.",
+                "DOI": "10.1145/1186822.1073216",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-45",
+                "unstructured": "Przemyslaw Musialski, Thomas Auzinger, Michael Birsak, Michael Wimmer, and Leif Kobbelt. 2015. Reduced-order Shape Optimization Using Offset Surfaces. ACM Trans. Graph. 34, 4 (2015), 102:1--102:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-46",
+                "unstructured": "Rahul Narain, Matthew Overby, and George E. Brown. 2016. ADMM &supe; Projective Dynamics: Fast Simulation of General Constitutive Models. In Proc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 21--28."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-47",
+                "unstructured": "Matthieu Nesme, Paul G. Kry, Lenka Je&#345;&#225;bkov&#225;, and Fran&#231;ois Faure. 2009. Preserving Topology and Elasticity for Embedded Deformable Models. ACM Trans. Graph. 28, 3 (2009), 52:1--52:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-48",
+                "unstructured": "Thomas Neumann, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt. 2013. Sparse Localized Deformation Components. ACM Trans. Graph. 32, 6 (2013), 179:1--179:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-49",
+                "unstructured": "John Nickolls, Ian Buck, Michael Garland, and Kevin Skadron. 2008. Scalable Parallel Programming with CUDA. Queue 6, 2 (2008), 40--53.",
+                "DOI": "10.1145/1365490.1365500",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-50",
+                "unstructured": "Matthew Overby, George E. Brown, Jie Li, and Rahul Narain. 2017. ADMM &supe; Projective Dynamics: Fast Simulation of Hyperelastic Models with Dynamic Constraints. IEEE Trans. Vis. and Comp. Graph. 23, 10 (2017), 2222--2234.",
+                "DOI": "10.1109/TVCG.2017.2730875",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-51",
+                "unstructured": "Zherong Pan, Hujun Bao, and Jin Huang. 2015. Subspace Dynamic Simulation Using Rotation-strain Coordinates. ACM Trans. Graph. 34, 6 (2015), 242:1--242:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-52",
+                "unstructured": "Alex Pentland and John Williams. 1989. Good vibrations: modal dynamics for graphics and animation. In Proc. of ACM SIGGRAPH. 215--222.",
+                "DOI": "10.1145/74333.74355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-53",
+                "unstructured": "Olivier R&#233;millard and Paul G. Kry. 2013. Embedded Thin Shells for Wrinkle Simulation. ACM Trans. Graph. 32, 4 (2013), 50:1--50:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-54",
+                "unstructured": "Alec R. Rivers and Doug L. James. 2007. FastLSM: Fast Lattice Shape Matching for Robust Real-time Deformation. ACM Trans. Graph. 26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276480",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-55",
+                "unstructured": "Christian Schulz, Christoph von Tycowicz, Hans-Peter Seidel, and Klaus Hildebrandt. 2014. Animating Deformable Objects using Sparse Spacetime Constraints. ACM Trans. Graph. 33, 4 (2014), 109:1--109:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-56",
+                "unstructured": "Sara C. Schvartzman, Jorge Gasc&#243;n, and Miguel A. Otaduy. 2009. Bounded Normal Trees for Reduced Deformations of Triangulated Surfaces. In Proc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 75--82.",
+                "DOI": "10.1145/1599470.1599480",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-57",
+                "unstructured": "Jos Stam. 2009. Nucleus: Towards a unified dynamics solver for computer graphics. In Proc. IEEE International Conference on Computer-Aided Design and Computer Graphics. 1--11.",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-58",
+                "unstructured": "Yun Teng, Miguel A. Otaduy, and Theodore Kim. 2014. Simulating Articulated Subspace Self-contact. ACM Trans. Graph. 33, 4 (2014), 106:1--106:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-59",
+                "unstructured": "Philipp von Radziewsky, Elmar Eisemann, Hans-Peter Seidel, and Klaus Hildebrandt. 2016. Optimized subspaces for deformation-based modeling and shape interpolation. Computers &#38; Graphics 58 (2016), 128 -- 138.",
+                "DOI": "10.1016/j.cag.2016.05.016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-60",
+                "unstructured": "Christoph von Tycowicz, Christian Schulz, Hans-Peter Seidel, and Klaus Hildebrandt. 2013. An Efficient Construction of Reduced Deformable Objects. ACM Trans. Graph. 32, 6 (2013), 213:1--213:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-61",
+                "unstructured": "Christoph von Tycowicz, Christian Schulz, Hans-Peter Seidel, and Klaus Hildebrandt. 2015. Real-time Nonlinear Shape Interpolation. ACM Trans. Graph. 34, 3 (2015), 34:1--34:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-62",
+                "unstructured": "Huamin Wang. 2015. A Chebyshev Semi-iterative Approach for Accelerating Projective and Position-based Dynamics. ACM Trans. Graph. 34, 6 (2015), 246:1--246:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-63",
+                "unstructured": "Yu Wang, Alec Jacobson, Jernej Barbi&#269;, and Ladislav Kavan. 2015. Linear Subspace Design for Real-time Shape Deformation. ACM Trans. Graph. 34, 4 (2015), 57:1--57:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-64",
+                "unstructured": "Marcel Weiler, Dan Koschier, and Jan Bender. 2016. Projective Fluids. In Proc. ACM Motion in Games. 79--84.",
+                "DOI": "10.1145/2994258.2994282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-65",
+                "unstructured": "Chris Wojtan and Greg Turk. 2008. Fast Viscoelastic Behavior with Thin Features. ACM Trans. Graph. 27, 3 (2008), 47:1--47:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-66",
+                "unstructured": "Xiaofeng Wu, Rajaditya Mukherjee, and Huamin Wang. 2015. A Unified Approach for Subspace Simulation of Deformable Bodies in Multiple Domains. ACM Trans. Graph. 34, 6 (2015), 241:1--241:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-67",
+                "unstructured": "Hongyi Xu, Yijing Li, Yong Chen, and Jernej Barbic. 2015. Interactive Material Design Using Model Reduction. ACM Trans. Graph. 34, 2 (2015), 18:1--18:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-68",
+                "unstructured": "Yin Yang, Dingzeyu Li, Weiwei Xu, Yuan Tian, and Changxi Zheng. 2015. Expediting Precomputation for Reduced Deformable Simulation. ACM Trans. Graph. 34, 6 (2015), 243:1--243:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201387-69",
+                "unstructured": "Y. Yang, W. Xu, X. Guo, K. Zhou, and B. Guo. 2013. Boundary-Aware Multidomain Subspace Deformation. IEEE Trans. Vis. and Comp. Graph. 19, 10 (2013), 1633--1645.",
+                "DOI": "10.1109/TVCG.2013.12",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201387&ftid=1991774&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T16:39:04Z",
+            "timestamp": 1533055144000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201387",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

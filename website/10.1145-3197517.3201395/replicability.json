@@ -1,0 +1,95 @@
+{
+    "Timestamp": "1/20/2020 11:46:39",
+    "Title": "Physical Simulation of Environmentally Induced Thin Shell Deformation",
+    "DOI": "10.1145/3197517.3201395",
+    "PDF availability (beside dl.acm)": "On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/evouga/libshell",
+    "code URL  2": "",
+    "PDF URL": "https://drive.google.com/file/d/1UKaF4ISw5JSP3SuCrtTzf2litcRPmg9R/view",
+    "License type": "Mozilla Public License, version 2.0",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "build instructions in readme",
+    "Authors": "Academia",
+    "ACM 1": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The github states that the method of the paper is implemented as part of libshell. An example program in libshell works fine, but no indication is given as to how to replicate the results for moisture/heat. The results do not look like the ones from the paper, but it's probably because it was not doing a moisture/heat simulation.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 1,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "eigen/libigl",
+    "Project URL": "https://users.oden.utexas.edu/~hsiaoyu/project/moistsim/moistsim.html",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 1,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Hsiao-Yu",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Texas at Austin"
+                }
+            ]
+        },
+        {
+            "given": "Arnav",
+            "family": "Sastry",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Texas at Austin"
+                }
+            ]
+        },
+        {
+            "given": "Wim M.",
+            "family": "van Rees",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Etienne",
+            "family": "Vouga",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Texas at Austin"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.75,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=ttttffff",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=46143851"
+}

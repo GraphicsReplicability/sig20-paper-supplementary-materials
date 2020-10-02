@@ -1,0 +1,436 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:18Z",
+            "timestamp": 1574815938828
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1553333, 1539120"
+                ]
+            },
+            {
+                "name": "Intuitive Surgical",
+                "award": []
+            },
+            {
+                "name": "KAUST Office of Sponsored Research",
+                "award": []
+            },
+            {
+                "name": "Intel Partnership on Visual and Experiential Computing",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925928",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Computational imaging with multi-camera time-of-flight systems"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Shikhar",
+                "family": "Shrestha",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University and University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925928-1",
+                "unstructured": "Bamji, C., O'Connor, P., Elkhatib, T., Mehta, S., Thompson, B., Prather, L., Snow, D., Akkaya, O., Daniel, A., Payne, A., amd M. Fenton, T. P., and Chan, V. 2015. A 0.13 um CMOS System-on-Chip for a 512 x 424 Time-of-Flight Image Sensor With Multi-Frequency Photo-Demodulation up to 130 MHz and 2 GS/s ADC.IEEE Journal of Solid-State Circuits 50, 1, 303--319."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-2",
+                "unstructured": "Bhandari, A., Kadambi, A., Whyte, R., Barsi, C., Feigin, M., Dorrington, A., and Raskar, R. 2014. Resolving multipath interference in time-of-flight imaging via modulation frequency diversity and sparse regularization.Optics Letters 39, 1705--1708."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-3",
+                "unstructured": "Buades, A., Coll, B., and Morel, J.-M. 2005. A non-local algorithm for image denoising. InProc. IEEE CVPR, vol. 2.",
+                "DOI": "10.1109/CVPR.2005.38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-4",
+                "unstructured": "Buehler, C., Bosse, M., McMillan, L., Gortler, S., and Cohen, M. 2001. Unstructured lumigraph rendering. InProc. SIGGRAPH, 425--432."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-5",
+                "unstructured": "Butler, D., Izadi, S., Hilliges, O., Molyneaux, D., Hodges, S., and Kim, D. 2012. Shake'n'sense: reducing interference for overlapping structured light depth cameras. InProc. ACM UIST, 1933--1936.",
+                "DOI": "10.1145/2207676.2208335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-6",
+                "unstructured": "B&#252;ttgen, B., and Seitz, P. 2008. Robust optical time-of-flight range imaging based on smart pixel structures.IEEE Trans. Circuits and Systems 55, 6, 1512--1525."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-7",
+                "unstructured": "Carranza, J., Theobalt, C., Magnor, M. A., and Seidel, H.-P. 2003. Free-viewpoint video of human actors.ACM Trans. Graph. (SIGGRAPH) 22, 3, 569--577."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-8",
+                "unstructured": "Castaneda, V., Mateus, D., and Navab, N. 2014. Stereo time-of-flight with constructive interference.IEEE Trans. PAMI 36, 7, 1402--1413."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-9",
+                "unstructured": "Debevec, P., Hawkins, T., Tchou, C., Duiker, H.-P., Sarokin, W., and Sagar, M. 2000. Acquiring the reflectance field of a human face. InProc. SIGGRAPH, 145--156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-10",
+                "unstructured": "Dong, S., Horstmeyer, R., Shiradkar, R., Guo, K., Ou, X., Bian, Z., Xin, H., and Zheng, G. 2014. Aperture-scanning fourier ptychography for 3d refocusing and super-resolution macroscopic imaging.Optics Express 22, 11, 13586--99."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-11",
+                "unstructured": "Dorrington, A., Godbaz, J., Cree, M., Payne, A., and Streeter, L. 2011. Separating true range measurements from multi-path and scattering interference in commercial range cameras. InProc. Electronic Imaging.",
+                "DOI": "10.1117/12.876586",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-12",
+                "unstructured": "Freedman, D., Krupka, E., Smolin, Y., Leichter, I., and Schmidt, M. 2014. Sra: fast removal of general multipath for tof sensors. InProc. ECCV.",
+                "DOI": "10.1007/978-3-319-10590-1_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-13",
+                "unstructured": "Fuchs, S. 2010. Multipath interference compensation in time-of-flight camera images. InProc. ICPR.",
+                "DOI": "10.1109/ICPR.2010.874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-14",
+                "unstructured": "Gall, J., Ho, H., Izadi, S., Kohli, P., Ren, X., and Yang, R. 2014. Towards solving real-world vision problems with rgb-d cameras. InCVPR Tutorial."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-15",
+                "unstructured": "Gariepy, G., Tonolini, F., and Jonathan Leach, R. H., and Faccio, D. 2016. Detection and tracking of moving objects hidden from view.Nature Photonics Letters 10, 23--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-16",
+                "unstructured": "Gokturk, S., Yalcin, H., and Bamji, C. 2004. A time-of-flight depth sensor - system description, issues and solutions. InProc. CVPR, 35--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-17",
+                "unstructured": "Gortler, S. J., Grzeszczuk, R., Szeliski, R., and Cohen, M. F. 1996. The lumigraph. InProc. SIGGRAPH.",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-18",
+                "unstructured": "Hansard, M., Lee, S., Choi, O., and Horaud, R. 2012.Time of Flight Cameras: Principles, Methods, and Applications.Springer.",
+                "DOI": "10.1007/978-1-4471-4658-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-19",
+                "unstructured": "Heide, F., Hullin, M. B., Gregson, J., and Heidrich, W. 2013. Low-budget transient imaging using photonic mixer devices.ACM Trans. Graph. (SIGGRAPH) 32, 4, 45:1--45:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-20",
+                "unstructured": "Heide, F., Xiao, L., Heidrich, W., and Hullin, M. B. 2014. Diffuse mirrors: 3D reconstruction from diffuse indirect illumination using inexpensive time-of-flight sensors. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2014.418",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-21",
+                "unstructured": "Heide, F., Xiao, L., Kolb, A., Hullin, M. B., and Heidrich, W. 2014. Imaging in scattering media using correlation image sensors and sparse convolutional coding.Optics Express 22, 21, 26338--26350."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-22",
+                "unstructured": "Heide, F., Heidrich, W., Hullin, M., and Wetzstein, G. 2015. Doppler Time-of-Flight Imaging.ACM Trans. Graph. (SIGGRAPH), 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-23",
+                "unstructured": "Holloway, J., Salman Asif, M., Sharma, M. K., Matsuda, N., Horstmeyer, R., Cossairt, O., and Veeraraghavan, A. 2015. Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays.ArXiv 1510.08470."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-24",
+                "unstructured": "Jayasuriya, S., Pediredla, A., Sivaramakrishnan, S., Molnar, A., and Veeraraghavan, A. 2015. Depth fields: Extending light field techniques to time-of-flight imaging. InProc. 3DV, 1--9.",
+                "DOI": "10.1109/3DV.2015.8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-25",
+                "unstructured": "Jimenez, D., Pizarro, D., Mazo, M., and Palazuelos, S. 2012. Modelling and correction of multipath interference in time of flight cameras. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2012.6247763",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-26",
+                "unstructured": "Kadambi, A., Whyte, R., Bhandari, A., Streeter, L., Barsi, C., Dorrington, A., and Raskar, R. 2013. Coded time of flight cameras: sparse deconvolution to address multipath interference and recover time profiles.ACM Trans. Graph. (SIGGRAPH Asia) 32, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-27",
+                "unstructured": "Kadambi, A., Bhandari, A., Whyte, R., Dorrington, A., and Raskar, R. 2014. Demultiplexing Illumination via Low Cost Sensing and Nanosecond Coding. InProc. ICCP.",
+                "DOI": "10.1109/ICCPHOT.2014.6831811",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-28",
+                "unstructured": "Kim, S. K., Kang, B., Heo, J., Jung, S.-W., and Choi, O. 2014. Photometric stereo-based single time-of-flight camera.Optics Letters 39, 1, 166--169."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-29",
+                "unstructured": "Kirmani, A., Hutchison, T., Davis, J., and Raskar, R. 2009. Looking around the corner using transient imaging. InProc. ICCV, 159--166."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-30",
+                "unstructured": "Lange, R., and Seitz, P. 2001. Solid-state time-of-flight range camera.IEEE J. Quantum Electronics 37, 3, 390--397."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-31",
+                "unstructured": "Levoy, M., and Hanrahan, P. 1996. Light field rendering. InProc. SIGGRAPH, 31--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-32",
+                "unstructured": "Li, L., Xiang, S., Yang, Y., and Yu, L. 2015. Multi-camera interference cancellation of time-of-flight (tof) cameras. InProc. IEEE ICIP, 556--560."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-33",
+                "unstructured": "Maimone, A., and Fuchs, H. 2012. Reducing interference between multiple structured light depth sensors using motion. InProc. VR.",
+                "DOI": "10.1109/VR.2012.6180879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-34",
+                "unstructured": "Matusik, W., Buehler, C., Raskar, R., Gortler, S. J., and McMillan, L. 2000. Image-based visual hulls. InProc. SIGGRAPH, 369--374."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-35",
+                "unstructured": "McCandless, S. W., and Jackson, C. R. 2004. Principles of synthetic aperture radar. InAR Marine Users Manual, J. Fagerberg, D. C. Mowery, and R. R. Nelson, Eds. NOAA, ch. 1, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-36",
+                "unstructured": "Naik, N., Zhao, S., Velten, A., Raskar, R., and Bala, K. 2011. Single view reflectance capture using multiplexed scattering and time-of-flight imaging.ACM Trans. Graph. (SIGGRAPH Asia) 30, 6, 171:1--171:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-37",
+                "unstructured": "Naik, N., Kadambi, A., Rhemann, C., Izadi, S., Raskar, R., and Kang, S. 2015. A light transport model for mitigating multipath interference in tof sensors. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-38",
+                "unstructured": "O'Toole, M., Heide, F., Xiao, L., Hullin, M. B., Heidrich, W., and Kutulakos, K. N. 2014. Temporal frequency probing for 5d transient analysis of global light transport.ACM Trans. Graph. (SIGGRAPH) 33, 4, 87:1--87:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-39",
+                "unstructured": "Payne, A., Jongenelen, A., Dorrington, A., Cree, M., and Carnegie, D. 2009. Multiple Frequency Range Imaging to Remove Measurement Ambiguity. InProc. Optical 3-D measurement techniques IX."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-40",
+                "unstructured": "Peters, C., Klein, J., Hullin, M. B., and Klein, R. 2015. Solving trigonometric moment problems for fast transient imaging.ACM Trans. Graph. (SIGGRAPH Asia) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-41",
+                "unstructured": "Rander, P., Narayanan, P. J., and Kanade, T. 1997. Virtualized reality: Constructing time-varying virtual worlds from real events. InProc. IEEE Visualization, 277--283."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-42",
+                "unstructured": "Shotton, J., Fitzgibbon, A., Cook, M., Sharp, T., Finocchio, M., Moore, R., Kipman, A., and Blake, A. 2011. Real-time human pose recognition in parts from single depth images. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2011.5995316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-43",
+                "unstructured": "Tadano, R., Pediredla, A. K., and Veeraraghavan, A. 2015. Depth selective camera: A direct, on-chip, programmable technique for depth selectivity in photography. InProc. IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2015.410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-44",
+                "unstructured": "Ti, C., Yang, R., Davis, J., and Pan, Z. 2015. Simultaneous Time-of-Flight Sensing and Photometric Stereo With a Single ToF Sensor. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2015.7299062",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-45",
+                "unstructured": "Velten, A., Willwacher, T., Gupta, O., Veeraraghavan, A., Bawendi, M., and Raskar, R. 2012. Recovering three-dimensional shape around a corner using ultrafast time-of-flight imaging.Nat Commun 745, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-46",
+                "unstructured": "Velten, A., Wu, D., Jarabo, A., Masia, B., Barsi, C., Joshi, C., Lawson, E., Bawendi, M., Gutierrez, D., and Raskar, R. 2013. Femto-photography: Capturing and visualizing the propagation of light.ACM Trans. Graph. (SIGGRAPH) 32, 4, 44:1--44:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-47",
+                "unstructured": "Wilburn, B., Joshi, N., Vaish, V., Talvala, E.-V., Antunez, E., Barth, A., Adams, A., Horowitz, M., and Levoy, M. 2005. High performance imaging using large camera arrays.ACM Trans. Graph. (SIGGRAPH) 24, 3, 765--776."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-48",
+                "unstructured": "Woodham, R. J. 1980. Photometric method for determining surface orientation from multiple images.Optical Engineering 19, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925928-49",
+                "unstructured": "Wu, D., Wetzstein, G., Barsi, C., Willwacher, T., O'Toole, M., Naik, N., Dai, Q., Kutulakos, K., and Raskar, R. 2012. Frequency analysis of transient light transport with applications in bare sensor imaging. InProc. ECCV.",
+                "DOI": "10.1007/978-3-642-33718-5_39",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925928&amp;ftid=1755875&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:35:48Z",
+            "timestamp": 1568162148000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925928",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

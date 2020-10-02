@@ -1,0 +1,392 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410011
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925942",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Sky is not the limit"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yi-Hsuan",
+                "family": "Tsai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Merced"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaohui",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Zhe",
+                "family": "Lin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kalyan",
+                "family": "Sunkavalli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Ming-Hsuan",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Merced"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925942-1",
+                "unstructured": "Bitouk, D., Kumar, N., Dhillon, S., Belhumeur, P., and Nayar, S. K. 2008. Face swapping: Automatically replacing faces in photographs.ACM Trans. Graph. (proc. SIGGRAPH) 27, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-2",
+                "unstructured": "Boykov, Y., and Kolmogorov, V. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision.PAMI, 1124--1137."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-3",
+                "unstructured": "Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., and Yuille, A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. InICLR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-4",
+                "unstructured": "Dale, K., Johnson, M. K., Sunkavalli, K., Matusik, W., and Pfister, H. 2009. Image restoration using online photo collections. InICCV.",
+                "DOI": "10.1109/ICCV.2009.5459473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-5",
+                "unstructured": "Darabi, S., Shechtman, E., Barnes, C., Goldman, D. B., and Sen, P. 2012. Image melding: Combining inconsistent images using patch-based synthesis.ACM Trans. Graph. (proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-6",
+                "unstructured": "Galasso, F., Nagaraja, N., Cardenas, T., Brox, T., and Schiele, B. 2013. A unified video segmentation benchmark: Annotation, metrics and analysis. InICCV.",
+                "DOI": "10.1109/ICCV.2013.438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-7",
+                "unstructured": "HaCohen, Y., Shechtman, E., Goldman, D. B., and Lischinski, D. 2011. Non-rigid dense correspondence with applications for image enhancement.ACM Trans. Graph. (proc. SIGGRAPH) 30, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-8",
+                "unstructured": "Hays, J., and Efros, A. A. 2007. Scene completion using millions of photographs.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-9",
+                "unstructured": "He, K., Sun, J., and Tang, X. 2013. Guided image filtering.PAMI 35, 6, 1397--1409."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-10",
+                "unstructured": "Hoiem, D., Efros, A. A., and Hebert, M. 2007. Recovering surface layout from an image.IJCV 75, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-11",
+                "unstructured": "Johnson, M. K., Dale, K., Avidan, S., Pfister, H., Freeman, W. T., and Matusik, W. 2011. Cg2real: Improving the realism of computer generated images using a large collection of photographs.IEEE Trans. Vis. Comp. Graph. 17, 9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-12",
+                "unstructured": "Kaufman, L., Lischinski, D., and Werman, M. 2012. Content-aware automatic photo enhancement.Comp. Graph. Forum 31, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-13",
+                "unstructured": "Kumar, M. P., Torr, P., and Zisserman, A. 2005. Obj cut. InCVPR.",
+                "DOI": "10.1109/CVPR.2005.249",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-14",
+                "unstructured": "Laffont, P.-Y., Ren, Z., Tao, X., Qian, C., and Hays, J. 2014. Transient attributes for high-level understanding and editing of outdoor scenes.ACM Trans. Graph. (proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-15",
+                "unstructured": "Lalonde, J.-F., and Efros, A. A. 2007. Using color compatibility for assessing image realism. InICCV.",
+                "DOI": "10.1109/ICCV.2007.4409107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-16",
+                "unstructured": "Lalonde, J.-F., Hoiem, D., Efros, A. A., Rother, C., Winn, J., and Criminisi, A. 2007. Photo clip art.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-17",
+                "unstructured": "Lalonde, J.-F., Narasimhan, S. G., and Efros, A. A. 2010. What do the sun and the sky tell us about the camera?IJCV 88, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-18",
+                "unstructured": "Lalonde, J.-F., Efros, A. A., and Narasimhan, S. G. 2011. Estimating the natural illumination conditions from a single outdoor image.IJCV 98, 2, 123--145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-19",
+                "unstructured": "Lazebnik, S., Schmid, C., and Ponce, J. 2006. Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-20",
+                "unstructured": "Lee, J.-Y., Sunkavalli, K., Lin, Z., Shen, X., and Kweon, I. S. 2016. Automatic content-aware color and tone stylization. InCVPR.",
+                "DOI": "10.1109/CVPR.2016.271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-21",
+                "unstructured": "Liu, Y., and Yu, Y. 2012. Interactive image segmentation based on level sets of probabilities.IEEE Transactions on Visualization and Computer Graphics 18, 2, 202--213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-22",
+                "unstructured": "Liu, C., Yuen, J., and Torralba, A. 2011. Nonparametric scene parsing via label transfer.PAMI 33, 12, 2368--2382."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-23",
+                "unstructured": "Liu, Y., Cohen, M., Uyttendaele, M., and Rusinkiewicz, S. 2014. Autostyle: Automatic style transfer from image collections to users image.Comp. Graph. Forum 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-24",
+                "unstructured": "Long, J., Shelhamer, E., and Darrell, T. 2015. Fully convolutional networks for semantic segmentation. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-25",
+                "unstructured": "P&#233;rez, P., Gangnet, M., and Blake, A. 2003. Poisson image editing.ACM Trans. Graph. (proc. SIGGRAPH) 22, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-26",
+                "unstructured": "Piti&#233;, F., and Kokaram, A. 2007. The linear mongekantorovitch linear colour mapping for example-based colour transfer. InCVMP.",
+                "DOI": "10.1049/cp:20070055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-27",
+                "unstructured": "Reinhard, E., Ashikhmin, M., Gooch, B., and Shirley, P. 2001. Color transfer between images.IEEE Comp. Graph. Appl.21, 5, 34--41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-28",
+                "unstructured": "Rother, C., Kolmogorov, V., and Blake, A. 2004. Grabcut: Interactive foreground extraction using iterated graph cuts.ACM Trans. Graph. (proc. SIGGRAPH) 23, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-29",
+                "unstructured": "Shahrian, E., Rajan, D., Price, B., and Cohen, S. 2013. Improving image matting using comprehensive sampling sets. InCVPR.",
+                "DOI": "10.1109/CVPR.2013.88",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-30",
+                "unstructured": "Shih, Y., Paris, S., Durand, F., and Freeman, W. T. 2013. Data-driven hallucination of different times of day from a single outdoorphoto.ACM Trans. Graph. (proc. SIGGRAPH Asia) 32, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-31",
+                "unstructured": "Sunkavalli, K., Johnson, M. K., Matusik, W., and Pfister, H. 2010. Multi-scale image harmonization.ACM Trans. Graph. (proc. SIGGRAPH) 29, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-32",
+                "unstructured": "Tai, Y.-W., Jia, J., and Tang, C.-K. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-33",
+                "unstructured": "Tao, L., Yuan, L., and Sun, J. 2009. Skyfinder: Attribute-based sky image search.ACM Trans. Graph. (proc. SIGGRAPH) 28, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-34",
+                "unstructured": "Tao, M. W., Johnson, M. K., and Paris, S. 2013. Error-tolerant image compositing.IJCV 103, 2, 178--189."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-35",
+                "unstructured": "Tighe, J., and Lazebnik, S. 2013. Superparsing: Scalable non-parametric image parsing with superpixels.IJCV 101, 2, 329--349."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-36",
+                "unstructured": "Torralba, A., Oliva, A., Castelhano, M., and Hen-derso, J. M. 2006. Contextual guidance of attention in natural scenes: The role of global features on object search.Psychological Review 113, 10, 766--786."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-37",
+                "unstructured": "Tsai, Y.-H., Hamsici, O., and Yang, M.-H. 2015. Adaptive region pooling for object detection. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298673",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-38",
+                "unstructured": "Wang, X., Yang, M., Zhu, S., and Lin, Y. 2013. Regionlets for generic object detection. In ICCV.",
+                "DOI": "10.1109/ICCV.2013.10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-39",
+                "unstructured": "Wu, F., Dong, W., Knog, Y., Mei, X., Paul, J.-C., and Zhang, X. 2013. Content-based coulour transfer.Comp. Graph. Forum 32, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-40",
+                "unstructured": "Xue, S., Agarwala, A., Dorsey, J., and Rushmeier, H. 2012. Understanding and improving the realism of image composites.ACM Trans. Graph. (proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-41",
+                "unstructured": "Yan, Z., Zhang, H., Wang, B., Paris, S., and Yu, Y. 2016. Automatic photo adjustment using deep neural networks.ACM Trans. Graph. 35, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-42",
+                "unstructured": "Zheng, S., Jayasumana, S., Romera-Paredes, B., Vineet, V., Su, Z., Du, D., Huang, C., and Torr, P. 2015. Conditional random fields as recurrent neural networks. InICCV.",
+                "DOI": "10.1109/ICCV.2015.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925942-43",
+                "unstructured": "Zhu, J.-Y., Kr&#228;henb&#252;hl, P., Shechtman, E., and Efros, A. A. 2015. Learning a discriminative model for the perception of realism in composite images. InICCV.",
+                "DOI": "10.1109/ICCV.2015.449",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925942&amp;ftid=1755924&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:35Z",
+            "timestamp": 1568162975000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "semantic-aware sky replacement"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925942",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

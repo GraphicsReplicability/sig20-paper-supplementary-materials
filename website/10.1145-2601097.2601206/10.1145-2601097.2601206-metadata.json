@@ -1,0 +1,412 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813560
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "IIS-1149393, IIS-1011919, IIS-1161645"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Intel Science and Technology Center for Visual Computing",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601206",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 101,
+        "title": [
+            "Intrinsic images in the wild"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Sean",
+                "family": "Bell",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Kavita",
+                "family": "Bala",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Noah",
+                "family": "Snavely",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601206-1",
+                "unstructured": "Adams, A., Baek, J., and Davis, A. 2010. Fast high-dimensional filtering using the permutohedral lattice.Computer Graphics Forum (Eurographics) 29, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-2",
+                "unstructured": "Barron, J. T., and Malik, J. 2012. Color constancy, intrinsic images, and shape estimation. InProc. European Conference on Computer Vision.",
+                "DOI": "10.1007/978-3-642-33765-9_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-3",
+                "unstructured": "Barron, J. T., and Malik, J. 2012. Shape, albedo, and illumination from a single image of an unknown object. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2012.6247693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-4",
+                "unstructured": "Barron, J. T., and Malik, J. 2013. Intrinsic scene properties from a single RGB-D image. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2013.10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-5",
+                "unstructured": "Barron, J. T., and Malik, J. 2013. Shape, illumination, and reflectance from shading. Tech. rep., UC Berkeley.",
+                "DOI": "10.21236/ADA586648",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-6",
+                "unstructured": "Bell, S., Upchurch, P., Snavely, N., and Bala, K. 2013. OpenSurfaces: A richly annotated catalog of surface appearance.ACM Trans. on Graphics (SIGGRAPH) 32, 4.",
+                "DOI": "10.1145/2461912.2462002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-7",
+                "unstructured": "Bostock, M., 2013. D3. http://d3js.org/. {Online; accessed 24-Mar-2014}."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-8",
+                "unstructured": "Bousseau, A., Paris, S., and Durand, F. 2009. User-assisted intrinsic images.ACM Trans. on Graphics (SIGGRAPH Asia) 28, 5.",
+                "DOI": "10.1145/1618452.1618476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-9",
+                "unstructured": "Boyadzhiev, I., Paris, S., and Bala, K. 2013. User-assisted image compositing for photographic lighting.ACM Trans. on Graphics (SIGGRAPH) 32, 4.",
+                "DOI": "10.1145/2461912.2461973",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-10",
+                "unstructured": "Branson, S., Wah, C., Babenko, B., Schroff, F., Welinder, P., Perona, P., and Belongie, S. 2010. Visual recognition with humans in the loop. InProc. European Conference on Computer Vision.",
+                "DOI": "10.1007/978-3-642-15561-1_32",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-11",
+                "unstructured": "Carroll, R., Ramamoorthi, R., and Agrawala, M. 2011. Illumination decomposition for material recoloring with consistent interreflections.ACM Trans. on Graphics (SIGGRAPH).",
+                "DOI": "10.1145/1964921.1964938",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-12",
+                "unstructured": "Chen, Q., and Koltun, V. 2013. A simple model for intrinsic image decomposition with depth cues. InProc. International Conference on Computer Vision.",
+                "DOI": "10.1109/ICCV.2013.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-13",
+                "unstructured": "Cole, F., Sanik, K., DeCarlo, D., Finkelstein, A., Funkhouser, T., Rusinkiewicz, S., and Singh, M. 2009. How well do line drawings depict shape?ACM Trans. on Graphics (SIGGRAPH) 28, 3.",
+                "DOI": "10.1145/1531326.1531334",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-14",
+                "unstructured": "Dawid, A. P., and Skene, A. M. 1979. Maximum likelihood estimation of observer error-rates using the EM algorithm. InJ. Roy. Statistical Society.",
+                "DOI": "10.2307/2346806",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-15",
+                "unstructured": "Felzenszwalb, P., McAllester, D., and Ramanan, D. 2008. A discriminatively trained, multiscale, deformable part model. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2008.4587597",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-16",
+                "unstructured": "Garces, E., Munoz, A., Lopez-Moreno, J., and Gutierrez, D. 2012. Intrinsic images by clustering.Computer Graphics Forum (Eurographics Symposium on Rendering) 31, 4.",
+                "DOI": "10.1111/j.1467-8659.2012.03137.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-17",
+                "unstructured": "Gehler, P., Rother, C., Kiefel, M., Zhang, L., and Scholkopf, B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. InNeural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-18",
+                "unstructured": "Gingold, Y., Shamir, A., and Cohen-Or, D. 2012. Micro perceptual human computation.ACM Trans. on Graphics 31, 5.",
+                "DOI": "10.1145/2231816.2231817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-19",
+                "unstructured": "Grosse, R., Johnson, M. K., Adelson, E. H., and Freeman, W. T. 2009. Ground truth dataset and baseline evaluations for intrinsic image algorithms. InProc. International Conference on Computer Vision.",
+                "DOI": "10.1109/ICCV.2009.5459428",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-20",
+                "unstructured": "Haber, T., Fuchs, C., Bekaer, P., Seidel, H.-P., Goesele, M., and Lensch, H. P. 2009. Relighting objects from image collections. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2009.5206753",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-21",
+                "unstructured": "Hauagge, D., Wehrwein, S., Bala, K., and Snavely, N. 2013. Photometric ambient occlusion.Proc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2013.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-22",
+                "unstructured": "Kr&#228;henb&#252;hl, P., and Koltun, V. 2011. Efficient inference in fully connected CRFs with gaussian edge potentials. InNeural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-23",
+                "unstructured": "Kr&#228;henb&#252;hl, P., and Koltun, V. 2013. Parameter learning and convergent inference for dense random fields. InProc. International Conference on Machine Learning."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-24",
+                "unstructured": "Laffont, P.-Y., Bousseau, A., Paris, S., Durand, F., and Drettakis, G. 2012. Coherent intrinsic images from photo collections.ACM Trans. on Graphics (SIGGRAPH Asia) 31, 6.",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-25",
+                "unstructured": "Laffont, P., Bousseau, A., and Drettakis, G. 2013. Rich intrinsic image decomposition of outdoor scenes from multiple views.IEEE Trans. on Visualization and Computer Graphics 19, 2.",
+                "DOI": "10.1109/TVCG.2012.112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-26",
+                "unstructured": "Land, E. H., and McCann, J. J. 1971. Lightness and retinex theory.J. Opt. Soc. Am. 61, 1.",
+                "DOI": "10.1364/JOSA.61.000001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-27",
+                "unstructured": "Liao, Z., Rock, J., Wang, Y., and Forsyth, D. 2013. Non-parametric filtering for geometric detail extraction and material representation. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2013.129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-28",
+                "unstructured": "Liu, X., Jiang, L., Wong, T.-T., and Fu, C.-W. 2012. Statistical invariance for texture synthesis.IEEE Trans. on Visualization and Computer Graphics 18, 11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-29",
+                "unstructured": "Oh, B. M., Chen, M., Dorsey, J., and Durand, F. 2001. Image-based modeling and photo editing. InProc. Conference on Comp. Graphics and Interactive Techniques (SIGGRAPH).",
+                "DOI": "10.1145/383259.383310",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-30",
+                "unstructured": "Omer, I., and Werman, M. 2004. Color lines: image specific color representation. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2004.1315267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-31",
+                "unstructured": "Ostrovsky, Y., Cavanagh, P., and Sinha, P. 2005. Perceiving illumination inconsistencies in scenes.Perception 34, 11.",
+                "DOI": "10.1068/p5418",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-32",
+                "unstructured": "Rubinstein, M., Gutierrez, D., Sorkine, O., and Shamir, A. 2010. A comparative study of image retargeting.ACM Trans. on Graphics (SIGGRAPH Asia) 29, 6.",
+                "DOI": "10.1145/1882261.1866186",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-33",
+                "unstructured": "Shen, L., and Yeo, C. 2011. Intrinsic images decomposition using a local and global sparse representation of reflectance. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2011.5995738",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-34",
+                "unstructured": "Shen, L., Tan, P., and Lin, S. 2008. Intrinsic image decomposition with non-local texture cues. InProc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-35",
+                "unstructured": "Shen, J., Yang, X., Jia, Y., and Li, X. 2011. Intrinsic images using optimization. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2011.5995507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-36",
+                "unstructured": "Tappen, M., Freeman, W., and Adelson, E. 2005. Recovering intrinsic images from a single image.IEEE Trans. on Pattern Analysis and Machine Intelligence.",
+                "DOI": "10.1109/TPAMI.2005.185",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-37",
+                "unstructured": "Tappen, M. F., Adelson, E. H., and Freeman, W. T. 2006. Estimating intrinsic component images using non-linear regression. InProc. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2006.114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-38",
+                "unstructured": "van Wijk, J. J., and Nuij, W. A. 2003. Smooth and efficient zooming and panning. InProc. IEEE Conference on Information Visualization (INFOVIS).",
+                "DOI": "10.1109/INFVIS.2003.1249004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-39",
+                "unstructured": "Weiss, Y. 2001. Deriving intrinsic images from image sequences. InProc. International Conference on Computer Vision.",
+                "DOI": "10.1109/ICCV.2001.937606",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-40",
+                "unstructured": "Welinder, P., Branson, S., Belongie, S., and Perona, P. 2010. The multidimensional wisdom of crowds. InNeural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/2601097.2601206-41",
+                "unstructured": "Zhao, Q., Tan, P., Dai, Q., Shen, L., Wu, E., and Lin, S. 2012. A closed-form solution to retinex with nonlocal texture constraints.IEEE Trans. on Pattern Analysis and Machine Intelligence 34, 7.",
+                "DOI": "10.1109/TPAMI.2012.77",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601206&amp;ftid=1488968&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:05Z",
+            "timestamp": 1565663765000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601206",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

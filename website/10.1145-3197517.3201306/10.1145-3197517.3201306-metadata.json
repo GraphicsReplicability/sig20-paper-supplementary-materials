@@ -1,0 +1,366 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:05Z",
+            "timestamp": 1574859845558
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201306",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Designing patterns using triangle-quad hybrid meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Chi-Han",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Helmut",
+                "family": "Pottmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201306-1",
+                "unstructured": "Sameer Agarwal, Keir Mierle, and Others. 2016. Ceres Solver, http://ceres-solver.org. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-2",
+                "unstructured": "Abdalla G. M. Ahmed, Helene Perrier, David Coeurjolly, Victor Ostromoukhov, Jianwei Guo, Dong-Ming Yan, Hui Huang, and Oliver Deussen. 2016. Low-discrepancy Blue Noise Sampling.ACM Trans. Graph.35, 6, Article 247 (Nov. 2016), 13 pages.",
+                "DOI": "10.1145/2980179.2980218",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-3",
+                "unstructured": "Pierre Alliez, &#201;ric Colin de Verdi&#232;re, Olivier Devillers, and Martin Isenburg. 2005. Centroidal Voronoi Diagrams for Isotropic Surface Remeshing.Graph. Models67, 3 (May 2005), 204--231.",
+                "DOI": "10.1016/j.gmod.2004.06.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-4",
+                "unstructured": "David Bommes, Bruno L&#233;vy, Nico Pietroni, Enrico Puppo, Claudio Silva, Marco Tarini, and Denis Zorin. 2013. Quad-Mesh Generation and Processing: A Survey.Comput. Graph. Forum32, 6 (Sept. 2013), 51--76.",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-5",
+                "unstructured": "Mario Botsch, Leif Kobbelt, Mark Pauly, Pierre Alliez, and Bruno Levy. 2010.Polygon Mesh Processing.A K Peters/CRC Press.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-6",
+                "unstructured": "Weikai Chen, Yuexin Ma, Sylvain Lefebvre, Shiqing Xin, Jonas Mart&#237;nez, and Wenping Wang. 2017. Fabricable Tile Decors.ACM Trans. Graph.36, 6, Article 175 (Nov. 2017), 15 pages.",
+                "DOI": "10.1145/3130800.3130817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-7",
+                "unstructured": "Michael F. Cohen, Jonathan Shade, Stefan Hiller, and Oliver Deussen. 2003. Wang Tiles for Image and Texture Generation.ACM Trans. Graph.22, 3 (July 2003), 287--294.",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-8",
+                "unstructured": "David Cohen-Steiner, Pierre Alliez, and Mathieu Desbrun. 2004. Variational Shape Approximation.ACM Trans. Graph.23, 3 (Aug. 2004), 905--914.",
+                "DOI": "10.1145/1015706.1015817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-9",
+                "unstructured": "Branko Grunbaum and Geoffrey Colin Shephard. 2016.Tilings and Patterns: Second Edition.Dover Publications."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-10",
+                "unstructured": "Gurobi. 2016. Gurobi Optimizer Reference Manual. (2016). http://www.gurobi.com"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-11",
+                "unstructured": "Alejo Hausner. 2001. Simulating Decorative Mosaics. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '01).573--580.",
+                "DOI": "10.1145/383259.383327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-12",
+                "unstructured": "Joachim Hermisson, Christoph Richard, and Michael Baake. 2002. A Guide to the Symmetry Structure of Quasiperiodic Tiling Classes. 7 (05 2002)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-13",
+                "unstructured": "Wenchao Hu, Zhonggui Chen, Hao Pan, Yizhou Yu, Eitan Grinspun, and Wenping Wang. 2016. Surface Mosaic Synthesis with Irregular Tiles.IEEE Transactions on Visualization and Computer Graphics22, 3 (March 2016), 1302--1313.",
+                "DOI": "10.1109/TVCG.2015.2498620",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-14",
+                "unstructured": "Alec Jacobson, Daniele Panozzo, et al. 2016. libigl: A simple C++ geometry processing library. (2016). http://libigl.github.io/libigl/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-15",
+                "unstructured": "Caigui Jiang, Chengcheng Tang, Amir Vaxman, Peter Wonka, and Helmut Pottmann. 2015. Polyhedral Patterns.ACM Trans. Graph.34, 6, Article 172 (Oct. 2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-16",
+                "unstructured": "Craig S. Kaplan and David H. Salesin. 2000. Escherization. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).499--510.",
+                "DOI": "10.1145/344779.345022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-17",
+                "unstructured": "Craig S. Kaplan and David H. Salesin. 2004. Dihedral Escherization. InProceedings of Graphics Interface 2004 (GI '04).255--262."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-18",
+                "unstructured": "Junhwan Kim and Fabio Pellacini. 2002. Jigsaw Image Mosaics.ACM Trans. Graph.21, 3 (July 2002), 657--664.",
+                "DOI": "10.1145/566654.566633",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-19",
+                "unstructured": "Johannes Kopf, Daniel Cohen-Or, Oliver Deussen, and Dani Lischinski. 2006. Recursive Wang Tiles for Real-time Blue Noise.ACM Trans. Graph.25, 3 (July 2006), 509--518.",
+                "DOI": "10.1145/1141911.1141916",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-20",
+                "unstructured": "Bruno L&#233;vy, Sylvain Petitjean, Nicolas Ray, and J&#233;rome Maillot. 2002. Least Squares Conformal Maps for Automatic Texture Atlas Generation.ACM Trans. Graph.21, 3 (July 2002), 362--371.",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-21",
+                "unstructured": "Yufei Li, Yang Liu, and Wenping Wang. 2015. Planar Hexagonal Meshing for Architecture. 21 (09 2015), 95--106."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-22",
+                "unstructured": "Alain Lobel. 2004. Lobel Frames: Forms and structures generated by identical elements. (2004). http://www.equilatere.net"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-23",
+                "unstructured": "Giorgio Marcias, Kenshi Takayama, Nico Pietroni, Daniele Panozzo, Olga Sorkine-Hornung, Enrico Puppo, and Paolo Cignoni. 2015. Data-driven Interactive Quadrangulation.ACM Trans. Graph.34, 4, Article 65 (July 2015), 10 pages.",
+                "DOI": "10.1145/2766964",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-24",
+                "unstructured": "Chi-Han Peng, Yong-Liang Yang, and Peter Wonka. 2014. Computing Layouts with Deformable Templates.ACM Trans. Graph.33, 4, Article 99 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-25",
+                "unstructured": "Helmut Pottmann, Michael Eigensatz, Amir Vaxman, and Johannes Wallner. 2015. Architectural Geometry.Computers and Graphics47 (2015), 145--164.",
+                "DOI": "10.1016/j.cag.2014.11.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-26",
+                "unstructured": "Bernhard Reinert, Tobias Ritschel, and Hans-Peter Seidel. 2013. Interactive By-example Design of Artistic Packing Layouts.ACM Trans. Graph.32, 6, Article 218 (Nov. 2013), 7 pages.",
+                "DOI": "10.1145/2508363.2508409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-27",
+                "unstructured": "Pedro V. Sander, John Snyder, Steven J. Gortler, and Hugues Hoppe. 2001. Texture Mapping Progressive Meshes. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '01).409--416.",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-28",
+                "unstructured": "Scott Schaefer and Joe Warren. 2005. On C2 Triangle/Quad Subdivision.ACM Trans. Graph.24, 1 (Jan. 2005), 28--36.",
+                "DOI": "10.1145/1037957.1037959",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-29",
+                "unstructured": "Christian Schumacher, Bernhard Thomaszewski, and Markus Gross. 2016. Stenciling: Designing Structurally-Sound Surfaces with Decorative Patterns.Comput. Graph. Forum35, 5 (Aug. 2016), 101--110.",
+                "DOI": "10.1111/cgf.12967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-30",
+                "unstructured": "Jos Stam and Charles Loop. 2003. Quad/Triangle Subdivision.Computer Graphics Forum22, 1 (2003), 79--85.",
+                "DOI": "10.1111/1467-8659.t01-2-00647",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-31",
+                "unstructured": "Jens-Boie Suck, Michael Schreiber, and Peter H&#228;ussier. 2002.Quasicrystals. An Introduction to Structure, Physical Properties and Applications.Springer-Verlag."
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-32",
+                "unstructured": "Kenshi Takayama, Daniele Panozzo, and Olga Sorkine-Hornung. 2014. Pattern-Based Quadrangulation for N-Sided Patches.Comput. Graph. Forum33, 5 (Aug. 2014), 177--184.",
+                "DOI": "10.1111/cgf.12443",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-33",
+                "unstructured": "Amir Vaxman, Christian M&#252;ller, and Ofir Weber. 2017. Regular Meshes from Polygonal Patterns.ACM Trans. Graph.36, 4, Article 113 (July 2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073593",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-34",
+                "unstructured": "Shi-Qing Xin, Bruno L&#233;vy, Zhonggui Chen, Lei Chu, Yaohui Yu, Changhe Tu, and Wenping Wang. 2016. Centroidal Power Diagrams with Capacity Constraints: Computation, Applications, and Extension.ACM Trans. Graph.35, 6, Article 244 (Nov. 2016), 12 pages.",
+                "DOI": "10.1145/2980179.2982428",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201306-35",
+                "unstructured": "Yong-Liang Yang, Jun Wang, Etienne Vouga, and Peter Wonka. 2013. Urban Pattern: Layout Design by Hierarchical Domain Splitting.ACM Trans. Graph.32, 6, Article 181 (Nov. 2013), 12 pages.",
+                "DOI": "10.1145/2508363.2508405",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201306&ftid=1991739&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:54:18Z",
+            "timestamp": 1571673258000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201306",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

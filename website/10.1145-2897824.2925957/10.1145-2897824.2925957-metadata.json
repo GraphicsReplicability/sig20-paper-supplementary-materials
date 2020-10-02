@@ -1,0 +1,298 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410045
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925957",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "All-hex meshing using closed-form induced polycube"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xianzhong",
+                "family": "Fang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Weiwei",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hujun",
+                "family": "Bao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Jin",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925957-1",
+                "unstructured": "Aspert, N., Cruz, D. S., and Ebrahimi, T. 2002. MESH: measuring errors between surfaces using the hausdorff distance. InProceedings of the 2002 IEEE International Conference on Multimedia and Expo, 705--708.",
+                "DOI": "10.1109/ICME.2002.1035879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-2",
+                "unstructured": "Bochkanov, S. n.d. Alglib (www.alglib.net)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-3",
+                "unstructured": "Bommes, D., Zimmer, H., and Kobbelt, L. 2009. Mixed-integer quadrangulation.ACM Transactions on Graphics 28, 3 (July), 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-4",
+                "unstructured": "Carbonera, C., Shepherd, J., and Shepherd, J. 2006. A constructive approach to constrained hexahedral mesh generation. InProceedings of the 15th International Meshing Roundtable. 435--452.",
+                "DOI": "10.1007/978-3-540-34958-7_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-5",
+                "unstructured": "Dey, T. K., and Guha, S. 1998. Computing homology groups 3 of simplicial complexes in R3.J. ACM 45, 2 (Mar.), 266--287."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-6",
+                "unstructured": "Dey, T. K., Fan, F., and Wang, Y. 2013. An efficient computation of handle and tunnel loops via reeb graphs.ACM Transactions on Graphics 32, 4 (July), 32:1--32:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-7",
+                "unstructured": "Gao, X., Deng, Z., and Chen, G. 2015. Hexahedral mesh reparameterization from aligned base-complex.ACM Transactions on Graphics 34, 4 (July), 142:1--142:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-8",
+                "unstructured": "Garc&#237;a, I., Xia, J., He, Y., Xin, S., and Patow, G. 2013. Interactive applications for sketch-based editable polycube map.IEEE Transactions on Visualization and Computer Graphics 19, 7, 1158--1171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-9",
+                "unstructured": "Gregson, J., Sheffer, A., and Zhang, E. 2011. All-hex mesh generation via volumetric polycube deformation.Computer Graphics Forum 30, 5, 1407--1416."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-10",
+                "unstructured": "Huang, J., Tong, Y., Wei, H., and Bao, H. 2011. Boundary aligned smooth 3d cross-frame field.ACM Transactions on Graphics 30, 6 (Dec), 143:1--143:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-11",
+                "unstructured": "Huang, J., Jiang, T., Shi, Z., Tong, Y., Bao, H., and Desbrun, M. 2014.l1-based construction of polycube maps from complex shapes.ACM Transactions on Graphics 33, 3 (June), 25:1--25:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-12",
+                "unstructured": "Jiang, T., Huang, J., Wang, Y., Tong, Y., and Bao, H. 2014. Frame field singularity correction for automatic hexahedralization.IEEE Transactions on Visualization and Computer Graphics 20, 8, 1189--1199."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-13",
+                "unstructured": "Jiang, T., Fang, X., Huang, J., Bao, H., Tong, Y., and Desbrun, M. 2015. Frame field generation through metric customization.ACM Transactions on Graphics 34, 4 (July), 40:1--40:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-14",
+                "unstructured": "Kowalski, N., Ledoux, F., and Frey, P. 2014. Block-structured hexahedral meshes for cad models using 3d frame fields.Procedia Engineering 82, 59--71."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-15",
+                "unstructured": "Li, Y., Liu, Y., Xu, W., Wang, W., and Guo, B. 2012. All-hex meshing using singularity-restricted field.ACM Transactions on Graphics 31, 6 (Nov.), 177:1--177:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-16",
+                "unstructured": "Lin, J., Jin, X., Fan, Z., and Wang, C. C. L. 2008. Automatic polycube-maps. InProceedings of the 5th International Conference on Advances in Geometric Modeling and Processing, 3--16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-17",
+                "unstructured": "Livesu, M., Vining, N., Sheffer, A., Gregson, J., and Scateni, R. 2013. Polycut: Monotone graph-cuts for polycube base-complex construction.ACM Transactions on Graphics 32, 6 (Nov.), 171:1--171:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-18",
+                "unstructured": "Livesu, M., Sheffer, A., Vining, N., and Tarini, M. 2015. Practical hex-mesh optimization via edge-cone rectification.ACM Transactions on Graphics 34, 4 (July), 141:1--141:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-19",
+                "unstructured": "Nieser, M., Reitebuch, U., and Polthier, K. 2011. Cube-cover - parameterization of 3d volumes.Computer Graphics Forum 30, 5, 1397--1406."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-20",
+                "unstructured": "Panozzo, D., Puppo, E., Tarini, M., and Sorkine-Hornung, O. 2014. Frame fields: Anisotropic and nonorthogonal cross fields.ACM Transactions on Graphics 33, 4 (July), 134:1--134:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-21",
+                "unstructured": "Sheffer, A., Etzion, M., Rappoport, A., and Bercovier, M. 1999. Hexahedral mesh generation using the embedded voronoi graph.Engineering with Computers 15, 3, 248--262."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-22",
+                "unstructured": "Shepherd, J. F., and Johnson, C. R. 2008. Hexahedral mesh generation constraints.Engineering With Computers 24, 3, 195--213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-23",
+                "unstructured": "Shepherd, J. F., Mitchell, S. A., Knupp, P. M., and White, D. R. 2000. Methods for multisweep automation. InProceedings of the 9th International Meshing Roundtable, 77--87."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-24",
+                "unstructured": "Shimada, K. 2006. Current trends and issues in automatic mesh generation.Computer-Aided Design &#38; Applications 3, 741--750."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-25",
+                "unstructured": "Staten, M., Owen, S., and Blacker, T. 2005. Unconstrained paving and plastering: A new idea for all hexahedral mesh generation. InProceedings of the 14th International Meshing Roundtable. 399--416.",
+                "DOI": "10.1007/3-540-29090-7_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-26",
+                "unstructured": "Tarini, M., Hormann, K., Cignoni, P., and Montani, C. 2004. Polycube-maps.ACM Transactions on Graphics 23, 3 (Aug.), 853--860."
+            },
+            {
+                "key": "key-10.1145/2897824.2925957-27",
+                "unstructured": "W&#228;chter, A., and Biegler, T. L. 2005. On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming.Mathematical Programming 106, 1, 25--57."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925957&amp;ftid=1755883&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:13Z",
+            "timestamp": 1568162893000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925957",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

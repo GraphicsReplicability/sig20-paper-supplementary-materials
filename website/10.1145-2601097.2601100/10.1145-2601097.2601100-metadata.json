@@ -1,0 +1,364 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:31Z",
+            "timestamp": 1575507211054
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Side Effects",
+                "award": []
+            },
+            {
+                "name": "The Walt Disney Company",
+                "award": []
+            },
+            {
+                "name": "Weta Digital",
+                "award": []
+            },
+            {
+                "name": "Autodesk",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            },
+            {
+                "name": "Israel-US Binational Science Foundation",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601100",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Adaptive nonlinearity for collisions in complex rod assemblies"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Rasmus",
+                "family": "Tamstorf",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Breannan",
+                "family": "Smith",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jean-Marie",
+                "family": "Aubry",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601100-1",
+                "unstructured": "Alart, P., and Curnier, A. 1991. A mixed formulation for frictional contact problems prone to Newton like solution methods.Computer Methods in Applied Mechanics and Engineering 92, 3 (Nov.), 353--375."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-2",
+                "unstructured": "Allard, J., Faure, F., Courtecuisse, H., Falipou, F., Duriez, C., and Kry, P. G. 2010. Volume Contact Constraints at Arbitrary Resolution.ACM Trans. Graph. 29, 4 (July), 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-3",
+                "unstructured": "Baraff, D., and Witkin, A. 1998. Large Steps in Cloth Simulation. InProceedings of SIGGRAPH 98, Annual Conference Series, 43--54."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-4",
+                "unstructured": "Baraff, D. 1989. Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies.Computer Graphics 23, 223--232.",
+                "DOI": "10.1145/74334.74356",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-5",
+                "unstructured": "Bergou, M., Wardetzky, M., Robinson, S., Audoly, B., and Grinspun, E. 2008. Discrete Elastic Rods.ACM Trans. Graph. 27, 3 (Aug.), 63:1--63:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-6",
+                "unstructured": "Bergou, M., Audoly, B., Vouga, E., Wardetzky, M., and Grinspun, E. 2010. Discrete Viscous Threads.ACM Trans. Graph. 29, 4 (July), 116:1--116:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-7",
+                "unstructured": "Bertails-Descoubes, F., Cadoux, F., Daviet, G., and Acary, V. 2011. A Nonsmooth Newton Solver for Capturing Exact Coulomb Friction in Fiber Assemblies.ACM Trans. Graph. 30, 1 (Feb.), 6:1--6:14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-8",
+                "unstructured": "Bonnefon, O., and Daviet, G. 2011. Quartic formulation of Coulomb 3D frictional contact. Tech. Rep. RT-0400, INRIA, Jan."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-9",
+                "unstructured": "Bridson, R., Fedkiw, R., and Anderson, J. 2002. Robust Treatment of Collisions, Contact, and Friction for Cloth Animation.ACM Trans. Graph. 21, 3 (July), 594--603."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-10",
+                "unstructured": "Daviet, G., Bertails-Descoubes, F., and Boissieux, L. 2011. A Hybrid Iterative Solver for Robustly Capturing Coulomb Friction in Hair Dynamics.ACM Trans. Graph. 30, 6 (Dec.), 139:1--139:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-11",
+                "unstructured": "Duriez, C., Andriot, C., and Kheddar, A. 2004. Signorini's contact model for deformable objects in haptic simulations. InIEEE/RSJ IROS, vol. 4, 3232--3237."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-12",
+                "unstructured": "Duriez, C., Dubois, F., Kheddar, A., and Andriot, C. 2006. Realistic Haptic Rendering of Interacting Deformable Objects in Virtual Environments.IEEE Transactions on Visualization and Computer Graphics 12, 1 (Jan.), 36--47."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-13",
+                "unstructured": "Goyal, S., Ruina, A., and Papadopoulos, J. 1991. Planar sliding with dry friction Part 2. Dynamics of motion.Wear 143, 2, 331--352.",
+                "DOI": "10.1016/0043-1648(91)90105-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-14",
+                "unstructured": "Hadap, S., Cani, M.-P., Lin, M., Kim, T.-Y., Bertails, F., Marschner, S., Ward, K., and Ka&#269;i&#263;-Alesi&#263;, Z. 2007. Strands and Hair: Modeling, Animation, and Rendering. InACM SIGGRAPH Courses, 1--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-15",
+                "unstructured": "Hairer, E., and Wanner, G. 2004.Solving Ordinary Differential Equations II: Stiff and Differential-Algebraic Problems, second ed. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-16",
+                "unstructured": "Iben, H., Meyer, M., Petrovic, L., Soares, O., Anderson, J., and Witkin, A. 2013. Artistic Simulation of Curly Hair. InACM SIGGRAPH/Eurographics Symposium on Computer Animation, 63--71."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-17",
+                "unstructured": "Jean, M., and Moreau, J. J. 1992. Unilaterality and dry friction in the dynamics of rigid body collections. InProceedings of Contact Mechanics International Symposium, vol. 1, 31--48."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-18",
+                "unstructured": "Jourdan, F., Alart, P., and Jean, M. 1998. A Gauss-Seidel like algorithm to solve frictional contact problems.Computer Methods in Applied Mechanics and Engineering 155, 1 (Mar.), 31--47."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-19",
+                "unstructured": "Kaufman, D. M., Sueda, S., James, D. L., and Pai, D. K. 2008. Staggered Projections for Frictional Contact in Multibody Systems.ACM Trans. Graph. 27, 5 (Dec.), 164:1--164:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-20",
+                "unstructured": "Kikuchi, N., and Oden, J. T. 1988.Contact Problems in Elasticity: A Study of Variational Inequalities and Finite Element Methods, vol. 8 ofSIAM Studies in Applied and Numerical Mathematics. Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9781611970845",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-21",
+                "unstructured": "Landau, L. D., and Lifshitz, E. 1986.Theory Of Elasticity, Course of Theoretical Physics, Vol. 7. Pergamon Press, Oxford."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-22",
+                "unstructured": "McAdams, A., Selle, A., Ward, K., Sifakis, E., and Teran, J. 2009. Detail Preserving Continuum Simulation of Straight Hair.ACM Trans. Graph. 28, 3 (July), 62:1--62:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-23",
+                "unstructured": "Mirtich, B., and Canny, J. 1995. Impulse-based Simulation of Rigid Bodies. InProceedings of the 1995 Symposium on Interactive 3D Graphics, 181--ff.",
+                "DOI": "10.1145/199404.199436",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-24",
+                "unstructured": "Moreau, J. J. 1988. Unilateral Contact and Dry Friction in Finite Freedom Dynamics.Nonsmooth Mechanics and Applications, CISM Courses and Lectures, 302, 1--82."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-25",
+                "unstructured": "Otaduy, M. A., Tamstorf, R., Steinemann, D., and Gross, M. 2009. Implicit Contact Handling for Deformable Objects.Computer Graphics Forum 28, 2, 559--568.",
+                "DOI": "10.1111/j.1467-8659.2009.01396.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-26",
+                "unstructured": "Provot, X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. InComputer Animation and Simulation, Eurographics, 177--189.",
+                "DOI": "10.1007/978-3-7091-6874-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-27",
+                "unstructured": "Robbins, C. R. 2012.Chemical and Physical Behavior of Human Hair, fifth ed. Springer.",
+                "DOI": "10.1007/978-3-642-25611-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-28",
+                "unstructured": "Selle, A., Lentine, M., and Fedkiw, R. 2008. A Mass Spring Model for Hair Simulation.ACM Trans. Graph. 27, 3 (Aug.), 64:1--64:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-29",
+                "unstructured": "Spillmann, J., and Teschner, M. 2007. CORDE: Cosserat Rod Elements for the Dynamic Simulation of One-Dimensional Elastic Objects. InACM SIGGRAPH/Eurographics Symposium on Computer Animation, 63--72."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-30",
+                "unstructured": "Stewart, D. E. 2001. Finite-dimensional contact mechanics.Phil. Trans. R. Soc. Lond. A 359, 2467--2482.",
+                "DOI": "10.1098/rsta.2001.0904",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-31",
+                "unstructured": "Stewart, D. E. 2011.Dynamics with Inequalities: Impacts and Hard Constraints. Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9781611970715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-32",
+                "unstructured": "Ward, K., Bertails, F., Kim, T.-Y., Marschner, S. R., Cani, M.-P., and Lin, M. C. 2007. A Survey on Hair Modeling: Styling, Simulation, and Rendering.IEEE Transactions on Visualization and Computer Graphics 13, 2 (Mar.), 213--234."
+            },
+            {
+                "key": "key-10.1145/2601097.2601100-33",
+                "unstructured": "Zheng, C., and James, D. L. 2011. Toward High-Quality Modal Contact Sound.ACM Trans. Graph. 30, 4 (July), 38:1--38:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601100&amp;ftid=1488932&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:38Z",
+            "timestamp": 1565663738000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601100",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

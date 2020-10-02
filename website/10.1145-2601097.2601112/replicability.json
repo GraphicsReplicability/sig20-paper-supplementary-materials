@@ -1,0 +1,91 @@
+{
+    "Timestamp": "12/16/2019 15:24:32",
+    "Title": "Tangible and Modular Input Device for Character Articulation",
+    "DOI": "10.1145/2601097.2601112",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...), on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README, AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/alecjacobson/puppet",
+    "code URL  2": "https://igl.ethz.ch/projects/character-articulation-input-device/tangible-and-modular-input-device-for-character-articulation-supplemental.zip",
+    "PDF URL": "https://igl.ethz.ch/projects/character-articulation-input-device/tangible-and-modular-input-device-for-character-articulation-siggraph-2014-jacobson-et-al.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Graphics input devices",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "The paper is likely reproducible given the appropriate hardware. It includes a thorough open hardware description, and firmware/driver code, as well as the app to deform meshes.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 69,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "ftd2xx / libigl / boost / matlab / mosek / tetgen",
+    "Project URL": "https://igl.ethz.ch/projects/character-articulation-input-device/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to missing specific hardware",
+    "Year": 2014,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Virtual Reality",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Alec",
+            "family": "Jacobson",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Daniele",
+            "family": "Panozzo",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Oliver",
+            "family": "Glauser",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "C\u00e9dric",
+            "family": "Pradalier",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Otmar",
+            "family": "Hilliges",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Olga",
+            "family": "Sorkine-Hornung",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

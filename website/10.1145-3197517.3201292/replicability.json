@@ -1,0 +1,116 @@
+{
+    "Timestamp": "1/21/2020 13:47:12",
+    "Title": "VisemeNet: Audio-Driven Animator-Centric Speech Animation",
+    "DOI": "10.1145/3197517.3201292",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.09488",
+    "code URL": "https://github.com/yzhou359/VisemeNet_tensorflow",
+    "code URL  2": "",
+    "PDF URL": "http://www.dgp.toronto.edu/~karan/papers/visemenetSIG18.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "custom",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Machine learning algorithms",
+    "ACM 2": "Animation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Note that the VisemeNet code has strong requirements on software and library versions. The code does run on Python 3.5 but not on Python 3.6.5. Also, Python 3.5 now comes with a default scipy 1.4.0 which is not suitable, though an older scipy 1.1.0 works.\nI could test the prediction with the provided trained network on the single provided audio file, as well as the Maya script to use the results on a public face rig. This worked nicely.\nI did not test the training as data are only accessible upon (non-anonymous) request, and training instructions and scripts are not provided (although a non-standalone train_visemenet.py file is present, it does not run on its own).\n\n--alternative test on linux--\nI failed to have the tensorflow package within anaconda to work with libcudnn.so.8.0.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 13,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow / cudnn / numpy / scipy / matplotlib / python_speech_features / Maya",
+    "Project URL": "https://people.umass.edu/~yangzhou/visemenet/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Yang",
+            "family": "Zhou",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Massachusetts Amherst"
+                }
+            ]
+        },
+        {
+            "given": "Zhan",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Massachusetts Amherst"
+                }
+            ]
+        },
+        {
+            "given": "Chris",
+            "family": "Landreth",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto"
+                }
+            ]
+        },
+        {
+            "given": "Evangelos",
+            "family": "Kalogerakis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Massachusetts Amherst"
+                }
+            ]
+        },
+        {
+            "given": "Subhransu",
+            "family": "Maji",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Massachusetts Amherst"
+                }
+            ]
+        },
+        {
+            "given": "Karan",
+            "family": "Singh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

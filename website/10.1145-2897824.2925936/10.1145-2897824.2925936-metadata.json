@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:21Z",
+            "timestamp": 1574815941382
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100006041",
+                "name": "Innovate UK",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "101858"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925936",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Adaptive polynomial rendering"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Bochang",
+                "family": "Moon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "McDonagh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kenny",
+                "family": "Mitchell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research and Edinburgh Napier University"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research and ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925936-1",
+                "unstructured": "Delbracio, M., Mus&#233;, P., Buades, A., Chauvier, J., Phelps, N., and Morel, J.-M. 2014. Boosting Monte Carlo rendering by ray histogram fusion.ACM Trans. Graph. 33, 1, 8:1--8:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-2",
+                "unstructured": "Durand, F., Holzschuch, N., Soler, C., Chan, E., and Sillion, F. X. 2005. A frequency analysis of light transport.ACM Trans. Graph. 24, 3, 1115--1126."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-3",
+                "unstructured": "Egan, K., Tseng, Y.-T., Holzschuch, N., Durand, F., and Ramamoorthi, R. 2009. Frequency analysis and sheared reconstruction for rendering motion blur.ACM Trans. Graph. 28, 3, 93:1--93:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-4",
+                "unstructured": "Egan, K., Durand, F., and Ramamoorthi, R. 2011. Practical filtering for efficient ray-traced directional occlusion.ACM Trans. Graph. 30, 6, 180:1--180:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-5",
+                "unstructured": "Egan, K., Hecht, F., Durand, F., and Ramamoorthi, R. 2011. Frequency analysis and sheared filtering for shadow light fields of complex occluders.ACM Trans. Graph. 30, 2, 9:1--9:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-6",
+                "unstructured": "Hachisuka, T., Jarosz, W., Weistroffer, R. P., Dale, K., Humphreys, G., Zwicker, M., and Jensen, H. W. 2008. Multidimensional adaptive sampling and reconstruction for ray tracing.ACM Trans. Graph. 27, 3, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-7",
+                "unstructured": "Hayter, A. 2007.Probability and statistics for engineers and scientists 3rd. Brooks/Cole Publishing Co."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-8",
+                "unstructured": "Kajiya, J. T. 1986. The rendering equation. InACM SIGGRAPH '86, 143--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-9",
+                "unstructured": "Kalantari, N. K., and Sen, P. 2013. Removing the noise in Monte Carlo rendering with general image denoising algorithms.Computer Graphics Forum 32, 2pt1, 93--102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-10",
+                "unstructured": "Kalantari, N. K., Bako, S., and Sen, P. 2015. A machine learning approach for filtering Monte Carlo noise.ACM Trans. Graph. 34, 4, 122:1--122:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-11",
+                "unstructured": "Lehtinen, J., Aila, T., Chen, J., Laine, S., and Durand, F. 2011. Temporal light field reconstruction for rendering distribution effects.ACM Trans. Graph. 30, 4, 55:1--55:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-12",
+                "unstructured": "Lehtinen, J., Aila, T., Laine, S., and Durand, F. 2012. Reconstructing the indirect light field for global illumination.ACM Trans. Graph. 31, 4, 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-13",
+                "unstructured": "Li, T.-M., Wu, Y.-T., and Chuang, Y.-Y. 2012. SURE-based optimization for adaptive sampling and reconstruction.ACM Trans. Graph. 31, 6, 194:1--194:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-14",
+                "unstructured": "McCool, M. D. 1999. Anisotropic diffusion for Monte Carlo noise reduction.ACM Trans. Graph. 18, 2, 171--194."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-15",
+                "unstructured": "Mehta, S. U., Wang, B., and Ramamoorthi, R. 2012. Axis-aligned filtering for interactive sampled soft shadows.ACM Trans. Graph. 31, 6, 163:1--163:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-16",
+                "unstructured": "Mehta, S. U., Wang, B., Ramamoorthi, R., and Durand, F. 2013. Axis-aligned filtering for interactive physically-based diffuse indirect lighting.ACM Trans. Graph. 32, 4, 96:1--96:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-17",
+                "unstructured": "Mehta, S. U., Yao, J., Ramamoorthi, R., and Durand, F. 2014. Factored axis-aligned filtering for rendering multiple distribution effects.ACM Trans. Graph. 33, 4, 57:1--57:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-18",
+                "unstructured": "Moon, B., Jun, J. Y., Lee, J., Kim, K., Hachisuka, T., and Yoon, S.-E. 2013. Robust image denoising using a virtual flash image for Monte Carlo ray tracing.Computer Graphics Forum 32, 1, 139--151."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-19",
+                "unstructured": "Moon, B., Carr, N., and Yoon, S.-E. 2014. Adaptive rendering based on weighted local regression.ACM Trans. Graph. 33, 5, 170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-20",
+                "unstructured": "Moon, B., Iglesias-Guitian, J. A., Yoon, S.-E., and Mitchell, K. 2015. Adaptive rendering with linear predictions.ACM Trans. Graph. 34, 4, 121:1--121:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-21",
+                "unstructured": "Overbeck, R. S., Donner, C., and Ramamoorthi, R. 2009. Adaptive wavelet rendering.ACM Trans. Graph. 28, 5, 140:1--140:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-22",
+                "unstructured": "Pharr, M., and Humphreys, G. 2010.Physically Based Rendering: From Theory to Implementation 2nd. Morgan Kaufmann Publishers Inc."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-23",
+                "unstructured": "Rousselle, F., Knaus, C., and Zwicker, M. 2011. Adaptive sampling and reconstruction using greedy error minimization.ACM Trans. Graph. 30, 6, 159:1--159:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-24",
+                "unstructured": "Rousselle, F., Knaus, C., and Zwicker, M. 2012. Adaptive rendering with non-local means filtering.ACM Trans. Graph. 31, 6, 195:1--195:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-25",
+                "unstructured": "Rousselle, F., Manzi, M., and Zwicker, M. 2013. Robust denoising using feature and color information.Computer Graphics Forum 32, 7, 121--130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-26",
+                "unstructured": "Ruppert, D., and Wand, M. 1994. Multivariate locally weighted least squares regression.The annals of statistics 22, 3, 1346--1370."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-27",
+                "unstructured": "Rushmeier, H. E., and Ward, G. J. 1994. Energy preserving non-linear filters. InACM SIGGRAPH, 131--138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-28",
+                "unstructured": "Sen, P., and Darabi, S. 2012. On filtering the noise from the random parameters in Monte Carlo rendering.ACM Trans. Graph. 31, 3, 18:1--18:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-29",
+                "unstructured": "Soler, C., Subr, K., Durand, F., Holzschuch, N., and Sillion, F. 2009. Fourier depth of field.ACM Trans. Graph. 28, 2, 18:1--18:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-30",
+                "unstructured": "Yan, L.-Q., Mehta, S. U., Ramamoorthi, R., and Durand, F. 2015. Fast 4d sheared filtering for interactive rendering of distribution effects.ACM Trans. Graph. 35, 1, 7:1--7:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925936-31",
+                "unstructured": "Zwicker, M., Jarosz, W., Lehtinen, J., Moon, B., Ramamoorthi, R., Rousselle, F., Sen, P., Soler, C., and Yoon, S.-E. 2015. Recent advances in adaptive sampling and reconstruction for Monte Carlo rendering.Computer Graphics Forum 34, 2, 667--681."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925936&amp;ftid=1755836&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2016,
+                    12,
+                    7
+                ]
+            ],
+            "date-time": "2016-12-07T05:07:17Z",
+            "timestamp": 1481087237000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925936",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

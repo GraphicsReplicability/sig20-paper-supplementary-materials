@@ -1,0 +1,96 @@
+{
+    "Timestamp": "1/11/2020 15:38:52",
+    "Title": "Perspective-aware Manipulation of Portrait Photos",
+    "DOI": "10.1145/2897824.2925933",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Cannot answer",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "None",
+    "arXiv (page URL)": "",
+    "code URL": "https://faces.cs.princeton.edu/#",
+    "code URL  2": "",
+    "PDF URL": "https://www.ohadf.com/papers/FriedShechtmanGoldmanFinkelstein_SIGGRAPH2016.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "None",
+    "Mandatory Software dependencies": "None",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Web app only. Can produce all results by uploading new pictures or testing pre-computed ones.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 24,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://faces.cs.princeton.edu/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Binary",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Ohad",
+            "family": "Fried",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Eli",
+            "family": "Shechtman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Dan B.",
+            "family": "Goldman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Adam",
+            "family": "Finkelstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 97,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=97&types=mmmmmmmm",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=10140283"
+}

@@ -1,0 +1,284 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808410
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601199",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 90,
+        "title": [
+            "Embree"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ingo",
+                "family": "Wald",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Sven",
+                "family": "Woop",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Carsten",
+                "family": "Benthin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Gregory S.",
+                "family": "Johnson",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Manfred",
+                "family": "Ernst",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601199-1",
+                "unstructured": "Aila, T., and Laine, S. 2009. Understanding the Efficiency of Ray Traversal on GPUs. InProceedings of High-Performance Graphics, 145--149."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-2",
+                "unstructured": "Benthin, C., and Wald, I. 2009. Efficient Ray Traced Soft Shadows using Multi-Frusta Tracing. InProceedings of High-Performance Graphics, 135--144."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-3",
+                "unstructured": "Benthin, C., Wald, I., Woop, S., Ernst, M., and Mark, W. R. 2012. Combining Single and Packet-Ray Tracing for Arbitrary Ray Distributions on the Intel MIC Architecture.IEEE Transactions on Visualization and Computer Graphics 18, 9, 1438--1448.",
+                "DOI": "10.1109/TVCG.2011.277",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-4",
+                "unstructured": "Bigler, J., Stephens, A., and Parker, S. G. 2006. Design for Parallel Interactive Ray Tracing Systems. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 187--196.",
+                "DOI": "10.1109/RT.2006.280230",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-5",
+                "unstructured": "Dammertz, H., Hanika, J., and Keller, A. 2008. Shallow Bounding Volume Hierarchies for Fast SIMD Ray Tracing of Incoherent Rays. InProceedings of the 19th Eurographics Conference on Rendering, 1225--1234."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-6",
+                "unstructured": "Ernst, M., and Greiner, G. 2008. Multi Bounding Volume Hierarchies. InProceedings of the IEEE / Eurographics Symposium on Interactive Ray Tracing, 35--40."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-7",
+                "unstructured": "Glassner, A. 1989.An Introduction to Ray Tracing. Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-8",
+                "unstructured": "Gr&#252;nschloss, L., Stich, M., Nawaz, S., and Keller, A. 2011. MSBVH: An Efficient Acceleration Data Structure for Ray Traced Motion Blur. InProceedings of High-Performance Graphics, 65--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-9",
+                "unstructured": "Havran, V. 2000.Heuristic Ray Shooting Algorithms. PhD thesis, Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-10",
+                "unstructured": "Karras, T., and Aila, T. 2013. Fast Parallel Construction of High-Quality Bounding Volume Hierarchies. InProceedings of High-Performance Graphics, 89--99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-11",
+                "unstructured": "Kensler, A., and Shirley, P. 2006. Optimizing Ray-Triangle Intersection via Automated Search. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 33--38.",
+                "DOI": "10.1109/RT.2006.280212",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-12",
+                "unstructured": "Kensler, A. 2008. Tree Rotations for Improving Bounding Volume Hierarchies. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 73--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-13",
+                "unstructured": "Laine, S., Karras, T., and Aila, T. 2013. Megakernels Considered Harmful: Wavefront Path Tracing on GPUs. InProceedings of High-Performance Graphics, 137--143."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-14",
+                "unstructured": "Lauterbach, C., Garland, M., Sengupta, S., Luebke, D., and Manocha, D. 2009. Fast BVH Construction on GPUs. InComputer Graphics Forum: Proceedings of Eurographics, 375--384."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-15",
+                "unstructured": "Parker, S. G., Bigler, J., Dietrich, A., Friedrich, H., Hoberock, J., Luebke, D., McAllister, D., McGuire, M., Morley, K., Robison, A., and Stich, M. 2010. OptiX: A General Purpose Ray Tracing Engine. InACM SIGGRAPH 2010 Papers, 66:1--66:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-16",
+                "unstructured": "Pharr, M., and Humphreys, G. 2004.Physically Based Rendering: From Theory to Implementation. Morgan Kaufman."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-17",
+                "unstructured": "Pharr, M., and Mark, B. 2012. ISPC - A SPMD compiler for high-performance CPU programming. InProceedings of Innovative Parallel Computing, 1--13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-18",
+                "unstructured": "Reshetov, A., Soupikov, A., and Hurley, J. 2005. Multi-Level Ray Tracing Algorithm. InACM SIGGRAPH 2005 Papers, 1176--1185."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-19",
+                "unstructured": "Stich, M., Friedrich, H., and Dietrich, A. 2009. Spatial Splits in Bounding Volume Hierarchies. InProceedings of High-Performance Graphics, 7--13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-20",
+                "unstructured": "Wald, I., Benthin, C., and Slusallek, P. 2002. OpenRT - A Flexible and Scalable Rendering Engine for Interactive 3D Graphics. Tech. rep., Saarland University. Available at http://graphics.cs.uni-sb.de/Publications."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-21",
+                "unstructured": "Wald, I., Benthin, C., and Slusallek, P. 2003. Distributed Interactive Ray Tracing of Dynamic Scenes. InProceedings of the IEEE Symposium on Parallel and Large-Data Visualization and Graphics, 11--20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-22",
+                "unstructured": "Wald, I., Benthin, C., and Boulos, S. 2008. Getting Rid of Packets: Efficient SIMD Single-Ray Traversal using Multi-branching BVHs. InProceedings of the IEEE / Eurographics Symposium on Interactive Ray Tracing, 49--57."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-23",
+                "unstructured": "Wald, I. 2004.Realtime Ray Tracing and Interactive Global Illumination. PhD thesis, Saarland University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-24",
+                "unstructured": "Wald, I. 2007. On fast Construction of SAH-based Bounding Volume Hierarchies. InProceedings of the IEEE / Eurographics Symposium on Interactive Ray Tracing, 33--40."
+            },
+            {
+                "key": "key-10.1145/2601097.2601199-25",
+                "unstructured": "Wald, I. 2012. Fast Construction of SAH BVHs on the Intel Many Integrated Core (MIC) Architecture.IEEE Transactions on Visualization and Computer Graphics 18, 1, 47--57.",
+                "DOI": "10.1109/TVCG.2010.251",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601199&amp;ftid=1488952&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a kernel framework for efficient CPU ray tracing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601199",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

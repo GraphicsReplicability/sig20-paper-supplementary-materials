@@ -1,0 +1,462 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:56:08Z",
+            "timestamp": 1574816168892
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Canada Foundation for Innovation",
+                "award": []
+            },
+            {
+                "name": "Ontario Research Fund",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925984",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "JALI"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Pif",
+                "family": "Edwards",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Landreth",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Eugene",
+                "family": "Fiume",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Karan",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925984-1",
+                "unstructured": "Albrecht, I., Schr&#246;der, M., Haber, J., and Seidel, H.-P. 2005. Mixed feelings: expression of non-basic emotions in a muscle-based talking head.Virtual Reality 8, 4 (Aug.), 201--212."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-2",
+                "unstructured": "Anderson, R., Stenger, B., Wan, V., and Cipolla, R. 2013. Expressive Visual Text-to-Speech Using Active Appearance Models. InProceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 3382--3389."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-3",
+                "unstructured": "Bachorowski, J.-A. 1999. Vocal Expression and Perception of Emotion.Current Directions in Psychological Science 8, 2, 53--57."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-4",
+                "unstructured": "Badin, P., Bailly, G., Revret, L., Baciu, M., Segebarth, C., and Savariaux, C. 2002. Three-dimensional linear articulatory modeling of tongue, lips and face, based on {MRI} and video images.Journal of Phonetics 30, 3, 533--553."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-5",
+                "unstructured": "Bailly, G., Govokhina, O., Elisei, F., and Breton, G. 2009. Lip-Synching Using Speaker-Specific Articulation, Shape and Appearance Models.EURASIP Journal on Audio, Speech, and Music Processing 2009, 1, 1--11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-6",
+                "unstructured": "Bailly, G., Perrier, P., and Vatikiotis-Bateson, E., Eds. 2012.Audiovisual Speech Processing.Cambridge University Press. Cambridge Books Online.",
+                "DOI": "10.1017/CBO9780511843891",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-7",
+                "unstructured": "Bailly, G. 1997. Learning to Speak. Sensori-Motor Control of Speech Movements.Speech Communication 22, 2-3 (Aug.), 251--267."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-8",
+                "unstructured": "Banse, R., and Scherer, K. R. 1996. Acoustic Profiles in Vocal Emotion Expression.Journal of Personality and Social Psychology 70, 3 (Mar.), 614--636."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-9",
+                "unstructured": "Bevacqua, E., and Pelachaud, C. 2004. Expressive Audio-Visual Speech.Computer Animation and Virtual Worlds 15, 3-4, 297--304."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-10",
+                "unstructured": "Black, A. W., Taylor, P., and Caley, R. 2001.The Festival Speech Synthesis System: System Documentation Festival version 1.4, 1.4.2 ed."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-11",
+                "unstructured": "Blair, P. 1947.Advanced Animation: Learn how to draw animated cartoons. Walter T. Foster."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-12",
+                "unstructured": "Boersma, P., and Weenink, D., 2014. Praat: doing phonetics by computer [Computer Program]. Version 5.4.04, retrieved 28 December 2014 from http://www.praat.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-13",
+                "unstructured": "Brand, M. 1999. Voice Puppetry. InSIGGRAPH '99: Proceedings of the 26th annual conference on Computer graphics and interactive techniques, ACM Press, Los Angeles, 21--28.",
+                "DOI": "10.1145/311535.311537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-14",
+                "unstructured": "Bregler, C., Covell, M., and Slaney, M. 1997. Video rewrite: Driving visual speech with audio. InProceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, SIGGRAPH '97, 353--360."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-15",
+                "unstructured": "Brugnara, F., Falavigna, D., and Omologo, M. 1993. Automatic segmentation and labeling of speech based on hidden markov models.Speech Commun. 12, 4 (Aug.), 357--370."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-16",
+                "unstructured": "Cao, Y., Tien, W. C., Faloutsos, P., and Pighin, F. 2005. Expressive Speech-Driven Facial Animation.ACM Transactions on Graphics (TOG) 24, 4, 1283--1302."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-17",
+                "unstructured": "Carnegie Mellon University, 2014. CMU Sphinx: Open Source Toolkit for Speech Recognition [Computer Program]. Version 4, retrieved 28 December 2014 from http://cmusphinx.sourceforge.net/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-18",
+                "unstructured": "Chandrasekaran, C., Trubanova, A., Stillittano, S., Caplier, A., and Ghazanfar, A. A. 2009. The Natural Statistics of Audiovisual Speech.PLoS Computational Biology 5, 7 (July), 1--18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-19",
+                "unstructured": "Cohen, M. M., and Massaro, D. W. 1993. Modeling Coarticulation in Synthetic Visual Speech.Models and Techniques in Computer Animation, 139--156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-20",
+                "unstructured": "Cosi, P., Caldognetto, E. M., Perin, G., and Zmarich, C. 2002. Labial Coarticulation Modeling for Realistic Facial Animation. InICMI'02: IEEE International Conference on Multimodal Interfaces, IEEE Computer Society, 505--510.",
+                "DOI": "10.1109/ICMI.2002.1167047",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-21",
+                "unstructured": "Deng, Z., Neumann, U., Lewis, J. P., Kim, T.-Y., Bulut, M., and Narayanan, S. 2006. Expressive Facial Animation Synthesis by Learning Speech Coarticulation and Expression Spaces.IEEE Transactions on Visualization and Computer Graphics 12, 6 (Nov.), 1523--1534."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-22",
+                "unstructured": "Ekman, P., and Friesen, W. V. 1978.Facial Action Coding System: A Technique for the Measurement of Facial Movement, 1 ed. Consulting Psychologists Press, Palo Alto, California, Aug.",
+                "DOI": "10.1037/t27734-000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-23",
+                "unstructured": "Ezzat, T., Geiger, G., and Poggio, T. 2002. Trainable vide-orealistic speech animation. InProceedings of the 29th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '02, 388--398."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-24",
+                "unstructured": "Fisher, C. G. 1968. Confusions among visually perceived consonants.Journal of Speech, Language, and Hearing Research 11, 4, 796--804."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-25",
+                "unstructured": "Hill, H. C. H., Troje, N. F., and Johnston, A. 2005. Range- and Domain-Specific Exaggeration of Facial Speech.Journal of Vision 5, 10 (Nov.), 4--4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-26",
+                "unstructured": "Ito, T., Murano, E. Z., and Gomi, H. 2004. Fast Force-Generation Dynamics of Human Articulatory Muscles.Journal of Applied Physiology 96, 6 (June), 2318--2324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-27",
+                "unstructured": "Jurafsky, D., and Martin, J. H. 2008.Speech and language processing: an introduction to natural language processing, computational linguistics, and speech recognition, 2 ed. Prentice Hall."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-28",
+                "unstructured": "Kent, R. D., and Minifie, F. D. 1977. Coarticulation in Recent Speech Production Models.Journal of Phonetics 5, 2, 115--133."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-29",
+                "unstructured": "King, S. A., and Parent, R. E. 2005. Creating Speech-Synchronized Animation.IEEE Transactions on Visualization and Computer Graphics 11, 3 (May), 341--352."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-30",
+                "unstructured": "Lasseter, J. 1987. Principles of Traditional Animation Applied to 3D Computer Animation.SIGGRAPH Computer Graphics 21, 4, 35--44."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-31",
+                "unstructured": "Li, H., Yu, J., Ye, Y., and Bregler, C. 2013. Realtime Facial Animation with on-the-Fly Correctives.ACM Transactions on Graphics (TOG) 32, 4, 42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-32",
+                "unstructured": "LibriVox, 2014. LibriVox---free public domain audiobooks. Retrieved 28 December 2014 from https://librivox.org/.",
+                "DOI": "10.1108/RR-08-2013-0197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-33",
+                "unstructured": "Liu, Y., Xu, F., Chai, J., Tong, X., Wang, L., and Huo, Q. 2015. Video-Audio Driven Real-Time Facial Animation.ACM Transactions on Graphics (TOG) 34, 6 (Nov.), 182."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-34",
+                "unstructured": "Ma, X., and Deng, Z. 2012. A Statistical Quality Model for Data-Driven Speech Animation.IEEE Transactions on Visualization and Computer Graphics 18, 11, 1915--1927."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-35",
+                "unstructured": "Ma, J., Cole, R., Pellom, B., Ward, W., and Wise, B. 2006. Accurate visible speech synthesis based on concatenating variable length motion capture data.Visualization and Computer Graphics, IEEE Transactions on 12, 2 (March), 266--276."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-36",
+                "unstructured": "Maniwa, K., Jongman, A., and Wade, T. 2009. Acoustic Characteristics of Clearly Spoken English Fricatives.Journal of the Acoustical Society of America 125, 6, 3962."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-37",
+                "unstructured": "Massaro, D. W., Cohen, M. M., Tabain, M., Beskow, J., and Clark, R. 2012. Animated speech: research progress and applications. InAudiovisual Speech Processing, G. Bailly, P. Perrier, and E. Vatikiotis-Bateson, Eds. Cambridge University Press, Cambridge, 309--345.",
+                "DOI": "10.1017/CBO9780511843891.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-38",
+                "unstructured": "Mattheyses, W., and Verhelst, W. 2015. Audiovisual Speech Synthesis: An Overview of the State-of-the-Art.Speech Communication 66, C (Feb.), 182--217."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-39",
+                "unstructured": "Metzner, J., Schmittfull, M., and Schnell, K. 2006. Substitute sounds for ventriloquism and speech disorders. InINTERSPEECH 2006 - ICSLP, Ninth International Conference on Spoken Language Processing, Pittsburgh, PA, USA, September 17--21, 2006."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-40",
+                "unstructured": "Mori, M. 1970. The Uncanny Valley (aka. 'Bukimi no tani').Energy 7, 4, 33--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-41",
+                "unstructured": "Orvalho, V., Bastos, P., Parke, F. I., Oliveira, B., and Alvarez, X. 2012. A Facial Rigging Survey.Eurographics 2012 - STAR -- State of The Art Report, 183--204."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-42",
+                "unstructured": "Osipa, J. 2010.Stop staring: facial modeling and animation done right.John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-43",
+                "unstructured": "Pandzic, I. S., and Forchheimer, R., Eds. 2002.MPEG-4 Facial Animation, 1 ed. The Standard, Implementation and Applications. John Wiley &#38; Sons, West Sussex.",
+                "DOI": "10.1002/0470854626",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-44",
+                "unstructured": "Parke, F. I., and Waters, K. 1996.Computer Facial Animation.A. K. Peters.",
+                "DOI": "10.1037/e526112012-055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-45",
+                "unstructured": "Parke, F. I. 1972. Computer generated animation of faces. InProceedings of the ACM Annual Conference - Volume 1, ACM, New York, NY, USA, ACM '72, 451--457.",
+                "DOI": "10.1145/800193.569955",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-46",
+                "unstructured": "Pelachaud, C., Badler, N. I., and Steedman, M. 1996. Generating Facial Expressions for Speech.Cognitive Science 20, 1, 1--46."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-47",
+                "unstructured": "Rossion, B., Hanseeuw, B., and Dricot, L. 2012. Defining face perception areas in the human brain: A large-scale factorial fmri face localizer analysis.Brain and Cognition 79, 2, 138--157."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-48",
+                "unstructured": "Schwartz, J.-L., and Savariaux, C. 2014. No, There Is No 150 ms Lead of Visual Speech on Auditory Speech, but a Range of Audiovisual Asynchronies Varying from Small Audio Lead to Large Audio Lag.PLoS Computational Biology (PLOSCB) 10(7)10, 7, 1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-49",
+                "unstructured": "Sifakis, E., Selle, A., Robinson-Mosher, A., and Fedkiw, R. 2006. Simulating Speech With A Physics-Based Facial Muscle Model. InSCA '06: Proceedings of the 2006 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, Vienna, 261--270."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-50",
+                "unstructured": "Taylor, S. L., Mahler, M., Theobald, B.-J., and Matthews, I. 2012. Dynamic units of visual speech. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '12, 275--284."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-51",
+                "unstructured": "Taylor, S. L., Theobald, B. J., and Matthews, I. 2014. The Effect of Speaking Rate on Audio and Visual Speech. InAcoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on, IEEE, Disney Research, Pittsburgh, PA, 3037--3041.",
+                "DOI": "10.1109/ICASSP.2014.6854158",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-52",
+                "unstructured": "Wang, A., Emmi, M., and Faloutsos, P. 2007. Assembling an Expressive Facial Animation System. InSandbox '07: Proceedings of the 2007 ACM SIGGRAPH symposium on Video games, ACM.",
+                "DOI": "10.1145/1274940.1274947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-53",
+                "unstructured": "Wang, L., Han, W., and Soong, F. K. 2012. High Quality Lip-Sync Animation for 3D Photo-Realistic Talking Head. InICASSP 2012: IEEE International Conference on Acoustics, Speech and Signal Processing, 4529--4532."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-54",
+                "unstructured": "Weise, T., Li, H., Van Gool, L., and Pauly, M. 2009. Face/Off: live facial puppetry. InSCA '09: Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM Request Permissions, 7--16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-55",
+                "unstructured": "Weise, T., Bouaziz, S., Li, H., and Pauly, M. 2011. Realtime performance-based facial animation.SIGGRAPH '11: SIGGRAPH 2011 papers(Aug.).",
+                "DOI": "10.1145/1964921.1964972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-56",
+                "unstructured": "Williams, L. 1990. Performance-driven facial animation. InProceedings of the 17th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '90, 235--242.",
+                "DOI": "10.1145/97879.97906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-57",
+                "unstructured": "Xu, Y., Feng, A. W., Marsella, S., and Shapiro, A. 2013. A Practical and Configurable Lip Sync Method for Games. InProceedings - Motion in Games 2013, MIG 2013, USC Institute for Creative Technologies, 109--118.",
+                "DOI": "10.1145/2522628.2522904",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925984-58",
+                "unstructured": "Young, S. J., and Young, S. 1993.The HTK Hidden Markov Model Toolkit: Design and Philosophy.University of Cambridge, Department of Engineering."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925984&amp;ftid=1755838&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:34Z",
+            "timestamp": 1568162914000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "an animator-centric viseme model for expressive lip synchronization"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925984",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

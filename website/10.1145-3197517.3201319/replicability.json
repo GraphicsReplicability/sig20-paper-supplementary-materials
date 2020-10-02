@@ -1,0 +1,147 @@
+{
+    "Timestamp": "12/13/2019 16:36:01",
+    "Title": "Reconstructing scenes with mirror and glass surfaces",
+    "DOI": "10.1145/3197517.3201319",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://www.gcc.tu-darmstadt.de/media/gcc/papers/mirror-scenes.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "3D imaging",
+    "ACM 2": "Reflectance modeling",
+    "ACM 3": "Shape modeling",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 8,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://research.fb.com/publications/reconstructing-scenes-with-mirror-and-glass-surfaces/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Thomas",
+            "family": "Whelan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Goesele",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs and TU Darmstadt"
+                }
+            ]
+        },
+        {
+            "given": "Steven J.",
+            "family": "Lovegrove",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Julian",
+            "family": "Straub",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Simon",
+            "family": "Green",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Richard",
+            "family": "Szeliski",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook"
+                }
+            ]
+        },
+        {
+            "given": "Steven",
+            "family": "Butterfield",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Shobhit",
+            "family": "Verma",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        },
+        {
+            "given": "Richard",
+            "family": "Newcombe",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook Reality Labs"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

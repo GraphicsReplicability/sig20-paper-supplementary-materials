@@ -1,0 +1,350 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:44Z",
+            "timestamp": 1574859824748
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201348",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Robust optimization for topological surface reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Roee",
+                "family": "Lazar",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Nadav",
+                "family": "Dym",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yam",
+                "family": "Kushinsky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Zhiyang",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201348-1",
+                "unstructured": "Omid Amini, Jean-Daniel Boissonnat, and Pooran Memari. 2013. Geometric tomography with topological guarantees.Discrete &#38; Computational Geometry50, 4 (2013), 821--856.",
+                "DOI": "10.1007/s00454-013-9531-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-2",
+                "unstructured": "Marco Attene, Marcel Campen, and Leif Kobbelt. 2013. Polygon mesh repairing: An application perspective.ACM Computing Surveys (CSUR)45, 2 (2013), 15.",
+                "DOI": "10.1145/2431211.2431214",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-3",
+                "unstructured": "Gill Barequet and Amir Vaxman. 2009. Reconstruction of Multi-Label Domains from Partial Planar Cross-Sections. InComputer Graphics Forum, Vol. 28. Wiley Online Library, 1327--1337.",
+                "DOI": "10.1111/j.1467-8659.2009.01510.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-4",
+                "unstructured": "Pierre-Louis Bazin and Dzung L Pham. 2007. Topology-preserving tissue classification of magnetic resonance brain images.IEEE transactions on medical imaging26, 4 (2007), 487--496.",
+                "DOI": "10.1109/TMI.2007.893283",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-5",
+                "unstructured": "Amit Bermano, Amir Vaxman, and Craig Gotsman. 2011. Online reconstruction of 3D objects from arbitrary cross-sections.ACM Transactions on Graphics (TOG)30, 5 (2011), 113."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-6",
+                "unstructured": "Jean-Daniel Boissonnat and Pooran Memari. 2007. Shape reconstruction from unorganized cross-sections. InSymposium on Geometry Processing.89--98."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-7",
+                "unstructured": "Evgeni Chernyaev. 1995.Marching cubes 33: Construction of topologically correct isosurfaces.Technical Report."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-8",
+                "unstructured": "Fan RK Chung. 1997.Spectral graph theory.Number 92. American Mathematical Soc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-9",
+                "unstructured": "Paolo Cignoni, Fabio Ganovelli, Claudio Montani, and Roberto Scopigno. 2000. Reconstruction of topologically correct and adaptive trilinear isosurfaces.Computers &#38; Graphics24, 3 (2000), 399--418.",
+                "DOI": "10.1016/S0097-8493(00)00036-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-10",
+                "unstructured": "Lis Custodio, Tiago Etiene, Sinesio Pesco, and Claudio Silva. 2013. Practical considerations on Marching Cubes 33 topological correctness.Computers &#38; Graphics37, 7 (2013), 840--850.",
+                "DOI": "10.1016/j.cag.2013.04.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-11",
+                "unstructured": "Arindam Kumar Das and Mehran Mesbahi. 2005. K-node connected power efficient topologies in wireless networks: a semidefinite programming approach. InGlobal Telecommunications Conference, 2005. GLOBECOM'05. IEEE, Vol. 1. IEEE, 6--pp."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-12",
+                "unstructured": "Bruno Rodrigues De Ara&#250;jo, Daniel S Lopes, Pauline Jepp, Joaquim A Jorge, and Brian Wyvill. 2015. A survey on implicit surface polygonization.ACM Computing Surveys (CSUR)47, 4 (2015), 60."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-13",
+                "unstructured": "Miroslav Fiedler. 1973. Algebraic connectivity of graphs.Czechoslovak mathematical journal23, 2 (1973), 298--305."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-14",
+                "unstructured": "Arpita Ghosh and Stephen Boyd. 2006. Growing well-connected graphs. InDecision and Control, 2006 45th IEEE Conference on.IEEE, 6605--6611.",
+                "DOI": "10.1109/CDC.2006.377282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-15",
+                "unstructured": "Zhiyang Huang, Ming Zou, Nathan Carr, and Tao Ju. 2017. Topology-controlled Reconstruction of Multi-labelled Domains from Cross-sections.ACM Transactions on Graphics (TOG)36, 4 (2017), 76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-16",
+                "unstructured": "Tao Ju, Qian-Yi Zhou, and Shi-Min Hu. 2007. Editing the Topology of 3D Models by Sketching.ACM Trans. Graph.26, 3, Article 42 (July 2007).",
+                "DOI": "10.1145/1276377.1276430",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-17",
+                "unstructured": "Lu Liu, C. Bajaj, Joseph Deasy, Daniel A. Low, and Tao Ju. 2008. Surface Reconstruction From Non-parallel Curve Networks.Comput. Graph. Forum27, 2 (2008), 155--163. http://dblp.uni-trier.de/db/journals/cgf/cgf27.html#LiuBDLJ08",
+                "DOI": "10.1111/j.1467-8659.2008.01112.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-18",
+                "unstructured": "William E Lorensen and Harvey E Cline. 1987. Marching cubes: A high resolution 3D surface construction algorithm. InACM siggraph computer graphics, Vol. 21. ACM, 163--169."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-19",
+                "unstructured": "Jing Qian, Venkatesh Saligrama, and Yuting Chen. 2014. Connected sub-graph detection. InArtificial Intelligence and Statistics.796--804."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-20",
+                "unstructured": "Andrei Sharf, Thomas Lewiner, Ariel Shamir, Leif Kobbelt, and Daniel Cohen-Or. 2006. Competing fronts for coarse-to-fine surface reconstruction. InEurographics.Vienna, 389--398. http://www.mat.puc-rio.br/~tomlew/competing_fronts_eg.pdf",
+                "DOI": "10.1111/j.1467-8659.2006.00958.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-21",
+                "unstructured": "Andrei Sharf, Thomas Lewiner, Gil Shklarski, Sivan Toledo, and Daniel Cohen-Or. 2007. Interactive topology-aware surface reconstruction.ACM Transactions on Graphics (TOG)26, 3 (2007), 43."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-22",
+                "unstructured": "Mechthild Stoer and Frank Wagner. 1997. A simple min-cut algorithm.Journal of the ACM (JACM)44, 4 (1997), 585--591.",
+                "DOI": "10.1145/263867.263872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-23",
+                "unstructured": "Francisco Velasco, Juan Carlos Torres, Alejandro Le&#243;n, and Francisco Soler. 2008. Adaptive cube tessellation for topologically correct isosurfaces.JVRB-Journal of Virtual Reality and Broadcasting5, 3 (2008)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-24",
+                "unstructured": "Zo&#235; Wood, Hugues Hoppe, Mathieu Desbrun, and Peter Schr&#246;der. 2004. Removing excess topology from isosurfaces.ACM Transactions on Graphics (TOG)23, 2 (2004), 190--208.",
+                "DOI": "10.1145/990002.990007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-25",
+                "unstructured": "Kangxue Yin, Hui Huang, Hao Zhang, Minglun Gong, Daniel Cohen-Or, and Baoquan Chen. 2014. Morfit: interactive surface reconstruction from incomplete point clouds with curve-driven topology and geometry control.ACM Trans. Graph.33, 6 (2014), 202--1.",
+                "DOI": "10.1145/2661229.2661241",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-26",
+                "unstructured": "Yun Zeng, Dimitris Samaras, Wei Chen, and Qunsheng Peng. 2008. Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in N-D images.Computer vision and image understanding112, 1 (2008), 81--90.",
+                "DOI": "10.1016/j.cviu.2008.07.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-27",
+                "unstructured": "Shizhe Zhou, Changyun Jiang, and Sylvain Lefebvre. 2014. Topology-constrained synthesis of vector patterns.ACM Trans. Graph.33, 6 (2014), 215--1.",
+                "DOI": "10.1145/2661229.2661238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-28",
+                "unstructured": "Ming Zou, Michelle Holloway, Nathan Carr, and Tao Ju. 2015. Topology-constrained surface reconstruction from cross-sections.ACM Transactions on Graphics (TOG)34, 4 (2015), 128."
+            },
+            {
+                "key": "key-10.1145/3197517.3201348-29",
+                "unstructured": "Ming Zou, Tao Ju, and Nathan Carr. 2013. An algorithm for triangulating multiple 3D polygons. InComputer Graphics Forum, Vol. 32. Wiley Online Library, 157--166."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201348&ftid=1991723&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:44:47Z",
+            "timestamp": 1571672687000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201348",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

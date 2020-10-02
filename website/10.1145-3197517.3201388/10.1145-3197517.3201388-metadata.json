@@ -1,0 +1,496 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848924
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201388",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Denoising with kernel prediction and asymmetric loss functions"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thijs",
+                "family": "Vogels",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Fabrice",
+                "family": "Rousselle",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Brian",
+                "family": "Mcwilliams",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Gerhard",
+                "family": "R\u00f6thlin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Alex",
+                "family": "Harvill",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Adler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Walt Disney Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Meyer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Jan",
+                "family": "Nov\u00e1k",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201388-1",
+                "unstructured": "Mart&#237;n Abadi, Ashish Agarwal, Paul Barham, et al. 2015. TensorFlow: Large-scale machine learning on heterogeneous systems, http://tensorflow.org/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-2",
+                "unstructured": "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Dan Klein. 2016. Neural module networks. InIEEE Conference on Computer Vision and Pattern Recognition(June 27--30). 39--48.",
+                "DOI": "10.1109/CVPR.2016.12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-3",
+                "unstructured": "Steve Bako, Thijs Vogels, Brian Mcwilliams, Mark Meyer, Jan Nov&#225;k, Alex Harvill, Pradeep Sen, Tony Derose, and Fabrice Rousselle. 2017. Kernel-predicting convolutional networks for denoising Monte Carlo renderings.ACM Trans. Graphics (Proc. SIGGRAPH)36, 4, Article 97 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-4",
+                "unstructured": "David Balduzzi, Brian McWilliams, and Tony Butler-Yeoman. 2017. Neural Taylor approximations: Convergence and exploration in rectifier networks. InProc. 34th International Conference on Machine Learning (Proc. Machine Learning Research), Vol. 70. PMLR, Sydney, Australia, 351--360."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-5",
+                "unstructured": "Pablo Bauszat, Martin Eisemann, and Marcus Magnor. 2011. Guided image filtering for interactive high-quality global illumination.Computer Graphics Forum30, 4 (2011), 1361--1368.",
+                "DOI": "10.1111/j.1467-8659.2011.01996.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-6",
+                "unstructured": "Amir Beck and Marc Teboulle. 2003. Mirror descent and nonlinear projected subgradient methods for convex optimization.Operations Research Letters31, 3 (2003), 167--175.",
+                "DOI": "10.1016/S0167-6377(02)00231-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-7",
+                "unstructured": "Benedikt Bitterli, Fabrice Rousselle, Bochang Moon, Jos&#233; A. Iglesias-Guiti&#225;n, David Adler, Kenny Mitchell, Wojciech Jarosz, and Jan Nov&#225;k. 2016. Nonlinearly weighted first-order regression for denoising Monte Carlo renderings.Computer Graphics Forum35, 4 (2016), 107--117.",
+                "DOI": "10.1111/cgf.12954",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-8",
+                "unstructured": "Mark R. Bolin and Gary W. Meyer. 1998. A perceptually based adaptive sampling algorithm. InProc. 25th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '98).ACM Press, New York, NY, USA, 299--309.",
+                "DOI": "10.1145/280814.280924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-9",
+                "unstructured": "Antoni Buades, Bartomeu Coll, and Jean-Michel Morel. 2005. A review of image denoising algorithms, with a new one.Multiscale Modeling &#38; Simulation4, 2 (2005), 490--530.",
+                "DOI": "10.1137/040616024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-10",
+                "unstructured": "Antoni Buades, Bartomeu Coll, and Jean-Michel Morel. 2008. Nonlocal image and movie denoising.International Journal of Computer Vision7 6, 2 (01 Feb 2008), 123--139."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-11",
+                "unstructured": "S&#233;bastien Bubeck. 2015. Convex optimization: Algorithms and complexity.Foundations and Trends&#174;in Machine Learning8, 3--4 (2015), 231--358."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-12",
+                "unstructured": "Harold Christopher Burger, Christian J. Schuler, and Stefan Harmeling. 2012. Image denoising: Can plain neural networks compete with BM3D?. InIEEE Conference on Computer Vision and Pattern Recognition(June 16--21). IEEE Computer Society, 2392--2399."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-13",
+                "unstructured": "Chakravarty R. Alla Chaitanya, Anton S. Kaplanyan, Christoph Schied, Marco Salvi, Aaron Lefohn, Derek Nowrouzezahrai, and Timo Aila. 2017. Interactive reconstruction of Monte Carlo image sequences using a recurrent denoising autoencoder.ACM Trans. Graphics (Proc. SIGGRAPH)36, 4, Article 98 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073601",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-14",
+                "unstructured": "Kostadin Dabov, Alessandro Foi, Vladimir Katkovnik, and Karen Egiazarian. 2006. Image denoising with block-matching and 3D filtering. InProc. SPIE, Vol. 6064. 606414-606414-12.",
+                "DOI": "10.1117/12.643267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-15",
+                "unstructured": "Mauricio Delbracio, Pablo Mus&#233;, Antoni Buades, Julien Chauvier, Nicholas Phelps, and Jean-Michel Morel. 2014. Boosting Monte Carlo rendering by ray histogram fusion.ACM Trans. Graphics33, 1, Article 8 (Feb. 2014), 15 pages.",
+                "DOI": "10.1145/2532708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-16",
+                "unstructured": "John Duchi, Elad Hazan, and Yoram Singer. 2011. Adaptive subgradient methods for online learning and stochastic optimization.Journal of Machine Learning Research12, Jul (2011), 2121--2159."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-17",
+                "unstructured": "Xavier Glorot and Yoshua Bengio. 2010. Understanding the difficulty of training deep feedforward neural networks. InProc. 13th International Conference on Artificial Intelligence and Statistics(May 13--15). JMLR.org, 249--256."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-18",
+                "unstructured": "Toshiya Hachisuka, Wojciech Jarosz, Richard Peter Weistroffer, Kevin Dale, Greg Humphreys, Matthias Zwicker, and Henrik Wann Jensen. 2008. Multidimensional adaptive sampling and reconstruction for ray tracing.ACM Trans. Graphics27, 3, Article 33 (Aug. 2008), 10 pages.",
+                "DOI": "10.1145/1399504.1360632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-19",
+                "unstructured": "Moritz Hardt, Ben Recht, and Yoram Singer. 2016. Train faster, generalize better: Stability of stochastic gradient descent. InProc. 33nd International Conference on Machine Learning(June 19--24). JMLR.org, 1225--1234."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-20",
+                "unstructured": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. Deep residual learning for image recognition. InIEEE Conference on Computer Vision and Pattern Recognition(June 27--30). IEEE Computer Society, 770--778.",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-21",
+                "unstructured": "Viren Jain and H. Sebastian Seung. 2008. Natural image denoising with convolutional networks. InAdvances in Neural Information Processing Systems 21(December 8--11). Curran Associates, Inc., 769--776."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-22",
+                "unstructured": "Xu Jia, Bert De Brabandere, Tinne Tuytelaars, and Luc Van Gool. 2016. Dynamic filter networks. InAdvances in Neural Information Processing Systems 29(December 5--10). Curran Associates, Inc., 667--675."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-23",
+                "unstructured": "Nima Khademi Kalantari, Steve Bako, and Pradeep Sen. 2015. A machine learning approach for filtering Monte Carlo noise.ACM Trans. Graphics (Proc. SIGGRAPH)34, 4, Article 122 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-24",
+                "unstructured": "Alexander Keller, Luca Fascione, Marcos Fajardo, Iliyan Georgiev, Per H. Christensen, Johannes Hanika, Christian Eisenacher, and Gregory Nichols. 2015. The path tracing revolution in the movie industry. InACM SIGGRAPH 2015 Courses (SIGGRAPH '15).ACM Press, New York, NY, USA, Article 24, 7 pages.",
+                "DOI": "10.1145/2776880.2792699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-25",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A method for stochastic optimization.CoRRabs/1412.6980 (2014). arXiv:1412.6980"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-26",
+                "unstructured": "James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, and Raia Hadsell. 2017. Overcoming catastrophic forgetting in neural networks. InProc. National Academy of Sciences, Vol. 114. National Academy of Sciences, 3521--3526.",
+                "DOI": "10.1073/pnas.1611835114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-27",
+                "unstructured": "Gabriel Krummenacher, Brian McWilliams, Yannic Kilcher, Joachim M. Buhmann, and Nicolai Meinshausen. 2016. Scalable adaptive stochastic optimization using random projections. InAdvances in Neural Information Processing Systems 29(December 5--10). Curran Associates, Inc., 1750--1758."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-28",
+                "unstructured": "Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. 2015. Deep learning.Nature521 (2015), 436--444.",
+                "DOI": "10.1038/nature14539",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-29",
+                "unstructured": "Tzu-Mao Li, Yu-Ting Wu, and Yung-Yu Chuang. 2012. SURE-based optimization for adaptive sampling and reconstruction.ACM Trans. Graphics (Proc. SIGGRAPH Asia)31, 6, Article 194 (Nov. 2012), 9 pages.",
+                "DOI": "10.1145/2366145.2366213",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-30",
+                "unstructured": "Aur&#233;lien Lucchi, Brian McWilliams, and Thomas Hofmann. 2015. A variance reduced stochastic Newton method.CoRRabs/1503.08316 (2015). arXiv:1503.08316"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-31",
+                "unstructured": "Michael D. McCool. 1999. Anisotropic diffusion for Monte Carlo noise reduction.ACM Trans. Graphics18, 2 (April 1999), 171--194.",
+                "DOI": "10.1145/318009.318015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-32",
+                "unstructured": "Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, and Robert Carroll. 2017. Burst denoising with kernel prediction networks.CoRRabs/1712.02327 (2017). arXiv:1712.02327"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-33",
+                "unstructured": "Don P. Mitchell. 1987. Generating antialiased images at low sampling densities. InProc. 14th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '87).ACM Press, New York, NY, USA, 65--72.",
+                "DOI": "10.1145/37401.37410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-34",
+                "unstructured": "Bochang Moon, Nathan Carr, and Sung-Eui Yoon. 2014. Adaptive rendering based on weighted local regression.ACM Trans. Graphics33, 5, Article 170 (Sept. 2014), 14 pages.",
+                "DOI": "10.1145/2614106.2614160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-35",
+                "unstructured": "Bochang Moon, Jong Yun Jun, JongHyeob Lee, Kunho Kim, Toshiya Hachisuka, and Sung-Eui Yoon. 2013. Robust image denoising using a virtual flash image for Monte Carlo ray tracing.Computer Graphics Forum32, 1 (2013), 139--151.",
+                "DOI": "10.1111/cgf.12004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-36",
+                "unstructured": "Bochang Moon, Steven McDonagh, Kenny Mitchell, and Markus Gross. 2016. Adaptive polynomial rendering.ACM Trans. Graphics (Proc. SIGGRAPH)35, 4, Article 40 (July 2016), 10 pages.",
+                "DOI": "10.1145/2897824.2925936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-37",
+                "unstructured": "Kevin P. Murphy. 2012.Machine learning - a probabilistic perspective.MIT Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-38",
+                "unstructured": "Simon Niklaus, Long Mai, and Feng Liu. 2017. Video frame interpolation via adaptive convolution. InIEEE Conference on Computer Vision and Pattern Recognition(July 21--26). IEEE Computer Society, 2270--2279."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-39",
+                "unstructured": "Ryan S. Overbeck, Craig Donner, and Ravi Ramamoorthi. 2009. Adaptive wavelet rendering.ACM Trans. Graphics (Proc. SIGGRAPH Asia)28, 5, Article 140 (Dec. 2009), 12 pages.",
+                "DOI": "10.1145/1661412.1618486",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-40",
+                "unstructured": "Mahesh Ramasubramanian, Sumanta N. Pattanaik, and Donald P. Greenberg. 1999. A perceptually based physical error metric for realistic image synthesis. InProc. 26th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '99).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 73--82.",
+                "DOI": "10.1145/311535.311543",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-41",
+                "unstructured": "Garvesh Raskutti and Sayan Mukherjee. 2015. The information geometry of mirror descent.IEEE Trans. Information Theory61, 3 (2015), 1451--1457.",
+                "DOI": "10.1109/TIT.2015.2388583",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-42",
+                "unstructured": "Olaf Ronneberger, Philipp Fischer, and Thomas Brox. 2015. U-Net: Convolutional networks for biomedical image segmentation. InMedical Image Computing and Computer-Assisted Intervention - 18th International Conf.(October 5--9). Springer, 234--241."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-43",
+                "unstructured": "Fabrice Rousselle, Claude Knaus, and Matthias Zwicker. 2011. Adaptive sampling and reconstruction using greedy error minimization.ACM Trans. Graphics (Proc. SIGGRAPH Asia)30, 6, Article 159 (Dec. 2011), 12 pages.",
+                "DOI": "10.1145/2024156.2024193",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-44",
+                "unstructured": "Fabrice Rousselle, Claude Knaus, and Matthias Zwicker. 2012. Adaptive rendering with non-local means filtering.ACM Trans. Graphics (Proc. SIGGRAPH Asia)31, 6, Article 195 (Nov. 2012), 11 pages.",
+                "DOI": "10.1145/2366145.2366214",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-45",
+                "unstructured": "Fabrice Rousselle, Marco Manzi, and Matthias Zwicker. 2013. Robust denoising using feature and color information.Computer Graphics Forum32, 7 (2013), 121--130.",
+                "DOI": "10.1111/cgf.12219",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-46",
+                "unstructured": "Holly E. Rushmeier and Gregory J. Ward. 1994. Energy preserving non-linear filters. InProc. 21st Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '94).ACM Press, 131--138.",
+                "DOI": "10.1145/192161.192189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-47",
+                "unstructured": "Pradeep Sen and Soheil Darabi. 2012. On filtering the noise from the random parameters in Monte Carlo rendering.ACM Trans. Graphics31, 3, Article 18 (June 2012), 15 pages.",
+                "DOI": "10.1145/2167076.2167083",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-48",
+                "unstructured": "Shai Shalev-Shwartz et al. 2012. Online learning and online convex optimization.Foundations and Trends&#174;in Machine Learning4, 2 (2012), 107--194."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-49",
+                "unstructured": "Thijs Vogels. 2016.Kernel-predicting convolutional networks for denoising Monte Carlo renderings.Master's thesis. ETH Z&#252;rich, Z&#252;rich, Switzerland."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-50",
+                "unstructured": "Zhou Wang, A.C. Bovik, H.R. Sheikh, and E.P. Simoncelli. 2004. Image quality assessment: From error visibility to structural similarity.IEEE Transactions on Image Processing13, 4 (April 2004), 600--612.",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-51",
+                "unstructured": "Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nati Srebro, and Benjamin Recht. 2017. The marginal value of adaptive gradient methods in machine learning. InAdvances in Neural Information Processing Systems 30(December 4--9). Curran Associates, Inc., 4151--4161."
+            },
+            {
+                "key": "key-10.1145/3197517.3201388-52",
+                "unstructured": "Matthias Zwicker, Wojciech Jarosz, Jaakko Lehtinen, Bochang Moon, Ravi Ramamoorthi, Fabrice Rousselle, Pradeep Sen, Cyril Soler, and Sung-Eui Yoon. 2015. Recent advances in adaptive sampling and reconstruction for Monte Carlo rendering.Computer Graphics Forum (Proc. Eurographics)34, 2 (May 2015), 667--681.",
+                "DOI": "10.1111/cgf.12592",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201388&ftid=1991711&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:24Z",
+            "timestamp": 1571673384000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201388",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

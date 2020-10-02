@@ -1,0 +1,92 @@
+{
+    "Timestamp": "12/26/2019 3:34:40",
+    "Title": "Modeling and Optimizing Eye Vergence Response to Stereoscopic Cuts",
+    "DOI": "10.1145/2601097.2601148",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://resources.mpi-inf.mpg.de/VergenceModel/paper.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Rendering",
+    "ACM 2": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 20,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://resources.mpi-inf.mpg.de/VergenceModel/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2014,
+    "Misc. comment": "Matlab code is provided: however, the code only allows to browse results (similarly to a website) rather than allowing to produce results (which would be difficult in this case of experimental paper).",
+    "Software Type": "",
+    "Topic": "Virtual Reality",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Krzysztof",
+            "family": "Templin",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Piotr",
+            "family": "Didyk",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Karol",
+            "family": "Myszkowski",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Mohamed M.",
+            "family": "Hefeeda",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Hans-Peter",
+            "family": "Seidel",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Wojciech",
+            "family": "Matusik",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

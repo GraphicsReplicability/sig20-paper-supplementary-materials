@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:18Z",
+            "timestamp": 1574815998918
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925937",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Flow-guided warping for image-based shape manipulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Romain",
+                "family": "Vergne",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, CNRS and Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Pascal",
+                "family": "Barla",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Georges-Pierre",
+                "family": "Bonneau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, CNRS and Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Roland W.",
+                "family": "Fleming",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Justus Liebig Universitat Gie\u00dfen"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925937-1",
+                "unstructured": "Barrow, H. 1978. Recovering intrinsic scene characteristics from images.Computer Vision Systems, 3--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-2",
+                "unstructured": "Ben-Shahar, O., and Zucker, S. 2001. On the perceptual organization of texture and shading flows: from a geometrical model to coherence computation. InCVPR 2001., vol. 1, I-1048--I-1055 vol. 1.",
+                "DOI": "10.1109/CVPR.2001.990646",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-3",
+                "unstructured": "Bigun, J., and Granlund, G. H. 1986. Optimal orientation detection of linear symmetry. Tech. Rep. Report LiTH-ISY-I-0828, Computer Vision Laboratory, Link&#246;ping University, Sweden."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-4",
+                "unstructured": "Bousseau, A., Paris, S., and Durand, F. 2009. User assisted intrinsic images.ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009) 28, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-5",
+                "unstructured": "Boyadzhiev, I., Bala, K., Paris, S., and Adelson, E. 2015. Band-sifting decomposition for image-based material editing.ACM Trans. Graph. 34, 5 (Nov.), 163:1--163:16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-6",
+                "unstructured": "Brainard, D. H. 1997. The psychophysics toolbox.Spatial Vision 10, 4, 433--436."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-7",
+                "unstructured": "Brox, T., Van Den Boomgaard, R., Lauze, F., Van De Weijer, J., Weickert, J., and Kornprobst, P. 2006. Adaptive structure tensors and their applications. InVisualization and image processing of tensor fields, J. Weickert and H. Hagen, Eds., vol. 1. Springer, Jan., ch. 2, 17--47.",
+                "DOI": "10.1007/3-540-31272-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-8",
+                "unstructured": "Caniard, F., and Fleming, R. W. 2007. Distortion in 3d shape estimation with changes in illumination. InProceedings of the 4th Symposium on Applied Perception in Graphics and Visualization, ACM, New York, NY, USA, APGV '07, 99--105."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-9",
+                "unstructured": "Carroll, R., Ramamoorthi, R., and Agrawala, M. 2011. Illumination decomposition for material recoloring with consistent interreflections.ACM Trans. Graph. 30, 4 (July), 43:1--43:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-10",
+                "unstructured": "Chen, T., Zhu, Z., Shamir, A., Hu, S.-M., and Cohen-Or, D. 2013. 3sweepp: Extracting editable objects from a single photo.ACM Trans. Graph. 32, 6 (Nov.), 195:1--195:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-11",
+                "unstructured": "Dekel, T., Michaeli, T., Irani, M., and Freeman, W. T. 2015. Revealing and modifying non-local variations in a single image.ACM Transactions on Graphics (Proc. SIGGRAPH Asia).",
+                "DOI": "10.1145/2816795.2818113",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-12",
+                "unstructured": "Dong, Y., Tong, X., Pellacini, F., and Guo, B. 2011. Appgen: Interactive material modeling from a single image.ACM Trans. Graph. 30, 6 (Dec.), 146:1--146:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-13",
+                "unstructured": "Farbman, Z., Fattal, R., Lischinski, D., and Szeliski, R. 2008. Edge-preserving decompositions for multi-scale tone and detail manipulation. InACM SIGGRAPH 2008 Papers, ACM, New York, NY, USA, SIGGRAPH '08, 67:1--67:10.",
+                "DOI": "10.1145/1399504.1360666",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-14",
+                "unstructured": "Fattal, R., Agrawala, M., and Rusinkiewicz, S. 2007. Multiscale shape and detail enhancement from multi-light image collections.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-15",
+                "unstructured": "Fleming, R. W., Torralba, A., and Adelson, E. H. 2004. Specular reflections and the perception of shape.J. Vis. 4, 9 (9), 798--820."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-16",
+                "unstructured": "Fleming, R. W., Holtmann-Rice, D., and B&#252;lthoff, H. H. 2011. Estimation of 3d shape from image orientations.Proceedings of the National Academy of Sciences 108, 51, 20438--20443."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-17",
+                "unstructured": "Freeman, W. T. 1994. The generic viewpoint assumption in a framework for visual perception.Nature 368, 6471 (Apr.), 542--545."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-18",
+                "unstructured": "Gutierrez, D., Seron, F. J., Lopez-Moreno, J., Sanchez, M. P., Fandos, J., and Reinhard, E. 2008. Depicting procedural caustics in single images.ACM Trans. Graph. 27, 5 (Dec.), 120:1--120:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-19",
+                "unstructured": "Horn, B. K. P., and Brooks, M. J., Eds. 1989.Shape from Shading. MIT Press, Cambridge, MA, USA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-20",
+                "unstructured": "Jakob, W., 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-21",
+                "unstructured": "Kajiya, J. T. 1986. The rendering equation.SIGGRAPH Comput. Graph. 20, 4 (Aug.), 143--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-22",
+                "unstructured": "Khan, E. A., Reinhard, E., Fleming, R. W., and B&#252;lthoff, H. H. 2006. Image-based material editing.ACM Trans. Graph. 25, 3 (July), 654--663."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-23",
+                "unstructured": "Kholgade, N., Simon, T., Efros, A., and Sheikh, Y. 2014. 3d object manipulation in a single photograph using stock 3d models.ACM Trans. Graph. 33, 4 (July), 127:1--127:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-24",
+                "unstructured": "Koenderink, J., and van Doorn, A. 1980. Photometric invariants related to solid shape.Optica Acta: International Journal of Optics 27, 7, 981--996."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-25",
+                "unstructured": "Kyprianidis, J. E., and D&#246;llner, J. 2008. Image abstraction by structure adaptive filtering. InProc. EG UK Theory and Practice of Computer Graphics, 51--58."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-26",
+                "unstructured": "Lindeberg, T. 1998. Feature detection with automatic scale selection.Int. J. Comput. Vision 30, 2 (Nov.), 79--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-27",
+                "unstructured": "Luft, T., Colditz, C., and Deussen, O. 2006. Image enhancement by unsharp masking the depth buffer.ACM Trans. Graph. 25, 3 (July), 1206--1213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-28",
+                "unstructured": "Mooney, S. W., and Anderson, B. L. 2014. Specular image structure modulates the perception of three-dimensional shape.Current Biology 24, 22, 2737--2742."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-29",
+                "unstructured": "Oren, M., and Nayar, S. K. 1997. A theory of specular surface geometry.Int. J. Comput. Vision 24, 2 (Sept.), 105--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-30",
+                "unstructured": "Osher, S., and Rudin, L. I. 1990. Feature-oriented image enhancement using shock filters.SIAM J. Numer. Anal. 27, 4 (Aug.), 919--940."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-31",
+                "unstructured": "Paris, S., Hasinoff, S. W., and Kautz, J. 2011. Local laplacian filters: Edge-aware image processing with a laplacian pyramid.ACM Trans. Graph. 30, 4 (July), 68:1--68:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-32",
+                "unstructured": "P&#233;rez, P., Gangnet, M., and Blake, A. 2003. Poisson image editing.ACM Trans. Graph. 22, 3 (July), 313--318."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-33",
+                "unstructured": "Perona, P., and Malik, J. 1990. Scale-space and edge detection using anisotropic diffusion.IEEE Trans. Pattern Anal. Mach. Intell. 12, 7 (July), 629--639."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-34",
+                "unstructured": "Savarese, S., Fei-Fei, L., and Perona, P. 2004. What do reflections tell us about the shape of a mirror? InProceedings of the 1st Symposium on Applied Perception in Graphics and Visualization, ACM, New York, NY, USA, APGV '04, 115--118.",
+                "DOI": "10.1145/1012551.1012571",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-35",
+                "unstructured": "Sloan, P.-P. J., Martin, W., Gooch, A., and Gooch, B. 2001. The lit sphere: A model for capturing npr shading from art. InProceedings of Graphics Interface 2001, Canadian Information Processing Society, Toronto, Ont., Canada, Canada, GI '01, 143--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-36",
+                "unstructured": "Stalling, D., and Hege, H.-C. 1995. Fast and resolution independent line integral convolution. InProceedings of the 22Nd Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '95, 249--256.",
+                "DOI": "10.1145/218380.218448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-37",
+                "unstructured": "Vergne, R., and Barla, P. 2015. Designing Gratin, A GPU-Tailored Node-Based System.Journal of Computer Graphics Techniques 4, 4, 17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-38",
+                "unstructured": "Vergne, R., Barla, P., Fleming, R. W., and Granier, X. 2012. Surface flows for image-based shading design.ACM Trans. Graph. 31, 4 (July), 94:1--94:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-39",
+                "unstructured": "Wadhwa, N., Rubinstein, M., Durand, F., and Freeman, W. T. 2013. Phase-based video motion processing.ACM Trans. Graph. 32, 4 (July), 80:1--80:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-40",
+                "unstructured": "Wadhwa, N., Dekel, T., Wei, D., Durand, F., and Freeman, W. T. 2015. Deviation magnification: Revealing departures from ideal geometries.ACM Trans. Graph. 34, 6 (Oct.), 226:1--226:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-41",
+                "unstructured": "Wijntjes, M. W. A., Doerschner, K., Kucukoglu, G., and Pont, S. C. 2012. Relative flattening between velvet and matte 3d shapes: Evidence for similar shape-from-shading computations.Journal of Vision 12, 1, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-42",
+                "unstructured": "Wu, H.-Y., Rubinstein, M., Shih, E., Guttag, J., Durand, F., and Freeman, W. 2012. Eulerian video magnification for revealing subtle changes in the world.ACM Trans. Graph. 31, 4 (July), 65:1--65:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925937-43",
+                "unstructured": "Yeung, S. K., Tang, C.-K., Brown, M. S., and Kang, S. B. 2011. Matting and compositing of transparent and refractive objects.ACM Transactions on Graphics 30, 1, 2."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925937&amp;ftid=1755927&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:44Z",
+            "timestamp": 1568162744000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925937",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

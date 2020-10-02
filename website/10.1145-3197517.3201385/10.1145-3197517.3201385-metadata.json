@@ -1,0 +1,392 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849843
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000185",
+                "name": "Defense Advanced Research Projects Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N66001-15-C-4030"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000183",
+                "name": "Army Research Office",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W911NF-12-R-0011"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CMMI-1644558 and IIS-1409286"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201385",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Interactive exploration of design trade-offs"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Adriana",
+                "family": "Schulz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Harrison",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Crinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201385-1",
+                "unstructured": "Shailen Agrawal and Michiel van de Panne. 2013. Pareto Optimal Control for Natural and Supernatural Motions. (2013).",
+                "DOI": "10.1145/2522628.2522902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-2",
+                "unstructured": "Moritz B&#228;cher, Stelian Coros, and Bernhard Thomaszewski. 2015. LinkEdit: Interactive Linkage Editing Using Symbolic Kinematics.ACM Transactions on Graphics34, 4 (July 2015), 99:1--99:8.",
+                "DOI": "10.1145/2766985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-3",
+                "unstructured": "Sunith Bandaru and Kalyanmoy Deb. 2015. Temporal innovization: Evolution of design principles using multi-objective optimization. InLecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)), Vol. 9018. Springer Verlag, 79--93.",
+                "DOI": "10.1007/978-3-319-15934-8_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-4",
+                "unstructured": "Gaurav Bharaj, David I. W. Levin, James Tompkin, Yun Fei, Hanspeter Pfister, Wojciech Matusik, and Changxi Zheng. 2015. Computational Design of Metallophone Contact Sounds.ACM Transactions on Graphics34, 6 (Oct. 2015), 223:1--223:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-5",
+                "unstructured": "Bernd Bickel, Moritz B&#228;cher, Miguel A. Otaduy, Hyunho Richard Lee, Hanspeter Pfister, Markus Gross, and Wojciech Matusik. 2010. Design and Fabrication of Materials with Desired Deformation Behavior.ACM Transactions on Graphics29, 4, Article 63 (July 2010), 10 pages.",
+                "DOI": "10.1145/1833349.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-6",
+                "unstructured": "Y. Boykov, O. Veksler, and R. Zabih. 2001. Fast approximate energy minimization via graph cuts.Pattern Analysis and Machine Intelligence, IEEE Transactions on23, 11 (2001), 1222--1239."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-7",
+                "unstructured": "Indraneel Das and J. E. Dennis. 1998. Normal-Boundary Intersection: A New Method for Generating the Pareto Surface in Nonlinear Multicriteria Optimization Problems.SIAM Journal on Optimization8, 3 (1998), 631--657.",
+                "DOI": "10.1137/S1052623496307510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-8",
+                "unstructured": "Kalyanmoy Deb and Kalyanmoy Deb. 2014. Multi-objective Optimization. InSearch Methodologies.Springer US, Boston, MA, 403--449."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-9",
+                "unstructured": "Kalyanmoy Deb and Aravind Srinivasan. 2006. Innovization: Innovating Design Principles Through Optimization. InProceedings of the 8th Annual Conference on Genetic and Evolutionary Computation (GECCO '06).ACM, New York, NY, USA, 1629--1636.",
+                "DOI": "10.1145/1143997.1144266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-10",
+                "unstructured": "K. Deb, L. Thiele, M. Laumanns, and E. Zitzler. 2002. Scalable Multi-Objective Optimization Test Problems. InCongress on Evolutionary Computation (CEC 2002).IEEE Press, 825--830.",
+                "DOI": "10.1109/CEC.2002.1007032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-11",
+                "unstructured": "Yue Dong, Jiaping Wang, Fabio Pellacini, Xin Tong, and Baining Guo. 2010. Fabricating Spatially-varying Subsurface Scattering.ACM Transactions on Graphics29, 4, Article 62 (July 2010), 10 pages.",
+                "DOI": "10.1145/1833349.1778799",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-12",
+                "unstructured": "Tao Du, Adriana Schulz, Bo Zhu, Bernd Bickel, and Wojciech Matusik. 2016. Computational Multicopter Design.ACM Transactions on Graphics35, 6 (Nov. 2016), 227:1--227:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-13",
+                "unstructured": "Claus Hillermeier. 2001.Nonlinear multiobjective optimization: a generalized homotopy approach.Vol. 135. Springer Science &#38; Business Media.",
+                "DOI": "10.1007/978-3-0348-8280-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-14",
+                "unstructured": "Tao Ju, Scott Schaefer, and Joe Warren. 2005. Mean value coordinates for closed triangular meshes. InACM Transactions on Graphics (TOG),Vol. 24. ACM, 561--566.",
+                "DOI": "10.1145/1186822.1073229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-15",
+                "unstructured": "Frank Kursawe. 1991. A Variant of Evolution Strategies for Vector Optimization. InProceedings of the 1st Workshop on Parallel Problem Solving from Nature (PPSN I).Springer-Verlag, London, UK, UK, 193--197.",
+                "DOI": "10.1007/BFb0029752",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-16",
+                "unstructured": "Vittorio Megaro, Bernhard Thomaszewski, Maurizio Nitti, Otmar Hilliges, Markus Gross, and Stelian Coros. 2015. Interactive Design of 3D-printable Robotic Creatures.ACM Transactions on Graphics34, 6 (Oct. 2015).",
+                "DOI": "10.1145/2816795.2818137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-17",
+                "unstructured": "A. Messac, A. Ismail-Yahaya, and C.A. Mattson. 2003. The normalized normal constraint method for generating the Pareto frontier.Structural and Multidisciplinary Optimization25, 2 (01 Jul 2003), 86--98.",
+                "DOI": "10.1007/s00158-002-0276-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-18",
+                "unstructured": "Przemyslaw Musialski, Thomas Auzinger, Michael Birsak, Michael Wimmer, and Leif Kobbelt. 2015. Reduced-order Shape Optimization Using Offset Surfaces.ACM Transactions on Graphics34, 4 (July 2015).",
+                "DOI": "10.1145/2766955",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-19",
+                "unstructured": "Romain Pr&#233;vost, Emily Whiting, Sylvain Lefebvre, and Olga Sorkine-Hornung. 2013. Make It Stand: Balancing Shapes for 3D Fabrication.ACM Transactions on Graphics32, 4 (July 2013), 81:1--81:10.",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-20",
+                "unstructured": "Adriana Schulz, Ariel Shamir, Ilya Baran, David I. W. Levin, Pitchaya Sitthi-Amorn, and Wojciech Matusik. 2017. Retrieval on Parametric Shape Collections.ACM Transactions on Graphics36, 1 (Jan. 2017), 11:1--11:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-21",
+                "unstructured": "Maria Shugrina, Ariel Shamir, and Wojciech Matusik. 2015. Fab Forms: Customizable Objects for Fabrication with Validity and Geometry Caching.ACM Transactions on Graphics34, 4 (July 2015), 100:1--100:12.",
+                "DOI": "10.1145/2766994",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-22",
+                "unstructured": "Nobuyuki Umetani, Takeo Igarashi, and Niloy J. Mitra. 2012. Guided Exploration of Physically Valid Shapes for Furniture Design.ACM Transactions on Graphics31, 4 (2012).",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-23",
+                "unstructured": "Nobuyuki Umetani, Yuki Koyama, Ryan Schmidt, and Takeo Igarashi. 2014. Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes.ACM Transactions on Graphics33, 4 (July 2014), 65:1--65:10.",
+                "DOI": "10.1145/2601097.2601129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-24",
+                "unstructured": "Emily Whiting, Hijung Shin, Robert Wang, John Ochsendorf, and Fr&#233;do Durand. 2012. Structural Optimization of 3D Masonry Buildings.ACM Transactions on Graphics31, 6 (2012), 159:1--159:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-25",
+                "unstructured": "Siu-Man Yau, Eitan Grinspun, Vijay Karamcheti, and Denis Zorin. 2006. Sim-X: parallel system software for interactive multi-experiment computational studies. In20th International Parallel and Distributed Processing Symposium (IPDPS 2006), Proceedings, 25--29 April 2006, Rhodes Island, Greece.",
+                "DOI": "10.1109/IPDPS.2006.1639373",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-26",
+                "unstructured": "M. Zeleny. 1973. Compromise Programming. InMultiple Criteria Decision Making, J. Cochrane and M. Zeleny (Eds.). University of South Carolina Press, Columbia, 262--301."
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-27",
+                "unstructured": "J. Zhang and L. Xing. 2017. A Survey of Multiobjective Evolutionary Algorithms. In2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC), Vol. 1. 93--100.",
+                "DOI": "10.1109/CSE-EUC.2017.27",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-28",
+                "unstructured": "Qingfu Zhang and Hui Li. 2007. MOEA/D: A multiobjective evolutionary algorithm based on decomposition.IEEE Transactions on evolutionary computation11, 6 (2007), 712--731.",
+                "DOI": "10.1109/TEVC.2007.892759",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-29",
+                "unstructured": "Aimin Zhou, Bo-Yang Qu, Hui Li, Shi-Zheng Zhao, Ponnuthurai Nagaratnam Suganthan, and Qingfu Zhang. 2011. Multiobjective evolutionary algorithms: A survey of the state of the art.Swarm and Evolutionary Computation1, 1 (2011), 32--49.",
+                "DOI": "10.1016/j.swevo.2011.03.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-30",
+                "unstructured": "Bo Zhu, M&#233;lina Skouras, Desai Chen, and Wojciech Matusik. 2017. Two-Scale Topology Optimization with Microstructures.ACM Transactions on Graphics36, 5, Article 164 (July 2017), 16 pages.",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201385-31",
+                "unstructured": "E. Zitzler, K. Deb, and L. Thiele. 2000. Comparison of Multiobjective Evolutionary Algorithms: Empirical Results.Evolutionary Computation8, 2 (2000), 173--195.",
+                "DOI": "10.1162/106365600568202",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201385&ftid=1991786&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:00Z",
+            "timestamp": 1571673420000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201385",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

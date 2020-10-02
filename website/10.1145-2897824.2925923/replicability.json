@@ -1,0 +1,85 @@
+{
+    "Timestamp": "1/22/2020 21:06:16",
+    "Title": "A System for Rapid Exploration of Shader Optimization Choices",
+    "DOI": "10.1145/2897824.2925923",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Shader language",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/csyonghe/Spire",
+    "code URL  2": "",
+    "PDF URL": "http://graphics.cs.cmu.edu/projects/spire/he16_spire.pdf",
+    "License type": "MIT",
+    "Build mechanism": "IDE Project (VS,..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 1,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Graphics systems and interfaces",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Needed to add missing directive #include <intrin.h> in hello.cpp to compile.\n\nAt runtime, DirectX throws the following error (from hello.cpp:180): \nD3D11 ERROR: ID3D11Device::CreateInputLayout: The provided input signature expects to read an element with SemanticName/Index: 'position'/0, but the declaration doesn't provide a matching name. [ STATE_CREATION ERROR #163: CREATEINPUTLAYOUT_MISSINGELEMENT]\n\nI couldn't debug this error, as I didn't know if the matching problem came from the input spire shader, or from the processes in spire that convert the spire shader to a DirectX shader.\n\nNote that the follow-up Slang (Sigg 2018) is however marked as reproducible.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "DirectX",
+    "Project URL": "http://graphics.cs.cmu.edu/projects/spire/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 1,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Yong",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University"
+                }
+            ]
+        },
+        {
+            "given": "Tim",
+            "family": "Foley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NVIDIA"
+                }
+            ]
+        },
+        {
+            "given": "Kayvon",
+            "family": "Fatahalian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

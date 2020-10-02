@@ -1,0 +1,294 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:42Z",
+            "timestamp": 1578582222979
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "IIS-1253530"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100005144",
+                "name": "Qualcomm",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601105",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Extending the graphics pipeline with adaptive, multi-rate shading"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yong",
+                "family": "He",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Yan",
+                "family": "Gu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601105-1",
+                "unstructured": "Akeley, K. 1993. RealityEngine graphics. InProceedings of SIGGRAPH 93, ACM Press / ACM SIGGRAPH, Computer Graphics Proceedings, Annual Conference Series, ACM, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-2",
+                "unstructured": "Annen, T., Mertens, T., Seidel, H.-P., Flerackers, E., and Kautz, J. 2008. Exponential shadow maps. InProceedings of Graphics Interface 2008, GI '08, 155--161."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-3",
+                "unstructured": "Clarberg, P., Toth, R., and Munkberg, J. 2013. A sort-based deferred shading architecture for decoupled sampling.ACM Trans. Graph. 32, 4 (July), 141:1--141:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-4",
+                "unstructured": "Donnelly, W., and Lauritzen, A. 2006. Variance shadow maps. InProceedings of the 2006 Symposium on Interactive 3D Graphics and Games, I3D '06, 161--165."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-5",
+                "unstructured": "Fatahalian, K., Boulos, S., Hegarty, J., Akeley, K., Mark, W. R., Moreton, H., and Hanrahan, P. 2010. Reducing shading on GPUs using quad-fragment merging.ACM Trans. Graph. 29, 4 (July), 67:1--67:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-6",
+                "unstructured": "Foley, T., and Hanrahan, P. 2011. Spark: Modular, composable shaders for graphics hardware.ACM Trans. Graph. 30, 4 (July), 107:1--107:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-7",
+                "unstructured": "Guenter, B., Knoblock, T. B., and Ruf, E. 1995. Specializing shaders. InProceedings of the 22nd Annual Conference on Computer Graphics and Interactive Techniques, ACM, SIGGRAPH '95, 343--350."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-8",
+                "unstructured": "Guenter, B., Finch, M., Drucker, S., Tan, D., and Snyder, J. 2012. Foveated 3d graphics.ACM Trans. Graph. 31, 6 (Nov.), 164:1--164:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-9",
+                "unstructured": "Kircher, S., and Lawrance, A. 2009. Inferred lighting: Fast dynamic lighting and shadows for opaque and translucent objects. InProceedings of the 2009 ACM SIGGRAPH Symposium on Video Games, ACM, Sandbox '09, 39--45."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-10",
+                "unstructured": "Lauritzen, A. 2010. Deferred rendering for current and future rendering pipelines. InACM SIGGRAPH 2010 Courses: Beyond Programmable Shading II. Available at http://bps10.idav.ucdavis.edu."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-11",
+                "unstructured": "Liktor, G., and Dachsbacher, C. 2012. Decoupled deferred shading for hardware rasterization. InProceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, ACM, I3D '12, 143--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-12",
+                "unstructured": "Nichols, G., Penmatsa, R., and Wyman, C. 2010. Interactive, multiresolution image-space rendering for dynamic area lighting. InProceedings of the 21st Eurographics Conference on Rendering, Eurographics Association, EGSR'10, 1279--1288."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-13",
+                "unstructured": "NVIDIA Corporation. 2013.TXAA - Temporal Anti-Aliasing Technology. Available at http://www.geforce.com/landing-page/txaa/technology."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-14",
+                "unstructured": "Olano, M., Kuehne, B., and Simmons, M. 2003. Automatic shader level of detail. InProceedings of the ACM SIGGRAPH/EUROGRAPHICS Conference on Graphics Hardware, Eurographics Association, HWWS '03, 7--14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-15",
+                "unstructured": "Pellacini, F. 2005. User-configurable automatic shader simplification.ACM Trans. Graph. 24, 3 (July), 445--452."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-16",
+                "unstructured": "Penner, E. 2011. Shader amortization using pixel quad message passing. InGPU Pro2: advanced rendering techniques. A K Peters, Ltd., 349--367."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-17",
+                "unstructured": "Proudfoot, K., Mark, W. R., Tzvetkov, S., and Hanrahan, P. 2001. A real-time procedural shading system for programmable graphics hardware. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, SIGGRAPH '01, 159--170."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-18",
+                "unstructured": "Ragan-Kelley, J., Lehtinen, J., Chen, J., Doggett, M., and Durand, F. 2011. Decoupled sampling for graphics pipelines.ACM Trans. Graph. 30, 3 (May), 17:1--17:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-19",
+                "unstructured": "Reeves, W. T., Salesin, D. H., and Cook, R. L. 1987. Rendering antialiased shadows with depth maps.SIGGRAPH Comput. Graph. 21, 4 (Aug.), 283--291."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-20",
+                "unstructured": "Scherzer, D., Yang, L., Mattausch, O., Nehab, D., Sander, P. V., Wimmer, M., and Eisemann, E. 2012. Temporal coherence methods in real-time rendering.Computer Graphics Forum 31, 8, 2378--2408.",
+                "DOI": "10.1111/j.1467-8659.2012.03075.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-21",
+                "unstructured": "Shebanow, M., 2013. An evolution of mobile graphics. High Performance Graphics 2013 Keynote Address."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-22",
+                "unstructured": "Sitthi-Amorn, P., Modly, N., Weimer, W., and Lawrence, J. 2011. Genetic programming for shader simplification.ACM Trans. Graph. 30, 6 (Dec.), 152:1--152:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-23",
+                "unstructured": "Tatarchuk, N., Tchou, C., and Venzon, J. 2013. Destiny: From mythic science fiction to rendering in real-time. InACM SIGGRAPH 2013 Courses: Advanced in Real-Time Rendering in Games.",
+                "DOI": "10.1145/2504435.2504447",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-24",
+                "unstructured": "Vaidyanathan, K., Toth, R., Salvi, M., Boulos, S., and Lefohn, A. 2012. Adaptive image space shading for motion and defocus blur. InProceedings of the Fourth ACM SIGGRAPH / Eurographics Conference on High-Performance Graphics, Eurographics Association, EGGH-HPG'12, 13--21."
+            },
+            {
+                "key": "key-10.1145/2601097.2601105-25",
+                "unstructured": "Yang, L., Sander, P. V., and Lawrence, J. 2008. Geometry-aware framebuffer level of detail. InProceedings of the Nineteenth Eurographics Conference on Rendering, Eurographics Association, EGSR'08, 1183--1188."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601105&amp;ftid=1488951&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:53Z",
+            "timestamp": 1565663753000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601105",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

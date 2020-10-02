@@ -1,0 +1,73 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Integer-only cross field computation <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Nahum <span class="family">Farchi</span></li>
+<li> Mirela <span class="family">Ben-Chen</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201375">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://www.cs.technion.ac.il/~mirela/publications/ioq.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://www.cs.technion.ac.il/~mirela/code/ioq.zip">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201375-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201375-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: Other script, Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Paywall Closed source software or libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   2</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>Minor fixes to the code: when running the examples from the examples directory, you need to replace './data/bunny.off' by '../data/bunny.off' in the demo files, and similarly change the '.' to '..' in the vis_vector_field.m file in addOptional(p, 'BinaryPath', fullfile('..', 'bin', 'vis_vector_field', 'vis_vector_field_bin.exe')); 
+I also had to add my visual studio bin directory to my PATH.
+Also, the readme mentions a code snippet to compute cross fields. There is an error in the routine to display the result : it is not m.draw(CF, alpha) but m.plot(CF, alpha) (the method draw is not a method of the class Mesh, and 'draw_face_field' is not correct either).
+A single example (bunny) is provided, though I believe it should work similarly well on other examples.
+It took me significant time making this code run only because I had to perform a fresh cuda install -- it otherwise trivially installs.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,4,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

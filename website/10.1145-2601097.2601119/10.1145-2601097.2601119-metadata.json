@@ -1,0 +1,338 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:43:16Z",
+            "timestamp": 1578724996766
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "MIT Department of Mathematics",
+                "award": []
+            },
+            {
+                "name": "Microsoft Research PhD Fellowship",
+                "award": []
+            },
+            {
+                "name": "QCRI",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "CGV-1111415, 1122374"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601119",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 81,
+        "title": [
+            "The visual microphone"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Abe",
+                "family": "Davis",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Michael",
+                "family": "Rubinstein",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Neal",
+                "family": "Wadhwa",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Gautham J.",
+                "family": "Mysore",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "William T.",
+                "family": "Freeman",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601119-1",
+                "unstructured": "Ait-Aider, O., Bartoli, A., and Andreff, N. 2007. Kinematics from lines in a single rolling shutter image. InComputer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on, IEEE, 1--6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-2",
+                "unstructured": "Boll, S. 1979. Suppression of acoustic noise in speech using spectral subtraction.Acoustics, Speech and Signal Processing, IEEE Transactions on 27, 2, 113--120."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-3",
+                "unstructured": "Chen, J., Wadhwa, N., Cha, Y.-J., Durand, F., Freeman, W. T., and Buyukozturk, O. 2014. Structural modal identification through high speed camera video: Motion magnification.Proceedings of the 32nd International Modal Analysis Conference (to appear).",
+                "DOI": "10.1007/978-3-319-04753-9_19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-4",
+                "unstructured": "De Cheveign&#233;, A., and Kawahara, H. 2002. Yin, a fundamental frequency estimator for speech and music.The Journal of the Acoustical Society of America 111, 4, 1917--1930."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-5",
+                "unstructured": "D'Emilia, G., Razz&#232;, L., and Zappa, E. 2013. Uncertainty analysis of high frequency image-based vibration measurements.Measurement 46, 8, 2630--2637."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-6",
+                "unstructured": "Fisher, W. M., Doddington, G. R., and Goudie-Marshall, K. M. 1986. The darpa speech recognition research database: specifications and status. InProc. DARPA Workshop on speech recognition, 93--99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-7",
+                "unstructured": "Gautama, T., and Van Hulle, M. 2002. A phase-based approach to the estimation of the optical flow field using spatial filtering.Neural Networks, IEEE Transactions on 13, 5 (sep), 1127--1136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-8",
+                "unstructured": "Grundmann, M., Kwatra, V., Castro, D., and Essa, I. 2012. Calibration-free rolling shutter removal. InComputational Photography (ICCP), 2012 IEEE International Conference on, IEEE, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-9",
+                "unstructured": "Hansen, J. H., and Pellom, B. L. 1998. An effective quality evaluation protocol for speech enhancement algorithms. InICSLP, vol. 7, 2819--2822."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-10",
+                "unstructured": "Janssen, A., Veldhuis, R., and Vries, L. 1986. Adaptive interpolation of discrete-time signals that can be modeled as autoregressive processes.Acoustics, Speech and Signal Processing, IEEE Transactions on 34, 2, 317--330."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-11",
+                "unstructured": "Jansson, E., Molin, N.-E., and Sundin, H. 1970. Resonances of a violin body studied by hologram interferometry and acoustical methods.Physica scripta 2, 6, 243."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-12",
+                "unstructured": "Liu, C., Torralba, A., Freeman, W. T., Durand, F., and Adelson, E. H. 2005. Motion magnification.ACM Trans. Graph. 24(Jul), 519--526.",
+                "DOI": "10.1145/1073204.1073223",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-13",
+                "unstructured": "Loizou, P. C. 2005. Speech enhancement based on perceptually motivated bayesian estimators of the magnitude spectrum.Speech and Audio Processing, IEEE Transactions on 13, 5, 857--869."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-14",
+                "unstructured": "Meingast, M., Geyer, C., and Sastry, S. 2005. Geometric models of rolling-shutter cameras.arXiv preprint cs/0503076."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-15",
+                "unstructured": "Morlier, J., Salom, P., and Bos, F. 2007. New image processing tools for structural dynamic monitoring.Key Engineering Materials 347, 239--244.",
+                "DOI": "10.4028/www.scientific.net/KEM.347.239",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-16",
+                "unstructured": "Nakamura, J. 2005.Image sensors and signal processing for digital still cameras. CRC Press.",
+                "DOI": "10.1201/9781420026856",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-17",
+                "unstructured": "Poe, E. A. 1845. The Raven."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-18",
+                "unstructured": "Portilla, J., and Simoncelli, E. P. 2000. A parametric texture model based on joint statistics of complex wavelet coefficients.Int. J. Comput. Vision 40, 1 (Oct.), 49--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-19",
+                "unstructured": "Powell, R. L., and Stetson, K. A. 1965. Interferometric vibration analysis by wavefront reconstruction.JOSA 55, 12, 1593--1597.",
+                "DOI": "10.1364/JOSA.55.001593",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-20",
+                "unstructured": "Quackenbush, S. R., Barnwell, T. P., and Clements, M. A. 1988.Objective measures of speech quality. Prentice Hall Englewood Cliffs, NJ."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-21",
+                "unstructured": "Rothberg, S., Baker, J., and Halliwell, N. A. 1989. Laser vibrometry: pseudo-vibrations.Journal of Sound and Vibration 135, 3, 516--522.",
+                "DOI": "10.1016/0022-460X(89)90705-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-22",
+                "unstructured": "Rubinstein, M. 2014.Analysis and Visualization of Temporal Variations in Video. PhD thesis, Massachusetts Institute of Technology."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-23",
+                "unstructured": "Simoncelli, E. P., Freeman, W. T., Adelson, E. H., and Heeger, D. J. 1992. Shiftable multi-scale transforms.IEEE Trans. Info. Theory 2, 38, 587--607.",
+                "DOI": "10.1109/18.119725",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-24",
+                "unstructured": "Stanbridge, A., and Ewins, D. 1999. Modal testing using a scanning laser doppler vibrometer.Mechanical Systems and Signal Processing 13, 2, 255--270.",
+                "DOI": "10.1006/mssp.1998.1209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-25",
+                "unstructured": "Taal, C. H., Hendriks, R. C., Heusdens, R., and Jensen, J. 2011. An algorithm for intelligibility prediction of time--frequency weighted noisy speech.Audio, Speech, and Language Processing, IEEE Transactions on 19, 7, 2125--2136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-26",
+                "unstructured": "Wadhwa, N., Rubinstein, M., Durand, F., and Freeman, W. T. 2013. Phase-based video motion processing.ACM Transactions on Graphics (TOG) 32, 4, 80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-27",
+                "unstructured": "Wadhwa, N., Rubinstein, M., Durand, F., and Freeman, W. T. 2014. Riesz pyramid for fast phase-based video magnification. InComputational Photography (ICCP), 2014 IEEE International Conference on, IEEE.",
+                "DOI": "10.1109/ICCPHOT.2014.6831820",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-28",
+                "unstructured": "Wu, H.-Y., Rubinstein, M., Shih, E., Guttag, J., Durand, F., and Freeman, W. 2012. Eulerian video magnification for revealing subtle changes in the world.ACM Transactions on Graphics (TOG) 31, 4, 65."
+            },
+            {
+                "key": "key-10.1145/2601097.2601119-29",
+                "unstructured": "Zalevsky, Z., Beiderman, Y., Margalit, I., Gingold, S., Teicher, M., Mico, V., and Garcia, J. 2009. Simultaneous remote extraction of multiple speech sources and heart beats from secondary speckles pattern.Opt. Express 17, 24, 21566--21580.",
+                "DOI": "10.1364/OE.17.021566",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601119&amp;ftid=1488887&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:02Z",
+            "timestamp": 1565663702000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "passive recovery of sound from video"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601119",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

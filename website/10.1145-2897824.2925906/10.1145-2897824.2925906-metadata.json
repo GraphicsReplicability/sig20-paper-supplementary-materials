@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410012
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000005",
+                "name": "U.S. Department of Defense",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W81XWH-15-1-0147"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1422795"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N000141110719, N000141210834"
+                ]
+            },
+            {
+                "name": "Intel STC-Visual Computing Grant",
+                "award": [
+                    "20112360"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925906",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 24,
+        "title": [
+            "Drucker-prager elastoplasticity for sand animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Gergely",
+                "family": "Kl\u00e1r",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Gast",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Andre",
+                "family": "Pradhana",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chuyuan",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Craig",
+                "family": "Schroeder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chenfanfu",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Joseph",
+                "family": "Teran",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925906-1",
+                "unstructured": "Aldu&#225;n, I., and Otaduy, M. 2011. SPH granular flow with friction and cohesion. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim, 25--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-2",
+                "unstructured": "Aldu&#225;n, I., Tena, A., and Otaduy, M. 2009. Simulation of high-resolution granular media. InProc Cong Espa&#241;ol Inf Graf."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-3",
+                "unstructured": "Bardenhagen, S., Brackbill, J., and Sulsky, D. 2000. The material-point method for granular materials.Comp Meth App Mech Eng 187, 3-4, 529--541."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-4",
+                "unstructured": "Bell, N., Yu, Y., and Mucha, P. 2005. Particle-based simulation of granular materials. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim, 77--86."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-5",
+                "unstructured": "Bonet, J., and Wood, R. 2008.Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511755446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-6",
+                "unstructured": "Chanclou, B., Luciani, A., and Habibi, A. 1996. Physical models of loose soils dynamically marked by a moving object. InComp Anim, 27--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-7",
+                "unstructured": "Chang, Y., Bao, K., Zhu, J., and Wu, E. 2012. A particle-based method for granular flow simulation.Sci China Inf Sci 55, 5, 1062--1072."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-8",
+                "unstructured": "Chen, P., and Wong, S. 2013. Real-time auto stylized sand art drawing. InCAD Comp Graph, 439--440."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-9",
+                "unstructured": "Cummins, S., and Brackbill, J. 2002. An implicit particle-in-cell method for granular materials.J Comp Phys 180, 2, 506--548."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-10",
+                "unstructured": "Drucker, D., and Prager, W. 1952. Soil mechanics and plasticity analysis or limit design.Quart App Math 10, 157--165."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-11",
+                "unstructured": "Gast, T., Schroeder, C., Stomakhin, A., Jiang, C., and Teran, J. 2015. Optimization integrator for large time steps.IEEE Trans Vis Comp Graph 21, 10, 1103--1115."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-12",
+                "unstructured": "Gonzalez, O., and Stuart, A. 2008.A first course in continuum mechanics.Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511619571",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-13",
+                "unstructured": "Ihmsen, M., Wahl, A., and Teschner, M. 2013. A lagrangian framework for simulating granular material with high detail.Comp Graph 37, 7, 800--808."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-14",
+                "unstructured": "Jaeger, H., Nagel, S., and Behringer, R. 1996. Granular solids, liquids, and gases.Rev Mod Phys 68, 1259--1273."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-15",
+                "unstructured": "Jiang, C., Schroeder, C., Selle, A., Teran, J., and Stomakhin, A. 2015. The affine particle-in-cell method.ACM Trans Graph 34, 4, 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-16",
+                "unstructured": "Jiang, C. 2015.The material point method for the physics-based simulation of solids and fluids. PhD thesis, University of California, Los Angeles."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-17",
+                "unstructured": "Kl&#225;r, G., Gast, T., Pradhana, A., Fu, C., Schroeder, C., Jiang, C., and Teran, J. 2016. Drucker-prager elastoplasticity for sand animation: Supplementary technical document.ACM Trans Graph."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-18",
+                "unstructured": "Lenaerts, T., and Dutr&#233;, P. 2009. Mixing fluids and granular materials.Comp Graph Forum 28, 2, 213--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-19",
+                "unstructured": "Li, X., and Moshell, J. 1993. Modeling soil: realtime dynamic models for soil slippage and manipulation. InProc SIGGRAPH, 361--368.",
+                "DOI": "10.1145/166117.166162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-20",
+                "unstructured": "Luciani, A., Habibi, A., and Manzotti, E. 1995. A multi-scale physical model of granular materials. InProc Graph Int, 136--146."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-21",
+                "unstructured": "Macklin, M., M&#252;ller, M., Chentanez, N., and Kim, T. 2014. Unified particle physics for real-time applications.ACM Trans Graph 33, 4, 153:1--153:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-22",
+                "unstructured": "Mast, C., Arduino, P., Mackenzie-Helnwein, P., and Miller, R. 2014. Simulating granular column collapse using the material point method.Acta Geotech 10, 1, 101--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-23",
+                "unstructured": "Mast, C. 2013.Modeling landslide-induced flow interactions with structures using the Material Point Method.PhD thesis."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-24",
+                "unstructured": "Mazhar, H., Heyn, T., Negrut, D., and Tasora, A. 2015. Using Nesterov's method to accelerate multibody dynamics with friction and contact.ACM Trans Graph 34, 3, 32:1--32:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-25",
+                "unstructured": "Milenkovic, V. 1996. Position-based physics: simulating the motion of many highly interacting spheres and polyhedra. InProc SIGGRAPH, 129--136.",
+                "DOI": "10.1145/237170.237222",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-26",
+                "unstructured": "Miller, G., and Pearce, A. 1989. Globular dynamics: a connected particle system for animating viscous fluids.Comp Graph 13, 3, 305--309."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-27",
+                "unstructured": "Narain, R., Golas, A., and Lin, M. 2010. Free-flowing granular materials with two-way solid coupling.ACM Trans Graph 29, 6, 173:1--173:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-28",
+                "unstructured": "Nkulikiyimfura, D., Kim, J., and Kim, H. 2012. A real-time sand simulation using a GPU. InComp Tech Inf Man, vol. 1, 495--498."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-29",
+                "unstructured": "Nocedal, J., and Wright, S. 2006.Numerical Optimization.Springer series in operations research and financial engineering. Springer."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-30",
+                "unstructured": "Onoue, K., and Nishita, T. 2003. Virtual sandbox. InProc Pac Conf Comp Graph App, 252--262."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-31",
+                "unstructured": "Pla-Castells, M., Garcia-Fernandez, I., and Martinez, R. 2006. Interactive terrain simulation and force distribution models in sand piles. InCellular Automata, vol. 4173 ofLecture Notes Comp Sci.392--401.",
+                "DOI": "10.1007/11861201_46",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-32",
+                "unstructured": "Ram, D., Gast, T., Jiang, C., Schroeder, C., Stomakhin, A., Teran, J., and Kavehpour, P. 2015. A material point method for viscoelastic fluids, foams and sponges. InProc ACM SIGGRAPH/Eurograph Symp Comp Anim, 157--163."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-33",
+                "unstructured": "Steffen, M., Kirby, R. M., and Berzins, M. 2008. Analysis and reduction of quadrature errors in the material point method (MPM).Int J Numer Meth Eng 76, 6, 922--948."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-34",
+                "unstructured": "Stomakhin, A., Schroeder, C., Chai, L., Teran, J., and Selle, A. 2013. A material point method for snow simulation.ACM Trans Graph 32, 4, 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-35",
+                "unstructured": "Stomakhin, A., Schroeder, C., Jiang, C., Chai, L., Teran, J., and Selle, A. 2014. Augmented MPM for phase-change and varied materials.ACM Trans Graph 33, 4, 138:1--138:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-36",
+                "unstructured": "Sulsky, D., Chen, Z., and Schreyer, H. L. 1994. A particle method for history-dependent materials.Comp Meth in App Mech Eng 118, 1, 179--196."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-37",
+                "unstructured": "Sumner, R., O'Brien, J., and Hodgins, J. 1999. Animating sand, mud and snow.Comp Graph Forum 18, 1, 17--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-38",
+                "unstructured": "Yasuda, R., Harada, T., and Kawaguchi, Y. 2008. Realtime simulation of granular materials using graphics hardware. InComp Graph Imag Vis, 28--31."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-39",
+                "unstructured": "Yoshioka, N. 2003. A sandpile experiment and its implications for self-organized criticality and characteristic earthquake.Earth, planets and space 55, 6, 283--289."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-40",
+                "unstructured": "Yue, Y., Smith, B., Batty, C., Zheng, C., and Grinspun, E. 2015. Continuum foam: a material point method for shear-dependent flows.ACM Trans Graph 34, 5, 160:1--160:20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925906-41",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid.ACM Trans Graph 24, 3, 965--972."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925906&amp;ftid=1755911&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:10Z",
+            "timestamp": 1568162770000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925906",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

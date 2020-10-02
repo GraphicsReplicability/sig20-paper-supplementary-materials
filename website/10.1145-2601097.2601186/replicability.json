@@ -1,0 +1,91 @@
+{
+    "Timestamp": "1/2/2020 15:07:24",
+    "Title": "Discrete Stochastic Microfacet Models",
+    "DOI": "10.1145/2601097.2601186",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...), on github, gitlab or other code platform",
+    "Main languages": "C/C++, Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "http://www.mitsuba-renderer.org/",
+    "code URL  2": "https://github.com/mitsuba-renderer/mitsuba",
+    "PDF URL": "http://www.cs.cornell.edu/projects/stochastic-sg14/stochastic.pdf",
+    "License type": "GPL",
+    "Build mechanism": "SCONS",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 3,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Texturing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The project's webpage links to mitsuba, but no microfacet method in mitsuba references the paper (it references other microfacets papers). The examples to reproduce the experiments are not provided, so I was not able to reproduce the results of the paper. To compile mitsuba on ubuntu 18.04, in config.py I changed -std=c++11 into -std=gnu++11 ; in mitsuba/build/release/mtsgui I changed QtCore, QtOpenGL (and so on) into Qt5Core, Qt5OpenGL (and so on) ; in data/scons/qt5.py,line 392 changed QtCore into Qt5Core.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 51,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "qt5/libpng/fftw3/libpcrecpp/eigen3/openexr/boost/xerces/ilmbase/jpeg/glewmx/libxxf86vm",
+    "Project URL": "http://www.cs.cornell.edu/projects/stochastic-sg14/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2014,
+    "Misc. comment": "There appears to be an implementation of the paper by a different author: https://github.com/lxs137/glint_mitsuba",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 1,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Wenzel",
+            "family": "Jakob",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Milo\u0161",
+            "family": "Ha\u0161an",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Ling-Qi",
+            "family": "Yan",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Jason",
+            "family": "Lawrence",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Ravi",
+            "family": "Ramamoorthi",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Steve",
+            "family": "Marschner",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

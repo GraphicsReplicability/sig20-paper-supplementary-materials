@@ -1,0 +1,86 @@
+{
+    "Timestamp": "12/5/2019 16:13:13",
+    "Title": "Blended cured quasi-newton for distortion optimization",
+    "DOI": "10.1145/3197517.3201359",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/mike323zyf/BCQN",
+    "code URL  2": "",
+    "PDF URL": "http://dannykaufman.io/projects/BCQN/BCQN_files/paper.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Other script, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 3,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Continuous optimization",
+    "ACM 2": "Shape modeling",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": 1,
+    "OS of the test": "Windows",
+    "General comments": "LibIGL has changed in the meantime (last commit at the time of the test: c645aac0c5852fad6fabe8c192fdc8675e607263). To compile, one has to edit some #include (removing #include igl/components.h in tutte_embedding_mex.cpp and adding #include igl/unique_rows.h in FastLsBuildUtils.cpp). To make it work on Windows with Visual Studio (2017), one has to edit the compileAllMex.m to add '-DWIN32' and '-D_USE_MATH_DEFINES' to the mex options.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 0,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Matlab / libIGL",
+    "Project URL": "http://www.cs.columbia.edu/~kaufman/BCQN/BCQN.html",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Yufeng",
+            "family": "Zhu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia & Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "Bridson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Autodesk & University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Danny M.",
+            "family": "Kaufman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

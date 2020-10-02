@@ -1,0 +1,334 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:30Z",
+            "timestamp": 1575507210800
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1217765, IIS-1350323"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601180",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Reflectance scanning"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Guojun",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Yue",
+                "family": "Dong",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Pieter",
+                "family": "Peers",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jiawan",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xin",
+                "family": "Tong",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601180-1",
+                "unstructured": "Aittala, M., Weyrich, T., and Lehtinen, J. 2013. Practical SVBRDF capture in the frequency domain.ACM Trans. Graph. 32, 4.",
+                "DOI": "10.1145/2461912.2461978",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-2",
+                "unstructured": "Alldrin, N., Zickler, T. E., and Kriegman, D. 2008. Photometric stereo with non-parametric and spatially-varying reflectance. InCVPR, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-3",
+                "unstructured": "Ben-Ezra, M., Wang, J., Wilburn, B., Li, X., and Ma, L. 2008. An LED-only BRDF measurement device. InCVPR, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-4",
+                "unstructured": "Cai, J.-F., Cand&#232;s, E. J., and Shen, Z. 2010. A Singular Value Thresholding Algorithm for Matrix Completion.SIAM J. on Optimization 20, 4, 1956--1982."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-5",
+                "unstructured": "Cook, R. L., and Torrance, K. E. 1982. A reflectance model for computer graphics.ACM Trans. Graph. 1, 1, 7--24.",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-6",
+                "unstructured": "Dana, K. J., Nayar, S. K., van Ginneken, B., and Koenderink, J. J. 1999. Reflectance and texture of real-world surfaces.ACM Trans. Graph. 18, 1, 1--34.",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-7",
+                "unstructured": "Dong, Y., Wang, J., Tong, X., Snyder, J., Lan, Y., Ben-Ezra, M., and Guo, B. 2010. Manifold bootstrapping for svbrdf capture.ACM Trans. Graph. 29, 4, 98:1--98:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-8",
+                "unstructured": "Gardner, A., Tchou, C., Hawkins, T., and Debevec, P. 2003. Linear light source reflectometry.ACM Trans. Graph. 22, 3, 749--758.",
+                "DOI": "10.1145/882262.882342",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-9",
+                "unstructured": "Ghosh, A., Chen, T., Peers, P., Wilson, C. A., and Debevec, P. E. 2009. Estimating specular roughness and anisotropy from second order spherical gradient illumination.Computer Graphics Forum 28, 4, 1161--1170.",
+                "DOI": "10.1111/j.1467-8659.2009.01493.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-10",
+                "unstructured": "Goldman, D. B., Curless, B., Hertzmann, A., and Seitz, S. M. 2005. Shape and spatially-varying BRDFs from photometric stereo. InICCV, I: 341--348."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-11",
+                "unstructured": "Han, J. Y., and Perlin, K. 2003. Measuring bidirectional texture reflectance with a kaleidoscope.ACM Trans. Graph. 22, 3, 741--748.",
+                "DOI": "10.1145/882262.882341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-12",
+                "unstructured": "Holroyd, M., Lawrence, J., Humphreys, G., and Zickler, T. 2008. A photometric approach for estimating normals and tangents.ACM Trans. Graph. 27, 5, 133:1--133:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-13",
+                "unstructured": "Lafortune, E. P. F., Foo, S.-C., Torrance, K. E., and Greenberg, D. P. 1997. Non-linear approximation of reflectance functions. InProceedings of ACM SIGGRAPH 1997, Annual Conference Series, 117--126."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-14",
+                "unstructured": "Lawrence, J., Ben-Artzi, A., DeCoro, C., Matusik, W., Pfister, H., Ramamoorthi, R., and Rusinkiewicz, S. 2006. Inverse shade trees for non-parametric material representation and editing.ACM Trans. Graph. 25, 3.",
+                "DOI": "10.1145/1141911.1141949",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-15",
+                "unstructured": "Lensch, H. P. A., Kautz, J., Goesele, M., Heidrich, W., and Seidel, H.-P. 2003. Image-based reconstruction of spatial appearance and geometric detail.ACM Trans. Graph. 22, 2, 234--257.",
+                "DOI": "10.1145/636886.636891",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-16",
+                "unstructured": "Liu, G., Lin, Z., Yan, S., Sun, J., Yu, Y., and Ma, Y. 2013. Robust Recovery of Subspace Structures by Low-Rank Representation.IEEE PAMI 35, 171--184.",
+                "DOI": "10.1109/TPAMI.2012.88",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-17",
+                "unstructured": "Lu, R., Koenderink, J. J., and Kappers, A. M. L. 1998. Optical properties bidirectional reflectance distribution functions of velvet.Applied Optics 37, 25 (Sept.), 5974--5984."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-18",
+                "unstructured": "Ma, W.-C., Hawkins, T., Peers, P., Chabert, C.-F., Weiss, M., and Debevec, P. E. 2007. Rapid acquisition of specular and diffuse normal maps from polarized spherical gradient illumination. InRendering Techniques, 183--194."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-19",
+                "unstructured": "Marschner, S., Westin, S., Lafortune, E., Torrance, K., and Greenberg, D. 1999. Image-based BRDF measurement including human skin. In10th Eurographics Rendering Workshop.",
+                "DOI": "10.1007/978-3-7091-6809-7_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-20",
+                "unstructured": "Matusik, W., Pfister, H., Brand, M., and McMillan, L. 2003. Efficient isotropic BRDF measurement. InRendering Techniques, 241--247."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-21",
+                "unstructured": "Mukaigawa, Y., sumino, K., and yagi, Y. 2007. High-speed measurement of BRDF using an ellipsoidal mirror and a projector. InACCV, 246--257."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-22",
+                "unstructured": "Ngan, A., Durand, F., and Matusik, W. 2005. Experimental analysis of BRDF models.Eurographics Symposium on Rendering 2005, 117--226."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-23",
+                "unstructured": "Nicodemus, F. E., Richmond, J. C., Hsia, J. J., Ginsberg, I. W., and Limperis, T. 1977. Geometric considerations and nomenclature for reflectance.Monograph 161,National Bureau of Standards (US).",
+                "DOI": "10.6028/NBS.MONO.160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-24",
+                "unstructured": "Nocedal, J., and Wright, S. J. 2006.Numerical Optimization. Springer Series in Operations Research and Financial Enginee. Springer Science+Business Media, LLC."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-25",
+                "unstructured": "Ren, P., Wang, J., Snyder, J., Tong, X., and Guo, B. 2011. Pocket reflectometry.ACM Trans. Graph. 30, 4, 45:1--45:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-26",
+                "unstructured": "Tunwattanapong, B., Fyffe, G., Graham, P., Busch, J., Yu, X., Ghosh, A., and Debevec, P. E. 2013. Acquiring reflectance and shape from continuous spherical harmonic illumination.ACM Trans. Graph. 32, 4, 109."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-27",
+                "unstructured": "Wang, J., Zhao, S., Tong, X., Snyder, J., and Guo, B. 2008. Modeling anisotropic surface reflectance with example-based microfacet synthesis.ACM Trans. Graph 27, 3, 41:1--41:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-28",
+                "unstructured": "Ward, G. J. 1992. Measuring and modeling anisotropic reflection. InComputer Graphics, vol. 26, 265--272.",
+                "DOI": "10.1145/142920.134078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-29",
+                "unstructured": "Zhang, Z. 2000. A flexible new technique for camera calibration. InIEEE PAMI, vol. 22, 1330--1334."
+            },
+            {
+                "key": "key-10.1145/2601097.2601180-30",
+                "unstructured": "Zickler, T., Enrique, S., Ramamoorthi, R., and Belhumeur, P. 2005. Reflectance sharing: image-based rendering from a sparse set of images. InRendering Techniques, 253--264."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601180&amp;ftid=1488925&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:31Z",
+            "timestamp": 1565663731000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "estimating shading frame and BRDF with generalized linear light sources"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601180",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

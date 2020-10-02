@@ -1,0 +1,378 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808427
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201391",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Scene-aware audio for 360\u00b0 videos"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Dingzeyu",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201391-1",
+                "unstructured": "Robert Anderson, David Gallup, Jonathan T. Barron, Janne Kontkanen, Noah Snavely, Carlos Hern&#225;ndez, Sameer Agarwal, and Steven M Seitz. 2016. Jump: virtual reality video.ACM Trans. on Graph.35, 6 (2016), 198.",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-2",
+                "unstructured": "Stefan Bilbao. 2009.Numerical Sound Synthesis.John Wiley &#38; Sons, Ltd.",
+                "DOI": "10.1002/9780470749012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-3",
+                "unstructured": "Chunxiao Cao, Zhong Ren, Carl Schissler, Dinesh Manocha, and Kun Zhou. 2016. Interactive Sound Propagation with Bidirectional Path Tracing.ACM Trans. Graph.35, 6 (2016), 180:1--180:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-4",
+                "unstructured": "Trevor J Cox, Peter D'Antonio, and Mark R Avis. 2004. Room sizing and optimization at low frequencies.Journal of the Audio Engineering Society52, 6 (2004), 640--651."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-5",
+                "unstructured": "F Dunn, WM Hartmann, DM Campbell, and Neville H Fletcher. 2015.Springer handbook of acoustics.Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-6",
+                "unstructured": "Angelo Farina. 2000. Simultaneous measurement of impulse response and distortion with a swept-sine technique. InAudio Engineering Society Convention 108.Audio Engineering Society."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-7",
+                "unstructured": "Angelo Farina. 2007. Advancements in Impulse Response Measurements by Sine Sweeps. InAudio Engineering Society Convention 122.Audio Engineering Society."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-8",
+                "unstructured": "Thomas Funkhouser, Ingrid Carlbom, Gary Elko, Gopal Pingali, Mohan Sondhi, and Jim West. 1998. A Beam Tracing Approach to Acoustic Modeling for Interactive Virtual Environments. InProc. SIGGRAPH '98.21--32.",
+                "DOI": "10.1145/280814.280818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-9",
+                "unstructured": "Mark B. Gardner. 1968. Historical Background of the Haas and/or Precedence Effect.The Journal of the Acoustical Society of America43, 6 (1968), 1243--1248.",
+                "DOI": "10.1121/1.1910974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-10",
+                "unstructured": "Fran&#231;ois. G. Germain, Gautham. J. Mysore, and Takako. Fujioka. 2016. Equalization matching of speech recordings in real-world environments. InInternational Conference on Acoustics, Speech and Signal Processing (ICASSP).609--613."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-11",
+                "unstructured": "Murray Hodgson. 1991. Evidence of diffuse surface reflections in rooms.The Journal of the Acoustical Society of America89, 2 (1991), 765--771.",
+                "DOI": "10.1121/1.1894636",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-12",
+                "unstructured": "J. Huang, Z. Chen, D. Ceylan, and H. Jin. 2017. 6-DOF VR videos with a single 360-camera. In2017 IEEE Virtual Reality (VR).37--44.",
+                "DOI": "10.1109/VR.2017.7892229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-13",
+                "unstructured": "Zeyu Jin, Gautham J. Mysore, Stephen DiVerdi, Jingwan Lu, and Adam Finkelstein. 2017. VoCo: Text-based Insertion and Replacement in Audio Narration.ACM Trans. on Graph.36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073702",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-14",
+                "unstructured": "Gary S. Kendall. 1995. The Decorrelation of Audio Signals and Its Impact on Spatial Imagery.Computer Music Journal19, 4 (1995), 71--87.",
+                "DOI": "10.2307/3680992",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-15",
+                "unstructured": "Johannes Kopf. 2016. 360 video stabilization.ACM Trans. on Graph.35, 6 (2016), 195.",
+                "DOI": "10.1145/2980179.2982405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-16",
+                "unstructured": "Heinrich Kuttruff. 2017.Room Acoustics(sixth ed.). CRC Press.",
+                "DOI": "10.1201/9781315372150",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-17",
+                "unstructured": "Jungjin Lee, Bumki Kim, Kyehyun Kim, Younghui Kim, and Junyong Noh. 2016. Rich360: optimized spherical representation from structured panoramic camera arrays.ACM Trans. on Graph.35, 4 (2016), 63.",
+                "DOI": "10.1145/2897824.2925983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-18",
+                "unstructured": "Stephen Robert Marschner and Donald P Greenberg. 1998.Inverse rendering for computer graphics.Cornell University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-19",
+                "unstructured": "Kevin Matzen, Michael F Cohen, Bryce Evans, Johannes Kopf, and Richard Szeliski. 2017. Low-cost 360 stereo photography and video capture.ACM Trans. on Graph.36, 4 (2017), 148.",
+                "DOI": "10.1145/3072959.3073645",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-20",
+                "unstructured": "Athanasios Papoulis. 1977.Signal analysis.Vol. 191. McGraw-Hill New York."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-21",
+                "unstructured": "Jackson Pope, David Creasey, and Alan Chalmers. 1999. Realtime Room Acoustics Using Ambisonics. InAudio Engineering Society Conference: 16th International Conference: Spatial Sound Reproduction."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-22",
+                "unstructured": "N. Raghuvanshi, R. Narain, and M. C. Lin. 2009. Efficient and Accurate Sound Propagation Using Adaptive Rectangular Decomposition.IEEE Transactions on Visualization and Computer Graphics15, 5 (2009), 789--801.",
+                "DOI": "10.1109/TVCG.2009.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-23",
+                "unstructured": "Nikunj Raghuvanshi and John Snyder. 2014. Parametric Wave Field Coding for Pre-computed Sound Propagation.ACM Trans. on Graph.33, 4, Article 38 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-24",
+                "unstructured": "Nikunj Raghuvanshi, John Snyder, Ravish Mehra, Ming Lin, and Naga Govindaraju. 2010. Precomputed Wave Simulation for Real-time Sound Propagation of Dynamic Sources in Complex Scenes.ACM Trans. on Graph.29, 4, Article 68 (2010), 68:1--68:11 pages.",
+                "DOI": "10.1145/1833351.1778805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-25",
+                "unstructured": "Zhimin Ren, Hengchin Yeh, and Ming C Lin. 2013. Example-guided physically based modal sound synthesis.ACM Trans. on Graph.32, 1 (2013), 1.",
+                "DOI": "10.1145/2421636.2421637",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-26",
+                "unstructured": "Steve Rubin, Floraine Berthouzoz, Gautham J. Mysore, Wilmot Li, and Maneesh Agrawala. 2013. Content-based Tools for Editing Audio Stories. InProc. UIST '13.113--122.",
+                "DOI": "10.1145/2501988.2501993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-27",
+                "unstructured": "Lauri Savioja and U. Peter Svensson. 2015. Overview of geometrical room acoustic modeling techniques.The Journal of the Acoustical Society of America138, 2 (2015), 708--730.",
+                "DOI": "10.1121/1.4926438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-28",
+                "unstructured": "Carl Schissler, Christian Loftin, and Dinesh Manocha. 2017a. Acoustic Classification and Optimization for Multi-Modal Rendering of Real-World Scenes.IEEE Transactions on Visualization and Computer Graphics(2017).",
+                "DOI": "10.1109/TVCG.2017.2666150",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-29",
+                "unstructured": "Carl Schissler, Ravish Mehra, and Dinesh Manocha. 2014. High-order Diffraction and Diffuse Reflections for Interactive Sound Propagation in Large Environments.ACM Trans. Graph.33, 4, Article 39 (July 2014), 12 pages.",
+                "DOI": "10.1145/2601097.2601216",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-30",
+                "unstructured": "Carl Schissler, Aaron Nicholls, and Ravish Mehra. 2016. Efficient HRTF-based spatial audio for area and volumetric sources.IEEE transactions on visualization and computer graphics22, 4 (2016), 1356--1366.",
+                "DOI": "10.1109/TVCG.2016.2518134",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-31",
+                "unstructured": "Carl Schissler, Peter Stirling, and Ravish Mehra. 2017b. Efficient construction of the spatial room impulse response. InVirtual Reality (VR), 2017 IEEE.IEEE, 122--130.",
+                "DOI": "10.1109/VR.2017.7892239",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-32",
+                "unstructured": "Efstathios Stavrakis, Nicolas Tsingos, and Paul Calamia. 2008. Topological Sound Propagation with Reverberation Graphs.Acta Acustica/Acustica - the Journal of the European Acoustics Association (EAA)(2008).",
+                "DOI": "10.3813/AAA.918109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-33",
+                "unstructured": "James Traer and Josh H. McDermott. 2016. Statistics of natural reverberation enable perceptual separation of sound and space.Proceedings of the National Academy of Sciences113, 48 (2016), E7856--E7865. arXiv:http://www.pnas.org/content/113/48/E7856.full.pdf",
+                "DOI": "10.1073/pnas.1612524113",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-34",
+                "unstructured": "Nicolas Tsingos. 2009. Precomputing Geometry-Based Reverberation Effects for Games. InAudio Engineering Society Conference: 35th International Conference: Audio for Games.http://www.aes.org/e-lib/browse.cfm?elib=15164"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-35",
+                "unstructured": "Nicolas Tsingos, Thomas Funkhouser, Addy Ngan, and Ingrid Carlbom. 2001. Modeling Acoustics in Virtual Environments Using the Uniform Theory of Diffraction. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '01).ACM, New York, NY, USA, 545--552.",
+                "DOI": "10.1145/383259.383323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-36",
+                "unstructured": "Michael Vorl&#228;nder. 2008.Auralization: Fundamentals of Acoustics, Modelling, Simulation, Algorithms and Acoustic Virtual Reality (RWTHedition)(2008 ed.). Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-37",
+                "unstructured": "Ciyou Zhu, Richard H. Byrd, Peihuang Lu, and Jorge Nocedal. 1997. Algorithm 778: L-BFGS-B: Fortran Subroutines for Large-scale Bound-constrained Optimization.ACM Trans. Math. Softw.23, 4 (Dec. 1997), 550--560.",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201391-38",
+                "unstructured": "Franz Zotter, Hannes Pomberger, and Matthias Frank. 2009. An alternative ambisonics formulation: Modal source strength matching and the effect of spatial aliasing. InAudio Engineering Society Convention 126.Audio Engineering Society."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201391&ftid=1991631&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:20Z",
+            "timestamp": 1571673320000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201391",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

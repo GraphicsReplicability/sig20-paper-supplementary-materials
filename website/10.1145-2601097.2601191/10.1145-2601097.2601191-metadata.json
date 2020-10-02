@@ -1,0 +1,324 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    26
+                ]
+            ],
+            "date-time": "2019-12-26T15:03:12Z",
+            "timestamp": 1577372592559
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61232011, 61379090, 61161160567"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "CAS Young Scientists Plan",
+                "award": [
+                    "2013Y1GA0007"
+                ]
+            },
+            {
+                "name": "National 863 Program",
+                "award": [
+                    "2013AA01A604"
+                ]
+            },
+            {
+                "name": "European FP7",
+                "award": []
+            },
+            {
+                "name": "Shenzhen Innovation &#38; Technology Program",
+                "award": [
+                    "CXB201104220029A, ZD201111080115A, KC2012JSJS0019A, JSGG20130624154940238, JCYJ20120617114842361"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601191",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Proactive 3D scanning of inaccessible parts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Feilong",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Andrei",
+                "family": "Sharf",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Wenzhen",
+                "family": "Lin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601191-1",
+                "unstructured": "Amberg, B., Romdhani, S., and Vetter, T. 2007. Optimal step nonrigid icp algorithms for surface registration. InCVPR.",
+                "DOI": "10.1109/CVPR.2007.383165",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-2",
+                "unstructured": "Barber, C. B., Dobkin, D. P., and Huhdanpaa, H. 1996. The quickhull algorithm for convex hulls.ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE 22, 4, 469--483.",
+                "DOI": "10.1145/235815.235821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-3",
+                "unstructured": "Besl, P. J., and McKay, N. D. 1992. A method for registration of 3-d shapes.IEEE Trans. Pattern Anal. Mach. Intell. 14, 2 (Feb.), 239--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-4",
+                "unstructured": "Bouaziz, S., Tagliasacchi, A., and Pauly, M. 2013. Sparse iterative closest point. InProc. Eurographics Symp. on Geometry Processing, 113--123."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-5",
+                "unstructured": "Brown, B. J., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3-d scans. InACM SIGGRAPH 2007 Papers, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-6",
+                "unstructured": "Chang, W., and Zwicker, M. 2008. Automatic registration for articulated shapes.Computer Graphics Forum (Special Issue of Symposium on Geometry Processing) 27, 5, 1459--1468.",
+                "DOI": "10.1111/j.1467-8659.2008.01286.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-7",
+                "unstructured": "Chang, W., and Zwicker, M. 2011. Global registration of dynamic range scans for articulated model reconstruction.ACM Trans. Graph. 30, 3 (May), 26:1--26:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-8",
+                "unstructured": "Chen, Y., and Medioni, G. 1992. Object modelling by registration of multiple range images.Image Vision Comput. 10, 3 (Apr.), 145--155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-9",
+                "unstructured": "Chui, H., and Rangarajan, A. 2003. A new point matching algorithm for non-rigid registration.Comput. Vis. Image Underst. 89, 2--3 (Feb.), 114--141."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-10",
+                "unstructured": "de Aguiar, E., Stoll, C., Theobalt, C., Ahmed, N., Seidel, H.-P., and Thrun, S. 2008. Performance capture from sparse multi-view video. InACM SIGGRAPH 2008 papers, ACM, New York, NY, USA, SIGGRAPH '08, 98:1--98:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-11",
+                "unstructured": "Horn, B. K. P. 1987. Closed-form solution of absolute orientation using unit quaternions.J. Opt. Soc. Am. A 4, 4 (Apr), 629--642."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-12",
+                "unstructured": "Huang, Q.-X., Adams, B., Wicke, M., and Guibas, L. J. 2008. Non-rigid registration under isometric deformations. InProceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '08, 1449--1457."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-13",
+                "unstructured": "Izadi, S., Kim, D., Hilliges, O., Molyneaux, D., Newcombe, R., Kohli, P., Shotton, J., Hodges, S., Freeman, D., Davison, A., and Fitzgibbon, A. 2011. Kinect-fusion: Real-time 3d reconstruction and interaction using a moving depth camera. InProceedings of the ACM Symposium on User Interface Software and Technology, 559--568."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-14",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson surface reconstruction. InProceedings of the Fourth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '06, 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-15",
+                "unstructured": "Li, H., Sumner, R. W., and Pauly, M. 2008. Global correspondence optimization for non-rigid registration of depth scans. InProceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '08, 1421--1430."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-16",
+                "unstructured": "Li, H., Adams, B., Guibas, L. J., and Pauly, M. 2009. Robust single-view geometry and motion reconstruction. InACM SIGGRAPH Asia 2009 papers, 175:1--175:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-17",
+                "unstructured": "Li, H., Vouga, E., Gudym, A., Luo, L., Barron, J. T., and Gusev, G. 2013. 3d self-portraits.ACM Transactions on Graphics (Proceedings SIGGRAPH Asia 2013) 32, 6 (November).",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-18",
+                "unstructured": "Mitra, N. J., Flory, S., Ovsjanikov, M., Gelfand, N., Guibas, L., and Pottmann, H. 2007. Dynamic geometry registration. InProceedings of the fifth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '07, 173--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-19",
+                "unstructured": "Muja, M., and Lowe, D. G. 2009. Fast approximate nearest neighbors with automatic algorithm configuration. InInternational Conference on Computer Vision Theory and Application VISSAPP'09), INSTICC Press, 331--340."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-20",
+                "unstructured": "Pekelny, Y., and Gotsman, C. 2008. Articulated object reconstruction and markerless motion capture from depth video.Computer Graphics Forum 27, 2 (Apr.), 399--408."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-21",
+                "unstructured": "Sharf, A., Alcantara, D. A., Lewiner, T., Greif, C., Sheffer, A., Amenta, N., and Cohen-Or, D. 2008. Space-time surface reconstruction using incompressible flow. InACM SIGGRAPH Asia 2008 papers, ACM, New York, NY, USA, SIGGRAPH Asia '08, 110:1--110:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-22",
+                "unstructured": "Sumner, R. W., Schmid, J., and Pauly, M. 2007. Embedded deformation for shape manipulation. InACM SIGGRAPH 2007 Papers, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-23",
+                "unstructured": "S&#252;ssmuth, J., Winter, M., and Greiner, G. 2008. Reconstructing animated meshes from time-varying point clouds. InProceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '08, 1469--1476."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-24",
+                "unstructured": "Tevs, A., Berner, A., Wand, M., Ihrke, I., Bokeloh, M., Kerber, J., and Seidel, H.-P. 2012. Animation cartography - intrinsic reconstruction of shape and motion.ACM Trans. Graph., 12:1--12:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-25",
+                "unstructured": "Wand, M., Jenke, P., Huang, Q., Bokeloh, M., Guibas, L., and Schilling, A. 2007. Reconstruction of deforming geometry from time-varying point clouds. InProceedings of the fifth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '07, 49--58."
+            },
+            {
+                "key": "key-10.1145/2601097.2601191-26",
+                "unstructured": "Wand, M., Adams, B., Ovsjanikov, M., Berner, A., Bokeloh, M., Jenke, P., Guibas, L., Seidel, H.-P., and Schilling, A. 2009. Efficient reconstruction of nonrigid shape and motion from real-time 3d scanner data.ACM Trans. Graph. 28, 2 (May), 15:1--15:15."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601191&amp;ftid=1488966&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:00Z",
+            "timestamp": 1565663760000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601191",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

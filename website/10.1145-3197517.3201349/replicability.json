@@ -1,0 +1,96 @@
+{
+    "Timestamp": "12/7/2019 11:53:20",
+    "Title": "3D printing spatially varying color and translucency",
+    "DOI": "10.1145/3197517.3201349",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2592720/AAM_Version_colorAndTranslucency.pdf?sequence=3&isAllowed=y",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Perception",
+    "ACM 2": "Graphics file formats",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 7,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2592720",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Alan",
+            "family": "Brunton",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Fraunhofer IGD"
+                }
+            ]
+        },
+        {
+            "given": "Can Ates",
+            "family": "Arikan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Fraunhofer IGD"
+                }
+            ]
+        },
+        {
+            "given": "Tejas Madan",
+            "family": "Tanksale",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Fraunhofer IGD"
+                }
+            ]
+        },
+        {
+            "given": "Philipp",
+            "family": "Urban",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Fraunhofer IGD and Norwegian University of Science and Technology NTNU"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

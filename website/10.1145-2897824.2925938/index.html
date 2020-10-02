@@ -1,0 +1,81 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Erosion thickness on medial axes of 3D shapes <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Yajie <span class="family">Yan</span></li>
+<li> Kyle <span class="family">Sykes</span></li>
+<li> Erin <span class="family">Chambers</span></li>
+<li> David <span class="family">Letscher</span></li>
+<li> Tao <span class="family">Ju</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925938">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.cse.wustl.edu/~taoju/research/et.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://yajieyan.github.io/project/et/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/danielyan86129/ET">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://yajieyan.github.io/et_sig16/et.v2.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925938-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925938-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 4</li>
+<li><span class="family">License</span>: MPL</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   22</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>Compiling the project with Qt 5.12.6 instead of 5.7.0 (~40GB install) is relatively easy.
+- EtDev.sln: replace  qt5.7_msvc2015 by qt5.12_msvc2017
+- EtDev.vcxproj: replace Qt5Version_x0020_x64="qt5.7_msvc2015" by  Qt5Version_x0020_x64="qt5.12_msvc2017"
+- EtDev.vcxproj.user: replace C:\Libs\Qt\Qt5.7.0\5.7\msvc2015_64 by the actual path of your Qt install (e.g., C:\Libs\Qt\5.12.6\msvc2017_64).
+- trimesh/include/Vec.h, line 819: #if (_MSC_VER != 1900)  should be replaced by #if (_MSC_VER <= 1900)
+The program compiles and produces the same executable as the one provided on the author website. It is however not very easy to use, and it is undocumented. The startup is intuitive (load the hand medial axis, model and radius files provided in the sample data), but then parameter tuning and what steps need to be performed were not trivial to find. I managed to produce a clean hand skeleton nevertheless that somewhat looks like results shown in the paper.
+I assume the .r file contains a radius for each vertex of the medial axis .off file, so that should be relatively easy to produce given a medial axis code (not provided).
+While results were convincing on the hand model, models used in the paper are not provided.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,4,4,4]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

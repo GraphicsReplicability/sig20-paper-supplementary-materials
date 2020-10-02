@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T16:23:27Z",
+            "timestamp": 1579278207383
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201316",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Single-photon 3D imaging with deep sensor fusion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "David B.",
+                "family": "Lindell",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "O'Toole",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201316-1",
+                "unstructured": "E. Abreu, M. Lightstone, S.K. Mitra, and K. Arakawa. 1996. A new efficient approach for the removal of impulse noise from highly corrupted images.IEEE Trans. Image Process.5, 6 (1996), 1012--1025.",
+                "DOI": "10.1109/83.503916",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-2",
+                "unstructured": "S. Achar, J.R. Bartels, W.L. Whittaker, K.N. Kutulakos, and S.G. Narasimhan. 2017. Epipolar time-of-flight imaging.ACM Trans. Graph. (SIGGRAPH)36, 4 (2017), 37."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-3",
+                "unstructured": "Y. Altmann, R. Aspden, M. Padgett, and S. McLaughlin. 2017. A Bayesian Approach to Denoising of Single-Photon Binary Images.IEEE Trans. Computat. Imaging3, 3 (Sept 2017), 460--471.",
+                "DOI": "10.1109/TCI.2017.2703900",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-4",
+                "unstructured": "A. Bleiweiss and M. Werman. 2009. Fusing time-of-flight depth and color for real-time segmentation and tracking. InDynamic 3D Imaging.58--69.",
+                "DOI": "10.1007/978-3-642-03778-8_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-5",
+                "unstructured": "S. Burri, H. Homulle, C. Bruschini, and E. Charbon. 2016. LinoSPAD: A time-resolved 256X1 CMOS SPAD line sensor system featuring 64 FPGA-based TDC channels running at up to 8.5 giga-events per second. InProc. SPIE, Vol. 9899. 98990D.",
+                "DOI": "10.1117/12.2227564",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-6",
+                "unstructured": "D. Chan, H. Buisman, C. Theobalt, and S. Thrun. 2008. A noise-aware filter for real-time depth upsampling. InWorkshop on Multi-Camera and Multi-Modal Sensor Fusion Algorithms and Applications."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-7",
+                "unstructured": "Q. Chen and V. Koltun. 2013. A simple model for intrinsic image decomposition with depth cues. InProc. ICCV.241--248.",
+                "DOI": "10.1109/ICCV.2013.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-8",
+                "unstructured": "H. Dautet, P. Deschamps, B. Dion, A.D. MacGregor, D. MacSween, R.J. McIntyre, C. Trottier, and P.P. Webb. 1993. Photon counting techniques with silicon avalanche photodiodes.Applied optics32, 21 (1993), 3894--3900.",
+                "DOI": "10.1364/AO.32.003894",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-9",
+                "unstructured": "J. Diebel and S. Thrun. 2006. An application of Markov Random Fields to range sensing. InPrac. NIPS.291--298."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-10",
+                "unstructured": "D. Ferstl, C. Reinbacher, R. Ranftl, M. R&#252;ther, and H. Bischof. 2013. Image guided depth upsampling using anisotropic total generalized variation. InProc. CVPR.993--1000.",
+                "DOI": "10.1109/ICCV.2013.127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-11",
+                "unstructured": "P. Henry, M. Krainin, E. Herbst, X. Ren, and D. Fox. 2012. RGB-D mapping: Using Kinect-style depth cameras for dense 3D modeling of indoor environments.The International Journal of Robotics Research31, 5 (2012), 647--663.",
+                "DOI": "10.1177/0278364911434148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-12",
+                "unstructured": "R. Horaud, M. Hansard, G. Evangelidis, and C. M&#233;nier. 2016. An overview of depth cameras and range scanners based on time-of-flight technologies.Machine Vision and Applications27, 7 (2016), 1005--1020.",
+                "DOI": "10.1007/s00138-016-0784-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-13",
+                "unstructured": "T. Hui, C.C. Loy, and X. Tang. 2016. Depth map super-resolution by deep multi-scale guidance. InProc. ECCV.353--369.",
+                "DOI": "10.1007/978-3-319-46487-9_22",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-14",
+                "unstructured": "D. Kingma and J. Ba. 2014. Adam: A method for stochastic optimization.arXiv preprint arXiv:1412.6980(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-15",
+                "unstructured": "A. Kirmani, D. Venkatraman, D. Shin, A. Cola&#231;o, F.N.C. Wong, J.H. Shapiro, and V.K. Goyal. 2014. First-photon imaging.Science343, 6166 (2014), 58--61.",
+                "DOI": "10.1126/science.1246775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-16",
+                "unstructured": "A. Kolb, E. Barth, R. Koch, and R. Larsen. 2009. Time-of-flight sensors in computer graphics. InEurographics (STARs).119--134."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-17",
+                "unstructured": "J. Kopf, M.F. Cohen, D. Lischinski, and M. Uyttendaele. 2007. Joint bilateral upsampling. InACM Trans. Graph. (SIGGRAPH), Vol. 26. 96.",
+                "DOI": "10.1145/1275808.1276497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-18",
+                "unstructured": "M. Koskinen, J.T. Kostamovaara, and R.A. Myllylae. 1992. Comparison of continuous-wave and pulsed time-of-flight laser range-finding techniques. InProc. SPIE 1614.296--305.",
+                "DOI": "10.1117/12.57989",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-19",
+                "unstructured": "Y. Li, J. Huang, N. Ahuja, and M. Yang. 2016. Deep joint image filtering. InProc. ECCV.154--169.",
+                "DOI": "10.1007/978-3-319-46493-0_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-20",
+                "unstructured": "G. Lin, A. Milan, C. Shen, and I. Reid. 2017. Refinenet: Multi-path refinement networks for high-resolution semantic segmentation. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.549",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-21",
+                "unstructured": "D.B. Lindell, M. O'Toole, and G. Wetzstein. 2018. Towards transient imaging at interactive rates with single-photon detectors. InProc. ICCP.",
+                "DOI": "10.1109/ICCPHOT.2018.8368466",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-22",
+                "unstructured": "J. Marco, Q. Hernandez, A. Mu&#241;oz, Y. Dong, A. Jarabo, M.H. Kim, X. Tong, and D. Gutierrez. 2017. DeepToF: Off-the-shelf real-time correction of multipath interference in time-of-flight imaging.ACM Trans. Graph. (SIGGRAPH Asia)36, 6 (2017), 219:1--219:12.",
+                "DOI": "10.1145/3130800.3130884",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-23",
+                "unstructured": "A. McCarthy, X. Ren, A. Della Frera, N.R. Gemmell, N.J. Krichel, C. Scarcella, A. Ruggeri, A. Tosi, and G.S. Buller. 2013. Kilometer-range depth imaging at 1550 nm wavelength using an InGaAs/InP single-photon avalanche diode detector.Optics express21, 19 (2013), 22098--22113.",
+                "DOI": "10.1364/OE.21.022098",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-24",
+                "unstructured": "D. O'Connor and D. Philips. 1984.Time-correlated single photon counting.Academic Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-25",
+                "unstructured": "M. O'Toole, S. Achar, S.G. Narasimhan, and K.N. Kutulakos. 2015. Homogeneous codes for energy-efficient illumination and imaging.ACM Trans. Graph. (SIGGRAPH)34, 4, Article 35 (2015).",
+                "DOI": "10.1145/2766897",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-26",
+                "unstructured": "M. O'Toole, F. Heide, D.B. Lindell, K. Zang, S. Diamond, and G. Wetzstein. 2017. Reconstructing transient images from single-photon sensors. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-27",
+                "unstructured": "J. Park, H. Kim, Y. Tai, M.S. Brown, and I. Kweon. 2011. High quality depth map upsampling for 3D-TOF cameras. InProc. ICCV1623--1630.",
+                "DOI": "10.1109/ICCV.2011.6126423",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-28",
+                "unstructured": "A.M. Pawlikowska, A. Halimi, R.A. Lamb, and G.S. Buller. 2017. Single-photon three-dimensional imaging at up to 10 kilometers range.Optics Express25, 10 (2017), 11919--11931.",
+                "DOI": "10.1364/OE.25.011919",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-29",
+                "unstructured": "C. Peng, X. Zhang, G. Yu, G. Luo, and J. Sun. 2017. Large kernel matters- Improve semantic segmentation by global convolutional network. InProc. CVPR.1743--1751.",
+                "DOI": "10.1109/CVPR.2017.189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-30",
+                "unstructured": "G. Petschnigg, R. Szeliski, M. Agrawala, M. Cohen, H. Hoppe, and K. Toyama. 2004. Digital photography with flash and no-flash image pairs.ACM Trans. Graph. (SIGGRAPH)23, 3 (2004), 664--672.",
+                "DOI": "10.1145/1015706.1015777",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-31",
+                "unstructured": "E.F. Pettersen, T.D. Goddard, C.C. Huang, G.S. Couch, D.M. Greenblatt, E.C. Meng, and T.E. Ferrin. 2004. UCSF Chimera-a visualization system for exploratory research and analysis.Journal of computational chemistry25, 13 (2004), 1605--1612.",
+                "DOI": "10.1002/jcc.20084",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-32",
+                "unstructured": "J. Rapp and V.K. Goyal. 2017. A few photons among many: Unmixing signal and noise for photon-efficient active imaging.IEEE Trans. Computat. Imaging3 (2017), 445--459. Issue 3."
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-33",
+                "unstructured": "D. Renker. 2006. Geiger-mode avalanche photodiodes, history, properties and problems.Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment567, 1 (2006), 48--56.",
+                "DOI": "10.1016/j.nima.2006.05.060",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-34",
+                "unstructured": "D. Scharstein and C. Pal. 2007. Learning conditional random fields for stereo. InProc. CVPR.1--8.",
+                "DOI": "10.1109/CVPR.2007.383191",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-35",
+                "unstructured": "D. Shin, A. Kirmani, V.K. Goyal, and J.H. Shapiro. 2015. Photon-efficient computational 3-D and reflectivity imaging with single-photon detectors.IEEE Trans. Computat. Imaging1, 2 (2015), 112--125.",
+                "DOI": "10.1109/TCI.2015.2453093",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-36",
+                "unstructured": "D. Shin, F. Xu, D. Venkatraman, R. Lussana, F. Villa, F. Zappa, V.K. Goyal, F.N.C. Wong, and J.H. Shapiro. 2016. Photon-efficient imaging with a single-photon camera.Nature Communications7 (2016).",
+                "DOI": "10.1364/COSI.2016.CW5D.4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-37",
+                "unstructured": "N. Silberman, D. Hoiem, P. Kohli, and R. Fergus. 2012. Indoor segmentation and support inference from RGBD images. InProc. ECCV.",
+                "DOI": "10.1007/978-3-642-33715-4_54",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-38",
+                "unstructured": "S. Su, F. Heide, G. Wetzstein, and W. Heidrich. 2018. Deep end-to-end time-of-flight imaging. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2018.00668",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-39",
+                "unstructured": "R. Tobin, A. Halimi, A. McCarthy, X. Ren, K.J. McEwan, S. McLaughlin, and G.S. Buller, 2017. Long-range depth profiling of camouflaged targets using single-photon detection.Optical Engineering57 (2017).",
+                "DOI": "10.1117/1.OE.57.3.031303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201316-40",
+                "unstructured": "Q. Yang, R. Yang, J. Davis, and D. Nist&#233;r. 2007. Spatial-depth super resolution for range images. InProc. CVPR.1--8.",
+                "DOI": "10.1109/CVPR.2007.383211",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201316&ftid=1991658&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:14Z",
+            "timestamp": 1571673314000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201316",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

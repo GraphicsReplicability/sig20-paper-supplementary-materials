@@ -1,0 +1,490 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410093
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201330",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Dexterous manipulation and control with volumetric muscles"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Seunghwan",
+                "family": "Lee",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Ri",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Jungnam",
+                "family": "Park",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Mridul",
+                "family": "Aanjaneya",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Rutgers University"
+                    }
+                ]
+            },
+            {
+                "given": "Eftychios",
+                "family": "Sifakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Wisconsin-Madison"
+                    }
+                ]
+            },
+            {
+                "given": "Jehee",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201330-1",
+                "unstructured": "Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, and Mark Pauly. 2014. Projective dynamics: fusing constraint projections for fast simulation.ACM Transactions on Graphics33, 4, Article 154 (2014).",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-2",
+                "unstructured": "Robert Bridson, Sebastian. Marino, and Ron Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation.28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-3",
+                "unstructured": "Steve Capell, Seth Green, Brian Curless, Tom Duchamp, and Zoran Popovi&#263;. 2002. Interactive Skeleton-driven Dynamic Deformations.ACM Transactions on Graphics21, 3 (2002), 586--593.",
+                "DOI": "10.1145/566654.566622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-4",
+                "unstructured": "Stelian Coros, Sebastian Martin, Bernhard Thomaszewski, Christian Schumacher, Robert Sumner, and Markus Gross. 2012. Deformable objects alive!ACM Transactions on Graphics31, 4, Article 69 (2012).",
+                "DOI": "10.1145/2185520.2185565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-5",
+                "unstructured": "Ana Lucia Cruz Ruiz, Charles Pontonnier, Nicolas Pronost, and Georges Dumont. 2017. Muscle-Based Control for Character Animation.Computer Graphics Forum36, 6 (2017), 122--147.",
+                "DOI": "10.1111/cgf.12863",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-6",
+                "unstructured": "Michael Damsgaard, John Rasmussen, S&#195;&#255;ren T. Christensen, Egidijus Surma, and Mark D. Zee. 2006. Analysis of musculoskeletal systems in the AnyBody Modeling System.Simulation Modelling Practice and Theory14, 8 (2006), 1100 -- 1111.",
+                "DOI": "10.1016/j.simpat.2006.09.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-7",
+                "unstructured": "Scott L. Delp, Frank C. Anderson, Anderson S. Arnold, Peter Loan, Ayman Habib, T. John, Eran Guendelman, and Darryl G. Thelen. 2007. OpenSim: Open-Source Software to Create and Analyze Dynamic Simulations of Movement.IEEE Transactions on Biomedical Engineering54, 11 (2007), 1940--1950.",
+                "DOI": "10.1109/TBME.2007.901024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-8",
+                "unstructured": "Ye Fan, Joshua Litven, and Dinesh K Pai. 2014. Active volumetric musculoskeletal systems.ACM Transactions on Graphics33, 4, Article 152 (2014).",
+                "DOI": "10.1145/2601097.2601215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-9",
+                "unstructured": "Fran&#231;ois Faure, Christian Duriez, Herv&#233; Delingette, J&#233;r&#233;mie Allard, Benjamin Gilles, St&#233;phanie Marchesseau, Hugo Talbot, Hadrien Courtecuisse, Guillaume Bousquet, Igor Peterlik, and St&#233;phane Cotin. 2012. SOFA: A Multi-Model Framework for Interactive Physical Simulation. InSoft Tissue Biomechanical Modeling for Computer Assisted Surgery.Studies in Mechanobiology, Tissue Engineering and Biomaterials, Vol. 11. 283--321.",
+                "DOI": "10.1007/8415_2012_125",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-10",
+                "unstructured": "Thomas Geijtenbeek, Michiel van de Panne, and A. Frank van der Stappen. 2013. Flexible Muscle-based Locomotion for Bipedal Creatures.ACM Transactions on Graphics32, 6, Article 206 (2013).",
+                "DOI": "10.1145/2508363.2508399",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-11",
+                "unstructured": "Alexandru-Eugen Ichim, Petr Kadle&#269;ek, Ladislav Kavan, and Mark Pauly. 2017. Phace: physics-based face modeling and animation.ACM Transactions on Graphics36, 4, Article 153 (2017).",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-12",
+                "unstructured": "Petr Kadle&#269;ek, Alexandru-Eugen Ichim, Tiantian Liu, Jaroslav K&#345;iv&#225;nek, and Ladislav Kavan. 2016. Reconstructing personalized anatomical models for physics-based body animation.ACM Transactions on Graphics35, 6, Article 213 (2016).",
+                "DOI": "10.1145/2980179.2982438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-13",
+                "unstructured": "Meekyoung Kim, Gerard Pons-Moll, Sergi Pujades, Seungbae Bang, Jinwook Kim, Michael J. Black, and Sung-Hee Lee. 2017. Data-driven Physics for Human Soft Tissue Animation.ACM Transactions on Graphics36, 4, Article 54 (2017), 54:1--54:12 pages.",
+                "DOI": "10.1145/3072959.3073685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-14",
+                "unstructured": "Yeara Kozlov, Derek Bradley, Moritz B&#228;cher, Bernhard Thomaszewski, Thabo Beeler, and Markus Gross. 2017. Enriching Facial Blendshape Rigs with Physical Simulation.Computer Graphics Forum36, 2 (2017), 75--84.",
+                "DOI": "10.1111/cgf.13108",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-15",
+                "unstructured": "Jeongseok Lee, Michael X. Grey, Sehoon Ha, Tobias Kunz, Sumit Jain, Yuting Ye, Siddhartha S. Srinivasa, Mike Stilman, and C. Karen Liu. 2018. DART: Dynamic Animation and Robotics Toolkit.The Journal of Open Source Software3, 22 (2018), 500."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-16",
+                "unstructured": "Sunghee Lee, Eftychios Sifakis, and Demetri Terzopoulos. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Transactions on Graphics28, 4, Article 99 (2009).",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-17",
+                "unstructured": "Sung Hee Lee and Demetri Terzopoulos. 2006. Heads Up!: Biomechanical Modeling and Neuromuscular Control of the Neck.ACM Transactions on Graphics25, 3 (2006), 1188--1198.",
+                "DOI": "10.1145/1141911.1142013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-18",
+                "unstructured": "Yoonsang Lee, Kyungho Lee, Soon-Sun Kwon, Jiwon Jeong, Carol O'Sullivan, Moon Seok Park, and Jehee Lee. 2015. Push-Recovery Stability of Biped Locomotion.ACM Transactions on Graphics34, 6 (2015).",
+                "DOI": "10.1145/2816795.2818124",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-19",
+                "unstructured": "Yoonsang Lee, Moon Seok Park, Taesoo Kwon, and Jehee Lee. 2014. Locomotion control for many-muscle humanoids.ACM Transactions on Graphics33, 6, Article 218 (2014).",
+                "DOI": "10.1145/2661229.2661233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-20",
+                "unstructured": "C. Karen Liu. 2008. Synthesis of Interactive Hand Manipulation. InProceedings of the ACMSIGGRAPH/Eurographics Symposium on Computer Animation.163--171."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-21",
+                "unstructured": "Libin Liu, KangKang Yin, Bin Wang, and Baining Guo. 2013. Simulation and Control of Skeleton-driven Soft Body Characters.ACM Transactions on Graphics32, 6, Article 215 (2013), 8 pages.",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-22",
+                "unstructured": "Tiantian Liu, Sofien Bouaziz, and Ladislav Kavan. 2017. Quasi-Newton Methods for Real-Time Simulation of Hyperplastic Materials.ACM Transactions on Graphics36, 3, Article 23 (2017).",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-23",
+                "unstructured": "John E. Lloyd, Ian Stavness, and Sidney Fels. 2012. ARTISYNTH: a fast interactive biomechanical modeling toolkit combining multibody and finite element simulation. (2012).",
+                "DOI": "10.1007/8415_2012_126",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-24",
+                "unstructured": "Richard Malgat, Benjamin Gilles, David IW Levin, Matthieu Nesme, and Fran&#231;ois Faure. 2015. Multifarious hierarchies of mechanical models for artist assigned levels-of-detail. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation.27--36.",
+                "DOI": "10.1145/2786784.2786800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-25",
+                "unstructured": "Nathan Mitchell, Mridul Aanjaneya, Rajsekhar Setaluri, and Eftychios Sifakis. 2015a. Non-manifold level sets: A multivalued implicit surface representation with applications to self-collision processing.ACM Transactions on Graphics34, 6, Article 247 (2015).",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-26",
+                "unstructured": "Nathan Mitchell, Eftychios Sifakis, et al. 2015b. GRIDiron: An interactive authoring and cognitive training foundation for reconstructive plastic surgery procedures.ACM Transactions on Graphics34, 4, Article 43 (2015).",
+                "DOI": "10.1145/2766918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-27",
+                "unstructured": "Akihiko Murai, Q Youn Hong, Katsu Yamane, and Jessica K Hodgins. 2017. Dynamic skin deformation simulation using musculoskeletal model and soft tissue dynamics.Computational Visual Media3, 1 (2017), 49--60.",
+                "DOI": "10.1007/s41095-016-0065-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-28",
+                "unstructured": "Taylor Patterson, Nathan Mitchell, and Eftychios Sifakis. 2012. Simulation of complex nonlinear elastic bodies using lattice deformers.ACM Transactions on Graphics31, 6, Article 197 (2012).",
+                "DOI": "10.1145/2366145.2366216",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-29",
+                "unstructured": "Xue Bin Peng, Glen Berseth, KangKang Yin, and Michiel Van De Panne. 2017. Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.ACM Transactions on Graphics36, 4, Article 41 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-30",
+                "unstructured": "Burkard Polster. 2003.The Mathematics of Juggling."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-31",
+                "unstructured": "Gerard Pons-Moll, Javier Romero, Naureen Mahmood, and Michael J Black. 2015. Dyna: A model of dynamic human shape in motion.ACM Transactions on Graphics34, 4, Article 120 (2015).",
+                "DOI": "10.1145/2766993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-32",
+                "unstructured": "HJ Ralston. 1976. Energetics of human walking. InNeural control of locomotion.77--98.",
+                "DOI": "10.1007/978-1-4757-0964-3_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-33",
+                "unstructured": "Prashant Sachdeva, Shinjiro Sueda, Susanne Bradley, Mikhail Fain, and Dinesh K Pai. 2015. Biomechanical simulation and control of hands and tendinous systems.ACM Transactions on Graphics34, 4, Article 42 (2015).",
+                "DOI": "10.1145/2766987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-34",
+                "unstructured": "Shunsuke Saito, Zi-Ye Zhou, and Ladislav Kavan. 2015. Computational bodybuilding: Anatomically-based modeling of human bodies.ACM Transactions on Graphics34, 4, Article 41 (2015).",
+                "DOI": "10.1145/2766957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-35",
+                "unstructured": "Weiguang Si, Sung-Hee Lee, Eftychios Sifakis, and Demetri Terzopoulos. 2014. Realistic biomechanical simulation and control of human swimming.ACM Transactions on Graphics34, 1, Article 10 (2014).",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-36",
+                "unstructured": "Eftychios Sifakis and Jernej Barbic. 2012. FEM simulation of3D deformable solids: a practitioner's guide to theory, discretization and model reduction. InACM SIGGRAPH 2012 Courses.20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-37",
+                "unstructured": "Eftychios Sifakis, Igor Neverov, and Ronald Fedkiw. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data.ACM Transactions on Graphics24, 3 (2005).",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-38",
+                "unstructured": "Ian Stavness, Alan G Hannam, John E Lloyd, and Sidney Fels. 2010. Predicting muscle patterns for hemimandibulectomy models. (2010), 483--91."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-39",
+                "unstructured": "Julien Stelletta, Rapha&#235;l Dumas, and Yoann Lafon. 2017. Modeling of the thigh: a 3D deformable approach considering muscle interactions. InBiomechanics of Living Organs.497--521.",
+                "DOI": "10.1016/B978-0-12-804009-6.00023-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-40",
+                "unstructured": "Shinjiro Sueda, Andrew Kaufman, and Dinesh K. Pai. 2008. Musculotendon Simulation for Hand Animation.ACM Transactions on Graphics27, 3, Article 83 (2008), 8 pages.",
+                "DOI": "10.1145/1360612.1360682",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-41",
+                "unstructured": "Jie Tan, Greg Turk, and C Karen Liu. 2012. Soft body locomotion.ACM Transactions on Graphics31, 4, Article 26 (2012).",
+                "DOI": "10.1145/2185520.2185522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-42",
+                "unstructured": "Joseph Teran, Sylvia S Blemker, Victor Ng-Thow-Hing, and Ronald Fedkiw. 2003. Finite volume methods for the simulation of skeletal muscle. InProceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation.68--74."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-43",
+                "unstructured": "Joseph Teran, Eftychios Sifakis, Silvia S Blemker, Victor Ng-Thow-Hing, Cynthia Lau, and Ronald Fedkiw. 2005a. Creating and simulating skeletal muscle from the visible human data set.IEEE Transactions on Visualization and Computer Graphics11, 3 (2005), 317--328.",
+                "DOI": "10.1109/TVCG.2005.42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-44",
+                "unstructured": "Joseph Teran, Eftychios Sifakis, Geoffrey Irving, and Ronald Fedkiw. 2005b. Robust quasistatic finite elements and flesh simulation. InProceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation.181--190.",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-45",
+                "unstructured": "Darryl G Thelen et al. 2003. Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults.Transactions-American Society Of Mechanical Engineers Journal Of Biomechanical Engineering125, 1 (2003), 70--77."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-46",
+                "unstructured": "Andreas Wachter and Lorenz T. Biegler. 2006. On the Implementation of an Interior-point Filter Line-search Algorithm for Large-scale Nonlinear Programming.Math. Program.106, 1 (2006), 25--57.",
+                "DOI": "10.1007/s10107-004-0559-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-47",
+                "unstructured": "Jack M. Wang, Samuel R. Hamner, Scott L. Delp, and Vladlen Koltun. 2012. Optimizing Locomotion Controllers Using Biologically-based Actuators and Objectives.ACM Transactions on Graphics31, 4, Article 25 (2012).",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-48",
+                "unstructured": "Jungdam Won, Jongho Park, Kwanyu Kim, and Jehee Lee. 2017. How to train your dragon: example-guided control of flapping flight.ACM Transactions on Graphics36, 6, Article 198 (2017).",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-49",
+                "unstructured": "Hongyi Xu and Jernej Barbi&#269;. 2016. Pose-space Subspace Dynamics.ACM Transactions on Graphics35, 4, Article 35 (2016), 14 pages.",
+                "DOI": "10.1145/2897824.2925916",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-50",
+                "unstructured": "Felix E Zajac. 1989. Muscle and tendon Properties models scaling and application to biomechanics and motor.Critical reviews in biomedical engineering17, 4 (1989), 359--411."
+            },
+            {
+                "key": "key-10.1145/3197517.3201330-51",
+                "unstructured": "Lifeng Zhu, Xiaoyan Hu, and Ladislav Kavan. 2015. Adaptable anatomical models for realistic bone motion reconstruction.Computer Graphics Forum34, 2 (2015), 459--471.",
+                "DOI": "10.1111/cgf.12575",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201330&ftid=1991585&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:46:24Z",
+            "timestamp": 1571672784000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201330",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813418
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSFC",
+                "award": [
+                    "61272392, 61322204, 61272298, 61328204"
+                ]
+            },
+            {
+                "name": "State Key Lab of CAD&#38;CG(A1307)",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "EIA-0196217"
+                ]
+            },
+            {
+                "name": "National High-tech R&#38;D Program of China",
+                "award": [
+                    "2012AA011503"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601136",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Sensitivity-optimized rigging for example-based real-time clothing synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Weiwei",
+                "family": "Xu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Nobuyuki",
+                "family": "Umentani",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Qianwen",
+                "family": "Chao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jie",
+                "family": "Mao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xiaogang",
+                "family": "Jin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xin",
+                "family": "Tong",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601136-1",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. SCAPE: Shape completion and animation of people.ACM Trans. Graph. 24, 3, 408--416.",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-2",
+                "unstructured": "Baran, I., and Popovi&#263;, J. 2007. Automatic rigging and animation of 3d characters.ACM Trans. Graph. 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-3",
+                "unstructured": "Bergou, M., Mathur, S., Wardetzky, M., and Grinspun, E. 2007. TRACKS: toward directable thin shells.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-4",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Trans. Graph. 29, 4, 63:1--63:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-5",
+                "unstructured": "Bridson, R., Fedkiw, R., and Anderson, J. 2002. Robust treatment of collisions, contact and friction for cloth animation.ACM Trans. Graph. 21, 3, 594--603.",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-6",
+                "unstructured": "Carr, J. C., Beatson, R. K., Cherrie, J. B., Mitchell, T. J., Fright, W. R., McCallum, B. C., and Evans, T. R. 2001. Reconstruction and representation of 3D objects with radial basis functions. InProc. of the 28th annual conference on Computer graphics and interactive techniques, SIGGRAPH '01, 67--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-7",
+                "unstructured": "Chen, Z., Feng, R., and Wang, H. 2013. Modeling friction and air effects between cloth and deformable bodies.ACM Trans. Graph. 32, 4, 88:1--88:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-8",
+                "unstructured": "Choi, K.-J., and Ko, H.-S. 2002. Stable but responsive cloth.ACM Trans. Graph. 21, 3, 604--611.",
+                "DOI": "10.1145/566654.566624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-9",
+                "unstructured": "Choi, K.-J., and Ko, H.-S. 2005. Research problems in clothing simulation.Computer-Aided Design 37, 6, 585--592.",
+                "DOI": "10.1016/j.cad.2004.11.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-10",
+                "unstructured": "CMU, 2003. CMU graphics lab motion capture database. http://mocap.cs.cmu.edu."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-11",
+                "unstructured": "Cordier, F., and Magnenat-Thalmann, N. 2004. A data-driven approach for real-time clothes simulation. InComputer Graphics and Applications, 2004. PG 2004. Proceedings. 12th Pacific Conference on, 257--266."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-12",
+                "unstructured": "de Aguiar, E., Sigal, L., Treuille, A., and Hodgins, J. K. 2010. Stable spaces for real-time clothing.ACM Trans. Graph. 29, 106:1--106:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-13",
+                "unstructured": "Derouet-Jourdan, A., Bertails-Descoubes, F., and Thollot, J. 2010. Stable inverse dynamic curves.ACM Trans. Graph. 29, 6, 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-14",
+                "unstructured": "Digest, R. 2010.The New Complete Guide to Sewing: Step-by-Step Techniques for Making Clothes and Home Accessories Updated Edition with All-New Projects and Simplicity Patterns (Reader's Digest). Readers Digest."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-15",
+                "unstructured": "English, E., and Bridson, R. 2008. Animating developable surfaces using nonconforming elements.ACM Trans. Graph. 27, 3, 66:1--66:5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-16",
+                "unstructured": "Feng, W.-W., Yu, Y., and Kim, B.-U. 2010. A deformation transformer for real-time cloth animation.ACM Trans. Graph. 29, 4, 108:1--108:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-17",
+                "unstructured": "Gallagher, R. H. 1973.Optimum Structural Design: Theory and Applications. John Wiley &#38; Sons Inc."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-18",
+                "unstructured": "Govindaraju, N. K., Knott, D., Jain, N., Kabul, I., Tamstorf, R., Gayle, R., Lin, M. C., and Manocha, D. 2005. Interactive collision detection between deformable models using chromatic decomposition.ACM Trans. Graph. 24, 3, 991--999.",
+                "DOI": "10.1145/1073204.1073301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-19",
+                "unstructured": "Grinspun, E., Hirani, A. N., Desbrun, M., and Schr&#246;der, P. 2003. Discrete shells. InProc. of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, SCA '03, 62--67."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-20",
+                "unstructured": "Guan, P., Reiss, L., Hirshberg, D. A., Weiss, A., and Black, M. J. 2012. DRAPE: Dressing any person.ACM Trans. Graph. 31, 4, 35:1--35:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-21",
+                "unstructured": "Harmon, D., Vouga, E., Tamstorf, R., and Grinspun, E. 2008. Robust treatment of simultaneous collisions.ACM Trans. Graph. 27, 3, 23:1--23:4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-22",
+                "unstructured": "James, D. L., and Fatahalian, K. 2003. Precomputing interactive dynamic deformable scenes.ACM Trans. Graph. 22, 3, 879--887.",
+                "DOI": "10.1145/882262.882359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-23",
+                "unstructured": "Kaldor, J. M., James, D. L., and Marschner, S. 2008. Simulating knitted cloth at the yarn level.ACM Trans. Graph. 27, 3, 65:1--65:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-24",
+                "unstructured": "Kavan, L., Collins, S., &#381;&#225;ra, J., and O'Sullivan, C. 2008. Geometric skinning with approximate dual quaternion blending.ACM Trans. Graph. 27, 4, 105:1--105:23."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-25",
+                "unstructured": "Kavan, L., Gerszewski, D., Bargteil, A. W., and Sloan, P.-P. 2011. Physics-inspired upsampling for cloth simulation in games.ACM Trans. Graph. 30, 4, 93:1--93:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-26",
+                "unstructured": "Kim, T.-Y., and Vendrovsky, E. 2008. Drivenshape: a data-driven approach for shape deformation. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '08, 49--55."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-27",
+                "unstructured": "Kim, D., Koh, W., Narain, R., Fatahalian, K., Treuille, A., and O'Brien, J. F. 2013. Near-exhaustive precomputation of secondary cloth effects.ACM Trans. Graph. 32, 4, 87:1--87:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-28",
+                "unstructured": "Kry, P. G., James, D. L., and Pai, D. K. 2002. Eigenskin: Real time large deformation character skinning in hardware. InIn ACM SIGGRAPH Symposium on Computer Animation, ACM Press, 153--159."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-29",
+                "unstructured": "Lewis, J. P., Cordner, M., and Fong, N. 2000. Pose space deformation: A unified approach to shape interpolation and skeleton-driven deformation. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, SIGGRAPH '00, 165--172."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-30",
+                "unstructured": "Merrell, P., Schkufza, E., Li, Z., Agrawala, M., and Koltun, V. 2011. Interactive furniture layout using interior design guidelines.ACM Trans. Graph. 30, 4, 87:1--87:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-31",
+                "unstructured": "Miguel, E., Tamstorf, R., Bradley, D., Schvartzman, S. C., Thomaszewski, B., Bickel, B., Matusik, W., Marschner, S., and Otaduy, M. A. 2013. Modeling and estimation of internal friction in cloth.ACM Trans. Graph. 32, 6, 212:1--212:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-32",
+                "unstructured": "M&#252;ller, M., and Chentanez, N. 2010. Wrinkle meshes. InProceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '10, 85--92."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-33",
+                "unstructured": "M&#252;ller, M., Heidelberger, B., Hennix, M., and Ratcliff, J. 2007. Position based dynamics.Journal of Visual Communication and Image Representation 18, 2, 109--118."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-34",
+                "unstructured": "Narain, R., Samii, A., and O'Brien, J. F. 2012. Adaptive anisotropic remeshing for cloth simulation.ACM Trans. Graph. 31, 6, 152:1--152:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-35",
+                "unstructured": "Nealen, A., M&#252;ller, M., Keiser, R., Boxerman, E., and Carlson, M. 2006. Physically based deformable models in computer graphics.Computer Graphics Forum 25, 4, 809--836."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-36",
+                "unstructured": "Press, W. H., Teukolsky, S. A., Vetterling, W. T., and Flannery, B. P. 2007.Numerical Recipes 3rd Edition: The Art of Scientific Computing, 3 ed. Cambridge University Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-37",
+                "unstructured": "Rohmer, D., Popa, T., Cani, M.-P., Hahmann, S., and Sheffer, A. 2010. Animation wrinkling: Augmenting coarse cloth simulations with realistic-looking wrinkles.ACM Trans. Graph. 29, 6, 157:1--157:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-38",
+                "unstructured": "Umetani, N., Kaufman, D. M., Igarashi, T., and Grinspun, E. 2011. Sensitive couture for interactive garment modeling and editing.ACM Trans. Graph. 30, 4, 90:1--90:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-39",
+                "unstructured": "Umetani, N., Igarashi, T., and Mitra, N. J. 2012. Guided exploration of physically valid shapes for furniture design.ACM Trans. Graph. 31, 4, 86:1--86:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-40",
+                "unstructured": "Volino, P., Magnenat-Thalmann, N., and Faure, F. 2009. A simple approach to nonlinear tensile stiffness for accurate cloth simulation.ACM Trans. Graph. 28, 4, 105:1--105:16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-41",
+                "unstructured": "Wang, X. C., and Phillips, C. 2002. Multi-weight enveloping: Least-squares approximation techniques for skin animation. InProceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '02, 129--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-42",
+                "unstructured": "Wang, R. Y., Pulli, K., and Popovi&#263;, J. 2007. Real-time enveloping with rotational regression.ACM Trans. Graph. 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-43",
+                "unstructured": "Wang, H., Hecht, F., Ramamoorthi, R., and O'Brien, J. 2010. Example-based wrinkle synthesis for clothing animation.ACM Trans. Graph. 29, 4, 107:1--107:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-44",
+                "unstructured": "Weber, O., Sorkine, O., Lipman, Y., and Gotsman, C. 2007. Context-aware skeletal shape deformation.Computer Graphics Forum (Proc. of EUROGRAPHICS) 26, 3, 265--273."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-45",
+                "unstructured": "Whiting, E., Shin, H., Wang, R., Ochsendorf, J., and Durand, F. 2012. Structural optimization of 3d masonry buildings.ACM Trans. Graph. 31, 6, 159:1--159:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-46",
+                "unstructured": "Zheng, C., and James, D. L. 2012. Energy-based self-collision culling for arbitrary mesh deformations.ACM Trans. Graph. 31, 4, 98:1--98:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601136-47",
+                "unstructured": "Zurdo, J., Brito, J., and Otaduy, M. 2013. Animating wrinkles by example on non-skinned cloth.Visualization and Computer Graphics, IEEE Transactions on 19, 1, 149--158."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601136&amp;ftid=1488915&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:00Z",
+            "timestamp": 1498151280000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601136",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

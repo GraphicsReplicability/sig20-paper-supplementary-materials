@@ -1,0 +1,107 @@
+{
+    "Timestamp": "1/22/2020 16:51:33",
+    "Title": "Deep exemplar-based colorization",
+    "DOI": "10.1145/3197517.3201365",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://arxiv.org/abs/1807.06587",
+    "code URL": "https://github.com/msracver/Deep-Exemplar-based-Colorization",
+    "code URL  2": "",
+    "PDF URL": "http://www.dongdongchen.bid/pubs/colorization_sig18.pdf",
+    "License type": "MIT",
+    "Build mechanism": "IDE Project (VS,..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Neural networks",
+    "ACM 3": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "As reviewer 1, I could not build the provided Visual Studio solution (see details of my attemp below).\nHowever, it appears that the code is shipped with precompiled demos I didn't find at the first look.\nBefore running the demo, I had to install the following dependencies (tested with Python 3.6):\n>pip install image opencv-python scikit-image\nThen, to install pytorch, I followed the instructions given at https://pytorch.org/get-started/locally/, for me it was\n>pip install torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html\n\nThen you need to download and put the data as described here: https://github.com/msracver/Deep-Exemplar-based-Colorization#download-models\n\nAnd then simply run the script demo\\run.bat. It should output two colored images in demo\\examples\\res\\.\n\nCompilation attempt:\n=================\nI could however compile caffe and other dependencies using CK (https://codereef.ai/portal/c/032630d041b4fd8a:7d5e081bda47dcbc/), namely opencv, boost, gflags, glogs, hd5f, lmbd and protobuf. I had to install precompiled version of \n\n\n---- Review 2 -----\nCould not test on Windows because Caffe is unavailable for VS2017. I spent multiple hours trying to compile Caffe with VS2017, but stopped after compiling the 13th dependency, ATLAS, that compiles unix-style with cygwin. Pre-built binaries *may* be found for VS2015. Caffe is not maintained as of 2019.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 29,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "zlib / Caffe / protobuf / protoc / boost / Glog / HDF5 / LMDB / Gflags / levelDB / Snappy / Cuda / CudNN / OpenCV / ATLAS / PyTorch / cuda",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Mingming",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Hong Kong UST"
+                }
+            ]
+        },
+        {
+            "given": "Dongdong",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Jing",
+            "family": "Liao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Pedro V.",
+            "family": "Sander",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Hong Kong UST"
+                }
+            ]
+        },
+        {
+            "given": "Lu",
+            "family": "Yuan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

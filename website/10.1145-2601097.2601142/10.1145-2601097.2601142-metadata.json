@@ -1,0 +1,450 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410027
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006461",
+                "name": "Citi Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "307754"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1284/12, 764/10"
+                ]
+            },
+            {
+                "name": "I-CORE program of the Israel PBC and ISF",
+                "award": [
+                    "4/11"
+                ]
+            },
+            {
+                "name": "U.S.-Israel Binational Science Foundation",
+                "award": [
+                    "331/10"
+                ]
+            },
+            {
+                "name": "Israeli Ministry of Science",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601142",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "Controlling singular values with semidefinite programming"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Shahar Z.",
+                "family": "Kovalsky",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Noam",
+                "family": "Aigerman",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ronen",
+                "family": "Basri",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601142-1",
+                "unstructured": "Aigerman, N., and Lipman, Y. 2013. Injective and bounded distortion mappings in 3d.ACM Trans. Graph. 32, 4, 106--120.",
+                "DOI": "10.1145/2461912.2461931",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-2",
+                "unstructured": "Alexa, M., Cohen-Or, D., and Levin, D. 2000. As-rigid-as-possible shape interpolation. Proc. SIGGRAPH, 157--164.",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-3",
+                "unstructured": "Alexa, M. 2002. Linear combination of transformations.ACM Trans. Graph. 21, 3 (July), 380--387."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-4",
+                "unstructured": "Allen, B., Curless, B., and Popovi&#263;, Z. 2003. The space of human body shapes: Reconstruction and parameterization from range scans.ACM Trans. Graph. 22, 3 (July), 587--594."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-5",
+                "unstructured": "Andersen, E. D., and Andersen, K. D. 1999.The MOSEK interior point optimization for linear programming: an implementation of the homogeneous algorithm. Kluwer Academic Publishers, 197--232."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-6",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. Scape: Shape completion and animation of people.ACM Trans. Graph. 24, 3 (July), 408--416."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-7",
+                "unstructured": "Besl, P. J., and McKay, N. D. 1992. A method for registration of 3-d shapes.IEEE Trans. Pattern Anal. Mach. Intell. 14, 2 (Feb.), 239--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-8",
+                "unstructured": "Bommes, D., Campen, M., Ebke, H.-C., Alliez, P., and Kobbelt, L. 2013. Integer-grid maps for reliable quad meshing.ACM Trans. Graph. 32, 4 (July), 98:1--98:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-9",
+                "unstructured": "Boyd, S., and Vandenberghe, L. 2004.Convex Optimization. Cambridge University Press, New York, NY, USA.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-10",
+                "unstructured": "Boyer, D. M., Lipman, Y., St. Clair, E., Puente, J., Patel, B. A., Funkhouser, T., Jernvall, J., and Daubechies, I. 2011. Algorithms to automatically quantify the geometric similarity of anatomical surfaces.Proceedings of the National Academy of Sciences 108, 45, 18221--18226.",
+                "DOI": "10.1073/pnas.1112822108",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-11",
+                "unstructured": "Brown, B. J., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3-d scans.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-12",
+                "unstructured": "Cand&#232;s, E. J., and Recht, B. 2009. Exact matrix completion via convex optimization.Foundations of Computational mathematics 9, 6, 717--772."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-13",
+                "unstructured": "Chao, I., Pinkall, U., Sanan, P., and Schr&#246;der, P. 2010. A simple geometric model for elastic deformations.ACM Trans. Graph. 29, 4, 38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-14",
+                "unstructured": "Ecker, A., Jepson, A. D., and Kutulakos, K. N. 2008. Semidefinite programming heuristics for surface reconstruction ambiguities. InECCV 2008. Springer, 127--140.",
+                "DOI": "10.1007/978-3-540-88682-2_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-15",
+                "unstructured": "Floater, M. S., and Hormann, K. 2005. Surface parameterization: a tutorial and survey. InAdvances in Multiresolution for Geometric Modelling, Springer, 157--186.",
+                "DOI": "10.1007/3-540-26808-1_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-16",
+                "unstructured": "Freitag, L. A., and Knupp, P. M. 2002. Tetrahedral mesh improvement via optimization of the element condition number.International Journal for Numerical Methods in Engineering 53, 6, 1377--1391.",
+                "DOI": "10.1002/nme.341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-17",
+                "unstructured": "Giorgi, D., Biasotti, S., and Paraboschi, L., 2007. Shape retrieval contest 2007: Watertight models track.",
+                "DOI": "10.1109/SMI.2008.4547975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-18",
+                "unstructured": "Goemans, M. X., and Williamson, D. P. 1995. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming.J. ACM 42, 6 (Nov.), 1115--1145."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-19",
+                "unstructured": "Hernandez, F., Cirio, G., Perez, A. G., and Otaduy, M. A. 2013. Anisotropic strain limiting. InProc. of Congreso Espa&#241;ol de Inform&#225;tica Gr&#225;fica."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-20",
+                "unstructured": "Hormann, K., and Greiner, G. 2000. MIPS: An efficient global parametrization method. InCurve and Surface Design: Saint-Malo 1999. Vanderbilt University Press, 153--162."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-21",
+                "unstructured": "Hormann, K., L&#233;vy, B., and Sheffer, A. 2007. Mesh parameterization: Theory and practice. InACM SIGGRAPH 2007 Courses, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-22",
+                "unstructured": "Huang, Q., and Guibas, L. 2013. Consistent shape maps via semidefinite programming.Proc. Eurographics Symposium on Geometry Processing 32, 5, 177--186."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-23",
+                "unstructured": "Huang, Q.-X., Adams, B., Wicke, M., and Guibas, L. J. 2008. Non-rigid registration under isometric deformations. InProc. Eurographics Symposium on Geometry Processing, 1449--1457."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-24",
+                "unstructured": "Igarashi, T., Moscovich, T., and Hughes, J. F. 2005. As-rigid-as-possible shape manipulation.ACM Trans. Graph. 24, 3 (July), 1134--1141."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-25",
+                "unstructured": "Jeuris, B., Vandebril, R., and Vandereycken, B. 2012. A survey and comparison of contemporary algorithms for computing the matrix geometric mean.Electronic Transactions on Numerical Analysis 39, 379--402."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-26",
+                "unstructured": "Karcher, H. 1977. Riemannian center of mass and mollifier smoothing.Comm. pure and applied mathematics 30, 5, 509--541."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-27",
+                "unstructured": "Kiwiel, K. 1986. A linearization algorithm for optimizing control systems subject to singular value inequalities.IEEE Transactions on Automatic Control 31, 7, 595--603.",
+                "DOI": "10.1109/TAC.1986.1104345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-28",
+                "unstructured": "L&#233;vy, B., Petitjean, S., Ray, N., and Maillot, J. 2002. Least squares conformal maps for automatic texture atlas generation.ACM Trans. Graph. 21, 3 (July), 362--371."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-29",
+                "unstructured": "Li, H., Sumner, R. W., and Pauly, M. 2008. Global correspondence optimization for non-rigid registration of depth scans.Proc. Eurographics Symposium on Geometry Processing 27, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-30",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Trans. Graph. 31, 4, 108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-31",
+                "unstructured": "Lipman, Y. 2014. Bijective mappings of meshes with boundary and the degree in mesh processing.SIAM J. Imaging Sci., to appear.",
+                "DOI": "10.1137/130939754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-32",
+                "unstructured": "Liu, L., Zhang, L., Xu, Y., Gotsman, C., and Gortler, S. J. 2008. A local/global approach to mesh parameterization.Proc. Eurographics Symposium on Geometry Processing 27, 5, 1495--1504."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-33",
+                "unstructured": "L&#246;fberg, J. 2004. Yalmip: A toolbox for modeling and optimization in MATLAB. InProceedings of the CACSD Conference."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-34",
+                "unstructured": "Lu, Z., and Pong, T. K. 2011. Minimizing condition number via convex programming.SIAM J. Matrix Analysis Applications 32, 4, 1193--1211.",
+                "DOI": "10.1137/100795097",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-35",
+                "unstructured": "Mar&#233;chal, P., and Ye, J. J. 2009. Optimizing condition numbers.SIAM Journal on Optimization 20, 2, 935--947."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-36",
+                "unstructured": "Paill&#233;, G.-P., and Poulin, P. 2012. As-conformal-as-possible discrete volumetric mapping.Computers &#38; Graphics 36, 5, 427--433."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-37",
+                "unstructured": "Polak, E., and Wardi, Y. 1982. Nondifferentiable optimization algorithm for designing control systems having singular value inequalities.Automatica 18, 3, 267--283.",
+                "DOI": "10.1016/0005-1098(82)90087-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-38",
+                "unstructured": "Rentmeesters, Q., and Absil, P.-A. 2011. Algorithm comparison for karcher mean computation of rotation matrices and diffusion tensors. InProc. European Signal Processing Conference, EURASIP, 2229--2233."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-39",
+                "unstructured": "Rossignac, J., and Vinacua, A. 2011. Steady affine motions and morphs.ACM Trans. Graph. 30, 5 (Oct.), 116:1--116:16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-40",
+                "unstructured": "Rusinkiewicz, S., and Levoy, M. 2001. Efficient variants of the ICP algorithm. InInt. Conf. 3D Digital Imaging and Modeling."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-41",
+                "unstructured": "Sander, P. V., Snyder, J., Gortler, S. J., and Hoppe, H. 2001. Texture mapping progressive meshes. Proc. SIGGRAPH, 409--416."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-42",
+                "unstructured": "Sch&#252;ller, C., Kavan, L., Panozzo, D., and Sorkine-Hornung, O. 2013. Locally injective mappings.Proc. Eurographics Symposium on Geometry Processing 32, 5, 125--135."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-43",
+                "unstructured": "Shoemake, K. 1985. Animating rotation with quaternion curves.SIGGRAPH Comput. Graph. 19, 3 (July), 245--254."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-44",
+                "unstructured": "Singer, A. 2011. Angular synchronization by eigenvectors and semidefinite programming.Applied and Computational Harmonic Analysis 30, 1, 20--36.",
+                "DOI": "10.1016/j.acha.2010.02.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-45",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProc. Eurographics Symposium on Geometry Processing, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-46",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Goldenthal, R., and Lischinski, D. 2002. Bounded-distortion piecewise mesh parameterization. InProc. Conference on Visualization '02, VIS '02, 355--362."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-47",
+                "unstructured": "Sumner, R. W., Schmid, J., and Pauly, M. 2007. Embedded deformation for shape manipulation.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-48",
+                "unstructured": "Sun, J., Ovsjanikov, M., and Guibas, L. 2009. A concise and provably informative multi-scale signature based on heat diffusion. InProc. Eurographics Symposium on Geometry Processing, 1383--1392."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-49",
+                "unstructured": "Vandenberghe, L., and Boyd, S. 1994. Semidefinite programming.SIAM Review 38, 49--95.",
+                "DOI": "10.1137/1038003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-50",
+                "unstructured": "Wang, H., O'Brien, J., and Ramamoorthi, R. 2010. Multi-resolution isotropic strain limiting. InACM SIGGRAPH Asia 2010, 156:1--156:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-51",
+                "unstructured": "Weber, O., Myles, A., and Zorin, D. 2012. Computing extremal quasiconformal maps.Computer Graphics Forum 31, 5, 1679--1689.",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601142-52",
+                "unstructured": "Weinberger, K. Q., and Saul, L. K. 2009. Distance metric learning for large margin nearest neighbor classification.J. Mach. Learn. Res. 10(June), 207--244."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601142&amp;ftid=1488876&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:51Z",
+            "timestamp": 1565663691000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601142",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

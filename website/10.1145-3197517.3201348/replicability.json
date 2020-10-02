@@ -1,0 +1,115 @@
+{
+    "Timestamp": "1/21/2020 12:17:38",
+    "Title": "Robust optimization for topological surface reconstruction",
+    "DOI": "10.1145/3197517.3201348",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/roeelazar/cross_section_topology_3D_reconstruction",
+    "code URL  2": "",
+    "PDF URL": "http://www.wisdom.weizmann.ac.il/~ylipman/2018_topo.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 3,
+    "Documentation": "API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": 1,
+    "OS of the test": "Windows",
+    "General comments": "Need MatlabR2018 to check the code. Has dependencies with YALMIP (~OSS) and uses MOSEK for fast LP solvers which can be obtained free of charge for academic purpose (make sure to request the free licence).\nThe code runs very easily but does not produce a usable mesh (it outputs the chosen patches). It would be difficult to use in practice : the paper builds patches using \"level sets of a scalar function at a set of scalar levels chosen to yield different surface topologies\", but the corresponding code is not provided, so it would be hard to reproduce any result from the paper.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 4,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab / mosek / yalmip",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 2,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Roee",
+            "family": "Lazar",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Nadav",
+            "family": "Dym",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Yam",
+            "family": "Kushinsky",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Zhiyang",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Washington University in St. Louis"
+                }
+            ]
+        },
+        {
+            "given": "Tao",
+            "family": "Ju",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Washington University in St. Louis"
+                }
+            ]
+        },
+        {
+            "given": "Yaron",
+            "family": "Lipman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

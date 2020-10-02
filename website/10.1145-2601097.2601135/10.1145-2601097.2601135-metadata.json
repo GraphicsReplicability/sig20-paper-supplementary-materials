@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    18
+                ]
+            ],
+            "date-time": "2019-12-18T11:25:35Z",
+            "timestamp": 1576668335381
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100006280",
+                "name": "Ministerio de Ciencia y Tecnolog\u00eda",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "TIN2010-21543"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61327902, 61035002, 61120106003"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Gobierno de Aragon",
+                "award": []
+            },
+            {
+                "name": "863 Program",
+                "award": [
+                    "2013AA01A604"
+                ]
+            },
+            {
+                "name": "Beijing Key Laboratory of Multi-dimensional &#38; Multi-scale Computational Photography (MMCP)",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601135",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 36,
+        "title": [
+            "Intrinsic video and applications"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Genzhi",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Elena",
+                "family": "Garces",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yebin",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Qionghai",
+                "family": "Dai",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601135-1",
+                "unstructured": "Bai, X., Wang, J., Simons, D., and Sapiro, G. 2009. Video snapcut: robust video object cutout using localized classifiers.ACM Trans. Graph. (SIGGRAPH) 28, 3.",
+                "DOI": "10.1145/1531326.1531376",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-2",
+                "unstructured": "Bhat, P., Zitnick, C. L., Cohen, M., and Curless, B. 2010. Gradientshop: A gradient-domain optimization framework for image and video filtering.ACM Trans. Graph. 29, 2.",
+                "DOI": "10.1145/1731047.1731048",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-3",
+                "unstructured": "Bonneel, N., Sunkavalli, K., Paris, S., and Pfister, H. 2013. Example-based video color grading.ACM Trans. Graph. (SIGGRAPH) 32, 4.",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-4",
+                "unstructured": "Bousseau, A., Paris, S., and Durand, F. 2009. User-assisted intrinsic images.ACM Trans. Graph. (SIGGRAPH Asia) 28, 5, 130."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-5",
+                "unstructured": "Brox, T., Bruhn, A., Papenberg, N., and Weickert, J. 2004. High accuracy optical flow estimation based on a theory for warping. InProc. ECCV, Springer, 25--36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-6",
+                "unstructured": "Butler, D. J., Wulff, J., Stanley, G. B., and Black, M. J. 2012. A naturalistic open source movie for optical flow evaluation. InProc. ECCV, Springer, 611--625."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-7",
+                "unstructured": "Farbman, Z., and Lischinski, D. 2011. Tonal stabilization of video.ACM Trans. Graph. (SIGGRAPH) 30, 4.",
+                "DOI": "10.1145/2010324.1964984",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-8",
+                "unstructured": "Felzenszwalb, P. F., and Huttenlocher, D. P. 2004. Efficient graph-based image segmentation.International Journal of Computer Vision 59, 2, 167--181.",
+                "DOI": "10.1023/B:VISI.0000022288.19776.77",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-9",
+                "unstructured": "Funt, B. V., Drew, M. S., and Brockington, M. 1992. Recovering shading from color images. InProc. ECCV, Springer, 124--132."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-10",
+                "unstructured": "Garces, E., Munoz, A., Lopez-Moreno, J., and Gutierrez, D. 2012. Intrinsic images by clustering. InComputer Graphics Forum (EGSR), vol. 31, 1415--1424."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-11",
+                "unstructured": "Gehler, P. V., Rother, C., Kiefel, M., Zhang, L., and Sch&#246;lkopf, B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. InProc. NIPS, 765."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-12",
+                "unstructured": "Grundmann, M., Kwatra, V., Han, M., and Essa, I. 2010. Efficient hierarchical graph-based video segmentation. InProc. CVPR, IEEE.",
+                "DOI": "10.1109/CVPR.2010.5539893",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-13",
+                "unstructured": "Hauagge, D., Wehrwein, S., Baval, K., and Snavely, N. 2013. Photometric ambient occlusion. InProc. CVPR, IEEE.",
+                "DOI": "10.1109/CVPR.2013.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-14",
+                "unstructured": "Jiang, X., Schofield, A. J., and Wyatt, J. L. 2010. Correlation-based intrinsic image extraction from a single image. InProc. ECCV, Springer, 58--71."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-15",
+                "unstructured": "Laffont, P.-Y., Bousseau, A., Paris, S., Durand, F., and Drettakis, G. 2012. Coherent intrinsic images from photo collections.ACM Trans. Graph. (SIGGRAPH Asia) 31.",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-16",
+                "unstructured": "Land, E. H., and McCann, J. J. 1971. Lightness and retinex theory.Journal of the Optical Society of America 61, 1.",
+                "DOI": "10.1364/JOSA.61.000001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-17",
+                "unstructured": "Lang, M., Wang, O., Aydin, T., Smolic, A., and Gross, M. 2012. Practical temporal consistency for image-based graphics applications.ACM Trans. Graph. (SIGGRAPH) 31, 4.",
+                "DOI": "10.1145/2185520.2185530",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-18",
+                "unstructured": "Lee, K. J., Zhao, Q., Tong, X., Gong, M., Izadi, S., Lee, S. U., Tan, P., and Lin, S. 2012. Estimation of intrinsic image sequences from image + depth video. InProc. ECCV, Springer, 327--340."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-19",
+                "unstructured": "Levin, A., Lischinski, D., and Weiss, Y. 2004. Colorization using optimization.ACM Trans. Graph. (SIGGRAPH) 23, 3.",
+                "DOI": "10.1145/1015706.1015780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-20",
+                "unstructured": "Li, Y., Sun, J., Tang, C.-K., and Shum, H.-Y. 2004. Lazy snapping.ACM Trans. Graph. (SIGGRAPH) 23, 3, 303--308.",
+                "DOI": "10.1145/1015706.1015719",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-21",
+                "unstructured": "Li, Y., Ju, T., and Hu, S.-M. 2010. Instant propagation of sparse edits on images and videos. InComputer Graphics Forum, vol. 29, Wiley Online Library, 2049--2054."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-22",
+                "unstructured": "Liu, X., Wan, L., Qu, Y., Wong, T.-T., Lin, S., Leung, C.-S., and Heng, P.-A. 2008. Intrinsic colorization.ACM Trans. Graph. (SIGGRAPH Asia) 27, 5, 152:1--152:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-23",
+                "unstructured": "Lombardi, S., and Nishino, K. 2012. Reflectance and natural illumination from a single image. InProc. ECCV, Springer, 582--595."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-24",
+                "unstructured": "Matsushita, Y., Nishino, K., Ikeuchi, K., and Sakauchi, M. 2004. Illumination normalization with time-dependent intrinsic images for video surveillance.IEEE Trans. Pattern Anal. Mach. Intell. 26, 10, 1336--1347.",
+                "DOI": "10.1109/TPAMI.2004.86",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-25",
+                "unstructured": "Oskam, T., Hornung, A., Sumner, R., and Gross, M. 2012. Fast and stable color balancing for images and augmented reality. InProc. 3DIMPVT, IEEE, 49--56."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-26",
+                "unstructured": "Paris, S. 2008. Edge-preserving smoothing and mean-shift segmentation of video streams. InProc. ECCV, Springer.",
+                "DOI": "10.1007/978-3-540-88688-4_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-27",
+                "unstructured": "P&#233;rez, P., Gangnet, M., and Blake, A. 2003. Poisson image editing.ACM Trans. Graph. (SIGGRAPH) 22, 3, 313--318."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-28",
+                "unstructured": "Shen, L., and Yeo, C. 2011. Intrinsic images decomposition using a local and global sparse representation of reflectance. InProc. CVPR, IEEE, 697--704."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-29",
+                "unstructured": "Shen, L., Tan, P., and Lin, S. 2008. Intrinsic image decomposition with non-local texture cues. InProc. CVPR, IEEE, vol. 0, 1--7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-30",
+                "unstructured": "Shen, J., Yang, X., Jia, Y., and Li, X. 2011. Intrinsic images using optimization. InProc. CVPR, IEEE, 3481--3487."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-31",
+                "unstructured": "Sunkavalli, K., Matusik, W., Pfister, H., and Rusinkiewicz, S. 2007. Factored time-lapse video.ACM Trans. Graph. (SIGGRAPH) 26, 3, 101."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-32",
+                "unstructured": "Tappen, M., Freeman, W., and Adelson, E. 2005. Recovering intrinsic images from a single image.IEEE Trans. Pattern Anal. Mach. Intell. 27, 9, 1459--1472.",
+                "DOI": "10.1109/TPAMI.2005.185",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-33",
+                "unstructured": "Weiss, Y. 2001. Deriving intrinsic images from image sequences. InProc. ICCV, IEEE, vol. 2, 68--75."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-34",
+                "unstructured": "Xu, K., Li, Y., Ju, T., Hu, S.-M., and Liu, T.-Q. 2009. Efficient affinity-based edit propagation using kd tree. InACM Trans. Graph. (SIGGRAPH Asia), vol. 28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-35",
+                "unstructured": "Yan, X., Shen, J., He, Y., and Mao, X. 2010. Re-texturing by intrinsic video. InProc. DICTA, IEEE, 486--491."
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-36",
+                "unstructured": "Yatziv, L., and Sapiro, G. 2006. Fast image and video colorization using chrominance blending.IEEE Trans. Image Processing, 15, 5, 1120--1129.",
+                "DOI": "10.1109/TIP.2005.864231",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601135-37",
+                "unstructured": "Zhao, Q., Tan, P., Dai, Q., Shen, L., Wu, E., and Lin, S. 2012. A closed-form solution to retinex with nonlocal texture constraints.IEEE Trans. Pattern Anal. Mach. Intell. 34, 7, 1437--1444.",
+                "DOI": "10.1109/TPAMI.2012.77",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601135&amp;ftid=1488888&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:01Z",
+            "timestamp": 1565663701000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601135",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:20Z",
+            "timestamp": 1574816000107
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925967",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Motion graphs for unstructured textured meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Fabi\u00e1n",
+                "family": "Prada",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Misha",
+                "family": "Kazhdan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Ming",
+                "family": "Chuang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Alvaro",
+                "family": "Collet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Hugues",
+                "family": "Hoppe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925967-1",
+                "unstructured": "Aksoylu, B., Khodakovsky, A., and Schr&#246;der, P. 2005. Multilevel solvers for unstructured surface meshes.SIAM Journal of Scientific Computing, 26:1146--1165."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-2",
+                "unstructured": "Alvarez, L., Esclar&#237;n, J., Lef&#233;bure, M., and S&#225;nchez, J. 1999. A PDE model for computing the optical flow. InXVI Congreso de Ecuaciones Diferenciales y Aplicaciones."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-3",
+                "unstructured": "Arikan, O. and Forsyth, D. A. 2002. Interactive motion generation from examples.ACM Trans. Graph., 21:483--490."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-4",
+                "unstructured": "Bojsen-Hansen, M., Li, H., and Wojtan, C. 2012. Tracking surfaces with evolving topology.ACM Trans. Graph., 31."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-5",
+                "unstructured": "Carranza, J., Theobalt, C., Magnor, M. A., and Seidel, H.-P. 2003. Free-viewpoint video of human actors.ACM Trans. Graph., 22."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-6",
+                "unstructured": "Casas, D., Richardt, C., Collomosse, J., Theobalt, C., and Hilton, A. 2015. 4D model flow: precomputed appearance alignment for real-time 4D video interpolation.Computer Graphics Forum, 34(7).",
+                "DOI": "10.1111/cgf.12756",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-7",
+                "unstructured": "Casas, D., Tejera, M., Guillemaut, J.-Y., and Hilton, A. 2012. 4D parametric motion graphs for interactive animation. InSymp. on Interactive 3D Graphics and Games, pages 103--110.",
+                "DOI": "10.1145/2159616.2159633",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-8",
+                "unstructured": "Casas, D., Volino, M., Collomosse, J., and Hilton, A. 2014. 4D video textures for interactive character appearance.Comput. Graph. Forum, 33."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-9",
+                "unstructured": "Chao, I., Pinkall, U., Sanan, P., and Schr&#246;der, P. 2010. A simple geometric model for elastic deformations.ACM Trans. Graph., 29."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-10",
+                "unstructured": "Chuang, M., Luo, L., Brown, B., Rusinkiewicz, S., and Kazhdan, M. 2009. Estimating the Laplace-Beltrami operator by restricting 3D functions.Symposium on Geometry Processing.",
+                "DOI": "10.1111/j.1467-8659.2009.01524.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-11",
+                "unstructured": "Collet, A., Chuang, M., Sweeney, P., Gillett, D., Evseev, D., Calabrese, D., Hoppe, H., Kirk, A., and Sullivan, S. 2015. High-quality streamable free-viewpoint video.ACM Trans. Graph., 34."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-12",
+                "unstructured": "de Goes, F., Desbrun, M., and Tong, Y. 2015. Vector field processing on triangle meshes. InSIGGRAPH Asia 2015 Courses, pages 17:1--17:48.",
+                "DOI": "10.1145/2818143.2818167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-13",
+                "unstructured": "Dziuk, G. 1988. Finite elements for the Beltrami operator on arbitrary surfaces. InPartial Differential Equations and Calculus of Variations, Lecture Notes in Mathematics, volume 1357. Springer.",
+                "DOI": "10.1007/BFb0082865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-14",
+                "unstructured": "Eisemann, M., De Decker, B., Magnor, M., Bekaert, P., De Aguiar, E., Ahmed, N., Theobalt, C., and Sellent, A. 2008. Floating textures.Computer Graphics Forum, 27(2).",
+                "DOI": "10.1111/j.1467-8659.2008.01138.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-15",
+                "unstructured": "Funkhouser, T., Kazhdan, M., Shilane, P., Min, P., Kiefer, W., Tal, A., Rusinkiewicz, S., and Dobkin, D. 2004. Modeling by example.ACM Trans. Graph., 23(3).",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-16",
+                "unstructured": "Heck, R. and Gleicher, M. 2007. Parametric motion graphs. InSymposium on Interactive 3D Graphics and Games, ACM, pages 129--136.",
+                "DOI": "10.1145/1230100.1230123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-17",
+                "unstructured": "Horn, B., Hilden, H., and Negahdaripour, S. 1988. Closed form solutions of absolute orientation using orthonormal matrices.Journal of the Optical Society, 5:1127--1135."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-18",
+                "unstructured": "Huang, C.-H., Boyer, E., Navab, N., and Ilic, S. 2014. Human shape and pose tracking using keyframes. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2014.440",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-19",
+                "unstructured": "Huang, P., Hilton, A., and Starck, J. 2009. Human motion synthesis from 3D video. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2009.5206626",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-20",
+                "unstructured": "Huang, P., Hilton, A., and Starck, J. 2010. Shape similarity for 3D video sequences of people.International Journal of Computer Vision, 89:362--381."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-21",
+                "unstructured": "Huang, P., Tejera, M., Collomosse, J., and Hilton, A. 2015. Hybrid skeletal-surface motion graphs for character animation from 4D performance capture.ACM Trans. Graph., 34:17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-22",
+                "unstructured": "Jacobson, A., Panozzo, D., and others. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-23",
+                "unstructured": "Kanade, T., Rander, P., and Narayanan, P. J. 1997. Virtualized reality: Constructing virtual worlds from real scenes.IEEE Multimedia, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-24",
+                "unstructured": "Kazhdan, M. 2013. ShapeSPH. http://www.cs.jhu.edu/~misha/Code/ShapeSPH/ShapeAlign/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-25",
+                "unstructured": "Kazhdan, M., Funkhouser, T., and Rusinkiewicz, S. 2003. Rotation invariant spherical harmonic representation of 3D shape descriptors. InSymposium on Geometry Processing."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-26",
+                "unstructured": "Kovar, L., Gleicher, M., and Pighin, F. 2002. Motion graphs.ACM Trans. Graph., 21:473--482."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-27",
+                "unstructured": "Lee, J., Chai, J., Reitsma, P. S., Hodgins, J. K., and Pollard, N. S. 2002. Interactive control of avatars animated with human motion data.ACM Trans. Graph., 21:491--500."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-28",
+                "unstructured": "Levin, D. A., Peres, Y., and Wilmer, E. L. 2009.Markov chains and mixing times. American Mathematical Society.",
+                "DOI": "10.1090/mbk/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-29",
+                "unstructured": "Li, H., Adams, B., Guibas, L. J., and Pauly, M. 2009. Robust single-view geometry and motion reconstruction.ACM Trans. Graph., 28."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-30",
+                "unstructured": "Lucas, B. and Kanade, T. 1981. An iterative image registration technique with an application to stereo vision. InProc. Intnl. Joint Conf. on Artificial Intelligence, pages 674--679."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-31",
+                "unstructured": "Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., and Guibas, L. 2012. Functional maps: A flexible representation of maps between shapes.ACM Trans. Graph., 31."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-32",
+                "unstructured": "Pinkall, U. and Polthier, K. 1993. Computing discrete minimal surfaces and their conjugates.Experimental Mathematics, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-33",
+                "unstructured": "Prada, F. and Kazhdan, M. 2015. Unconditionally stable shock filters for image and geometry processing.Computer Graphics Forum, 34:201--210."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-34",
+                "unstructured": "Rusinkiewicz, S. 2004. Trimesh v2. http://gfx.cs.princeton.edu/proj/trimesh2/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-35",
+                "unstructured": "Shi, J. and Tomasi, C. 1994. Good features to track. InProc. CVPR, pages 593--600."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-36",
+                "unstructured": "Shilane, P., Min, P., Kazhdan, M., and Funkhouser, T. 2004. The Princeton shape benchmark. InShape Modeling International.",
+                "DOI": "10.1109/SMI.2004.1314504",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-37",
+                "unstructured": "Si, H. 2015. TetGen, a Delaunay-based quality tetrahedral mesh generator.ACM Trans. on Math. Software, 41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-38",
+                "unstructured": "Sorkine, O. and Alexa, M. 2007. As-rigid-as-possible surface modeling. InSymp. on Geometry Processing, pages 109--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-39",
+                "unstructured": "Starck, J. and Hilton, A. 2007. CVSSP3D datasets. http://cvssp.org/data/cvssp3d/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-40",
+                "unstructured": "Starck, J., Miller, G., and Hilton, A. 2005. Video-based character animation. InSymposium on Computer animation.",
+                "DOI": "10.1145/1073368.1073375",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-41",
+                "unstructured": "Tangelder, J. and Veltkamp, R. 2007. A survey of content based 3D shape retrieval methods.Multimedia Tools and Applications, 39:441--471."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-42",
+                "unstructured": "Tomasi, C. and Kanade, T. 1991. Detection and tracking of point features. Technical Report CMU-CS-91-132."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-43",
+                "unstructured": "Vlasic, D., Peers, P., Baran, I., Debevec, P., Popovi&#263;, J., Rusinkiewicz, S., and Matusik, W. 2009. Dynamic shape capture using multi-view photometric stereo.ACM Trans. Graph., 28."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-44",
+                "unstructured": "Volino, M., Huang, P., and Hilton, A. 2015. Online interactive 4D character animation. InACM SIGGRAPH Web3D Conference.",
+                "DOI": "10.1145/2775292.2775297",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-45",
+                "unstructured": "Von-Tycowicz, C., Schulz, C., Seidel, H.-P., and Hildebrandt, K. 2015. Real-time nonlinear shape interpolation.ACM Trans. Graph., 34."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-46",
+                "unstructured": "Xu, F., Liu, Y., Stoll, C., Tompkin, J., Bharaj, G., Dai, Q., Seidel, H.-P., Kautz, J., and Theobalt, C. 2011. Video-based characters: Creating new human performances from a multi-view video database.ACM Trans. Graph., 30(4).",
+                "DOI": "10.1145/2010324.1964927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-47",
+                "unstructured": "Zitnick, C. L., Kang, S. B., Uyttendaele, M., Winder, S., and Szeliski, R. 2004. High-quality video view interpolation using a layered representation.ACM Trans. Graph., 23."
+            },
+            {
+                "key": "key-10.1145/2897824.2925967-48",
+                "unstructured": "Zollh&#246;fer, M., Niessner, M., Izadi, S., Rehmann, C., Zach, C., Fisher, M., Wu, C., Fitzgibbon, A., Loop, C., Theobalt, C., and Stamminger, M. 2014. Real-time non-rigid reconstruction using an RGB-D camera.ACM Trans. Graph., 33."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925967&amp;ftid=1755880&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:35Z",
+            "timestamp": 1568162795000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925967",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

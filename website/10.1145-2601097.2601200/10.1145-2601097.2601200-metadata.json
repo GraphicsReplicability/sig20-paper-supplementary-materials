@@ -1,0 +1,298 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410103
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "257453"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601200",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "High-contrast computational caustic design"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yuliy",
+                "family": "Schwartzburg",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Romain",
+                "family": "Testuz",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Andrea",
+                "family": "Tagliasacchi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601200-1",
+                "unstructured": "Agarwal, S., Mierle, K., and Others, 2013. Ceres solver. https://code.google.com/p/ceres-solver/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-2",
+                "unstructured": "Aurenhammer, F., Hoffmann, F., and Aronov, B. 1998. Minkowski-type theorems and least-squares clustering.Algorithmica 20, 1, 61--76.",
+                "DOI": "10.1007/PL00009187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-3",
+                "unstructured": "Bogachev, V. I. 2006.Measure theory. Springer.",
+                "DOI": "10.1007/978-3-540-34514-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-4",
+                "unstructured": "Botsch, M., Kobbelt, L., Pauly, M., Alliez, P., and L&#233;vy, B. 2010.Polygon Mesh Processing. Ak Peters Series. A K Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-5",
+                "unstructured": "Chodosh, O., Jain, V., Lindsey, M., Panchev, L., and Rubinstein, Y. A. 2013. On discontinuity of planar optimal transport maps.arXiv/1312.2929."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-6",
+                "unstructured": "de Goes, F., Breeden, K., Ostromoukhov, V., and Desbrun, M. 2012. Blue noise through optimal transport.ACM Transactions on Graphics (TOG) 31, 6, 171."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-7",
+                "unstructured": "De Philippis, G., and Figalli, A. 2013. The Monge-Amp&#232;re equation and its link to optimal transportation.arXiv preprint arXiv:1310.6167."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-8",
+                "unstructured": "Fang, F., Zhang, X., Weckenmann, A., Zhang, G., and Evans, C. 2013. Manufacturing and measurement of freeform optics. {CIRP}Annals - Manufacturing Technology 62, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-9",
+                "unstructured": "Finckh, M., Dammertz, H., and Lensch, H. P. 2010. Geometry construction from caustic images. InComputer Vision--ECCV 2010. Springer, 464--477.",
+                "DOI": "10.1007/978-3-642-15555-0_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-10",
+                "unstructured": "Glimm, T., and Oliker, V. 2003. Optical design of single reflector systems and the Monge-Kantorovich mass transfer problem.Journal of Mathematical Sciences 117, 3.",
+                "DOI": "10.1023/A:1024856201493",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-11",
+                "unstructured": "Hullin, M. B., Ihrke, I., Heidrich, W., Weyrich, T., Damberg, G., and Fuchs, M. 2013. Computational fabrication and display of material appearance. InEurographics State-of-the-Art Report."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-12",
+                "unstructured": "Kiser, T., and Pauly, M. 2012. Caustic art. Tech. rep., EPFL."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-13",
+                "unstructured": "Kiser, T., Eigensatz, M., Nguyen, M. M., Bompas, P., and Pauly, M. 2012. Architectural caustics - controlling light with geometry. InAdvances in Architectural Geometry, Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-14",
+                "unstructured": "Levin, A., Glasner, D., Xiong, Y., Durand, F., Freeman, W., Matusik, W., and Zickler, T. 2013. Fabricating brdfs at high spatial resolution using wave optics.ACM Transactions on Graphics (TOG) 32, 4, 144."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-15",
+                "unstructured": "Liu, D. C., and Nocedal, J. 1989. On the limited memory bfgs method for large scale optimization.Mathematical programming 45, 1--3, 503--528.",
+                "DOI": "10.1007/BF01589116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-16",
+                "unstructured": "M&#233;rigot, Q. 2011. A multiscale approach to optimal transport. InComputer Graphics Forum, vol. 30, Wiley Online Library, 1583--1592."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-17",
+                "unstructured": "Papas, M., Jarosz, W., Jakob, W., Rusinkiewicz, S., Matusik, W., and Weyrich, T. 2011. Goal-based caustics.Computer Graphics Forum 30, 2, 503--511.",
+                "DOI": "10.1111/j.1467-8659.2011.01876.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-18",
+                "unstructured": "Patow, G., and Pueyo, X. 2005. A survey of inverse surface design from light transport behavior specification. InComputer Graphics Forum, vol. 24, Wiley Online Library, 773--789."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-19",
+                "unstructured": "Pauly, M., Eigensatz, M., Bompas, P., Rist, F., and Krenmuller, R. 2013. Controlling caustics.Glass Performance Days."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-20",
+                "unstructured": "Sibson, R. 1981. A brief description of natural neighbour interpolation.Interpreting multivariate data 21."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-21",
+                "unstructured": "Villani, C. 2009.Optimal transport: old and new. Springer Verlag.",
+                "DOI": "10.1007/978-3-540-71050-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-22",
+                "unstructured": "Weyrich, T., Peers, P., Matusik, W., and Rusinkiewicz, S. 2009. Fabricating microgeometry for custom surface reflectance.ACM Transactions on Graphics (TOG) 28, 3, 32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-23",
+                "unstructured": "Yue, Y., Iwasaki, K., Chen, B.-Y., Dobashi, Y., and Nishita, T. 2012. Pixel art with refracted light by rearrangeable sticks.Comp. Graph. Forum 31, 2pt3 (May), 575--582."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-24",
+                "unstructured": "Yue, Y., Iwasaki, K., Chen, B.-Y., Dobashi, Y., and Nishita, T. 2014. Poisson-based continuous surface generation for goal-based caustics.ACM Trans. Graph. 33, 3 (May), 31:1--31:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-25",
+                "unstructured": "Yvinec, M. 2013. 2D triangulations. InCGAL User and Reference Manual, 4.3 ed. CGAL Editorial Board."
+            },
+            {
+                "key": "key-10.1145/2601097.2601200-26",
+                "unstructured": "Zhang, Z., and Zheng, X. 2012. The representation of line Dirac delta function along a space curve.arXiv preprint arXiv:1209.3221(Sept.)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601200&amp;ftid=1488882&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:59Z",
+            "timestamp": 1565663699000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601200",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

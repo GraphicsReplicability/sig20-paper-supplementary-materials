@@ -1,0 +1,354 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813485
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201285",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Non-stationary texture synthesis by adversarial expansion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yang",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Huazhong University of Science & Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Zhen",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Huazhong University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Xiang",
+                "family": "Bai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Huazhong University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201285-1",
+                "unstructured": "Urs Bergmann, Nikolay Jetchev, and Roland Vollgraf. 2017. Learning Texture Manifolds with the Periodic Spatial GAN.CoRRabs/1705.06566 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-2",
+                "unstructured": "Soheil Darabi, Eli Shechtman, Connelly Barnes, Dan B Goldman, and Pradeep Sen. 2012. Image Melding: Combining Inconsistent Images using Patch-based Synthesis.ACM Trans. Graph. (Proc. SIGGRAPH 2012)31, 4 (2012).",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-3",
+                "unstructured": "Alexei A. Efros and William T. Freeman. 2001. Image quilting for texture synthesis and transfer. InProc. SIGGRAPH 2001.341--346.",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-4",
+                "unstructured": "Alexei A. Efros and Thomas K. Leung. 1999. Texture Synthesis by Non-Parametric Sampling.Proc. ICCV '992 (1999), 1033--1038."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-5",
+                "unstructured": "L.A. Gatys, A.S. Ecker, and M. Bethge. 2015a. Texture Synthesis Using Convolutional Neural Networks.Advances in Neural Information Processing Systems28 (May 2015), 262--270. http://arxiv.org/abs/1505.07376"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-6",
+                "unstructured": "Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. 2015b. A Neural Algorithm of Artistic Style.CoRRabs/1508.06576 (Aug 2015). http://arxiv.org/abs/1508.06576"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-7",
+                "unstructured": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. Generative Adversarial Networks.CoRRabs/1406.2661 (June 2014). https://arxiv.org/abs/1406.2661"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-8",
+                "unstructured": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. Deep Residual Learning for Image Recognition. InProc. CVPR 2016.",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-9",
+                "unstructured": "Aaron Hertzmann, Charles E. Jacobs, Nuria Oliver, Brian Curless, and David H. Salesin. 2001. Image Analogies.Proc. SIGGRAPH 2001(August 2001), 327--340.",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-10",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. 2016. Image-to-Image Translation with Conditional Adversarial Networks.CoRRabs/1611.07004 (2016). arXiv:1611.07004 http://arxiv.org/abs/1611.07004"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-11",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros. 2017. Image-to-Image Translation with Conditional Adversarial Networks. InProc. CVPR 2017.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-12",
+                "unstructured": "Nikolay Jetchev, Urs Bergmann, and Roland Vollgraf. 2016. Texture Synthesis with Spatial Generative Adversarial Networks.CoRRabs/1611.08207 (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-13",
+                "unstructured": "Justin Johnson, Alexandre Alahi, and Li Fei-Fei. 2016. Perceptual Losses for Real-Time Style Transfer and Super-Resolution. InProc. ECCV 2016, Bastian Leibe, Jiri Matas, Nicu Sebe, and Max Welling (Eds.), Vol. Part II. 694--711.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-14",
+                "unstructured": "A. Kaspar, B. Neubert, D. Lischinski, M. Pauly, and J. Kopf. 2015. Self tuning texture optimization.Computer Graphics Forum34, 2 (May 2015).",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-15",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014). arXiv:1412.6980 http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-16",
+                "unstructured": "Vivek Kwatra, Irfan Essa, Aaron Bobick, and Nipun Kwatra. 2005. Texture optimization for example-based synthesis.ACM Trans. Graph.24, 3 (Proc. SIGGRAPH 2005) (2005), 795--802."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-17",
+                "unstructured": "Vivek Kwatra, Arno Sch&#246;dl, Irfan Essa, Greg Turk, and Aaron Bobick. 2003. Graphcut textures: image and video synthesis using graph cuts.ACM Trans. Graph.22, 3 (Proc. SIGGRAPH 2003) (2003), 277--286.",
+                "DOI": "10.1145/1201775.882264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-18",
+                "unstructured": "Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew P. Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, and Wenzhe Shi. 2016. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.CoRRabs/1609.04802 (2016). arXiv:1609.04802 http://arxiv.org/abs/1609.04802"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-19",
+                "unstructured": "Sylvain Lefebvre and Hugues Hoppe. 2006. Appearance-space texture synthesis.ACM Transactions on Graphics25, 3 (Proc. SIGGRAPH 2006) (2006), 541--548."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-20",
+                "unstructured": "Chuan Li and Michael Wand. 2016. Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks. InProc. ECCV 2016, Bastian Leibe, Jiri Matas, Nicu Sebe, and Max Welling (Eds.), Vol. Part III. 702--716.",
+                "DOI": "10.1007/978-3-319-46487-9_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-21",
+                "unstructured": "Yanxi Liu, Web-Chieh Lin, and James H. Hays. 2004. Near-Regular Texture Analysis and Manipulation.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2004)23, 3 (2004).",
+                "DOI": "10.1145/1015706.1015731",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-22",
+                "unstructured": "Amir Rosenberger, Daniel Cohen-Or, and Dani Lischinski. 2009. Layered Shape Synthesis: Automatic Generation of Control Maps for Non-Stationary Textures.ACM Trans. Graph28, 5 (Dec. 2009), 107:1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-23",
+                "unstructured": "Omry Sendik and Daniel Cohen-Or. 2017. Deep Correlations for Texture Synthesis.ACM Trans. Graph.36, 5, Article 161 (July 2017), 15 pages.",
+                "DOI": "10.1145/3015461",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-24",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very Deep Convolutional Networks for Large-Scale Image Recognition.CoRRabs/1409.1556 (2014). arXiv:1409.1556 http://arxiv.org/abs/1409.1556"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-25",
+                "unstructured": "Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, and Victor S. Lempitsky. 2016. Texture Networks: Feed-forward Synthesis of Textures and Stylized Images.CoRRabs/1603.03417 (2016). arXiv:1603.03417 http://arxiv.org/abs/1603.03417"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-26",
+                "unstructured": "Li-Yi Wei, Sylvain Lefebvre, Vivek Kwatra, and Greg Turk. 2009. State of the Art in Example-based Texture Synthesis. InEurographics 2009 State of The Art Reports.Eurographics."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-27",
+                "unstructured": "Li-Yi Wei and Marc Levoy. 2000. Fast texture synthesis using tree-structured vector quantization.Proc. SIGGRAPH 2000(2000), 479--488."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-28",
+                "unstructured": "Y. Wexler, E. Shechtman, and M. Irani. 2007. Space-time completion of video.Transactions on Pattern Analysis and Machine Intelligence (PAMI)29, 3 (2007), 463--476.",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-29",
+                "unstructured": "Jingdan Zhang, Kun Zhou, Luiz Velho, Baining Guo, and Heung-Yeung Shum. 2003. Synthesis of progressively-variant textures on arbitrary surfaces.ACM Trans. Graph.22, 3 (Proc. SIGGRAPH 2003) (2003), 295--302."
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-30",
+                "unstructured": "Yang Zhou, Huajie Shi, Dani Lischinski, Minglun Gong, Johannes Kopf, and Hui Huang. 2017. Analysis and Controlled Synthesis of Inhomogeneous Textures.Computer Graphics Forum (Proc. Eurographics 2017)36, 2 (2017).",
+                "DOI": "10.1111/cgf.13119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201285-31",
+                "unstructured": "Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros. 2017. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.CoRRabs/1703.10593 (2017). arXiv:1703.10593 http://arxiv.org/abs/1703.10593"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201285&ftid=1991672&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:45:05Z",
+            "timestamp": 1571672705000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201285",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

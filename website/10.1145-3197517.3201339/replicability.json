@@ -1,0 +1,76 @@
+{
+    "Timestamp": "12/8/2019 11:46:16",
+    "Title": "Parametric directional coding for precomputed sound propagation",
+    "DOI": "10.1145/3197517.3201339",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://www.microsoft.com/en-us/research/uploads/prod/2018/10/paramd.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Private Companies",
+    "ACM 1": "Virtual reality",
+    "ACM 2": "Sound and music computing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 9,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Nikunj",
+            "family": "Raghuvanshi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "John",
+            "family": "Snyder",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

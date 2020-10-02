@@ -1,0 +1,85 @@
+{
+    "Timestamp": "1/18/2020 4:48:52",
+    "Title": "Fitting Procedural Yarn Models for Realistic Cloth Rendering",
+    "DOI": "10.1145/2897824.2925932",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "C/C++, Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "http://www.cs.cornell.edu/~kb/projects/ctcloth/code_data_v2.zip",
+    "code URL  2": "",
+    "PDF URL": "https://www.cs.cornell.edu/~kb/publications/SIG16ProceduralYarn.pdf",
+    "License type": "custom",
+    "Build mechanism": "IDE Project (VS,..), Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "The program comes with microCT scans and a window executable, which also launches matlab code. To be able to recompile the code with Visual Studio 2017, you need a number of steps :\n\n- MicroCT.cpp, line 1270, replace :\n std:vector<float> ellipse_s_vec(loopNum), ellipse_l_vec(loopNum), yarn_radius_vec(loopNum);\nby\nstd::vector<float> ellipse_s_vec(loopNum), ellipse_l_vec(loopNum), yarn_radius_vec(loopNum);\n(note the :: instead of : )\n\n- Util.h, line 99, remove the round function.\n\n- add the preprocessor directive _CRT_SECURE_NO_WARNINGS\n\n* The provided precompiled OpenCV was causing issues ; perhaps it had been compiled in 32 bits (?). I used a fresh OpenCV install instead, which led to a couple of additional edits :\n\n- in MicroCT.h, replace the opencv includes \n#include \"opencv/include/opencv/cv.h\"\n#include \"opencv/include/opencv/highgui.h\"\n#include \"opencv/include/opencv2/opencv.hpp\"\nby\n#include <opencv2/highgui.hpp>\n#include \"opencv2/opencv.hpp\"\n#include <opencv2/core/types_c.h>\n#include <opencv2/highgui/highgui_c.h>\n\n-replace opencv_core249.lib;opencv_highgui249.lib;opencv_features2d249.lib;opencv_imgproc249.lib; by opencv_world420.lib in the project linked libraries.\n\n- in MicroCT.cpp, line 784, replace \n\tellipse(Mat(displayImg), Point(C1.x, C1.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(1.f, 0.f, 0.f));\n\tellipse(Mat(displayImg), Point(C2.x, C2.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(0.f, 1.f, 0.f));\nby\n\tellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(1.f, 0.f, 0.f));\n\tellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(0.f, 1.f, 0.f));\n\n- in MicroCT.cpp, line 818, replace cv::Mat mat = cv::Mat(img, true); by cv::Mat mat = cv::cvarrToMat(img, true);\n\n- in MicroCT.cpp, line 1422, replace:\n\tellipse(Mat(displayImg), Point(C1.x, C1.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(Mat(displayImg), Point(C2.x, C2.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));\nby\n\tellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));\n\n- in MicroCT.cpp, line 1610, replace\n\tellipse(Mat(displayImg), Point(C1.x, C1.y), Size(e_l, e_s), (double)rot1, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(Mat(displayImg), Point(C2.x, C2.y), Size(e_l, e_s), (double)rot2, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(Mat(displayImg), Point(C3.x, C3.y), Size(e_l, e_s), (double)rot3, 0, 360, Scalar(1.f, 1.f, 1.f));\nto\n\tellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(e_l, e_s), (double)rot1, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(e_l, e_s), (double)rot2, 0, 360, Scalar(1.f, 1.f, 1.f));\n\tellipse(cv::cvarrToMat(displayImg), Point(C3.x, C3.y), Size(e_l, e_s), (double)rot3, 0, 360, Scalar(1.f, 1.f, 1.f));\n\n* Ultimately, the code runs. I didn't have to change my matlab settings as proposed (in fact, I do not have the option 'Location based on Matlab startup rules' but only 'Last working folder from previous Matlab session').\nHowever, the code only produces text files that contain strands. I do not know how to render this .txt in Mitsuba, but it was easy to grasp the file structure and code a loader in my own path tracer (though with circular cross section for simplicity instead of elliptical as suggested in Algorithm 1). The file merely contains the number of fibers, and then, for each fiber, the number of segments, for each segment the X, Y, Z coordinates.\n\nNevertheless, the paper mentions a modified Mitsuba to be able to make the renderings, and the paper shows (impressive) renderings of fabrics, not just strands... Also, which reflectance model was used to render the fibers ?",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 29,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab / opencv",
+    "Project URL": "http://www.cs.cornell.edu/projects/ctcloth/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "Most of the time was spent in trying to visualize the results ; here, coding my own loader and renderer.",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Shuang",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Irvine"
+                }
+            ]
+        },
+        {
+            "given": "Fujun",
+            "family": "Luan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Kavita",
+            "family": "Bala",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 78,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=78&types=mmmmmmmm",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=10784626"
+}

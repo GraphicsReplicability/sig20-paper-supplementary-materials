@@ -1,0 +1,73 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Slang: language mechanisms for extensible real-time shading systems <i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Yong <span class="family">He</span></li>
+<li> Kayvon <span class="family">Fatahalian</span></li>
+<li> Tim <span class="family">Foley</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201380">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://graphics.cs.cmu.edu/projects/slang/he18_slang.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://graphics.cs.cmu.edu/projects/slang/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/shader-slang/slang">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201380-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201380-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 3</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: Makefile, IDE Project (VS,..), premake</li>
+<li><span class="family">Mandatory dependencies</span>:None</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   3</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>Overall I managed to build the project with VS2017 very easily, and ran the model-viewer demo within minutes. However, I did not manage to run the simpler cpu-hello-world demo due to a couple of bugs. In Line 217 of slang-win-visual-studio-util.cpp, I had to add a condition : if (lines.getCount() && lines[0].size()!=0) instead of if (lines.getCount()) because my Visual Studio vswhere gives a blank line when the requested version is not found (instead of no line at all), which was messing up with the VS version selector afterwards. Then, after fixing this issue, since the program was still looking for the 'Generic C/C++ Compiler' (and did not consider my VS2017 to be generic enough ? though it found it), I had to force Visual Studio to be passed through in line 113 of the main.cpp, using spSetPassThrough(slangRequest, SlangPassThrough(5));
+Ultimately, after these fixes, I got a link error : "Visual Studio 15.0: shader.slang (0): link error LNK1107:  invalid or corrupt file: cannot read at 0x16F" when running the code, which I cannot debug much further.
+In short, it nicely reproduced results on the GPU, but I could not run the code on the CPU.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,1,3,3]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

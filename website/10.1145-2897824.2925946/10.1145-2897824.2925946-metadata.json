@@ -1,0 +1,298 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:55:34Z",
+            "timestamp": 1574816134230
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925946",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+            "Fidelity vs. simplicity"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jean-Dominique",
+                "family": "Favreau",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Florent",
+                "family": "Lafarge",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925946-1",
+                "unstructured": "Bao, B., and Fu, H. 2012. Vectorizing line drawings with near-constant line width. InImage Processing (ICIP), 2012 19th IEEE International Conference on, IEEE, 805--808.",
+                "DOI": "10.1109/ICIP.2012.6466982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-2",
+                "unstructured": "Barla, P., Thollot, J., and Sillion, F. 2005. Geometric clustering for line drawing simplification. InProceedings of the Eurographics Symposium on Rendering.",
+                "DOI": "10.1145/1187112.1187227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-3",
+                "unstructured": "Bartolo, A., Camilleri, K. P., Fabri, S. G., Borg, J. C, and Farrugia, P. J. 2007. Scribbles to vectors: preparation of scribble drawings for cad interpretation. InProceedings of the 4th Eurographics workshop on Sketch-based interfaces and modeling.",
+                "DOI": "10.1145/1384429.1384456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-4",
+                "unstructured": "Bo, P., Luo, G., and Wang, K. 2015. A graph-based method for fitting planar b-spline curves with intersections.Journal of Computational Design and Engineering.",
+                "DOI": "10.1016/j.jcde.2015.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-5",
+                "unstructured": "Bretto, A. 2013.Hypergraph Theory: an introduction.Springer.",
+                "DOI": "10.1007/978-3-319-00080-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-6",
+                "unstructured": "Chai, D., Forstner, W., and Lafarge, F. 2013. Recovering line-networks in images by junction-point processes. InProc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2013.247",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-7",
+                "unstructured": "Dalstein, B., Ronfard, R., and van de Panne, M. 2015. Vector graphics animation with time-varying topology.ACM Transactions on Graphics (Proc. SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-8",
+                "unstructured": "Delong, A., Osokin, A., Isack, H. N., and Boykov, Y. 2012. Fast approximate energy minimization with label costs.International Journal Computer Vision (IJCV) 96, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-9",
+                "unstructured": "Hastings, W. 1970. Monte Carlo sampling using Markov chains and their applications.Biometrika 57, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-10",
+                "unstructured": "Hilaire, X., and Tombre, K. 2006. Robust and accurate vectorization of line drawings.IEEE Trans. on Pattern Analysis and Machine Intelligence (PAMI) 28, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-11",
+                "unstructured": "Iarussi, E., Li, W., and Bousseau, A. 2015. Wrapit: Computer-assisted crafting of wire wrapped jewelry.ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-12",
+                "unstructured": "Lecot, G., and L&#233;vy, B. 2006. Ardeco: automatic region detection and conversion. InProceedings of the Eurographics Symposium on Rendering Techniques."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-13",
+                "unstructured": "Levin, A., Zomet, A., and Weiss, Y. 2004. Separating reflections from a single image using local features. InProc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2004.1315047",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-14",
+                "unstructured": "Liao, Z., Hoppe, H., Forsyth, D., and Yu, Y. 2012. A subdivision-based representation for vector image editing.IEEE Transactions on Visualization and Computer Graphics (TVCG) 18, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-15",
+                "unstructured": "Liu, X., Wong, T.-T., and Heng, P.-A. 2015. Closure-aware sketch simplification.ACM Transactions on Graphics (TOG) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-16",
+                "unstructured": "Noris, G., Hornung, A., Sumner, R. W., Simmons, M., and Gross, M. 2013. Topology-driven vectorization of clean line drawings.ACM Transactions on Graphics (TOG) 32, 1, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-17",
+                "unstructured": "Orbay, G., and Kara, L. B. 2011. Beautification of design sketches using trainable stroke clustering and curve fitting.IEEE Transactions on Visualization and Computer Graphics (TVCG) 17, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-18",
+                "unstructured": "Orzan, A., Bousseau, A., Winnem&#246;ller, H., Barla, P., Thollot, J., and Salesin, D. 2008. Diffusion curves: a vector representation for smooth-shaded images.ACM Transactions on Graphics (Proc. SIGGRAPH) 27, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-19",
+                "unstructured": "Peng, T., Jermyn, I., Prinet, V., and Zerubia, J. 2010. Extended phase field higher-order active contour models for networks - its application to road network extraction from VHR satellite images.International Journal Computer Vision (IJCV) 88, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-20",
+                "unstructured": "Richardt, C., Lopez-Moreno, J., Bousseau, A., Agrawala, M., and Drettakis, G. 2014. Vectorising bitmaps into semi-transparent gradient layers.Computer Graphics Forum (Proc. Eurographics Symposium on Rendering) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-21",
+                "unstructured": "Salamon, P., Sibani, P., and Frost, R. 2002.Facts, Conjectures, and Improvements for Simulated Annealing.SIAM Monographs on Mathematical Modeling and Computation, Philadelphia, United States.",
+                "DOI": "10.1137/1.9780898718300",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-22",
+                "unstructured": "Sun, J., Liang, L., Wen, F., and Shum, H.-Y. 2007. Image vectorization using optimized gradient meshes.ACM Transactions on Graphics (Proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-23",
+                "unstructured": "Turetken, E., Benmansour, F., Andres, B., Pfister, H., and Fua, P. 2013. Reconstructing Loopy Curvilinear Structures Using Integer Programming. InProc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2013.238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-24",
+                "unstructured": "Xu, B., Chang, W., Sheffer, A., Bousseau, A., McCrae, J., and Singh, K. 2014. True2form: 3d curve networks from 2d sketches via selective regularization.ACM Transactions on Graphics (Proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-25",
+                "unstructured": "Zhang, S.-H., Chen, T., Zhang, Y.-F., Hu, S.-M., and Martin, R. R. 2009. Vectorizing cartoon animations.IEEE Transactions on Visualization and Computer Graphics (TVCG) 15, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925946-26",
+                "unstructured": "Zhou, Y., Yin, K., Huang, H., Zhang, H., Gong, M., and Cohen-Or, D. 2015. Generalized cylinder decomposition.ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 34, 6."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925946&amp;ftid=1755852&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:03Z",
+            "timestamp": 1568162883000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a global approach to line drawing vectorization"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925946",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

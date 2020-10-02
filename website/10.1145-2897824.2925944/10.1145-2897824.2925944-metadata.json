@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    13
+                ]
+            ],
+            "date-time": "2020-01-13T11:23:23Z",
+            "timestamp": 1578914603089
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Swiss National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925944",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 37,
+        "title": [
+            "Beyond developable"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Mina",
+                "family": "Konakovi\u0107",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CMU"
+                    }
+                ]
+            },
+            {
+                "given": "Bailin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hull"
+                    }
+                ]
+            },
+            {
+                "given": "Sofien",
+                "family": "Bouaziz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Piker",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925944-1",
+                "unstructured": "Aflalo, Y., Kimmel, R., and Zibulevsky, M. 2013. Conformal mapping with as uniform as possible conformal factor.SIAM Journal on Imaging Sciences 6, 1, 78--101."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-2",
+                "unstructured": "Bazant, M. Z., and Crowdy, D. 2005.Conformal Mapping Methods for Interfacial Dynamics.",
+                "DOI": "10.1007/1-4020-3286-2_71",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-3",
+                "unstructured": "Ben-Chen, M., and Gotsman, C. 2008. Characterizing shape using conformal factors. InProceedings of the 1st Eurographics Conference on 3D Object Retrieval, 3DOR '08, 1--8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-4",
+                "unstructured": "Ben-Chen, M., Gotsman, C., and Bunin, G. 2008. Conformal flattening by curvature prescription and metric scaling.Computer Graphics Forum 27, 2, 449--458."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-5",
+                "unstructured": "Bobenko, A. I., and Suris, Y. B. 2008.Discrete Differential Geometry: Integrable Structure. AMS.",
+                "DOI": "10.1090/gsm/098",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-6",
+                "unstructured": "Bouaziz, S., Deuss, M., Schwartzburg, Y., Weise, T., and Pauly, M. 2012. Shape-up: Shaping discrete geometry with projections.Comput. Graph. Forum 31, 5, 1657--1667."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-7",
+                "unstructured": "Bouaziz, S., Martin, S., Liu, T., Kavan, L., and Pauly, M. 2014. Projective dynamics: Fusing constraint projections for fast simulation.ACM Trans. Graph. 33, 4 (July), 154:1--154:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-8",
+                "unstructured": "Caneparo, L. 2014.Digital Fabrication in Architecture, Engineering and Construction. Springer.",
+                "DOI": "10.1007/978-94-007-7137-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-9",
+                "unstructured": "Cho, Y., Shin, J.-H., Costa, A., Kim, T. A., Kunin, V., Li, J., Lee, S. Y., Yang, S., Han, H. N., Choi, I.-S., and Srolovitz, D. J. 2014. Engineering the shape and structure of materials by fractal cut.Proceedings of the National Academy of Sciences 111, 49, 17390--17395."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-10",
+                "unstructured": "Cignoni, P., Pietroni, N., Malomo, L., and Scopigno, R. 2014. Field-aligned mesh joinery.ACM Trans. Graph. 33, 1 (Feb.), 11:1--11:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-11",
+                "unstructured": "Crane, K., Pinkall, U., and Schr&#246;der, P. 2011. Spin transformations of discrete surfaces.ACM Trans. Graph. 30, 4 (July), 104:1--104:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-12",
+                "unstructured": "Crane, K., Pinkall, U., and Schr&#246;der, P. 2013. Robust fairing via conformal curvature flow.ACM Trans. Graph. 32, 4 (July), 61:1--61:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-13",
+                "unstructured": "Desbrun, M., Meyer, M., and Alliez, P. 2002. Intrinsic parameterizations of surface meshes.Computer Graphics Forum 21, 3, 209--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-14",
+                "unstructured": "Deuss, M., Deleuran, A., Bouaziz, S., Deng, B., Piker, D., and Pauly, M. 2015. ShapeOp -- a robust and extensible geometric modelling paradigm. InModelling Behaviour. Springer International Publishing, 505--515."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-15",
+                "unstructured": "Evans, K. E., and Alderson, A. 2000. Auxetic materials: Functional materials and structures from lateral thinking!Advanced Materials 12, 9, 617--628."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-16",
+                "unstructured": "Feeman, T. G. 2002.Portraits of the Earth: A Mathematician Looks at Maps. American Mathematical Society.",
+                "DOI": "10.1090/mawrld/018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-17",
+                "unstructured": "Garg, A., Sageman-Furnas, A. O., Deng, B., Yue, Y., Grinspun, E., Pauly, M., and Wardetzky, M. 2014. Wire mesh design.ACM Trans. Graph. 33, 4 (July), 66:1--66:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-18",
+                "unstructured": "Gatt, R., Mizzi, L., Azzopardi, J. I., Azzopardi, K. M., Attard, D., Casha, A., Briffa, J., and Grima, J. N. 2015. Hierarchical auxetic mechanical metamaterials.Scientific Reports 5.",
+                "DOI": "10.1038/srep08395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-19",
+                "unstructured": "Gibson, I., Rosen, D., and Stucker, B. 2015.Additive Manufacturing Technologies: 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing, 2nd ed. Springer.",
+                "DOI": "10.1007/978-1-4939-2113-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-20",
+                "unstructured": "Gu, X., and Yau, S.-T. 2003. Global conformal surface parameterization. InProc. SGP, 127--137."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-21",
+                "unstructured": "Gu, X. D., and Yau, S.-T. 2008.Computational conformal geometry. International Press of Boston, Inc."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-22",
+                "unstructured": "Guo, R. 2011. Local rigidity of inversive distance circle packing.Transactions of the American Mathematical Society 363, 9, 4757--4776."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-23",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2012. crdbrd: Shape fabrication by sliding planar slices.Computer Graphics Forum 31, 2, 583--592."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-24",
+                "unstructured": "Iarussi, E., Li, W., and Bousseau, A. 2015. Wrapit: Computer-assisted crafting of wire wrapped jewelry.ACM Trans. Graph. 34, 6 (Oct.), 221:1--221:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-25",
+                "unstructured": "Igarashi, Y., Igarashi, T., and Mitani, J. 2012. Beady: Interactive beadwork design and construction.ACM Trans. Graph. 31, 4 (July), 49:1--49:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-26",
+                "unstructured": "Kharevych, L., Springborn, B., and Schr&#246;der, P. 2006. Discrete conformal mappings via circle patterns.ACM Trans. Graph. 25, 2 (Apr.), 412--438."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-27",
+                "unstructured": "Kilian, M., Fl&#246;ry, S., Chen, Z., Mitra, N. J., Sheffer, A., and Pottmann, H. 2008. Curved folding.ACM Trans. Graph. 27, 3 (Aug.), 75:1--75:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-28",
+                "unstructured": "Kim, J., Hanna, J. A., Byun, M., Santangelo, C. D., and Hayward, R. C. 2012. Designing responsive buckled surfaces by halftone gel lithography.Science 335, 6073 (Mar.), 1201--1205."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-29",
+                "unstructured": "L&#233;vy, B., Petitjean, S., Ray, N., and Maillot, J. 2002. Least squares conformal maps for automatic texture atlas generation.ACM Trans. Graph. 21, 3 (July), 362--371."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-30",
+                "unstructured": "Li, H., Adams, B., Guibas, L. J., and Pauly, M. 2009. Robust single-view geometry and motion reconstruction.ACM Trans. Graph. 28, 5 (Dec.), 175:1--175:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-31",
+                "unstructured": "Li, S., Zeng, W., Zhou, D., Gu, X. D., and Gao, J. 2013. Compact conformal map for greedy routing in wireless mobile sensor networks. InINFOCOM, IEEE, 2409--2417.",
+                "DOI": "10.1109/INFCOM.2013.6567046",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-32",
+                "unstructured": "Lipman, Y., and Funkhouser, T. 2009. M&#246;bius voting for surface correspondence.ACM Trans. Graph. 28, 3 (July), 72:1--72:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-33",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Trans. Graph. 31, 4 (July), 108:1--108:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-34",
+                "unstructured": "Liu, Y., Pottmann, H., Wallner, J., Yang, Y.-L., and Wang, W. 2006. Geometric modeling with conical meshes and developable surfaces.ACM Trans. Graph. 25, 3 (July), 681--689."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-35",
+                "unstructured": "Luo, S.-J., Yue, Y., Huang, C.-K., Chung, Y.-H., Imai, S., Nishita, T., and Chen, B.-Y. 2015. Legolization: Optimizing lego designs.ACM Trans. Graph. 34, 6 (Oct.), 222:1--222:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-36",
+                "unstructured": "Mullen, P., Tong, Y., Alliez, P., and Desbrun, M. 2008. Spectral conformal parameterization.Computer Graphics Forum 27, 5, 1487--1494."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-37",
+                "unstructured": "P&#233;rez, J., Thomaszewski, B., Coros, S., Bickel, B., Canabal, J. A., Sumner, R., and Otaduy, M. A. 2015. Design and fabrication of flexible rod meshes.ACM Trans. Graph. 34, 4 (July), 138:1--138:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-38",
+                "unstructured": "Pottmann, H., Eigensatz, M., Vaxman, A., and Wallner, J. 2015. Architectural geometry.Computers &#38; Graphics 47, 145--164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-39",
+                "unstructured": "Rafsanjani, A., and Pasini, D. 2016. Multistable compliant auxetic metamaterials inspired by geometric patterns in Islamic arts. APS March Meeting.",
+                "DOI": "10.1016/j.eml.2016.09.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-40",
+                "unstructured": "Resch, R. D. 1973. The topological design of sculptural and architectural systems. InProceedings of the June 4-8, 1973, National Computer Conference and Exposition, ACM, New York, NY, USA, AFIPS '73, 643--650.",
+                "DOI": "10.1145/1499586.1499744",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-41",
+                "unstructured": "R&#246;hrig, T., Sechelmann, S., Kycia, A., and Fleischmann, M. 2014. Surface panelization using periodic conformal maps. InAdvances in Architectural Geometry 2014.Springer International Publishing, 199--214."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-42",
+                "unstructured": "Schiftner, A., H&#246;binger, M., Wallner, J., and Pottmann, H. 2009. Packing circles and spheres on surfaces.ACM Trans. Graph. 28, 5 (Dec.), 139:1--139:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-43",
+                "unstructured": "Schwartzburg, Y., and Pauly, M. 2013. Fabrication-aware design with intersecting planar pieces.Computer Graphics Forum 32, 2, 317--326."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-44",
+                "unstructured": "Skouras, M., Thomaszewski, B., Kaufmann, P., Garg, A., Bickel, B., Grinspun, E., and Gross, M. 2014. Designing inflatable structures.ACM Trans. Graph. 33, 4 (July), 63:1--63:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-45",
+                "unstructured": "Song, P., Fu, C.-W., Goswami, P., Zheng, J., Mitra, N. J., and Cohen-Or, D. 2013. Reciprocal frame structures made easy.ACM Trans. Graph. 32, 4 (July), 94:1--94:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-46",
+                "unstructured": "Springborn, B., Schr&#246;der, P., and Pinkall, U. 2008. Conformal equivalence of triangle meshes.ACM Trans. Graph. 27, 3 (Aug.), 77:1--77:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-47",
+                "unstructured": "Stephenson, K. 2003. Circle packing: a mathematical tale.Notices of the AMS 50, 11, 1376--1388."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-48",
+                "unstructured": "Sullivan, J. M. 2011. Conformal tiling on a torus. InProceedings of Bridges 2011: Mathematics, Music, Art, Architecture, Culture, Tessellations Publishing, R. Sarhangi and C. H. S&#233;quin, Eds., 593--596."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-49",
+                "unstructured": "Tachi, T. 2010. Origamizing polyhedral surfaces.IEEE Trans. Vis. Comput. Graph. 16, 2, 298--311."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-50",
+                "unstructured": "Tachi, T. 2013. Freeform origami tessellations by generalizing Resch's patterns.Journal of Mechanical Design 135, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-51",
+                "unstructured": "Tang, C., Bo, P., Wallner, J., and Pottmann, H. 2016. Interactive design of developable surfaces.ACM Trans. Graph. 35, 2 (Jan.), 12:1--12:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-52",
+                "unstructured": "Testuz, R., Schwartzburg, Y., and Pauly, M. 2013. Automatic generation of constructable brick sculptures. InProc. Eurographics."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-53",
+                "unstructured": "Vaxman, A., M&#252;ller, C., and Weber, O. 2015. Conformal mesh deformations with M&#246;bius transformations.ACM Trans. Graph. 34, 4 (July), 55:1--55:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-54",
+                "unstructured": "Weber, O., Myles, A., and Zorin, D. 2012. Computing extremal quasiconformal maps.Computer Graphics Forum 31, 5, 1679--1689."
+            },
+            {
+                "key": "key-10.1145/2897824.2925944-55",
+                "unstructured": "Zimmer, H., and Kobbelt, L. 2014. Zometool rationalization of freeform surfaces.Visualization and Computer Graphics, IEEE Transactions on 20, 10 (Oct), 1461--1473."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925944&amp;ftid=1755942&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:19Z",
+            "timestamp": 1568162719000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "computational design and fabrication with auxetic materials"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925944",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:04Z",
+            "timestamp": 1574859844980
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201295",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Object-aware guidance for autonomous scene reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ligang",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Xi",
+                "family": "Xia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Han",
+                "family": "Sun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Qi",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Juzhan",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Bin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and National University of Defense Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201295-1",
+                "unstructured": "Sameer Agarwal, Noah Snavely, Steven M. Seitz, and Richard Szeliski. 2010. Bundle Adjustment in the Large. InEuropean Conference on Computer Vision.29--42.",
+                "DOI": "10.1007/978-3-642-15552-9_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-2",
+                "unstructured": "Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari. 2012. Measuring the objectness of image windows.IEEE transactions on pattern analysis and machine intelligence34, 11 (2012), 2189--2202.",
+                "DOI": "10.1109/TPAMI.2012.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-3",
+                "unstructured": "Iro Armeni, Sasha Sax, Amir R Zamir, and Silvio Savarese. 2017. Joint 2D-3D-Semantic Data for Indoor Scene Understanding.arXiv preprint arXiv:1702.01105(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-4",
+                "unstructured": "Benjamin Charrow, Gregory Kahn, Sachin Patil, Sikang Liu, Ken Goldberg, Pieter Abbeel, Nathan Michael, and Vijay Kumar. 2015. Information-theoretic planning with trajectory optimization for dense 3D mapping. InProceedings of Robotics: Science and Systems.",
+                "DOI": "10.15607/RSS.2015.XI.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-5",
+                "unstructured": "Xiaobai Chen, Aleksey Golovinskiy, and Thomas Funkhouser. 2013. A Benchmark for 3D Mesh Segmentation.ACM Trans. on Graph. (SIGGRAPH)28, 3 (2013), 73:1--73:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-6",
+                "unstructured": "Sungjoon Choi, Qian-Yi Zhou, and Vladlen Koltun. 2015. Robust reconstruction of indoor scenes. InProc. CVPR.5556--5565.",
+                "DOI": "10.1109/CVPR.2015.7299195",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-7",
+                "unstructured": "Angela Dai, Angel X Chang, Manolis Savva, Maciej Halber, Thomas Funkhouser, and Matthias Nie&#223;ner. 2017. Scannet: Richly-annotated 3d reconstructions of indoor scenes.arXiv preprint arXiv:1702.04405(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-8",
+                "unstructured": "Nikolas Engelhard, Felix Endres, J&#252;rgen Hess J&#252;rgen Sturm, and Wolfram Burgard. 2011. Real-time 3D visual SLAM with a hand-held RGB-D camera. InProc. of the RGB-D Workshop on 3D Perception in Robotics at the European Robotics Forum, Vasteras, Sweden, Vol 180. 1--15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-9",
+                "unstructured": "Xinyi Fan, Linguang Zhang, Benedict Brown, and Szymon Rusinkiewicz. 2016. Automated View and Path Planning for Scalable Multi-Object 3D Scanning.ACM Trans. on Graph. (SIGGRAPH Asia)35, 6 (2016), 239."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-10",
+                "unstructured": "Matthew Fisher, Daniel Ritchie, Manolis Savva, Thomas Funkhouser, and Pat Hanrahan. 2012. Example-based synthesis of 3D object arrangements.ACM Trans. on Graph. (SIGGRAPH Asia)31, 6 (2012), 135:1--135:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-11",
+                "unstructured": "Gazebo. 2013. The Gazebo Project, http://wiki.ros.org/gazebo. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-12",
+                "unstructured": "Armin Hornung, Kai M Wurm, Maren Bennewitz, Cyrill Stachniss, and Wolfram Burgard. 2013. OctoMap: An efficient probabilistic 3D mapping framework based on octrees.Autonomous Robots34, 3 (2013), 189--206.",
+                "DOI": "10.1007/s10514-012-9321-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-13",
+                "unstructured": "M Krainin, B Curless, and D Fox. 2012. Autonomous generation of complete 3D object models using next best view manipulation planning. InIEEE International Conference on Robotics and Automation.5031--5037.",
+                "DOI": "10.1109/ICRA.2011.5980429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-14",
+                "unstructured": "Simon Kriegel, Christian Rink, Tim Bodenm&#252;ller, Alexander Narr, Michael Suppa, and Gerd Hirzinger. 2012. Next-best-scan planning for autonomous 3D modeling. InProc. IROS.2850--2856.",
+                "DOI": "10.1109/IROS.2012.6385624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-15",
+                "unstructured": "S. Lloyd. 1982. Least squared quantization in pcm.IEEE Transactions on Information Theory28, 2 (1982), 129--137.",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-16",
+                "unstructured": "Kok-Lim Low and Anselmo Lastra. 2006. An adaptive hierarchical next-best-view algorithm for 3d reconstruction of indoor scenes. InProceedings of 14th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2006)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-17",
+                "unstructured": "Liangliang Nan, Ke Xie, and Andrei Sharf. 2012. A Search-classify Approach for Cluttered Indoor Scene Understanding.ACM Trans. on Graph. (SIGGRAPH Asia)31, 6 (2012), 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-18",
+                "unstructured": "Richard A. Newcombe, Shahram Izadi, Otmar Hilliges, David Molyneaux, David Kim, Andrew J. Davison, Pushmeet Kohli, Jamie Shotton, Steve Hodges, and Andrew Fitzgibbon. 2012. KinectFusion: Real-time dense surface mapping and tracking. InIEEE International Symposium on Mixed and Augmented Reality.127--136.",
+                "DOI": "10.1109/ISMAR.2011.6162880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-19",
+                "unstructured": "Charles R Qi, Li Yi, Hao Su, and Leonidas J Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.arXiv preprint arXiv:1706.02413(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-20",
+                "unstructured": "Manikandasriram Srinivasan Ramanagopal and Jerome Le Ny. 2016. Motion Planning Strategies for Autonomously Mapping 3D Structures.arXiv preprint arXiv:1602.06667(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-21",
+                "unstructured": "Renato F. Salas-Moreno, Richard A. Newcombe, Hauke Strasdat, Paul H. J. Kelly, and Andrew J. Davison. 2012. SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. InCVPR.1352--1359.",
+                "DOI": "10.1109/CVPR.2013.178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-22",
+                "unstructured": "Shuran Song, Fisher Yu, Andy Zeng, Angel X Chang, Manolis Savva, and Thomas Funkhouser. 2017. Semantic Scene Completion from a Single Depth Image. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-23",
+                "unstructured": "Keisuke Tateno, Federico Tombari, and Nassir Navab. 2015. Real-time and scalable incremental segmentation on dense SLAM. InIntelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on.IEEE, 4465--4472.",
+                "DOI": "10.1109/IROS.2015.7354011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-24",
+                "unstructured": "Sebastian Thrun. 2002.Robotic mapping: a survey.Morgan Kaufmann Publishers Inc. 2002 pages."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-25",
+                "unstructured": "Julien Valentin, Vibhav Vineet, Ming-Ming Cheng, David Kim, Jamie Shotton, Pushmeet Kohli, Matthias Nie&#223;ner, Antonio Criminisi, Shahram Izadi, and Philip Torr. 2015. SemanticPaint: Interactive 3D Labeling and Learning at your Finger tips.ACM Trans. on Graph.34, 5 (2015).",
+                "DOI": "10.1145/2751556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-26",
+                "unstructured": "Thomas Whelan, Stefan Leutenegger, Renato F Salas-Moreno, Ben Glocker, and Andrew J Davison. 2015. ElasticFusion: Dense SLAM without a pose graph. InProc. Robotics: Science and Systems.",
+                "DOI": "10.15607/RSS.2015.XI.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-27",
+                "unstructured": "Shihao Wu, Wei Sun, Pinxin Long, Hui Huang, Daniel Cohen-Or, Minglun Gong, Oliver Deussen, and Baoquan Chen. 2014. Quality-driven Poisson-guided autoscanning.ACM Trans. on Graph. (SIGGRAPH Asia)33, 6 (2014), 203."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-28",
+                "unstructured": "Kai Xu, Hui Huang, Yifei Shi, Hao Li, Pinxin Long, Jiannong Caichen, Wei Sun, and Baoquan Chen. 2015. Autoscanning for Coupled Scene Reconstruction and Proactive Object Analysis.ACM Trans. on Graph.34, 6 (2015), 177.",
+                "DOI": "10.1145/2816795.2818075",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-29",
+                "unstructured": "Kai Xu, Yifei Shi, Lintao Zheng, Junyu Zhang, Min Liu, Hui Huang, Hao Su, Daniel Cohen-Or, and Baoquan Chen. 2016. 3D Attention-Driven Depth Acquisition for Object Identification.ACM Trans. on Graph. (SIGGRAPH Asia)35, 6 (2016), 238."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-30",
+                "unstructured": "Kai Xu, Lintao Zheng, Zihao Yan, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, and Hui Huang. 2017. Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-varying Tensor Fields.ACM Trans. on Graph. (SIGGRAPH Asia)36, 6 (2017), 202:1--15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-31",
+                "unstructured": "Andy Zeng, Shuran Song, Matthias Nie&#223;ner, Matthew Fisher, Jianxiong Xiao, and Thomas Funkhouser. 2016. 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions.arXiv preprint arXiv:1603.08182(2016).",
+                "DOI": "10.1109/CVPR.2017.29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201295-32",
+                "unstructured": "Yizhong Zhang, Weiwei Xu, Yiying Tong, and Kun Zhou. 2015. Online Structure Analysis for Real-Time Indoor Scene Reconstruction.Acm Transactions on Graphics34, 5 (2015), 159."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201295&ftid=1991783&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:53:36Z",
+            "timestamp": 1571673216000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201295",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

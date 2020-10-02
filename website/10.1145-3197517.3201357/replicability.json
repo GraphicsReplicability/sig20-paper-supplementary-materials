@@ -1,0 +1,135 @@
+{
+    "Timestamp": "12/6/2019 11:30:25",
+    "Title": "Looking to listen at the cocktail party: a speaker-independent audio-visual model for speech separation",
+    "DOI": "10.1145/3197517.3201357",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://arxiv.org/abs/1804.03619",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1804.03619.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 105,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://looking-to-listen.github.io",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Ariel",
+            "family": "Ephrat",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Google Research and The Hebrew University of Jerusalem, Israel"
+                }
+            ]
+        },
+        {
+            "given": "Inbar",
+            "family": "Mosseri",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Oran",
+            "family": "Lang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Tali",
+            "family": "Dekel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Kevin",
+            "family": "Wilson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Avinatan",
+            "family": "Hassidim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "William T.",
+            "family": "Freeman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Rubinstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 127.13,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=128&types=mbtttttg",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=36306599"
+}

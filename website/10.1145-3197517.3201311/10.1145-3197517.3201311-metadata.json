@@ -1,0 +1,476 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    20
+                ]
+            ],
+            "date-time": "2020-01-20T16:23:17Z",
+            "timestamp": 1579537397434
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "NSERC",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Berkeley",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201311",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "DeepMimic"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Xue Bin",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Pieter",
+                "family": "Abbeel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Sergey",
+                "family": "Levine",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Michiel",
+                "family": "van de Panne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201311-1",
+                "unstructured": "Shailen Agrawal, Shuo Shen, and Michiel van de Panne. 2013. Diverse Motion Variations for Physics-based Character Animation.Symposium on Computer Animation(2013).",
+                "DOI": "10.1145/2485895.2485907",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-2",
+                "unstructured": "Shailen Agrawal and Michiel van de Panne. 2016. Task-based Locomotion.ACM Trans. Graph.35, 4, Article 82 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925893",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-3",
+                "unstructured": "Marc G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and R&#233;mi Munos. 2016. Unifying Count-Based Exploration and Intrinsic Motivation.CoRRabs/1606.01868 (2016). arXiv:1606.01868"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-4",
+                "unstructured": "Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zaremba. 2016a. OpenAI Gym.CoRRabs/1606.01540 (2016). arXiv:1606.01540"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-5",
+                "unstructured": "Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zaremba. 2016b. OpenAI Gym. arXiv:arXiv:1606.01540"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-6",
+                "unstructured": "Bullet. 2015. Bullet Physics Library, http://bulletphysics.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-7",
+                "unstructured": "Stelian Coros, Philippe Beaudoin, and Michiel van de Panne. 2009. Robust Task-based Control Policies for Physics-based Characters.ACM Trans. Graph. (Proc. SIGGRAPH Asia)28, 5 (2009), Article 170."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-8",
+                "unstructured": "Stelian Coros, Philippe Beaudoin, and Michiel van de Panne. 2010. Generalized Biped Walking Control.ACM Transctions on Graphics29, 4 (2010), Article 130."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-9",
+                "unstructured": "M. Da Silva, Y. Abe, and J. Popovic. 2008. Simulation of Human Motion Data using Short-Horizon Model-Predictive Control.Computer Graphics Forum(2008).",
+                "DOI": "10.1111/j.1467-8659.2008.01134.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-10",
+                "unstructured": "Yan Duan, Xi Chen, Rein Houthooft, John Schulman, and Pieter Abbeel. 2016. Benchmarking Deep Reinforcement Learning for Continuous Control.CoRRabs/1604.06778 (2016). arXiv:1604.06778"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-11",
+                "unstructured": "Justin Fu, John Co-Reyes, and Sergey Levine. 2017. EX2: Exploration with Exemplar Models for Deep Reinforcement Learning. InAdvances in Neural Information Processing Systems 30.Curran Associates, Inc., 2574--2584."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-12",
+                "unstructured": "Sehoon Ha and C Karen Liu. 2014. Iterative training of dynamic skills inspired by human coaching techniques.ACM Transactions on Graphics34, 1 (2014).",
+                "DOI": "10.1145/2682626",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-13",
+                "unstructured": "Perttu H&#228;m&#228;l&#228;inen, Joose Rajam&#228;ki, and C Karen Liu. 2015. Online control of simulated humanoids using particle belief propagation.ACM Transactions on Graphics (TOG)34, 4 (2015), 81."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-14",
+                "unstructured": "Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin A. Riedmiller, and David Silver. 2017. Emergence of Locomotion Behaviours in Rich Environments.CoRRabs/1707.02286 (2017). arXiv:1707.02286"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-15",
+                "unstructured": "Nicolas Heess, Gregory Wayne, Yuval Tassa, Timothy P. Lillicrap, Martin A. Riedmiller, and David Silver. 2016. Learning and Transfer of Modulated Locomotor Controllers.CoRRabs/1610.05182 (2016). arXiv:1610.05182"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-16",
+                "unstructured": "Jonathan Ho and Stefano Ermon. 2016. Generative Adversarial Imitation Learning. InAdvances in Neural Information Processing Systems 29.Curran Associates, Inc., 4565--4573."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-17",
+                "unstructured": "Daniel Holden, Taku Komura, and Jun Saito. 2017. Phase-functioned Neural Networks for Character Control.ACM Trans. Graph.36, 4, Article 42 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073663",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-18",
+                "unstructured": "Daniel Holden, Jun Saito, and Taku Komura. 2016. A Deep Learning Framework for Character Motion Synthesis and Editing.ACM Trans. Graph.35, 4, Article 138 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-19",
+                "unstructured": "Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel. 2016. Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks.CoRRabs/1605.09674 (2016). arXiv:1605.09674"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-20",
+                "unstructured": "Yoonsang Lee, Sungeun Kim, and Jehee Lee. 2010a. Data-driven Biped Control. InACM SIGGRAPH 2010 Papers (SIGGRAPH '10).ACM, New York, NY, USA, Article 129, 8 pages.",
+                "DOI": "10.1145/1833349.1781155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-21",
+                "unstructured": "Yoonsang Lee, Moon Seok Park, Taesoo Kwon, and Jehee Lee. 2014. Locomotion Control for Many-muscle Humanoids.ACM Trans. Graph.33, 6, Article 218 (Nov. 2014), 11 pages.",
+                "DOI": "10.1145/2661229.2661233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-22",
+                "unstructured": "Yongjoon Lee, Kevin Wampler, Gilbert Bernstein, Jovan Popovi&#263;, and Zoran Popovi&#263;. 2010b. Motion Fields for Interactive Character Locomotion. InACM SIGGRAPH Asia 2010 Papers (SIGGRAPH ASIA '10).ACM, New York, NY, USA, Article 138, 8 pages.",
+                "DOI": "10.1145/1882262.1866160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-23",
+                "unstructured": "Sergey Levine, Jack M. Wang, Alexis Haraux, Zoran Popovi&#263;, and Vladlen Koltun. 2012. Continuous Character Control with Low-Dimensional Embeddings.ACM Transactions on Graphics31, 4 (2012), 28."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-24",
+                "unstructured": "Libin Liu and Jessica Hodgins. 2017. Learning to Schedule Control Fragments for Physics-Based Characters Using Deep Q-Learning.ACM Trans. Graph.36, 3, Article 29 (June 2017), 14 pages.",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-25",
+                "unstructured": "Libin Liu, Michiel van de Panne, and KangKang Yin. 2016. Guided Learning of Control Graphs for Physics-Based Characters.ACM Transactions on Graphics35, 3 (2016).",
+                "DOI": "10.1145/2893476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-26",
+                "unstructured": "Libin Liu, KangKang Yin, Michiel van de Panne, Tianjia Shao, and Weiwei Xu. 2010. Sampling-based Contact-rich Motion Control.ACM Transctions on Graphics29, 4 (2010), Article 128."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-27",
+                "unstructured": "Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. 2017. Learning human behaviors from motion capture by adversarial imitation.CoRRabs/1707.02201 (2017). arXiv:1707.02201"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-28",
+                "unstructured": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. 2015. Human-level control through deep reinforcement learning.Nature518, 7540 (Feb. 2015), 529--533.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-29",
+                "unstructured": "Igor Mordatch, Emanuel Todorov, and Zoran Popovi&#263;. 2012. Discovery of Complex Behaviors Through Contact-invariant Optimization.ACM Trans. Graph.31, 4, Article 43 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2335394",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-30",
+                "unstructured": "Uldarico Muico, Yongjoon Lee, Jovan Popovi&#263;, and Zoran Popovi&#263;. 2009. Contact-aware nonlinear control of dynamic characters. InACM Transactions on Graphics (TOG),Vol. 28. ACM, 81.",
+                "DOI": "10.1145/1576246.1531387",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-31",
+                "unstructured": "Ashvin Nair, Bob McGrew, Marcin Andrychowicz, Wojciech Zaremba, and Pieter Abbeel. 2017. Overcoming Exploration in Reinforcement Learning with Demonstrations.CoRRabs/1709.10089 (2017). arXiv:1709.10089"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-32",
+                "unstructured": "Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2015. Dynamic Terrain Traversal Skills Using Reinforcement Learning.ACM Trans. Graph.34, 4, Article 80 (July 2015), 11 pages.",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-33",
+                "unstructured": "Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2016. Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning.ACM Transactions on Graphics (Proc. SIGGRAPH 2016)35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925881",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-34",
+                "unstructured": "Xue Bin Peng, Glen Berseth, KangKang Yin, and Michiel van de Panne. 2017a. DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning.ACM Transactions on Graphics (Proc. SIGGRAPH 2017)36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-35",
+                "unstructured": "Xue Bin Peng, Michiel van de Panne, and KangKang Yin. 2017b. Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter?. InProc. ACM SIGGRAPH / Eurographics Symposium on Computer Animation.",
+                "DOI": "10.1145/3099564.3099567",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-36",
+                "unstructured": "Aravind Rajeswaran, Sarvjeet Ghotra, Sergey Levine, and Balaraman Ravindran. 2016. EPOpt: Learning Robust Neural Network Policies Using Model Ensembles.CoRRabs/1610.01283 (2016). arXiv:1610.01283"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-37",
+                "unstructured": "Aravind Rajeswaran, Vikash Kumar, Abhishek Gupta, John Schulman, Emanuel Todorov, and Sergey Levine. 2017. Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations.CoRRabs/1709.10087 (2017). arXiv:1709.10087"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-38",
+                "unstructured": "Alla Safonova and Jessica K Hodgins. 2007. Construction and optimal search of interpolated motion graphs. InACM Transactions on Graphics (TOG),Vol. 26. ACM, 106."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-39",
+                "unstructured": "John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, and Pieter Abbeel. 2015a. Trust Region Policy Optimization.CoRRabs/1502.05477 (2015). arXiv:1502.05477"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-40",
+                "unstructured": "John Schulman, Philipp Moritz, Sergey Levine, Michael I. Jordan, and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation.CoRRabs/1506.02438 (2015). arXiv:1506.02438"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-41",
+                "unstructured": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. 2017. Proximal Policy Optimization Algorithms.CoRRabs/1707.06347 (2017). arXiv:1707.06347"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-42",
+                "unstructured": "Dana Sharon and Michiel van de Panne. 2005. Synthesis of Controllers for Stylized Planar Bipedal Walking. InProc. of IEEE International Conference on Robotics and Animation.",
+                "DOI": "10.1109/ROBOT.2005.1570470",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-43",
+                "unstructured": "Kwang Won Sok, Manmyung Kim, and Jehee Lee. 2007. Simulating biped behaviors from human motion data. InACM Transactions on Graphics (TOG),Vol. 26. ACM, 107.",
+                "DOI": "10.1145/1275808.1276511",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-44",
+                "unstructured": "R. Sutton, D. Mcallester, S. Singh, and Y. Mansour. 2001. Policy Gradient Methods for Reinforcement Learning with Function Approximation. , 1057--1063 pages."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-45",
+                "unstructured": "Richard S. Sutton and Andrew G. Barto. 1998.Introduction to Reinforcement Learning(1st ed.). MIT Press, Cambridge, MA, USA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-46",
+                "unstructured": "Jie Tan, Karen Liu, and Greg Turk. 2011. Stable Proportional-Derivative Controllers.IEEE Comput. Graph. Appl.31, 4 (2011), 34--44.",
+                "DOI": "10.1109/MCG.2011.30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-47",
+                "unstructured": "Yuval Tassa, Tom Erez, and Emanuel Todorov. 2012. Synthesis and stabilization of complex behaviors through online trajectory optimization. InIntelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on.IEEE, 4906--4913.",
+                "DOI": "10.1109/IROS.2012.6386025",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-48",
+                "unstructured": "Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu. 2017. Distral: Robust Multitask Reinforcement Learning.CoRRabs/1707.04175 (2017). arXiv:1707.04175"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-49",
+                "unstructured": "Kevin Wampler, Zoran Popovi&#263;, and Jovan Popovi&#263;. 2014. Generalizing Locomotion Style to New Animals with Inverse Optimal Regression.ACM Trans. Graph.33, 4, Article 49 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601192",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-50",
+                "unstructured": "Jack M. Wang, Samuel R. Hamner, Scott L. Delp, Vladlen Koltun, and More Specifically. 2012. Optimizing locomotion controllers using biologically-based actuators and objectives.ACM Trans. Graph(2012).",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-51",
+                "unstructured": "Ronald J. Williams. 1992. Simple statistical gradient-following algorithms for connectionist reinforcement learning.Machine Learning8, 3 (01 May 1992), 229--256.",
+                "DOI": "10.1007/BF00992696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-52",
+                "unstructured": "Jungdam Won, Jongho Park, Kwanyu Kim, and Jehee Lee. 2017. How to Train Your Dragon: Example-guided Control of Flapping Flight.ACM Trans. Graph.36, 6, Article 198 (Nov. 2017), 13 pages.",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-53",
+                "unstructured": "Yuting Ye and C Karen Liu. 2010a. Optimal feedback control for character animation using an abstract model. InACM Transactions on Graphics (TOG),Vol. 29. ACM, 74.",
+                "DOI": "10.1145/1833349.1778811",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-54",
+                "unstructured": "Yuting Ye and C. Karen Liu. 2010b. Synthesis of Responsive Motion Using a Dynamic Model.Computer Graphics Forum29, 2 (2010), 555--562.",
+                "DOI": "10.1111/j.1467-8659.2009.01625.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201311-55",
+                "unstructured": "KangKang Yin, Kevin Loken, and Michiel van de Panne. 2007. SIMBICON: Simple Biped Locomotion Control.ACM Trans. Graph.26, 3 (2007), Article 105.",
+                "DOI": "10.1145/1275808.1276509",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201311&ftid=1991717&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:32Z",
+            "timestamp": 1571673512000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "example-guided deep reinforcement learning of physics-based character skills"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201311",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

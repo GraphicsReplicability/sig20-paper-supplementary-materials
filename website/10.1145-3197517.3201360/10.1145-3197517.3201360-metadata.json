@@ -1,0 +1,606 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849438
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1538593"
+                ]
+            },
+            {
+                "name": "NSF CAREER award",
+                "award": [
+                    "IIS-1652515"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201360",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Stitch meshing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kui",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            },
+            {
+                "given": "Xifeng",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Zachary",
+                "family": "Ferguson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Cem",
+                "family": "Yuksel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201360-1",
+                "unstructured": "Ergun Akleman, Jianer Chen, Qing Xing, and Jonathan L. Gross. 2009. Cyclic Plain-weaving on Polygonal Mesh Surfaces with Graph Rotation Systems.ACM Trans. Graph.28, 3, Article 78 (July 2009), 8 pages.",
+                "DOI": "10.1145/1576246.1531384",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-2",
+                "unstructured": "Pierre Alliez, Mark Meyer, and Mathieu Desbrun. 2002. Interactive Geometry Remeshing.ACM Trans. Graph.21, 3 (2002).",
+                "DOI": "10.1145/566654.566588",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-3",
+                "unstructured": "David Baraff and Andrew Witkin. 1998. Large Steps in Cloth Simulation. InProceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '98).ACM, New York, NY, USA, 43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-4",
+                "unstructured": "Floraine Berthouzoz, Akash Garg, Danny M. Kaufman, Eitan Grinspun, and Maneesh Agrawala. 2013. Parsing Sewing Patterns into 3D Garments.ACM Trans. Graph.32, 4, Article 85 (July 2013), 12 pages.",
+                "DOI": "10.1145/2461912.2461975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-5",
+                "unstructured": "D. Bommes, B. L&#233;vy, N. Pietroni, E. Puppo, C. Silva, M. Tarini, and D. Zorin. 2013. Quad-Mesh Generation and Processing: A Survey.Comp. Graphics Forum32 (2013).",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-6",
+                "unstructured": "David Bommes, Henrik Zimmer, and Leif Kobbelt. 2009. Mixed-integer Quadrangulation.ACM Trans. Graph.28, 3 (2009).",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-7",
+                "unstructured": "Derek Bradley, Tiberiu Popa, Alla Sheffer, Wolfgang Heidrich, and Tamy Boubekeur. 2008. Markerless Garment Capture.ACM Trans. Graph.27, 3, Article 99 (Aug. 2008).",
+                "DOI": "10.1145/1360612.1360698",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-8",
+                "unstructured": "David E. Breen, Donald H. House, and Michael J. Wozny. 1994. Predicting the Drape of Woven Cloth Using Interacting Particles. InProceedings of the 21st Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '94).365--372.",
+                "DOI": "10.1145/192161.192259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-9",
+                "unstructured": "Robert Bridson, Ronald Fedkiw, and John Anderson. 2002. Robust Treatment of Collisions, Contact and Friction for Cloth Animation.ACM Trans. Graph.21, 3 (July 2002), 594--603.",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-10",
+                "unstructured": "Michel Carignan, Ying Yang, Nadia Magnenat Thalmann, and Daniel Thalmann. 1992. Dressing Animated Synthetic Actors with Complex Deformable Clothes.SIGGRAPH Comput. Graph.26, 2 (July 1992), 99--104.",
+                "DOI": "10.1145/142920.134017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-11",
+                "unstructured": "Xiaowu Chen, Bin Zhou, Feixiang Lu, Lin Wang, Lang Bi, and Ping Tan. 2015. Garment Modeling with a Depth Camera.ACM Trans. Graph.34, 6, Article 203 (Oct. 2015).",
+                "DOI": "10.1145/2816795.2818059",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-12",
+                "unstructured": "Gabriel Cirio, Jorge Lopez-Moreno, David Miraut, and Miguel A. Otaduy. 2014. Yarn-level Simulation of Woven Cloth.ACM Trans. Graph.33, 6, Article 207 (Nov. 2014), 207:1--207:11 pages.",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-13",
+                "unstructured": "Gabriel Cirio, Jorge Lopez-Moreno, and Miguel A. Otaduy. 2015. Efficient Simulation of Knitted Cloth Using Persistent Contacts. InProceedings of the 14th ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '15).55--61.",
+                "DOI": "10.1145/2786784.2786801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-14",
+                "unstructured": "G. Cirio, J. Lopez-Moreno, and M. A. Otaduy. 2017. Yarn-Level Cloth Simulation with Sliding Persistent Contacts.IEEE Transactions on Visualization and Computer Graphics23, 2 (Feb 2017), 1152--1162.",
+                "DOI": "10.1109/TVCG.2016.2592908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-15",
+                "unstructured": "Keenan Crane, Mathieu Desbrun, and Peter Schr&#246;der. 2010. Trivial Connections on Discrete Surfaces.Computer Graphics Forum29, 5 (2010).",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-16",
+                "unstructured": "R. Dan&#283;&#345;ek, E. Dibra, C. &#214;ztireli, R. Ziegler, and M. Gross. 2017. DeepGarment : 3D Garment Shape Estimation from a Single Image.Computer Graphics Forum36, 2 (2017), 269--280.",
+                "DOI": "10.1111/cgf.13125",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-17",
+                "unstructured": "DAVID. 2018. DAVID 3D Scanner, http://www.david-3d.com/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-18",
+                "unstructured": "Philippe Decaudin, Dan Julius, Jamie Wither, Laurence Boissieux, Alla Sheffer, and Marie-Paule Cani. 2006. Virtual Garments: A Fully Geometric Approach for Clothing Design.Computer Graphics Forum(2006).",
+                "DOI": "10.1111/j.1467-8659.2006.00982.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-19",
+                "unstructured": "Olga Diamanti, Amir Vaxman, Daniele Panozzo, and Olga Sorkine-Hornung. 2014. DesigningN-PolyVector Fields with Complex Polynomials.Computer Graphics Forum33, 5 (2014).",
+                "DOI": "10.1111/cgf.12426",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-20",
+                "unstructured": "Hans-Christian Ebke, Marcel Campen, David Bommes, and Leif Kobbelt. 2014. Level-of-detail Quad Meshing.ACM Trans. Graph.33, 6, Article 184 (2014).",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-21",
+                "unstructured": "Xifeng Gao, Wenzel Jakob, Marco Tarini, and Daniele Panozzo. 2017. Robust Hex-dominant Mesh Generation Using Field-guided Polyhedral Agglomeration.ACM Trans. Graph.36, 4, Article 114 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-22",
+                "unstructured": "Rony Goldenthal, David Harmon, Raanan Fattal, Michel Bercovier, and Eitan Grinspun. 2007. Efficient Simulation of Inextensible Cloth.ACM Trans. Graph.26, 3, Article 49 (July 2007).",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-23",
+                "unstructured": "Eitan Grinspun, Anil N. Hirani, Mathieu Desbrun, and Peter Schr&#246;der. 2003. Discrete Shells. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 62--67."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-24",
+                "unstructured": "Xianfeng Gu, Steven J. Gortler, and Hugues Hoppe. 2002. Geometry Images.ACM Trans. Graph.21, 3 (2002).",
+                "DOI": "10.1145/566654.566589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-25",
+                "unstructured": "Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, and Michael J. Black. 2012. DRAPE: DRessing Any PErson.ACM Trans. Graph.31, 4, Article 35 (July 2012), 10 pages.",
+                "DOI": "10.1145/2185520.2335386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-26",
+                "unstructured": "Inc. Gurobi Optimization. 2016. Gurobi Optimizer Reference Manual. http://www.gurobi.com"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-27",
+                "unstructured": "Aaron Hertzmann and Denis Zorin. 2000. Illustrating Smooth Surfaces. InProceedings of ACM SIGGRAPH.ACM Press/Addison-Wesley Publishing Co., 517--526.",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-28",
+                "unstructured": "Zhiyang Huang and Tao Ju. 2016. Extrinsically Smooth Direction Fields.Comput. Graph.58, C (Aug. 2016), 109--117.",
+                "DOI": "10.1016/j.cag.2016.05.015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-29",
+                "unstructured": "Yuki Igarashi, Takeo Igarashi, and Hiromasa Suzuki. 2008a. Knitting a 3D Model.Computer Graphics Forum27, 7 (2008), 1737--1743.",
+                "DOI": "10.1111/j.1467-8659.2008.01318.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-30",
+                "unstructured": "Yuki Igarashi, Takeo Igarashi, and Hiromasa Suzuki. 2008b. Knitty: 3D Modeling of Knitted Animals with a Production Assistant Interface. InEurographics 2008 - Short Papers, Katerina Mania and Eric Reinhard (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-31",
+                "unstructured": "Wenzel Jakob, Marco Tarini, Daniele Panozzo, and Olga Sorkine-Hornung. 2015. Instant Field-aligned Meshes.ACM Trans. Graph.34, 6, Article 189 (Oct. 2015), 15 pages.",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-32",
+                "unstructured": "Chenfanfu Jiang, Theodore Gast, and Joseph Teran. 2017. Anisotropic Elastoplasticity for Cloth, Knit and Hair Frictional Contact.ACM Trans. Graph.36, 4, Article 152 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-33",
+                "unstructured": "Tengfei Jiang, Xianzhong Fang, Jin Huang, Hujun Bao, Yiying Tong, and Mathieu Desbrun. 2015. Frame Field Generation through Metric Customization.ACM Trans. Graph.34, 4 (2015).",
+                "DOI": "10.1145/2766927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-34",
+                "unstructured": "Felix K&#228;lberer, Matthias Nieser, and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings.Computer Graphics Forum26, 3 (2007).",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-35",
+                "unstructured": "Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2008. Simulating Knitted Cloth at the Yarn Level.ACM Trans. Graph.27, 3, Article 65 (Aug. 2008), 9 pages.",
+                "DOI": "10.1145/1399504.1360664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-36",
+                "unstructured": "Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2010. Efficient Yarn-based Cloth with Adaptive Contact Linearization.ACM Trans. Graph.29, 4, Article 105 (July 2010), 10 pages.",
+                "DOI": "10.1145/1833349.1778842",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-37",
+                "unstructured": "Andrei Khodakovsky, Nathan Litke, and Peter Schr&#246;der. 2003. Globally Smooth Parameterizations with Low Distortion.ACM Trans. Graph.22, 3 (2003).",
+                "DOI": "10.1145/882262.882275",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-38",
+                "unstructured": "Felix Kn&#246;ppel, Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2013. Globally optimal direction fields.ACM Trans. Graph.(2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-39",
+                "unstructured": "Felix Kn&#246;ppel, Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2015. Stripe Patterns on Surfaces.ACM Trans. Graph.34, 4, Article 39 (July 2015), 11 pages.",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-40",
+                "unstructured": "Yu-Kun Lai, Miao Jin, Xuexiang Xie, Ying He, J. Palacios, E. Zhang, Shi-Min Hu, and Xianfeng Gu. 2010. Metric-Driven RoSy Field Design and Remeshing.IEEE TVCG16, 1 (2010).",
+                "DOI": "10.1109/TVCG.2009.59",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-41",
+                "unstructured": "Na Lei, Xiaopeng Zheng, Hang Si, Zhongxuan Luo, and Xianfeng Gu. 2017. Generalized Regular Quadrilateral Mesh Generation based on Surface Foliation.Procedia Engineering203 (2017), 336 -- 348.",
+                "DOI": "10.1016/j.proeng.2017.09.818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-42",
+                "unstructured": "Ze Gang Luo and M. M. F. Yuen. 2005. Reactive 2D/3D Garment Pattern Design Modification.Comput. Aided Des.37, 6 (May 2005), 623--630.",
+                "DOI": "10.1016/j.cad.2004.09.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-43",
+                "unstructured": "Martin Marinov and Leif Kobbelt. 2006. A Robust Two-Step Procedure for Quad-Dominant Remeshing.Computer Graphics Forum(2006).",
+                "DOI": "10.1111/j.1467-8659.2006.00973.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-44",
+                "unstructured": "James McCann, Lea Albaugh, Vidya Narayanan, April Grow, Wojciech Matusik, Jennifer Mankoff, and Jessica Hodgins. 2016. A Compiler for 3D Machine Knitting.ACM Trans. Graph.35, 4, Article 49 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-45",
+                "unstructured": "Michael Mei&#223;ner and Bernd Eberhardt. 1998. The art of knitted fabrics, realistic &#38; physically based modelling of knitted patterns. InComputer Graphics Forum, Vol. 17. 355--362.",
+                "DOI": "10.1111/1467-8659.00282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-46",
+                "unstructured": "Yuki Mori and Takeo Igarashi. 2007. Plushie: An Interactive Design System for Plush Toys.ACM Trans. Graph.26, 3, Article 45 (July 2007).",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-47",
+                "unstructured": "Ashish Myles, Nico Pietroni, and Denis Zorin. 2014. Robust Field-aligned Global Parametrization.ACM Trans. Graph.33, 4, Article 135 (2014).",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-48",
+                "unstructured": "M. Nieser, J. Palacios, K. Polthier, and E. Zhang. 2012. Hexagonal Global Parameterization of Arbitrary Surfaces.IEEE Transactions on Visualization and Computer Graphics18, 6 (2012).",
+                "DOI": "10.1109/TVCG.2011.118",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-49",
+                "unstructured": "Olivier Nocent, Jean-Michel Nourrit, and Yannick Remion. 2001. Towards mechanical level of detail for knitwear simulation. InWSCG.252--259."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-50",
+                "unstructured": "Jonathan Palacios and Eugene Zhang. 2007. Rotational symmetry field design on surfaces.ACM Trans. Graph.26, 3, Article 55 (2007).",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-51",
+                "unstructured": "Daniele Panozzo, Enrico Puppo, Marco Tarini, and Olga Sorkine-Hornung. 2014. Frame Fields: Anisotropic and Non-Orthogonal Cross Fields.ACM Trans. Graph.33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-52",
+                "unstructured": "Jianbo Peng, Daniel Kristjansson, and Denis Zorin. 2004. Interactive Modeling of Topologically Complex Geometric Detail.ACM Trans. Graph.23, 3 (Aug. 2004), 635--643.",
+                "DOI": "10.1145/1015706.1015773",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-53",
+                "unstructured": "Jes&#250;s P&#233;rez, Bernhard Thomaszewski, Stelian Coros, Bernd Bickel, Jos&#233; A. Canabal, Robert Sumner, and Miguel A. Otaduy. 2015. Design and Fabrication of Flexible Rod Meshes.ACM Trans. Graph.34, 4, Article 138 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-54",
+                "unstructured": "Gerard Pons-Moll, Sergi Pujades, Sonny Hu, and Michael J. Black. 2017. ClothCap: Seamless 4D Clothing Capture and Retargeting.ACM Trans. Graph.36, 4, Article 73 (July 2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-55",
+                "unstructured": "Nicolas Ray, Wan Chiu Li, Bruno L&#233;vy, Alla Sheffer, and Pierre Alliez. 2006. Periodic global parameterization.ACM Trans. Graph.(2006)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-56",
+                "unstructured": "Nicolas Ray, Bruno Vallet, Wan Chiu Li, and Bruno L&#233;vy. 2008. N-symmetry Direction Field Design.ACM Trans. Graph.27, 2 (2008).",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-57",
+                "unstructured": "Cody Robson, Ron Maharik, Alla Sheffer, and Nathan Carr. 2011. Context-aware Garment Modeling from Sketches.Comput. Graph.35, 3 (June 2011), 604--613.",
+                "DOI": "10.1016/j.cag.2011.03.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-58",
+                "unstructured": "Dmitry Sokolov, Nicolas Ray, Lionel Untereiner, and Bruno L&#233;vy. 2016. Hexahedral-Dominant Meshing.ACM Trans. Graph.35, 5, Article 157 (June 2016), 23 pages.",
+                "DOI": "10.1145/2930662",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-59",
+                "unstructured": "Emmanuel Turquin, Marie-Paule Cani, and John F. Hughes. 2004. Sketching Garments for Virtual Characters. InProceedings of the First Eurographics Conference on Sketch-Based Interfaces and Modeling (SBM'04).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 175--182."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-60",
+                "unstructured": "Ultimaker. 2018. Ultimaker 3. https://ultimaker.com/en/products/ultimaker-3."
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-61",
+                "unstructured": "Nobuyuki Umetani, Danny M. Kaufman, Takeo Igarashi, and Eitan Grinspun. 2011. Sensitive Couture for Interactive Garment Modeling and Editing.ACM Trans. Graph.30, 4, Article 90 (July 2011), 12 pages.",
+                "DOI": "10.1145/1964921.1964985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-62",
+                "unstructured": "Amir Vaxman, Marcel Campen, Olga Diamanti, Daniele Panozzo, David Bommes, Klaus Hildebrandt, and Mirela Ben-Chen. 2016. Directional Field Synthesis, Design, and Processing.Computer Graphics Forum(2016).",
+                "DOI": "10.1145/2988458.2988478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-63",
+                "unstructured": "Pascal Volino and Nadia Magnenat-Thalmann. 2005. Accurate Garment Prototyping and Simulation.Computer-Aided Design and Applications2, 5 (2005), 645--654.",
+                "DOI": "10.1080/16864360.2005.10738329",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-64",
+                "unstructured": "Pascal Volino, Nadia Magnenat-Thalmann, and Francois Faure. 2009. A Simple Approach to Nonlinear Tensile Stiffness for Accurate Cloth Simulation.ACM Trans. Graph.28, 4, Article 105 (Sept. 2009), 16 pages.",
+                "DOI": "10.1145/1559755.1559762",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-65",
+                "unstructured": "Charlie C.L. Wang, Yu Wang, and Matthew M.F. Yuen. 2003. Feature based 3D garment design through 2D sketches.Computer-Aided Design35, 7 (2003), 659 -- 672.",
+                "DOI": "10.1016/S0010-4485(02)00091-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-66",
+                "unstructured": "Rundong Wu, Huaishu Peng, Fran&#231;ois Guimbreti&#232;re, and Steve Marschner. 2016. Printing Arbitrary Meshes with a 5DOF Wireframe Printer.ACM Trans. Graph.35, 4, Article 101 (July 2016), 9 pages.",
+                "DOI": "10.1145/2897824.2925966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-67",
+                "unstructured": "Cem Yuksel, Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2012. Stitch Meshes for Modeling Knitted Clothing with Yarn-level Detail.ACM Trans. Graph.31, 3, Article 37 (2012), 12 pages.",
+                "DOI": "10.1145/2185520.2185533",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-68",
+                "unstructured": "Jonas Zehnder, Stelian Coros, and Bernhard Thomaszewski. 2016. Designing Structurally-sound Ornamental Curve Networks.ACM Trans. Graph.35, 4, Article 99 (July 2016), 10 pages.",
+                "DOI": "10.1145/2897824.2925888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201360-69",
+                "unstructured": "Bin Zhou, Xiaowu Chen, Qiang Fu, Kan Guo, and Ping Tan. 2013. Garment Modeling from a Single Image.Computer Graphics Forum32, 7 (2013), 85--91.",
+                "DOI": "10.1111/cgf.12215",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201360&ftid=1991686&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:16Z",
+            "timestamp": 1571673436000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201360",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

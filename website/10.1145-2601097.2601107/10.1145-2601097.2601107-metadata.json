@@ -1,0 +1,356 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410007
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601107",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+            "Fast tile-based adaptive sampling with user-specified Fourier spectra"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Florent",
+                "family": "Wachtel",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Adrien",
+                "family": "Pilleboue",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Coeurjolly",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Katherine",
+                "family": "Breeden",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Gurprit",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ga\u00ebl",
+                "family": "Cathelin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Fernando",
+                "family": "de Goes",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Victor",
+                "family": "Ostromoukhov",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601107-1",
+                "unstructured": "Balzer, M., Schl&#246;mer, T., and Deussen, O. 2009. Capacity-constrained point distributions: A variant of Lloyd's method.ACM Trans. Graph. 28, 3, 86:1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-2",
+                "unstructured": "Belcour, L., Soler, C., Subr, K., Holzschuch, N., and Durand, F. 2013. 5D covariance tracing for efficient defocus and motion blur.ACM Trans. Graph. 32, 3, 31:1--31:18."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-3",
+                "unstructured": "Chen, Z., Yuan, Z., Choi, Y.-K., Liu, L., and Wang, W. 2012. Variational blue noise sampling.IEEE Trans. Vis. Comput. Graphics 18, 10, 1784--1796.",
+                "DOI": "10.1109/TVCG.2012.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-4",
+                "unstructured": "Cohen, M., Shade, J., Hiller, S., and Deussen, O. 2003. Wang tiles for image and texture generation.ACM Trans. Graphics 22, 3, 287--294.",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-5",
+                "unstructured": "Conway, J. H., and Guy, R. K. 1996.The Book of Numbers. Springer-Verlag.",
+                "DOI": "10.1007/978-1-4612-4072-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-6",
+                "unstructured": "Cook, R. L. 1986. Stochastic sampling in computer graphics.ACM Trans. Graph. 5, 1, 51--72.",
+                "DOI": "10.1145/7529.8927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-7",
+                "unstructured": "de Goes, F., Breeden, K., Ostromoukhov, V., and Desbrun, M. 2012. Blue noise through optimal transport.ACM Trans. Graph. 31, 6, 171:1--171:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-8",
+                "unstructured": "Dipp&#233;, M. A. Z., and Wold, E. H. 1985. Antialiasing through stochastic sampling. InACM SIGGRAPH, 69--78."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-9",
+                "unstructured": "Durand, F. 2011. A frequency analysis of Monte-Carlo and other numerical integration schemes.MIT CSAIL Technical report TR-2011-052."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-10",
+                "unstructured": "Ebeida, M. S., Davidson, A. A., Patney, A., Knupp, P. M., Mitchell, S. A., and Owens, J. D. 2011. Efficient maximal Poisson-disk sampling.ACM Trans. Graph. 30, 49:1--49:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-11",
+                "unstructured": "Fattal, R. 2011. Blue-noise point sampling using kernel density model.ACM Trans. Graph. 30, 3, 48:1--48:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-12",
+                "unstructured": "Gamito, M. N., and Maddock, S. C. 2009. Accurate multidimensional poisson-disk sampling.ACM Trans. Graph. 29, 8:1--8:19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-13",
+                "unstructured": "Gr&#252;nbaum, B., and Shephard, G. C. 1986.Tilings and patterns. W. H. Freeman &#38; Company."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-14",
+                "unstructured": "Heck, D., Schl&#246;mer, T., and Deussen, O. 2013. Blue noise sampling with controlled aliasing.ACM Trans. Graph. 32, 3, 25:1--25:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-15",
+                "unstructured": "Kopf, J., Cohen-Or, D., Deussen, O., and Lischinski, D. 2006. Recursive Wang tiles for real-time blue noise.ACM Trans. Graph. 25, 3, 509--518.",
+                "DOI": "10.1145/1141911.1141916",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-16",
+                "unstructured": "Kuipers, L., and Niederreiter, H. 1974.Uniform Distribution of Sequences. Dover Publications."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-17",
+                "unstructured": "Lagae, A., and Dutr&#233;, P. 2006. An Alternative for Wang Tiles: Colored Edges versus Colored Corners.ACM Trans. Graph. 25, 4, 1442--1459."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-18",
+                "unstructured": "Lagae, A., Kaplan, C. S., Fu, C.-W., Ostromoukhov, V., and Deussen, O. 2008. Tile-based methods for interactive applications. InACM SIGGRAPH 2008 classes, 93:1--93:267."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-19",
+                "unstructured": "McCool, M., and Fiume, E. 1992. Hierarchical Poisson disk sampling distributions. InProc. Graphics Interface '92, 94--105."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-20",
+                "unstructured": "Mitchell, D. 1991. Spectrally optimal sampling for distributed ray tracing. InACM SIGGRAPH '91, vol. 25, 157--164."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-21",
+                "unstructured": "Ostromoukhov, V., Donohue, C., and Jodoin, P.-M. 2004. Fast hierarchical importance sampling with blue noise properties.ACM Trans. Graph. 23, 3, 488--495.",
+                "DOI": "10.1145/1015706.1015750",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-22",
+                "unstructured": "Ostromoukhov, V. 2007. Sampling with polyominoes.ACM Trans. Graph. 26, 3, 78:1--78:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-23",
+                "unstructured": "&#214;ztireli, A. C., and Gross, M. 2012. Analysis and synthesis of point distributions based on pair correlation.ACM Trans. Graph. 31, 6, 174:1--174:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-24",
+                "unstructured": "Pharr, M., and Humphreys, G. 2010.Physically Based Rendering: From Theory to Implementation, 2&#60;sup&#62;nd&#60;/sup&#62; ed. Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-25",
+                "unstructured": "Pommerening, A. 2002. Approaches to quantifying forest structures.Forestry 75, 3, 305--324.",
+                "DOI": "10.1093/forestry/75.3.305",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-26",
+                "unstructured": "Schl&#246;mer, T., Heck, D., and Deussen, O. 2011. Farthest-point optimized point sets with maximized minimum distance. InSymp. on High Performance Graphics, 135--142."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-27",
+                "unstructured": "Schmaltz, C., Gwosdek, P., Bruhn, A., and Weickert, J. 2010. Electrostatic halftoning.Comput. Graph. Forum 29, 8, 2313--2327.",
+                "DOI": "10.1111/j.1467-8659.2010.01716.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-28",
+                "unstructured": "Subr, K., and Kautz, J. 2013. Fourier analysis of stochastic sampling strategies for assessing bias and variance in integration.ACM Trans. Graph. 32, 4, 128:1--128:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-29",
+                "unstructured": "Ulichney, R. A. 1988. Dithering with blue noise.Proc. of the IEEE 76, 56--79.",
+                "DOI": "10.1109/5.3288",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-30",
+                "unstructured": "Ulichney, R. 1993. The void-and-cluster method for dither array generation.SPIE Vol. 1913, 332--343.",
+                "DOI": "10.1117/12.152707",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-31",
+                "unstructured": "Wang, H. 1965. Games, logic, and computers.Scientific American 213, 5, 98--106.",
+                "DOI": "10.1038/scientificamerican1165-98",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-32",
+                "unstructured": "Wei, L.-Y., and Wang, R. 2011. Differential domain analysis for non-uniform sampling.ACM Trans. Graph. 30, 50:1--50:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-33",
+                "unstructured": "Wei, L.-Y. 2008. Parallel Poisson disk sampling.ACM Trans. Graph. 27, 20:1--20:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601107-34",
+                "unstructured": "Zhou, Y., Huang, H., Wei, L.-Y., and Wang, R. 2012. Point sampling with general noise spectrum.ACM Trans. Graph. 31, 4, 76:1--76:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601107&amp;ftid=1488864&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:07:59Z",
+            "timestamp": 1498151279000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601107",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

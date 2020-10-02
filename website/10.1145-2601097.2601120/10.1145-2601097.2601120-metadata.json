@@ -1,0 +1,346 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410065
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601120",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Cascaded displays"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Douglas",
+                "family": "Lanman",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Dikpal",
+                "family": "Reddy",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jan",
+                "family": "Kautz",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kari",
+                "family": "Pulli",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601120-1",
+                "unstructured": "Aliaga, D. G., Yeung, Y. H., Law, A., Sajadi, B., and Majumder, A. 2012. Fast high-resolution appearance editing using superimposed projections.ACM Trans. Graph. 31, 2.",
+                "DOI": "10.1145/2159516.2159518",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-2",
+                "unstructured": "Allen, W., and Ulichney, R. 2005. Wobulation: Doubling the addressed resolution of projection displays.SID Symposium Digest of Technical Papers 36, 1, 1514--1517.",
+                "DOI": "10.1889/1.2036298",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-3",
+                "unstructured": "Baker, S., and Kanade, T. 2002. Limits on super-resolution and how to break them.IEEE Transactions on Pattern Analysis and Machine Intelligence 24, 9, 1167--1183.",
+                "DOI": "10.1109/TPAMI.2002.1033210",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-4",
+                "unstructured": "Bell, G. P., Craig, R., Paxton, R., Wong, G., and Galbraith, D. 2008. Beyond flat panels: Multi layer displays with real depth.SID Digest 39, 1, 352--355.",
+                "DOI": "10.1889/1.3069667",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-5",
+                "unstructured": "Ben-Ezra, M., Zomet, A., and Nayar, S. K. 2004. Jitter camera: High resolution video from a low resolution detector. InIEEE Computer Vision and Pattern Recognition (CVPR), 135--142."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-6",
+                "unstructured": "Berthouzoz, F., and Fattal, R. 2012. Apparent resolution enhancement for motion videos. InACM Applied Perception.",
+                "DOI": "10.1145/2338676.2338695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-7",
+                "unstructured": "Berthouzoz, F., and Fattal, R. 2012. Resolution enhancement by vibrating displays.ACM Trans. Graph. 31, 2, 15:1--15:14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-8",
+                "unstructured": "Blondel, V., Ho, N.-D., and van Dooren, P. 2008. Weighted nonnegative matrix factorization and face feature extraction. InImage and Vision Computing, 1--17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-9",
+                "unstructured": "Damera-Venkata, N., and Chang, N. L. 2009. Display supersampling.ACM Trans. Graph. 28, 1, 9:1--9:19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-10",
+                "unstructured": "Didyk, P., Eisemann, E., Ritschel, T., Myszkowski, K., and Seidel, H.-P. 2010. Apparent display resolution enhancement for moving images.ACM Trans. Graph. 29, 4, 113:1--113:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-11",
+                "unstructured": "Gotoda, H. 2010. A multilayer liquid crystal display for autostereoscopic 3D viewing. InSPIE Stereoscopic Displays and Applications XXI, vol. 7524, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-12",
+                "unstructured": "Gotoda, H. 2011. Reduction of image blurring in an autostereoscopic multilayer liquid crystal display. InSPIE Stereoscopic Displays and Applications XXII, vol. 7863, 1--7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-13",
+                "unstructured": "Hart, W. M. 1987. The temporal responsiveness of vision. InAdler's Physiology of the Eye, R. A. Moses and W. M. Hart, Eds. C. V. Moseby Company."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-14",
+                "unstructured": "Heide, F., Wetzstein, G., Raskar, R., and Heidrich, W. 2013. Adaptive image synthesis for compressive displays.ACM Trans. Graph. 32, 4, 132:1--132:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-15",
+                "unstructured": "Heide, F., Gregson, J., Wetzstein, G., Raskar, R., and Heidrich, W. 2014. A compressive multi-mode superresolution display. Technical ReportarXiv:1404.5916.",
+                "DOI": "10.1364/COSI.2014.CM4C.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-16",
+                "unstructured": "Ho, N.-D. 2008.Nonnegative Matrix Factorization Algorithms and Applications. PhD thesis, Universit&#233; catholique de Louvain."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-17",
+                "unstructured": "Ives, F. E., 1903. Parallax stereogram and process of making same. U.S. Patent 725,567."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-18",
+                "unstructured": "Jaynes, C., and Ramakrishnan, D. 2003. Super-resolution composition in multi-projector displays. InIEEE Projector-Camera Systems (PROCAMS)."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-19",
+                "unstructured": "Kusakabe, Y., Kanazawa, M., Nojiri, Y., Furuya, M., and Yoshimura, M. 2008. A YC-separation-type projector: High dynamic range with double modulation.Journal of the Society for Information Display 16, 2, 383--391.",
+                "DOI": "10.1889/1.2841874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-20",
+                "unstructured": "Kusakabe, Y., Kanazawa, M., Nojiri, Y., Furuya, M., and Yoshimura, M. 2009. A high-dynamic-range and high-resolution projector with dual modulation.Proc. SPIE 7241.",
+                "DOI": "10.1117/12.805468",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-21",
+                "unstructured": "Lanman, D., Hirsch, M., Kim, Y., and Raskar, R. 2010. Content-adaptive parallax barriers: Optimizing dual-layer 3D displays using low-rank light field factorization.ACM Trans. Graph. 29, 6, 163:1--163:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-22",
+                "unstructured": "Lanman, D., Wetzstein, G., Hirsch, M., Heidrich, W., and Raskar, R. 2011. Polarization fields: Dynamic light field display using multi-layer LCDs.ACM Trans. Graph. 30, 6, 186:1--186:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-23",
+                "unstructured": "Lippmann, G. 1908. &#201;preuves r&#233;versibles donnant la sensation du relief.Journal of Physics 7, 4, 821--825."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-24",
+                "unstructured": "Majumder, A. 2005. Is spatial super-resolution feasible using overlapping projectors? InIEEE Acoustics, Speech, and Signal Processing (ICASSP), vol. 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-25",
+                "unstructured": "Olson, J., Krum, D., Suma, E., and Bolas, M. 2011. A design for a smartphone-based head mounted display. InIEEE Virtual Reality, 233--234."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-26",
+                "unstructured": "Pavlovych, A., and Stuerzlinger, W. 2005. A high-dynamic range projection system.Proc. SPIE 5969.",
+                "DOI": "10.1117/12.629117",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-27",
+                "unstructured": "Sajadi, B., Gopi, M., and Majumder, A. 2012. Edge-guided resolution enhancement in projectors via optical pixel sharing.ACM Trans. Graph. 31, 4, 79:1--79:122."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-28",
+                "unstructured": "Sajadi, B., Qoc-Lai, D., Ihler, A., Gopi, M., and Majumder, A. 2013. Image enhancement in projectors via optical pixel shift and overlay. InIEEE International Conference on Computational Photography (ICCP), 1--10.",
+                "DOI": "10.1109/ICCPhot.2013.6528304",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-29",
+                "unstructured": "Seetzen, H., Heidrich, W., Stuerzlinger, W., Ward, G., Whitehead, L., Trentacoste, M., Ghosh, A., and Vorozcovs, A. 2004. High dynamic range display systems.ACM Trans. Graph. 23, 3, 760--768.",
+                "DOI": "10.1145/1015706.1015797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-30",
+                "unstructured": "Wang, Z., Bovik, A., Sheikh, H., and Simoncelli, E. 2004. Image quality assessment: from error visibility to structural similarity.IEEE Transactions on Image Processing 13, 4, 600--612.",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-31",
+                "unstructured": "Watson, B. A., and Hodges, L. F. 1995. Using texture maps to correct for optical distortion in head-mounted displays. InIEEE Virtual Reality Annual International Symposium, 172--178.",
+                "DOI": "10.1109/VRAIS.1995.512493",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-32",
+                "unstructured": "Wetzstein, G., Lanman, D., Heidrich, W., and Raskar, R. 2011. Layered 3D: Tomographic image synthesis for attenuation-based light field and high dynamic range displays.ACM Trans. Graph. 30, 4, 95:1--95:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-33",
+                "unstructured": "Wetzstein, G., Lanman, D., Hirsch, M., and Raskar, R. 2012. Tensor displays: Compressive light field synthesis using multilayer displays with directional backlighting.ACM Trans. Graph. 31, 4, 80:1--80:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601120-34",
+                "unstructured": "Woo, S., Kim, D.-H., Han, Y. S., and Choi, B.-D. 2011. Full-color LCD microdisplay system based on OLED backlight unit and field-sequential color driving method.Journal of Photoenergy.",
+                "DOI": "10.1155/2011/602914",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601120&amp;ftid=1488868&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:46Z",
+            "timestamp": 1565663686000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "spatiotemporal superresolution using offset pixel layers"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601120",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:59Z",
+            "timestamp": 1575507239791
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100006280",
+                "name": "Ministerio de Ciencia y Tecnolog\u00eda",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Nvidia Graduate Fellowship",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601125",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 28,
+        "title": [
+            "How do people edit light fields?"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Adrian",
+                "family": "Jarabo",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Belen",
+                "family": "Masia",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Fabio",
+                "family": "Pellacini",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601125-1",
+                "unstructured": "Chen, B., Ofek, E., Shum, H.-Y., and Levoy, M. 2005. Interactive deformation of light fields. InProc. of I3D'05, 139--146."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-2",
+                "unstructured": "Colbert, M., Pattanaik, S., and K&#345;iv&#225;nek, J. 2006. BRDF-shop: Creating physically correct bidirectional reflectance distribution functions.IEEE Comput. Graph. Appl. 26, 1, 30--36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-3",
+                "unstructured": "Cunningham, D., and Wallraven, C. 2011.Experimental Design: From User Studies to Psychophysics. AK Peters.",
+                "DOI": "10.1201/b11308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-4",
+                "unstructured": "Davis, A., Levoy, M., and Durand, F. 2012. Unstructured light fields.Comp. Graph. Forum 31, 2pt1, 305--314."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-5",
+                "unstructured": "Fleming, R. W., Dror, R. O., and Adelson, E. H. 2003. Real-world illumination and the perception of surface reflectance properties.Journal of Vision 3, 5, 347--368.",
+                "DOI": "10.1167/3.5.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-6",
+                "unstructured": "Goldman, D. B., Gonterman, C., Curless, B., Salesin, D., and Seitz, S. M. 2008. Video object annotation, navigation, and composition. InProc. of UIST'08, 3--12.",
+                "DOI": "10.1145/1449715.1449719",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-7",
+                "unstructured": "Gortler, S. J., Grzeszczuk, R., Szeliski, R., and Cohen, M. F. 1996. The Lumigraph. InProc. of SIGGRAPH'96, 43--54.",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-8",
+                "unstructured": "HaCohen, Y., Shechtman, E., Goldman, D. B., and Lischinski, D. 2011. Non-rigid dense correspondence with applications for image enhancement.ACM Trans. Graph. 30, 4, 70:1--70:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-9",
+                "unstructured": "Haeberli, P. 1990. Paint by numbers: Abstract image representations.SIGGRAPH Comput. Graph. 24, 4, 207--214.",
+                "DOI": "10.1145/97880.97902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-10",
+                "unstructured": "Hasinoff, S., Jozwiak, M., Durand, F., and Freeman, W. 2010. Search-and-replace editing for personal photo collections. InProc of ICCP'10, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-11",
+                "unstructured": "Hoaglin, D. C., and Iglewicz, B. 1987. Fine-tuning some resistant rules for outlier labeling.Journal of the American Statistical Association 82, 400, 1147--1149.",
+                "DOI": "10.1080/01621459.1987.10478551",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-12",
+                "unstructured": "Horn, D. R., and Chen, B. 2007. Lightshop: interactive light field manipulation and rendering. InProc. of I3D'07, 121--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-13",
+                "unstructured": "Isaksen, A., McMillan, L., and Gortler, S. J. 2000. Dynamically reparameterized light fields. InProc. of SIGGRAPH'00, 297--306.",
+                "DOI": "10.1145/344779.344929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-14",
+                "unstructured": "Jarabo, A., Masia, B., and Gutierrez, D. 2011. Efficient propagation of light field edits. InProc. of SIACG'11, 75--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-15",
+                "unstructured": "Kerr, W. B., and Pellacini, F. 2009. Toward evaluating lighting design interface paradigms for novice users.ACM Trans. Graph. 28, 3, 26:1--26:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-16",
+                "unstructured": "Kerr, W. B., and Pellacini, F. 2010. Toward evaluating material design interface paradigms for novice users.ACM Trans. Graph. 29, 4, 35:1--35:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-17",
+                "unstructured": "Kim, C., Zimmer, H., Pritch, Y., Sorkine-Hornung, A., and Gross, M. 2013. Scene reconstruction from high spatio-angular resolution light fields.ACM Trans. Graph. 32, 4, 73:1--73:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-18",
+                "unstructured": "Kim, Y., Winnem&#246;ller, H., and Lee, S. 2013. WYSIWYG stereo painting. InProc. of I3D'13, 169--176."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-19",
+                "unstructured": "Levoy, M., and Hanrahan, P. 1996. Light field rendering. InProc. of SIGGRAPH'96, 31--42.",
+                "DOI": "10.1145/237170.237199",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-20",
+                "unstructured": "Lo, W.-Y., van Baar, J., Knaus, C., Zwicker, M., and Gross, M. H. 2010. Stereoscopic 3D copy &#38; paste.ACM Trans. Graph. 29, 6, 147:1--147:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-21",
+                "unstructured": "Lytro Inc., 2013. The Lytro camera. http://www.lytro.com."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-22",
+                "unstructured": "Marton, F., Agus, M., Gobbetti, E., Pintore, G., and Rodriguez, M. B. 2012. Natural exploration of 3D massive models on large-scale light field displays using the fox proximal navigation technique.Computers &#38; Graphics 36, 8, 893--903.",
+                "DOI": "10.1016/j.cag.2012.06.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-23",
+                "unstructured": "Masia, B., Wetzstein, G., Didyk, P., and Gutierrez, D. 2013. A survey on computational displays: Pushing the boundaries of optics, computation and perception.Computers &#38; Graphics 37, 1012--1038.",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-24",
+                "unstructured": "Ou, J., Karl&#237;k, O., K&#345;iv&#225;nek, J., and Pellacini, F. 2012. Toward evaluating progressive rendering methods in appearance design tasks.IEEE Comput. Graph. Appl. 33."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-25",
+                "unstructured": "Pharr, M., and Humphreys, G. 2010.Physically based rendering: From theory to implementation. Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-26",
+                "unstructured": "Price, B. L., and Cohen, S. 2011. Stereocut: Consistent interactive object selection in stereo image pairs. InProc. of ICCV'11, 1148--1155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-27",
+                "unstructured": "Rubinstein, M., Gutierrez, D., Sorkine, O., and Shamir, A. 2010. A comparative study of image retargeting.ACM Trans. Graph. 29, 5, 160:1--160:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-28",
+                "unstructured": "Santosa, S., Chevalier, F., Balakrishnan, R., and Singh, K. 2013. Direct space-time trajectory control for visual media editing. InProc. of CHI'13, 1149--1158."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-29",
+                "unstructured": "Seitz, S. M., and Kutulakos, K. N. 2002. Plenoptic image editing.Int. Journal of Computer Vision 48, 2, 115--129.",
+                "DOI": "10.1023/A:1016046923611",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-30",
+                "unstructured": "Shum, H.-Y., Sun, J., Yamazaki, S., Li, Y., and Tang, C.-K. 2004. Pop-up light field: An interactive image-based modeling and rendering system.ACM Trans. Graph. 23, 2, 143--162.",
+                "DOI": "10.1145/990002.990005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-31",
+                "unstructured": "Stavrakis, E., and Gelautz, M. 2004. Image-based stereoscopic painterly rendering. InProc. of EGSR'04, 53--60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-32",
+                "unstructured": "Templin, K., Didyk, P., Ritschel, T., Myszkowski, K., and Seidel, H.-P. 2012. Highlight microdisparity for improved gloss depiction.ACM Trans. Graph. 31, 4, 92:1--92:5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-33",
+                "unstructured": "Tompkin, J., Muff, S., Jakuschevskij, S., McCann, J., Kautz, J., Alexa, M., and Matusik, W. 2012. Interactive light field painting. InACM SIGGRAPH 2012 Emerging Technologies, 12:1--12:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-34",
+                "unstructured": "Vaish, V., Wilburn, B., Joshi, N., and Levoy, M. 2004. Using plane + parallax for calibrating dense camera arrays. InProc. of CVPR'04, 2--9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-35",
+                "unstructured": "Venkataraman, K., Lelescu, D., Duparr&#233;, J., McMahon, A., Molina, G., Chatterjee, P., Mullis, R., and Nayar, S. 2013. PiCam: An ultra-thin high performance monolithic camera array.ACM Trans. Graph. 32, 6, 166:1--166:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-36",
+                "unstructured": "Vertical Horizon, 2013. Lightfield Iris. http://www.verticalhorizon-software.com/LFI/index.html."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-37",
+                "unstructured": "Wang, L., Lin, S., Lee, S., Guo, B., and Shum, H.-Y. 2005. Light field morphing using 2D features.IEEE Trans. Vis. Comput. Graph. 11, 1, 25--34.",
+                "DOI": "10.1109/TVCG.2005.11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-38",
+                "unstructured": "Wanner, S., and Goldluecke, B. 2012. Globally consistent depth labeling of 4d light fields. InProc. of CVPR'12, 41--48."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-39",
+                "unstructured": "Wetzstein, G., Lanman, D., Gutierrez, D., and Hirsch, M. 2012. Computational displays: combining optical fabrication, computational processing, and perceptual tricks to build the displays of the future. InACM SIGGRAPH 2012 Courses.",
+                "DOI": "10.1145/2343483.2343487",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-40",
+                "unstructured": "Y&#252;cer, K., Jacobson, A., Hornung, A., and Sorkine, O. 2012. Transfusive image manipulation.ACM Trans. Graph. 31, 6, 176:1--176:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601125-41",
+                "unstructured": "Zhang, Z., Wang, L., Guo, B., and Shum, H.-Y. 2002. Feature-based light field morphing.ACM Trans. Graph. 21, 3, 457--464.",
+                "DOI": "10.1145/566654.566602",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601125&amp;ftid=1488955&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601125",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

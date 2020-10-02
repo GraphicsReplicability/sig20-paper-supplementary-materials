@@ -1,0 +1,348 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:19Z",
+            "timestamp": 1574815999178
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925888",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+            "Designing structurally-sound ornamental curve networks"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jonas",
+                "family": "Zehnder",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Stelian",
+                "family": "Coros",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925888-1",
+                "unstructured": "Akleman, E., Chen, J., Xing, Q., and Gross, J. L. 2009. Cyclic plain-weaving on polygonal mesh surfaces with graph rotation systems. InProc. of ACM SIGGRAPH '09.",
+                "DOI": "10.1145/1576246.1531384",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-2",
+                "unstructured": "Bergou, M., Wardetzky, M., Robinson, S., Audoly, B., and Grinspun, E. 2008. Discrete elastic rods.ACM Trans. Graph. (Proc. SIGGRAPH) 27, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-3",
+                "unstructured": "Bergou, M., Audoly, B., Vouga, E., Wardetzky, M., and Grinspun, E. 2010. Discrete viscous threads.ACM Trans. Graph. (Proc. SIGGRAPH) 29, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-4",
+                "unstructured": "Bertails, F., Audoly, B., Cani, M.-P., Querleux, B., Leroy, F., and L&#233;v&#234;que, J.-L. 2006. Super-helices for predicting the dynamics of natural hair. InProc. of ACM SIGGRAPH '06.",
+                "DOI": "10.1145/1179352.1142012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-5",
+                "unstructured": "Campen, M., and Kobbelt, L. 2014. Dual strip weaving: Interactive design of quad layouts using elastica strips.ACM Trans. Graph. 33, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-6",
+                "unstructured": "Chen, W., Zhang, X., Xin, S., Xia, Y., Lefebvre, S., and Wang, W. 2016. Synthesis of filigrees for digital fabrication.ACM Trans. Graph. (Proc. SIGGRAPH) 35, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-7",
+                "unstructured": "Dumas, J., Lu, A., Lefebvre, S., Wu, J., and Dick, C. 2015. By-example synthesis of structurally sound patterns.ACM Trans. Graph. (Proc. SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-8",
+                "unstructured": "Garg, A., Sageman-Furnas, A. O., Deng, B., Yue, Y., Grinspun, E., Pauly, M., and Wardetzky, M. 2014. Wire mesh design.ACM Trans. Graph. (Proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-9",
+                "unstructured": "Hofer, M., and Pottmann, H. 2004. Energy-minimizing splines in manifolds.ACM Trans. Graph. 23, 3 (Aug.), 284--293."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-10",
+                "unstructured": "Iarussi, E., Li, W., and Bousseau, A. 2015. Wrapit: Computer-assisted crafting of wire wrapped jewelry.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-11",
+                "unstructured": "Igarashi, Y., Igarashi, T., and Mitani, J. 2012. Beady: Interactive beadwork design and construction.ACM Trans. Graph. (Proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-12",
+                "unstructured": "Kaplan, M., and Cohen, E. 2003. Computer generated celtic design. InProceedings of the 14th Eurographics Workshop on Rendering, EGRW '03."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-13",
+                "unstructured": "Kaplan, C. S., and Salesin, D. H. 2000. Escherization. InProc. of ACM SIGGRAPH '00.",
+                "DOI": "10.1145/344779.345022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-14",
+                "unstructured": "Kim, J., and Pellacini, F. 2002. Jigsaw image mosaics.ACM Trans. Graph. 21, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-15",
+                "unstructured": "Langer, J., and Singer, D. A. 1996. Lagrangian aspects of the kirchhoff elastic rod.SIAM Rev. 38, 4, 605--618."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-16",
+                "unstructured": "Lee, Y., and Lee, S. 2002. Geometric snakes for triangular meshes.Computer Graphics Forum 21, 3, 229--238."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-17",
+                "unstructured": "Loop, C., and Schaefer, S. 2008. G2 tensor product splines over extraordinary vertices.Computer Graphics Forum 27, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-18",
+                "unstructured": "Lu, L., Sharf, A., Zhao, H., Wei, Y., Fan, Q., Chen, X., Savoye, Y., Tu, C., Cohen-Or, D., and Chen, B. 2014. Build-to-last: Strength to weight 3d printed objects.ACM Trans. Graph. (Proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-19",
+                "unstructured": "Ma, C., Wei, L.-Y., and Tong, X. 2011. Discrete element textures.ACM Trans. Graph. (Proc. SIGGRAPH) 30, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-20",
+                "unstructured": "Mart&#237;nez, J., Dumas, J., Lefebvre, S., and Wei, L.-Y. 2015. Structure and appearance optimization for controllable shape design."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-21",
+                "unstructured": "Merrell, P., and Manocha, D. 2010. Example-based curve synthesis.Comput. Graph. 34, 4, 304--311."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-22",
+                "unstructured": "Mori, Y., and Igarashi, T. 2007. Plushie: An interactive design system for plush toys.ACM Trans. Graph. (Proc. SIGGRAPH).",
+                "DOI": "10.1145/1275808.1276433",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-23",
+                "unstructured": "Peng, C.-H., Yang, Y.-L., and Wonka, P. 2014. Computing layouts with deformable templates.ACM Trans. Graph. 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-24",
+                "unstructured": "P&#233;rez, J., Thomaszewski, B., Coros, S., Bickel, B., Canabal, J. A., Sumner, R., and Otaduy, M. A. 2015. Design and fabrication of flexible rod meshes.ACM Trans. Graph. (Proc. SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-25",
+                "unstructured": "Qiu, Y., 2015. Spectra. http://yixuan.cos.name/spectra/index.html. Accessed: 2016-01-15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-26",
+                "unstructured": "Reinert, B., Ritschel, T., and Seidel, H.-P. 2013. Interactive by-example design of artistic packing layouts.ACM Trans. Graph. 32, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-27",
+                "unstructured": "Runions, A., Fuhrer, M., Lane, B., Federl, P., Rolland-Lagan, A.-G., and Prusinkiewicz, P. 2005. Modeling and visualization of leaf venation patterns.ACM Trans. Graph. 24, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-28",
+                "unstructured": "Skouras, M., Thomaszewski, B., Bickel, B., and Gross, M. 2012. Computational design of rubber balloons.Comput. Graphics Forum (Proc. Eurographics) 31, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-29",
+                "unstructured": "Skouras, M., Thomaszewski, B., Kaufmann, P., Garg, A., Bickel, B., Grinspun, E., and Gross, M. 2014. Designing inflatable structures.ACM Trans. Graph. (Proc. SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-30",
+                "unstructured": "Spillmann, J., and Teschner, M. 2009. Cosserat nets.Visualization and Computer Graphics, IEEE Transactions on 15, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-31",
+                "unstructured": "Stam, J. 1998. Evaluation of loop subdivision surfaces. InProc. of ACM SIGGRAPH'98 (Suppl. Material)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-32",
+                "unstructured": "Stam, J. 2003. Flows on surfaces of arbitrary topology. InProc. of ACM SIGGRAPH '03.",
+                "DOI": "10.1145/1201775.882338",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-33",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: Improving structural strength of 3d printable objects.ACM Trans. Graph. (Proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-34",
+                "unstructured": "Umetani, N., and Schmidt, R. 2013. Cross-sectional structural analysis for 3d printing optimization. InSIGGRAPH Asia 2013 Technical Briefs.",
+                "DOI": "10.1145/2542355.2542361",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-35",
+                "unstructured": "Wallner, J., Pottmann, H., and Hofer, M. 2005. Fair curve networks in nonlinear geometries. InACM SIGGRAPH 2005 Sketches, SIGGRAPH '05.",
+                "DOI": "10.1145/1187112.1187149",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-36",
+                "unstructured": "Wei, L.-Y., Lefebvre, S., Kwatra, V., and Turk, G. 2009. State of the art in example-based texture synthesis. InEurographics (STARs), 93--117."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-37",
+                "unstructured": "Xu, L., and Mould, D. 2009. Magnetic curves: Curvature-controlled aesthetic curves using magnetic fields. InProceedings of the Fifth Eurographics Conference on Computational Aesthetics in Graphics, Visualization and Imaging, Computational Aesthetics'09."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-38",
+                "unstructured": "Zhou, K., Huang, X., Wang, X., Tong, Y., Desbrun, M., Guo, B., and Shum, H.-Y. 2006. Mesh quilting for geometric texture synthesis.ACM Trans. Graph. 25, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-39",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case structural analysis.ACM Trans. Graph. (Proc. SIGGRAPH) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925888-40",
+                "unstructured": "Zhou, S., Jiang, C., and Lefebvre, S. 2014. Topology-constrained synthesis of vector patterns.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 33, 6."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925888&amp;ftid=1755918&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:58Z",
+            "timestamp": 1568162758000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925888",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

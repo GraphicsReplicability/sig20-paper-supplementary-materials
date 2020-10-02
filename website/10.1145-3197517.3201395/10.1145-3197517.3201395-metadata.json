@@ -1,0 +1,458 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853635
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201395",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Physical simulation of environmentally induced thin shell deformation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Hsiao-Yu",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Arnav",
+                "family": "Sastry",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Wim M.",
+                "family": "van Rees",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Etienne",
+                "family": "Vouga",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201395-1",
+                "unstructured": "Iggesund Paperboard AB. 1993.Paperboard reference manual.Iggesund Paperboard AB."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-2",
+                "unstructured": "Kosala Bandara and Fehmi Cirak. 2018. Isogeometric shape optimisation of shell structures using multiresolution subdivision surfaces.Computer-Aided Design95, Supplement C (2018), 62 -- 71."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-3",
+                "unstructured": "David Baraff and Andrew Witkin. 1998. Large Steps in Cloth Simulation. InProceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '98).ACM, New York, NY, USA, 43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-4",
+                "unstructured": "Jernej Barbi&#269;, Fun Shing Sin, and Daniel Schroeder. 2012. Vega FEM Library. (2012). http://www.jernejbarbic.com/vega."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-5",
+                "unstructured": "Klaus J&#252;rgen Bathe, Eduardo Dvorkin, and Lee W. Ho. 1983. Our discrete-Kirchhoff and isoparametric shell elements for nonlinear analysis - An assessment.Computers &#38; Structures16, 1 (1983), 89 -- 98.",
+                "DOI": "10.1016/0045-7949(83)90150-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-6",
+                "unstructured": "Jean-Louis Batoz, Klaus-J&#252;rgen Bathe, and Lee-Wing Ho. 1980. A study of three-node triangular plate bending elements.Internat. J. Numer. Methods Engrg.15, 12 (1980), 1771--1812.",
+                "DOI": "10.1002/nme.1620151205",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-7",
+                "unstructured": "D.J. Benson, Y. Bazilevs, M.C. Hsu, and T.J.R. Hughes. 2010. Isogeometric shell analysis: The Reissner-Mindlin shell.Computer Methods in Applied Mechanics and Engineering199, 5 (2010), 276 -- 289. Computational Geometry and Analysis.",
+                "DOI": "10.1016/j.cma.2009.05.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-8",
+                "unstructured": "Miklos Bergou, Max Wardetzky, David Harmon, Denis Zorin, and Eitan Grinspun. 2006. A Quadratic Bending Model for Inextensible Surfaces. InProceedings of the Fourth Eurographics Symposium on Geometry Processing (SGP '06).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 227--230."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-9",
+                "unstructured": "Alexander I. Bobenko, Helmut Pottmann, and Johannes Wallner. 2010. A curvature theory for discrete surfaces based on mesh parallelity.Math. Ann.348, 1 (01 Sep 2010), 1--24.",
+                "DOI": "10.1007/s00208-009-0467-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-10",
+                "unstructured": "Alexander I. Bobenko and Peter Schr&#246;der. 2005. Discrete Willmore Flow. InProceedings of the Third Eurographics Symposium on Geometry Processing (SGP '05).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, Article 101.",
+                "DOI": "10.1145/1198555.1198664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-11",
+                "unstructured": "Sergey Bochkanov. 1999. ALGLIB. (1999). www.alglib.net"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-12",
+                "unstructured": "Robert Bridson, Ronald Fedkiw, and John Anderson. 2002. Robust Treatment of Collisions, Contact and Friction for Cloth Animation.ACM Trans. Graph.21, 3 (July 2002), 594--603.",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-13",
+                "unstructured": "Yanqing Chen, Timothy A. Davis, William W. Hager, and Sivasankaran Rajamanickam. 2008. Algorithm 887: CHOLMOD, Supernodal Sparse Cholesky Factorization and Update/Downdate.ACM Trans. Math. Softw.35, 3, Article 22 (Oct. 2008), 14 pages.",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-14",
+                "unstructured": "Philippe G. Ciarlet. 2000.Theory of Shells, Volume 3 (Mathematical Elasticity).North Holland."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-15",
+                "unstructured": "Fehmi Cirak, Michael Ortiz, and Peter Schr&#246;der. 2000. Subdivision surfaces: a new paradigm for thin-shell finite-element analysis.Internat. J. Numer. Methods Engrg.47, 12 (2000), 2039--2072.",
+                "DOI": "10.1002/(SICI)1097-0207(20000430)47:12<2039::AID-NME872>3.0.CO;2-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-16",
+                "unstructured": "Julien Dervaux and Martine Ben Amar. 2008. Morphogenesis of Growing Soft Tissues.Phys. Rev. Lett.101 (Aug 2008), 068101. Issue 6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-17",
+                "unstructured": "Efi Efrati, Eran Sharon, and Raz Kupferman. 2009a. Buckling transition and boundary layer in non-Euclidean plates.Physical Review E80, 1 (Jul 2009).",
+                "DOI": "10.1103/PhysRevE.80.016602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-18",
+                "unstructured": "E. Efrati, E. Sharon, and R. Kupferman. 2009b. Elastic theory of unconstrained non-Euclidean plates.Journal of the Mechanics and Physics of Solids57, 4 (2009), 762 -- 775.",
+                "DOI": "10.1016/j.jmps.2008.12.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-19",
+                "unstructured": "Elliot English and Robert Bridson. 2008. Animating Developable Surfaces Using Non-conforming Elements.ACM Trans. Graph.27, 3, Article 66 (Aug. 2008), 5 pages.",
+                "DOI": "10.1145/1360612.1360665",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-20",
+                "unstructured": "Yotam Gingold, Adrian Secord, Jefferson H. Han, Eitan Grinspun, and Denis Zorin. 2004. Poster: A Discrete Model for Inelastic Deformation of Thin Shells. InACM/Eurographics Symposium on Computer Animation '04."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-21",
+                "unstructured": "Alain Goriely and Martine Ben Amar. 2005. Differential Growth and Instability in Elastic Shells.Phys. Rev. Lett.94 (May 2005), 198103. Issue 19."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-22",
+                "unstructured": "Eitan Grinspun, Yotam Gingold, Jason Reisman, and Denis Zorin. 2006. Computing discrete shape operators on general meshes.Computer Graphics Forum25, 3 (2006), 547--556.",
+                "DOI": "10.1111/j.1467-8659.2006.00974.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-23",
+                "unstructured": "Eitan Grinspun, Anil N. Hirani, Mathieu Desbrun, and Peter Schr&#246;der. 2003. Discrete Shells. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 62--67."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-24",
+                "unstructured": "Christophe Guberan. 2012. Hydro-Fold. (2012). http://www.christopheguberan.ch/hydro-fold/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-25",
+                "unstructured": "Ruslan Guseinov, Eder Miguel, and Bernd Bickel. 2017. CurveUps: Shaping Objects from Flat Plates with Tension-actuated Curvature.ACM Trans. Graph.36, 4, Article 64 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073709",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-26",
+                "unstructured": "SoHyeon Jeong, Tae-hyeong Kim, and Chang-Hun Kim. 2011. Shrinkage, Wrinkling and Ablation of Burning Cloth and Paper.Vis. Comput.27, 6--8 (June 2011), 417--427."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-27",
+                "unstructured": "SoHyeon Jeong, Si-Hyung Park, and Chang-Hun Kim. 2013. Simulation of Morphology Changes in Drying Leaves.Computer Graphics Forum32, 1 (2013), 204--215.",
+                "DOI": "10.1111/cgf.12009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-28",
+                "unstructured": "J. Kiendl, K.-U. Bletzinger, J. Linhard, and R. W&#252;chner. 2009. Isogeometric shell analysis with Kirchhoff-Love elements.Computer Methods in Applied Mechanics and Engineering198, 49 (2009), 3902 -- 3914.",
+                "DOI": "10.1016/j.cma.2009.08.013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-29",
+                "unstructured": "J. Kim, J.A. Hanna, M. Byun, C.D. Santangelo, and R.C. Hayward. 2012. Designing responsive buckled surfaces by halftone gel lithography.Science335, 6073 (2012), 1201--1205.",
+                "DOI": "10.1126/science.1215309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-30",
+                "unstructured": "Yael Klein, Efi Efrati, and Eran Sharon. 2007. Shaping of Elastic Sheets by Prescription of Non-Euclidean Metrics.Science315, 5815 (2007), 1116--1120.",
+                "DOI": "10.1126/science.1135994",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-31",
+                "unstructured": "Caroline Larboulette, Pablo Quesada, and Olivier Dumas. 2013. Burning Paper: Simulation at the Fiber's Level. InProceedings of Motion on Games (MIG '13).ACM, New York, NY, USA, Article 25, 6 pages.",
+                "DOI": "10.1145/2522628.2522906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-32",
+                "unstructured": "Shiguang Liu, Qiguang Liu, Tai An, Jizhou Sun, and Qunsheng Peng. 2009. Physically based simulation of thin-shell objects' burning.The Visual Computer25, 5 (01 May 2009), 687--696.",
+                "DOI": "10.1007/s00371-009-0344-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-33",
+                "unstructured": "Frank Losasso, Geoffrey Irving, Eran Guendelman, and Ron Fedkiw. 2006. Melting and Burning Solids into Liquids and Gases.IEEE Transactions on Visualization and Computer Graphics12, 3 (May 2006), 343--352.",
+                "DOI": "10.1109/TVCG.2006.51",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-34",
+                "unstructured": "Zeki Melek and John Keyser. 2003. Interactive Simulation of Burning Objects. InProceedings of the 11th Pacific Conference on Computer Graphics and Applications (PG '03).IEEE Computer Society, Washington, DC, USA, 462--.",
+                "DOI": "10.1109/PCCGA.2003.1238295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-35",
+                "unstructured": "Zeki Melek and John Keyser. 2005. Multi-representation Interaction for Physically Based Modeling. InProceedings of the 2005 ACM Symposium on Solid and Physical Modeling (SPM '05).ACM, New York, NY, USA, 187--196.",
+                "DOI": "10.1145/1060244.1060265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-36",
+                "unstructured": "Zeki Melek and John Keyser. 2007. Driving Object Deformations from Internal Physical Processes. InProceedings of the 2007 ACM Symposium on Solid and Physical Modeling (SPM '07).ACM, New York, NY, USA, 51--59.",
+                "DOI": "10.1145/1236246.1236257",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-37",
+                "unstructured": "Rahul Narain, Tobias Pfaff, and James F. O'Brien. 2013. Folding and Crumpling Adaptive Sheets.ACM Transactions on Graphics32, 4 (July 2013), 51:1--8. Proceedings of ACM SIGGRAPH 2013, Anaheim.",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-38",
+                "unstructured": "Rahul Narain, Armin Samii, and James F. O'Brien. 2012. Adaptive Anisotropic Remeshing for Cloth Simulation.ACM Trans. Graph.31, 6, Article 152 (Nov. 2012), 10 pages.",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-39",
+                "unstructured": "P. Neff. 2004. A geometrically exact Cosserat shell-model including size effects, avoiding degeneracy in the thin shell limit. Part I: Formal dimensional reduction for elastic plates and existence of minimizers for positive Cosserat couple modulus.Continuum Mechanics and Thermodynamics16, 6 (01 Oct 2004), 577--628.",
+                "DOI": "10.1007/s00161-004-0182-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-40",
+                "unstructured": "Jesus Perez, Miguel A. Otaduy, and Bernhard Thomaszewski. 2017. Computational Design and Automated Fabrication of Kirchhoff-Plateau Surfaces.ACM Trans. on Graphics (Proc. of ACM SIGGRAPH)36, 4 (2017), 62.1--62.12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-41",
+                "unstructured": "Jessica Rosenkrantz and Jesse Louis-Rosenberg. 2018. Nervous Systems. (2018). https://n-e-r-v-o-u-s.com/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-42",
+                "unstructured": "Eran Sharon and Efi Efrati. 2010. The mechanics of non-Euclidean plates.Soft Matter6 (2010), 5693--5704. Issue 22."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-43",
+                "unstructured": "J.C. Simo and D.D. Fox. 1989. On a stress resultant geometrically exact shell model. Part I: Formulation and optimal parametrization.Computer Methods in Applied Mechanics and Engineering72, 3 (1989), 267 -- 304.",
+                "DOI": "10.1016/0045-7825(89)90002-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-44",
+                "unstructured": "John M. Sullivan. 2008.Curvatures of Smooth and Discrete Surfaces.Birkh&#228;user Basel. Basel, 175--188.",
+                "DOI": "10.1007/978-3-7643-8621-4_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-45",
+                "unstructured": "Rasmus Tamstorf and Eitan Grinspun. 2013. Discrete bending forces and their Jacobians.Graphical Models75, 6 (2013), 362 -- 370.",
+                "DOI": "10.1016/j.gmod.2013.07.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-46",
+                "unstructured": "Wim M. van Rees, Etienne Vouga, and L. Mahadevan. 2017. Growth patterns for shape-shifting elastic bilayers.Proceedings of the National Academy of Sciences114, 44 (2017), 11597--11602.",
+                "DOI": "10.1073/pnas.1709025114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-47",
+                "unstructured": "Roman Vetter, Norbert Stoop, Thomas Jenni, Falk K. Wittel, and Hans J. Herrmann. 2013. Subdivision shell elements with anisotropic growth.Internat. J. Numer. Methods Engrg.95, 9 (2013), 791--810.",
+                "DOI": "10.1002/nme.4536",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-48",
+                "unstructured": "Wen Wang, Lining Yao, Teng Zhang, Chin-Yi Cheng, Daniel Levine, and Hiroshi Ishii. 2017. Transformative Appetite: Shape-Changing Food Transforms from 2D to 3D by Water Interaction Through Cooking. InProceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17).ACM, New York, NY, USA. 6123--6132.",
+                "DOI": "10.1145/3025453.3026019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-49",
+                "unstructured": "Max Wardetzky, Mikl&#243;s Bergou, David Harmon, Denis Zorin, and Eitan Grinspun. 2007. Discrete Quadratic Curvature Energies.Comput. Aided Geom. Des.24, 8--9 (Nov. 2007), 499--518."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-50",
+                "unstructured": "Anna Wawrzinek, Klaus Hildebrandt, and Konrad Polthier. 2011. Koiter's Thin Shells on Catmull-Clark Limit Surfaces. InVision, Modeling, and Visualization (2011), Peter Eisert, Joachim Hornegger, and Konrad Polthier (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-51",
+                "unstructured": "Clarisse Weischedel. 2012.A discrete geometric view on shear-deformable shell models.Ph.D. Dissertation. Georg-August-Universit&#228;t G&#246;ttingen."
+            },
+            {
+                "key": "key-10.1145/3197517.3201395-52",
+                "unstructured": "Hang Xiao and Xi Chen. 2011. Modeling and simulation of curled dry leaves.Soft Matter7, 22 (2011), 10794."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201395&ftid=1991744&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:39Z",
+            "timestamp": 1571673519000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201395",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "Timestamp": "1/18/2020 0:37:01",
+    "Title": "PATEX: Exploring Pattern Variations",
+    "DOI": "10.1145/2897824.2925950",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://bitbucket.org/paulguerrero/patex",
+    "code URL  2": "",
+    "PDF URL": "https://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/paper_docs/GuerreroEtAl_PATEX_SIGG16.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Shape analysis",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Beware that the default .mat file when loading the program does not exist : in PatternWidget.m line 296, startfilename = '../data/userstudy/task1_pattern.mat'; refers to a missing file. It can be replaced by startfilename = '../data/medium_1.mat';  if the dataset was downloaded and placed in ../data as instructed.\nAlso, the dataset referenced in the Readme corresponds to http://geometry.cs.ucl.ac.uk/projects/2016/image-relationships/paper_docs/GuerreroEtAl_PATEX_SIGG16_data.zip which does not exist. The correct dataset link, from the project webpage, is https://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/paper_docs/GuerreroEtAl_PATEX_SIGG16_data.zip\n\nDeleting all compiled mex files automatically regenerates them. There is actually a compile error during mex('-largeArrayDims',includeoptions{:},additionaloptions{:},'pointLinesegDistance2D_mex.cpp',[utilpath,'/mexutils.cpp'],'geom.cpp','triTriIntersectionDevillers.cpp');\nHowever, for some reasons, it does not prevent the program from running well (perhaps this function is simply not used).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 11,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab",
+    "Project URL": "https://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Paul",
+            "family": "Guerrero",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University College London"
+                }
+            ]
+        },
+        {
+            "given": "Gilbert",
+            "family": "Bernstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Wilmot",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Niloy J.",
+            "family": "Mitra",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University College London"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.25,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=10350980"
+}

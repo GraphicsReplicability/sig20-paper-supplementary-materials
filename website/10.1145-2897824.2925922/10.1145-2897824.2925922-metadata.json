@@ -1,0 +1,336 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    15
+                ]
+            ],
+            "date-time": "2020-01-15T03:03:29Z",
+            "timestamp": 1579057409362
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925922",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 42,
+        "title": [
+            "Procedural voronoi foams for additive manufacturing"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jon\u00e0s",
+                "family": "Mart\u00ednez",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "J\u00e9r\u00e9mie",
+                "family": "Dumas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA, Universit\u00e9 de Lorraine"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925922-1",
+                "unstructured": "Allaire, G. 2012.Shape optimization by the homogenization method, vol. 146. Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-2",
+                "unstructured": "Andreassen, E., Lazarov, B. S., and Sigmund, O. 2014. Design of manufacturable 3D extremal elastic microstructure.Mechanics of Materials 69, 1, 1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-3",
+                "unstructured": "Autodesk, 2016. www.autodesk.com/products/within."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-4",
+                "unstructured": "B&#228;cher, M., Whiting, E., Bickel, B., and Sorkine-Hornung, O. 2014. Spin-it: Optimizing moment of inertia for spinnable objects.ACM Trans. Graph. 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-5",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Trans. Graph. 29, 4, 63:1--63:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-6",
+                "unstructured": "Brackett, D., Ashcroft, I., Wildman, R., and Hague, R. 2014. An error diffusion based method to generate functionally graded cellular structures.Computers &#38; Structures 138, 102--111."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-7",
+                "unstructured": "Brennan-Craddock, J. 2011.The investigation of a method to generate conformal lattice structures for additive manufacturing. PhD thesis, Loughborough University."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-8",
+                "unstructured": "Cook, R. L. 1986. Stochastic Sampling in Computer Graphics.ACM Trans. Graph. 5, 1, 51--72."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-9",
+                "unstructured": "Fryazinov, O., Vilbrandt, T., and Pasko, A. A. 2013. Multi-scale space-variant FRep cellular structures.Computer-Aided Design 45, 1, 26--34."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-10",
+                "unstructured": "Gaitanaros, S., Kyriakides, S., and Kraynik, A. M. 2012. On the crushing response of random open-cell foams.Int. J. Solids Struct. 49, 19-20, 2733--2743."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-11",
+                "unstructured": "Gibson, L. J., and Ashby, M. F. 1997.Cellular solids: structure and properties. Cambridge university press.",
+                "DOI": "10.1017/CBO9781139878326",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-12",
+                "unstructured": "Johnson, S. G., 2007. The NLopt nonlinear-optimization package."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-13",
+                "unstructured": "Lagae, A., Lefebvre, S., Drettakis, G., and Dutr&#233;, P. 2009. Procedural noise using sparse Gabor convolution.ACM Trans. Graph. 28, 3, 54:1--54:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-14",
+                "unstructured": "Lagae, A., Lefebvre, S., Cook, R., DeRose, T., Drettakis, G., Ebert, D., Lewis, J., Perlin, K., and Zwicker, M. 2010. A survey of procedural noise functions.Computer Graphics Forum 29, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-15",
+                "unstructured": "Li, D., Dai, N., Jiang, X., and Chen, X. 2015. Interior structural optimization based on the density-variable shape modeling of 3D printed objects.The International Journal of Advanced Manufacturing Technology 83, 9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-16",
+                "unstructured": "Lu, L., Sharf, A., Zhao, H., Wei, Y., Fan, Q., Chen, X., Savoye, Y., Tu, C., Cohen-Or, D., and Chen, B. 2014. Build-to-last: Strength to weight 3D printed objects.ACM Trans. Graph. 33, 4, 97:1--97:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-17",
+                "unstructured": "Luxner, M. H., Stampfl, J., and Pettermann, H. E. 2007. Numerical simulations of 3D open cell structures -- influence of structural irregularities on elasto-plasticity and deformation localization.International Journal of Solids and Structures 44, 9, 2990--3003."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-18",
+                "unstructured": "Medeiros e S&#225;, A., Mello, V. M., Echavarria, K. R., and Covill, D. 2015. Adaptive voids.The Visual Computer 31, 6-8, 799--808."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-19",
+                "unstructured": "Panetta, J., Zhou, Q., Malomo, L., Pietroni, N., Cignoni, P., and Zorin, D. 2015. Elastic textures for additive fabrication.ACM Trans. Graph. 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-20",
+                "unstructured": "Pasko, A., Fryazinov, O., Vilbrandt, T., Fayolle, P.-A., and Adzhiev, V. 2011. Procedural function-based modelling of volumetric microstructures.Graphical Models 73, 5, 165--181."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-21",
+                "unstructured": "P&#233;rez, J., Thomaszewski, B., Coros, S., Bickel, B., Canabal, J. A., Sumner, R., and Otaduy, M. A. 2015. Design and fabrication of flexible rod meshes.ACM Trans. Graph. 34, 4, 138:1--138:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-22",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make it stand: Balancing shapes for 3D fabrication.ACM Trans. Graph. 32, 4, 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-23",
+                "unstructured": "Radman, A., Huang, X., and Xie, Y. 2013. Topology optimization of functionally graded cellular materials.Journal of Materials Science 48, 4, 1503--1510."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-24",
+                "unstructured": "Roberts, A., and Garboczi, E. 2002. Elastic properties of model random three-dimensional open-cell solids.Journal of the Mechanics and Physics of Solids 50, 1, 33--55."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-25",
+                "unstructured": "Schumacher, C., Bickel, B., Rys, J., Marschner, S., Daraio, C., and Gross, M. 2015. Microstructures to control elasticity in 3D printing.ACM Trans. Graph. 34, 4, 136:1--136:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-26",
+                "unstructured": "Sigmund, O., and Torquato, S. 1999. Design of smart composite materials using topology optimization.Smart Materials and Structures 8, 3, 365."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-27",
+                "unstructured": "Sigmund, O. 1994. Materials with prescribed constitutive parameters: An inverse homogenization problem.Int. J. Solids Struct. 31, 17, 2313--2329."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-28",
+                "unstructured": "Sigmund, O. 1995. Tailoring materials with prescribed elastic properties.Mechanics of Materials 20, 4, 351--368."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-29",
+                "unstructured": "Skouras, M., Thomaszewski, B., Coros, S., Bickel, B., and Gross, M. 2013. Computational design of actuated deformable characters.ACM Trans. Graph. 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-30",
+                "unstructured": "Staten, M. L. 2007. Why is hex meshing so hard? Presentation at Sandia National Laboratories (URL)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-31",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: Improving structural strength of 3D printable objects.ACM Trans. Graph. 31, 4, 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-32",
+                "unstructured": "Umetani, N., and Schmidt, R. 2013. Cross-sectional structural analysis for 3D printing optimization. InSIGGRAPH Asia 2013 Technical Briefs, 5:1--5:4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-33",
+                "unstructured": "Van Der Burg, M. W. D., Shulmeister, V., Van Der Geissen, E., and Marissen, R. 1997. On the linear elastic properties of regular and random open-cell foam models.Journal of Cellular Plastics 33, 1, 31--54."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-34",
+                "unstructured": "Vidim&#269;e, K., Wang, S.-P., Ragan-Kelley, J., and Matusik, W. 2013. OpenFab: A programmable pipeline for multi-material fabrication.ACM Trans. Graph. 32, 4, 136:1--136:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-35",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3D objects with skin-frame structures.ACM Trans. Graph. 32, 6, 177:1--177:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-36",
+                "unstructured": "Worley, S. P. 1996. A cellular texturing basis function. InProceedings of SIGGRAPH, 291--294."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-37",
+                "unstructured": "Xia, L., and Breitkopf, P. 2015. Design of materials using topology optimization and energy-based homogenization approach in Matlab.Struct. Multidiscip. Opt. 52, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-38",
+                "unstructured": "Xu, H., Li, Y., Chen, Y., and Barbi&#269;, J. 2015. Interactive material design using model reduction.ACM Trans. Graph. 34, 2, 18:1--18:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-39",
+                "unstructured": "Zhou, S., and Li, Q. 2008. Design of graded two-phase microstructures for tailored elasticity gradients.Journal of Materials Science 43, 15, 5157--5167."
+            },
+            {
+                "key": "key-10.1145/2897824.2925922-40",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case structural analysis.ACM Trans. Graph. 32, 4, 137:1--137:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925922&amp;ftid=1755842&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:38:05Z",
+            "timestamp": 1568162285000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925922",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

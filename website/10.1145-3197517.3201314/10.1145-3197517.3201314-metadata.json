@@ -1,0 +1,428 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:00Z",
+            "timestamp": 1574859840717
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201314",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "StrokeAggregator"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Chenxi",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Enrique",
+                "family": "Rosales",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and Universidad Panamericana"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201314-1",
+                "unstructured": "Rahul Arora, Ishan Darolia, Vinay P. Namboodiri, Karan Singh, and Adrien Bousseau. 2017. SketchSoup: Exploratory Ideation Using Design Sketches.Computer Graphics Forum(2017).",
+                "DOI": "10.1111/cgf.13081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-2",
+                "unstructured": "Seok-Hyung Bae, Ravin Balakrishnan, and Karan Singh. 2008. ILoveSketch: As-natural-as-possible Sketching System for Creating 3D Curve Models. InProc. UIST.151--160.",
+                "DOI": "10.1145/1449715.1449740",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-3",
+                "unstructured": "Nikhil Bansal, Avrim Blum, and Shuchi Chawla. 2004. Correlation clustering.Machine Learning56, 1--3 (2004), 89--113."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-4",
+                "unstructured": "Bin Bao and Hongbo Fu. 2012. Vectorizing line drawings with near-constant line width. InProc. International Conference on Image Processing.805--808.",
+                "DOI": "10.1109/ICIP.2012.6466982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-5",
+                "unstructured": "Ilya Baran, Jaakko Lehtinen, and Jovan Popovi&#263;. 2010. Sketching clothoid splines using shortest paths. InComputer Graphics Forum, Vol. 29. 655--664.",
+                "DOI": "10.1111/j.1467-8659.2009.01635.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-6",
+                "unstructured": "Pascal Barla, Jo&#235;lle Thollot, and Fran&#231;ois Sillion. 2005. Geometric Clustering for Line Drawing Simplification. InProc. EGSR.",
+                "DOI": "10.1145/1187112.1187227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-7",
+                "unstructured": "A. Bartolo, K. P. Camilleri, S. G. Fabri, J. C. Borg, and P. J. Farrugia. 2007. Scribbles to Vectors: Preparation of Scribble Drawings for CAD Interpretation. InSketch-Based Interfaces and Modeling.",
+                "DOI": "10.1145/1384429.1384456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-8",
+                "unstructured": "Thomas Baudel. 1994. A Mark-based Interaction Paradigm for Free-hand Drawing. InProc. UIST.185--192.",
+                "DOI": "10.1145/192426.192496",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-9",
+                "unstructured": "Mikhail Bessmeltsev, Will Chang, Nicholas Vining, Alla Sheffer, and Karan Singh. 2015. Modeling character canvases from cartoon drawings.ACM Trans. Graph.34, 5 (2015), 162.",
+                "DOI": "10.1145/2801134",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-10",
+                "unstructured": "Mikhail Bessmeltsev, Nicholas Vining, and Alla Sheffer. 2016. Gesture3D: Posing 3D Characters via Gesture Drawings.ACM Trans. Graph.35, 6 (2016).",
+                "DOI": "10.1145/2980179.2980240",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-11",
+                "unstructured": "Pengbo Bo, Gongning Luo, and Kuanquan Wang. 2016. A graph-based method for fitting planar B-spline curves with intersections.Journal of Computational Design and Engineering3, 1 (2016), 14--23.",
+                "DOI": "10.1016/j.jcde.2015.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-12",
+                "unstructured": "Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, and J&#246;rg Sander. 2015. Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection.ACM Trans. Knowl. Discov. Data10, 1 (2015), 5:1--5:51."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-13",
+                "unstructured": "Jiazhou Chen, Gael Guennebaud, Pascal Barla, and Xavier Granier. 2013. Non-Oriented MLS Gradient Fields. InComputer Graphics Forum, Vol. 32. 98--109.",
+                "DOI": "10.1111/cgf.12164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-14",
+                "unstructured": "Yoeng-Jin Chu. 1965. On the shortest arborescence of a directed graph.Science Sinica14 (1965), 1396--1400."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-15",
+                "unstructured": "Jack Edmonds. 1967. Optimum branchings.J. Res. Nat. Bur. Standards71B, 4 (1967), 233--240.",
+                "DOI": "10.6028/jres.071B.032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-16",
+                "unstructured": "Koos Eissen and Roselien Steur. 2008.Sketching: Drawing Techniques for Product Designers.Bis Publishers."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-17",
+                "unstructured": "Jean-Dominique Favreau, Florent Lafarge, and Adrien Bousseau. 2016. Fidelity vs. simplicity: a global approach to line drawing vectorization.ACM Trans. Graph.35, 4 (2016), 120."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-18",
+                "unstructured": "Mark Finch, John Snyder, and Hugues Hoppe. 2011. Freeform Vector Graphics with Controlled Thin-plate Splines.ACM Trans. Graph.30, 6 (2011), 166:1--166:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-19",
+                "unstructured": "St&#233;phane Grabli, Fr&#233;do Durand, and Fran&#231;ois Sillion. 2004. Density Measure for Line-Drawing Simplification. InProc. Pacific Graphics.",
+                "DOI": "10.1109/PCCGA.2004.1348362",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-20",
+                "unstructured": "Cindy Grimm and Pushkar Joshi. 2012. Just DrawIt: A 3D Sketching System. InProc. SBIM.121--130."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-21",
+                "unstructured": "Robert Hess and David Field. 1999. Integration of contours: new insights.Trends in Cognitive Sciences3, 12 (1999), 480--486.",
+                "DOI": "10.1016/S1364-6613(99)01410-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-22",
+                "unstructured": "Xavier Hilaire and Karl Tombre. 2006. Robust and accurate vectorization of line drawings.IEEE Trans. Pattern Anal. Mach. Intell28, 6 (2006), 890--904.",
+                "DOI": "10.1109/TPAMI.2006.127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-23",
+                "unstructured": "Takeo Igarashi, Tomer Moscovich, and John F. Hughes. 2005. As-rigid-as-possible Shape Manipulation.ACM Trans. Graph.24, 3 (2005), 1134--1141.",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-24",
+                "unstructured": "Pradeep Kumar Jayaraman, Chi-Wing Fu, Jianmin Zheng, Xueting Liu, and Tien-Tsin Wong. 2017. Globally Consistent Wrinkle-Aware Shading of Line Drawings.IEEE Trans. Vis. Comput. Graph(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-25",
+                "unstructured": "Robert D. Kalnins, Philip L. Davidson, Lee Markosian, and Adam Finkelstein. 2003. Coherent Stylized Silhouettes.ACM Trans. Graph.22, 3 (2003), 856--861.",
+                "DOI": "10.1145/882262.882355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-26",
+                "unstructured": "Margret Keuper, Evgeny Levinkov, Nicolas Bonneel, Guillaume Lavou&#233;, Thomas Brox, and Bjorn Andres. 2015. Efficient decomposition of image and mesh graphs by lifted multicuts. InProc. ICCV.1751--1759.",
+                "DOI": "10.1109/ICCV.2015.204",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-27",
+                "unstructured": "In-Kwon Lee. 2000. Curve reconstruction from unorganized points.Computer aided geometric design17, 2 (2000), 161--177.",
+                "DOI": "10.1016/S0167-8396(99)00044-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-28",
+                "unstructured": "David Levin. 2004. Mesh-independent surface interpolation. InGeometric modeling for scientific visualization.37--49.",
+                "DOI": "10.1007/978-3-662-07443-5_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-29",
+                "unstructured": "H Lipson and M Shpitalni. 1996. Optimization-based reconstruction of a 3D object from a single freehand line drawing.Computer-Aided Design28, 8 (1996), 651 -- 663.",
+                "DOI": "10.1016/0010-4485(95)00081-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-30",
+                "unstructured": "Xueting Liu, Tien-Tsin Wong, and Pheng-Ann Heng. 2015. Closure-aware sketch simplification.ACM Trans. Graph.34, 6 (2015), 168.",
+                "DOI": "10.1145/2816795.2818067",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-31",
+                "unstructured": "James McCrae and Karan Singh. 2009. Sketching piecewise clothoid curves.Computers &#38; Graphics33, 4 (2009), 452--461.",
+                "DOI": "10.1016/j.cag.2009.05.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-32",
+                "unstructured": "Liangliang Nan, Andrei Sharf, Ke Xie, Tien-Tsin Wong, Oliver Deussen, Daniel Cohen-Or, and Baoquan Chen. 2011a. Conjoining Gestalt Rules for Abstraction of Architectural Drawings.ACM Trans. Graph.30, 6 (2011).",
+                "DOI": "10.1145/2070781.2024219",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-33",
+                "unstructured": "Liangliang Nan, Andrei Sharf, Ke Xie, Tien-Tsin Wong, Oliver Deussen, Daniel Cohen-Or, and Baoquan Chen. 2011b. Conjoining Gestalt Rules for Abstraction of Architectural Drawings.ACM Trans. Graph.30, 6 (2011). 185:1--185:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-34",
+                "unstructured": "Gioacchino Noris, Alexander Hornung, Robert W Sumner, Maryann Simmons, and Markus Gross. 2013. Topology-driven vectorization of clean line drawings.ACM Trans. Graph.32, 1 (2013), 4.",
+                "DOI": "10.1145/2421636.2421640",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-35",
+                "unstructured": "Gioacchino Noris, Daniel S&#x1EF3;kora, A Shamir, Stelian Coros, Brian Whited, Maryann Simmons, Alexander Hornung, M Gross, and R Sumner. 2012. Smart scribbles for sketch segmentation. InComputer Graphics Forum, Vol. 31. 2516--2527."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-36",
+                "unstructured": "Gunay Orbay and Levent Burak Kara. 2011. Beautification of design sketches using trainable stroke clustering and curve fitting.IEEE Trans. Vis. Comput. Graph17, 5 (2011), 694--708.",
+                "DOI": "10.1109/TVCG.2010.105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-37",
+                "unstructured": "Paul L. Rosin. 1994. Grouping Curved Lines. InMachine Graphics and Vision 7.625--644.",
+                "DOI": "10.5244/C.8.26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-38",
+                "unstructured": "Cloud Shao, Adrien Bousseau, Alla Sheffer, and Karan Singh. 2012. CrossShade: Shading Concept Sketches Using Cross-section Curves.ACM Trans. Graph.31, 4 (2012), 45:1--45:11.",
+                "DOI": "10.1145/2185520.2185541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-39",
+                "unstructured": "Amit Shesh and Baoquan Chen. 2008. Efficient and dynamic simplification of line drawings. InComputer Graphics Forum, Vol. 27. 537--545.",
+                "DOI": "10.1111/j.1467-8659.2008.01151.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-40",
+                "unstructured": "Edgar Simo-Serra, Satoshi Iizuka, Kazuma Sasaki, and Hiroshi Ishikawa. 2016. Learning to simplify: fully convolutional networks for rough sketch cleanup.ACM Trans. Graph.35, 4 (2016), 121.",
+                "DOI": "10.1145/2897824.2925972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-41",
+                "unstructured": "Edgar Simo-Serra, Satoshi Iizuka, Kazuma Sasaki, and Hiroshi Ishikawa. 2017. Mastering Sketching: Adversarial Augmentation for Structured Prediction.ACM Trans. Graph.(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-42",
+                "unstructured": "O. Sorkine, D. Cohen-Or, Y. Lipman, M. Alexa, C. R&#246;ssl, and H.-P. Seidel. 2004. Laplacian Surface Editing. InProc. Symposium on Geometry Processing.175--184.",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-43",
+                "unstructured": "Johan Wagemans, James H Elder, Michael Kubovy, Stephen E Palmer, Mary A Peterson, Manish Singh, and R&#252;diger von der Heydt. 2012. A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization.Psychological bulletin138, 6 (2012), 1172."
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-44",
+                "unstructured": "Brett Wilson and Kwan-Liu Ma. 2004. Rendering complexity in computer-generated pen-and-ink illustrations. InProc. NPAR.129--137.",
+                "DOI": "10.1145/987657.987674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-45",
+                "unstructured": "Baoxuan Xu, William Chang, Alla Sheffer, Adrien Bousseau, James McCrae, and Karan Singh. 2014. True2Form: 3D Curve Networks from 2D Sketches via Selective Regularization.ACM Trans. Graph.33, 4 (2014), 131:1--131:13.",
+                "DOI": "10.1145/2601097.2601128",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201314-46",
+                "unstructured": "Pengfei Xu, Hongbo Fu, Oscar Kin-Chung Au, and Chiew-Lan Tai. 2012. Lazy selection: a scribble-based tool for smart shape elements selection.ACM Trans. Graph.31, 6 (2012), 142.",
+                "DOI": "10.1145/2366145.2366161",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201314&ftid=1991596&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:05Z",
+            "timestamp": 1571673125000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "consolidating raw sketches into artist-intended curve drawings"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201314",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

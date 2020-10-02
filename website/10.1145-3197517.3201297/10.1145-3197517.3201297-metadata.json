@@ -1,0 +1,530 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849937
+        },
+        "reference-count": 64,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Research Grants Council, University Grants Committee, Hong Kong",
+                "award": [
+                    "17202415"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201297",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Autocomplete 3D sculpting"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Mengqi",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Jun",
+                "family": "Xing",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hong Kong and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Li-Yi",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hong Kong and Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201297-1",
+                "unstructured": "Autodesk. 2014. Mudbox. (2014). http://www.autodesk.com/products/mudbox/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-2",
+                "unstructured": "Seok-Hyung Bae, Ravin Balakrishnan, and Karan Singh. 2008. ILoveSketch: As-natural-as-possible Sketching System for Creating 3D Curve Models. InUIST '08.151--160."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-3",
+                "unstructured": "Seok-Hyung Bae, Ravin Balakrishnan, and Karan Singh. 2009. EverybodyLovesSketch: 3D Sketching for a Broader Audience. InUIST '09.59--68."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-4",
+                "unstructured": "Blender Foundation. 2016. Blender. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-5",
+                "unstructured": "Martin Bokeloh, Michael Wand, Vladlen Koltun, and Hans-Peter Seidel. 2011. Pattern-aware Shape Deformation Using Sliding Dockers.ACM Trans. Graph.30, 6, Article 123 (2011), 10 pages.",
+                "DOI": "10.1145/2070781.2024157",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-6",
+                "unstructured": "Claudio Calabrese, Marco Fratarcangeli, and Fabio Pellacini. 2017. sLayer: a System for Multi-Layered Material Sculpting."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-7",
+                "unstructured": "Claudio Calabrese, Gabriele Salvati, Marco Tarini, and Fabio Pellacini. 2016. cSculpt: A System for Collaborative Sculpting.ACM Trans. Graph.35, 4, Article 91 (2016), 8 pages.",
+                "DOI": "10.1145/2897824.2925956",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-8",
+                "unstructured": "Siddhartha Chaudhuri and Vladlen Koltun. 2010. Data-driven Suggestions for Creativity Support in 3D Modeling.ACM Trans. Graph.29, 6, Article 183 (2010), 10 pages.",
+                "DOI": "10.1145/1882262.1866205",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-9",
+                "unstructured": "Hsiang-Ting Chen, Tovi Grossman, Li-Yi Wei, Ryan M. Schmidt, Bj&#246;rn Hartmann, George Fitzmaurice, and Maneesh Agrawala. 2014. History Assisted View Authoring for 3D Models. InCHI '14.2027--2036."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-10",
+                "unstructured": "Hsiang-Ting Chen, Li-Yi Wei, and Chun-Fa Chang. 2011. Nonlinear Revision Control for Images.ACM Trans. Graph.30, 4, Article 105 (2011), 10 pages.",
+                "DOI": "10.1145/2010324.1965000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-11",
+                "unstructured": "Hsiang-Ting Chen, Li-Yi Wei, Bj&#246;rn Hartmann, and Maneesh Agrawala. 2016. Data-driven Adaptive History for Image Editing. InI3D '16.103--111.",
+                "DOI": "10.1145/2856400.2856417",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-12",
+                "unstructured": "Daniel Cohen-Or and Hao Zhang. 2016. From Inspired Modeling to Creative Modeling.Vis. Comput.32, 1 (2016), 7--14.",
+                "DOI": "10.1007/s00371-015-1193-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-13",
+                "unstructured": "Fernando De Goes and Doug L.James. 2017. Regularized Kelvinlets: Sculpting Brushes Based on Fundamental Solutions of Elasticity.ACM Trans. Graph.36, 4, Article 40 (2017), 11 pages.",
+                "DOI": "10.1145/3072959.3073595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-14",
+                "unstructured": "Jonathan D. Denning, William B. Kerr, and Fabio Pellacini. 2011. MeshFlow: Interactive Visualization of Mesh Construction Sequences.ACM Trans. Graph.30, 4, Article 66 (2011), 8 pages.",
+                "DOI": "10.1145/2010324.1964961",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-15",
+                "unstructured": "Jonathan D. Denning and Fabio Pellacini. 2013. MeshGit: Diffing and Merging Meshes for Polygonal Modeling.ACM Trans. Graph.32, 4, Article 35 (2013), 10 pages.",
+                "DOI": "10.1145/2461912.2461942",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-16",
+                "unstructured": "Jonathan D. Denning, Valentina Tibaldo, and Fabio Pellacini. 2015. 3DFlow: Continuous Summarization of Mesh Editing Workflows.ACM Trans. Graph.34, 4, Article 140 (2015), 9 pages.",
+                "DOI": "10.1145/2766936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-17",
+                "unstructured": "David S. Ebert, F. Kenton Musgrave, Darwyn Peachey, Ken Perlin, and Steven Worley. 2002.Texturing and Modeling: A Procedural Approach(3rd ed.). Morgan Kaufmann Publishers Inc.",
+                "DOI": "10.1016/B978-155860848-1/50029-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-18",
+                "unstructured": "Arnaud Emilien, Ulysse Vimont, Marie-Paule Cani, Pierre Poulin, and Bedrich Benes. 2015. WorldBrush: Interactive Example-based Synthesis of Procedural Virtual Worlds.ACM Trans. Graph.34, 4, Article 106 (2015), 11 pages.",
+                "DOI": "10.1145/2766975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-19",
+                "unstructured": "Lubin Fan, Ruimin Wang, Linlin Xu, Jiansong Deng, and Ligang Liu. 2013. Modeling by Drawing with Shadow Guidance.Computer Graphics Forum (Proc. Pacific Graphics)23, 7 (2013), 157--166."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-20",
+                "unstructured": "Chi-Wing Fu, Jiazhi Xia, and Ying He. 2010. LayerPaint: A Multi-layer Interactive 3D Painting Interface. InCHI '10.811--820."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-21",
+                "unstructured": "Hongbo Fu, Shizhe Zhou, Ligang Liu, and Niloy J. Mitra. 2011. Animated Construction of Line Drawings.ACM Trans. Graph.30, 6, Article 133 (2011), 10 pages.",
+                "DOI": "10.1145/2070781.2024167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-22",
+                "unstructured": "Thomas Funkhouser, Michael Kazhdan, Philip Shilane, Patrick Min, William Kiefer, Ayellet Tal, Szymon Rusinkiewicz, and David Dobkin. 2004. Modeling by Example.ACM Trans. Graph.23, 3 (2004), 652--663.",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-23",
+                "unstructured": "Raul Fernandez Hernandez. 2011. Dynamic Subdivision Sculpting. (2011)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-24",
+                "unstructured": "Ruizhen Hu, Oliver van Kaick, Bojian Wu, Hui Huang, Ariel Shamir, and Hao Zhang. 2016. Learning How Objects Function via Co-analysis of Interactions.ACM Trans. Graph.35, 4, Article 47 (2016), 13 pages.",
+                "DOI": "10.1145/2897824.2925870",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-25",
+                "unstructured": "Shi-Min Hu, Kun Xu, Li-Qian Ma, Bin Liu, Bi-Ye Jiang, and Jue Wang. 2013. Inverse Image Editing: Recovering a Semantic Editing History from a Before-and-after Image Pair.ACM Trans. Graph.32, 6, Article 194 (2013), 11 pages.",
+                "DOI": "10.1145/2508363.2508371",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-26",
+                "unstructured": "Takeo Igarashi and John F. Hughes. 2001. A Suggestive Interface for 3D Drawing. InUIST '01.173--181.",
+                "DOI": "10.1145/502377.502379",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-27",
+                "unstructured": "Takeo Igarashi, Satoshi Matsuoka, and Hidehiko Tanaka. 1999. Teddy: A Sketching Interface for 3D Freeform Design. InSIGGRAPH '99.409--416.",
+                "DOI": "10.1145/311535.311602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-28",
+                "unstructured": "Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, and George Fitzmaurice. 2014. Draco: Bringing Life to Illustrations with Kinetic Textures. InCHI '14.351--360."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-29",
+                "unstructured": "Rubaiat Habib Kazi, Takeo Igarashi, Shengdong Zhao, and Richard Davis. 2012. Vignette: Interactive Texture Design and Manipulation with Freeform Gestures for Pen-and-ink Illustration. InCHI '12.1727--1736."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-30",
+                "unstructured": "Matt Kloskowski. 2010. Cloning With a Preview in Photoshop CS4. (2010). http://www.photoshop.com/tutorials/4305."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-31",
+                "unstructured": "David Kurlander and Eric A. Bier. 1988. Graphical Search and Replace. InSIGGRAPH '88.ACM, 113--120.",
+                "DOI": "10.1145/54852.378495",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-32",
+                "unstructured": "David Kurlander and Steven Feiner. 1992a. A History-based Macro by Example System. InUIST '92.ACM, 99--106.",
+                "DOI": "10.1145/142621.142633",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-33",
+                "unstructured": "David Kurlander and Steven Feiner. 1992b. Interactive Constraint-based Search and Replace. InCHI '92.ACM, 609--618.",
+                "DOI": "10.1145/142750.143053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-34",
+                "unstructured": "Vivek Kwatra, Irfan Essa, Aaron Bobick, and Nipun Kwatra. 2005. Texture Optimization for Example-based Synthesis.ACM Trans. Graph.24, 3 (2005), 795--802.",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-35",
+                "unstructured": "Jerry Liu, Fisher Yu, and Thomas A. Funkhouser. 2017. Interactive 3D Modeling with a Generative Adversarial Network.CoRRabs/1706.05170 (2017).",
+                "DOI": "10.1109/3DV.2017.00024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-36",
+                "unstructured": "Zhaoliang Lun, Evangelos Kalogerakis, Rui Wang, and Alla Sheffer. 2016. Functionality Preserving Shape Style Transfer.ACM Trans. Graph.35, 6, Article 209 (2016), 14 pages.",
+                "DOI": "10.1145/2980179.2980237",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-37",
+                "unstructured": "Chongyang Ma, Li-Yi Wei, Sylvain Lefebvre, and Xin Tong. 2013. Dynamic Element Textures.ACM Trans. Graph.32, 4, Article 90 (2013), 10 pages.",
+                "DOI": "10.1145/2461912.2461921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-38",
+                "unstructured": "Andr&#233; Maximo, Robert Patro, Amitabh Varshney, and R Farias. 2011. A robust and rotationally invariant local surface descriptor with applications to non-local mesh processing.Graphical Models73, 5 (2011), 231--242.",
+                "DOI": "10.1016/j.gmod.2011.05.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-39",
+                "unstructured": "Niloy J. Mitra, Leonidas J. Guibas, and Mark Pauly. 2006. Partial and Approximate Symmetry Detection for 3D Geometry.ACM Trans. Graph.25, 3 (2006), 560--568.",
+                "DOI": "10.1145/1141911.1141924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-40",
+                "unstructured": "Niloy J. Mitra, Michael Wand, Hao Zhang, Daniel Cohen-Or, and Martin Bokeloh. 2013. Structure-Aware Shape Processing. InEurographics 2013 - State of the Art Reports.",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-41",
+                "unstructured": "Mathieu Nancel and Andy Cockburn. 2014. Causality: A Conceptual Model of Interaction History. InCHI '14.1777--1786.",
+                "DOI": "10.1145/2556288.2556990",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-42",
+                "unstructured": "Gen Nishida, Ignacio Garcia-Dorado, Daniel G. Aliaga, Bedrich Benes, and Adrien Bousseau. 2016. Interactive Sketching of Urban Procedural Models.ACM Trans. Graph.35, 4, Article 130 (2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925951",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-43",
+                "unstructured": "Micha&#235;l Ortega and Thomas Vincent. 2014. Direct Drawing on 3D Shapes with Automated Camera Control. InCHI '14.2047--2050.",
+                "DOI": "10.1145/2556288.2557242",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-44",
+                "unstructured": "Mengqi Peng, Jun Xing, and Li-Yi Wei. 2017. Autocomplete 3D Sculpting.CoRRabs/1703.10405 (2017). arXiv:cs.GR/1703.10405"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-45",
+                "unstructured": "Patrick P&#233;rez, Michel Gangnet, and Andrew Blake. 2003. Poisson Image Editing.ACM Trans. Graph.22, 3 (2003), 313--318.",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-46",
+                "unstructured": "Pixologic. 2011. Sculptris. (2011)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-47",
+                "unstructured": "Pixologic. 2015. ZBrush. (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-48",
+                "unstructured": "Gabriele Salvati, Christian Santoni, Valentina Tibaldo, and Fabio Pellacini. 2015. Mesh-Histo: Collaborative Modeling by Sharing and Retargeting Editing Histories.ACM Trans. Graph.34, 6, Article 205 (2015), 10 pages.",
+                "DOI": "10.1145/2816795.2818110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-49",
+                "unstructured": "Christian Santoni, Claudio Calabrese, Francesco Di Renzo, and Fabio Pellacini. 2016. SculptStat: Statistical Analysis of Digital Sculpting Workflows.CoRRabs/1601.07765 (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-50",
+                "unstructured": "Ryan Schmidt. 2013. Stroke Parameterization.Computer Graphics Forum32, 2pt2 (2013), 255--263.",
+                "DOI": "10.1111/cgf.12045",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-51",
+                "unstructured": "Ryan Schmidt, Cindy Grimm, and Brian Wyvill. 2006. Interactive Decal Compositing with Discrete Exponential Maps.ACM Trans. Graph.25, 3 (2006), 605--613.",
+                "DOI": "10.1145/1141911.1141930",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-52",
+                "unstructured": "Ryan Schmidt and Karan Singh. 2010. Meshmixer: An Interface for Rapid Mesh Composition. InSIGGRAPH '10 Talks.Article 6, 1 pages.",
+                "DOI": "10.1145/1837026.1837034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-53",
+                "unstructured": "Adriana Schulz, Ariel Shamir, David I. W. Levin, Pitchaya Sitthi-amorn, and Wojciech Matusik. 2014. Design and Fabrication by Example.ACM Trans. Graph.33, 4, Article 62 (2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-54",
+                "unstructured": "Ben Shneiderman. 2007. Creativity Support Tools: Accelerating Discovery and Innovation.Commun. ACM50, 12 (2007), 20--32.",
+                "DOI": "10.1145/1323688.1323689",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-55",
+                "unstructured": "Qian Sun, Long Zhang, Minqi Zhang, Xiang Ying, Shi-Qing Xin, Jiazhi Xia, and Ying He. 2013. Texture Brush: An Interactive Surface Texturing Interface. InI3D '13.153--160.",
+                "DOI": "10.1145/2448196.2448221",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-56",
+                "unstructured": "Ryo Suzuki, Tom Yeh, Koji Yatani, and Mark D. Gross. 2017. Autocomplete Textures for 3D Printing.ArXiv e-prints(2017). arXiv:csHC/1703.05700"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-57",
+                "unstructured": "Kenshi Takayama, Ryan Schmidt, Karan Singh, Takeo Igarashi, Tamy Boubekeur, and Olga Sorkine. 2011. Geobrush: Interactive mesh geometry cloning. InComputer Graphics Forum, Vol. 30. 613--622.",
+                "DOI": "10.1111/j.1467-8659.2011.01883.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-58",
+                "unstructured": "Jianchao Tan, Marek Dvoro&#382;&#328;&#225;k, Daniel S&#253;kora, and Yotam Gingold. 2015. Decomposing Time-lapse Paintings into Layers.ACM Trans. Graph.34, 4, Article 61 (2015), 10 pages.",
+                "DOI": "10.1145/2766960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-59",
+                "unstructured": "Steve Tsang, Ravin Balakrishnan, Karan Singh, and Abhishek Ranjan. 2004. A Suggestive Interface for Image Guided 3D Sketching. InCHI '04.591--598.",
+                "DOI": "10.1145/985692.985767",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-60",
+                "unstructured": "Sidney W. Wang and Arie E. Kaufman. 1995. Volume Sculpting. InI3D '95.151--ff.",
+                "DOI": "10.1145/199404.199430",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-61",
+                "unstructured": "Jun Xing, Hsiang-Ting Chen, and Li-Yi Wei. 2014. Autocomplete Painting Repetitions.ACM Trans. Graph.33, 6, Article 172 (2014), 11 pages.",
+                "DOI": "10.1145/2661229.2661247",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-62",
+                "unstructured": "Jun Xing, Li-Yi Wei, Takaaki Shiratori, and Koji Yatani. 2015. Autocomplete Hand-drawn Animations.ACM Trans. Graph.34, 6, Article 169 (2015), 11 pages.",
+                "DOI": "10.1145/2816795.2818079",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-63",
+                "unstructured": "Ya-Ting Yue, Xiaolong Zhang, Yongliang Yang, Gang Ren, Yi-King Choi, and Wenping Wang. 2017. WireDraw: 3D Wire Sculpturing Guided with Mixed Reality. InCHI '17.3693--3704."
+            },
+            {
+                "key": "key-10.1145/3197517.3201297-64",
+                "unstructured": "Steve Zelinka and Michael Garland. 2004. Similarity-based Surface Modelling Using Geodesic Fans. InSGP '04.204--213.",
+                "DOI": "10.1145/1186223.1186344",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201297&ftid=1991787&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:50Z",
+            "timestamp": 1571673470000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 64,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201297",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

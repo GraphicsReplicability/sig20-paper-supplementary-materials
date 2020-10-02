@@ -1,0 +1,125 @@
+{
+    "Timestamp": "1/19/2020 11:28:19",
+    "Title": "An implicit frictional contact solver for adaptive cloth simulation",
+    "DOI": "10.1145/3197517.3201308",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://hal.inria.fr/hal-01834705",
+    "code URL": "https://github.com/lijieumn/argus-distribution",
+    "code URL  2": "",
+    "PDF URL": "http://www-users.cselabs.umn.edu/~lixx4611/files/clothNodalContactSolver.pdf",
+    "License type": "Core not covered by a license, two libraries with GPL/Mozilla licenses and one with a specific license",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 3,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Easy to adapt: would require more comments in the code, but doable.",
+    "Does the paper already have a reproducibility stamp": "Yes, http://www.replicabilitystamp.org",
+    "Citation count (google scholar)": 5,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "BLAS/Boost/gfortran/LAPACK/libpng/libxmu/libxi/Eigen3/glfw3/glew",
+    "Project URL": "http://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Jie",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota"
+                }
+            ]
+        },
+        {
+            "given": "Gilles",
+            "family": "Daviet",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Univ. Grenoble Alpes, Inria, France and Weta Digital, New Zealand"
+                }
+            ]
+        },
+        {
+            "given": "Rahul",
+            "family": "Narain",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota and Indian Institute of Technology Delhi, India"
+                }
+            ]
+        },
+        {
+            "given": "Florence",
+            "family": "Bertails-Descoubes",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Univ. Grenoble Alpes, Inria, France"
+                }
+            ]
+        },
+        {
+            "given": "Matthew",
+            "family": "Overby",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota"
+                }
+            ]
+        },
+        {
+            "given": "George E.",
+            "family": "Brown",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota"
+                }
+            ]
+        },
+        {
+            "given": "Laurence",
+            "family": "Boissieux",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Univ. Grenoble Alpes, Inria, France"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

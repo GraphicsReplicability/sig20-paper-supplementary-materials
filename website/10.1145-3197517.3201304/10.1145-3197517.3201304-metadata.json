@@ -1,0 +1,472 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    8
+                ]
+            ],
+            "date-time": "2020-01-08T00:03:20Z",
+            "timestamp": 1578441800467
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201304",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "tempoGAN"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "You",
+                "family": "Xie",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            },
+            {
+                "given": "Erik",
+                "family": "Franz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            },
+            {
+                "given": "Mengyu",
+                "family": "Chu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            },
+            {
+                "given": "Nils",
+                "family": "Thuerey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201304-1",
+                "unstructured": "Martin Arjovsky, Soumith Chintala, and L&#233;on Bottou. 2017. Wasserstein GAN.arXiv:1701.07875(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-2",
+                "unstructured": "Steve Bako, Thijs Vogels, Brian McWilliams, Mark Meyer, Jan Nov&#225;K, Alex Harvill, Pradeep Sen, Tony Derose, and Fabrice Rousselle. 2017. Kernel-predicting convolutional networks for denoising Monte Carlo renderings.ACM Transactions on Graphics (TOG)36, 4 (2017), 97."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-3",
+                "unstructured": "David Berthelot, Tom Schumm, and Luke Metz. 2017. BeGAN: Boundary equilibrium generative adversarial networks.arXiv:1703.10717(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-4",
+                "unstructured": "Prateep Bhattacharjee and Sukhendu Das. 2017. Temporal Coherency based Criteria for Predicting Video Frames using Deep Multi-stage Generative Adversarial Networks. InAdvances in Neural Information Processing Systems.4271--4280."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-5",
+                "unstructured": "Christopher M. Bishop. 2006.Pattern Recognition and Machine Learning (Information Science and Statistics).Springer-Verlag New York, Inc., Secaucus, NJ, USA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-6",
+                "unstructured": "Chakravarty Alla Chaitanya, Anton Kaplanyan, Christoph Schied, Marco Salvi, Aaron Lefohn, Derek Nowrouzezahrai, and Timo Aila. 2017. Interactive reconstruction of Monte Carlo image sequences using a recurrent denoising autoencoder.ACM Transactions on Graphics (TOG)36, 4 (2017), 98."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-7",
+                "unstructured": "Dongdong Chen, Jing Liao, Lu Yuan, Nenghai Yu, and Gang Hua. 2017. Coherent Online Video Style Transfer. InThe IEEE International Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2017.126",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-8",
+                "unstructured": "Mengyu Chu and Nils Thuerey. 2017. Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors.ACM Trans. Graph.36(4), 69 (2017).",
+                "DOI": "10.1145/3072959.3073643",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-9",
+                "unstructured": "Emmanuel de Bezenac, Arthur Pajot, and Patrick Gallinari. 2017. Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge.arXiv preprint arXiv:1711.07970(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-10",
+                "unstructured": "Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang. 2016. Image super-resolution using deep convolutional networks.IEEE transactions on pattern analysis and machine intelligence38, 2 (2016), 295--307.",
+                "DOI": "10.1109/TPAMI.2015.2439281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-11",
+                "unstructured": "Alexey Dosovitskiy and Thomas Brox. 2016. Generating images with perceptual similarity metrics based on deep networks. InAdvances in Neural Information Processing Systems.658--666."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-12",
+                "unstructured": "Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, and Thomas Brox. 2016. Discriminative unsupervised feature learning with exemplar convolutional neural networks.IEEE Trans. Pattern Analysis and Mach. Int.38, 9 (2016), 1734--1747.",
+                "DOI": "10.1109/TPAMI.2015.2496141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-13",
+                "unstructured": "Amir Barati Farimani, Joseph Gomes, and Vijay S Pande. 2017. Deep Learning the Physics of Transport Phenomena.arXiv:1709.02432(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-14",
+                "unstructured": "John Flynn, Ivan Neulander, James Philbin, and Noah Snavely. 2016. DeepStereo: Learning to predict new views from the world's imagery. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.5515--5524.",
+                "DOI": "10.1109/CVPR.2016.595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-15",
+                "unstructured": "Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. InProc. of IEEE Comp. Vision and Pattern Rec.IEEE, 580--587.",
+                "DOI": "10.1109/CVPR.2014.81",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-16",
+                "unstructured": "Ian Goodfellow. 2016. NIPS 2016 tutorial: Generative adversarial networks.arXiv preprint arXiv:1701.00160(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-17",
+                "unstructured": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 2016.Deep Learning.MIT Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-18",
+                "unstructured": "Ian J Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. Generative Adversarial Nets.stat1050 (2014), 10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-19",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros. 2017. Image-to-image translation with conditional adversarial networks.Proc. of IEEE Comp. Vision and Pattern Rec.(2017).",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-20",
+                "unstructured": "Justin Johnson, Alexandre Alahi, and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. InEuropean Conference on Computer Vision.Springer, 694--711.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-21",
+                "unstructured": "Simon Kallweit, Thomas M&#252;ller, Brian McWilliams, Markus Gross, and Jan Nov&#225;k. 2017. Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks.arXiv:1709.05418(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-22",
+                "unstructured": "Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen. 2017. Progressive growing of gans for improved quality, stability, and variation.arXiv:1710.10196(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-23",
+                "unstructured": "Ladislav Kavan, Dan Gerszewski, Adam W Bargteil, and Peter-Pike Sloan. 2011. Physics-inspired upsampling for cloth simulation in games. InACM Transactions on Graphics (TOG), Vol. 30. ACM, 93."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-24",
+                "unstructured": "Byungmoon Kim, Yingjie Liu, Ignacio Llamas, and Jarek Rossignac. 2005. FlowFixer: Using BFECC for Fluid Simulation. InProceedings of the First Eurographics conference on Natural Phenomena.51--56."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-25",
+                "unstructured": "Jiwon Kim, Jung Kwon Lee, and Kyoung Mu Lee. 2016. Accurate image super-resolution using very deep convolutional networks. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.1646--1654.",
+                "DOI": "10.1109/CVPR.2016.182",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-26",
+                "unstructured": "Theodore Kim, Nils Thuerey, Doug James, and Markus Gross. 2008. Wavelet Turbulence for Fluid Simulation.ACM Trans. Graph.27 (3) (2008), 50:1--6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-27",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in Neural Information Processing Systems.NIPS, 1097--1105."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-28",
+                "unstructured": "Lubor Ladicky, SoHyeon Jeong, Barbara Solenthaler, Marc Pollefeys, and Markus Gross. 2015. Data-driven fluid simulations using regression forests.ACM Trans. Graph.34, 6 (2015), 199.",
+                "DOI": "10.1145/2816795.2818129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-29",
+                "unstructured": "Christian Ledig, Lucas Theis, Ferenc Husz&#225;r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, et al. 2016. Photo-realistic single image super-resolution using a generative adversarial network.arXiv:1609.04802(2016).",
+                "DOI": "10.1109/CVPR.2017.19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-30",
+                "unstructured": "Bee Lim, Sanghyun Son, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee. 2017. Enhanced deep residual networks for single image super-resolution. InProc. of IEEE Comp. Vision and Pattern Rec., Vol. 1. 3.",
+                "DOI": "10.1109/CVPRW.2017.151",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-31",
+                "unstructured": "Ding Liu, Zhaowen Wang, Yuchen Fan, Xianming Liu, Zhangyang Wang, Shiyu Chang, and Thomas Huang. 2017. Robust Video Super-Resolution With Learned Temporal Dynamics. InThe IEEE International Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2017.274",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-32",
+                "unstructured": "Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong. 2017. PDE-Net: Learning PDEs from Data.arXiv:1710.09668(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-33",
+                "unstructured": "Fujun Luan, Sylvain Paris, Eli Shechtman, and Kavita Bala. 2017. Deep Photo Style Transfer.arXiv preprint arXiv:1703.07511(2017).",
+                "DOI": "10.1109/CVPR.2017.740",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-34",
+                "unstructured": "W Magnus, F Henrik, A Chris, and M Stephen. 2011. Capturing Thin Features in Smoke Simulations.Siggraph Talk(2011)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-35",
+                "unstructured": "Michael Mathieu, Camille Couprie, and Yann LeCun. 2015. Deep multi-scale video prediction beyond mean square error.arXiv preprint arXiv:1511.05440(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-36",
+                "unstructured": "Antoine McNamara, Adrien Treuille, Zoran Popovi&#263;, and Jos Stam. 2004. Fluid Control Using the Adjoint Method.ACM Trans. Graph.23, 3 (2004), 449--456.",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-37",
+                "unstructured": "Mehdi Mirza and Simon Osindero. 2014. Conditional generative adversarial nets.arXiv preprint arXiv:1411.1784(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-38",
+                "unstructured": "Lukas Mosser, Olivier Dubrule, and Martin J Blunt. 2017. Reconstruction of three-dimensional porous media using generative adversarial neural networks.arXiv:1704.03225(2017).",
+                "DOI": "10.1103/PhysRevE.96.043309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-39",
+                "unstructured": "Rahul Narain, Jason Sewall, Mark Carlson, and Ming C. Lin. 2008. Fast Animation of Turbulence Using Energy Transport and Procedural Synthesis.ACM Trans. Graph.27, 5 (2008), article 166.",
+                "DOI": "10.1145/1409060.1409119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-40",
+                "unstructured": "Augustus Odena, Vincent Dumoulin, and Chris Olah. 2016. Deconvolution and Checker-board Artifacts.Distill(2016).",
+                "DOI": "10.23915/distill.00003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-41",
+                "unstructured": "Zherong Pan, Jin Huang, Yiying Tong, Changxi Zheng, and Hujun Bao. 2013. Interactive Localized Liquid Motion Editing.ACM Trans. Graph.32, 6 (Nov. 2013).",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-42",
+                "unstructured": "Xue Bin Peng, Glen Berseth, KangKang Yin, and Michiel Van De Panne. 2017. Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.ACM Trans. Graph.36, 4 (2017), 41."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-43",
+                "unstructured": "Lukas Prantl, Boris Bonev, and Nils Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks and Optical Flow.arXiv:1704.07854(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-44",
+                "unstructured": "Alec Radford, Luke Metz, and Soumith Chintala. 2016. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.Proc. ICLR(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-45",
+                "unstructured": "Nick Rasmussen, Due Quang Nguyen, Willi Geiger, and Ronald Fedkiw. 2003. Smoke Simulation for large scale phenomena. InACM Transactions on Graphics (TOG), Vol. 22. ACM, 703--707.",
+                "DOI": "10.1145/1201775.882335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-46",
+                "unstructured": "Olaf Ronneberger, Philipp Fischer, and Thomas Brox. 2015. U-net: Convolutional networks for biomedical image segmentation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention.Springer, 234--241.",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-47",
+                "unstructured": "Manuel Ruder, Alexey Dosovitskiy, and Thomas Brox. 2016. Artistic Style Transfer for Videos. InPattern Recognition - 38th German Conference, GCPR 2016, Hannover, Germany, September 12-15, 2016, Proceedings.26--36.",
+                "DOI": "10.1007/978-3-319-45886-1_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-48",
+                "unstructured": "Masaki Saito, Eiichi Matsumoto, and Shunta Saito. 2017. Temporal generative adversarial nets with singular value clipping. InIEEE International Conference on Computer Vision (ICCV).2830--2839.",
+                "DOI": "10.1109/ICCV.2017.308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-49",
+                "unstructured": "Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen. 2016. Improved techniques for training gans. InAdvances in Neural Information Processing Systems.2234--2242."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-50",
+                "unstructured": "Hagit Schechter and Robert Bridson. 2008. Evolving sub-grid turbulence for smoke animation. InProceedings of the 2008 ACM SIGGRAPH/Eurographics symposium on Computer animation.Eurographics Association, 1--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-51",
+                "unstructured": "Andrew Seile, Ronald Fedkiw, Byungmoon Kim, Yingjie Liu, and Jarek Rossignac. 2008. An Unconditionally Stable MacCormack Method.J. Sci. Comput.35, 2-3 (June 2008), 350--371."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-52",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition.arXiv.1409.1556(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-53",
+                "unstructured": "Jos Stam. 1999. Stable Fluids. InProc. ACM SIGGRAPH.ACM, 121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-54",
+                "unstructured": "Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, and Ken Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks.arXiv:1607.03597(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-55",
+                "unstructured": "Kiwon Um, Xiangyu Hu, and Nils Thuerey. 2017. Splash Modeling with Neural Networks.arXiv:1704.04456(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-56",
+                "unstructured": "Lantao Yu, Weinan Zhang, Jun Wang, and Yong Yu. 2017. SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.. InAAAI.2852--2858."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-57",
+                "unstructured": "Hang Zhao, Orazio Gallo, Iuri Frosio, and Jan Kautz. 2015. Loss Functions for Neural Networks for Image Processing.arXiv preprint arXiv:1511.08861(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201304-58",
+                "unstructured": "Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. 2017. Unpaired image-to-image translation using cycle-consistent adversarial networks.arXiv:1703.10593(2017)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201304&ftid=1991706&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:30Z",
+            "timestamp": 1571673150000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a temporally coherent, volumetric GAN for super-resolution fluid flow"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201304",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

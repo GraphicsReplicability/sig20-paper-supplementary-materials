@@ -1,0 +1,444 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410077
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "NSERC",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "RGPIN-2015-04843"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925881",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 41,
+        "title": [
+            "Terrain-adaptive locomotion skills using deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xue Bin",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Glen",
+                "family": "Berseth",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Michiel",
+                "family": "van de Panne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925881-1",
+                "unstructured": "Assael, J.-A. M., Wahlstr&#246;m, N., Sch&#246;n, T. B., and Deisenroth, M. P. 2015. Data-efficient learning of feedback policies from image pixels using deep dynamical models.arXiv preprint arXiv:1510.02173."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-2",
+                "unstructured": "Bullet, 2015. Bullet physics library, Dec. http://bulletphysics.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-3",
+                "unstructured": "Calinon, S., Kormushev, P., and Caldwell, D. G. 2013. Compliant skills acquisition and multi-optima policy search with em-based reinforcement learning.Robotics and Autonomous Systems 61, 4, 369--379."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-4",
+                "unstructured": "Coros, S., Beaudoin, P., Yin, K. K., and van de Panne, M. 2008. Synthesis of constrained walking skills.ACM Trans. Graph. 27, 5, Article 113."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-5",
+                "unstructured": "Coros, S., Beaudoin, P., and van de Panne, M. 2009. Robust task-based control policies for physics-based characters.ACM Transctions on Graphics 28, 5, Article 170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-6",
+                "unstructured": "Coros, S., Beaudoin, P., and van de Panne, M. 2010. Generalized biped walking control.ACM Transctions on Graphics 29, 4, Article 130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-7",
+                "unstructured": "Coros, S., Karpathy, A., Jones, B., Reveret, L., and van de Panne, M. 2011. Locomotion skills for simulated quadrupeds.ACM Transactions on Graphics 30, 4, Article 59."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-8",
+                "unstructured": "da Silva, M., Abe, Y., and Popovi&#263;, J. 2008. Interactive simulation of stylized human locomotion.ACM Trans. Graph. 27, 3, Article 82."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-9",
+                "unstructured": "da Silva, M., Durand, F., and Popovi&#263;, J. 2009. Linear bellman combination for control of character animation.ACM Trans. Graph. 28, 3, Article 82."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-10",
+                "unstructured": "Doya, K., Samejima, K., Katagiri, K.-i., and Kawato, M. 2002. Multiple model-based reinforcement learning.Neural computation 14, 6, 1347--1369."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-11",
+                "unstructured": "Faloutsos, P., van de Panne, M., and Terzopoulos, D. 2001. Composable controllers for physics-based character animation. InProceedings of SIGGRAPH 2001, 251--260."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-12",
+                "unstructured": "Featherstone, R. 2014.Rigid body dynamics algorithms. Springer."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-13",
+                "unstructured": "Geijtenbeek, T., and Pronost, N. 2012. Interactive character animation using simulated physics: A state-of-the-art review. InComputer Graphics Forum, vol. 31, Wiley Online Library, 2492--2515.",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-14",
+                "unstructured": "Grzeszczuk, R., Terzopoulos, D., and Hinton, G. 1998. Neuroanimator: Fast neural network emulation and control of physics-based models. InProc. ACM SIGGRAPH, ACM, 9--20.",
+                "DOI": "10.1145/280814.280816",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-15",
+                "unstructured": "Hansen, N. 2006. The cma evolution strategy: A comparing review. InTowards a New Evolutionary Computation, 75--102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-16",
+                "unstructured": "Haruno, M., Wolpert, D. H., and Kawato, M. 2001. Mosaic model for sensorimotor learning and control.Neural computation 13, 10, 2201--2220."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-17",
+                "unstructured": "Hausknecht, M., and Stone, P. 2015. Deep reinforcement learning in parameterized action space.arXiv preprint arXiv:1511.04143."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-18",
+                "unstructured": "Heess, N., Wayne, G., Silver, D., Lillicrap, T., Erez, T., and Tassa, Y. 2015. Learning continuous control policies by stochastic value gradients. InAdvances in Neural Information Processing Systems, 2926--2934."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-19",
+                "unstructured": "Hester, T., and Stone, P. 2013. Texplore: real-time sample-efficient reinforcement learning for robots.Machine Learning 90, 3, 385--429."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-20",
+                "unstructured": "Hodgins, J. K., Wooten, W. L., Brogan, D. C., and O'Brien, J. F. 1995. Animating human athletics. InProceedings of SIGGRAPH 1995, 71--78."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-21",
+                "unstructured": "Jacobs, R. A., Jordan, M. I., Nowlan, S. J., and Hinton, G. E. 1991. Adaptive mixtures of local experts.Neural computation 3, 1, 79--87."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-22",
+                "unstructured": "Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R., Guadarrama, S., and Darrell, T. 2014. Caffe: Convolutional architecture for fast feature embedding. InProceedings of the ACM International Conference on Multimedia, ACM, New York, NY, USA, MM '14, 675--678."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-23",
+                "unstructured": "Laszlo, J., van de Panne, M., and Fiume, E. 1996. Limit cycle control and its application to the animation of balancing and walking. InProc. ACM SIGGRAPH, 155--162."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-24",
+                "unstructured": "Lee, J., and Lee, K. H. 2006. Precomputing avatar behavior from human motion data.Graphical Models 68, 2, 158--174."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-25",
+                "unstructured": "Lee, Y., Lee, S. J., and Popovi&#263;, Z. 2009. Compact character controllers.ACM Transctions on Graphics 28, 5, Article 169."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-26",
+                "unstructured": "Lee, Y., Wampler, K., Bernstein, G., Popovi&#263;, J., and Popovi&#263;, Z. 2010. Motion fields for interactive character locomotion.ACM Transctions on Graphics 29, 6, Article 138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-27",
+                "unstructured": "Lee, Y., Kim, S., and Lee, J. 2010. Data-driven biped control.ACM Transctions on Graphics 29, 4, Article 129."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-28",
+                "unstructured": "Levine, S., and Abbeel, P. 2014. Learning neural network policies with guided policy search under unknown dynamics. InAdvances in Neural Information Processing Systems 27. 1071--1079."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-29",
+                "unstructured": "Levine, S., and Koltun, V. 2014. Learning complex neural network policies with trajectory optimization. InProceedings of the 31st International Conference on Machine Learning (ICML-14), 829--837."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-30",
+                "unstructured": "Levine, S., Wang, J. M., Haraux, A., Popovi&#263;, Z., and Koltun, V. 2012. Continuous character control with low-dimensional embeddings.ACM Transactions on Graphics (TOG) 31, 4, 28."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-31",
+                "unstructured": "Levine, S., Finn, C., Darrell, T., and Abbeel, P. 2015. End-to-end training of deep visuomotor policies.arXiv preprint arXiv:1504.00702."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-32",
+                "unstructured": "Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., and Wierstra, D. 2015. Continuous control with deep reinforcement learning.arXiv preprint arXiv:1509.02971."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-33",
+                "unstructured": "Liu, L., Yin, K., va n d e Panne, M., and Guo, B. 2012. Terrain runner: control, parameterization, composition, and planning for highly dynamic motions.ACM Trans. Graph. 31, 6, 154."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-34",
+                "unstructured": "Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjeland, A. K., Ostrovski, G., et al. 2015. Human-level control through deep reinforcement learning.Nature 518, 7540, 529--533."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-35",
+                "unstructured": "Mordatch, I., and Todorov, E. 2014. Combining the benefits of function approximation and trajectory optimization. InRobotics: Science and Systems (RSS).",
+                "DOI": "10.15607/RSS.2014.X.052",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-36",
+                "unstructured": "Mordatch, I., de Lasa, M., and Hertzmann, A. 2010. Robust physics-based locomotion using low-dimensional planning.ACM Trans. Graph. 29, 4, Article 71."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-37",
+                "unstructured": "Mordatch, I., Lowrey, K., Andrew, G., Popovic, Z., and Todorov, E. V. 2015. Interactive control of diverse complex characters with neural networks. InAdvances in Neural Information Processing Systems, 3114--3122."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-38",
+                "unstructured": "Muico, U., Lee, Y., Popovi&#263;, J., and Popovi&#263;, Z. 2009. Contact-aware nonlinear control of dynamic characters.ACM Trans. Graph. 28, 3, Article 81."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-39",
+                "unstructured": "Muico, U., Popovi&#263;, J., and Popovi&#263;, Z. 2011. Composite control of physically simulated characters.ACM Trans. Graph. 30, 3, Article 16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-40",
+                "unstructured": "Nair, A., Srinivasan, P., Blackwell, S., Alcicek, C., Fearon, R., De Maria, A., Panneershelvam, V., Suley-man, M., Beattie, C., Petersen, S., et al. 2015. Massively parallel methods for deep reinforcement learning.arXiv preprint arXiv:1507.04296."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-41",
+                "unstructured": "Parisotto, E., Ba, J. L., and Salakhutdinov, R. 2015. Actor-mimic: Deep multitask and transfer reinforcement learning.arXiv preprint arXiv:1511.06342."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-42",
+                "unstructured": "Pastor, P., Kalakrishnan, M., Righetti, L., and Schaal, S. 2012. Towards associative skill memories. InHumanoid Robots (Humanoids), 2012 12th IEEE-RAS International Conference on, IEEE, 309--315.",
+                "DOI": "10.1109/HUMANOIDS.2012.6651537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-43",
+                "unstructured": "Peng, X. B., Berseth, G., and van de Panne, M. 2015. Dynamic terrain traversal skills using reinforcement learning.ACM Transactions on Graphics 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-44",
+                "unstructured": "Rusu, A. A., Colmenarejo, S. G., Gulcehre, C., Desjardins, G., Kirkpatrick, J., Pascanu, R., Mnih, V., Kavukcuoglu, K., and Hadsell, R. 2015. Policy distillation.arXiv preprint arXiv:1511.06295."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-45",
+                "unstructured": "Schaul, T., Quan, J., Antonoglou, I., and Silver, D. 2015. Prioritized experience replay.arXiv preprint arXiv:1511.05952."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-46",
+                "unstructured": "Schulman, J., Levine, S., Moritz, P., Jordan, M. I., and Abbeel, P. 2015. Trust region policy optimization.CoRR abs/1502.05477."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-47",
+                "unstructured": "Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., and Riedmiller, M. 2014. Deterministic policy gradient algorithms. InICML."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-48",
+                "unstructured": "Sok, K. W., Kim, M., and Lee, J. 2007. Simulating biped behaviors from human motion data.ACM Trans. Graph. 26, 3, Article 107."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-49",
+                "unstructured": "Stadie, B. C., Levine, S., and Abbeel, P. 2015. Incentiviz-ing exploration in reinforcement learning with deep predictive models.arXiv preprint arXiv:1507.00814."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-50",
+                "unstructured": "Tan, J., Liu, K., and Turk, G. 2011. Stable proportional-derivative controllers.Computer Graphics and Applications, IEEE 31, 4, 34--44."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-51",
+                "unstructured": "Tan, J., Gu, Y., Liu, C. K., and Turk, G. 2014. Learning bicycle stunts.ACM Transactions on Graphics (TOG) 33, 4, 50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-52",
+                "unstructured": "Treuille, A., Lee, Y., and Popovi&#263;, Z. 2007. Near-optimal character animation with continuous control.ACM Transactions on Graphics (TOG) 26, 3, Article 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-53",
+                "unstructured": "Uchibe, E., and Doya, K. 2004. Competitive-cooperative-concurrent reinforcement learning with importance sampling. InProc. of International Conference on Simulation of Adaptive Behavior: From Animals and Animats, 287--296."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-54",
+                "unstructured": "van der Maaten, L., and Hinton, G. E. 2008. Visualizing high-dimensional data using t-sne.Journal of Machine Learning Research 9, 2579--2605."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-55",
+                "unstructured": "Van Hasselt, H., and Wiering, M. A. 2007. Reinforcement learning in continuous action spaces. InApproximate Dynamic Programming and Reinforcement Learning, 2007. ADPRL 2007. IEEE International Symposium on, IEEE, 272--279.",
+                "DOI": "10.1109/ADPRL.2007.368199",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-56",
+                "unstructured": "Van Hasselt, H., Guez, A., and Silver, D. 2015. Deep reinforcement learning with double q-learning.arXiv preprint arXiv:1509.06461."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-57",
+                "unstructured": "Van Hasselt, H. 2012. Reinforcement learning in continuous state and action spaces. InReinforcement Learning. Springer, 207--251.",
+                "DOI": "10.1007/978-3-642-27645-3_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-58",
+                "unstructured": "Wang, J. M., Fleet, D. J., and Hertzmann, A. 2009. Optimizing walking controllers.ACM Transctions on Graphics 28, 5, Article 168."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-59",
+                "unstructured": "Wiering, M., and Van Hasselt, H. 2008. Ensemble algorithms in reinforcement learning.Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on 38, 4, 930--936."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-60",
+                "unstructured": "Ye, Y., and Liu, C. K. 2010. Optimal feedback control for character animation using an abstract model.ACM Trans. Graph. 29, 4, Article 74."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-61",
+                "unstructured": "Yin, K., Loken, K., and van de Panne, M. 2007. Simbicon: Simple biped locomotion control.ACM Transctions on Graphics 26, 3, Article 105."
+            },
+            {
+                "key": "key-10.1145/2897824.2925881-62",
+                "unstructured": "Yin, K., Coros, S., Beaudoin, P., and van de Panne, M. 2008. Continuation methods for adapting simulated skills.ACM Transctions on Graphics 27, 3, Article 81."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925881&amp;ftid=1755860&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:07Z",
+            "timestamp": 1568162707000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925881",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

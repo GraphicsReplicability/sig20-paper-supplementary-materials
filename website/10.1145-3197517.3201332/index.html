@@ -1,0 +1,86 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Neural best-buddies: sparse cross-domain correspondence <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Kfir <span class="family">Aberman</span></li>
+<li> Jing <span class="family">Liao</span></li>
+<li> Mingyi <span class="family">Shi</span></li>
+<li> Dani <span class="family">Lischinski</span></li>
+<li> Baoquan <span class="family">Chen</span></li>
+<li> Daniel <span class="family">Cohen-Or</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201332">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://arxiv.org/pdf/1805.04140.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://kfiraberman.github.io/neural_best_buddies/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/kfiraberman/neural_best_buddies">Code</a></li>
+<li class="web"> <i class="fas fa-university"></i> <a href="https://arxiv.org/abs/1805.04140">arXiv or openarchive initiative</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201332-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201332-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   9</li>
+<li><span class="family">Reviewer</span>: 3</li>
+</ul><h2>Comments</h2><pre>sklearn dependency was not explicitly mentioned in the README. To make the code working on recent pytorch, I needed to update in line of code :
+
+
+@@ -92,7 +92,7 @@ class vgg19(nn.Module):
+             deconvolved_feature_forward = self.forward(level=src_level, start_level=dst_level, set_as_var = False)
+             loss_perceptual = criterionPerceptual(deconvolved_feature_forward, src_layer)
+             loss_perceptual.backward()
+-            error = loss_perceptual.data[0]
++            error = loss_perceptual.item()
+             self.update_last_losses(error)
+             if (i % 3 == 0) and (print_errors == True):
+                 print("error: ", error)</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [4,4,5,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

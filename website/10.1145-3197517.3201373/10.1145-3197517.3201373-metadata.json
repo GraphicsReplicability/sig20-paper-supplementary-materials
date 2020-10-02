@@ -1,0 +1,438 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:05Z",
+            "timestamp": 1574859845460
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320"
+                ]
+            },
+            {
+                "name": "Swiss National Science Foundation, NCCR Digital Fabrication Agreement",
+                "award": [
+                    "51NF40-141853"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201373",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Rapid deployment of curved surfaces via programmable auxetics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Mina",
+                "family": "Konakovi\u0107-Lukovi\u0107",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Julian",
+                "family": "Panetta",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201373-1",
+                "unstructured": "Bernd Bickel, Moritz B&#228;cher, Miguel A. Otaduy, Hyunho Richard Lee, Hanspeter Pfister, Markus Gross, and Wojciech Matusik. 2010. Design and Fabrication of Materials with Desired Deformation Behavior.ACM Trans. Graph.29, 4, Article 63 (July 2010), 10 pages.",
+                "DOI": "10.1145/1833349.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-2",
+                "unstructured": "Sofien Bouaziz, Mario Deuss, Yuliy Schwartzburg, Thibaut Weise, and Mark Pauly. 2012. Shape-Up: Shaping Discrete Geometry with Projections.Comput. Graph. Forum31, 5 (2012), 1657--1667.",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-3",
+                "unstructured": "Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, and Mark Pauly. 2014. Projective Dynamics: Fusing Constraint Projections for Fast Simulation.ACM Trans. Graph.33, 4, Article 154 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-4",
+                "unstructured": "Isaac Chao, Ulrich Pinkall, Patrick Sanan, and Peter Schr&#246;der. 2010. A Simple Geometric Model for Elastic Deformations.ACM Trans. Graph.29, 4, Article 38 (July 2010), 6 pages.",
+                "DOI": "10.1145/1833349.1778775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-5",
+                "unstructured": "Xiang Chen, Changxi Zheng, Weiwei Xu, and Kun Zhou. 2014. An Asymptotic Numerical Method for Inverse Elastic Shape Design.ACM Trans. Graph.33, 4, Article 95 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-6",
+                "unstructured": "Fionnuala Connolly, Conor J. Walsh, and Katia Bertoldi. 2017. Automatic design of fiber-reinforced soft actuators for trajectory matching.Proceedings of the National Academy of Sciences114, 1 (2017), 51--56.",
+                "DOI": "10.1073/pnas.1615140114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-7",
+                "unstructured": "Bailin Deng, Sofien Bouaziz, Mario Deuss, Alexandre Kaspar, Yuliy Schwartzburg, and Mark Pauly. 2015. Interactive Design Exploration for Constrained Meshes.Computer-Aided Design61 (2015), 13--23.",
+                "DOI": "10.1016/j.cad.2014.01.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-8",
+                "unstructured": "Mathieu Desbrun, Mark Meyer, Peter Schr&#246;der, and Alan H. Barr. 1999. Implicit Fairing of Irregular Meshes Using Diffusion and Curvature Flow. InProceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '99).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 317--324.",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-9",
+                "unstructured": "Mario Deuss, Anders Holden Deleuran, Sofien Bouaziz, Bailin Deng, Daniel Piker, and Mark Pauly. 2015.ShapeOp---A Robust and Extensible Geometric Modelling Paradigm.Springer International Publishing, 505--515."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-10",
+                "unstructured": "G&#252;nay Do&#287;an and Ricardo H. Nochetto. 2012.ESAIM: Mathematical Modelling and Numerical Analysis46, 1 (2012), 59--79.",
+                "DOI": "10.1051/m2an/2011019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-11",
+                "unstructured": "Levi H. Dudte, Etienne Vouga, Tomohiro Tachi, and L. Mahadevan. 2016. Programming curvature using origami tessellations.Nature Materials15, 5 (2016), 583--588.",
+                "DOI": "10.1038/nmat4540",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-12",
+                "unstructured": "J. Eells and J. C. Wood. 1976. Restrictions on Harmonic Maps of Surfaces.Topology15 (1976), 263--266.",
+                "DOI": "10.1016/0040-9383(76)90042-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-13",
+                "unstructured": "Santiago Fernandez. 2006. Structural Design in the Work of Gaudi. 49 (12 2006), 324--339."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-14",
+                "unstructured": "Jan Friedrich, Sven Pfeiffer, and Christoph Gengnagel. 2018.Locally Varied Auxetic Structures for Doubly-Curved Shapes.Springer Singapore, Singapore, 323--336.",
+                "DOI": "10.1007/978-981-10-6611-5_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-15",
+                "unstructured": "C.J. Gantes. 2001.Deployable Structures: Analysis and Design.WIT Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-16",
+                "unstructured": "Mohammad Ghomi. 2017. Open Problems in Geometry of Curves and Surfaces, http://people.math.gatech.edu/~ghomi/Papers/op.pdf. (Oct. 2017). Accessed: 2017-12-12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-17",
+                "unstructured": "Ruslan Guseinov, Eder Miguel, and Bernd Bickel. 2017. CurveUps: Shaping Objects from Flat Plates with Tension-actuated Curvature.ACM Trans. Graph.36, 4, Article 64 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073709",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-18",
+                "unstructured": "Caigui Jiang, Chengcheng Tang, Amir Vaxman, Peter Wonka, and Helmut Pottmann. 2015. Polyhedral Patterns.ACM Trans. Graph.34, 6, Article 172 (Oct. 2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-19",
+                "unstructured": "Sun-Jeong Kim, Soo-Kyun Kim, and Chang-Hun Kim. 2002. Discrete differential error metric for surface simplification. In10th Pacific Conference on Computer Graphics and Applications, 2002. Proceedings.276--283."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-20",
+                "unstructured": "Mina Konakovi&#263;, Keenan Crane, Bailin Deng, Sofien Bouaziz, Daniel Piker, and Mark Pauly. 2016. Beyond Developable: Computational Design and Fabrication with Auxetic Materials.ACM Trans. Graph.35, 4, Article 89 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-21",
+                "unstructured": "W. Y. Lam. 2017. Minimal surfaces from infinitesimal deformations of circle packings.ArXiv e-prints(Dec. 2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-22",
+                "unstructured": "Ying Liu, Brandi Shaw, Michael D. Dickey, and Jan Genzer. 2017. Sequential self-folding of polymer sheets.Science Advances3, 3 (2017).",
+                "DOI": "10.1126/sciadv.1602417",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-23",
+                "unstructured": "Li-Ke Ma, Yizhong Zhang, Yang Liu, Kun Zhou, and Xin Tong. 2017. Computational Design and Fabrication of Soft Pneumatic Objects with Desired Deformations.ACM Trans. Graph.36, 6, Article 239 (Nov. 2017), 12 pages.",
+                "DOI": "10.1145/3130800.3130850",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-24",
+                "unstructured": "I. Niven. 1981.Maxima and Minima Without Calculus.Number v. 6 in Dolciani Mathematical Expositions. Mathematical Association of America."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-25",
+                "unstructured": "Jifei Ou, M&#233;lina Skouras, Nikolaos Vlavianos, Felix Heibeck, Chin-Yi Cheng, Jannik Peters, and Hiroshi Ishii. 2016. aeroMorph - Heat-sealing Inflatable Shape-change Materials for Interaction Design. InProceedings of the 29th Annual Symposium on User Interface Software and Technology (VIST '16).ACM, New York, NY, USA, 121--132.",
+                "DOI": "10.1145/2984511.2984520",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-26",
+                "unstructured": "Johannes T. B. Overvelde, Twan A. de Jong, Yanina Shevchenko, Sergio A. Becerra, George M. Whitesides, James C. Weaver, Chuck Hoberman, and Katia Bertoldi. 2016. A three-dimensional actuated origami-inspired transformable metamaterial with multiple degrees of freedom. 7 (11 03 2016).",
+                "DOI": "10.1038/ncomms10929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-27",
+                "unstructured": "Julian Panetta, Qingnan Zhou, Luigi Malomo, Nico Pietroni, Paolo Cignoni, and Denis Zorin. 2015. Elastic Textures for Additive Fabrication.ACM Trans. Graph.34, 4, Article 135 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-28",
+                "unstructured": "Jes&#250;s P&#233;rez, Miguel A. Otaduy, and Bernhard Thomaszewski. 2017. Computational Design and Automated Fabrication of Kirchhoff-plateau Surfaces.ACM Trans. Graph.36, 4, Article 62 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-29",
+                "unstructured": "Jes&#250;s P&#233;rez, Bernhard Thomaszewski, Stelian Coros, Bernd Bickel, Jos&#233; A. Canabal, Robert Sumner, and Miguel A. Otaduy. 2015. Design and Fabrication of Flexible Rod Meshes.ACM Trans. Graph.34, 4, Article 138 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-30",
+                "unstructured": "Ahmad Rafsanjani and Damiano Pasini. 2016. Bistable auxetic mechanical metamaterials inspired by ancient geometric motifs.Extreme Mechanics Letters9 (2016), 291 -- 296.",
+                "DOI": "10.1016/j.eml.2016.09.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-31",
+                "unstructured": "Dan Raviv, Wei Zhao, Carrie McKnelly, Athina Papadopoulou, Achuta Kadambi, Boxin Shi, Shai Hirsch, Daniel Dikovsky, Michael Zyracki, Carlos Olguin, Ramesh Raskar, and Skylar Tibbits. 2014. Active Printed Materials for Complex Self-Evolving Deformations. 4 (18 12 2014).",
+                "DOI": "10.1038/srep07422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-32",
+                "unstructured": "Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening.ACM Trans. Graph.37, 1, Article 5 (Dec. 2017), 14 pages.",
+                "DOI": "10.1145/3132705",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-33",
+                "unstructured": "Krishna Kumar Saxena, Raj Das, and Emilio P. Calius. 2016. Three Decades of Auxetics Research - Materials with Negative Poisson's Ratio: A Review.Advanced Engineering Materials18, 11 (2016), 1847--1870.",
+                "DOI": "10.1002/adem.201600053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-34",
+                "unstructured": "Alexander Schiftner, Mathias H&#246;binger, Johannes Wallner, and Helmut Pottmann. 2009. Packing Circles and Spheres on Surfaces.ACM Trans. Graph.28, 5, Article 139 (Dec. 2009), 8 pages.",
+                "DOI": "10.1145/1661412.1618485",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-35",
+                "unstructured": "Christian Schumacher, Bernd Bickel, Jan Rys, Steve Marschner, Chiara Daraio, and Markus Gross. 2015. Microstructures to Control Elasticity in 3D Printing.ACM Trans. Graph.34, 4, Article 136 (July 2015), 13 pages.",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-36",
+                "unstructured": "M&#233;lina Skouras, Bernhard Thomaszewski, Bernd Bickel, and Markus Gross. 2012. Computational Design of Rubber Balloons.Comput. Graph. Forum31, 2pt4 (May 2012), 835--844.",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-37",
+                "unstructured": "M&#233;lina Skouras, Bernhard Thomaszewski, Peter Kaufmann, Akash Garg, Bernd Bickel, Eitan Grinspun, and Markus Gross. 2014. Designing Inflatable Structures.ACM Trans. Graph.33, 4, Article 63 (July 2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-38",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible Surface Modeling. InProceedings of the Fifth Eurographics Symposium on Geometry Processing (SGP '07).Eurographics Association, 109--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-39",
+                "unstructured": "Hideshi Tomita, Takashi Higaki, Toshiki Kobayashi, Takanari Fujii, and Kazuto Fujimoto. 2016. Stenting for curved lesions using a novel curved balloon: Preliminary experimental study. 66 (8 2016), 120--124. Issue 2."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-40",
+                "unstructured": "Shinji Umeyama. 1991. Least-Squares Estimation of Transformation Parameters Between Two Point Patterns.IEEE Trans. Pattern Anal. Mach. Intell.13, 4 (1991), 376--380.",
+                "DOI": "10.1109/34.88573",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-41",
+                "unstructured": "Amir Vaxman, Christian M&#252;ller, and Ofir Weber. 2017. Regular Meshes from Polygonal Patterns.ACM Trans. Graph.36, 4, Article 113 (July 2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073593",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-42",
+                "unstructured": "Changxi Zheng, Timothy Sun, and Xiang Chen. 2016. Deployable 3D Linkages with Collision Avoidance. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '16).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 179--188."
+            },
+            {
+                "key": "key-10.1145/3197517.3201373-43",
+                "unstructured": "Bo Zhu, M&#233;lina Skouras, Desai Chen, and Wojciech Matusik. 2017. Two-Scale Topology Optimization with Microstructures.ACM Trans. Graph.36, 5, Article 164 (July 2017), 16 pages.",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201373&ftid=1991654&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:54:39Z",
+            "timestamp": 1571673279000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201373",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

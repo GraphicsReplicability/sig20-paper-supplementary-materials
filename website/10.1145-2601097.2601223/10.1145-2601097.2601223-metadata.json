@@ -1,0 +1,476 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228925
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601223",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "Learning to be a depth camera for close-range human capture and interaction"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Sean Ryan",
+                "family": "Fanello",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Tim",
+                "family": "Paek",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Cem",
+                "family": "Keskin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Pushmeet",
+                "family": "Kohli",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Sweeney",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Antonio",
+                "family": "Criminisi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jamie",
+                "family": "Shotton",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Sing Bing",
+                "family": "Kang",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601223-1",
+                "unstructured": "Ahmed, A. H., and Farag, A. A. 2007. Shape from shading under various imaging conditions. InProc. CVPR, IEEE, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-2",
+                "unstructured": "Amit, Y., and Geman, D. 1997. Shape quantization and recognition with randomized trees.Neural Computation 9, 7.",
+                "DOI": "10.1162/neco.1997.9.7.1545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-3",
+                "unstructured": "Barron, J. T., and Malik, J. 2013. Shape, illumination, and reflectance from shading. Tech. Rep. UCB/EECS-2013-117, EECS, UC Berkeley, May.",
+                "DOI": "10.21236/ADA586648",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-4",
+                "unstructured": "Batlle, J., Mouaddib, E., and Salvi, J. 1998. Recent progress in coded structured light as a technique to solve the correspondence problem: a survey.Pattern Recognition 31, 7, 963--982.",
+                "DOI": "10.1016/S0031-3203(97)00074-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-5",
+                "unstructured": "Ben-Arie, J., and Nandy, D. 1998. A neural network approach for reconstructing surface shape from shading. InIn Proc. ICIP 98., vol. 2, IEEE, 972--976."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-6",
+                "unstructured": "Besl, P. J. 1988. Active, optical range imaging sensors.Machine vision and applications 1, 2, 127--152.",
+                "DOI": "10.1007/BF01212277",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-7",
+                "unstructured": "Blais, F. 2004. Review of 20 years of range sensor development.Journal of Electronic Imaging 13, 1.",
+                "DOI": "10.1117/1.1631921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-8",
+                "unstructured": "Blanz, V., and Vetter, T. 1999. A morphable model for the synthesis of 3D faces.Proc. ACM SIGGRAPH.",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-9",
+                "unstructured": "Breiman, L. 2001. Random forests.Machine Learning 45, 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-10",
+                "unstructured": "Brown, M. Z., Burschka, D., and Hager, G. D. 2003. Advances in computational stereo.PAMI 25, 8, 993--1008.",
+                "DOI": "10.1109/TPAMI.2003.1217603",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-11",
+                "unstructured": "Comaniciu, D., and Meer, P. 2002. Mean shift: A robust approach toward feature space analysis.IEEE Trans. PAMI 24, 5",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-12",
+                "unstructured": "Criminisi, A., and Shotton, J. 2013.Decision Forests for Computer Vision and Medical Image Analysis. Springer.",
+                "DOI": "10.1007/978-1-4471-4929-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-13",
+                "unstructured": "Fredembach, C., and Susstrunk, S. 2008. Colouring the near-infrared. InColor and Imaging Conference, vol. 2008, Society for Imaging Science and Technology, 176--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-14",
+                "unstructured": "Ghosh, A., Fyffe, G., Tunwattanapong, B., Busch, J., Yu, X., and Debevec, P. 2011. Multiview face capture using polarized spherical gradient illumination.ACM Transactions on Graphics (TOG) 30, 6, 129."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-15",
+                "unstructured": "Girshick, R., Shotton, J., Kohli, P., Criminisi, A., and Fitzgibbon, A. 2011. Efficient regression of general-activity human poses from depth images. InProc. ICCV.",
+                "DOI": "10.1109/ICCV.2011.6126270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-16",
+                "unstructured": "Guan, P., Weiss, A., Balan, A., and Black, M. 2009. Estimating human shape and pose from a single image. InProc. ICCV."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-17",
+                "unstructured": "Gurbuz, S. 2009. Application of inverse square law for 3d sensing. InSPIE Optical Engineering+ Applications, International Society for Optics and Photonics, 744706--744706."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-18",
+                "unstructured": "Hern&#225;ndez, C., Vogiatzis, G., and Cipolla, R. 2008. Multiview photometric stereo.IEEE Trans. PAMI 30, 3, 548--554."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-19",
+                "unstructured": "Hertzmann, A., and Seitz, S. 2005. Example-based photometric stereo: Shape reconstruction with general, varying BRDFs.PAMI 27, 8.",
+                "DOI": "10.1109/TPAMI.2005.158",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-20",
+                "unstructured": "Hoiem, D., Efros, A., and Hebert, M. 2005. Automatic photo pop-up. InProc. ACM SIGGRAPH.",
+                "DOI": "10.1145/1186822.1073232",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-21",
+                "unstructured": "Horn, B. K. 1975. Obtaining shape from shading information.The psychology of computer vision, 115--155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-22",
+                "unstructured": "Ideses, I., Yaroslavsky, L., and Fishbain, B. 2007. Real-time 2D to 3D video conversion.J. of Real-Time Image Processing 2, 3--9.",
+                "DOI": "10.1007/s11554-007-0038-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-23",
+                "unstructured": "Jiang, T., Liu, B., Lu, Y., and Evans, D. 2003. A neural network approach to shape from shading.International journal of computer mathematics 80, 4, 433--439.",
+                "DOI": "10.1080/0020716021000038983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-24",
+                "unstructured": "Karsch, K., Liu, C., and Kang, S. 2012. Depth extraction from video using non-parametric sampling. InProc. ECCV.",
+                "DOI": "10.1007/978-3-642-33715-4_56",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-25",
+                "unstructured": "Keskin, C., Kira&#231;, F., Kara, Y., and Akarun, L. 2012. Hand pose estimation and hand shape classification using multi-layered randomized decision forests. InProc. ECCV.",
+                "DOI": "10.1007/978-3-642-33783-3_61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-26",
+                "unstructured": "Khan, N., Tran, L., and Tappen, M. 2009. Training many-parameter shape-from-shading models using a surface database. InProc. ICCV Workshop.",
+                "DOI": "10.1109/ICCVW.2009.5457444",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-27",
+                "unstructured": "Kim, D., Hilliges, O., Izadi, S., Butler, A. D., Chen, J., Oikonomidis, I., and Olivier, P. 2012. Digits: freehand 3d interactions anywhere using a wrist-worn gloveless sensor. InProceedings of the 25th annual ACM symposium on User interface software and technology, ACM, 167--176."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-28",
+                "unstructured": "Krishnan, D., and Fergus, R. 2009. Dark flash photography. InACM Transactions on Graphics, SIGGRAPH 2009 Conference Proceedings, vol. 28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-29",
+                "unstructured": "Lanman, D., and Taubin, G. 2009. Build your own 3D scanner: 3D photography for beginners. InACM SIGGRAPH 2009 Courses, ACM, 8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-30",
+                "unstructured": "Liao, M., Wang, L., Yang, R., and Gong, M. 2007. Light fall-off stereo. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2007.383159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-31",
+                "unstructured": "Liu, C. P., Cheng, B. H., Chen, P. L., and Jeng, T. R. 2011. Study of three-dimensional sensing by using inverse square law.Magnetics, IEEE Transactions on 47, 3, 687--690."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-32",
+                "unstructured": "Marschner, S. R., Westin, S. H., Lafortune, E. P., Torrance, K. E., and Greenberg, D. P. 1999. Image-based BRDF measurement including human skin. InRendering Techniques 99. Springer, 131--144.",
+                "DOI": "10.1007/978-3-7091-6809-7_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-33",
+                "unstructured": "Mulligan, J., and Brolly, X. 2004. Surface determination by photometric ranging. InProc. CVPR Workshop.",
+                "DOI": "10.1109/CVPR.2004.447",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-34",
+                "unstructured": "Newcombe, R. A., Izadi, S., et al. 2011. Kinect-fusion: Real-time dense surface mapping and tracking. InMixed and augmented reality (ISMAR), 2011 10th IEEE international symposium on, IEEE, 127--136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-35",
+                "unstructured": "Prados, E., and Faugeras, O. 2005. Shape from shading: a well-posed problem? InProc. CVPR, vol. 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-36",
+                "unstructured": "Remondino, F., and Stoppa, D. 2013.ToF range-imaging cameras. Springer.",
+                "DOI": "10.1007/978-3-642-27523-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-37",
+                "unstructured": "Rother, C., Kiefel, M., Zhang, L., Sch&#246;lkopf, B., and Gehler, P. V. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. InProc. NIPS."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-38",
+                "unstructured": "Saxena, A., Sun, M., and Ng, A. 2009. Make3D: Learning 3D scene structure from a single still image.PAMI 31, 5, 824--840.",
+                "DOI": "10.1109/TPAMI.2008.132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-39",
+                "unstructured": "Scharstein, D., and Szeliski, R. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. InIJCV."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-40",
+                "unstructured": "Shotton, J., Winn, J., Rother, C., and Criminisi, A. 2006.TextonBoost:Joint appearance, shape and context modeling for multi-class object recognition and segmentation. InProc. ECCV.",
+                "DOI": "10.1007/11744023_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-41",
+                "unstructured": "Shotton, J., Fitzgibbon, A., Cook, M., Sharp, T., Finocchio, M., Moore, R., Kipman, A., and Blake, A. 2011. Real-time human pose recognition in parts from single depth images. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2011.5995316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-42",
+                "unstructured": "Simpson, C. R., Kohl, M., Essenpreis, M., and Cope, M. 1998. Near-infrared optical properties of ex vivo human skin and subcutaneous tissues measured using the monte carlo inversion technique.Physics in Medicine and Biology 43, 2465--2478.",
+                "DOI": "10.1088/0031-9155/43/9/003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-43",
+                "unstructured": "Smith, W. A., and Hancock, E. R. 2008. Facial shape-from-shading and recognition using principal geodesic analysis and robust statistics.International Journal of Computer Vision 76, 1, 71--91.",
+                "DOI": "10.1007/s11263-007-0074-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-44",
+                "unstructured": "Tunwattanapong, B., Fyffe, G., Graham, P., Busch, J., Yu, X., Ghosh, A., and Debevec, P. 2013. Acquiring reflectance and shape from continuous spherical harmonic illumination.ACM Transactions on Graphics (TOG) 32, 4, 109."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-45",
+                "unstructured": "Vineet, V., Rother, C., and Torr, P. 2013. Higher order priors for joint intrinsic image, objects, and attributes estimation. InProc. NIPS, 557--565."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-46",
+                "unstructured": "Visentini-Scarzanella, M., Stoyanov, D., and Yang, G.-Z. 2012. Metric depth recovery from monocular images using shape-from-shading and specularities. InImage Processing (ICIP), 2012 19th IEEE International Conference on, IEEE, 25--28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-47",
+                "unstructured": "Vogel, O., Breuss, M., Leichtweis, T., and Weickert, J. 2009. Fast shape from shading for Phong-type surfaces. InInternational Conf. Scale Space and Variational Methods.",
+                "DOI": "10.1007/978-3-642-02256-2_61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-48",
+                "unstructured": "Wang, X., and Yang, R. 2010. Learning 3D shape from a single facial image via non-linear manifold embedding and alignment. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2010.5540185",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-49",
+                "unstructured": "Wei, G.-Q., and Hirzinger, G. 1996. Learning shape from shading by a multilayer network.IEEE Transactions on Neural Networks 7, 4, 985--995.",
+                "DOI": "10.1109/72.508940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-50",
+                "unstructured": "Zhang, Z., Tsa, P.-S., Cryer, J. E., and Shah, M. 1999. Shape from shading: A survey.PAMI 21, 8, 690--706.",
+                "DOI": "10.1109/34.784284",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-51",
+                "unstructured": "Zhang, Z. 2000. A flexible new technique for camera calibration.IEEE Trans. PAMI 22, 11, 1330--1334.",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601223-52",
+                "unstructured": "Zhang, S. 2010. Recent progresses on real-time 3d shape measurement using digital fringe projection techniques.Optics and lasers in engineering 48, 2, 149--158.",
+                "DOI": "10.1016/j.optlaseng.2009.03.008",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601223&amp;ftid=1488894&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:07Z",
+            "timestamp": 1565663707000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601223",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853727
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201278",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Mechanical characterization of structured sheet materials"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Schumacher",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research and ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Cross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research and ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201278-1",
+                "unstructured": "Ergun Akleman, Jianer Chen, Qing Xing, and Jonathan L. Gross. 2009. Cyclic Plain-weaving on Polygonal Mesh Surfaces with Graph Rotation Systems. ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531384",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-2",
+                "unstructured": "Mikl&#243;s Bergou, Basile Audoly, Etienne Vouga, Max Wardetzky, and Eitan Grinspun. 2010. Discrete Viscous Threads. ACM Trans. Graph. 29, 4.",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-3",
+                "unstructured": "Katia Bertoldi, Vincenzo VitelliJohanChristensen, and Martin van Hecke. 2017. Flexible mechanical metamaterials. Nature Reviews 2, 17066."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-4",
+                "unstructured": "Bernd Bickel, Moritz B&#228;cher, Miguel A. Otaduy, Hyunho Richard Lee, Hanspeter Pfister, Markus Gross, and Wojciech Matusik. 2010. Design and Fabrication of Materials with Desired Deformation Behavior. ACM Trans. Graph. 29, 4.",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-5",
+                "unstructured": "Bernd Bickel, Moritz B&#228;cher, Miguel A. Otaduy, Wojciech Matusik, Hanspeter Pfister, and Markus Gross. 2009. Capture and Modeling of Non-linear Heterogeneous Soft Tissue. ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-6",
+                "unstructured": "Desai Chen, David I. W. Levin, Wojciech Matusik, and Danny M. Kaufman. 2017. Dynamics-aware Numerical Coarsening for Fabrication Design. ACM Trans. Graph. 36, 4.",
+                "DOI": "10.1145/3072959.3073669",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-7",
+                "unstructured": "Desai Chen, David I. W. Levin, Shinjiro Sueda, and Wojciech Matusik. 2015. Data-driven Finite Elements for Geometry and Material Design. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766889",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-8",
+                "unstructured": "Timothy G. Clapp, Hong Peng, Tushar K. Ghosh, and Jeffrey W. Eischen. 1990. Indirect measurement of the moment-curvature relationship for fabrics. Textile Research Journal 60, 9, 525--533.",
+                "DOI": "10.1177/004051759006000906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-9",
+                "unstructured": "Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef, and Martin van Hecke. 2016. Combinatorial design of textured mechanical metamaterials. Nature, 529--532.",
+                "DOI": "10.1038/nature18960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-10",
+                "unstructured": "G&#233;ry de Saxc&#233; and Claude Vall&#233;e. 2013. Invariant Measures of the Lack of Symmetry with Respect to the Symmetry Groups of 2D Elasticity Tensors. Journal of Elasticity 111, 1, 21--39.",
+                "DOI": "10.1007/s10659-012-9392-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-11",
+                "unstructured": "J&#233;r&#233;mie Dumas, An Lu,Sylvain Lefebvre, Jun Wu, and Christian Dick. 2015. By-example Synthesis of Structurally Sound Patterns. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766984",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-12",
+                "unstructured": "Marc L.M. Fran&#231;ois, Letian Chen, and Michel Coret. 2017. Elasticity and symmetry of triangular lattice materials. International Journal of Solids and Structures 129, Supplement C, 18--27.",
+                "DOI": "10.1016/j.ijsolstr.2017.09.019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-13",
+                "unstructured": "Marc G. D. Geers, Erica W. C. Coenen, and Varvara G. Kouznetsova. 2007. Multi-scale computational homogenization of structured thin sheets. Modelling and Simulation in Materials Science and Engineering 15, 4, S393--S404.",
+                "DOI": "10.1088/0965-0393/15/4/S06",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-14",
+                "unstructured": "Branko Gr&#252;nbaum and G C Shephard. 1986. Tilings and Patterns. W. H. Freeman &#38; Co., New York, NY, USA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-15",
+                "unstructured": "Behrooz Hassani and Ernest Hinton. 1998. A review of homogenization and topology optimization I-homogenization theory for media with periodic structure. Computers &#38; Structures 69, 6, 707--717.",
+                "DOI": "10.1016/S0045-7949(98)00131-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-16",
+                "unstructured": "Robert G. Hutchinson and Norman A. Fleck. 2006. The structural performance of the periodic truss. Journal of the Mechanics and Physics of Solids 54, 4, 756--782.",
+                "DOI": "10.1016/j.jmps.2005.10.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-17",
+                "unstructured": "Chyanbin Hwu. 2010. Anisotropic Elastic Plates. Springer US.",
+                "DOI": "10.1007/978-1-4419-5915-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-18",
+                "unstructured": "Caigui Jiang, Chengcheng Tang, Amir Vaxman, Peter Wonka, and Helmut Pottmann. 2015. Polyhedral Patterns. ACM Trans. Graph. 34, 6.",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-19",
+                "unstructured": "Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2010. Efficient Yarn-based Cloth with Adaptive Contact Linearization. ACM Trans. Graph. 29, 4.",
+                "DOI": "10.1145/1778765.1778842",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-20",
+                "unstructured": "Craig S. Kaplan. 2009. Introductory Tiling Theory for Computer Graphics. Morgan &#38; Claypool Publishers."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-21",
+                "unstructured": "Craig S. Kaplan and David H. Salesin. 2000. Escherization. In Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00). 499--510.",
+                "DOI": "10.1145/344779.345022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-22",
+                "unstructured": "Craig S. Kaplan and David H. Salesin. 2004. Islamic Star Patterns in Absolute Geometry. ACM Trans. Graph. 23, 2, 97--119.",
+                "DOI": "10.1145/990002.990003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-23",
+                "unstructured": "Lily Kharevych, Patrick Mullen, Houman Owhadi, and Mathieu Desbrun. 2009. Numerical Coarsening of Inhomogeneous Elastic Materials. ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-24",
+                "unstructured": "Dennis Kochmann and Katia Bertoldi. 2017. Exploiting Microstructural Instabilities in Solids and Structures: From Metamaterials to Structural Transitions. Applied Mechanics Reviews 69, 050801.",
+                "DOI": "10.1115/1.4037966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-25",
+                "unstructured": "Mina Konakovi&#263;, Keenan Crane, Bailin Deng, Sofien Bouaziz, Daniel Piker, and Mark Pauly. 2016. Beyond Developable: Computational Design and Fabrication with Auxetic Materials. ACM Trans. Graph. 35, 4.",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-26",
+                "unstructured": "Yijing Li and Jernej Barbi&#269;. 2015. Stable Anisotropic Materials. IEEE Trans. on Visualization and Computer Graphics 21, 10, 1129--1137.",
+                "DOI": "10.1109/TVCG.2015.2448105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-27",
+                "unstructured": "Jianxing Liu and Yihui Zhang. 2018. Soft network materials with isotropic negative Poisson's ratios over large strains. Soft Matter 14, 693--703. Issue 5."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-28",
+                "unstructured": "Qiang Lu and Rui Huang. 2009. Nonlinear mechanics of single-atomic-layer graphene sheets. International Journal of Applied Mechanics 1, 3, 443--467.",
+                "DOI": "10.1142/S1758825109000228",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-29",
+                "unstructured": "Jon&#224;s Mart&#237;nez, J&#233;r&#233;mie Dumas, and Sylvain Lefebvre. 2016. Procedural Voronoi Foams for Additive Manufacturing. ACM Trans. Graph. 35, 4.",
+                "DOI": "10.1145/2897824.2925922",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-30",
+                "unstructured": "Jon&#224;s Mart&#237;nez, J&#233;r&#233;mie Dumas, Sylvain Lefebvre, and Li-Yi Wei. 2015. Structure and Appearance Optimization for Controllable Shape Design. Proc. of ACM SIGGRAPH Asia 34, 6.",
+                "DOI": "10.1145/2816795.2818101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-31",
+                "unstructured": "Jon&#224;s Mart&#237;nez, Haichuan Song, J&#233;r&#233;mie Dumas, and Sylvain Lefebvre. 2017. Orthotropic K-nearest Foams for Additive Manufacturing. ACM Trans. Graph. 36, 4.",
+                "DOI": "10.1145/3072959.3073638",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-32",
+                "unstructured": "Vittorio Megaro, Jonas Zehnder, Moritz B&#228;cher, Stelian Coros, Markus Gross, and Bernhard Thomaszewski. 2017. A Computational Design Tool for Compliant Mechanisms. ACM Trans. Graph. 36, 4.",
+                "DOI": "10.1145/3072959.3073636",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-33",
+                "unstructured": "Eder Miguel, Derek Bradley, Bernhard Thomaszewski, Bernd Bickel, Wojciech Matusik, Miguel A. Otaduy, and Steve Marschner. 2012. Data-Driven Estimation of Cloth Simulation Models. Comput. Graph. Forum 31, 2, 519--528.",
+                "DOI": "10.1111/j.1467-8659.2012.03031.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-34",
+                "unstructured": "Eder Miguel, Rasmus Tamstorf, Derek Bradley, Sara C. Schvartzman, Bernhard Thomaszewski, Bernd Bickel, Wojciech Matusik, Steve Marschner, and Miguel A. Otaduy. 2013. Modeling and Estimation of Internal Friction in Cloth. ACM Trans. Graph. 32, 6.",
+                "DOI": "10.1145/2508363.2508389",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-35",
+                "unstructured": "Matthieu Nesme, Paul G. Kry, Lenka Je&#345;&#225;bkov&#225;, and Fran&#231;ois Faure. 2009. Preserving Topology and Elasticity for Embedded Deformable Models. ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531358",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-36",
+                "unstructured": "William J. O'Donnell and Bernard F. Langer. 1962. Design of Perforated Plates. ASME Journal of Engineering for Industry 84, 3, 307--319.",
+                "DOI": "10.1115/1.3667483",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-37",
+                "unstructured": "Victor Ostromoukhov. 2007. Sampling with Polyominoes. ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276475",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-38",
+                "unstructured": "Simon Pabst, Sybille Krzywinski, Andrea Schenk, and Bernhard Thomaszewski. 2008. Seams and Bending in Cloth Simulation. In Workshop in Virtual Reality Interactions and Physical Simulation \"VRIPHYS\" (2008)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-39",
+                "unstructured": "Julian Panetta, Abtin Rahimian, and Denis Zorin. 2017. Worst-case Stress Relief for Micro structures. ACM Trans. Graph. 36, 4.",
+                "DOI": "10.1145/3072959.3073649",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-40",
+                "unstructured": "Julian Panetta, Qingnan Zhou, Luigi Malomo, Nico Pietroni, Paolo Cignoni, and Denis Zorin. 2015. Elastic Textures for Additive Fabrication. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-41",
+                "unstructured": "Jes&#250;s P&#233;rez, Miguel A. Otaduy, and Bernhard Thomaszewski. 2017. Computational Design and Automated Fabrication of Kirchhoff-plateau Surfaces. ACM Trans. Graph. 36, 4.",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-42",
+                "unstructured": "Jes&#250;s P&#233;rez, Bernhard Thomaszewski, Stelian Coros, Bernd Bickel, Jos&#233; A. Canabal, Robert Sumner, and Miguel A. Otaduy. 2015. Design and Fabrication of Flexible Rod Meshes. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-43",
+                "unstructured": "Catalin R. Picu. 2011. Mechanics of random fiber networks---a review. Soft Matter 7, 6768--6785. Issue 15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-44",
+                "unstructured": "Hang Jerry Qi and Mary C. Boyce. 2005. Stress-strain behavior of thermoplastic polyurethanes. Mechanics of Materials 37, 8, 817--839.",
+                "DOI": "10.1016/j.mechmat.2004.08.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-45",
+                "unstructured": "Ahmad Rafsanjani and Damiano Pasini. 2016. Bistable auxetic mechanical metamaterials inspired by ancient geometric motifs. Extreme Mechanics Letters 9, 291--296.",
+                "DOI": "10.1016/j.eml.2016.09.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-46",
+                "unstructured": "Christian Schumacher, Bernd Bickel, Jan Rys, Steve Marschner, Chiara Daraio, and Markus Gross. 2015. Microstructures to Control Elasticity in 3D Printing. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-47",
+                "unstructured": "Christian Schumacher, Bernhard Thomaszewski, and Markus Gross. 2016. Stenciling: Designing Structurally-Sounds Surfaces with Decorative Patterns. Comput. Graphics Forum 35, 5, 101--110.",
+                "DOI": "10.1111/cgf.12967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-48",
+                "unstructured": "Chengcheng Tang, Xiang Sun, Alexandra Gomes, Johannes Wallner, and Helmut Pottmann. 2014. Form-finding with Polyhedral Meshes Made Simple. ACM Trans. Graph. 33, 4.",
+                "DOI": "10.1145/2601097.2601213",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-49",
+                "unstructured": "Huamin Wang, James F. O'Brien, and Ravi Ramamoorthi. 2011. Data-driven Elastic Models for Cloth: Modeling and Measurement. ACM Trans. Graph. 30, 4.",
+                "DOI": "10.1145/2010324.1964966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-50",
+                "unstructured": "Jan Wilhelm and Erwin Frey. 2003. Elasticity of Stiff Polymer Networks. Phys. Rev. Lett. 91, 108103. Issue 10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-51",
+                "unstructured": "Hongyi Xu, Funshing Sin, Yufeng Zhu, and Jernej Barbi&#269;. 2015. Nonlinear Material Design Using Principal Stretches. ACM Trans. Graph. 34, 4.",
+                "DOI": "10.1145/2766917",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-52",
+                "unstructured": "Lizhi Xu, Terry C. Shyu, and Nicholas A. Kotov. 2017. Origami and Kirigami Nanocomposites. ACS Nano 11, 8, 7587--7599.",
+                "DOI": "10.1021/acsnano.7b03287",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-53",
+                "unstructured": "Jonas Zehnder, Stelian Coros, and Bernhard Thomaszewski. 2016. Designing Structurally-sound Ornamental Curve Networks. ACM Trans. Graph. 35, 4.",
+                "DOI": "10.1145/2897824.2925888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-54",
+                "unstructured": "Jonas Zehnder, Espen Knoop, Moritz B&#228;cher, and Bernhard Thomaszewski. 2017. Metasilicone: Design and Fabrication of Composite Silicone with Desired Mechanical Properties. ACM Trans. Graph. 36, 6.",
+                "DOI": "10.1145/3130800.3130881",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201278-55",
+                "unstructured": "Kun Zhou, Xin Huang, Xi Wang, Yiying Tong, Mathieu Desbrun, Baining Guo, and Heung-Yeung Shum. 2006. Mesh Quilting for Geometric Texture Synthesis. ACM Trans. Graph. 25, 3, 690--697.",
+                "DOI": "10.1145/1141911.1141942",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201278&ftid=1991745&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T17:44:23Z",
+            "timestamp": 1533059063000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201278",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

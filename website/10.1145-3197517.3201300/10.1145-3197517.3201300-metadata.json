@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813631
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201300",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Fast and deep deformation approximations"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Stephen W.",
+                "family": "Bailey",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Dave",
+                "family": "Otte",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DreamWorks Animation"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Dilorenzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DreamWorks Animation"
+                    }
+                ]
+            },
+            {
+                "given": "James F.",
+                "family": "O'Brien",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201300-1",
+                "unstructured": "Steve Capell, Seth Green, Brian Curless, Tom Duchamp, and Zoran Popovi&#263;. 2002. Interactive Skeleton-driven Dynamic Deformations.ACM Trans. Graph.21, 3 (July 2002), 586--593.",
+                "DOI": "10.1145/566654.566622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-2",
+                "unstructured": "Edilson De Aguiar, Christian Theobalt, Sebastian Thrun, and Hans-Peter Seidel. 2008. Automatic Conversion of Mesh Animations into Skeleton-based Animations.Computer Graphics Forum27, 2 (2008), 389--397.",
+                "DOI": "10.1111/j.1467-8659.2008.01136.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-3",
+                "unstructured": "Wei-Wen Feng, Byung-Uck Kim, and Yizhou Yu. 2008. Real-time Data Driven Deformation Using Kernel Canonical Correlation Analysis.ACM Trans. Graph.27, 3, Article 91 (Aug. 2008), 9 pages.",
+                "DOI": "10.1145/1399504.1360690",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-4",
+                "unstructured": "Xavier Glorot, Antoine Bordes, and Yoshua Bengio. 2011. Deep Sparse Rectifier Neural Networks. InProceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics (Proceedings of Machine Learning Research), Geoffrey Gordon, David Dunson, and Miroslav Dudik (Eds.), Vol. 15. PMLR, Fort Lauderdale, FL, USA, 315--323. http://proceedings.mlr.press/v15/glorotlla.html"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-5",
+                "unstructured": "Keith Grochow, Steven L. Martin, Aaron Hertzmann, and Zoran Popovi&#263;. 2004. Style-based Inverse Kinematics.ACM Trans. Graph.23, 3 (Aug. 2004), 522--531.",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-6",
+                "unstructured": "Fabian Hahn, Sebastian Martin, Bernhard Thomaszewski, Robert Sumner, Stelian Coros, and Markus Gross. 2012. Rig-space Physics.ACM Trans. Graph.31, 4, Article 72 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2185568",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-7",
+                "unstructured": "Nils Hasler, Thorsten Thorm&#228;hlen, Bodo Rosenhahn, and Hans-Peter Seidel. 2010. Learning Skeletons for Shape and Pose. InProceedings of the 2010 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D '10).ACM, New York, NY, USA, 23--30.",
+                "DOI": "10.1145/1730804.1730809",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-8",
+                "unstructured": "Jim Hejl. 2004. Hardware Skinning with Quaternions. InGame Programming Gems 4, Andrew Kirmse (Ed.). Charles River Media, 487--495."
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-9",
+                "unstructured": "Daniel Holden, Taku Komura, and Jun Saito. 2017. Phase-functioned Neural Networks for Character Control.ACM Trans. Graph.36, 4, Article 42 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073663",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-10",
+                "unstructured": "Daniel Holden, Jun Saito, and Taku Komura. 2016. A Deep Learning Framework for Character Motion Synthesis and Editing.ACM Trans. Graph.35, 4, Article 138 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-11",
+                "unstructured": "Daniel Holden, Jun Saito, and Taku Komura. 2017. Learning Inverse Rig Mappings by Nonlinear Regression.IEEE Transactions on Visualization and Computer Graphics23, 3 (March 2017), 1167--1178.",
+                "DOI": "10.1109/TVCG.2016.2628036",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-12",
+                "unstructured": "Kurt Hornik. 1991. Approximation Capabilities of Multilayer Feedforward Networks.Neural Netw.4, 2 (March 1991), 251--257.",
+                "DOI": "10.1016/0893-6080(91)90009-T",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-13",
+                "unstructured": "Doug L. James and Christopher D. Twigg. 2005. Skinning Mesh Animations.ACM Trans. Graph.24, 3 (July 2005), 399--407.",
+                "DOI": "10.1145/1073204.1073206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-14",
+                "unstructured": "Pushkar Joshi, Mark Meyer, Tony DeRose, Brian Green, and Tom Sanocki. 2007. Harmonic Coordinates for Character Articulation.ACM Trans. Graph.26, 3, Article 71 (July 2007).",
+                "DOI": "10.1145/1276377.1276466",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-15",
+                "unstructured": "Tao Ju, Qian-Yi Zhou, Michiel van de Panne, Daniel Cohen-Or, and Ulrich Neumann. 2008. Reusable Skinning Templates Using Cage-based Deformations.ACM Trans. Graph.27, 5, Article 122 (Dec. 2008), 10 pages.",
+                "DOI": "10.1145/1457515.1409075",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-16",
+                "unstructured": "Ladislav Kavan, Steven Collins, and Carol O'Sullivan. 2009. Automatic Linearization of Nonlinear Skinning. InProceedings of the 2009 Symposium on Interactive 3D Graphics and Games (I3D '09).ACM, New York, NY, USA, 49--56.",
+                "DOI": "10.1145/1507149.1507157",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-17",
+                "unstructured": "Ladislav Kavan, Rachel McDonnell, Simon Dobbyn, Ji&#345;&#237; &#381;&#225;ra, and Carol O'Sullivan. 2007. Skinning Arbitrary Deformations. InProceedings of the 2007 Symposium on Interactive 3D Graphics and Games (I3D '07).ACM, New York, NY, USA, 53--60.",
+                "DOI": "10.1145/1230100.1230109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-18",
+                "unstructured": "L. Kavan, P.-P. Sloan, and C. O Sullivan. 2010. Fast and Efficient Skinning of Animated Meshes.Computer Graphics Forum(2010).",
+                "DOI": "10.1111/j.1467-8659.2009.01602.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-19",
+                "unstructured": "Ladislav Kavan and Ji&#345;&#237; &#381;&#225;ra. 2005. Spherical Blend Skinning: A Real-time Deformation of Articulated Models. InProceedings of the 2005 Symposium on Interactive 3D Graphics and Games (I3D '05).ACM, New York, NY, USA, 9--16.",
+                "DOI": "10.1145/1053427.1053429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-20",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014). http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-21",
+                "unstructured": "Lucas Kovar, Michael Gleicher, and Fr&#233;d&#233;ric Pighin. 2002. Motion Graphs.ACM Trans. Graph.21, 3 (July 2002), 473--482.",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-22",
+                "unstructured": "Tsuneya Kurihara and Natsuki Miyata. 2004. Modeling Deformable Human Hands from Medical Images. InProceedings of the 2004 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '04).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 355--363.",
+                "DOI": "10.1145/1028523.1028571",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-23",
+                "unstructured": "Samuli Laine, Tero Karras, Timo Aila, Antti Herva, Shunsuke Saito, Ronald Yu, Hao Li, and Jaakko Lehtinen. 2017. Production-level Facial Performance Capture Using Deep Convolutional Neural Networks. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '17).ACM, New York, NY, USA, Article 10, 10 pages.",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-24",
+                "unstructured": "Binh Huy Le and Zhigang Deng. 2012. Smooth Skinning Decomposition with Rigid Bones.ACM Trans. Graph.31, 6, Article 199 (Nov. 2012), 10 pages.",
+                "DOI": "10.1145/2366145.2366218",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-25",
+                "unstructured": "Binh Huy Le and Zhigang Deng. 2013. Two-layer Sparse Compression of Dense-weight Blend Skinning.ACM Trans. Graph.32, 4, Article 124 (July 2013), 10 pages.",
+                "DOI": "10.1145/2461912.2461949",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-26",
+                "unstructured": "Binh Huy Le and Zhigang Deng. 2014. Robust and Accurate Skeletal Rigging from Mesh Sequences.ACM Trans. Graph.33, 4, Article 84 (July 2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601161",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-27",
+                "unstructured": "Sung-Hee Lee, Eftychios Sifakis, and Demetri Terzopoulos. 2009. Comprehensive Biomechanical Modeling and Simulation of the Upper Body.ACM Trans. Graph.28, 4, Article 99 (Sept. 2009), 17 pages.",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-28",
+                "unstructured": "Sergey Levine, Jack M. Wang, Alexis Haraux, Zoran Popovi&#263;, and Vladlen Koltun. 2012. Continuous Character Control with Low-dimensional Embeddings.ACM Trans. Graph.31, 4, Article 28 (July 2012), 10 pages.",
+                "DOI": "10.1145/2185520.2185524",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-29",
+                "unstructured": "J. P. Lewis, Matt Cordner, and Nickson Fong. 2000. Pose Space Deformation: A Unified Approach to Shape Interpolation and Skeleton-driven Deformation. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 165--172.",
+                "DOI": "10.1145/344779.344862",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-30",
+                "unstructured": "N. Magnenat-Thalmann, R. Laperri&#232;re, and D. Thalmann. 1988. Joint-dependent Local Deformations for Hand Animation and Object Grasping. InProceedings on Graphics Interface '88.Canadian Information Processing Society, Toronto, Ont., Canada, Canada, 26--33. http://dl.acm.org/citation.cfm?id=102313.102317"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-31",
+                "unstructured": "Joe Mancewicz, Matt L. Derksen, Hans Rijpkema, and Cyrus A. Wilson. 2014. Delta Mush: Smoothing Deformations While Preserving Detail. InProceedings of the Fourth Symposium on Digital Production (DigiPro '14).ACM, New York, NY, USA, 7--11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-32",
+                "unstructured": "Tim McLaughlin, Larry Cutler, and David Coleman. 2011. Character Rigging, Deformations, and Simulations in Film and Game Production. InACM SIGGRAPH 2011 Courses (SIGGRAPH '11).ACM, New York, NY, USA, Article 5, 18 pages.",
+                "DOI": "10.1145/2037636.2037641",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-33",
+                "unstructured": "Alex Mohr and Michael Gleicher. 2003. Building Efficient, Accurate Character Skins from Examples.ACM Trans. Graph.22, 3 (July 2003), 562--568.",
+                "DOI": "10.1145/882262.882308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-34",
+                "unstructured": "Tomohiko Mukai and Shigeru Kuriyama. 2016. Efficient Dynamic Skinning with Low-rank Helper Bone Controllers.ACM Trans. Graph.35, 4, Article 36 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925905",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-35",
+                "unstructured": "S. Schaefer and C. Yuksel. 2007. Example-based Skeleton Extraction. InProceedings of the Fifth Eurographics Symposium on Geometry Processing (SGP '07).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 153--162. http://dl.acm.org/citation.cfm?id=1281991.1282013"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-36",
+                "unstructured": "Peter-Pike J. Sloan, Charles F. Rose, III, and Michael F. Cohen. 2001. Shape by Example. InProceedings of the 2001 Symposium on Interactive 3D Graphics (I3D '01).ACM, New York, NY, USA, 135--143.",
+                "DOI": "10.1145/364338.364382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-37",
+                "unstructured": "Theano Development Team. 2016. Theano: A Python framework for fast computation of mathematical expressions.arXiv e-printsabs/1605.02688 (May 2016). http://arxiv.org/abs/1605.02688"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-38",
+                "unstructured": "Jean-Marc Thiery, &#201;milie Guy, Tamy Boubekeur, and Elmar Eisemann. 2016. Animated Mesh Approximation With Sphere-Meshes.ACM Trans. Graph.35, 3, Article 30 (May 2016), 13 pages.",
+                "DOI": "10.1145/2898350",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-39",
+                "unstructured": "Jack M. Wang, David J. Fleet, and Aaron Hertzmann. 2008. Gaussian Process Dynamical Models for Human Motion.IEEE Trans. Pattern Anal. Mach. Intell.30, 2 (Feb. 2008), 283--298.",
+                "DOI": "10.1109/TPAMI.2007.1167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-40",
+                "unstructured": "Robert Y. Wang, Kari Pulli, and Jovan Popovi&#263;. 2007. Real-time Enveloping with Rotational Regression.ACM Trans. Graph.26, 3, Article 73 (July 2007).",
+                "DOI": "10.1145/1276377.1276468",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-41",
+                "unstructured": "Xiaohuan Corina Wang and Cary Phillips. 2002. Multi-weight Enveloping: Least-squares Approximation Techniques for Skin Animation. InProceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '02).ACM, New York, NY, USA, 129--138."
+            },
+            {
+                "key": "key-10.1145/3197517.3201300-42",
+                "unstructured": "Martin Watt, Lawrence D. Cutler, Alex Powell, Brendan Duncan, Michael Hutchinson, and Kevin Ochs. 2012. LibEE: A Multithreaded Dependency Graph for Character Animation. InProceedings of the Digital Production Symposium (DigiPro '12).ACM, New York, NY, USA, 59--66.",
+                "DOI": "10.1145/2370919.2370930",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201300&ftid=1991660&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:04Z",
+            "timestamp": 1571673364000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201300",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

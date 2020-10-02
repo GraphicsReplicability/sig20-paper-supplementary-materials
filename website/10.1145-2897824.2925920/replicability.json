@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/16/2020 13:54:57",
+    "Title": "Accelerated Quadratic Proxy for Geometric Optimization",
+    "DOI": "10.1145/2897824.2925920",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/shaharkov/AcceleratedQuadraticProxy",
+    "code URL  2": "",
+    "PDF URL": "https://shaharkov.github.io/projects/AcceleratedQuadraticProxy.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Mesh models",
+    "ACM 2": "Nonconvex optimization",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "To compile it under linux: in compileAllMex.m set up the right paths for Eigen and libigl. Then to run the examples change the path formating to be linux-compatible: replace 'data\\paper_deformation_2d_gecko_wConstraints.mat' by 'data/paper_deformation_2d_gecko_wConstraints.mat' for example (similar changes for all example scripts. Up to proper mesh visualization, the results are similar to the ones in the paper in both 2D and 3D.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 45,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab / eigen / libigl",
+    "Project URL": "https://shaharkov.github.io/AcceleratedQuadraticProxy.html",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Shahar Z.",
+            "family": "Kovalsky",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Meirav",
+            "family": "Galun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Yaron",
+            "family": "Lipman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

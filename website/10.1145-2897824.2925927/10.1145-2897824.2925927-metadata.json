@@ -1,0 +1,454 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813512
+        },
+        "reference-count": 59,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Microsoft Research PhD program",
+                "award": []
+            },
+            {
+                "name": "NSF grants",
+                "award": [
+                    "IIS-1064412, IIS-1218515"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925927",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Tactile mesh saliency"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Manfred",
+                "family": "Lau",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Lancaster University"
+                    }
+                ]
+            },
+            {
+                "given": "Kapil",
+                "family": "Dev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Lancaster University"
+                    }
+                ]
+            },
+            {
+                "given": "Weiqi",
+                "family": "Shi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            },
+            {
+                "given": "Julie",
+                "family": "Dorsey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            },
+            {
+                "given": "Holly",
+                "family": "Rushmeier",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925927-1",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating Articulated Characters from Skinned Meshes.ACM Trans. Graph. 31, 4 (July), 47:1--47:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-2",
+                "unstructured": "Bohg, J., Morales, A., Asfour, T., and Kragic, D. 2014. Data-Driven Grasp Synthesis -- A Survey.IEEE Transactions on Robotics 30, 2, 289--309."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-3",
+                "unstructured": "Borji, A., Sihite, D. N., and Itti, L. 2012. Salient Object Detection: A Benchmark.ECCV, 414--429.",
+                "DOI": "10.1007/978-3-642-33709-3_30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-4",
+                "unstructured": "Bylinskii, Z., Judd, T., Borji, A., Itti, L., Durand, F., Oliva, A., and Torralba, A., 2015. MIT Saliency Benchmark. http://saliency.mit.edu/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-5",
+                "unstructured": "Chapelle, O., and Keerthi, S. S. 2010. Efficient Algorithms for Ranking with SVMs.Information Retrieval 13, 3, 201--215."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-6",
+                "unstructured": "Chen, D. Y., Tian, X.-P., Shen, Y.-T., and Ouhyoung, M. 2003. On Visual Similarity Based 3D Model Retrieval.Computer Graphics Forum 22, 3, 223--232."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-7",
+                "unstructured": "Chen, X., Golovinskiy, A., and Funkhouser, T. 2009. A Benchmark for 3D Mesh Segmentation.ACM Trans. Graph. 28, 3 (July), 73:1--73:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-8",
+                "unstructured": "Chen, X., Saparov, A., Pang, B., and Funkhouser, T. 2012. Schelling Points on 3D Surface Meshes.ACM Trans. Graph. 31, 4 (July), 29:1--29:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-9",
+                "unstructured": "Cignoni, P., Pietroni, N., Malomo, L., and Scopigno, R. 2014. Field-aligned Mesh Joinery.ACM Trans. Graph. 33, 1 (Feb.), 11:1--11:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-10",
+                "unstructured": "Dorsey, J., and Hanrahan, P. 1996. Modeling and Rendering of Metallic Patinas. InProceedings of SIGGRAPH 96, Annual Conference Series, 387--396.",
+                "DOI": "10.1145/237170.237278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-11",
+                "unstructured": "Gal, R., and Cohen-Or, D. 2006. Salient Geometric Features for Partial Shape Matching and Similarity.ACM Trans. Graph. 25, 1 (Jan.), 130--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-12",
+                "unstructured": "Garces, E., Agarwala, A., Gutierrez, D., and Hertzmann, A. 2014. A Similarity Measure for Illustration Style.ACM Trans. Graph. 33, 4 (July), 93:1--93:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-13",
+                "unstructured": "Gingold, Y., Shamir, A., and Cohen-Or, D. 2012. Micro Perceptual Human Computation for Visual Tasks.ACM Trans. Graph. 31, 5 (Sept.), 119:1--119:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-14",
+                "unstructured": "Gingold, Y., Vouga, E., Grinspun, E., and Hirsh, H. 2012. Diamonds from the Rough: Improving Drawing, Painting, and Singing via Crowdsourcing.Proceedings of the AAAI Workshop on Human Computation (HCOMP)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-15",
+                "unstructured": "Goferman, S., Zelnik-Manor, L., and Tal, A. 2012. Context-Aware Saliency Detection.PAMI 34, 10, 1915--1926."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-16",
+                "unstructured": "Goldfeder, C., Ciocarlie, M., Dang, H., and Allen, P. K. 2009. The Columbia Grasp Database.ICRA, 3343--3349."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-17",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2013. Orthogonal Slicing for Additive Manufacturing.SMI 37, 6, 669--675."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-18",
+                "unstructured": "Hisada, M., Belyaev, A. G., and Kunii, T. L. 2002. A Skeleton-based Approach for Detection of Perceptually Salient Features on Polygonal Surfaces.CGF 21, 4, 689--700."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-19",
+                "unstructured": "Horn, B. 1984. Extended Gaussian Images.Proceedings of the IEEE 72, 12, 1671--1686."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-20",
+                "unstructured": "Howlett, S., Hamill, J., and O'Sullivan, C. 2005. Predicting and Evaluating Saliency for Simplified Polygonal Models.ACM Trans. on Applied Perception 2, 3 (July), 286--308."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-21",
+                "unstructured": "Hu, J., Lu, J., and Tan, Y. P. 2014. Discriminative Deep Metric Learning for Face Verification in the Wild.CVPR, 1875--1882."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-22",
+                "unstructured": "Hu, J., Lu, J., and Tan, Y. P. 2015. Deep Transfer Metric Learning.CVPR, 325--333."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-23",
+                "unstructured": "Itti, L., Koch, C., and Niebur, E. 1998. A Model of Saliency-Based Visual Attention for Rapid Scene Analysis.PAMI 20, 11, 1254--1259."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-24",
+                "unstructured": "Itti, L., 2000. Models of Bottom-Up and Top-Down Visual Attention. PhD Thesis, California Institute of Technology Pasadena."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-25",
+                "unstructured": "Jain, A., Thorm&#228;hlen, T., Ritschel, T., and Seidel, H.-P. 2012. Material Memex: Automatic Material Suggestions for 3D Objects.ACM Trans. Graph. 31, 6 (Nov.), 143:1--143:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-26",
+                "unstructured": "J&#228;rvelin, K., and Kek&#228;l&#228;nen, J. 2002. Cumulated Gain-based Evaluation of IR Techniques.ACM Trans. on Information Systems 20, 4, 422--446."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-27",
+                "unstructured": "Kalogerakis, E., Hertzmann, A., and Singh, K. 2010. Learning 3D Mesh Segmentation and Labeling.ACM Trans. Graph. 29, 4 (July), 102:1--102:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-28",
+                "unstructured": "Kim, Y., Varshney, A., Jacobs, D. W., and Guimbreti&#232;re, F. 2010. Mesh Saliency and Human Eye Fixations.ACM Trans. on Applied Perception 7, 2 (Feb.), 12:1--12:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-29",
+                "unstructured": "Klank, U., Pangercic, D., Rusu, R., and Beetz, M. 2009. Real-time CAD Model Matching for Mobile Manipulation and Grasping.IEEE-RAS Int'l Conf. on Humanoid Robots, 290--296."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-30",
+                "unstructured": "Lau, M., Ohgawara, A., Mitani, J., and Igarashi, T. 2011. Converting 3D Furniture Models to Fabricatable Parts and Connectors.ACM Trans. Graph. 30, 4 (July), 85:1--85:6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-31",
+                "unstructured": "Lee, C. H., Varshney, A., and Jacobs, D. W. 2005. Mesh Saliency.ACM Trans. Graph. 24, 3 (July), 659--666."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-32",
+                "unstructured": "Liu, Y., Zhu, H., Liu, X., and Wu, E. 2005. Real-time Simulation of Physically based On-Surface Flow.The Visual Computer 21, 8-10, 727--734."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-33",
+                "unstructured": "Liu, T., Hertzmann, A., Li, W., and Funkhouser, T. 2015. Style Compatibility for 3D Furniture Models.ACM Trans. Graph. 34, 4 (July), 85:1--85:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-34",
+                "unstructured": "Liu, Z., Wang, X., and Bu, S. 2015. Human-Centered Saliency Detection.IEEE Trans. on Neural Networks and Learning Systems.",
+                "DOI": "10.1109/TNNLS.2015.2495148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-35",
+                "unstructured": "M&#233;rillou, S., and Ghazanfarpour, D. 2008. A Survey of Aging and Weathering Phenomena in Computer Graphics.Computers &#38; Graphics 32, 2, 159--174."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-36",
+                "unstructured": "O'Donovan, P., Libeks, J., Agarwala, A., and Hertzmann, A. 2014. Exploratory Font Selection Using Crowd-sourced Attributes. ACM Trans. Graph. 33, 4 (July), 92:1--92:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-37",
+                "unstructured": "Osada, R., Funkhouser, T., Chazelle, B., and Dobkin, D. 2001. Matching 3D Models with Shape Distributions.Shape Modeling International, 154--166."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-38",
+                "unstructured": "Parikh, D., and Grauman, K. 2011. Relative Attributes.International Conference on Computer Vision (ICCV), 503--510."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-39",
+                "unstructured": "Plaisier, M. A., Tiest, W. M. B., and Kappers, A. M. L. 2009. Salient Features in 3-D Haptic Shape Perception.Attention, Perception, &#38; Psychophysics 71, 2, 421--430."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-40",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing Shapes for 3D Fabrication.ACM Trans. Graph. 32, 4 (July), 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-41",
+                "unstructured": "Sahbani, A., and El-Khoury, S. 2009. A Hybrid Approach for Grasping 3D Objects.IROS, 1272--1277."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-42",
+                "unstructured": "Sahbani, A., El-khoury, S., and Bidaud, P. 2012. An Overview of 3D Object Grasp Synthesis Algorithms.Robotics and Autonomous Systems 60, 3, 326--336."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-43",
+                "unstructured": "Saxena, A., Driemeyer, J., Kearns, J., and Ng, A. Y. 2007. Robotic Grasping of Novel Objects.NIPS, 1209--1216."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-44",
+                "unstructured": "Schwartzburg, Y., and Pauly, M. 2013. Fabrication-aware Design with Intersecting Planar Pieces.CGF 32, 2, 317--326."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-45",
+                "unstructured": "Shilane, P., and Funkhouser, T. 2007. Distinctive Regions of 3D Surfaces.ACM Trans. Graph. 26, 2 (June), 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-46",
+                "unstructured": "Shilane, P., Min, P., Kazhdan, M., and Funkhouser, T. 2004. The Princeton Shape Benchmark.SMI, 167--178."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-47",
+                "unstructured": "Shtrom, E., Leifman, G., and Tal, A. 2013. Saliency Detection in Large Point Sets.ICCV, 3591--3598."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-48",
+                "unstructured": "Song, R., Liu, Y., Martin, R. R., and Rosin, P. L. 2014. Mesh Saliency via Spectral Processing.ACM Trans. Graph. 33, 1 (Feb.), 6:1--6:17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-49",
+                "unstructured": "Su, H., Maji, S., Kalogerakis, E., and Learned-Miller, E. 2015. Multi-view Convolutional Neural Networks for 3D Shape Recognition.ICCV.",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-50",
+                "unstructured": "Surazhsky, T., Magid, E., Soldea, O., Elber, G., and Rivlin, E. 2003. A Comparison of Gaussian and Mean Curvatures Estimation Methods on Triangular Meshes.International Conference on Robotics and Automation, 1021--1026."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-51",
+                "unstructured": "Tao, P., Cao, J., Li, S., Liu, X., and Liu, L. 2015. Mesh Saliency via Ranking Unsalient Patches in a Descriptor Space.Computers and Graphics 46, C, 264--274."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-52",
+                "unstructured": "Varadarajan, K., Potapova, E., and Vincze, M. 2012. Attention driven Grasping for Clearing a Heap of Objects.IROS, 2035--2042."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-53",
+                "unstructured": "Wang, J., Song, Y., Leung, T., Rosenberg, C., Wang, J., Philbin, J., Chen, B., and Wu, Y. 2014. Learning Fine-Grained Image Similarity with Deep Ranking.CVPR, 1386--1393."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-54",
+                "unstructured": "Watanabe, K., and Belyaev, A. G. 2001. Detection of Salient Curvature Features on Polygonal Surfaces.CGF 20, 3, 385--392."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-55",
+                "unstructured": "Wei, L., Huang, Q., Ceylan, D., Vouga, E., and Li, H. 2015. Dense Human Body Correspondences Using Convolutional Networks.CVPR.",
+                "DOI": "10.1109/CVPR.2016.171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-56",
+                "unstructured": "Xu, M., Ni, B., Dong, J., Huang, Z., Wang, M., and Yan, S. 2012. Touch Saliency.ACM International Conference on Multimedia, 1041--1044."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-57",
+                "unstructured": "Zagoruyko, S., and Komodakis, N. 2015. Learning to Compare Image Patches via Convolutional Neural Networks.CVPR.",
+                "DOI": "10.1109/CVPR.2015.7299064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-58",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case Structural Analysis.ACM Trans. Graph. 32, 4 (July), 137:1--137:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925927-59",
+                "unstructured": "Zimmer, H., Lafarge, F., Alliez, P., and Kobbelt, L. 2014. Zometool Shape Approximation.Graphical Models 76, 5, 390--401."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925927&amp;ftid=1755949&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:38:56Z",
+            "timestamp": 1568162336000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 59,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925927",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

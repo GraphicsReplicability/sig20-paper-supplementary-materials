@@ -1,0 +1,372 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:18Z",
+            "timestamp": 1574815938761
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925941",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "The diffractive achromat full spectrum computational imaging with diffractive optics"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yifan",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia and King Abdullah University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Qiang",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia and King Abdullah University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology and The University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925941-1",
+                "unstructured": "Aieta, F., Genevet, P., Kats, M. A., Yu, N., Blanchard, R., Gaburro, Z., and Capasso, F. 2012. Aberration-free ultrathin flat lenses and axicons at telecom wavelengths based on plasmonic metasurfaces.Nano letters 12, 9, 4932--4936."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-2",
+                "unstructured": "Aieta, F., Kats, M. A., Genevet, P., and Capasso, F. 2015. Multiwavelength achromatic metasurfaces by dispersive phase compensation.Science 347, 6228, 1342--1345."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-3",
+                "unstructured": "Boyd, S., Parikh, N., Chu, E., Peleato, B., and Eckstein, J. 2011. Distributed optimization and statistical learning via the alternating direction method of multipliers.Foundations and Trends in Machine Learning 3, 1, 1--122."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-4",
+                "unstructured": "Chakrabarti, A., and Zickler, T. 2011. Statistics of real-world hyperspectral images. InProc. CVPR, IEEE, 193--200.",
+                "DOI": "10.1109/CVPR.2011.5995660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-5",
+                "unstructured": "Chan, S. H., Khoshabeh, R., Gibson, K. B., Gill, P. E., and Nguyen, T. Q. 2011. An augmented lagrangian method for total variation video restoration.IEEE Trans. Image Process. 20, 11, 3097--3111."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-6",
+                "unstructured": "Eberhart, R. C., and Shi, Y. 2001. Particle swarm optimization: developments, applications and resources. InProc. of 2001 Congress on Evolutionary Computation, IEEE, 81--86."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-7",
+                "unstructured": "Fischer, R. E., Tadic-Galeb, B., Yoder, P. R., and Galeb, R. 2008.Optical system design.McGraw Hill."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-8",
+                "unstructured": "Gill, P. R., and Stork, D. G. 2013. Lensless ultra-miniature imagers using odd-symmetry spiral phase gratings. InComputational Optical Sensing and Imaging, OSA, CW4C-3.",
+                "DOI": "10.1364/COSI.2013.CW4C.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-9",
+                "unstructured": "Goodman, J. 2008.Introduction to Fourier optics.McGraw-hill."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-10",
+                "unstructured": "Heide, F., Rouf, M., Hullin, M. B., Labitzke, B., Heidrich, W., and Kolb, A. 2013. High-quality computational imaging through simple lenses.ACM Trans. Graph. 32, 5, 149."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-11",
+                "unstructured": "Jiang, W., Wang, J., and Dong, X. 2013. A novel hybrid algorithm for the design of the phase diffractive optical elements for beam shaping.Opt. Laser Tech. 45, 37--41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-12",
+                "unstructured": "Joshi, N., Szeliski, R., and Kriegman, D. 2008. Psf estimation using sharp edge prediction. InProc. CVPR, IEEE, 1--8.",
+                "DOI": "10.1109/CVPR.2008.4587834",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-13",
+                "unstructured": "Kang, G., Tan, Q., Wang, X., and Jin, G. 2010. Achromatic phase retarder applied to mwir &#38; lwir dual-band.Opt. Express 18, 2, 1695--1703."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-14",
+                "unstructured": "Kim, G., Dom&#237;nguez-Caballero, J. A., and Menon, R. 2012. Design and analysis of multi-wavelength diffractive optics.Opt. Express 20, 3, 2814--2823."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-15",
+                "unstructured": "Krishnan, D., and Fergus, R. 2009. Fast image deconvolution using hyper-laplacian priors. InAdvances in Neural Information Processing Systems, NIPS, 1033--1041."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-16",
+                "unstructured": "Krishnan, D., Tay, T., and Fergus, R. 2011. Blind deconvolution using a normalized sparsity measure. In Proc. CVPR, IEEE, 233--240.",
+                "DOI": "10.1109/CVPR.2011.5995521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-17",
+                "unstructured": "Meyers, M. M., 1998. Hybrid refractive/diffractive achromatic camera lens, Feb. 3. US Patent 5,715,091."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-18",
+                "unstructured": "Monjur, M., Spinoulas, L., Gill, P. R., and Stork, D. G. 2015. Ultra-miniature, computationally efficient diffractive visual-bar-position sensor. InProc. SensorComm, IEIFSA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-19",
+                "unstructured": "Muzychenko, Y. B., Zinchik, A., Stafeev, S., and Tomilin, M. 2011. Fractal diffraction elements with variable transmittance and phase shift. InInternational Commission for Optics (ICO 22), International Society for Optics and Photonics, 80112F--80112F.",
+                "DOI": "10.1117/12.903551",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-20",
+                "unstructured": "Nakai, T., and Ogawa, H. 2002. Research on multi-layer diffractive optical elements and their application to camera lenses. InDiffractive Optics and Micro-Optics, OSA, DMA2.",
+                "DOI": "10.1364/DOMO.2002.DMA2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-21",
+                "unstructured": "Nikonorov, A., Skidanov, R., Fursov, V., Petrov, M., Bibikov, S., and Yuzifovich, Y. 2015. Fresnel lens imaging with post-capture image processing. InProc. CVPR Workshops, IEEE, 33--41.",
+                "DOI": "10.1109/CVPRW.2015.7301373",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-22",
+                "unstructured": "Peng, Y., Fu, Q., Amata, H., Su, S., Heide, F., and Heidrich, W. 2015. Computational imaging using lightweight diffractive-refractive optics. Opt. Express 23, 24, 31393--31407.",
+                "DOI": "10.1364/OE.23.031393",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-23",
+                "unstructured": "Quirin, S., and Piestun, R. 2013. Depth estimation and image recovery using broadband, incoherent illumination with engineered point spread functions [invited].Applied optics 52, 1, A367--A376."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-24",
+                "unstructured": "Samei, E., Flynn, M. J., and Reimann, D. A. 1998. A method for measuring the presampled mtf of digital radiographic systems using an edge test device.Medical physics 25, 1, 102--113."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-25",
+                "unstructured": "Schuler, C. J., Hirsch, M., Harmeling, S., and Scholkopf, B. 2011. Non-stationary correction of optical aberrations. InProc. ICCV, IEEE, 659--666.",
+                "DOI": "10.1109/ICCV.2011.6126301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-26",
+                "unstructured": "Schuler, C. J., Burger, H. C., Harmeling, S., and Scholkopf, B. 2013. A machine learning approach for non-blind image deconvolution. InProc. CVPR, IEEE, 1067--1074.",
+                "DOI": "10.1109/CVPR.2013.142",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-27",
+                "unstructured": "Schwartzburg, Y., Testuz, R., Tagliasacchi, A., and Pauly, M. 2014. High-contrast computational caustic design.ACM Trans. Graph.33, 4, 74."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-28",
+                "unstructured": "Shan, Q., Jia, J., and Agarwala, A. 2008. High-quality motion deblurring from a single image.ACM Trans. Graph. 27, 3, 73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-29",
+                "unstructured": "Singh, M., Tervo, J., and Turunen, J. 2014. Broadband beam shaping with harmonic diffractive optics.Opt. Express 22, 19, 22680--22688."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-30",
+                "unstructured": "Skauli, T., and Farrell, J. 2013. A collection of hyperspectral images for imaging systems research. InProc. IS&T/SPIE Electronic Imaging, SPIE, 86600C--86600C.",
+                "DOI": "10.1117/12.2007097",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-31",
+                "unstructured": "Smith, W. J. 2005.Modern lens design.McGraw-Hill."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-32",
+                "unstructured": "Stork, D. G., and Gill, P. R. 2014. Optical, mathematical, and computational foundations of lensless ultra-miniature diffractive imagers and sensors.International Journal on Advances in Systems and Measurements 7, 3, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-33",
+                "unstructured": "Su, Z., Zeng, K., Liu, L., Li, B., and Luo, X. 2014. Corruptive artifacts suppression for example-based color transfer.IEEE Trans. Multimedia 16, 4, 988--999."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-34",
+                "unstructured": "Wang, Y., Yun, W., and Jacobsen, C. 2003. Achromatic fresnel optics for wideband extreme-ultraviolet and x-ray imaging.Nature 424, 6944, 50--53."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-35",
+                "unstructured": "Wang, P., Mohammad, N., and Menon, R. 2016. Chromaticaberration-corrected diffractive lenses for ultra-broadband focusing.Scientific reports 6.",
+                "DOI": "10.1038/srep21545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-36",
+                "unstructured": "Yamaguchi, M., Haneishi, H., and Ohyama, N. 2008. Beyond red--green--blue (rgb): Spectrum-based color imaging technology.JIST 52, 1, 10201--1.",
+                "DOI": "10.2352/J.ImagingSci.Technol.(2008)52:1(010201)",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-37",
+                "unstructured": "Ye, G., Jolly, S., Bove Jr, V. M., Dai, Q., Raskar, R., and Wetzstein, G. 2014. Toward bxdf display using multilayer diffraction.ACM Trans. Graph. 33, 6, 191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-38",
+                "unstructured": "Yuan, L., Sun, J., Quan, L., and Shum, H.-Y. 2008. Progressive inter-scale and intra-scale non-blind image deconvolution.ACM Trans. Graph. 27, 3, 74."
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-39",
+                "unstructured": "Yue, T., Suo, J., Wang, J., Cao, X., and Dai, Q. 2015. Blind optical aberration correction by exploring geometric and visual priors. InProc. CVPR, IEEE, 1684--1692.",
+                "DOI": "10.1109/CVPR.2015.7298777",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925941-40",
+                "unstructured": "Zhou, G., Chen, Y., Wang, Z., and Song, H. 1999. Genetic local search algorithm for optimization design of diffractive optical elements.Appl. Opt. 38, 20, 4281--4290."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925941&amp;ftid=1755846&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:35:37Z",
+            "timestamp": 1568162137000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925941",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

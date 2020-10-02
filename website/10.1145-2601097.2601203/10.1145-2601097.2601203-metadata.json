@@ -1,0 +1,460 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410077
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001824",
+                "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "P202-13-26189S"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007397",
+                "name": "Univerzita Karlova v Praze",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "GA UK 580612, SVV2014260103"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601203",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 32,
+        "title": [
+            "On-line learning of parametric mixture models for light transport simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ji\u0159\u00ed",
+                "family": "Vorba",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Ond\u0159ej",
+                "family": "Karl\u00edk",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Martin",
+                "family": "\u0160ik",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Tobias",
+                "family": "Ritschel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601203-1",
+                "unstructured": "Arvo, J., and Kirk, D. 1990. Particle transport and image synthesis. InProc. SIGGRAPH '90, ACM, 63--66."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-2",
+                "unstructured": "Bashford-Rogers, T., Debattista, K., and Chalmers, A. 2012. A significance cache for accelerating global illumination.Computer Graphics Forum 31, 6, 1837--51.",
+                "DOI": "10.1111/j.1467-8659.2012.02099.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-3",
+                "unstructured": "Bashford-Rogers, T., Debattista, K., and Chalmers, A. 2013. Importance driven environment map sampling.IEEE Transactions on Visualization and Computer Graphics 19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-4",
+                "unstructured": "Bingham, C. 1974. An antipodally symmetric distribution on the sphere.The Annals of Statistics 2, 6, pp. 1201--1225.",
+                "DOI": "10.1214/aos/1176342874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-5",
+                "unstructured": "Bishop, C. M. 2006.Pattern Recognition and Machine Learning. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-6",
+                "unstructured": "Booth, T. 1985. A sample problem for variance reduction in MCNP. Tech. rep., Los Alamos National Laboratory, Los Alamos, New Mexico 87545."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-7",
+                "unstructured": "Booth, T. E. 2012. Common misconceptions in Monte Carlo particle transport.Applied Radiation and Isotopes 70, 7.",
+                "DOI": "10.1016/j.apradiso.2011.11.037",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-8",
+                "unstructured": "Budge, B. C., Anderson, J. C., and Joy, K. I. 2008. Caustic forecasting: Unbiased estimation of caustic lighting for global illumination.Computer Graphics Forum 27, 7, 1963--70.",
+                "DOI": "10.1111/j.1467-8659.2008.01345.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-9",
+                "unstructured": "Capp&#233;, O. 2011.Online Expectation Maximisation. John Wiley &#38; Sons, Ltd, 31--53."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-10",
+                "unstructured": "Cline, D., Talbot, J., and Egbert, P. 2005. Energy redistribution path tracing.ACM Trans. Graph. 24, 3.",
+                "DOI": "10.1145/1073204.1073330",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-11",
+                "unstructured": "Cline, D., Adams, D., and Egbert, P. 2008. Table-driven adaptive importance sampling.Computer Graphics Forum 27.",
+                "DOI": "10.1111/j.1467-8659.2008.01249.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-12",
+                "unstructured": "Dempster, A. P., Laird, N. M., and Rubin, D. B. 1977. Maximum likelihood from incomplete data via the EM algorithm.Journal of the Royal Statistical Society, Series B 39, 1, 1--38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-13",
+                "unstructured": "Dutr&#233;, P., and Willems, Y. 1994. Importance-driven Monte Carlo light tracing. InEurographics Workshop on Rendering.",
+                "DOI": "10.1007/978-3-642-87825-1_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-14",
+                "unstructured": "Dutr&#233;, P., and Willems, Y. 1995. Potential-driven Monte Carlo particle tracing for diffuse environments with adaptive probability density functions. InEG Workshop on Rendering.",
+                "DOI": "10.1007/978-3-7091-9430-0_29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-15",
+                "unstructured": "Dutr&#233;, P., Bala, K., and Bekaert, P. 2006.Advanced Global Illumination, 2nd ed. A. K. Peters.",
+                "DOI": "10.1201/b10632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-16",
+                "unstructured": "Fisher, R. 1953. Dispersion on a sphere.Proc. Royal Society of London. Series A. Math. Phys. 217, 1130, 295--305.",
+                "DOI": "10.1098/rspa.1953.0064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-17",
+                "unstructured": "Gauvain, J., and Lee, C.-H. 1994. Maximum a posteriori estimation for multivariate Gaussian mixture observations of Markov chains.IEEE Trans Audio Speech Lang Processing 2, 2, 291--298.",
+                "DOI": "10.1109/89.279278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-18",
+                "unstructured": "Georgiev, I., K&#345;iv&#225;nek, J., Popov, S., and Slusallek, P. 2012. Importance caching for complex illumination.Computer Graphics Forum 31, 2pt3, 701--10. Proc. of Eurographics.",
+                "DOI": "10.1111/j.1467-8659.2012.03049.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-19",
+                "unstructured": "Georgiev, I., K&#345;iv&#225;nek, J., Davidovi&#269;, T., and Slusallek, P. 2012. Light transport simulation with vertex connection and merging.ACM Trans. Graph. 31, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-20",
+                "unstructured": "Georgiev, I. 2012. Implementing vertex connection and merging. Tech. rep., Saarland University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-21",
+                "unstructured": "Hachisuka, T., Ogaki, S., and Jensen, H. W. 2008. Progressive photon mapping.ACM Trans. Graph. 27, 5 (Dec.).",
+                "DOI": "10.1145/1409060.1409083",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-22",
+                "unstructured": "Hachisuka, T., Pantaleoni, J., and Jensen, H. W. 2012. A path space extension for robust light transport simulation.ACM Trans. Graph. 31, 6.",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-23",
+                "unstructured": "Haghighat, A., and Wagner, J. C. 2003. Monte Carlo variance reduction with deterministic importance functions.Progress in Nuclear Energy 42, 1, 25--53.",
+                "DOI": "10.1016/S0149-1970(02)00002-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-24",
+                "unstructured": "Hey, H., and Purgathofer, W. 2002. Importance sampling with hemispherical particle footprints. InSCCG.",
+                "DOI": "10.1145/584458.584476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-25",
+                "unstructured": "Jakob, W., and Marschner, S. 2012. Manifold exploration: A Markov chain Monte Carlo technique for rendering scenes with difficult specular transport.ACM Trans. Graph. 31, 4 (July).",
+                "DOI": "10.1145/2185520.2185554",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-26",
+                "unstructured": "Jakob, W., Regg, C., and Jarosz, W. 2011. Progressive expectation-maximization for hierarchical volumetric photon mapping.Computer Graphics Forum 30, 4, 1287--1297.",
+                "DOI": "10.1111/j.1467-8659.2011.01988.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-27",
+                "unstructured": "Jakob, W., 2010. Mitsuba renderer. http://mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-28",
+                "unstructured": "Jensen, H. W. 1995. Importance driven path tracing using the photon map. InEurographics Workshop Rendering, 326--335."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-29",
+                "unstructured": "Karl&#237;k, O., 2009. Corona Renderer. http://corona-renderer.com."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-30",
+                "unstructured": "Kelemen, C., Szirmay-Kalos, L., Antal, G., and Csonka, F. 2002. A simple and robust mutation strategy for the Metropolis light transport algorithm.Comp. Graph. Forum (Proc. of Eurographics) 21, 3, 531--540."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-31",
+                "unstructured": "Kent, J. T. 1982. The Fisher-Bingham distribution on the sphere.Journal of the Royal Statistical Society. Series B 44, 1, 71--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-32",
+                "unstructured": "K&#345;iv&#225;nek, J., Gautron, P., Pattanaik, S., and Bouatouch, K. 2005. Radiance caching for efficient global illumination computation.IEEE Trans. Vis. Comp. Graph. 11, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-33",
+                "unstructured": "K&#345;iv&#225;nek, J., Bouatouch, K., Pattanaik, S. N., and &#381;&#225;ra, J. 2006. Making radiance and irradiance caching practical: Adaptive caching and neighbor clamping. InEurographics Symposium on Rendering, 127--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-34",
+                "unstructured": "Lafortune, E. P., and Willems, Y. D. 1995. A 5D tree to reduce the variance of Monte Carlo ray tracing. InEurographics Workshop on Rendering. 11--20.",
+                "DOI": "10.1007/978-3-7091-9430-0_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-35",
+                "unstructured": "Lehtinen, J., Karras, T., Laine, S., Aittala, M., Durand, F., and Aila, T. 2013. Gradient-domain Metropolis light transport.ACM Trans. Graph. 32, 4.",
+                "DOI": "10.1145/2461912.2461943",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-36",
+                "unstructured": "Lepage, G. P. 1978. A new algorithm for adaptive multidimensional integration.Journal of Comp. Physics 27, 192--203.",
+                "DOI": "10.1016/0021-9991(78)90004-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-37",
+                "unstructured": "Liang, P., and Klein, D. 2009. Online EM for unsupervised models. InHuman Language Technologies (NAACL '09), Association for Computational Linguistics, 611--619."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-38",
+                "unstructured": "Pegoraro, V., Brownlee, C., Shirley, P. S., and Parker, S. G. 2008. Towards interactive global illumination effects via sequential Monte Carlo adaptation. InIEEE Symposium on Interactive Ray Tracing, 107--114."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-39",
+                "unstructured": "Pegoraro, V., Wald, I., and Parker, S. G. 2008. Sequential Monte Carlo adaptation in low-anisotropy participating media.Computer Graphics Forum 27, 4, 1097--1104.",
+                "DOI": "10.1111/j.1467-8659.2008.01247.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-40",
+                "unstructured": "Peter, I., and Pietrek, G. 1998. Importance driven construction of photon maps. InRendering Techniques, 269--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-41",
+                "unstructured": "Pharr, M., and Humphreys, G. 2010.Physically Based Rendering, Second Edition: From Theory To Implementation, 2nd ed. Morgan Kaufmann Publishers Inc., San Francisco, CA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-42",
+                "unstructured": "Sato, M.-A., and Ishii, S. 2000. On-line EM algorithm for the normalized Gaussian network.Neural Comput. 12, 2 (Feb.).",
+                "DOI": "10.1162/089976600300015853",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-43",
+                "unstructured": "Shirley, P., and Chiu, K. 1997. A low distortion map between disk and square.J. Graph. Tools 2, 3 (Dec.), 45--52."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-44",
+                "unstructured": "Silverman, B. W. 1986.Density Estimation for Statistics and Data Analysis. Chapman &#38; Hall, London.",
+                "DOI": "10.1007/978-1-4899-3324-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-45",
+                "unstructured": "Steinhurst, J., and Lastra, A. 2006. Global importance sampling of glossy surfaces using the photon map. InIEEE Symposium on Interactive Ray Tracing, 133--138.",
+                "DOI": "10.1109/RT.2006.280224",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-46",
+                "unstructured": "Tsai, Y.-T., Chang, C.-C., Jiang, Q.-Z., and Weng, S.-C. 2008. Importance sampling of products from illumination and BRDF using spherical radial basis functions.The Visual Computer 24, 7.",
+                "DOI": "10.1007/s00371-008-0263-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-47",
+                "unstructured": "Veach, E., and Guibas, L. J. 1997. Metropolis light transport. InSIGGRAPH '97.",
+                "DOI": "10.1145/258734.258775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-48",
+                "unstructured": "Veach, E. 1997.Robust Monte Carlo methods for light transport simulation. PhD thesis, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-49",
+                "unstructured": "Verbeek, J. J., Nunnink, J. R., and Vlassis, N. 2006. Accelerated EM-based clustering of large data sets.Data Mining and Knowledge Discovery 13, 3, 291--307.",
+                "DOI": "10.1007/s10618-005-0033-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-50",
+                "unstructured": "Ward, G. J., Rubinstein, F. M., and Clear, R. D. 1988. A ray tracing solution for diffuse interreflection. InSIGGRAPH '88, no. 4, ACM, 85--92.",
+                "DOI": "10.1145/54852.378490",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-51",
+                "unstructured": "Ward, G. J. 1992. Measuring and modeling anisotropic reflection. InSIGGRAPH '92, ACM, 265--272.",
+                "DOI": "10.1145/133994.134078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601203-52",
+                "unstructured": "Xu, K., Sun, W.-L., Dong, Z., Zhao, D.-Y., Wu, R.-D., and Hu, S.-M. 2013. Anisotropic spherical Gaussians.ACM Transactions on Graphics 32, 6, 209:1--209:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601203&amp;ftid=1488909&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:26Z",
+            "timestamp": 1565663726000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601203",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

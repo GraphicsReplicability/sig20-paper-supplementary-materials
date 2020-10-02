@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:44Z",
+            "timestamp": 1574859824590
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201396",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Voxel cores"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yajie",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Letscher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis University"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201396-1",
+                "unstructured": "Nina Amenta, Sunghee Choi, and Ravi Krishna Kolluri. 2001. The power crust, unions of balls, and the medial axis transform.Computational Geometry19, 2-3 (2001), 127--153.",
+                "DOI": "10.1016/S0925-7721(01)00017-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-2",
+                "unstructured": "Nina Amenta and Ravi Krishna Kolluri. 2001. The medial axis of a union of balls.Comput. Geom.20, 1-2 (2001), 25--37."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-3",
+                "unstructured": "Carlo Arcelli and Gabriella Sanniti di Baja. 1993. Euclidean skeleton via centre-of-maximal-disc extraction.Image and Vision Computing11, 3 (1993), 163--173.",
+                "DOI": "10.1016/0262-8856(93)90055-L",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-4",
+                "unstructured": "Carlo Arcelli, Gabriella Sanniti di Baja, and Luca Serino. 2011. Distance-driven skeletonization in voxel images.IEEE Transactions on Pattern Analysis and Machine Intelligence33, 4 (2011), 709--720.",
+                "DOI": "10.1109/TPAMI.2010.140",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-5",
+                "unstructured": "Dominique Attali and Jean-Daniel Boissonnat. 2004. A linear bound on the complexity of the Delaunay triangulation of points on polyhedral surfaces.Discrete &#38; Computational Geometry31, 3 (2004), 369--384.",
+                "DOI": "10.1007/s00454-003-2870-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-6",
+                "unstructured": "Dominique Attali and Annick Montanvert. 1996. Modeling noise for a better simplification of skeletons. InProceedings 1996 International Conference on Image Processing, Lausanne, Switzerland, September 16-19, 1996.13--16.",
+                "DOI": "10.1109/ICIP.1996.560357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-7",
+                "unstructured": "Gilles Bertrand and Gr&#233;goire Malandain. 1994. A new characterization of three-dimensional simple points.Pattern Recognition Letters15, 2 (1994), 169--175.",
+                "DOI": "10.1016/0167-8655(94)90046-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-8",
+                "unstructured": "Anders Bj&#246;rner, Bernhard Korte, and L&#225;szl&#243; Lov&#225;sz. 1985. Homotopy properties of greedoids.Advances in Applied Mathematics6, 4 (1985), 447--494.",
+                "DOI": "10.1016/0196-8858(85)90021-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-9",
+                "unstructured": "H. Blum. 1967. A transformation for extracting new descriptors of form.Models for the Perception of Speech and Visual Form(1967), 362--80."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-10",
+                "unstructured": "J. Brandt and V. Algazi. 1992. Continuous skeleton computation by Voronoi diagram.CVGIP: Image Understanding55, 3 (1992), 329 -- 338.",
+                "DOI": "10.1016/1049-9660(92)90030-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-11",
+                "unstructured": "Frederic Cazals, Aditya Parameswaran, and Sylvain Pion. 2008. Robust construction of the three-dimensional flow complex. InProceedings of the twenty-fourth annual symposium on Computational geometry.ACM, 182--191.",
+                "DOI": "10.1145/1377676.1377705",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-12",
+                "unstructured": "Fr&#233;d&#233;ric Chazal and Andr&#233; Lieutier. 2005. The \"&#955;-medial axis\".Graphical Models67, 4 (2005), 304--331.",
+                "DOI": "10.1016/j.gmod.2005.01.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-13",
+                "unstructured": "Fr&#233;d&#233;ric Chazal and Andr&#233; Lieutier. 2008. Smooth manifold reconstruction from noisy and non-uniform approximation with guarantees.Computational Geometry40, 2 (2008), 156--170.",
+                "DOI": "10.1016/j.comgeo.2007.07.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-14",
+                "unstructured": "Tim Culver, John Keyser, and Dinesh Manocha. 2004. Exact computation of the medial axis of a polyhedron.Computer Aided Geometric Design21, 1 (2004), 65--98.",
+                "DOI": "10.1016/j.cagd.2003.07.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-15",
+                "unstructured": "Tamal K. Dey and Wulue Zhao. 2003. Approximating the Medial Axis from the Voronoi Diagram with a Convergence Guarantee.Algorithmica38, 1 (2003), 179--200.",
+                "DOI": "10.1007/s00453-003-1049-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-16",
+                "unstructured": "Michal Etzion and Ari Rappoport. 2002. Computing Voronoi skeletons of a 3-D polyhedron by space subdivision.Computational Geometry21, 3 (2002), 87--120.",
+                "DOI": "10.1016/S0925-7721(01)00056-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-17",
+                "unstructured": "Mark Foskey, Ming C Lin, and Dinesh Manocha. 2003. Efficient computation of a simplified medial axis. InProceedings of the eighth ACM symposium on Solid modeling and applications.ACM, 96--107.",
+                "DOI": "10.1145/781606.781623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-18",
+                "unstructured": "Yaorong Ge and J Michael Fitzpatrick. 1996. On the generation of skeletons from discrete Euclidean distance maps.IEEE Transactions on Pattern Analysis and Machine Intelligence18, 11 (1996), 1055--1066.",
+                "DOI": "10.1109/34.544075",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-19",
+                "unstructured": "Joachim Giesen, Edgar A Ramos, and Bardia Sadri. 2006. Medial axis approximation and unstable flow complex. InProceedings of the twenty-second annual symposium on Computational geometry.ACM, 327--336.",
+                "DOI": "10.1145/1137856.1137905",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-20",
+                "unstructured": "Wim H Hesselink and Jos BTM Roerdink. 2008. Euclidean skeletons of digital image and volume data in linear time by the integer medial axis transform.IEEE Transactions on Pattern Analysis and Machine Intelligence30, 12 (2008), 2204--2217.",
+                "DOI": "10.1109/TPAMI.2008.21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-21",
+                "unstructured": "Christoph M Hoffmann. 1990. How to construct the skeleton of CSG objects. (1990)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-22",
+                "unstructured": "Andrei C Jalba, Jacek Kustra, and Alexandru C Telea. 2013. Surface and curve skeletonization of large 3D models on the GPU.IEEE transactions on pattern analysis and machine intelligence35, 6 (2013), 1495--1508."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-23",
+                "unstructured": "Andrei C Jalba, Andre Sobiecki, and Alexandru C Telea. 2016. An unified multiscale framework for planar, surface, and curve skeletonization.IEEE transactions on pattern analysis and machine intelligence38, 1 (2016), 30--45."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-24",
+                "unstructured": "Tao Ju. 2004. Robust repair of polygonal models.ACM Transactions on Graphics (TOG)23, 3 (2004), 888--895.",
+                "DOI": "10.1145/1015706.1015815",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-25",
+                "unstructured": "Reinhard Klette and Azriel Rosenfeld. 2004.Digital geometry: Geometric methods for digital picture analysis.Elsevier.",
+                "DOI": "10.1016/B978-155860861-0/50005-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-26",
+                "unstructured": "Jacques-Olivier Lachaud and Boris Thibert. 2016. Properties of gauss digitized shapes and digital surface integration.Journal of Mathematical Imaging and Vision54, 2 (2016), 162--180.",
+                "DOI": "10.1007/s10851-015-0595-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-27",
+                "unstructured": "Yong-Gu Lee and Kunwoo Lee. 1997. Computing the medial surface of a 3-D boundary representation model.Advances in Engineering Software28, 9 (1997), 593--605.",
+                "DOI": "10.1016/S0965-9978(97)00024-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-28",
+                "unstructured": "Pan Li, Bin Wang, Feng Sun, Xiaohu Guo, Caiming Zhang, and Wenping Wang. 2015. Q-MAT: Computing Medial Axis Transform By Quadratic Error Minimization.ACM Trans. Graph.35, 1 (Dec. 2015), 8:1--8:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-29",
+                "unstructured": "Andr&#233; Lieutier. 2003. Any Open Bounded Subset of Rn Has the Same Homotopy Type Than Its Medial Axis. InProceedings of the Eighth ACM Symposium on Solid Modeling and Applications (SM '03).65--75.",
+                "DOI": "10.1145/781606.781620",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-30",
+                "unstructured": "L. Liu, Erin W. Chambers, David Letscher, and T. Ju. 2010. A simple and robust thinning algorithm on cell complexes.Comput. Graph. Forum29, 7 (2010), 2253--2260.",
+                "DOI": "10.1111/j.1467-8659.2010.01814.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-31",
+                "unstructured": "Jaehwan Ma, Sang Won Bae, and Sunghee Choi. 2012. 3D medial axis point approximation using nearest neighbors and the normal field.The Visual Computer28, 1 (2012), 7--19.",
+                "DOI": "10.1007/s00371-011-0594-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-32",
+                "unstructured": "Balint Miklos, Joachim Giesen, and Mark Pauly. 2010. Discrete Scale Axis Representations for 3D Geometry.ACM Trans. Graph.29, 4 (July 2010), 101:1--101:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-33",
+                "unstructured": "Victor Milenkovic. 1993. Robust Construction of the Voronoi Diagram of a Polyhedron.. InCCCG, Vol. 93. 473--478."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-34",
+                "unstructured": "Suraj Musuvathy, Elaine Cohen, and James Damon. 2011. Computing medial axes of generic 3D regions bounded by B-spline surfaces.Computer-Aided Design43, 11 (2011), 1485--1495.",
+                "DOI": "10.1016/j.cad.2011.08.023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-35",
+                "unstructured": "K&#225;lm&#225;n Pal&#225;gyi and Attila Kuba. 1999. A parallel 3D 12-subiteration thinning algorithm.Graphical Models and Image Processing61, 4 (1999), 199--221.",
+                "DOI": "10.1006/gmip.1999.0498",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-36",
+                "unstructured": "Chris Pudney. 1998. Distance-ordered homotopic thinning: a skeletonization algorithm for 3D digital images.Computer Vision and Image Understanding72, 3 (1998), 404--413.",
+                "DOI": "10.1006/cviu.1998.0680",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-37",
+                "unstructured": "M Ramanathan and B Gurumoorthy. 2010. Interior Medial Axis Transform computation of 3D objects bound by free-form surfaces.Computer-Aided Design42, 12 (2010), 1217--1231.",
+                "DOI": "10.1016/j.cad.2010.08.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-38",
+                "unstructured": "Dennie Reniers, Jarke van Wijk, and Alexandru Telea. 2008. Computing Multiscale Curve and Surface Skeletons of Genus 0 Shapes Using a Global Importance Measure.IEEE Transactions on Visualization and Computer Graphics14, 2 (2008), 355--368.",
+                "DOI": "10.1109/TVCG.2008.23",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-39",
+                "unstructured": "Martin Rumpf and Alexandru Telea. 2002. A continuous skeletonization method based on level sets. InProceedings of the symposium on Data Visualisation 2002.Eurographics Association, 151--ff."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-40",
+                "unstructured": "Punam K Saha, Gunilla Borgefors, and Gabriella Sanniti di Baja. 2016. A survey on skeletonization algorithms and their applications.Pattern Recognition Letters76 (2016), 3--12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-41",
+                "unstructured": "Punam K. Saha and Bidyut Baran Chaudhuri. 1994. Detection of 3-D simple points for topology preserving transformations with application to thinning.IEEE transactions on pattern analysis and machine intelligence16, 10 (1994), 1028--1032.",
+                "DOI": "10.1109/34.329007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-42",
+                "unstructured": "Evan C. Sherbrooke, Nicholas M. Patrikalakis, and Erik Brisson. 1996. An Algorithm for the Medial Axis Transform of 3D Polyhedral Solids.IEEE Transactions on Visualization and Computer Graphics2, 1 (1996), 44--61.",
+                "DOI": "10.1109/2945.489386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-43",
+                "unstructured": "Hang Si. 2015. TetGen, a Delaunay-based quality tetrahedral mesh generator.ACM Transactions on Mathematical Software (TOMS)41, 2 (2015), 11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-44",
+                "unstructured": "Kaleem Siddiqi, Sylvain Bouix, Allen Tannenbaum, and Steven W. Zucker. 2002. Hamilton-Jacobi Skeletons.International Journal of Computer Vision48, 3 (July 2002), 215--231.",
+                "DOI": "10.1023/A:1016376116653",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-45",
+                "unstructured": "Kaleem Siddiqi and Stephen M. Pizer. 2008.Medial Representations.Springer.",
+                "DOI": "10.1007/978-1-4020-8658-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-46",
+                "unstructured": "Andr&#233; Sobiecki, Andrei Jalba, and Alexandru Telea. 2014. Comparison of curve and surface skeletonization methods for voxel shapes.Pattern Recognition Letters47 (2014), 147--156.",
+                "DOI": "10.1016/j.patrec.2014.01.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-47",
+                "unstructured": "Peer Stelldinger, Longin Jan Latecki, and Marcelo Siqueira. 2007. Topological equivalence between a 3D object and the reconstruction of its digital image.IEEE transactions on pattern analysis and machine intelligence29, 1 (2007).",
+                "DOI": "10.1109/TPAMI.2007.250604",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-48",
+                "unstructured": "Svetlana Stolpner and Kaleem Siddiqi. 2006. Revealing significant medial structure in polyhedral meshes. In3D Data Processing, Visualization, and Transmission, Third International Symposium on.IEEE, 365--372.",
+                "DOI": "10.1109/3DPVT.2006.122",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-49",
+                "unstructured": "Avneesh Sud, Liangjun Zhang, and Dinesh Manocha. 2006.Homotopy Preserving Approximate Voronoi Diagram of 3D Polyhedron.Technical Report. Technical report."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-50",
+                "unstructured": "Andrea Tagliasacchi, T. Delame, M. Spagnuolo, N. Amenta, and A. Telea. 2016. 3D Skeletons: A State-of-the-Art Report. InEurographics.",
+                "DOI": "10.1111/cgf.12865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-51",
+                "unstructured": "Roger C. Tam and Wolfgang Heidrich. 2003. Shape Simplification Based on the Medial Axis Transform. In14th IEEE Visualization 2003 Conference (VIS 2003), 19-24 October 2003, Seattle, WA, USA.481--488.",
+                "DOI": "10.1109/VISUAL.2003.1250410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-52",
+                "unstructured": "YF Tsao and King Sun Fu. 1981. A parallel thinning algorithm for 3-D pictures.Computer graphics and image processing17, 4 (1981), 315--331."
+            },
+            {
+                "key": "key-10.1145/3197517.3201396-53",
+                "unstructured": "Yajie Yan, Kyle Sykes, Erin Chambers, David Letscher, and Tao Ju. 2016. Erosion thickness on medial axes of 3D shapes.ACM Transactions on Graphics (TOG)35, 4 (2016), 38."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201396&ftid=1991580&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:44:27Z",
+            "timestamp": 1571672667000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient, robust, and provably good approximation of 3D medial axes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201396",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

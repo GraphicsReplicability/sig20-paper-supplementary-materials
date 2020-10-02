@@ -1,0 +1,358 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410011
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004356",
+                "name": "Nokia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004358",
+                "name": "Samsung",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "ETH/Marie Curie fellowship",
+                "award": []
+            },
+            {
+                "name": "Intel Science and Technology Center for Visual Computing",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "1011832, 1011919"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601186",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Discrete stochastic microfacet models"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Wenzel",
+                "family": "Jakob",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Milo\u0161",
+                "family": "Ha\u0161an",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ling-Qi",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jason",
+                "family": "Lawrence",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601186-1",
+                "unstructured": "Ashikhmin, M., and Shirley, P. 2000. An anisotropic Phong BRDF model.J. Graph. Tools 5, 2 (Feb.), 25--32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-2",
+                "unstructured": "Booth, J. 1844. IV. on the rectification and quadrature of the spherical ellipse.The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science 25, 163, 18--38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-3",
+                "unstructured": "Booth, J. 1852. Researches on the geometrical properties of elliptic integrals.Philosophical Transactions of the Royal Society of London 142, 311--416.",
+                "DOI": "10.1098/rstl.1852.0019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-4",
+                "unstructured": "Boyd, S., and Vandenberghe, L. 2004.Convex Optimization. Cambridge University Press, New York, NY, USA.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-5",
+                "unstructured": "Cook, R. L., and DeRose, T. 2005. Wavelet noise.ACM Trans. Graph. (SIGGRAPH 2005 Proceedings) 24, 3, 803--811."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-6",
+                "unstructured": "Cook, R. L., and Torrance, K. E. 1981. A reflectance model for computer graphics. InProceedings of SIGGRAPH '81, ACM.",
+                "DOI": "10.1145/800224.806819",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-7",
+                "unstructured": "Dekker, N., Kirchner, E. J. J., Sup&#232;r, R., van den Kieboom, G. J., and Gottenbos, R. 2010. Total appearance differences for metallic and pearlescent materials: Contributions from color and texture.Color Research &#38; Application 36, 1 (Dec.), 4--14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-8",
+                "unstructured": "Devroye, L. 1986.Non-Uniform Random Variate Generation. Springer-Verlag.",
+                "DOI": "10.1007/978-1-4613-8643-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-9",
+                "unstructured": "Ershov, S., Khodulev, A., and Kolchin, K. 1999. Simulation of sparkles in metallic paints. InProceedings of Graphicon 1999, 121--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-10",
+                "unstructured": "Ershov, S., Kolchin, K., and Myszkouwski, K. 2001. Rendering pearlescent appearance based on paint-composition modeling.Comp. Graphics Forum (Proc. EUROGRAPHICS) 20, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-11",
+                "unstructured": "Fairchild, M. D., and Johnson, G. M. 2005. On the salience of novel stimuli: Adaptation and image noise. InProceedings of the IS&#38;T/SID Color Imaging Conference, 333--338."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-12",
+                "unstructured": "Galassi, M. e. a. 2009.GNU Scientific Library Reference Manual, 3rd ed ed. Network Theory Ltd."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-13",
+                "unstructured": "G&#252;nther, J., Chen, T., Goesele, M., Wald, I., and Seidel, H.-P. 2005. Efficient acquistion and realistic rendering of car paint. InVMV 2005 Proceedings."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-14",
+                "unstructured": "Han, C., Sun, B., Ramamoorthi, R., and Grinspun, E. 2007. Frequency domain normal map filtering.ACM Trans. Graph. (Proceedings of SIGGRAPH 2007) 26, 3, 28:1--28:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-15",
+                "unstructured": "Igehy, H. 1999. Tracing ray differentials. InProceedings of SIGGRAPH '99, ACM Press/Addison-Wesley Publishing Co.",
+                "DOI": "10.1145/311535.311555",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-16",
+                "unstructured": "Jakob, W., 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-17",
+                "unstructured": "Kachitvichyanukul, V., and Schmeiser, B. W. 1988. Binomial random variate generation.Commun. ACM 31, 2 (Feb.), 216--222."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-18",
+                "unstructured": "Keller, A., Premoze, S., and Raab, M. 2012. Advanced (quasi) monte carlo methods for image synthesis. InACM SIGGRAPH 2012 Courses, ACM, SIGGRAPH '12, 21:1--21:46."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-19",
+                "unstructured": "Kirchner, E., van den Kieboom, G.-J., Njo, L., Sup&#232;r, R., and Gottenbos, R. 2007. Observation of visual texture of metallic and pearlescent materials.Color Research &#38; Application 32, 4, 256--266."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-20",
+                "unstructured": "Lagae, A., Lefebvre, S., Drettakis, G., and Dutr&#233;, P. 2009. Procedural noise using sparse Gabor convolution.ACM Trans. Graph. 28, 3 (July), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-21",
+                "unstructured": "McCamy, C. S. 1996. Observation and measurement of the appearance of metallic materials. Part I. Macro appearance.Color Research &#38; Application 21, 4, 293."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-22",
+                "unstructured": "McCamy, C. S. 1998. Observation and measurement of the appearance of metallic materials. Part II. Micro appearance.Color Research &#38; Application 23, 6, 362--373."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-23",
+                "unstructured": "Olano, M., and Baker, D. 2010. Lean mapping. InProceedings of the 2010 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, ACM, I3D '10, 181--188."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-24",
+                "unstructured": "Perlin, K. 2002. Improving noise.ACM Trans. Graph. (SIGGRAPH 2002 Proceedings) 21, 3, 681--682."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-25",
+                "unstructured": "Rump, M., M&#252;ller, G., Sarlette, R., Koch, D., and Klein, R. 2008. Photo-realistic rendering of metallic car paint from image-based measurements.Computer Graphics Forum (EUROGRAPHICS Proceedings) 27, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-26",
+                "unstructured": "Schneider, P., and Eberly, D. H. 2002.Geometric tools for computer graphics. Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-27",
+                "unstructured": "Toksvig, M. 2005. Mipmapping normal maps.Journal of Graphics Tools 10, 3, 65--71.",
+                "DOI": "10.1080/2151237X.2005.10129203",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-28",
+                "unstructured": "Torrance, K. E., and Sparrow, E. M. 1967. Theory for off-specular reflection from roughened surfaces.JOSA 57, 9, 1105--1112.",
+                "DOI": "10.1364/JOSA.57.001105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-29",
+                "unstructured": "Veach, E. 1997.Robust Monte Carlo Methods for Light Transport Simulation. PhD thesis, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-30",
+                "unstructured": "Walter, B., Marschner, S. R., Li, H., and Torrance, K. E. 2007. Microfacet models for refraction through rough surfaces. InProceedings of the 18th Eurographics Conference on Rendering Techniques, 195--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-31",
+                "unstructured": "Wheeler, D. J., and Needham, R. M. 1995. TEA, a tiny encryption algorithm. InFast Software Encryption, Springer, 363--366.",
+                "DOI": "10.1007/3-540-60590-8_29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601186-32",
+                "unstructured": "Yan, L.-Q., Ha&#353;an, M., Jakob, W., Lawrence, J., Marschner, S., and Ramamoorthi, R. 2014. Rendering glints on high-resolution normal-mapped specular surfaces.ACM Trans. Graph. (Proceedings of SIGGRAPH 2014) 33, 4."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601186&amp;ftid=1488923&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:32Z",
+            "timestamp": 1565663732000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601186",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

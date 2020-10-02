@@ -1,0 +1,95 @@
+{
+    "Timestamp": "12/16/2019 15:27:51",
+    "Title": "P2P-NET: bidirectional point displacement net for shape transform",
+    "DOI": "10.1145/3197517.3201288",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 6,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://arxiv.org/abs/1803.09263",
+    "code URL": "https://github.com/kangxue/P2P-NET",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1803.09263.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 2,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 2,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Shape analysis",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Undefined symbols in ubuntu 19.10 (tensorflow 1.3, python 2.7) when compiling the pointnet++ operators.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 15,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow/numpy/h5py",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Kangxue",
+            "family": "Yin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Simon Fraser University"
+                }
+            ]
+        },
+        {
+            "given": "Hui",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Cohen-Or",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University and Tel Aviv University"
+                }
+            ]
+        },
+        {
+            "given": "Hao",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Simon Fraser University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 4.1,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=5&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=34926221"
+}

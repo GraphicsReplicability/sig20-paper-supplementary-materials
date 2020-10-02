@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848139
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "SRG grants from City University of Hong Kong",
+                "award": [
+                    "7004676,7004889"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201355",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "What characterizes personalities of graphic designs?"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nanxuan",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Ying",
+                "family": "Cao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Rynson W. H.",
+                "family": "Lau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201355-1",
+                "unstructured": "Steven Bradley. 2010. How To Use Space In Design, http://vanseodesign.com/web-design/design-space/. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-2",
+                "unstructured": "Zoya Bylinskii, Nam Wook Kim, Peter O'Donovan, Sami Alsheikh, Spandan Madan, Hanspeter Pfister, Fredo Durand, Bryan Russell, and Aaron Hertzmann. 2017. Learning Visual Importance for Graphic Designs and Data Visualizations. InACM UIST.",
+                "DOI": "10.1145/3126594.3126653",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-3",
+                "unstructured": "Ying Cao, Antoni Chan, and Rynson Lau. 2012. Automatic stylistic manga layout.ACM TOG31, 6 (2012), 141."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-4",
+                "unstructured": "Ying Cao, Rynson Lau, and Antoni Chan. 2014. Look Over Here: Attention-Directing Composition of Manga Elements.ACM TOG33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601183",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-5",
+                "unstructured": "Huiwen Chang, Fisher Yu, Jue Wang, Douglas Ashley, and Adam Finkelstein. 2016. Automatic Triage for a Photo Series.ACM TOG35, 4, Article 148 (2016).",
+                "DOI": "10.1145/2897824.2925908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-6",
+                "unstructured": "Siddhartha Chaudhuri, Evangelos Kalogerakis, Stephen Giguere, and Thomas Funkhouser. 2013. Attribit: content creation with semantic attributes. InACM UIST.193--202.",
+                "DOI": "10.1145/2501988.2502008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-7",
+                "unstructured": "Carrie Cousins. 2015. How Color, Type and Space Can ImpactMood. https://designshack.net/articles/graphics/how-color-type-and-space-can-impact-mood/. (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-8",
+                "unstructured": "Navneet Dalal and Bill Triggs. 2005. Histograms of oriented gradients for human detection. InProc. IEEE CVPR.886--893.",
+                "DOI": "10.1109/CVPR.2005.177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-9",
+                "unstructured": "J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L.i Fei-Fei. 2009. ImageNet: A Large-Scale Hierarchical Image Database. InProc. IEEE CVPR.",
+                "DOI": "10.1109/CVPR.2009.5206848",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-10",
+                "unstructured": "Carl Doersch, Saurabh Singh, Abhinav Gupta, Josef Sivic, and Alexei Efros. 2015. What makes Paris look like Paris?ACM TOG58, 12 (2015).",
+                "DOI": "10.1145/2830541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-11",
+                "unstructured": "Elena Garces, Aseem Agarwala, Diego Gutierrez, and Aaron Hertzmann. 2014. A similarity measure for illustration style.ACM TOG33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-12",
+                "unstructured": "Elena Garces, Aseem Agarwala, Aaron Hertzmann, and Diego Gutierrez. 2017. Style-based exploration of illustration datasets.Multimedia Tools and Applications76, 11 (2017), 13067--13086.",
+                "DOI": "10.1007/s11042-016-3702-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-13",
+                "unstructured": "Yunchao Gong, Yangqing Jia, Thomas Leung, Alexander Toshev, and Sergey Ioffe. 2013. Deep convolutional ranking for multilabel image annotation.arXiv:1312.4894(2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-14",
+                "unstructured": "Rebecca Gross. 2015. What It Means to Design With Personality: 25 Awesome Case Studies, https://designschool.canva.com/blog/graphic-art/. (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-15",
+                "unstructured": "Michael Gygli, Yale Song, and Liangliang Cao. 2016. Video2gif: Automatic generation of animated gifs from video. InProc. IEEE CVPR.1001--1009.",
+                "DOI": "10.1109/CVPR.2016.114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-16",
+                "unstructured": "Keith Hastings. 1970. Monte Carlo sampling methods using Markov chains and their applications.Biometrika57, 1 (1970), 97--109.",
+                "DOI": "10.1093/biomet/57.1.97",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-17",
+                "unstructured": "Hamid Izadinia, Bryan Russell, Ali Farhadi, Matthew Hoffman, and Aaron Hertzmann. 2015. Deep classifiers from image tags in the wild. InProc. ACM MM Workshop on Community-Organized Multimodal Mining: Opportunities for Novel Solutions.13--18.",
+                "DOI": "10.1145/2814815.2814821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-18",
+                "unstructured": "Ali Jahanian, Shaiyan Keshvari, SVN Vishwanathan, and Jan Allebach. 2017. Colors-Messengers of Concepts: Visual Design Mining for Learning Color Semantics.ACM TOCHI24, 1 (2017), 2.",
+                "DOI": "10.1145/3009924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-19",
+                "unstructured": "Kara Jensen. 2013. What is the \"Look and Feel\" of a Website? And Why It's Important. https://www.bopdesign.com/bop-blog/2013/11/what-is-the-look-and-feel-of-a-website-and-why-its-important/. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-20",
+                "unstructured": "Sergey Karayev, Matthew Trentacoste, Helen Han, Aseem Agarwala, Trevor Darrell, Aaron Hertzmann, and Holger Winnemoeller. 2013. Recognizing image style.arXiv:1311.3715(2013).",
+                "DOI": "10.5244/C.28.122",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-21",
+                "unstructured": "Janie Kliever. 2015. Designing for Engagement: How Color, Type and Space Can Impact The Mood Of Your Design, https://designschool.canva.com/blog/design-for-engagement/. (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-22",
+                "unstructured": "PierreYves Laffont, Zhile Ren, Xiaofeng Tao, Chao Qian, and James Hays. 2014. Transient attributes for high-level understanding and editing of outdoor scenes.ACM TOG33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-23",
+                "unstructured": "Manfred Lau, Kapil Dev, Weiqi Shi, Julie Dorsey, and Holly Rushmeier. 2016. Tactile Mesh Saliency.ACM TOG35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-24",
+                "unstructured": "Sharon Lin, Daniel Ritchie, Matthew Fisher, and Pat Hanrahan. 2013. Probabilistic color-by-numbers: Suggesting pattern colorizations using factor graphs.ACM TOG32, 4 (2013).",
+                "DOI": "10.1145/2461912.2461988",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-25",
+                "unstructured": "Zhaoliang Lun, Evangelos Kalogerakis, and Alla Sheffer. 2015. Elements of Style: Learning Perceptual Shape Style Similarity.ACM TOG34, 4 (2015).",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-26",
+                "unstructured": "Laurens van der Maaten and Geoffrey Hinton. 2008. Visualizing data using t-SNE.Journal of Machine Learning Research9, Nov (2008), 2579--2605."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-27",
+                "unstructured": "Paul Merrell, Eric Schkufza, Zeyang Li, Maneesh Agrawala, and Vladlen Koltun. 2011. Interactive furniture layout using interior design guidelines.ACM TOG30, 4 (2011), 87."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-28",
+                "unstructured": "Nicholas Metropolis, Arianna Rosenbluth, Marshall Rosenbluth, Augusta Teller, and Edward Teller. 1953. Equation of state calculations by fast computing machines.The Journal of Chemical Physics21, 6 (1953), 1087--1092.",
+                "DOI": "10.1063/1.1699114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-29",
+                "unstructured": "Rick Nauert. 2011. Why First Impressions Are Difficult to Change: Study. http://www.livescience.com/10429-impressions-difficult-change-study.html. (2011)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-30",
+                "unstructured": "Peter O'Donovan, Aseem Agarwala, and Aaron Hertzmann. 2011. Color compatibility from large datasets.ACM TOG30, 4 (2011).",
+                "DOI": "10.1145/2010324.1964958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-31",
+                "unstructured": "Peter O'Donovan, Aseem Agarwala, and Aaron Hertzmann. 2014a. Learning layouts for single-page graphic designs.IEEE TVCG20, 8 (2014), 1200--1213."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-32",
+                "unstructured": "Peter O'Donovan, J&#257;nis L&#299;beks, Aseem Agarwala, and Aaron Hertzmann. 2014b. Exploratory font selection using crowdsourced attributes.ACM TOG33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-33",
+                "unstructured": "Xufang. Pang, Ying Cao, Rynson Lau, and Antoni Chan. 2016. Directing user attention via visual flow on web designs.ACM TOG35, 6 (2016).",
+                "DOI": "10.1145/2980179.2982422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-34",
+                "unstructured": "Devi Parikh and Kristen Grauman. 2011. Relative attributes. InProc. IEEE ICCV.503--510.",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-35",
+                "unstructured": "Christine Phillips and B Chaparro. 2009. Visual appeal vs. usability: which one influences user perceptions of a website more.Usability News(2009), 1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-36",
+                "unstructured": "Miriam Redi, Frank Liu, and Neil O'Hare. 2017. Bridging the Aesthetic Gap: The Wild Beauty of Web Imagery. InACM ICMR.242--250.",
+                "DOI": "10.1145/3078971.3078972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-37",
+                "unstructured": "Katharina Reinecke, Tom Yeh, Luke Miratrix, Rahmatri Mardiko, Yuechen Zhao, Jenny Liu, and Krzysztof Gajos. 2013. Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness. InACM SIGCHI.2049--2058.",
+                "DOI": "10.1145/2470654.2481281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-38",
+                "unstructured": "Daniel Ritchie, Ankita Kejriwal, and Scott Klemmer. 2011. d. tour: Style-based exploration of design example galleries. InACM UIST.165--174.",
+                "DOI": "10.1145/2047196.2047216",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-39",
+                "unstructured": "Babak Saleh, Mira Dontcheva, Aaron Hertzmann, and Zhicheng Liu. 2015. Learning style similarity for searching infographics. InProc. GI.59--64."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-40",
+                "unstructured": "Ana Serrano, Diego Gutierrez, Karol Myszkowski, Hans-Peter Seidel, and Belen Masia. 2016. An intuitive control space for material appearance.ACM TOG35, 6 (2016), 186."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-41",
+                "unstructured": "Nathan Shedroff and Christopher Noessel. 2012.Make it so: interaction design lessons from science fiction.Rosenfeld Media.",
+                "DOI": "10.1145/2254556.2254561",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-42",
+                "unstructured": "Clayton Silver and William Dunlap. 1987. Averaging correlation coefficients: should Fisher's z transformation be used?Journal of Applied Psychology72, 1 (1987), 146."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-43",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition.arXiv:1409.1556(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-44",
+                "unstructured": "Stephan Streuber, M Quiros-Ramirez, Matthew Hill, Carina Hahn, Silvia Zuffi, Alice O'Toole, and Michael Black. 2016. Body talk: Crowdshaping realistic 3D avatars with words.ACM TOG35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-45",
+                "unstructured": "Aarron Walter. 2012. Redesigning With Personality. https://www.smashingmagazine.com/2012/03/redesigning-with-personality/. (2012).",
+                "DOI": "10.12968/sece.2012.10.167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-46",
+                "unstructured": "Jiang Wang, Yang Song, Thomas Leung, Chuck Rosenberg, Jingbin Wang, James Philbin, Bo Chen, and Ying Wu. 2014. Learning fine-grained image similarity with deep ranking. InProc. IEEE CVPR.1386--1393.",
+                "DOI": "10.1109/CVPR.2014.180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-47",
+                "unstructured": "Mehmet Yumer, Siddhartha Chaudhuri, Jessica Hodgins, and LeventBurak Kara. 2015. Semantic shape editing using deformation handles.ACM TOG34, 4 (2015).",
+                "DOI": "10.1145/2766908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-48",
+                "unstructured": "Matthew Zeiler. 2012. ADADELTA: an adaptive learning rate method.arXiv:1212.5701(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-49",
+                "unstructured": "Matthew Zeiler and Rob Fergus. 2014. Visualizing and understanding convolutional networks. InProc. IEEE ECCV.818--833.",
+                "DOI": "10.1007/978-3-319-10590-1_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201355-50",
+                "unstructured": "Fang Zhao, Yongzhen Huang, Liang Wang, and Tieniu Tan. 2015. Deep semantic ranking based hashing for multi-label image retrieval. InProc. IEEE CVPR.1556--1564.",
+                "DOI": "10.1109/CVPR.2015.7298763",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201355&ftid=1991632&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:53Z",
+            "timestamp": 1571673353000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201355",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

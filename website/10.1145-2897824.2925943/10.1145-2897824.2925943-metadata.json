@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:40Z",
+            "timestamp": 1574815960558
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925943",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Multiple-scattering microfacet BSDFs with the Smith model"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Eric",
+                "family": "Heitz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Hanika",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Eugene",
+                "family": "d'Eon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "8i"
+                    }
+                ]
+            },
+            {
+                "given": "Carsten",
+                "family": "Dachsbacher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925943-1",
+                "unstructured": "Beckmann, P., and Spizzichino, A. 1963.The scattering of electromagnetic waves from rough surfaces. International series of monographs on electromagnetic waves. Pergamon Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-2",
+                "unstructured": "Bourlier, C., and Berginc, G. 2004. Multiple scattering in the high-frequency limit with second-order shadowing function from 2d anisotropic rough dielectric surfaces: I. theoretical study.Waves in Random Media 14, 3, 229--252."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-3",
+                "unstructured": "Cook, R. L., and Torrance, K. E. 1982. A reflectance model for computer graphics.ACM Transactions on Graphics 1, 1 (Jan.), 7--24."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-4",
+                "unstructured": "Furfaro, R., and Ganapol, B. 2007. Spectral Theory for Photon Transport in Dense Vegetation Media: Caseology for the Canopy Equation.Transport Theory and Statistical Physics 36, 1, 107--135."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-5",
+                "unstructured": "Heitz, E., and d'Eon, E. 2014. Importance sampling microfacet-based BSDFs using the distribution of visible normals. InProc. Eurographics Symposium on Rendering, 103--112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-6",
+                "unstructured": "Heitz, E., and Dupuy, J. 2015. Implementing a simple anisotropic rough diffuse material with stochastic evaluation. Research report."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-7",
+                "unstructured": "Heitz, E., Dupuy, J., Crassin, C., and Dachsbacher, C. 2015. The SGGX microflake distribution.ACM Transactions on Graphics (Proc. SIGGRAPH) 34, 4, 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-8",
+                "unstructured": "Heitz, E. 2014. Understanding the masking-shadowing function in microfacet-based BRDFs.Journal of Computer Graphics Techniques 3, 2, 32--91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-9",
+                "unstructured": "Heitz, E. 2015. Generating procedural Beckmann surfaces. Research report."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-10",
+                "unstructured": "Hill, S., Mcauley, S., Burley, B., Chan, D., Fascione, L., Iwanicki, M., Hoffman, N., Jakob, W., Neubelt, D., Pesce, A., and Pettineo, M. 2015. Physically based shading in theory and practice. InACM SIGGRAPH Courses.",
+                "DOI": "10.1145/2776880.2787670",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-11",
+                "unstructured": "Jakob, W., Arbree, A., Moon, J. T., Bala, K., and Marschner, S. 2010. A radiative transfer framework for rendering materials with anisotropic structure.ACM Transactions on Graphics (Proc. SIGGRAPH) 29, 4, 53:1--53:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-12",
+                "unstructured": "Jakob, W., d'Eon, E., Jakob, O., and Marschner, S. 2014. A comprehensive framework for rendering layered materials.ACM Transactions on Graphics (Proc. SIGGRAPH) 33, 4, 118:1--118:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-13",
+                "unstructured": "Kelemen, C., and Szirmay-Kalos, L. 2001. A microfacet based coupled specular-matte brdf model with importance sampling. InEurographics short presentations."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-14",
+                "unstructured": "Koenderink, J., Van Doorn, A., Dana, K., and Nayar, S. 1999. Bidirectional reflection distribution function of thoroughly pitted surfaces.International Journal of Computer Vision 31, 2, 129--144."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-15",
+                "unstructured": "Ku&#353;&#269;er, I., and Summerfield, G. C. 1969. Symmetries in scattering of slow neutrons.Phys. Rev. 188, 3 (Dec), 1445--1449."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-16",
+                "unstructured": "Li, H., Pinel, N., and Bourlier, C. 2011. A monostatic illumination function with surface reflections from one-dimensional rough surfaces.Waves in Random and Complex Media 21, 1, 105--134."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-17",
+                "unstructured": "Li, H., Pinel, N., and Bourlier, C. 2013. Polarized infrared reflectivity of one-dimensional gaussian sea surfaces with surface reflections.Appl. Opt. 52, 25 (Sep), 6100--6111."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-18",
+                "unstructured": "Li, H., Pinel, N., and Bourlier, C. 2014. Polarized infrared reflectivity of 2d sea surfaces with two surface reflections.Remote Sensing of Environment 147, 0, 145--155."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-19",
+                "unstructured": "Oren, M., and Nayar, S. K. 1995. Generalization of the lambertian model and implications for machine vision.International Journal of Computer Vision 14, 3, 227--251."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-20",
+                "unstructured": "Pinel, N., Bourlier, C., and Saillard, J. 2005. Energy conservation of the scattering from one-dimensional random rough surfaces in the high-frequency limit.Opt. Lett. 30, 15 (Aug), 2007--2009."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-21",
+                "unstructured": "Raab, M., Seibert, D., and Keller, A. 2008. Unbiased global illumination with participating media. InMonte Carlo and Quasi-Monte Carlo Methods 2006, 591--606."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-22",
+                "unstructured": "Smith, B. 1967. Geometrical shadowing of a random rough surface.IEEE Transactions on Antennas and Propagation 15, 668--671."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-23",
+                "unstructured": "Stam, J. 2001. An illumination model for a skin layer bounded by rough surfaces. InRendering Techniques, 39--52."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-24",
+                "unstructured": "Torrance, K. E., and Sparrow, E. M. 1967. Theory for off-specular reflection from roughened surfaces.Journal of the Optical Society of America (JOSA) 57, 9, 1105--1112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-25",
+                "unstructured": "Walter, B., Marschner, S. R., Li, H., and Torrance, K. E. 2007. Microfacet models for refraction through rough surfaces. InProc. Eurographics Symposium on Rendering, 195--206."
+            },
+            {
+                "key": "key-10.1145/2897824.2925943-26",
+                "unstructured": "Williams, M. M. R. 1978. Transport theory in anisotropic media. InMathematical Proceedings of the Cambridge Philosophical Society, vol. 84, Cambridge Univ Press, 549--567.",
+                "DOI": "10.1017/S0305004100055377",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925943&amp;ftid=1755849&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T18:12:16Z",
+            "timestamp": 1498327936000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925943",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

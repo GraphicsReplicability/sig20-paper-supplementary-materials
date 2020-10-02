@@ -1,0 +1,290 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:32Z",
+            "timestamp": 1575507212509
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "FP7 608775"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601197",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "PushPull++"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Markus",
+                "family": "Lipp",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Pascal",
+                "family": "M\u00fcller",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601197-1",
+                "unstructured": "Autodesk, 2014. Autocad, http://www.autodesk.com/autocad."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-2",
+                "unstructured": "Autodesk, 2014. Maya, http://www.autodesk.com/maya."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-3",
+                "unstructured": "Baumgart, B. G. 1974.Geometric modeling for computer vision. PhD thesis, Stanford, CA, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-4",
+                "unstructured": "Bernstein, G., and Wojtan, C. 2013. Putting holes in holey geometry: Topology change for arbitrary surfaces.ACM TOG 32, 4, 34:1--34:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-5",
+                "unstructured": "Bokeloh, M., Wand, M., Koltun, V., and Seidel, H.-P. 2011. Pattern-aware shape deformation using sliding dockers.ACM TOG 30, 6, 123:1--123:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-6",
+                "unstructured": "Bokeloh, M., Wand, M., Seidel, H.-P., and Koltun, V. 2012. An algebraic model for parameterized shape editing.ACM TOG 31, 4, 78:1--78:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-7",
+                "unstructured": "Botsch, M., and Sorkine, O. 2008. On linear variational surface deformation methods.IEEE Trans. on Visualization and Computer Graphics, 1, 213--230.",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-8",
+                "unstructured": "Botsch, M., Pauly, M., Kobbelt, L., Alliez, P., L&#233;vy, B., Bischoff, S., and R&#246;ssl, C. 2007. Geometric modeling based on polygonal meshes. InACM SIGGRAPH courses.",
+                "DOI": "10.1145/1281500.1281640",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-9",
+                "unstructured": "Bouaziz, S., Deuss, M., Schwartzburg, Y., T. Weise, T., and Pauly, M. 2012. Shape-up: Shaping discrete geometry with projections.Comp. Graph. Forum 31, 5, 1657--1667."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-10",
+                "unstructured": "Cabral, M., Lefebvre, S., Dachsbacher, C., and Drettakis, G. 2009. Structure preserving reshape for textured architectural scenes.Comp. Graph. Forum 28, 469--480."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-11",
+                "unstructured": "Deng, B., Bouaziz, S., Deuss, M., Zhang, J., Schwartzburg, Y., and Pauly, M. 2013. Exploring local modifications for constrained meshes.Comp. Graph. Forum 32, 2, 11--20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-12",
+                "unstructured": "Foley, J. 1996.Computer graphics: principles and practice. Addison-Wesley Professional."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-13",
+                "unstructured": "Gal, R., Sorkine, O., Mitra, N., and Cohen-Or, D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation.ACM TOG 28, 3, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-14",
+                "unstructured": "Habbecke, M., and Kobbelt, L. 2012. Linear analysis of nonlinear constraints for interactive geometric modeling. InComp. Graph. Forum, vol. 31, 641--650."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-15",
+                "unstructured": "Havemann, S., and Fellner, D. 2005.Generative mesh modeling. PhD thesis, Technische Universit&#228;t Braunschweig."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-16",
+                "unstructured": "Kelly, T., and Wonka, P. 2011. Interactive architectural modeling with procedural extrusions.ACM TOG 30, 2, 14:1--14:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-17",
+                "unstructured": "Kobbelt, L., Campagna, S., Vorsatz, J., and Seidel, H. 1998. Interactive multi-resolution modeling on arbitrary meshes. InProceedings of Computer graphics and interactive techniques, 105--114."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-18",
+                "unstructured": "Kraevoy, V., Sheffer, A., Shamir, A., and Cohen-Or, D. 2008. Non-homogeneous resizing of complex models.ACM TOG 27, 5, 111:1--111:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-19",
+                "unstructured": "Kripac, J., 2005. Controlled face dragging in solid models. US Patent 6,867,771."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-20",
+                "unstructured": "Sasaki, N., Chen, H., Sakamoto, D., and Igarashi, T. 2013. Facetons: face primitives with adaptive bounds for building 3d architectural models in virtual environment. InProc. of the 19th ACM Sym. on VR Software and Technology, 77--82."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-21",
+                "unstructured": "Schell, B., Esch, J., and Ulmer, J., 2003. System and method for three-dimensional modeling. US Patent 6,628,279."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-22",
+                "unstructured": "Shapiro, V. 2002. Solid modeling.Handbook of computer aided geometric design 20, 473--518."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-23",
+                "unstructured": "Trimble, 2013. Sketchup, www.sketchup.com."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-24",
+                "unstructured": "Vaxman, A. 2012. Modeling polyhedral meshes with affine maps.Comp. Graph. Forum 31, 5, 1647--1656."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-25",
+                "unstructured": "Yang, Y., Yang, Y., Pottmann, H., and Mitra, N. 2011. Shape space exploration of constrained meshes.ACM TOG 30, 6, 124:1--124:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-26",
+                "unstructured": "Zeleznik, R., Herndon, K., and Hughes, J. 1996. Sketch: An interface for sketching 3d scenes. InProc. of SIGGRAPH 96, 163--170.",
+                "DOI": "10.1145/237170.237238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-27",
+                "unstructured": "Zheng, Y., Fu, H., Cohen-Or, D., Au, O., and Tai, C. 2011. Component-wise controllers for structure-preserving shape manipulation. InComp. Graph. Forum, vol. 30, 563--572."
+            },
+            {
+                "key": "key-10.1145/2601097.2601197-28",
+                "unstructured": "Zorin, D., Schr&#246;der, P., and Sweldens, W. 1997. Interactive multiresolution mesh editing. InProceedings of Computer graphics and interactive techniques, 259--268."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601197&amp;ftid=1488939&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:44Z",
+            "timestamp": 1565663744000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601197",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:01:14Z",
+            "timestamp": 1574816474406
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925965",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 67,
+        "title": [
+            "Efficient and precise interactive hand tracking through joint, continuous optimization of pose and correspondences"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jonathan",
+                "family": "Taylor",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Benjamin",
+                "family": "Luff",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Abertay"
+                    }
+                ]
+            },
+            {
+                "given": "Arran",
+                "family": "Topalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Abertay"
+                    }
+                ]
+            },
+            {
+                "given": "Erroll",
+                "family": "Wood",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Cambridge"
+                    }
+                ]
+            },
+            {
+                "given": "Sameh",
+                "family": "Khamis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pushmeet",
+                "family": "Kohli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Richard",
+                "family": "Banks",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Fitzgibbon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jamie",
+                "family": "Shotton",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Lucas",
+                "family": "Bordeaux",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Thomas",
+                "family": "Cashman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Bob",
+                "family": "Corish",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Cem",
+                "family": "Keskin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Toby",
+                "family": "Sharp",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Eduardo",
+                "family": "Soto",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "McMaster University"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Sweeney",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Julien",
+                "family": "Valentin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Oxford"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925965-1",
+                "unstructured": "3Gear Systems Inc, 2013. Gesture recognizer. http://threegear.com, Jan."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-2",
+                "unstructured": "Athitsos, V., and Sclaroff, S. 2003. Estimating 3D hand pose from a cluttered image. InProc. CVPR, vol. 2, II--432."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-3",
+                "unstructured": "Ballan, L., Taneja, A., Gall, J., Gool, L. V., and Pollefeys, M. 2012. Motion capture of hands in action using discriminative salient points. InProc. ECCV, 640--653."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-4",
+                "unstructured": "Bray, M., Koller-Meier, E., and Van Gool, L. 2004. Smart particle filtering for 3D hand tracking. InProc. Automatic Face and Gesture Recognition, 675--680."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-5",
+                "unstructured": "de La Gorce, M., Fleet, D. J., and Paragios, N. 2011. Model-Based 3D Hand Pose Estimation from Monocular Video.IEEE Trans. PAMI 33, 9, 1793--1805."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-6",
+                "unstructured": "Dipietro, L., Sabatini, A. M., and Dario, P. 2008. A survey of glove-based systems and their applications.IEEE Trans. Systems, Man, and Cybernetics, Part C: Applications and Reviews 38, 4, 461--482."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-7",
+                "unstructured": "Erol, A., Bebis, G., Nicolescu, M., Boyle, R. D., and Twombly, X. 2007. Vision-based hand pose estimation: A review.CVIU 108, 1-2, 52--73.",
+                "DOI": "10.1016/j.cviu.2006.10.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-8",
+                "unstructured": "Fleishman, S., Kliger, M., Lerner, A., and Kutliroff, G. 2015. ICPIK: Inverse kinematics based articulated-ICP. InProc. CVPR Workshops, 28--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-9",
+                "unstructured": "Geman, S., and McClure, D. E. 1987. Statistical methods for tomographic image reconstruction.Bulletin of the International Statistical Institute 52, 4, 5--21."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-10",
+                "unstructured": "Guzm&#225;n-Rivera, A., Kohli, P., Glocker, B., Shotton, J., Sharp, T., Fitzgibbon, A. W., and Izadi, S. 2014. Multi-output learning for camera relocalization. InProc. CVPR, 1114--1121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-11",
+                "unstructured": "Heap, T., and Hogg, D. 1996. Towards 3D hand tracking using a deformable model. InProc. Automatic Face and Gesture Recognition, 140--145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-12",
+                "unstructured": "Intel Corporation, 2016. RealSense SDK. http://software.intel.com/realsense, Jan."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-13",
+                "unstructured": "Jacobson, A., Deng, Z., Kavan, L., and Lewis, J. 2014. Skinning: Real-time shape deformation. InACM SIGGRAPH 2014 Courses, #24."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-14",
+                "unstructured": "Keskin, C., Kira&#231;, F., Kara, Y. E., and Akarun, L. 2012. Hand pose estimation and hand shape classification using multi-layered randomized decision forests. InProc. ECCV, 852--863."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-15",
+                "unstructured": "Khamis, S., Taylor, J., Shotton, J., Keskin, C., Izadi, S., and Fitzgibbon, A. 2015. Learning an efficient model of hand shape variation from depth images. InProc. CVPR, 2540--2548."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-16",
+                "unstructured": "Kim, D., Hilliges, O., Izadi, S., Butler, A. D., Chen, J., Oikonomidis, I., and Olivier, P. 2012. Digits: freehand 3D interactions anywhere using a wrist-worn gloveless sensor. InProc. UIST, 167--176.",
+                "DOI": "10.1145/2380116.2380139",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-17",
+                "unstructured": "Krupka, E., Bar Hillel, A., Klein, B., Vinnikov, A., Freedman, D., and Stachniak, S. 2014. Discriminative ferns ensemble for hand pose recognition. InProc. CVPR, 3670--3677."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-18",
+                "unstructured": "Leap Motion Inc, 2013. Motion Controller. http://leapmotion.com/product, Jan."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-19",
+                "unstructured": "Leap Motion Inc, 2015. Orion. http://developer.leapmotion.com/orion, Feb."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-20",
+                "unstructured": "Li, P., Ling, H., Li, X., and Liao, C. 2015. 3D hand pose estimation using randomized decision forest with segmentation index points. InProc. ICCV, 819--827."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-21",
+                "unstructured": "Loop, C. T. 1987.Smooth Subdivision Surfaces Based on Triangles.Master's thesis, University of Utah."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-22",
+                "unstructured": "Loper, M., Mahmood, N., Romero, J., Pons-Moll, G., and Black, M. J. 2015. SMPL: a skinned multi-person linear model.ACM Trans. Graphics 34, 6, #248."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-23",
+                "unstructured": "Makris, A., Kyriazis, N., and Argyros, A. 2015. Hierarchical particle filtering for 3D hand tracking. InProc. CVPR Workshops, 8--17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-24",
+                "unstructured": "Melax, S., Keselman, L., and Orsten, S. 2013. Dynamics based 3D skeletal hand tracking. InProceedings of the 2013 Graphics Interface Conference, 63--70."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-25",
+                "unstructured": "Mitchell, D. P. 1991. Spectrally optimal sampling for distribution ray tracing. InProc. SIGGRAPH, 157--164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-26",
+                "unstructured": "Monnai, Y., Hasegawa, K., Fujiwara, M., Yoshino, K., Inoue, S., and Shinoda, H. 2014. HaptoMime: Mid-air haptic interaction with a floating virtual screen. InProc. UIST, 663--667."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-27",
+                "unstructured": "Neverova, N., Wolf, C., Nebout, F., and Taylor, G. 2015. Hand pose estimation through weakly-supervised learning of a rich intermediate representation.arXiv preprint 1511.06728."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-28",
+                "unstructured": "Oberweger, M., Wohlhart, P., and Lepetit, V. 2015. Training a feedback loop for hand pose estimation. InProc. ICCV, 3316--3324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-29",
+                "unstructured": "Oikonomidis, I., Kyriazis, N., and Argyros, A. 2011. Efficient model-based 3D tracking of hand articulations using Kinect. InProc. BMVC, 101.1--101.11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-30",
+                "unstructured": "Poier, G., Roditakis, K., Schulter, S., Michel, D., Bischof, H., and Argyros, A. A. 2015. Hybrid one-shot 3D hand pose estimation by exploiting uncertainties. InProc. BMVC, 182.1--182.14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-31",
+                "unstructured": "Qian, C., Sun, X., Wei, Y., Tang, X., and Sun, J. 2014. Realtime and robust hand tracking from depth. InProc. CVPR, 1106--1113."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-32",
+                "unstructured": "Rehg, J. M., and Kanade, T. 1994. Visual tracking of high DOF articulated structures: an application to human hand tracking. InProc. ECCV, 35--46.",
+                "DOI": "10.1007/BFb0028333",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-33",
+                "unstructured": "Sharp, T., Keskin, C., Robertson, D., Taylor, J., Shotton, J., Kim, D., Rhemann, C., Leichter, I., Vinnikov, A., Wei, Y., Freedman, D., Kohli, P., Krupka, E., Fitzgibbon, A., and Izadi, S. 2015. Accurate, robust, and flexible realtime hand tracking. InProc. CHI, 3633--3642."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-34",
+                "unstructured": "Shotton, J., Fitzgibbon, A., Cook, M., Sharp, T., Finocchio, M., Moore, R., Kipman, A., and Blake, A. 2011. Real-time human pose recognition in parts from a single depth image. InProc. CVPR, 1297--1304."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-35",
+                "unstructured": "Shotton, J., Sharp, T., Kohli, P., Nowozin, S., Winn, J., and Criminisi, A. 2013. Decision jungles: Compact and rich models for classification. InNIPS, 234--242."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-36",
+                "unstructured": "Sridhar, S., Oulasvirta, A., and Theobalt, C. 2013. Interactive markerless articulated hand motion tracking using RGB and depth data. InProc. ICCV, 2456--2463."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-37",
+                "unstructured": "Sridhar, S., Rhodin, H., Seidel, H.-P., Oulasvirta, A., and Theobalt, C. 2014. Real-time hand tracking using a sum of anisotropic Gaussians model. InProc. 3DV, 319--326."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-38",
+                "unstructured": "Sridhar, S., Mueller, F., Oulasvirta, A., and Theobalt, C. 2015. Fast and robust hand tracking using detection-guided optimization. InProc. CVPR, 3213--3221."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-39",
+                "unstructured": "Stenger, B., Mendon&#231;a, P. R., and Cipolla, R. 2001. Model-based 3D tracking of an articulated hand. InProc. CVPR, vol. 2, II--310."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-40",
+                "unstructured": "Sun, X., Wei, Y., Liang, S., Tang, X., and Sun, J. 2015. Cascaded hand pose regression. InProc. CVPR, 824--832."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-41",
+                "unstructured": "Tagliasacchi, A., Schr&#246;der, M., Tkach, A., Bouaziz, S., Botsch, M., and Pauly, M. 2015. Robust articulated-ICP for real-time hand tracking.Computer Graphics Forum 34, 5, 101--114."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-42",
+                "unstructured": "Tan, D. J., Cashman, T., Taylor, J., Fitzgibbon, A., Tarlow, D., Khamis, S., Izadi, S., and Shotton, J. 2016. Fits like a glove: Rapid and reliable hand shape personalization. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2016.605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-43",
+                "unstructured": "Tang, D., Yu, T.-H., and Kim, T.-K. 2013. Real-time articulated hand pose estimation using semi-supervised transductive regression forests. InProc. ICCV, 3224--3231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-44",
+                "unstructured": "Tang, D., Taylor, J., Kohli, P., Keskin, C., Kim, T.-K., and Shotton, J. 2015. Opening the black box: Hierarchical sampling optimization for estimating human hand pose. InProc. ICCV, 3325--3333.",
+                "DOI": "10.1109/ICCV.2015.380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-45",
+                "unstructured": "Taylor, J., Shotton, J., Sharp, T., and Fitzgibbon, A. 2012. The Vitruvian Manifold: Inferring dense correspondences for one-shot human pose estimation. InProc. CVPR, 103--110.",
+                "DOI": "10.1109/CVPR.2012.6247664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-46",
+                "unstructured": "Taylor, J., Stebbing, R., Ramakrishna, V., Keskin, C., Shotton, J., Izadi, S., Hertzmann, A., and Fitzgibbon, A. 2014. User-specific hand modeling from monocular depth sequences. InProc. CVPR, 644--651."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-47",
+                "unstructured": "Tejani, A., Tang, D., Kouskouridas, R., and Kim, T.-K. 2014. Latent-class Hough forests for 3D object detection and pose estimation. InProc. ECCV, 462--477."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-48",
+                "unstructured": "Tompson, J., Stein, M., Lecun, Y., and Perlin, K. 2014. Real-time continuous pose recovery of human hands using convolutional networks.ACM Trans. Graphics 33, 5, #169."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-49",
+                "unstructured": "Triggs, W., McLauchlan, P., Hartley, R., and Fitzgibbon, A. 2000. Bundle adjustment --- A modern synthesis. InVision Algorithms: Theory and Practice, LNCS. 298--372.",
+                "DOI": "10.1007/3-540-44480-7_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-50",
+                "unstructured": "Tzionas, D., Ballan, L., Srikantha, A., Aponte, P., Pollefeys, M., and Gall, J. 2015. Capturing hands in action using discriminative salient points and physics simulation.arXiv preprint 1506.02178."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-51",
+                "unstructured": "Ultrahaptics Ltd, 2013. Haptics System. http://ultrahaptics.com, Jan. Valentin, J., Dai, A., Niessner, M., Kohli, P., Torr, P., Izadi, S., and Keskin, C. 2016. Learning to navigate the energy landscape.arXiv preprint 1603.05772."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-52",
+                "unstructured": "Vicente, S., and Agapito, L. 2013. Balloon shapes: reconstructing and deforming objects with volume from images. InProc. 3DV, 223--230."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-53",
+                "unstructured": "Wang, R. Y., and Popovi&#263;, J. 2009. Real-time hand-tracking with a color glove.ACM Trans. Graphics 28, 3, #63."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-54",
+                "unstructured": "Wang, R., Paris, S., and Popovi&#263;, J. 2011. 6D hands. InProc. UIST, 549--558."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-55",
+                "unstructured": "Wang, Y., Min, J., Zhang, J., Liu, Y., Xu, F., Dai, Q., and Chai, J. 2013. Video-based hand manipulation capture through composite motion control.ACM Trans. Graphics 32, 4 (July), 43:1--43:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-56",
+                "unstructured": "Wu, Y., and Huang, T. S. 2000. View-independent recognition of hand postures. InProc. CVPR, vol. 2, 88--94."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-57",
+                "unstructured": "Wu, Y., Lin, J. Y., and Huang, T. S. 2001. Capturing natural hand articulation. InProc. ICCV, vol. 2, 426--432."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-58",
+                "unstructured": "Xu, C., and Cheng, L. 2013. Efficient hand pose estimation from a single depth image. InProc. ICCV, 3456--3462."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-59",
+                "unstructured": "Zach, C. 2014. Robust bundle adjustment revisited. InProc. ECCV, 772--787."
+            },
+            {
+                "key": "key-10.1145/2897824.2925965-60",
+                "unstructured": "Zhao, W., Chai, J., and Xu, Y.-Q. 2012. Combining marker-based mocap and RGB-D camera for acquiring high-fidelity hand motion data. InProc. Symposium on Computer Animation, 33--42."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925965&amp;ftid=1755881&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:22Z",
+            "timestamp": 1568162962000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925965",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

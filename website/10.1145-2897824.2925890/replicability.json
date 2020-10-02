@@ -1,0 +1,86 @@
+{
+    "Timestamp": "12/30/2019 23:22:50",
+    "Title": "Bijective Maps from Simplicial Foliations",
+    "DOI": "10.1145/2897824.2925890",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://www.graphics.rwth-aachen.de/media/papers/Campen2016_SimplicialFoliations_9vLSbPA.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Mesh geometry models",
+    "ACM 2": "Volumetric models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 16,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "The algorithm seems rather easy to implement (a couple of self-contained lines) but only produce the direction field. But hidden behind this simplicity are less trivial tricks (e.g., the paper mentions that the choice of the next free simplex is guided by a harmonic field, which requires solving a linear system ; the field is further processed by a Laplacian smoothing operator...), which is why I didn't rate the algorithm higher in simplicity.",
+    "Software Type": "",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 3,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Marcel",
+            "family": "Campen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Cl\u00e1udio T.",
+            "family": "Silva",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Denis",
+            "family": "Zorin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849994
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1409286"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201310",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Foldsketch"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Minchen",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Vining",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201310-1",
+                "unstructured": "Janet Arnold. 1985.Patterns of Fashion: The cut and construction of clothes for men and women c1560-1620.Macmillan."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-2",
+                "unstructured": "Uri M Ascher and Chen Greif. 2011.A First Course on Numerical Methods.SIAM.",
+                "DOI": "10.1137/1.9780898719987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-3",
+                "unstructured": "Aric Bartle, Alla Sheffer, Vladimir G. Kim, Danny M. Kaufman, Nicholas Vining, and Floraine Berthouzoz. 2016. Physics-driven Pattern Adjustment for Direct 3D Garment Editing.ACM Trans. Graph.35, 4, Article 50 (2016), 50:1--50:11 pages.",
+                "DOI": "10.1145/2897824.2925896",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-4",
+                "unstructured": "Dimitri P Bertsekas. 1999.Nonlinear programming.Athena scientific Belmont."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-5",
+                "unstructured": "R. Bridson, S. Marino, and R. Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. InProc. Symposium on Computer Animation.28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-6",
+                "unstructured": "Remi Brouet, Alla Sheffer, Laurence Boissieux, and Marie-Paule Cani. 2012. Design Preserving Garment Transfer.ACM Trans. Graph.31, 4, Article 36 (2012), 36:1--36:11 pages.",
+                "DOI": "10.1145/2185520.2335387",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-7",
+                "unstructured": "Solutions Pte Ltd. Browzwear. 2017. Browzwear. https://browzwear.com/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-8",
+                "unstructured": "Virtual Fashion Inc. CLO. 2017. Marvelous Designer. https://www.marvelousdesigner.com/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-9",
+                "unstructured": "Frederic Cordier, Hyewon Seo, and Nadia Magnenat-Thalmann. 2003. Made-to-measure technologies for an online clothing store.IEEE Computer graphics and applications23, 1 (2003), 38--48.",
+                "DOI": "10.1109/MCG.2003.1159612",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-10",
+                "unstructured": "Keenan Crane, Mathieu Desbrun, and Peter Schr&#246;der. 2010. Trivial Connections on Discrete Surfaces.Computer Graphics Forum29, 5 (2010), 1525--1533.",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-11",
+                "unstructured": "Chris De Paoli and Karan Singh. 2015. SecondSkin: sketch-based construction of layered 3D models.ACM Transactions on Graphics (TOG)34, 4 (2015), 126.",
+                "DOI": "10.1145/2766948",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-12",
+                "unstructured": "Philippe Decaudin, Dan Julius, Jamie Wither, Laurence Boissieux, Alla Sheffer, and Marie-Paule Cani. 2006. Virtual garments: A fully geometric approach for clothing design. InComputer Graphics Forum, Vol. 25. 625--634.",
+                "DOI": "10.1111/j.1467-8659.2006.00982.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-13",
+                "unstructured": "Optitex EFI. 2017. OptiTex PDS. http://optitex.com/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-14",
+                "unstructured": "Marzia Fontana, Alberto Carubelli, Caterina Rizzi, and Umberto Cugini. 2005. ClothAssembler: a CAD module for feature-based garment pattern assembly.Computer-Aided Design and Applications2, 6 (2005), 795--804.",
+                "DOI": "10.1080/16864360.2005.10738343",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-15",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#238;t Jacob, et al. 2010. Eigen v3. http://eigen.tuxfamily.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-16",
+                "unstructured": "Karolyn Kiisel. 2013.Draping: the complete course.Laurence King Publishing."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-17",
+                "unstructured": "Tsz-Ho Kwok, Yan-Qiu Zhang, Charlie CL Wang, Yong-Jin Liu, and Kai Tang. 2016. Styling evolution for tight-fitting garments.IEEE transactions on visualization and computer graphics22, 5 (2016), 1580--1591.",
+                "DOI": "10.1109/TVCG.2015.2446472",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-18",
+                "unstructured": "Changjian Li, Hao Pan, Yang Liu, Alla Sheffer, and Wenping Wang. 2017. BendSketch: Modeling Freeform Surfaces Through 2D Sketching.ACM Trans. Graph. (SIGGRAPH)36, 4 (2017), 125:1--125:14.",
+                "DOI": "10.1145/3072959.3073632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-19",
+                "unstructured": "Jituo Li and Guodong Lu. 2014. Modeling 3D garments by examples.Computer-Aided Design49 (2014), 28--41.",
+                "DOI": "10.1016/j.cad.2013.12.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-20",
+                "unstructured": "Ligang Liu, Lei Zhang, Yin Xu, Craig Gotsman, and Steven J. Gortler. 2008. A Local/Global Approach to Mesh Parameterization.Computer Graphics Forum27, 5 (2008), 1495--1504.",
+                "DOI": "10.1111/j.1467-8659.2008.01290.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-21",
+                "unstructured": "Yuwei Meng, PY Mok, and Xiaogang Jin. 2010. Interactive virtual try-on clothing design systems.Computer-Aided Design42, 4 (2010), 310--321.",
+                "DOI": "10.1016/j.cad.2009.12.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-22",
+                "unstructured": "Rahul Narain, Tobias Pfaff, and James F. O'Brien. 2013. Folding and Crumpling Adaptive Sheets.ACM Trans. Graph.32, 4, Article 51 (2013), 51:1--51:8 pages.",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-23",
+                "unstructured": "Rahul Narain, Armin Samii, and James F. O'Brien. 2012. Adaptive Anisotropic Remeshing for Cloth Simulation.ACM Trans. Graph.31, 6, Article 152 (2012), 152:1--152:10 pages.",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-24",
+                "unstructured": "Ulrich Pinkall and Konrad Polthier. 1993. Computing Discrete Minimal Surfaces and Their Conjugates.Experimental Mathematics2, 1 (1993), 15--36.",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-25",
+                "unstructured": "Tiberiu Popa, Quan Zhou, Derek Bradley, Vladislav Kraevoy, Hongbo Fu, Alla Sheffer, and Wolfgang Heidrich. 2009. Wrinkling Captured Garments Using Space-Time Data-Driven Deformation. InComputer Graphics Forum, Vol. 28. 427--435.",
+                "DOI": "10.1111/j.1467-8659.2009.01382.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-26",
+                "unstructured": "Nicolas Ray, Bruno Vallet, Laurent Alonso, and Bruno Levy. 2009. Geometry-aware Direction Field Processing.ACM Trans. Graph.29, 1, Article 1 (2009), 1:1--1:11 pages.",
+                "DOI": "10.1145/1640443.1640444",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-27",
+                "unstructured": "Cody Robson, Ron Maharik, Alla Sheffer, and Nathan Carr. 2011. Context-aware Garment Modeling from Sketches.Comput. Graph.35, 3 (2011), 604--613.",
+                "DOI": "10.1016/j.cag.2011.03.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-28",
+                "unstructured": "Damien Rohmer, Tiberiu Popa, Marie-Paule Cani, Stefanie Hahmann, and Alla Sheffer. 2010. Animation Wrinkling: Augmenting Coarse Cloth Simulations with Realistic-looking Wrinkles.ACM Trans. Graph.29, 6, Article 157 (2010), 157:1--157:8 pages.",
+                "DOI": "10.1145/1882261.1866183",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-29",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible surface modeling. InSymposium on Geometry processing, Vol. 4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-30",
+                "unstructured": "Robert W. Sumner and Jovan Popovi&#263;. 2004. Deformation Transfer for Triangle Meshes.ACM Trans. Graph.23, 3 (2004), 399--405.",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-31",
+                "unstructured": "Emmanuel Turquin, Marie-Paule Cani, and John Hughes. 2004. Sketching garments for virtual characters. InEurographics Workshop on Sketch-Based Interfaces and Modeling.Eurographics, Grenoble, France."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-32",
+                "unstructured": "Emmanuel Turquin, Jamie Wither, Laurence Boissieux, Marie-Paule Cani, and John F. Hughes. 2007. A Sketch-Based Interface for Clothing Virtual Characters.IEEE Comput. Graph. Appl.27, 1 (2007), 72--81.",
+                "DOI": "10.1109/MCG.2007.1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-33",
+                "unstructured": "Nobuyuki Umetani, Danny M. Kaufman, Takeo Igarashi, and Eitan Grinspun. 2011. Sensitive Couture for Interactive Garment Modeling and Editing.ACM Trans. Graph.30, 4, Article 90 (2011), 90:1--90:12 pages.",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-34",
+                "unstructured": "Pascal Volino, Frederic Cordier, and Nadia Magnenat-Thalmann. 2005. From Early Virtual Garment Simulation to Interactive Fashion Design.Comput. Aided Des.37, 6 (2005), 593--608.",
+                "DOI": "10.1016/j.cad.2004.09.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-35",
+                "unstructured": "Charlie CL Wang, Yu Wang, and Matthew MF Yuen. 2003. Feature based 3D garment design through 2D sketches.Computer-Aided Design35, 7 (2003), 659--672."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-36",
+                "unstructured": "Charlie CL Wang, Yu Wang, and Matthew MF Yuen. 2005. Design automation for customized apparel products.Computer-aided design37, 7 (2005), 675--691."
+            },
+            {
+                "key": "key-10.1145/3197517.3201310-37",
+                "unstructured": "E. Zhang, J. Hays, and G. Turk. 2007. Interactive Tensor Field Design and Visualization on Surfaces.IEEE Transactions on Visualization and Computer Graphics13, 1 (2007), 94--107.",
+                "DOI": "10.1109/TVCG.2007.16",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201310&ftid=1991607&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:16Z",
+            "timestamp": 1571673436000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "enriching garments with physically reproducible folds"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201310",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

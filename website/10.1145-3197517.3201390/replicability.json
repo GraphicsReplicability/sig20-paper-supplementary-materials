@@ -1,0 +1,88 @@
+{
+    "Timestamp": "1/4/2020 2:13:13",
+    "Title": "Optimizing for aesthetically pleasing qadrotor camera motion",
+    "DOI": "10.1145/3197517.3201390",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://arxiv.org/abs/1906.11686",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://ait.ethz.ch/projects/2018/optimize-quad-cam-motion/downloads/gebhardt2018.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Robotic planning",
+    "ACM 2": "Motion path planning",
+    "ACM 3": "Computer graphics",
+    "ACM 4": "Robotics",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 9,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://ait.ethz.ch/projects/2018/optimize-quad-cam-motion/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Christoph",
+            "family": "Gebhardt",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "ETH Z\u00fcrich"
+                }
+            ]
+        },
+        {
+            "given": "Stefan",
+            "family": "Stev\u0161i\u0107",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Z\u00fcrich"
+                }
+            ]
+        },
+        {
+            "given": "Otmar",
+            "family": "Hilliges",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Z\u00fcrich"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.5,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=62788299"
+}

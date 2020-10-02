@@ -1,0 +1,414 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:54:54Z",
+            "timestamp": 1574816094229
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925961",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "AutoHair"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Menglei",
+                "family": "Chai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Tianjia",
+                "family": "Shao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hongzhi",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Yanlin",
+                "family": "Weng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925961-1",
+                "unstructured": "Balan, A. O., Sigal, L., Black, M. J., Davis, J. E., and Haussecker, H. W. 2007. Detailed human shape and pose from images. InCVPR, 1--8.",
+                "DOI": "10.1109/CVPR.2007.383340",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-2",
+                "unstructured": "Blanz, V., and Vetter, T. 1999. A morphable model for the synthesis of 3D faces. InProc. SIGGRAPH '99, 187--194."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-3",
+                "unstructured": "Bookstein, F. L. 1989. Principal warps: thin-plate splines and the decomposition of deformations.Trans. PAMI 11, 6, 567--585."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-4",
+                "unstructured": "Cao, X., Wei, Y., Wen, F., and Sun, J. 2012. Face alignment by explicit shape regression. InCVPR, 2887--2894."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-5",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Yu, Y., Guo, B., and Zhou, K. 2012. Single-view hair modeling for portrait manipulation.ACM Trans. Graph. 31, 4, 116:1--116:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-6",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Jin, X., and Zhou, K. 2013. Dynamic hair manipulation in images and videos.ACM Trans. Graph. 32, 4, 75:1--75:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-7",
+                "unstructured": "Chai, M., Luo, L., Sunkavalli, K., Carr, N., Hadap, S., and Zhou, K. 2015. High-quality hair modeling from a single portrait photo.ACM Trans. Graph. 34, 6, 204:1--204:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-8",
+                "unstructured": "Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., and Yuille, A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected CRFs. InICLR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-9",
+                "unstructured": "Cheng, M.-M., Zheng, S., Lin, W.-Y., Vineet, V., Sturgess, P., Crook, N., Mitra, N. J., and Torr, P. 2014. Imagespirit: Verbal guided image parsing.ACM Trans. Graph. 34, 1, 3:1--3:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-10",
+                "unstructured": "Dai, J., He, K., and Sun, J. 2015. BoxSup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation. InICCV, 1635--1643.",
+                "DOI": "10.1109/ICCV.2015.191",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-11",
+                "unstructured": "Desbrun, M., Meyer, M., Schr&#246;der, P., and Barr, A. H. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. InProc. SIGGRAPH '99, 317--324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-12",
+                "unstructured": "Echevarria, J. I., Bradley, D., Gutierrez, D., and Beeler, T. 2014. Capturing and stylizing hair for 3D fabrication.ACM Trans. Graph. 33, 4, 125:1--125:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-13",
+                "unstructured": "Electronic Arts, 2014. The Sims Resource. http://www.thesimsresource.com/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-14",
+                "unstructured": "Forney Jr, G. D. 1973. The Viterbi algorithm.Proceedings of the IEEE 61, 3, 268--278."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-15",
+                "unstructured": "Gephi, 2016. The Open Graph Viz Platform. https://gephi.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-16",
+                "unstructured": "Girshick, R., Donahue, J., Darrell, T., and Malik, J. 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. InCVPR, 580--587."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-17",
+                "unstructured": "Herrera, T. L., Zinke, A., and Weber, A. 2012. Lighting hair from the inside: A thermal approach to hair reconstruction.ACM Trans. Graph. 31, 6, 146:1--146:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-18",
+                "unstructured": "Hu, L., Ma, C., Luo, L., and Li, H. 2014. Robust hair capture using simulated examples.ACM Trans. Graph. 33, 4, 126:1--126:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-19",
+                "unstructured": "Hu, L., Ma, C., Luo, L., Wei, L.-Y., and Li, H. 2014. Capturing braided hairstyles.ACM Trans. Graph. 33, 6, 225:1--225:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-20",
+                "unstructured": "Hu, L., Ma, C., Luo, L., and Li, H. 2015. Single-view hair modeling using a hairstyle database.ACM Trans. Graph. 34, 4, 125:1--125:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-21",
+                "unstructured": "Huang, J., Shi, X., Liu, X., Zhou, K., Wei, L.-Y., Teng, S.-H., Bao, H., Guo, B., and Shum, H.-Y. 2006. Subspace gradient domain mesh deformation.ACM Trans. Graph. 25, 3, 1126--1134."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-22",
+                "unstructured": "Huang, S.-S., Shamir, A., Shen, C.-H., Zhang, H., Sheffer, A., Hu, S.-M., and Cohen-Or, D. 2013. Qualitative organization of collections of shapes via quartet analysis.ACM Trans. Graph. 32, 4, 71:1--71:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-23",
+                "unstructured": "Hueting, M., Ovsjanikov, M., and Mitra, N. J. 2015. CrossLink: Joint understanding of image and 3D model collections through shape and camera pose variations.ACM Trans. Graph. 34, 6, 233:1--233:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-24",
+                "unstructured": "Jakob, W., Moon, J. T., and Marschner, S. 2009. Capturing hair assemblies fiber by fiber.ACM Trans. Graph. 28, 5, 164:1--164:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-25",
+                "unstructured": "Jia, Y., 2013. Caffe: An open source convolutional architecture for fast feature embedding.",
+                "DOI": "10.1145/2647868.2654889",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-26",
+                "unstructured": "Karypis, G., and Kumar, V. 1998. A fast and high quality multilevel scheme for partitioning irregular graphs.SIAM Journal on scientific Computing 20, 1, 359--392."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-27",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N. J., DiVerdi, S., and Funkhouser, T. 2012. Exploring collections of 3D models using fuzzy correspondences.ACM Trans. Graph. 31, 4, 54:1--54:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-28",
+                "unstructured": "Kr&#228;henb&#252;hl, P., and Koltun, V. 2011. Efficient inference in fully connected CRFs with Gaussian edge potentials. InNIPS, 109--117."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-29",
+                "unstructured": "Li, Y., Su, H., Qi, C. R., Fish, N., Cohen-Or, D., and Guibas, L. J. 2015. Joint embeddings of shapes and images via CNN image purification.ACM Trans. Graph. 34, 6, 234:1--234:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-30",
+                "unstructured": "Ling, H., and Okada, K. 2007. An efficient earth mover's distance algorithm for robust histogram comparison.Trans. PAMI 29, 5, 840--853."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-31",
+                "unstructured": "Liu, J., Sun, J., and Shum, H.-Y. 2009. Paint selection.ACM Trans. Graph. 28, 3, 69:1--69:7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-32",
+                "unstructured": "Liu, Z., Li, X., Luo, P., Loy, C. C., and Tang, X. 2015. Semantic image segmentation via deep parsing network. InICCV, 1377--1385."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-33",
+                "unstructured": "Lloyd, S. P. 1982. Least squares quantization in PCM.IEEE Transactions on Information Theory 28, 2, 129--137."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-34",
+                "unstructured": "Long, J., Shelhamer, E., and Darrell, T. 2015. Fully convolutional networks for semantic segmentation. InCVPR, 3431--3440."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-35",
+                "unstructured": "Luo, P., Wang, X., and Tang, X. 2012. Hierarchical face parsing via deep learning. InCVPR, 2480--2487."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-36",
+                "unstructured": "Luo, L., Li, H., and Rusinkiewicz, S. 2013. Structure-aware hair capture.ACM Trans. Graph. 32, 4, 76:1--76:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-37",
+                "unstructured": "O'Donovan, P., L&#299;beks, J., Agarwala, A., and Hertzmann, A. 2014. Exploratory font selection using crowdsourced attributes.ACM Trans. Graph. 33, 4, 92:1--92:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-38",
+                "unstructured": "Ovsjanikov, M., Li, W., Guibas, L., and Mitra, N. J. 2011. Exploration of continuous variability in collections of 3D shapes.ACM Trans. Graph. 30, 4, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-39",
+                "unstructured": "Paris, S., Chang, W., Kozhushnyan, O. I., Jarosz, W., Matusik, W., Zwicker, M., and Durand, F. 2008. Hair photobooth: Geometric and photometric acquisition of real hairstyles.ACM Trans. Graph. 27, 3, 30:1--30:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-40",
+                "unstructured": "Rabinovich, A., Vedaldi, A., Galleguillos, C., Wiewiora, E., and Belongie, S. 2007. Objects in context. InICCV, 1--8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-41",
+                "unstructured": "Ren, S., He, K., Girshick, R., and Sun, J. 2015. Faster R-CNN: Towards real-time object detection with region proposal networks. InNIPS, 91--99."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-42",
+                "unstructured": "Selle, A., Lentine, M., and Fedkiw, R. 2008. A mass spring model for hair simulation.ACM Trans. Graph. 27, 3, 64:1--64:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-43",
+                "unstructured": "Shotton, J., Winn, J., Rother, C., and Criminisi, A. 2006. Textonboost: Joint appearance, shape and context modeling for multi-class object recognition and segmentation. InECCV, 1--15.",
+                "DOI": "10.1007/11744023_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-44",
+                "unstructured": "Simonyan, K., and Zisserman, A. 2014. Very deep convolutional networks for large-scale image recognition.arXiv preprint arXiv:1409.1556."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-45",
+                "unstructured": "Smith, B. M., Zhang, L., Brandt, J., Lin, Z., and Yang, J. 2013. Exemplar-based face parsing. InCVPR, 3484--3491."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-46",
+                "unstructured": "Uijlings, J. R., van de Sande, K. E., Gevers, T., and Smeulders, A. W. 2013. Selective search for object recognition.IJCV 104, 2, 154--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-47",
+                "unstructured": "Wang, D., Chai, X., Zhang, H., Chang, H., Zeng, W., and Shan, S. 2011. A novel coarse-to-fine hair segmentation method. InIEEE Automatic Face Gesture Recognition and Workshops, 233--238."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-48",
+                "unstructured": "Ward, K., Bertails, F., Kim, T.-Y., Marschner, S. R., Cani, M.-P., and Lin, M. C. 2007. A survey on hair modeling: Styling, simulation, and rendering.TVCG 13, 2, 213--234."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-49",
+                "unstructured": "Warrell, J., and Prince, S. J. D. 2009. Labelfaces: Parsing facial features by multiclass labeling with an epitome prior. InICIP, 2481--2484.",
+                "DOI": "10.1109/ICIP.2009.5413918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-50",
+                "unstructured": "Weng, Y., Wang, L., Li, X., Chai, M., and Zhou, K. 2013. Hair interpolation for portrait morphing. InComputer Graphics Forum, vol. 32, 79--84."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-51",
+                "unstructured": "Yuksel, C., Schaefer, S., and Keyser, J. 2009. Hair meshes.ACM Trans. Graph. 28, 5, 166:1--166:7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925961-52",
+                "unstructured": "Zheng, S., Jayasumana, S., Romera-Paredes, B., Vineet, V., Su, Z., Du, D., Huang, C., and Torr, P. H. S. 2015. Conditional random fields as recurrent neural networks. InICCV, 1529--1537."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925961&amp;ftid=1755946&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:47:23Z",
+            "timestamp": 1568162843000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "fully automatic hair modeling from a single image"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925961",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

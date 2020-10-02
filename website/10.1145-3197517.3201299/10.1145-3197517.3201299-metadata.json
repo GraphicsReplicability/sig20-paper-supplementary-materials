@@ -1,0 +1,564 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410107
+        },
+        "reference-count": 67,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003422",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Individual Baseline Funding"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201299",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Megapixel adaptive optics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Congli",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Qiang",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Xiong",
+                "family": "Dun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201299-1",
+                "unstructured": "Mariana SC Almeida and Mario Figueiredo. 2013. Deconvolving images with unknown boundaries using the alternating direction method of multipliers. IEEE Trans. Image Process 22, 8 (2013), 3074--3086.",
+                "DOI": "10.1109/TIP.2013.2258354",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-2",
+                "unstructured": "Nicholas Antipa, Sylvia Necula, Ren Ng, and Laura Waller. 2016. Single-shot diffuser-encoded light field imaging. In Proc. ICCP. IEEE, 1--11.",
+                "DOI": "10.1109/ICCPHOT.2016.7492880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-3",
+                "unstructured": "Bradley Atcheson, Ivo Ihrke, Wolfgang Heidrich, Art Tevs, Derek Bradley, Marcus Magnor, and Hans-Peter Seidel. 2008. Time-resolved 3d capture of non-stationary gas flows. ACM Trans. Graph. 27, 5 (2008), 132.",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-4",
+                "unstructured": "Jacques M Beckers. 1988. Increasing the size of the isoplanatic patch with multiconjugate adaptive optics. In Proc. ESOCW, Vol. 30. 693."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-5",
+                "unstructured": "Jacques M Beckers. 1993. Adaptive optics for astronomy: principles, performance, and applications. Annu. Rev. Astron. Astrophys. 31, 1 (1993), 13--62.",
+                "DOI": "10.1146/annurev.aa.31.090193.000305",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-6",
+                "unstructured": "Pascal Berto, Herv&#233; Rigneault, and Marc Guillon. 2017. Wavefront sensing with a thin diffuser. Opt. Lett. 42, 24 (2017), 5117--5120.",
+                "DOI": "10.1364/OL.42.005117",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-7",
+                "unstructured": "S&#233;bastien B&#233;rujon, Eric Ziegler, Roberto Cerbino, and Luca Peverini. 2012. Two-dimensional x-ray beam phase sensing. Phys. Rev. Lett. 108, 15 (2012), 158102.",
+                "DOI": "10.1103/PhysRevLett.108.158102",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-8",
+                "unstructured": "Thomas G Bifano, Julie Perreault, R Krishnamoorthy Mali, and Mark N Horenstein. 1999. Microelectromechanical deformable mirrors. IEEE J. Select. Topics Quantum Electron 5, 1 (1999), 83--89."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-9",
+                "unstructured": "Martin J Booth. 2014. Adaptive optical microscopy: the ongoing quest for a perfect image. Light Sci. Appl. 3, 4 (2014), e165."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-10",
+                "unstructured": "Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, and Jonathan Eckstein. 2011. Distributed optimization and statistical learning via the alternating direction method of multipliers. Foundations and Trends&#174; in Machine Learning 3, 1 (2011), 1--122."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-11",
+                "unstructured": "Thomas Brox, Andr&#233;s Bruhn, Nils Papenberg, and Joachim Weickert. 2004. High accuracy optical flow estimation based on a theory for warping. In Proc. ECCV. Springer, 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-12",
+                "unstructured": "Sunghyun Cho and Seungyong Lee. 2009. Fast motion deblurring. ACM Trans. Graph. 28, 5 (2009), 145.",
+                "DOI": "10.1145/1618452.1618491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-13",
+                "unstructured": "Sunghyun Cho, Jue Wang, and Seungyong Lee. 2011. Handling outliers in non-blind image deconvolution. In Proc. ICCV. IEEE, 495--502.",
+                "DOI": "10.1109/ICCV.2011.6126280",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-14",
+                "unstructured": "Oliver Cossairt and Shree Nayar. 2010. Spectral focal sweep: Extended depth of field from chromatic aberrations. In Proc. ICCP. IEEE, 1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-15",
+                "unstructured": "E Diolaiti, R Ragazzoni, and M Tordi. 2001. Closed loop performance of a layer-oriented multi-conjugate adaptive optics system. Astron. Astrophys 372, 2 (2001), 710--718.",
+                "DOI": "10.1051/0004-6361:20010514",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-16",
+                "unstructured": "Jiangxin Dong, Jinshan Pan, Zhixun Su, and Ming-Hsuan Yang. 2017. Blind Image Deblurring with Outlier Handling. In Proc. CVPR. 2478--2486.",
+                "DOI": "10.1109/ICCV.2017.271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-17",
+                "unstructured": "Edward R Dowski and W Thomas Cathey. 1995. Extended depth of field through wave-front coding. Appl. Opt. 34, 11 (1995), 1859--1866."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-18",
+                "unstructured": "Rob Fergus, Barun Singh, Aaron Hertzmann, Sam T Roweis, and William T Freeman. 2006. Removing camera shake from a single photograph. ACM Trans. Graph. 25, 3 (2006), 787--794.",
+                "DOI": "10.1145/1141911.1141956",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-19",
+                "unstructured": "Enrique J Fern&#225;ndez, Ignacio Iglesias, and Pablo Artal. 2001. Closed-loop adaptive optics in the human eye. Opt. Lett. 26, 10 (2001), 746--748."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-20",
+                "unstructured": "B Hermann, EJ Fern&#225;ndez, A Unterhuber, H Sattmann, AF Fercher, W Drexler, PM Prieto, and P Artal. 2004. Adaptive-optics ultrahigh-resolution optical coherence tomography. Opt. Lett. 29, 18 (2004), 2142--2144.",
+                "DOI": "10.1364/OL.29.002142",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-21",
+                "unstructured": "Berthold KP Horn and Brian G Schunck. 1981. Determining optical flow. Artificial intelligence 17, 1--3 (1981), 185--203."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-22",
+                "unstructured": "Lifa Hu, Li Xuan, Yongjun Liu, Zhaoliang Cao, Dayu Li, and QuanQuan Mu. 2004. Phase-only liquid-crystal spatial light modulator for wave-front correction with high precision. Opt. Express 12, 26 (2004), 6403--6409.",
+                "DOI": "10.1364/OPEX.12.006403",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-23",
+                "unstructured": "Zhe Hu, Sunghyun Cho, Jue Wang, and Ming-Hsuan Yang. 2014. Deblurring low-light images with light streaks. In Proc. CVPR. 3382--3389.",
+                "DOI": "10.1109/CVPR.2014.432",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-24",
+                "unstructured": "Julian Iseringhausen, Bastian Goldl&#252;cke, Nina Pesheva, Stanimir Iliev, Alexander Wender, Martin Fuchs, and Matthias B Hullin. 2017. 4D imaging through spray-on optics. ACM Trans. Graph. 36, 4 (2017), 35.",
+                "DOI": "10.1145/3072959.3073589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-25",
+                "unstructured": "Mooseokjang, Haowen Ruan, Haojiang Zhou, Benjamin Judkewitz, and Changhuei Yang. 2014. Method for auto-alignment of digital optical phase conjugation systems based on digital propagation. Opt. Express 22, 12 (2014), 14054--14071.",
+                "DOI": "10.1364/OE.22.014054",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-26",
+                "unstructured": "Hui Ji and Kang Wang. 2012. Robust image deblurring with an inaccurate blur kernel. IEEE Trans. Image Process. 21, 4 (2012), 1624--1634.",
+                "DOI": "10.1109/TIP.2011.2171699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-27",
+                "unstructured": "Na Ji, Daniel E Milkie, and Eric Betzig. 2010. Adaptive optics via pupil segmentation for high-resolution imaging in biological tissues. Nat. Methods 7, 2 (2010), 141--147.",
+                "DOI": "10.1038/nmeth.1411",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-28",
+                "unstructured": "Dilip Krishnan, Terence Tay, and Rob Fergus. 2011. Blind deconvolution using a normalized sparsity measure. In Proc. CVPR. IEEE, 233--240.",
+                "DOI": "10.1109/CVPR.2011.5995521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-29",
+                "unstructured": "RG Lane, A Glindemann, JC Dainty, et al. 1992. Simulation of a Kolmogorov phase screen. Waves in random media 2, 3 (1992), 209--224.",
+                "DOI": "10.1088/0959-7174/2/3/003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-30",
+                "unstructured": "Anat Levin, Rob Fergus, Fr&#233;do Durand, and William T Freeman. 2007. Image and depth from a conventional camera with a coded aperture. ACM Trans. Graph. 26, 3 (2007), 70.",
+                "DOI": "10.1145/1276377.1276464",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-31",
+                "unstructured": "Anat Levin, Samuel W Hasinoff, Paul Green, Fr&#233;do Durand, and William T Freeman. 2009. 4D frequency analysis of computational cameras for depth of field extension. ACM Trans. Graph. 28, 3 (2009), 97.",
+                "DOI": "10.1145/1531326.1531403",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-32",
+                "unstructured": "Anat Levin, Peter Sand, Taeg Sang Cho, Fr&#233;do Durand, and William T Freeman. 2008. Motion-invariant photography. ACM Trans. Graph. 27, 3 (2008), 71.",
+                "DOI": "10.1145/1360612.1360670",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-33",
+                "unstructured": "Chao Li, Mingliang Xia, Quanquan Mu, Baoguang Jiang, Li Xuan, and Zhaoliang Cao. 2009. High-precision open-loop adaptive optics system based on LC-SLM. Opt. Express 17, 13 (2009), 10774--10781.",
+                "DOI": "10.1364/OE.17.010774",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-34",
+                "unstructured": "Junzhong Liang, David R Williams, and Donald T Miller. 1997. Supernormal vision and high-resolution retinal imaging through adaptive optics. JOSA A 14, 11 (1997), 2884--2892.",
+                "DOI": "10.1364/JOSAA.14.002884",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-35",
+                "unstructured": "Gordon D Love. 1997. Wave-front correction and production of Zernike modes with a liquid-crystal spatial light modulator. Appl. Opt. 36, 7 (1997), 1517--1524.",
+                "DOI": "10.1364/AO.36.001517",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-36",
+                "unstructured": "Enrico Marchetti, Roland Brast, Bernard Delabre, Robert Donaldson, Enrico Fedrigo, Christoph Frank, Norbert Hubin, Johann Kolb, Jean-Louis Lizon, Massimiliano Marchesi, et al. 2007. On-sky testing of the multi-conjugate adaptive optics demonstrator. The Messenger 129, 8 (2007)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-37",
+                "unstructured": "PN Marsh, D Burns, and JM Girkin. 2003. Practical implementation of adaptive optics in multiphoton microscopy. Opt. Express 11, 10 (2003), 1123--1130.",
+                "DOI": "10.1364/OE.11.001123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-38",
+                "unstructured": "Kshitij Marwah, Gordon Wetzstein, Yosuke Bando, and Ramesh Raskar. 2013. Compressive light field photography using overcomplete dictionaries and optimized projections. ACM Trans. Graph. 32, 4 (2013), 46.",
+                "DOI": "10.1145/2461912.2461914",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-39",
+                "unstructured": "Tomer Michaeli and Michal Irani. 2014. Blind deblurring using internal patch recurrence. In Proc. ECCV. Springer, 783--798."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-40",
+                "unstructured": "Kaye S Morgan, David M Paganin, and Karen KW Siu. 2012. X-ray phase imaging with a paper analyzer. Appl. Phys. Lett. 100, 12 (2012), 124102.",
+                "DOI": "10.1063/1.3694918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-41",
+                "unstructured": "Ren Ng. 2005. Fourier slice photography. ACM Trans. Graph. 24, 3 (2005), 735--744.",
+                "DOI": "10.1145/1073204.1073256",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-42",
+                "unstructured": "Ren Ng, Marc Levoy, Mathieu Br&#233;dif, Gene Duval, Mark Horowitz, and Pat Hanrahan. 2005. Light field photography with a hand-held plenoptic camera. CSTR 2, 11 (2005), 1--11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-43",
+                "unstructured": "Jinshan Pan, Deqing Sun, Hanspeter Pfister, and Ming-Hsuan Yang. 2016. Blind image deblurring using dark channel prior. In Proc. CVPR. 1628--1636.",
+                "DOI": "10.1109/CVPR.2016.180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-44",
+                "unstructured": "Julie A Perreault, Thomas G Bifano, B Martin Levine, and Mark N Horenstein. 2002. Adaptive optic correction using microelectromechanical deformable mirrors. Opt. Eng 41, 3 (2002), 561--566."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-45",
+                "unstructured": "J&#233;r&#244;me Primot and Nicolas Gu&#233;rineau. 2000. Extended Hartmann test based on the pseudoguiding property of a Hartmann mask completed by a phase chessboard. Appl. Opt. 39, 31 (2000), 5715--5720.",
+                "DOI": "10.1364/AO.39.005715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-46",
+                "unstructured": "JetLSOGNO Primot and L Sogno. 1995. Achromatic three-wave (or more) lateral shearing interferometer. JOSA A 12, 12 (1995), 2679--2685.",
+                "DOI": "10.1364/JOSAA.12.002679",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-47",
+                "unstructured": "Roberto Ragazzoni. 1996. Pupil plane wavefront sensing with an oscillating prism. J MOD OPTIC 43, 2 (1996), 289--293.",
+                "DOI": "10.1080/09500349608232742",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-48",
+                "unstructured": "Ramesh Raskar, Amit Agrawal, and Jack Tumblin. 2006. Coded exposure photography: motion deblurring using fluttered shutter. ACM Trans. Graph. 25, 3 (2006), 795--804.",
+                "DOI": "10.1145/1141911.1141957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-49",
+                "unstructured": "Hugues Richard and Markus Raffel. 2001. Principle and Applications of the Background Oriented Schlieren (BOS) Method. Meas. Sci. and Techn. (2001), 1576--1585."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-50",
+                "unstructured": "Francois Roddier. 1988. Curvature sensing and compensation: a new concept in adaptive optics. Appl. Opt. 27, 7 (1988), 1223--1225.",
+                "DOI": "10.1364/AO.27.001223",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-51",
+                "unstructured": "Austin Roorda, Fernando Romero-Borja, William J Donnelly III, Hope Queener, Thomas J Hebert, and Melanie CW Campbell. 2002. Adaptive optics scanning laser ophthalmoscopy. Opt. Express 10, 9 (2002), 405--412.",
+                "DOI": "10.1364/OE.10.000405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-52",
+                "unstructured": "Leslie K Saddlemyer, Glen Herriot, Jean-Pierre V&#233;ran, and Murray Fletcher. 1998. Design aspects of the reconstructor for the Gemini Adaptive Optics System (Altair). 3353 (1998), 150--159."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-53",
+                "unstructured": "Roland V Shack and BC Platt. 1971. Production and use of a lenticular Hartmann screen. JOSA A 61, 5 (1971), 656."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-54",
+                "unstructured": "Deqing Sun, Stefan Roth, and Michael J Black. 2010. Secrets of optical flow estimation and their principles. In Proc. CVPR. IEEE, 2432--2439.",
+                "DOI": "10.1109/CVPR.2010.5539939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-55",
+                "unstructured": "Libin Sun, Sunghyun Cho, Jue Wang, and James Hays. 2013. Edge-based blur kernel estimation using patch priors. In Proc. ICCP. IEEE, 1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-56",
+                "unstructured": "Michael Reed Teague. 1983. Deterministic phase retrieval: a Green's function solution. JOSA A 73, 11 (1983), 1434--1441.",
+                "DOI": "10.1364/JOSA.73.001434",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-57",
+                "unstructured": "Fernando Vargas-Martin, Pedro M Prieto, and Pablo Artal. 1998. Correction of the aberrations in the human eye with a liquid-crystal spatial light modulator: limits to performance. JOSA A 15, 9 (1998), 2552--2562.",
+                "DOI": "10.1364/JOSAA.15.002552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-58",
+                "unstructured": "Ashok Veeraraghavan, Ramesh Raskar, Amit Agrawal, Ankit Mohan, and Jack Tumblin. 2007. Dappled photography: Mask enhanced cameras for heterodyned light fields and coded aperture refocusing. ACM Trans. Graph. 26, 3 (2007), 69.",
+                "DOI": "10.1145/1276377.1276463",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-59",
+                "unstructured": "Laura Waller, Shan Shan Kou, Colin JR Sheppard, and George Barbastathis. 2010a. Phase from chromatic aberrations. Opt. Express 18, 22 (2010), 22817--22825.",
+                "DOI": "10.1364/OE.18.022817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-60",
+                "unstructured": "Laura Waller, Lei Tian, and George Barbastathis. 2010b. Transport of intensity phase-amplitude imaging with higher order intensity derivatives. Opt. Express 18, 12 (2010), 12552--12561.",
+                "DOI": "10.1364/OE.18.012552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-61",
+                "unstructured": "Congli Wang, Xiong Dun, Qiang Fu, and Wolfgang Heidrich. 2017. Ultra-high resolution coded wavefront sensor. Opt. Express 25, 12 (2017), 13736--13746.",
+                "DOI": "10.1364/OE.25.013736",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-62",
+                "unstructured": "Li Xu and Jiaya Jia. 2010. Two-phase kernel estimation for robust motion deblurring. In Proc. ECCV. Springer, 157--170.",
+                "DOI": "10.1007/978-3-642-15549-9_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-63",
+                "unstructured": "Li Xu, Shicheng Zheng, and Jiaya Jia. 2013. Unnatural 10 sparse representation for natural image deblurring. In Proc. CVPR. IEEE, 1107--1114."
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-64",
+                "unstructured": "Zhimin Xu, Jun Ke, and Edmund Y Lam. 2012. High-resolution lightfield photography using two masks. Opt. Express 20, 10 (2012), 10971--10983.",
+                "DOI": "10.1364/OE.20.010971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-65",
+                "unstructured": "Yan Zhang, Barry Cense, Jungtae Rha, Ravi S Jonnal, Weihua Gao, Robert J Zawadzki, John S Werner, Steve Jones, Scot Olivier, and Donald T Miller. 2006. High-speed volumetric imaging of cone photoreceptors with adaptive optics spectral-domain optical coherence tomography. Opt. Express 14, 10 (2006), 4380--4394.",
+                "DOI": "10.1364/OE.14.004380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-66",
+                "unstructured": "Changyin Zhou and Shree Nayar. 2009. What are good apertures for defocus deblurring?. In Proc. ICCP. IEEE, 1--8.",
+                "DOI": "10.1109/ICCPHOT.2009.5559018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201299-67",
+                "unstructured": "Lijun Zhu, Pang-Chen Sun, Dirk-Uwe Bartsch, William R Freeman, and Yeshaiahu Fainman. 1999. Adaptive control of a micromachined continuous-membrane deformable mirror for aberration compensation. Appl. Opt. 38, 1 (1999), 168--176.",
+                "DOI": "10.1364/AO.38.000168",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201299&ftid=1991602&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T17:09:39Z",
+            "timestamp": 1533056979000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "towards correcting large-scale distortions in computational cameras"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 67,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201299",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T06:43:14Z",
+            "timestamp": 1579243394700
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Microsoft Research Cambridge",
+                "award": []
+            },
+            {
+                "name": "ERC",
+                "award": [
+                    "335545"
+                ]
+            },
+            {
+                "name": "German Research Foundation (DFG)",
+                "award": [
+                    "GRK-1773"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601165",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 131,
+        "title": [
+            "Real-time non-rigid reconstruction using an RGB-D camera"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Marc",
+                "family": "Stamminger",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Matthias",
+                "family": "Nie\u00dfner",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Christoph",
+                "family": "Rehmann",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Christopher",
+                "family": "Zach",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Matthew",
+                "family": "Fisher",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Chenglei",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Andrew",
+                "family": "Fitzgibbon",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Charles",
+                "family": "Loop",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601165-1",
+                "unstructured": "Beeler, T., Hahn, F., Bradley, D., Bickel, B., Beardsley, P., Gotsman, C., Sumner, R. W., and Gross, M. 2011. High-quality passive facial performance capture using anchor frames.ACM TOG (Proc. SIGGRAPH) 30, 4, 75."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-2",
+                "unstructured": "Blanz, V., and Vetter, T. 1999. A morphable model for the synthesis of 3D faces. InProc. SIGGRAPH, 187--194."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-3",
+                "unstructured": "Bleyer, M., Rhemann, C., and Rother, C. 2011. Patchmatch stereo: Stereo matching with slanted support windows. InProc. BMVC, vol. 11, 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-4",
+                "unstructured": "Bojsen-Hansen, M., Li, H., and Wojtan, C. 2012. Tracking surfaces with evolving topology.ACM Trans. Graph. 31, 4, 53."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-5",
+                "unstructured": "Botsch, M., and Sorkine, O. 2008. On linear variational surface deformation methods.IEEE Trans. Vis. Comp. Graph 14, 1, 213--230.",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-6",
+                "unstructured": "Bradley, D., Popa, T., Sheffer, A., Heidrich, W., and Boubekeur, T. 2008. Markerless garment capture.ACM TOG (Proc. SIGGRAPH) 27, 3, 99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-7",
+                "unstructured": "Brown, B. J., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3D scans.ACM TOG 26, 3, 21--30.",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-8",
+                "unstructured": "Cagniart, C., Boyer, E., and Ilic, S. 2010. Free-form mesh tracking: a patch-based approach. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2010.5539814",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-9",
+                "unstructured": "Cao, C., Weng, Y., Lin, S., and Zhou, K. 2013. 3D shape regression for real-time facial animation.ACM TOG 32, 4, 41."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-10",
+                "unstructured": "Chen, J., Izadi, S., and Fitzgibbon, A. 2012. Kin&#234;tre: animating the world with the human body. InProc. UIST, 435--444."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-11",
+                "unstructured": "de Aguiar, E., Stoll, C., Theobalt, C., Ahmed, N., Seidel, H.-P., and Thrun, S. 2008. Performance capture from sparse multi-view video.ACM TOG (Proc. SIGGRAPH) 27, 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-12",
+                "unstructured": "Dou, M., Fuchs, H., and Frahm, J.-M. 2013. Scanning and tracking dynamic objects with commodity depth cameras. InProc. ISMAR, 99--106."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-13",
+                "unstructured": "Gall, J., Stoll, C., De Aguiar, E., Theobalt, C., Rosenhahn, B., and Seidel, H.-P. 2009. Motion capture using joint skeleton tracking and surface estimation. InProc. CVPR, 1746--1753."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-14",
+                "unstructured": "Garrido, P., Valgaert, L., Wu, C., and Theobalt, C. 2013. Reconstructing detailed dynamic face geometry from monocular video.ACM TOG (Proc. SIGGRAPH Asia) 32, 6, 158."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-15",
+                "unstructured": "Helten, T., Baak, A., Bharaj, G., Muller, M., Seidel, H.-P., and Theobalt, C. 2013. Personalization and evaluation of a real-time depth-based full body tracker. InProc. 3DV, 279--286."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-16",
+                "unstructured": "Hern&#225;ndez, C., Vogiatzis, G., Brostow, G. J., Stenger, B., and Cipolla, R. 2007. Non-rigid photometric stereo with colored lights. InProc. ICCV, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-17",
+                "unstructured": "Izadi, S., Kim, D., Hilliges, O., Molyneaux, D., Newcombe, R., Kohli, P., Shotton, J., Hodges, S., Freeman, D., Davison, A., and Fitzgibbon, A. 2011. KinectFusion: Real-time 3D reconstruction and interaction using a moving depth camera. InProc. UIST, 559--568.",
+                "DOI": "10.1145/2047196.2047270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-18",
+                "unstructured": "Kolb, A., Barth, E., Koch, R., and Larsen, R. 2009. Time-of-flight sensors in computer graphics. InProc. Eurographics State-of-the-art Reports, 119--134."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-19",
+                "unstructured": "Li, H., Sumner, R. W., and Pauly, M. 2008. Global correspondence optimization for non-rigid registration of depth scans. InProc. SGP, Eurographics Association, 1421--1430."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-20",
+                "unstructured": "Li, H., Adams, B., Guibas, L. J., and Pauly, M. 2009. Robust single-view geometry and motion reconstruction.ACM TOG 28, 5, 175."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-21",
+                "unstructured": "Li, H., Vouga, E., Gudym, A., Luo, L., Barron, J. T., and Gusev, G. 2013. 3D self-portraits.ACM TOG 32, 6, 187."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-22",
+                "unstructured": "Li, H., Yu, J., Ye, Y., and Bregler, C. 2013. Realtime facial animation with on-the-fly correctives.ACM Transactions on Graphics 32, 4 (July).",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-23",
+                "unstructured": "Liao, M., Zhang, Q., Wang, H., Yang, R., and Gong, M. 2009. Modeling deformable objects from a single depth camera. InProc. ICCV, 167--174."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-24",
+                "unstructured": "Mitra, N. J., Fl&#246;ry, S., Ovsjanikov, M., Gelfand, N., Guibas, L. J., and Pottmann, H. 2007. Dynamic geometry registration. InProc. SGP, 173--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-25",
+                "unstructured": "Newcombe, R. A., Izadi, S., Hilliges, O., Molyneaux, D., Kim, D., Davison, A. J., Kohli, P., Shotton, J., Hodges, S., and Fitzgibbon, A. 2011. KinectFusion: Real-time dense surface mapping and tracking. InProc. ISMAR, 127--136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-26",
+                "unstructured": "Niessner, M., Zollh&#246;fer, M., Izadi, S., and Stamminger, M. 2013. Real-time 3D reconstruction at scale using voxel hashing.ACM TOG 32, 6, 169."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-27",
+                "unstructured": "Oikonomidis, I., Kyriazis, N., and Argyros, A. A. 2011. Efficient model-based 3D tracking of hand articulations using Kinect. InProc. BMVC, 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-28",
+                "unstructured": "Pradeep, V., Rhemann, C., Izadi, S., Zach, C., Bleyer, M., and Bathiche, S. 2013. MonoFusion: Real-time 3D reconstruction of small scenes with a single web camera. InProc. ISMAR, 83--88.",
+                "DOI": "10.1109/ISMAR.2013.6671767",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-29",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProc. SGP, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-30",
+                "unstructured": "Starck, J., and Hilton, A. 2007. Surface capture for performance-based animation.Computer Graphics and Applications 27, 3, 21--31.",
+                "DOI": "10.1109/MCG.2007.68",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-31",
+                "unstructured": "Sumner, R. W., and Popovi&#263;, J. 2004. Deformation transfer for triangle meshes. InACM SIGGRAPH 2004 Papers, ACM, New York, NY, USA, SIGGRAPH '04, 399--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-32",
+                "unstructured": "Sumner, R. W., Schmid, J., and Pauly, M. 2007. Embedded deformation for shape manipulation.ACM TOG 26, 3, 80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-33",
+                "unstructured": "Taylor, J., Shotton, J., Sharp, T., and Fitzgibbon, A. 2012. The vitruvian manifold: Inferring dense correspondences for one-shot human pose estimation. InProc. CVPR, 103--110.",
+                "DOI": "10.1109/CVPR.2012.6247664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-34",
+                "unstructured": "Tevs, A., Berner, A., Wand, M., Ihrke, I., Bokeloh, M., Kerber, J., and Seidel, H.-P. 2012. Animation cartography-intrinsic reconstruction of shape and motion.ACM TOG 31, 2, 12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-35",
+                "unstructured": "Theobalt, C., de Aguiar, E., Stoll, C., Seidel, H.-P., and Thrun, S. 2010. Performance capture from multi-view video. InImage and Geometry Processing for 3D-Cinematography, R. Ronfard and G. Taubin, Eds. Springer, 127ff.",
+                "DOI": "10.1007/978-3-642-12392-4_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-36",
+                "unstructured": "Tong, J., Zhou, J., Liu, L., Pan, Z., and Yan, H. 2012. Scanning 3D full human bodies using Kinects.TVCG 18, 4, 643--650."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-37",
+                "unstructured": "Valgaerts, L., Wu, C., Bruhn, A., Seidel, H.-P., and Theobalt, C. 2012. Lightweight binocular facial performance capture under uncontrolled lighting.ACM TOG (Proc. SIGGRAPH Asia) 31, 6 (November), 187."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-38",
+                "unstructured": "Vlasic, D., Baran, I., Matusik, W., and Popovi&#263;, J. 2008. Articulated mesh animation from multi-view silhouettes.ACM TOG (Proc. SIGGRAPH).",
+                "DOI": "10.1145/1399504.1360696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-39",
+                "unstructured": "Vlasic, D., Peers, P., Baran, I., Debevec, P., Popovic, J., Rusinkiewicz, S., and Matusik, W. 2009. Dynamic shape capture using multi-view photometric stereo.ACM TOG (Proc. SIGGRAPH Asia) 28, 5, 174."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-40",
+                "unstructured": "Wand, M., Adams, B., Ovsjanikov, M., Berner, A., Bokeloh, M., Jenke, P., Guibas, L., Seidel, H.-P., and Schilling, A. 2009. Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data.ACM TOG 28, 15.",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-41",
+                "unstructured": "Waschb&#252;sch, M., W&#252;rmlin, S., Cotting, D., Sadlo, F., and Gross, M. 2005. Scalable 3D video of dynamic scenes. InProc. Pacific Graphics, 629--638."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-42",
+                "unstructured": "Weber, D., Bender, J., Schnoes, M., Stork, A., and Fellner, D. 2013. Efficient gpu data structures and methods to solve sparse linear systems in dynamics applications.Computer Graphics Forum 32, 1, 16--26.",
+                "DOI": "10.1111/j.1467-8659.2012.03227.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-43",
+                "unstructured": "Wei, X., Zhang, P., and Chai, J. 2012. Accurate realtime full-body motion capture using a single depth camera.ACM TOG 31, 6 (Nov.), 188."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-44",
+                "unstructured": "Weise, T., Wismer, T., Leibe, B., and Gool, L. V. 2009. In-hand scanning with online loop closure. InIEEE International Workshop on 3-D Digital Imaging and Modeling.",
+                "DOI": "10.1109/ICCVW.2009.5457479",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-45",
+                "unstructured": "Weise, T., Li, H., Gool, L. V., and Pauly, M. 2009. Face/off: Live facial puppetry. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer animation (Proc. SCA'09), Eurographics Association, ETH Zurich.",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-46",
+                "unstructured": "Weise, T., Bouaziz, S., Li, H., and Pauly, M. 2011. Realtime performance-based facial animation.ACM TOG 30, 4, 77."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-47",
+                "unstructured": "Weiss, A., Hirshberg, D., and Black, M. J. 2011. Home 3D body scans from noisy image and range data. InProc. ICCV, 1951--1958."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-48",
+                "unstructured": "White, B. S., McKee, S. A., de Supinski, B. R., Miller, B., Quinlan, D., and Schulz, M. 2005. Improving the computational intensity of unstructured mesh applications. InProc. ACM Intl. Conf. on Supercomputing, 341--350."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-49",
+                "unstructured": "Wilamowski, B. M., and Yu, H. 2010. Improved computation for levenberg-marquardt training.IEEE Trans. Neural Networks 21, 6, 930--937.",
+                "DOI": "10.1109/TNN.2010.2045657",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-50",
+                "unstructured": "Wu, C., Stoll, C., Valgaerts, L., and Theobalt, C. 2013. On-set performance capture of multiple actors with a stereo camera.ACM TOG 32, 6, 161."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-51",
+                "unstructured": "Ye, G., Liu, Y., Hasler, N., Ji, X., Dai, Q., and Theobalt, C. 2012. Performance capture of interacting characters with handheld kinects. InProc. ECCV. Springer, 828--841."
+            },
+            {
+                "key": "key-10.1145/2601097.2601165-52",
+                "unstructured": "Zeng, M., Zheng, J., Cheng, X., and Liu, X. 2013. Templateless quasi-rigid shape modeling with implicit loop-closure. InProc. CVPR, 145--152."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601165&amp;ftid=1488965&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:02Z",
+            "timestamp": 1565663762000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601165",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

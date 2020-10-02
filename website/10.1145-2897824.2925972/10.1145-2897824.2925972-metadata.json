@@ -1,0 +1,374 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T06:43:14Z",
+            "timestamp": 1579243394698
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925972",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 55,
+        "title": [
+            "Learning to simplify"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Edgar",
+                "family": "Simo-Serra",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Satoshi",
+                "family": "Iizuka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Kazuma",
+                "family": "Sasaki",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hiroshi",
+                "family": "Ishikawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925972-1",
+                "unstructured": "Bae, S.-H., Balakrishnan, R., and Singh, K. 2008. Ilovesketch: As-natural-as-possible sketching system for creating 3d curve models. InACM Symposium on User Interface Software and Technology, 151--160."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-2",
+                "unstructured": "Barla, P., Thollot, J., and Sillion, F. X. 2005. Geometric clustering for line drawing simplification. InACM SIGGRAPH 2005 Sketches.",
+                "DOI": "10.1145/1187112.1187227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-3",
+                "unstructured": "Bartolo, A., Camilleri, K. P., Fabri, S. G., Borg, J. C., and Farrugia, P. J. 2007. Scribbles to vectors: Preparation of scribble drawings for cad interpretation. InEurographics Workshop on Sketch-based Interfaces and Modeling, 123--130.",
+                "DOI": "10.1145/1384429.1384456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-4",
+                "unstructured": "Baudel, T. 1994. A mark-based interaction paradigm for freehand drawing. InACM Symposium on User Interface Software and Technology, 185--192."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-5",
+                "unstructured": "Chang, H.-H., and Yan, H. 1998. Vectorization of hand-drawn image using piecewise cubic b&#233;zier curves fitting.Pattern Recognition 31, 11, 1747--1755."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-6",
+                "unstructured": "Chen, J., Guennebaud, G., Barla, P., and Granier, X. 2013. Non-oriented mls gradient fields.Computer Graphics Forum 32, 8, 98--109."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-7",
+                "unstructured": "Cole, F., DeCarlo, D., Finkelstein, A., Kin, K., Morley, K., and Santella, A. 2006. Directing gaze in 3d models with stylized focus. InEurographics Conference on Rendering Techniques, 377--387."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-8",
+                "unstructured": "Deussen, O., and Strothotte, T. 2000. Computer-generated pen-and-ink illustration of trees. InConference on Computer Graphics and Interactive Techniques, 13--18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-9",
+                "unstructured": "Dong, C., Loy, C. C., He, K., and Tang, X. 2016. Image super-resolution using deep convolutional networks.PAMI 38, 2, 295--307."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-10",
+                "unstructured": "Dosovitskiy, A., Springenberg, J. T., and Brox, T. 2015. Learning to generate chairs with convolutional neural networks. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298761",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-11",
+                "unstructured": "Fischer, P., Dosovitskiy, A., Ilg, E., H&#228;usser, P., Hazirbas, C., Golkov, V., van der Smagt, P., Cremers, D., and Brox, T. 2015. Flownet: Learning optical flow with convolutional networks.",
+                "DOI": "10.1109/ICCV.2015.316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-12",
+                "unstructured": "Fi&#353;er, J., Asente, P., and S&#253;kora, D. 2015. Shipshape: A drawing beautification assistant. InWorkshop on Sketch-Based Interfaces and Modeling, 49--57."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-13",
+                "unstructured": "Freeman, H. 1974. Computer processing of line-drawing images.ACM Comput. Surv. 6, 1, 57--97."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-14",
+                "unstructured": "Fukushima, K. 1988. Neocognitron: A hierarchical neural network capable of visual pattern recognition.Neural networks 1, 2, 119--130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-15",
+                "unstructured": "Grabli, S., Durand, F., and Sillion, F. 2004. Density measure for line-drawing simplification. InPacific Conference on Computer Graphics and Applications, 2004, 309--318."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-16",
+                "unstructured": "Grimm, C., and Joshi, P. 2012. Just drawit: A 3d sketching system. Innternational Symposium on Sketch-Based Interfaces and Modeling, 121--130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-17",
+                "unstructured": "Hilaire, X., and Tombre, K. 2006. Robust and accurate vectorization of line drawings.PAMI28, 6, 890--904."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-18",
+                "unstructured": "Igarashi, T., Matsuoka, S., Kawachiya, S., and Tanaka, H. 1997. Interactive beautification: A technique for rapid geometric design. InACM Symposium on User Interface Software and Technology, 105--114.",
+                "DOI": "10.1145/263407.263525",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-19",
+                "unstructured": "Ioffe, S., and Szegedy, C. 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. InICML."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-20",
+                "unstructured": "Janssen, R. D., and Vossepoel, A. M. 1997. Adaptive vectorization of line drawing images.Computer Vision and Image Understanding 65, 1, 38--56."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-21",
+                "unstructured": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. 2012. Imagenet classification with deep convolutional neural networks. InNIPS."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-22",
+                "unstructured": "LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. 1998. Gradient-based learning applied to document recognition.Proceedings of the IEEE 86, 11, 2278--2324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-23",
+                "unstructured": "Lindlbauer, D., Haller, M., Hancock, M. S., Scott, S. D., and Stuerzlinger, W. 2013. Perceptual grouping: selection assistance for digital sketching. InInternational Conference on Interactive Tabletops and Surfaces, 51--60.",
+                "DOI": "10.1145/2512349.2512801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-24",
+                "unstructured": "Liu, X., Wong, T.-T., and Heng, P.-A. 2015. Closure-aware sketch simplification.ACM Trans. Graph. 34, 6, 168:1--168:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-25",
+                "unstructured": "Long, J., Shelhamer, E., and Darrell, T. 2015. Fully convolutional networks for semantic segmentation. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-26",
+                "unstructured": "Nair, V., and Hinton, G. E. 2010. Rectified linear units improve restricted boltzmann machines. InICML, 807--814."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-27",
+                "unstructured": "Noh, H., Hong, S., and Han, B. 2015. Learning deconvolution network for semantic segmentation. InICCV.",
+                "DOI": "10.1109/ICCV.2015.178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-28",
+                "unstructured": "Noris, G., Hornung, A., Sumner, R. W., Simmons, M., and Gross, M. 2013. Topology-driven vectorization of clean line drawings.ACM Trans. Graph. 32, 1, 4:1--4:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-29",
+                "unstructured": "Orbay, G., and Kara, L. 2011. Beautification of design sketches using trainable stroke clustering and curve fitting.IEEE Trans. on Visualization and Computer Graphics 17, 5, 694--708."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-30",
+                "unstructured": "Preim, B., and Strothotte, T. 1995. Tuning rendered line-drawings. InWinter School in Computer Graphics, 227--237."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-31",
+                "unstructured": "Pusch, R., Samavati, F., Nasri, A., and Wyvill, B. 2007. Improving the sketch-based interface.The Visual Computer 23, 9-11, 955--962."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-32",
+                "unstructured": "Rosin, P. L. 1994. Grouping curved lines. InMachine Graphics and Vision 7, 625--644."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-33",
+                "unstructured": "Rumelhart, D., Hinton, G., and Williams, R. 1986. Learning representations by back-propagating errors. InNature.",
+                "DOI": "10.1038/323533a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-34",
+                "unstructured": "Selinger, P. 2003. Potrace: a polygon-based tracing algorithm.Potrace (online), http://potrace. sourceforge. net/potrace.pdf (2009-07-01)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-35",
+                "unstructured": "Shen, W., Wang, X., Wang, Y., Bai, X., and Zhang, Z. 2015. Deepcontour: A deep convolutional feature learned by positive-sharing loss for contour detection. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-36",
+                "unstructured": "Shesh, A., and Chen, B. 2008. Efficient and dynamic simplification of line drawings.Computer Graphics Forum 27, 2, 537--545."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-37",
+                "unstructured": "Simonyan, K., and Zisserman, A. 2015. Very deep convolutional networks for large-scale image recognition. InICLR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-38",
+                "unstructured": "Springenberg, J. T., Dosovitskiy, A., Brox, T., and Riedmiller, M. A. 2015. Striving for simplicity: The all convolutional net. InICLR Workshop Track."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-39",
+                "unstructured": "Wilson, B., and Ma, K.-L. 2004. Rendering complexity in computer-generated pen-and-ink illustrations. InInternational Symposium on Non-photorealistic Animation and Rendering, 129--137."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-40",
+                "unstructured": "Zeiler, M. D., and Fergus, R. 2014. Visualizing and understanding convolutional networks. InECCV.",
+                "DOI": "10.1007/978-3-319-10590-1_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-41",
+                "unstructured": "Zeiler, M. D. 2012. ADADELTA: an adaptive learning rate method.CoRR abs/1212.5701."
+            },
+            {
+                "key": "key-10.1145/2897824.2925972-42",
+                "unstructured": "Zhang, T. Y., and Suen, C. Y. 1984. A fast parallel algorithm for thinning digital patterns.Commun. ACM 27, 3, 236--239."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925972&amp;ftid=1755919&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:12Z",
+            "timestamp": 1568162892000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "fully convolutional networks for rough sketch cleanup"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925972",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Timestamp": "1/21/2020 12:24:03",
+    "Title": "Semantic soft segmentation",
+    "DOI": "10.1145/3197517.3201275",
+    "PDF availability (beside dl.acm)": "On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python, Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/yaksoy/SemanticSoftSegmentation",
+    "code URL  2": "https://github.com/iyah4888/SIGGRAPH18SSS",
+    "PDF URL": "http://yaksoy.github.io/papers/TOG18-sss.pdf",
+    "License type": "custom",
+    "Build mechanism": "Other script, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 2,
+    "Feedbacks [easy to configure/build (5=easy)]": 2,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 1,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Image segmentation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": 5,
+    "OS of the test": "Windows",
+    "General comments": "The code is split in two parts, in two different projects. The second project is trivial to run in matlab without hassle, takes an input image that consists in standard RGB colors for the first half, and the second half should contain features. \nThe first project of the code, which is supposed to generate features is much more difficult to run. It depends on TensorFlow 1.4 (while the readme indicates TensorFlow >= 1.4, it in fact only works with TensorFlow = 1.4). This old TensorFlow does not support Python 3.7, so I had to remove my 3.7 to install a 3.6 (which cannot be installed via Anaconda -- Anaconda spent an entire night trying to downgrade 3.7 to 3.6 but this didn't work). Finally, when the code runs, it outputs a matlab file which contains 128 features. This file should be processed with preprocessFeatures, along with the original image, in the second project.\nThe process is not documented, but can be understood from the context. In general, while it was relatively painful to run, results seem to be reproducible. It would however have been much less painful if I had a Python 3.6 already installed.\nThe lower replicability score is explained by the fact no code is provided for training and only the pre-trained model is given.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 20,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "ImageGraphs / TensorFlow",
+    "Project URL": "http://yaksoy.github.io/sss/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Ya\u011fiz",
+            "family": "Aksoy",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL and ETH Z\u00fcrich, Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Tae-Hyun",
+            "family": "Oh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Sylvain",
+            "family": "Paris",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Marc",
+            "family": "Pollefeys",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Z\u00fcrich, Switzerland and Microsoft"
+                }
+            ]
+        },
+        {
+            "given": "Wojciech",
+            "family": "Matusik",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 17.16,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=18&types=mmmbbbbb",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=46823326"
+}

@@ -1,0 +1,340 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T06:43:14Z",
+            "timestamp": 1579243394688
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002341",
+                "name": "Suomen Akatemia",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "277833"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925917",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Reflectance modeling by neural texture synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Miika",
+                "family": "Aittala",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Timo",
+                "family": "Aila",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jaakko",
+                "family": "Lehtinen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University, NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925917-1",
+                "unstructured": "Aittala, M., Weyrich, T., and Lehtinen, J. 2015. Two-shot SVBRDF capture for stationary materials. ACM Trans. Graph. 34, 4, 110:1--110:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-2",
+                "unstructured": "Barron, J., and Malik, J. 2015. Shape, illumination, and reflectance from shading. IEEE TPAMI (to appear).",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-3",
+                "unstructured": "Boivin, S., and Gagalowicz, A. 2001. Image-based rendering of diffuse, specular and glossy surfaces from a single image. In Proc. ACM SIGGRAPH, 107--116.",
+                "DOI": "10.1145/383259.383270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-4",
+                "unstructured": "Clark, R., 2010. Crazybump. http://www.crazybump.com, Last access: 16 Jan 2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-5",
+                "unstructured": "Debevec, P., Hawkins, T., Tchou, C., Duiker, H.-P., Sarokin, W., and Sagar, M. 2000. Acquiring the reflectance field of a human face. InProc. ACM SIGGRAPH, 145--156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-6",
+                "unstructured": "Dong, Y., Wang, J., Tong, X., Snyder, J., Lan, Y., Ben-Ezra, M., and Guo, B. 2010. Manifold bootstrapping for SVBRDF capture.ACM Trans. Graph. 29, 4, 98:1--98:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-7",
+                "unstructured": "Dong, Y., Tong, X., Pellacini, F., and Guo, B. 2011. Appgen: interactive material modeling from a single image.ACM Trans. Graph. 30, 6, 146:1--146:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-8",
+                "unstructured": "Efros, A. A., and Freeman, W. T. 2001. Image quilting for texture synthesis and transfer. InProc. ACM SIGGRAPH, 341--346."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-9",
+                "unstructured": "Efros, A. A., and Leung, T. K. 1999. Texture synthesis by non-parametric sampling. InProc. International Conference on Computer Vision (ICCV '99), vol. 2, 1033--1038.",
+                "DOI": "10.1109/ICCV.1999.790383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-10",
+                "unstructured": "Galerne, B., Gousseau, Y., and Morel, J.-M. 2010. Random phase textures: Theory and synthesis.IEEE Transactions in Image Processing 20, 1,257--267."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-11",
+                "unstructured": "Gatys, L. A., Ecker, A. S., and Bethge, M. 2015. A neural algorithm of artistic style.CoRR abs/1508.06576."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-12",
+                "unstructured": "Gatys, L. A., Ecker, A. S., and Bethge, M. 2015. Texture synthesis using convolutional neural networks. InAdvances in Neural Information Processing Systems 28.",
+                "DOI": "10.1109/CVPR.2016.265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-13",
+                "unstructured": "Graham, P., Tunwattanapong, B., Busch, J., Yu, X., Jones, A., Debevec, P., and Ghosh, A. 2013. Measurement-Based Synthesis of Facial Microgeometry.Computer Graphics Forum 32, 2pt3, 335--344."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-14",
+                "unstructured": "Heeger, D. J., and Bergen, J. R. 1995. Pyramid-based texture analysis/synthesis. InProc. ACM SIGGRAPH, 229--238."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-15",
+                "unstructured": "Hertzmann, A., Jacobs, C. E., Oliver, N., Curless, B., and Salesin, D. H. 2001. Image analogies. InProc. ACM SIGGRAPH, 327--340."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-16",
+                "unstructured": "Huang, L., Yang, Y., Deng, Y., and Yu, Y 2015. Densebox: Unifying landmark localization with end to end object detection.CoRR abs/1509.04874."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-17",
+                "unstructured": "Kaspar, A., Neubert, B., Lischinski, D., Pauly, M., and Kopf, J. 2015. Self Tuning Texture Optimization.Computer Graphics Forum 34, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-18",
+                "unstructured": "Kwatra, V., Essa, I., Bobick, A., and Kwatra, N. 2005. Texture optimization for example-based synthesis.ACM Trans. Graph. 24, 3, 795--802."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-19",
+                "unstructured": "LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. 1998. Gradient-based learning applied to document recognition. InProc. IEEE, 2278--2324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-20",
+                "unstructured": "Lensch, H. P. A., Kautz, J., Goesele, M., Heidrich, W., and Seidel, H.-P. 2003. Image-based reconstruction of spatial appearance and geometric detail.ACM Trans. Graph. 22, 2, 234--257."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-21",
+                "unstructured": "Ngan, A., Durand, F., and Matusik, W. 2005. Experimental analysis of BRDF models. In Proc.Eurographics Symposium on Rendering, 117--226."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-22",
+                "unstructured": "Portilla, J., and Simoncelli, E. P. 2000. A parametric texture model based on joint statistics of complex wavelet coefficients.Int. J. Comput. Vision 40, 1, 49--70."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-23",
+                "unstructured": "Rabin, J., Peyr&#233;, G., Delon, J., and Bernot, M. 2011. Wasserstein barycenter and its application to texture mixing. InProc. Scale Space and Variational Methods in Computer Vision (SSVM), vol. 6667, 435--446."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-24",
+                "unstructured": "Razavian, A. S., Azizpour, H., Sullivan, J., and Carls-son, S. 2014. CNN features off-the-shelf: An astounding baseline for recognition. InProc. CVPR.",
+                "DOI": "10.1109/CVPRW.2014.131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-25",
+                "unstructured": "Simonyan, K., and Zisserman, A. 2014. Very deep convolutional networks for large-scale image recognition.CoRR abs/1409.1556."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-26",
+                "unstructured": "Super, B., and Bovik, A. 1995. Shape from texture using local spectral moments.IEEE TPAMI 17, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-27",
+                "unstructured": "Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., and Rabinovich, A. 2015. Going deeper with convolutions. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-28",
+                "unstructured": "Tong, X., Zhang, J., Liu, L., Wang, X., Guo, B., and Shum, H.-Y. 2002. Synthesis of bidirectional texture functions on arbitrary surfaces.ACM Trans. Graph. 21, 3, 665--672."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-29",
+                "unstructured": "Vedaldi, A., and Lenc, K. 2014. MatConvNet - convolutional neural networks for MATLAB.CoRR abs/1412.4564.",
+                "DOI": "10.1145/2733373.2807412",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-30",
+                "unstructured": "Wang, J., Zhao, S., Tong, X., Snyder, J., and Guo, B. 2008. Modeling anisotropic surface reflectance with example-based microfacet synthesis.ACM Trans. Graph. 27, 3, 41:1--41:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-31",
+                "unstructured": "Wang, C.-P., Snavely, N., and Marschner, S. 2011. Estimating dual-scale properties of glossy surfaces from step-edge lighting.ACM Trans. Graph. 30, 6, 172:1--172:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-32",
+                "unstructured": "Wei, L.-Y., Han, J., Zhou, K., Bao, H., Guo, B., and Shum, H.-Y. 2008. Inverse texture synthesis.ACM Trans. Graph. 27, 3, 52:1--52:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-33",
+                "unstructured": "Weyrich, T., Matusik, W., Pfister, H., Bickel, B., Donner, C., Tu, C., McAndless, J., Lee, J., Ngan, A., Jensen, H. W., and Gross, M. 2006. Analysis of human faces using a measurement-based skin reflectance model. ACM Trans.Graph. 25, 3, 1013--1024.",
+                "DOI": "10.1145/1141911.1141987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-34",
+                "unstructured": "Weyrich, T., Lawrence, J., Lensch, H., Rusinkiewicz, S., and Zickler, T. 2009. Principles of appearance acquisition and representation.Foundations and Trends in Computer Graphics and Vision 4, 2, 75--191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925917-35",
+                "unstructured": "Zickler, T., Ramamoorthi, R., Enrique, S., and Belhumeur, P. N. 2006. Reflectance sharing: predicting appearance from a sparse set of images of a known shape.IEEE TPAMI 28, 8, 1287--1302."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925917&amp;ftid=1755944&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:42:45Z",
+            "timestamp": 1568162565000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925917",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

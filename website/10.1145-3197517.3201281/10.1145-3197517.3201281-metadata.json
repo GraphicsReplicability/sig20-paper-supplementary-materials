@@ -1,0 +1,510 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:44Z",
+            "timestamp": 1574859824996
+        },
+        "reference-count": 66,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001804",
+                "name": "Canada Research Chairs Program",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "NSERC Discovery Grant",
+                "award": [
+                    "1303800"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201281",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Eulerian-on-lagrangian cloth simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nicholas J.",
+                "family": "Weidner",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Texas A&M University"
+                    }
+                ]
+            },
+            {
+                "given": "Kyle",
+                "family": "Piddington",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "California Polytechnic State University"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Shinjiro",
+                "family": "Sueda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&M University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201281-1",
+                "unstructured": "Samantha Ainsley, Etienne Vouga, Eitan Grinspun, and Rasmus Tamstorf. 2012. Speculative Parallel Asynchronous Contact Mechanics. ACM Trans. Graph. 31, 6 (Nov. 2012), 151:1--151:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-2",
+                "unstructured": "David Baraff and Andrew Witkin. 1998. Large Steps in Cloth Simulation. In Proc. SIGGRAPH 98, Annual Conference Series. 43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-3",
+                "unstructured": "David Baraff, Andrew Witkin, and Michael Kass. 2003. Untangling Cloth. ACM Trans. Graph. 22, 3 (July 2003), 862--870.",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-4",
+                "unstructured": "Ted Belytschko, Wing Kam Liu, Brian Moran, and Khalil Elkhodary. 2013. Nonlinear Finite Elements for Continua and Structures. John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-5",
+                "unstructured": "Jan Bender and Crispin Deul. 2013. Adaptive cloth simulation using corotational finite elements. Computers &#38; Graphics 37, 7 (2013), 820 -- 829.",
+                "DOI": "10.1016/j.cag.2013.04.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-6",
+                "unstructured": "Miklos Bergou, Max Wardetzky, David Harmon, Denis Zorin, and Eitan Grinspun. 2006. A Quadratic Bending Model for Inextensible Surfaces. In Proc. Eurographics Symp. Geom. Process. 227--230."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-7",
+                "unstructured": "Kiran S Bhat, Christopher D Twigg, Jessica K Hodgins, Pradeep K Khosla, Zoran Popovi&#263;, and Steven M Seitz. 2003. Estimating cloth simulation parameters from video. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 37--51."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-8",
+                "unstructured": "Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, and Mark Pauly. 2014. Projective Dynamics: Fusing Constraint Projections for Fast Simulation. ACM Trans. Graph. 33, 4 (July 2014), 154:1--154:11.",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-9",
+                "unstructured": "Eddy Boxerman and Uri Ascher. 2004. Decomposing cloth. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 153--161.",
+                "DOI": "10.1145/1028523.1028543",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-10",
+                "unstructured": "Robert Bridson, Ronald Fedkiw, and John Anderson. 2002. Robust Treatment of Collisions, Contact and Friction for Cloth Animation. ACM Trans. Graph. 21, 3 (July 2002), 594--603.",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-11",
+                "unstructured": "R. Bridson, S. Marino, and R. Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-12",
+                "unstructured": "Zhili Chen, Renguo Feng, and Huamin Wang. 2013. Modeling Friction and Air Effects Between Cloth and Deformable Bodies. ACM Trans. Graph. 32, 4 (July 2013), 88:1--88:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-13",
+                "unstructured": "Gabriel Cirio, Jorge Lopez-Moreno, David Miraut, and Miguel A. Otaduy. 2014. Yarn-level Simulation of Woven Cloth. ACM Trans. Graph. 33, 6 (Nov. 2014), 207:1--207:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-14",
+                "unstructured": "Gabriel Cirio, Jorge Lopez-Moreno, and Miguel A. Otaduy. 2015. Efficient Simulation of Knitted Cloth Using Persistent Contacts. In Proc. ACM SIGGRAPH /Eurographics Symp. Comput. Anim. 55--61.",
+                "DOI": "10.1145/2786784.2786801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-15",
+                "unstructured": "Frederic Cordier and Nadia Magnenat-Thalmann. 2002. Real-time animation of dressed virtual humans. In Computer Graphics Forum, Vol. 21. 327--335.",
+                "DOI": "10.1111/1467-8659.t01-1-00592",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-16",
+                "unstructured": "Frederic Cordier and Nadia Magnenat-Thalmann. 2005. A Data-Driven Approach for Real-Time Clothes Simulation. In Computer Graphics Forum, Vol. 24. 173--183.",
+                "DOI": "10.1111/j.1467-8659.2005.00841.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-17",
+                "unstructured": "Olaf Etzmu&#223;, Michael Keckeisen, and Wolfgang Stra&#223;er. 2003. A fast finite element solution for cloth modelling. In Proc. Pac. Conf. Comput. Graph. Appl. 244--251.",
+                "DOI": "10.1109/PCCGA.2003.1238266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-18",
+                "unstructured": "Ye Fan, Joshua Litven, David I.W. Levin, and Dinesh K. Pai. 2013. Eulerian-on-Lagrangian Simulation. ACM Trans. Graph. 32, 3 (July 2013), 22:1--22:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-19",
+                "unstructured": "Russell Gillette, Craig Peters, Nicholas Vining, Essex Edwards, and Alla Sheffer. 2015. Real-time Dynamic Wrinkling of Coarse Animated Cloth. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 17--26.",
+                "DOI": "10.1145/2786784.2786789",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-20",
+                "unstructured": "Rony Goldenthal, David Harmon, Raanan Fattal, Michel Bercovier, and Eitan Grinspun. 2007. Efficient Simulation of Inextensible Cloth. ACM Trans. Graph. 26, 3 (July 2007), 49:1--49:7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-21",
+                "unstructured": "Sunil Hadap, Endre Bangerter, Pascal Volino, and Nadia Magnenat-Thalmann. 1999. Animating Wrinkles on Clothes. In Proc. Conference on Visualization. 175--182.",
+                "DOI": "10.1109/VISUAL.1999.809885",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-22",
+                "unstructured": "Fabian Hahn, Bernhard Thomaszewski, Stelian Coros, Robert W. Sumner, Forrester Cole, Mark Meyer, Tony DeRose, and Markus Gross. 2014. Subspace Clothing Simulation Using Adaptive Bases. ACM Trans. Graph. 33, 4 (July 2014), 105:1--105:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-23",
+                "unstructured": "David Harmon, Etienne Vouga, Breannan Smith, Rasmus Tamstorf, and Eitan Grinspun. 2009. Asynchronous Contact Mechanics. ACM Trans. Graph. 28, 3 (July 2009), 87:1--87:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-24",
+                "unstructured": "David Harmon, Etienne Vouga, Rasmus Tamstorf, and Eitan Grinspun. 2008. Robust Treatment of Simultaneous Collisions. ACM Trans. Graph. 27, 3 (Aug. 2008), 23:1--23:4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-25",
+                "unstructured": "Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2008. Simulating Knitted Cloth at the Yarn Level. ACM Trans. Graph. 27, 3 (Aug. 2008), 65:1--65:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-26",
+                "unstructured": "Jonathan M. Kaldor, Doug L. James, and Steve Marschner. 2010. Efficient Yarn-based Cloth with Adaptive Contact Linearization. ACM Trans. Graph. 29, 4 (July 2010), 105:1--105:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-27",
+                "unstructured": "Ladislav Kavan, Dan Gerszewski, Adam W. Bargteil, and Peter-Pike Sloan. 2011. Physics-inspired Upsampling for Cloth Simulation in Games. ACM Trans. Graph. 30, 4 (July 2011), 93:1--93:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-28",
+                "unstructured": "Doyub Kim, Woojong Koh, Rahul Narain, Kayvon Fatahalian, Adrien Treuille, and James F. O'Brien. 2013. Near-exhaustive Precomputation of Secondary Cloth Effects. ACM Trans. Graph. 32, 4 (July 2013), 87:1--87:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-29",
+                "unstructured": "Tae-Yong Kim, Nuttapong Chentanez, and Matthias Muller-Fischer. 2012. Long Range Attachments - a Method to Simulate Inextensible Clothing in Computer Games. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 305--310."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-30",
+                "unstructured": "Woojong Koh, Rahul Narain, and James F O'Brien. 2014. View-dependent adaptive cloth simulation. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 159--166."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-31",
+                "unstructured": "Cornelius Lanczos. 1986. The variational principles of mechanics (4 ed.). Dover."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-32",
+                "unstructured": "Duo Li, Shinjiro Sueda, Debanga R. Neog, and Dinesh K. Pai. 2013. Thin Skin Elastodynamics. ACM Trans. Graph. 32, 4 (July 2013), 49:1--49:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-33",
+                "unstructured": "Richard Malgat, Benjamin Gilles, David I. W. Levin, Matthieu Nesme, and Fran&#231;ois Faure. 2015. Multifarious Hierarchies of Mechanical Models for Artist Assigned Levels-of-detail. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 27--36.",
+                "DOI": "10.1145/2786784.2786800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-34",
+                "unstructured": "Eder Miguel, Derek Bradley, Bernhard Thomaszewski, Bernd Bickel, Wojciech Matusik, Miguel A Otaduy, and Steve Marschner. 2012. Data-Driven Estimation of Cloth Simulation Models. In Computer Graphics Forum, Vol. 31. 519--528."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-35",
+                "unstructured": "Eder Miguel, Rasmus Tamstorf, Derek Bradley, Sara C. Schvartzman, Bernhard Thomaszewski, Bernd Bickel, Wojciech Matusik, Steve Marschner, and Miguel A. Otaduy. 2013. Modeling and Estimation of Internal Friction in Cloth. ACM Trans. Graph. 32, 6 (Nov. 2013), 212:1--212:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-36",
+                "unstructured": "Matthias M&#252;ller and Nuttapong Chentanez. 2010. Wrinkle Meshes. In Proc. ACM SIGGRAP /Eurographics Symp. Comput. Anim. 85--92."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-37",
+                "unstructured": "Matthias M&#252;ller, Nuttapong Chentanez, Tae-Yong Kim, and Miles Macklin. 2015. Air Meshes for Robust Collision Handling. ACM Trans. Graph. 34, 4 (July 2015), 133:1--133:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-38",
+                "unstructured": "Matthias M&#252;ller, Bruno Heidelberger, Marcus Hennix, and John Ratcliff. 2007. Position Based Dynamics. J. Vis. Commun. Image Represent. 18, 2 (April 2007), 109--118.",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-39",
+                "unstructured": "Rahul Narain, Tobias Pfaff, and James F. O'Brien. 2013. Folding and Crumpling Adaptive Sheets. ACM Trans. Graph. 32, 4 (July 2013), 51:1--51:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-40",
+                "unstructured": "Rahul Narain, Armin Samii, and James F. O'Brien. 2012. Adaptive Anisotropic Remeshing for Cloth Simulation. ACM Trans. Graph. 31, 6 (Nov. 2012), 152:1--152:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-41",
+                "unstructured": "Simon Pabst, Sybille Krzywinski, Andrea Schenk, and Bernhard Thomaszewski. 2008. Seams and Bending in Cloth Simulation. VRIPHYS 382, 1 (2008), 24--41."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-42",
+                "unstructured": "Saket Patkar, Ning Jin, and Ronald Fedkiw. 2015. A New Sharp-crease Bending Element for Folding and Wrinkling Surfaces and Volumes. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 7--15.",
+                "DOI": "10.1145/2786784.2786792",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-43",
+                "unstructured": "Tobias Pfaff, Rahul Narain, Juan Miguel de Joya, and James F. O'Brien. 2014. Adaptive Tearing and Cracking of Thin Sheets. ACM Trans. Graph. 33, 4 (July 2014), 110:1--110:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-44",
+                "unstructured": "Xavier Provot. 1996. Deformation Constraints in a Mass-Spring Model to Describe Rigid Cloth Behavior. In Graphics Interface. 147--154."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-45",
+                "unstructured": "Xavier Provot. 1997. Collision and self-collision handling in cloth model dedicated to design garments. In Computer Animation and Simulation. Springer, 177--189.",
+                "DOI": "10.1007/978-3-7091-6874-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-46",
+                "unstructured": "Olivier R&#233;millard and Paul G. Kry. 2013. Embedded Thin Shells for Wrinkle Simulation. ACM Trans. Graph. 32, 4 (July 2013), 50:1--50:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-47",
+                "unstructured": "Damien Rohmer, Tiberiu Popa, Marie-Paule Cani, Stefanie Hahmann, and Alla Sheffer. 2010. Animation Wrinkling: Augmenting Coarse Cloth Simulations with Realistic-looking Wrinkles. ACM Trans. Graph. 29, 6 (Dec. 2010), 157:1--157:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-48",
+                "unstructured": "Prashant Sachdeva, Shinjiro Sueda, Susanne Bradley, Mikhail Fain, and Dinesh K. Pai. 2015. Biomechanical Simulation and Control of Hands and Tendinous Systems. ACM Trans. Graph. 34, 4 (July 2015), 42:1--42:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-49",
+                "unstructured": "Josep Sarrate, Antonio Huerta, and Jean Donea. 2001. Arbitrary Lagrangian-Eulerian formulation for fluid-rigid body interaction. Comput. Methods. Appl. Mech. Eng. 190, 24 (2001), 3171--3188.",
+                "DOI": "10.1016/S0045-7825(00)00387-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-50",
+                "unstructured": "Camille Schreck, Damien Rohmer, Stefanie Hahmann, Marie-Paule Cani, Shuo Jin, Charlie C. L. Wang, and Jean-Francis Bloch. 2015. Nonsmooth Developable Geometry for Interactively Animating Paper Crumpling. ACM Trans. Graph. 35, 1 (Dec. 2015), 10:1--10:18."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-51",
+                "unstructured": "Eftychios Sifakis, Sebastian Marino, and Joseph Teran. 2008. Globally coupled collision handling using volume preserving impulses. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 147--153."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-52",
+                "unstructured": "Shinjiro Sueda, Garrett L. Jones, David I. W. Levin, and Dinesh K. Pai. 2011. Large-scale Dynamic Simulation of Highly Constrained Strands. ACM Trans. Graph. 30, 4 (July 2011), 39:1--39:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-53",
+                "unstructured": "Rasmus Tamstorf and Eitan Grinspun. 2013. Discrete Bending Forces and Their Jacobians. Graph. Models 75, 6 (Nov. 2013), 362--370.",
+                "DOI": "10.1016/j.gmod.2013.07.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-54",
+                "unstructured": "Rasmus Tamstorf, Toby Jones, and Stephen F. McCormick. 2015. Smoothed Aggregation Multigrid for Cloth Simulation. ACM Trans. Graph. 34, 6 (Oct. 2015), 245:1--245:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-55",
+                "unstructured": "Demetri Terzopoulos, John Platt, Alan Barr, and Kurt Fleischer. 1987. Elastically Deformable Models. In Computer Graphics, Vol. 21. 205--214.",
+                "DOI": "10.1145/37402.37427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-56",
+                "unstructured": "Bernhard Thomaszewski, Simon Pabst, and Wolfgang Strasser. 2009. Continuum-based Strain Limiting. Computer Graphics Forum 28, 2 (2009), 569--576.",
+                "DOI": "10.1111/j.1467-8659.2009.01397.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-57",
+                "unstructured": "Bernhard Thomaszewski, Markus Wacker, and Wolfgang Stra&#223;er. 2006. A consistent bending model for cloth simulation with corotational subdivision finite elements. In Proc. ACM SIGGRAPH/Eurographics Symp. Comput. Anim. 107--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-58",
+                "unstructured": "Nobuyuki Umetani, Danny M. Kaufman, Takeo Igarashi, and Eitan Grinspun. 2011. Sensitive Couture for Interactive Garment Modeling and Editing. ACM Trans. Graph. 30, 4 (July 2011), 90:1--90:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-59",
+                "unstructured": "Julien Villard and Houman Borouchaki. 2005. Adaptive meshing for cloth animation. Engineering with Computers 20, 4 (2005), 333--341.",
+                "DOI": "10.1007/s00366-005-0302-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-60",
+                "unstructured": "Pascal Volino, Martin Courchesne, and Nadia Magnenat Thalmann. 1995. Versatile and efficient techniques for simulating cloth and other deformable objects. In Proc. SIGGRAPH 95, Annual Conference Series. 137--144.",
+                "DOI": "10.1145/218380.218432",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-61",
+                "unstructured": "Pascal Volino and Nadia Magnenat-Thalmann. 2000. Implementing Fast Cloth Simulation with Collision Response. In Computer Graphics International. 257--266.",
+                "DOI": "10.1109/CGI.2000.852341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-62",
+                "unstructured": "Pascal Volino, Nadia Magnenat-Thalmann, and Francois Faure. 2009. A Simple Approach to Nonlinear Tensile Stiffness for Accurate Cloth Simulation. ACM Trans. Graph. 28, 4 (Sept. 2009), 105:1--105:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-63",
+                "unstructured": "Huamin Wang, Florian Hecht, Ravi Ramamoorthi, and James F. O'Brien. 2010. Example-based Wrinkle Synthesis for Clothing Animation. ACM Trans. Graph. 29, 4 (July 2010), 107:1--107:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-64",
+                "unstructured": "Huamin Wang, James F. O'Brien, and Ravi Ramamoorthi. 2011. Data-driven Elastic Models for Cloth: Modeling and Measurement. ACM Trans. Graph. 30, 4 (July 2011), 71:1--71:12.",
+                "DOI": "10.1145/1964921.1964966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-65",
+                "unstructured": "Max Wardetzky, Mikl&#243;s Bergou, David Harmon, Denis Zorin, and Eitan Grinspun. 2007. Discrete Quadratic Curvature Energies. Comput. Aided Geom. Des. 24, 8--9 (Nov. 2007), 499--518."
+            },
+            {
+                "key": "key-10.1145/3197517.3201281-66",
+                "unstructured": "Weiwei Xu, Nobuyuki Umentani, Qianwen Chao, Jie Mao, Xiaogang Jin, and Xin Tong. 2014. Sensitivity-optimized Rigging for Example-based Real-time Clothing Synthesis. ACM Trans. Graph. 33, 4 (July 2014), 107:1--107:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201281&ftid=1991768&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T16:08:06Z",
+            "timestamp": 1533053286000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 66,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201281",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

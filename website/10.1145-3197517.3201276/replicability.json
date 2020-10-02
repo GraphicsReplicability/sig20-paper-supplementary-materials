@@ -1,0 +1,99 @@
+{
+    "Timestamp": "12/5/2019 16:43:18",
+    "Title": "Shape from Metric",
+    "DOI": "10.1145/3197517.3201276",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Python, Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://page.math.tu-berlin.de/~chern/projects/ShapeFromMetric/HoudiniImplementations.zip",
+    "code URL  2": "",
+    "PDF URL": "https://page.math.tu-berlin.de/~chern/projects/ShapeFromMetric/ShapeFromMetric.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 3,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Partial differential equations",
+    "ACM 2": "Differential calculus",
+    "ACM 3": "Algebraic topology",
+    "ACM 4": "Physical simulation",
+    "ACM 5": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "Plugin for Houdini. Code not explicitly given but in the Houdini graph nodes and the digital asset.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 8,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Houdini",
+    "Project URL": "https://page.math.tu-berlin.de/~chern/projects/ShapeFromMetric/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Albert",
+            "family": "Chern",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "TU Berlin"
+                }
+            ]
+        },
+        {
+            "given": "Felix",
+            "family": "Kn\u00f6ppel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "TU Berlin"
+                }
+            ]
+        },
+        {
+            "given": "Ulrich",
+            "family": "Pinkall",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "TU Berlin"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Schr\u00f6der",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Caltech"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

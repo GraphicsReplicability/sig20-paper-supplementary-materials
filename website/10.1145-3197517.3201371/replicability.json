@@ -1,0 +1,79 @@
+{
+    "Timestamp": "1/16/2020 16:57:45",
+    "Title": "Visual Rhythm and Beat",
+    "DOI": "10.1145/3197517.3201371",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/abedavis/visbeat/",
+    "code URL  2": "",
+    "PDF URL": "http://www.abedavis.com/files/papers/VisualRhythm_Davis18.pdf",
+    "License type": "Stanford",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Graphics input devices",
+    "ACM 2": "Sound-based input / output",
+    "ACM 3": "Computational photography",
+    "ACM 4": "Image processing",
+    "ACM 5": "Image-based rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "Very easy to setup and play with on MacOS thanks to the \"pip install visbeat\" and the examples.\n\n\n-- Aternative build on windows --\n\nWhile the paper is accompanied by a very nice website to explore all results, and effort has been made to make code execution easy, I still did not manage to run the code. The docker file was not working. This is due to matplotlib and imageio-ffmpeg not supporting anymore Python 2.7 (Python 2.7 is being discontinued as of January 2020 anyway) and I am not familiar with docker to fix it. Going back to manual installation of the libraries, it turns out that only imageio version 2.4.1 is able to execute the required  imageio.ffmpeg.download() command (and pip install imageio-ffmpeg does not work on Python 2.7). It also turns out that installing matplotlib for Python 2.7 is also difficult (ended up upgrading my pip and setuptools \"python -m pip install -U pip setuptools\" before the pip install matplotlib, despite Python 2.7 being a fresh install -- I otherwise had \"Command python setup.py egg_info failed with error code 1\"). I also had to add \"sys.path.insert(0, \"../visbeat/\")\" in the dancefer.py example file for python to search in the correct folder. Ultimately, running the TLDR example results in the error \"AssertionError: Wrong number of files for ./VisBeatAssets/VideoSources\\fDWFVI8PQOI\\Versions\\\\Original\\maxheight_240\\\\Snap! - Rhythm is a Dancer-fDWFVI8PQOI.mp4 Found: []\". Thinking this could be due to mixes of slashes and backslashes I fixed that in the code to no avail. I realized this file actually did not exist : instead, there was a file called \"Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f133.mp4\" which did not have audio, and a \"Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f140.m4a\" which was the audio file. I merged both in Premiere to create the desired \"Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f133.mp4\" file, ran the code again. This time, this resulted in \"Issue loading audio for ./VisBeatAssets/VideoSources/fDWFVI8PQOI/Versions/Original/maxheight_240/Snap! - Rhythm is a Dancer-fDWFVI8PQOI.mp4\". I tried again with MPEG audio instead of AAC. This didn't work either. I gave up after a day.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 4,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "numpy/scipy/moviepy/librosa/bs4/librosa/imageio/requests/moviepy/termcolor/youtube-dl/matplotlib",
+    "Project URL": "http://abedavis.com/visualbeat/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Abe",
+            "family": "Davis",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Maneesh",
+            "family": "Agrawala",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

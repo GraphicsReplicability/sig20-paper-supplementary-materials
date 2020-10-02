@@ -1,0 +1,408 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:59Z",
+            "timestamp": 1574859839651
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1655422, DMS-1721024"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61522209,61210007"
+                ]
+            },
+            {
+                "name": "Fundamental Research Funds for the Central Universities",
+                "award": [
+                    "2018FZA5011"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201354",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Quadrangulation through morse-parameterization hybridization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Xianzhong",
+                "family": "Fang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hujun",
+                "family": "Bao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Yiying",
+                "family": "Tong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Michigan State University"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Jin",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201354-1",
+                "unstructured": "David Bommes, Marcel Campen, Hans-Christian Ebke, Pierre Alliez, and Leif Kobbelt. 2013a. Integer-grid Maps for Reliable Quad Meshing. ACM Trans. Graph. 32, 4, Article 98 (2013).",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-2",
+                "unstructured": "David Bommes, Bruno L&#233;vy, Nico Pietroni, Enrico Puppo, Claudio Silva, Marco Tarini, and Denis Zorin. 2013b. Quad-Mesh Generation and Processing: A Survey. Comput. Graph. Forum 32, 6 (2013), 51--76.",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-3",
+                "unstructured": "David Bommes, Henrik Zimmer, and Leif Kobbelt. 2009. Mixed-Integer Quadrangulation. ACM Trans. Graph. 28, 3, Article 77 (2009).",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-4",
+                "unstructured": "Marcel Campen, David Bommes, and Leif Kobbelt. 2015. Quantized Global Parametrization. ACM Trans. Graph. 34, 6, Article 192 (2015).",
+                "DOI": "10.1145/2816795.2818140",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-5",
+                "unstructured": "Keenan Crane, Mathieu Desbrun, and Peter Schr&#246;der. 2010. Trivial Connections on Discrete Surfaces. Comput. Graph. Forum 29, 5 (2010), 1525--1533.",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-6",
+                "unstructured": "Fernando de Goes, Mathieu Desbrun, and Yiying Tong. 2015. Vector Field Processing on Triangle Meshes. In ACM SIGGRAPH Asia 2015 Courses. Article 17.",
+                "DOI": "10.1145/2818143.2818167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-7",
+                "unstructured": "Olga Diamanti, Amir Vaxman, Daniele Panozzo, and Olga Sorkine-Hornung. 2015. Integrable PolyVector Fields. ACM Trans. Graph. 34, 4, Article 38 (2015).",
+                "DOI": "10.1145/2766906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-8",
+                "unstructured": "Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, and John C. Hart. 2006. Spectral Surface Quadrangulation. ACM Trans. Graph. 25, 3 (2006), 1057--1066.",
+                "DOI": "10.1145/1141911.1141993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-9",
+                "unstructured": "Hans-Christian Ebke, David Bommes, Marcel Campen, and Leif Kobbelt. 2013. QEx: Robust Quad Mesh Extraction. ACM Trans. Graph. 32, 6, Article 168 (2013).",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-10",
+                "unstructured": "Hans-Christian Ebke, Patrick Schmidt, Marcel Campen, and Leif Kobbelt. 2016. Interactively Controlled Quad Remeshing of High Resolution 3D Models. ACM Trans. Graph. 35, 6, Article 218 (2016).",
+                "DOI": "10.1145/2980179.2982413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-11",
+                "unstructured": "Herbert Edelsbrunner, John Harer, and Afra Zomorodian. 2003. Hierarchical Morse-Smale Complexes for Piecewise Linear 2-Manifolds. Discrete Comput. Geom. 30, 1 (2003), 87--107.",
+                "DOI": "10.1007/s00454-003-2926-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-12",
+                "unstructured": "David Eppstein. 1999. Linear complexity hexahedral mesh generation. Computational Geometry 12, 1-2 (1999), 3--16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-13",
+                "unstructured": "Jin Huang, Muyang Zhang, Jin Ma, Xinguo Liu, Leif Kobbelt, and Hujun Bao. 2008. Spectral Quadrangulation with Orientation and Alignment Control. ACM Trans. Graph. 27, 5, Article 147 (2008).",
+                "DOI": "10.1145/1409060.1409100",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-14",
+                "unstructured": "Wenzel Jakob, Marco Tarini, Daniele Panozzo, and Olga Sorkine-Hornung. 2015. Instant Field-aligned Meshes. ACM Trans. Graph. 34, 6, Article 189 (2015).",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-15",
+                "unstructured": "Tengfei Jiang, Xianzhong Fang, Jin Huang, Hujun Bao, Yiying Tong, and Mathieu Desbrun. 2015. Frame Field Generation Through Metric Customization. ACM Trans. Graph. 34, 4, Article 40 (2015).",
+                "DOI": "10.1145/2766927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-16",
+                "unstructured": "Felix K&#228;lberer, Matthias Nieser, and Konrad Polthier. 2007. QuadCover: Surface Parameterization using Branched Coverings. Comp. Graph. Forum 26, 3 (2007), 375--384."
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-17",
+                "unstructured": "Felix K&#228;lberer, Matthias Nieser, and Konrad Polthier. 2011. Stripe Parameterization of Tubular Surfaces. In Topological Methods in Data Analysis and Visualization: Theory, Algorithms, and Applications, Valerio Pascucci, Xavier Tricoche, Hans Hagen, and Julien Tierny (Eds.). Springer Berlin Heidelberg, 13--26.",
+                "DOI": "10.1007/978-3-642-15014-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-18",
+                "unstructured": "Felix Kn&#246;ppel, Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2015. Stripe Patterns on Surfaces. ACM Trans. Graph. 34, 4, Article 39 (2015).",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-19",
+                "unstructured": "Patrick M. Knupp. 2000. Achieving finite element mesh quality via optimization of the Jacobian matrix norm and associated quantities. Part II-A framework for volume mesh optimization and the condition number of the Jacobian matrix. Internat. J. Numer. Methods Engrg. 48, 8 (2000), 1165--1185.",
+                "DOI": "10.1002/(SICI)1097-0207(20000720)48:8<1165::AID-NME940>3.0.CO;2-Y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-20",
+                "unstructured": "Yu-Kun Lai, Miao Jin, Xuexiang Xie, Ying He, Jonathan Palacios, Eugene Zhang, Shi-Min Hu, and Xianfeng Gu. 2010. Metric-Driven RoSy Field Design and Remeshing. IEEE Trans. Vis. Comput. Graph. 16, 1 (2010), 95--108.",
+                "DOI": "10.1109/TVCG.2009.59",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-21",
+                "unstructured": "Ruotian Ling, Jin Huang, Bert J&#252;ttler, Feng Sun, Hujun Bao, and Wenping Wang. 2014. Spectral Quadrangulation with Feature Curve Alignment and Element Size Control. ACM Trans. Graph. 34, 1, Article 11 (2014).",
+                "DOI": "10.1145/2653476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-22",
+                "unstructured": "Beibei Liu, Yiying Tong, Fernando De Goes, and Mathieu Desbrun. 2016. Discrete Connection and Covariant Derivative for Vector Field Analysis and Design. ACM Trans. Graph. 35, 3, Article 23 (2016).",
+                "DOI": "10.1145/2870629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-23",
+                "unstructured": "Scott A. Mitchell. 1996. A Characterization of the Quadrilateral Meshes of a Surface Which Admit a Compatible Hexahedral Mesh of the Enclosed Volume. Symp. Theor. Comput. Sci. (1996), 465--476."
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-24",
+                "unstructured": "Ashish Myles, Nico Pietroni, and Denis Zorin. 2014. Robust Field-aligned Global Parametrization. ACM Trans. Graph. 33, 4, Article 135 (2014).",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-25",
+                "unstructured": "Ashish Myles and Denis Zorin. 2013. Controlled-distortion Constrained Global Parametrization. ACM Trans. Graph. 32, 4, Article 105 (2013).",
+                "DOI": "10.1145/2461912.2461970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-26",
+                "unstructured": "Jonathan Palacios and Eugene Zhang. 2007. Rotational Symmetry Field Design on Surfaces. ACM Trans. Graph. 26, 3 (2007), Art. 55.",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-27",
+                "unstructured": "Daniele Panozzo, Enrico Puppo, Marco Tarini, and Olga Sorkine-Hornung. 2014. Frame Fields: Anisotropic and Non-orthogonal Cross Fields. ACM Trans. Graph. 33, 4, Article 134 (2014).",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-28",
+                "unstructured": "Nicolas Ray, Wan Chiu Li, Bruno L&#233;vy, Alla Sheffer, and Pierre Alliez. 2006. Periodic Global Parameterization. ACM Trans. Graph. 25, 4 (2006), 1460--1485.",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-29",
+                "unstructured": "Jonathan R. Shewchuk. 1997. Adaptive Precision Floating-Point Arithmetic and Fast Robust Geometric Predicates. Discrete Comput. Geom. 18, 3 (1997), 305--363.",
+                "DOI": "10.1007/PL00009321",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-30",
+                "unstructured": "Kenshi Takayama, Daniele Panozzo, and Olga Sorkine-Hornung. 2014. Pattern-Based Quadrangulation for N-Sided Patches. Comput. Graph. Forum 33, 5 (2014), 177--184.",
+                "DOI": "10.1111/cgf.12443",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-31",
+                "unstructured": "Amir Vaxman, Marcel Campen, Olga Diamanti, Daniele Panozzo, David Bommes, Klaus Hildebrandt, and Mirela Ben-Chen. 2016. Directional Field Synthesis, Design, and Processing. Comput. Graph. Forum 35, 2 (2016), 545--572.",
+                "DOI": "10.1111/cgf.12864",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-32",
+                "unstructured": "Muyang Zhang, Jin Huang, Xinguo Liu, and Hujun Bao. 2010. A Wave-based Anisotropic Quadrangulation Method. ACM Trans. Graph. 29, 4, Article 118 (2010).",
+                "DOI": "10.1145/1778765.1778855",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201354-33",
+                "unstructured": "Afra J. Zomorodian. 2009. Topology for Computing. Cambridge University Press."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201354&ftid=1991705&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T16:47:06Z",
+            "timestamp": 1533055626000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201354",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

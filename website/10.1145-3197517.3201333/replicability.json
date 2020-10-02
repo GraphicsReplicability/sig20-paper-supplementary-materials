@@ -1,0 +1,136 @@
+{
+    "Timestamp": "1/22/2020 20:42:32",
+    "Title": "End-to-end Optimization of Optics and Image Processing for Achromatic Extended Depth of Field and Super-resolution Imaging",
+    "DOI": "10.1145/3197517.3201333",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 5,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/vsitzmann/deepoptics",
+    "code URL  2": "",
+    "PDF URL": "https://drive.google.com/file/d/1Xums2qyqSGP_z_24HnYpM9gbRm1_uAzY/view",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data",
+    "License for the data (if any)": "Data is provided \"as is\" and without any express or implied warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. External provider: Inria.",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 3,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Reconstruction",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I had to patch the environment.yml file to use up-to-date pip packages.\nI could train the network and see image results using tensorboard, however  it is not clear how this images should be compared with the results shown in the paper.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 24,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow-gpu / protobuf / poppy",
+    "Project URL": "https://vsitzmann.github.io/deepoptics/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Vincent",
+            "family": "Sitzmann",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Steven",
+            "family": "Diamond",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Yifan",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The University of British Columbia and Canada and Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Xiong",
+            "family": "Dun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                }
+            ]
+        },
+        {
+            "given": "Stephen",
+            "family": "Boyd",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Wolfgang",
+            "family": "Heidrich",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                }
+            ]
+        },
+        {
+            "given": "Felix",
+            "family": "Heide",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Gordon",
+            "family": "Wetzstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

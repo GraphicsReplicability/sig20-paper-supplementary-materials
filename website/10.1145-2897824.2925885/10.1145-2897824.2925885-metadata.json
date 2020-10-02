@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:35Z",
+            "timestamp": 1574815955708
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925885",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "An interaction-aware, perceptual model for non-linear elastic objects"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Michal",
+                "family": "Piovar\u010di",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Saarland University, MMCI and Comenius University"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jason",
+                "family": "Rebello",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Harvard Unive"
+                    }
+                ]
+            },
+            {
+                "given": "Desai",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Roman",
+                "family": "\u010eurikovi\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Comenius University"
+                    }
+                ]
+            },
+            {
+                "given": "Hanspeter",
+                "family": "Pfister",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Harvard Unive"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University, MMCI and MPI Informatik"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925885-1",
+                "unstructured": "Ambrosi, G., Bicchi, A., Rossi, D. D., and Scilingo, E. P. 1999. The role of contact area spread rate in haptic discrimination of softness. InRobotics and Automation, 1999. Proceedings. 1999 IEEE International Conference on, vol. 1, 305--310 vol. 1.",
+                "DOI": "10.1109/ROBOT.1999.769996",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-2",
+                "unstructured": "Bergmann Tiest, W. M., and Kappers, A. M. 2006. Analysis of haptic perception of materials by multidimensional scaling and physical measurements of roughness and compressibility.Acta psychologica 121, 1, 1--20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-3",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Transactions on Graphics (TOG) 29, 4, 63."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-4",
+                "unstructured": "Bonneel, N., van de Panne, M., Paris, S., and Heidrich, W. 2011. Displacement interpolation using lagrangian mass transport.ACM Trans. Graph. 30, 6, 158:1--158:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-5",
+                "unstructured": "Chen, D., Levin, D. I., Didyk, P., Sitthi-Amorn, P., and Matusik, W. 2013. Spec2fab: a reducer-tuner model for translating specifications to 3D prints.ACM Transactions on Graphics (TOG) 32, 4, 135."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-6",
+                "unstructured": "Cook, R. L. 1986. Stochastic sampling in computer graphics.ACM Trans. Graph. 5, 1 (Jan.), 51--72."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-7",
+                "unstructured": "Cooke, T., Kannengiesser, S., Wallraven, C., and B&#252;lthoff, H. H. 2006. Object feature validation using visual and haptic similarity ratings.ACM Transactions on Applied Perception (TAP) 3, 3, 239--261."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-8",
+                "unstructured": "Cooke, T., Wallraven, C., and B&#252;lthoff, H. H. 2010. Multidimensional scaling analysis of haptic exploratory procedures.ACM Transactions on Applied Perception (TAP) 7, 1, 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-9",
+                "unstructured": "Davison, A. C., and Hinkley, D. V. 1997.Bootstrap Methods and their Application.Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511802843",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-10",
+                "unstructured": "Friedman, R. M., Hester, K. D., Green, B. G., and LaMotte, R. H. 2008. Magnitude estimation of softness.Experimental brain research 191, 2, 133--142."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-11",
+                "unstructured": "Genecov, A. M., Stanley, A. A., and Okamura, A. M. 2014. Perception of a haptic jamming display: Just noticeable differences in stiffness and geometry. InHaptics Symposium (HAPTICS), 2014 IEEE, IEEE, 333--338."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-12",
+                "unstructured": "Gkioulekas, I., Xiao, B., Zhao, S., Adelson, E. H., Zickler, T., and Bala, K. 2013. Understanding the role of phase function in translucent appearance.ACM Transactions on Graphics (TOG) 32, 5, 147."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-13",
+                "unstructured": "Han, D., and Keyser, J. 2015. Effect of appearance on perception of deformation. InProceedings of the 14th ACM SIGGRAPH / Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '15, 37--44.",
+                "DOI": "10.1145/2786784.2786797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-14",
+                "unstructured": "Harper, R., and Stevens, S. 1964. Subjective hardness of compliant materials.Quarterly Journal of Experimental Psychology 16, 3, 204--215."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-15",
+                "unstructured": "Hastie, T., Tibshirani, R., Friedman, J., Hastie, T., Friedman, J., and Tibshirani, R. 2009.The elements of statistical learning, vol. 2. Springer.",
+                "DOI": "10.1007/978-0-387-84858-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-16",
+                "unstructured": "Hollins, M., Bensma&#239;a, S., Karlof, K., and Young, F. 2000. Individual differences in perceptual space for tactile textures: Evidence from multidimensional scaling.Perception &#38; Psychophysics 62, 8, 1534--1544."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-17",
+                "unstructured": "Jones, L. A., and Hunter, I. W. 1990. A perceptual analysis of stiffness.Experimental Brain Research 79, 1, 150--156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-18",
+                "unstructured": "Ko&#231;ak, U., Palmerius, K. L., Forsell, C., Ynnerman, A., and Cooper, M. 2011. Analysis of the JND of stiffness in three modes of comparison. InHaptic and Audio Interaction Design.Springer, 22--31.",
+                "DOI": "10.1007/978-3-642-22950-3_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-19",
+                "unstructured": "Kuschel, M., Di Luca, M., Buss, M., and Klatzky, R. L. 2010. Combination and integration in the perception of visual-haptic compliance information.Haptics, IEEE Transactions on 3, 4, 234--244."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-20",
+                "unstructured": "Lederman, S. J., and Klatzky, R. L. 2009. Haptic perception: A tutorial.Attention, Perception, &#38; Psychophysics 71, 7, 1439--1459."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-21",
+                "unstructured": "Leib, R., Nisky, I., and Karniel, A. 2010. Perception of stiffness during interaction with delay-like nonlinear force field. InHaptics: Generating and Perceiving Tangible Sensations.Springer, 87--92.",
+                "DOI": "10.1007/978-3-642-14064-8_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-22",
+                "unstructured": "Le&#353;kowsk&#253;, P., Cooke, T., Ernst, M. O., and Harders, M. 2006. Using multidimensional scaling to quantify the fidelity of haptic rendering of deformable objects. InProceedings of the EuroHaptics 2006 International Conference (EH 2006)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-23",
+                "unstructured": "Misra, S., Fuernstahl, P., Ramesh, K., Okamura, A. M., and Harders, M. 2009. Quantifying perception of nonlinear elastic tissue models using multidimensional scaling. InEuroHaptics conference, 2009 and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems. World Haptics 2009. Third Joint, IEEE, 570--575.",
+                "DOI": "10.1109/WHC.2009.4810874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-24",
+                "unstructured": "Morovic, J., and Luo, M. R. 2001. The fundamentals of gamut mapping: A survey.Journal of Imaging Science and Technology 45, 3, 283--290."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-25",
+                "unstructured": "Nisky, I., Pressman, A., Pugh, C. M., Mussa-Ivaldi, F. A., and Karniel, A. 2011. Perception and action in teleoperated needle insertion.Haptics, IEEE Transactions on 4, 3, 155--166."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-26",
+                "unstructured": "Panetta, J., Zhou, Q., Malomo, L., Pietroni, N., Cignoni, P., and Zorin, D., 2015. Elastic textures for additive fabrication, aug. Julian Panetta and Quingnan Zhou are Joint first authors.",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-27",
+                "unstructured": "Pellacini, F., Ferwerda, J. A., and Greenberg, D. P. 2000. Toward a psychophysically-based light reflection model for image synthesis. InProceedings of the 27th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 55--64.",
+                "DOI": "10.1145/344779.344812",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-28",
+                "unstructured": "Pressman, A., Welty, L. J., Karniel, A., and Mussa-Ivaldi, F. A. 2007. Perception of delayed stiffness.The International Journal of Robotics Research 26, 11-12, 1191--1203."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-29",
+                "unstructured": "Pressman, A., Karniel, A., and Mussa-Ivaldi, F. A. 2011. How soft is that pillow? The perceptual localization of the hand and the haptic assessment of contact rigidity.The Journal of Neuroscience 31, 17, 6595--6604."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-30",
+                "unstructured": "Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., and Myszkowski, K. 2010.High dynamic range imaging: acquisition, display, and image-based lighting.Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-31",
+                "unstructured": "Ren, Z., Yeh, H., Klatzky, R., and Lin, M. C. 2013. Auditory perception of geometry-invariant material properties.Visualization and Computer Graphics, IEEE Transactions on 19, 4, 557--566."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-32",
+                "unstructured": "Schumacher, C., Bickel, B., Rys, J., Marschner, S., Daraio, C., and Gross, M. 2015. Microstructures to control elasticity in 3D printing.ACM Trans. Graph. 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-33",
+                "unstructured": "Sturm, J. 1999. Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones.Optimization Methods and Software 11--12, 625--653. Version 1.05 available from http://fewcal.kub.nl/sturm.",
+                "DOI": "10.1080/10556789908805766",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-34",
+                "unstructured": "Tan, H. Z., Pang, X. D., and Durlach, N. I. 1992. Manual resolution of length, force, and compliance.Advances in Robotics 42, 13--18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-35",
+                "unstructured": "Tan, H. Z., Durlach, N. I., Shao, Y., and Wei, M. 1993. Manual resolution of compliance when work and force cues are minimized.ASME Dyn. Syst. Control Div. Publ. DSC, ASME, NEW YORK, NY,(USA), 1993, 49, 99--104."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-36",
+                "unstructured": "Tiest, W. M. B., and Kappers, A. M. 2009. Cues for haptic perception of compliance.Haptics, IEEE Transactions on 2, 4, 189--199."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-37",
+                "unstructured": "Wills, J., Agarwal, S., Kriegman, D., and Belongie, S. 2009. Toward a perceptual space for gloss.ACM Transactions on Graphics 28, 4, 1--15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-38",
+                "unstructured": "Wu, W.-C., Basdogan, C., and Srinivasan, M. A. 1999. Visual, haptic, and bimodal perception of size and stiffness in virtual environments.ASME Dyn. Syst. Control Div. Publ. DSC 67, 19--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925885-39",
+                "unstructured": "Zhang, X., Le, X., Panotopoulou, A., Whiting, E., and Wang, C. C. L. 2015. Perceptual models of preference in 3D printing direction.ACM Trans. Graph. 34, 6 (Oct.), 215:1--215:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925885&amp;ftid=1755922&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:40:00Z",
+            "timestamp": 1568162400000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925885",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227510
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601225",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Breathing life into shape"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Aggeliki",
+                "family": "Tsoli",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Naureen",
+                "family": "Mahmood",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Michael J.",
+                "family": "Black",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601225-1",
+                "unstructured": "Allen, B., Curless, B., and Popovi&#263;, Z. 2003. The space of human body shapes: Reconstruction and parameterization from range scans.ACM Trans. on Graphics (TOG) 22, 3, 587--594."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-2",
+                "unstructured": "Allen, B., Curless, B., Popovi&#263;, Z., and Hertzmann, A. 2006. Learning a correlated model of identity and pose-dependent body shape variation for real-time synthesis. InACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), Eurographics Association, 147--156."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-3",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. SCAPE: Shape Completion and Animation of PEople.ACM Trans. on Graphics (TOG) 24, 3, 408--416.",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-4",
+                "unstructured": "Bogo, F., Romero, J., Loper, M., and Black, M. J. 2014. FAUST: Dataset and evaluation for 3D mesh registration. InConference on Computer Vision and Pattern Recognition (CVPR), IEEE.",
+                "DOI": "10.1109/CVPR.2014.491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-5",
+                "unstructured": "Cavagnaro, M., Pittella, E., and Pisa, S. 2013. Anatomical models of breathing subjects for absorption and scattering analysis. InInternational Symposium on Electromagnetic Compatibility (EMC EUROPE), IEEE, 149--153."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-6",
+                "unstructured": "Chen, Y., Liu, Z., and Zhang, Z. 2013. Tensor-based human body modeling. InConference on Computer Vision and Pattern Recognition (CVPR), IEEE, 105--112."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-7",
+                "unstructured": "Cosker, D., and Edge, J. 2009. Laughing, crying, sneezing and yawning: Automatic voice driven animation of non-speech articulations. InComputer Animation and Social Agents (CASA)."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-8",
+                "unstructured": "DiLorenzo, P. C., Zordan, V. B., and Sanders, B. L. 2008. Laughing out loud: Control for modeling anatomically inspired laughter using audio.ACM Trans. on Graphics (TOG) 27, 5, 125--133.",
+                "DOI": "10.1145/1409060.1409078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-9",
+                "unstructured": "Egges, A., Molet, T., and Magnenat-Thalmann, N. 2004. Personalised real-time idle motion synthesis. InPacific Conf. on Comp. Graphics and Applications, IEEE, 121--130."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-10",
+                "unstructured": "Egges, A., Giacomo, T., and Thalmann, N. 2006. Synthesis of realistic idle motion for interactive characters.Game Programming Gems 6, 3--2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-11",
+                "unstructured": "Hasler, N., Stoll, C., Sunkel, M., Rosenhahn, B., and Seidel, H. 2009. A statistical model of human pose and body shape.Computer Graphics Forum 28, 2, 337--346.",
+                "DOI": "10.1111/j.1467-8659.2009.01373.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-12",
+                "unstructured": "Hirshberg, D., Loper, M., Rachlin, E., and Black, M. 2012. Coregistration: Simultaneous alignment and modeling of articulated 3D shape. InEuropean Conf. on Computer Vision (ECCV), Springer-Verlag, LNCS 7577, Part IV, 242--255."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-13",
+                "unstructured": "Hsu, E., Gentry, S., and Popovi&#263;, J. 2004. Example-based control of human motion. InACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), 69--77."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-14",
+                "unstructured": "Jain, A., Thorm&#228;hlen, T., Seidel, H.-P., and Theobalt, C. 2010. MovieReshape: Tracking and reshaping of humans in videos.ACM Trans. on Graphics (TOG) 29, 6, 148:1--148:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-15",
+                "unstructured": "Kider, J., Pollock, K., and Safonova, A. 2011. A data-driven appearance model for human fatigue. InACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), ACM, 119--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-16",
+                "unstructured": "Lee, S.-H., Sifakis, E., and Terzopoulos, D. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Trans. on Graphics (TOG) 28, 4, 99:1--99:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-17",
+                "unstructured": "Lee, D., Glueck, M., Khan, A., Fiume, E., and Jackson, K. 2012. Modeling and simulation of skeletal muscle for computer graphics: A survey.Foundations and Trends in Computer Graphics and Vision 7, 4, 229--276.",
+                "DOI": "10.1561/0600000036",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-18",
+                "unstructured": "Magnenat-Thalmann, N., Zhang, J. J., and Feng, D. D. 2009.Recent Advances in the 3D Physiological Human. Springer.",
+                "DOI": "10.1007/978-1-84882-565-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-19",
+                "unstructured": "Mines, A. H. 1981.Respiratory Physiology. Raven Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-20",
+                "unstructured": "Moreno, A., Chambon, S., Santhanam, A. P., Brocardo, R., Kupelian, P., Rolland, J. P., Angelini, E., and Bloch, I. 2007. Thoracic CT-PET registration using a 3D breathing model. InMedical Image Computing and ComputerAssisted Intervention (MICCAI). Springer, 626--633."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-21",
+                "unstructured": "MPI IS, 2011. http://bodyvisualizer.com/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-22",
+                "unstructured": "Neumann, T., Varanasi, K., Hasler, N., Wacker, M., Magnor, M., and Theobalt, C. 2013. Capture and statistical modeling of arm-muscle deformations.Computer Graphics Forum 32, 285--294.",
+                "DOI": "10.1111/cgf.12048",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-23",
+                "unstructured": "Park, S. I., and Hodgins, J. K. 2006. Capturing and animating skin deformation in human motion.ACM Trans. on Graphics (TOG) 25, 3, 881--889.",
+                "DOI": "10.1145/1141911.1141970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-24",
+                "unstructured": "Park, S. I., and Hodgins, J. K. 2008. Data-driven modeling of skin and muscle deformation.ACM Trans. on Graphics (TOG) 27, 3, 96:1--96:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-25",
+                "unstructured": "Park, M. J., and Shin, S. Y. 2004. Example-based motion cloning.Comp. Anim. and Virtual Worlds 15, 3-4, 245--257."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-26",
+                "unstructured": "Penne, J., Schaller, C., Hornegger, J., and Kuwert, T. 2008. Robust real-time 3D respiratory motion detection using Time-of-Flight cameras.International Journal of Computer Assisted Radiology and Surgery 3, 5, 427--431.",
+                "DOI": "10.1007/s11548-008-0245-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-27",
+                "unstructured": "Promayon, E., Baconnier, P., and Puech, C. 1997. Physically-based model for simulating the human trunk respiration movements. InComputer Vision, Virtual Reality and Robotics in Medicine and Medical Robotics and ComputerAssisted Surgery (CVRMed-MRCAS), Springer, 379--388."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-28",
+                "unstructured": "Robinette, K., Blackwell, S., Daanen, H., Boehmer, M., Fleming, S., Brill, T., Hoeferlin, D., and Burnsides, D. 2002. Civilian American and European Surface Anthropometry Resource (CAESAR) final report. Tech. Rep. AFRL-HE-WP-TR-2002-0169, US Air Force Research Laboratory.",
+                "DOI": "10.21236/ADA406704",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-29",
+                "unstructured": "Sanders, B., DiLorenzo, P., Zordan, V., and Bakal, D. 2009. Toward anatomical simulation for breath training in mind/body medicine. InRecent Advances in the 3D Physiological Human. Springer, 105--119.",
+                "DOI": "10.1007/978-1-84882-565-9_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-30",
+                "unstructured": "S&#225;nta, Z., and Kato, Z. 2013. Correspondence-less non-rigid registration of triangular surface meshes. InConference on Computer Vision and Pattern Recognition (CVPR), 2275--2282."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-31",
+                "unstructured": "Santhanam, A., Pattanaik, S., Rolland, J., Imielinska, C., and Norfleet, J. 2003. Physiologically-based modeling and visualization of deformable lungs. InPacific Conf. on Comp. Graphics and Applications, IEEE, 507--511."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-32",
+                "unstructured": "Stoll, C., Gall, J., De Aguiar, E., Thrun, S., and Theobalt, C. 2010. Video-based reconstruction of animatable human characters.ACM Trans. on Graphics (TOG) 29, 6, 139:1--139:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-33",
+                "unstructured": "Sumner, R. W., and Popovi&#263;, J. 2004. Deformation transfer for triangle meshes.ACM Trans. on Graphics (TOG) 23, 3, 399--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-34",
+                "unstructured": "Veltkamp, R. C., and Piest, B. 2009. A physiological torso model for realistic breathing simulation. InModelling the Physiological Human. Springer, 84--94.",
+                "DOI": "10.1007/978-3-642-10470-1_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-35",
+                "unstructured": "West, J. 2012.Respiratory Physiology: The Essentials. Lippincott Williams &#38; Wilkins."
+            },
+            {
+                "key": "key-10.1145/2601097.2601225-36",
+                "unstructured": "Zordan, V. B., Celly, B., Chiu, B., and DiLorenzo, P. C. 2004. Breathe Easy: Model and control of simulated respiration for animation. InACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), 29--37."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601225&amp;ftid=1488860&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:38Z",
+            "timestamp": 1565663678000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "capturing, modeling and animating 3D human breathing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601225",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,510 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:59Z",
+            "timestamp": 1574859839748
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000183",
+                "name": "Army Research Office",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W911NF-12-R-0011"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004543",
+                "name": "China Scholarship Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "201506020099"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GSC 111"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201344",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-17",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Singularity-constrained octahedral fields for hexahedral meshing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Heng",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "Edward",
+                "family": "Chien",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Bommes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201344-1",
+                "unstructured": "Cecil G. Armstrong, Harold J. Fogg, Christopher M. Tierney, and Trevor T. Robinson. 2015. Common Themes in Multi-block Structured Quad/Hex Mesh Generation.Procedia Engineering124, Supplement C (2015), 70 -- 82. 24th Int. Meshing Roundtable.",
+                "DOI": "10.1016/j.proeng.2015.10.123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-2",
+                "unstructured": "Tristan Carrier Baudouin, Jean-Fran&#231;ois Remade, Emilie Marchandise, Fran&#231;ois Henrotte, and Christophe Geuzaine. 2014. A frontal approach to hex-dominant mesh generation.Advanced Modeling and Simulation in Engineering Sciences1, 1 (10 Feb 2014), 8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-3",
+                "unstructured": "P.-E. Bernard, J.-F. Remade, N. Kowalski, and C. Geuzaine. 2016. Frame field smoothness-based approach for hex-dominant meshing.Computer-Aided Design72, Supplement C (2016), 78 -- 86. 23rd International Meshing Roundtable.",
+                "DOI": "10.1016/j.cad.2015.10.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-4",
+                "unstructured": "David Bommes, Marcel Campen, Hans-Christian Ebke, Pierre Alliez, and Leif Kobbelt. 2013a. Integer-grid Maps for Reliable Quad Meshing.ACM Trans. Graph.32, 4, Article 98 (July 2013), 12 pages.",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-5",
+                "unstructured": "David Bommes, Bruno L&#233;vy, Nico Pietroni, Enrico Puppo, Claudio Silva, Marco Tarini, and Denis Zorin. 2013b. Quad-Mesh Generation and Processing: A Survey.Computer Graphics Forum32, 6 (2013), 51--76.",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-6",
+                "unstructured": "David Bommes, Henrik Zimmer, and Leif Kobbelt. 2009. Mixed-integer Quadrangulation.ACM Trans. Graph.28, 3, Article 77 (July 2009), 10 pages.",
+                "DOI": "10.1145/1576246.1531383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-7",
+                "unstructured": "R. Bowen and S. Fisk. 1967. Generations of Triangulations of the Sphere.Math. Comp.21 (1967), 250--252."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-8",
+                "unstructured": "Marcel Campen, David Bommes, and Leif Kobbelt. 2015. Quantized Global Parametrization.ACM Trans. Graph.34, 6, Article 192 (Oct. 2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818140",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-9",
+                "unstructured": "Marcel Campen and Denis Zorin. 2017. Similarity Maps and Field-guided T-splines: A Perfect Couple.ACM Trans. Graph.36, 4, Article 91 (July 2017), 16 pages.",
+                "DOI": "10.1145/3072959.3073647",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-10",
+                "unstructured": "Keenan Crane, Mathieu Desbrun, and Peter Schr&#246;der. 2010. Trivial Connections on Discrete Surfaces.Computer Graphics Forum29, 5 (2010), 1525--1533.",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-11",
+                "unstructured": "Tamal K. Dey and Sumanta Guha. 1998. Computing Homology Groups of Simplicial Complexes in R3.J. ACM45, 2 (March 1998), 266--287.",
+                "DOI": "10.1145/274787.274810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-12",
+                "unstructured": "Hans-Christian Ebke, David Bommes, Marcel Campen, and Leif Kobbelt. 2013. QEx: Robust Quad Mesh Extraction.ACM Trans. Graph.32, 6, Article 168 (Nov. 2013), 168:1--168:10 pages.",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-13",
+                "unstructured": "Jeff Erickson. 2014. Efficiently Hex-Meshing Things with Topology.Discrete &#38; Computational Geometry52, 3 (Oct. 2014), 427--449.",
+                "DOI": "10.1007/s00454-014-9624-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-14",
+                "unstructured": "Xianzhong Fang, Weiwei Xu, Hujun Bao, and Jin Huang. 2016. All-hex Meshing Using Closed-form Induced Polycube.ACM Trans. Graph.35, 4, Article 124 (July 2016), 124:1--124:9 pages.",
+                "DOI": "10.1145/2897824.2925957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-15",
+                "unstructured": "Xiao-Ming Fu, Chong-Yang Bai, and Yang Liu. 2016. Efficient Volumetric PolyCube-Map Construction.Computer Graphics Forum35, 7 (2016), 97--106.",
+                "DOI": "10.1111/cgf.13007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-16",
+                "unstructured": "Xifeng Gao, Zhigang Deng, and Guoning Chen. 2015. Hexahedral Mesh Reparameterization from Aligned Base-complex.ACM Trans. Graph.34, 4, Article 142 (July 2015), 10 pages.",
+                "DOI": "10.1145/2766941",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-17",
+                "unstructured": "Xifeng Gao, Wenzel Jakob, Marco Tarini, and Daniele Panozzo. 2017a. Robust Hex-dominant Mesh Generation Using Field-guided Polyhedral Agglomeration.ACM Trans. Graph.36, 4, Article 114 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-18",
+                "unstructured": "Xifeng Gao, Daniele Panozzo, Wenping Wang, Zhigang Deng, and Guoning Chen. 2017b. Robust Structure Simplification for Hex Re-meshing.ACM Trans. Graph.36, 6, Article 185 (Nov. 2017), 13 pages.",
+                "DOI": "10.1145/3130800.3130848",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-19",
+                "unstructured": "James Gregson, Alla Sheffer, and Eugene Zhang. 2011. All-Hex Mesh Generation via Volumetric PolyCube Deformation.Computer Graphics Forum30, 5 (2011), 1407--1416.",
+                "DOI": "10.1111/j.1467-8659.2011.02015.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-20",
+                "unstructured": "Allen Hatcher. 2001.Algebraic Topology.Cambridge University Press, Cambridge, UK."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-21",
+                "unstructured": "Jin Huang, Tengfei Jiang, Zeyun Shi, Yiying Tong, Hujun Bao, and Mathieu Desbrun. 2014.l1-Based Construction of Polycube Maps from Complex Shapes.ACM Trans. Graph.33, 3, Article 25 (June 2014), 11 pages.",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-22",
+                "unstructured": "Jin Huang, Yiying Tong, Hongyu Wei, and Hujun Bao. 2011. Boundary Aligned Smooth 3D Cross-frame Field.ACM Trans. Graph.30, 6, Article 143 (Dec. 2011), 8 pages.",
+                "DOI": "10.1145/2070781.2024177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-23",
+                "unstructured": "Tengfei Jiang, Jin Huang, Yuanzhen Wang, Yiying Tong, and Hujun Bao. 2014. Frame Field Singularity Correction for Automatic Hexahedralization.IEEE Trans. on Visualization &#38; Computer Graphics20, 8 (Aug. 2014), 1189--1199.",
+                "DOI": "10.1109/TVCG.2013.250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-24",
+                "unstructured": "Felix Kaelberer, Matthias Nieser, and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings.Computer Graphics Forum26, 3 (2007), 375--384.",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-25",
+                "unstructured": "Felix Kn&#246;ppel, Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2013. Globally Optimal Direction Fields.ACM Trans. Graph.32, 4, Article 59 (July 2013), 10 pages.",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-26",
+                "unstructured": "N. Kowalski, F. Ledoux, and P. Frey. 2014. Block-structured Hexahedral Meshes for CAD Models Using 3D Frame Fields.Procedia Engineering82, Supplement C (2014), 59--71. 23rd International Meshing Roundtable (IMR23).",
+                "DOI": "10.1016/j.proeng.2014.10.373",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-27",
+                "unstructured": "N. Kowalski, F. Ledoux, and P. Frey 2016. Smoothness driven frame field generation for hexahedral meshing.Computer-Aided Design72, Supplement C (2016), 65 -- 77. 23rd International Meshing Roundtable.",
+                "DOI": "10.1016/j.cad.2015.06.009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-28",
+                "unstructured": "Michael Kremer, David Bommes, Isaak Lim, and Leif Kobbelt. 2014.Advanced Automatic Hexahedral Mesh Generation from Surface Quad Meshes.Springer International Publishing, Cham, 147--164.",
+                "DOI": "10.1007/978-3-319-02335-9_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-29",
+                "unstructured": "Yufei Li, Yang Liu, Weiwei Xu, Wenping Wang, and Baining Guo. 2012. All-hex Meshing Using Singularity-restricted Field.ACM Trans. Graph.31, 6, Article 177 (Nov. 2012), 11 pages.",
+                "DOI": "10.1145/2366145.2366196",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-30",
+                "unstructured": "Heng Liu, Paul Zhang, Edward Chien, Justin Solomon, and David Bommes. 2018. Source Code: Singularity-Constrained Octahedral Fields for Hexahedral Meshing, https://graphics.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields",
+                "DOI": "10.1145/3197517.3201344",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-31",
+                "unstructured": "Marco Livesu, Alla Sheffer, Nicholas Vining, and Marco Tarini. 2015. Practical Hex-mesh Optimization via Edge-cone Rectification.ACM Trans. Graph.34, 4, Article 141 (July 2015), 11 pages.",
+                "DOI": "10.1145/2766905",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-32",
+                "unstructured": "Max Lyon, David Bommes, and Leif Kobbelt. 2016. HexEx: Robust Hexahedral Mesh Extraction.ACM Trans. Graph.35, 4, Article 123 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-33",
+                "unstructured": "Loic Marechal. 2009. Advances in Octree-Based All-Hexahedral Mesh Generation: Handling Sharp Features. InProceedings of the 18th International Meshing Roundtable.Springer, Berlin, Heidelberg, 65--84.",
+                "DOI": "10.1007/978-3-642-04319-2_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-34",
+                "unstructured": "Tobias Martin, Elaine Cohen, and Robert M. Kirby. 2012. SMI 2012: Mixed-element Volume Completion from NURBS Surfaces.Comput. Graph.36, 5 (Aug. 2012), 7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-35",
+                "unstructured": "Karl Merkley, Corey Ernst, Jason Shepherd, and Michael Borden. 2008. Methods and Applications of Generalized Sheet Insertion for Hexahedral Meshing. InProceedings of the 16th International Meshing Roundtable.Springer Berlin Heidelberg, Berlin, Heidelberg, 233--250.",
+                "DOI": "10.1007/978-3-540-75103-8_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-36",
+                "unstructured": "N. Mishra and D.G. Sarvate. 2008. A Note on Non-Regular Planar Graphs.Journal of Combinatorial Mathematics and Combinatorial Computing66 (2008), 17--31."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-37",
+                "unstructured": "Matthias Nieser, Ulrich Reitebuch, and Konrad Polthier. 2011. CubeCover-Parameterization of 3D Volumes.Computer Graphics Forum30, 5 (2011), 1397--1406.",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-38",
+                "unstructured": "Jonathan Palacios, Lawrence Roy, Prashant Kumar, Chen-Yuan Hsu, Weikai Chen, ChongyangMa, Li-Yi Wei, and Eugene Zhang. 2017. Tensor Field Design in Volumes.ACM Trans. Graph.36, 6, Article 188 (Nov. 2017), 15 pages.",
+                "DOI": "10.1145/3130800.3130844",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-39",
+                "unstructured": "Nicolas Ray, Dmitry Sokolov, and Bruno L&#233;vy. 2016. Practical 3D Frame Field Generation.ACM Trans. Graph.35, 6, Article 233 (Nov. 2016), 9 pages.",
+                "DOI": "10.1145/2980179.2982408",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-40",
+                "unstructured": "Nicolas Ray, Dmitry Sokolov, Maxence Reberol, Franck Ledoux, and Bruno L&#233;vy 2017.Hexahedral Meshing: Mind the Gap!Technical Report. INRIA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-41",
+                "unstructured": "Nicolas Ray, Bruno Vallet, Wan Chiu Li, and Bruno L&#233;vy 2008. N-symmetry Direction Field Design.ACM Trans. Graph.27, 2, Article 10 (May 2008), 13 pages.",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-42",
+                "unstructured": "E. F. Schmeichel and S. L. Hakimi. 1977. On Planar Graphical Degree Sequences.SIAM J. Appl. Math.32, 3 (1977), 598--609.",
+                "DOI": "10.1137/0132048",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-43",
+                "unstructured": "Jason F. Shepherd and Chris R. Johnson. 2008. Hexahedral Mesh Generation Constraints.Eng with Comput.24, 3 (June 2008), 195--213.",
+                "DOI": "10.1007/s00366-008-0091-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-44",
+                "unstructured": "Dmitry Sokolov and Nicolas Ray. 2015.Fixing normal constraints for generation of polycubes.Technical Report. INRIA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-45",
+                "unstructured": "Dmitry Sokolov, Nicolas Ray, Lionel Untereiner, and Bruno L&#233;vy. 2016. Hexahedral-Dominant Meshing.ACM Trans. Graph.35, 5, Article 157 (June 2016), 23 pages.",
+                "DOI": "10.1145/2930662",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-46",
+                "unstructured": "Justin Solomon, Amir Vaxman, and David Bommes. 2017. Boundary Element Octahedral Fields in Volumes.ACM Trans. Graph.36, 3, Article 28 (May 2017), 16 pages.",
+                "DOI": "10.1145/3065254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-47",
+                "unstructured": "Marco Tarini, Kai Hormann, Paolo Cignoni, and Claudio Montani. 2004. PolyCube-Maps.ACM Trans. Graph.23, 3 (Aug. 2004), 853--860.",
+                "DOI": "10.1145/1015706.1015810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-48",
+                "unstructured": "Amir Vaxman, Marcel Campen, Olga Diamanti, Daniele Panozzo, David Bommes, Klaus Hildebrandt, and Mirela Ben-Chen. 2016. Directional Field Synthesis, Design, and Processing.Computer Graphics Forum35, 2 (2016), 545--572.",
+                "DOI": "10.1111/cgf.12864",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-49",
+                "unstructured": "Ryan Viertel, Matthew L Staten, and Franck Ledoux. 2016.Analysis of Non-Meshable Automatically Generated Frame Fields.Technical Report. Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-50",
+                "unstructured": "Rui Wang, Shuming Gao, Zhihao Zheng, and Jinming Chen. 2016. Frame Field Guided Topological Improvement for Hex Mesh Using Sheet Operations.Procedia Engineering163 (2016), 276 -- 288. 25th International Meshing Roundtable.",
+                "DOI": "10.1016/j.proeng.2016.11.060",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201344-51",
+                "unstructured": "W. Yu, K. Zhang, and X. Li. 2015. Recent algorithms on automatic hexahedral mesh generation. In2015 10th International Conference on Computer Science Education (ICCSE).697--702.",
+                "DOI": "10.1109/ICCSE.2015.7250335",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201344&ftid=1991779&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:14Z",
+            "timestamp": 1571673134000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201344",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

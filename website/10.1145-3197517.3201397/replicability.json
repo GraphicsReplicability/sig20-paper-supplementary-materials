@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/22/2020 12:19:47",
+    "Title": "Learning symmetric and low-energy locomotion",
+    "DOI": "10.1145/3197517.3201397",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "https://arxiv.org/abs/1801.08093",
+    "code URL": "https://github.com/VincentYu68/SymmetryCurriculumLocomotion",
+    "code URL  2": "",
+    "PDF URL": "https://www.cc.gatech.edu/~turk/paper_pages/2018_symmetric_locomotion/symmetric_low_energy_locomotion.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Other script",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 2,
+    "Feedbacks [Interface user-friendly (5=easy)]": 1,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Learning paradigms",
+    "ACM 2": "Animation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "All scripts are provided for reproducing the examples in the paper.\nThe dependencies can be easily installed using a script, but on ubuntu 19.10 I had to install libnlopt-cxx-dev.\nThe policy learning went well, but I was not able to produce the results of the paper, due to the failure of the test_policy function with error: Attempted to look up malformed environment ID: b'../data/precomp_data/dog_run1/policy_params.pkl'. (Currently all IDs must be of the form ^(?:[\\w:-]+\\/)?([\\w:.-]+)-v(\\d+)$.)\nThis occured also when testing the provided precomputed policies.\n\nI also tried with an older release of dart-env (v0.7.4 - 2017) which seems to be handling registration but the same problem occured.",
+    "Does the paper already have a reproducibility stamp": "Yes, http://www.replicabilitystamp.org",
+    "Citation count (google scholar)": 25,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "libeigen3-dev libassimp-dev libccd-dev libfcl-dev libboost-regex-dev libboost-system-dev libopenscenegraph-dev libbullet-dev liburdfdom-dev libnlopt-dev libxi-dev libxmu-dev freeglut3-dev libtinyxml2-dev  swig tensorflow numpy dart pydart",
+    "Project URL": "https://www.cc.gatech.edu/~turk/paper_pages/2018_symmetric_locomotion/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Wenhao",
+            "family": "Yu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Greg",
+            "family": "Turk",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "C. Karen",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 5.85,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=6&types=vvtttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=32180008"
+}

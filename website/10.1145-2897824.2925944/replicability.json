@@ -1,0 +1,111 @@
+{
+    "Timestamp": "12/31/2019 2:28:38",
+    "Title": "Beyond Developable: Computational Design and Fabrication with Auxetic Materials",
+    "DOI": "10.1145/2897824.2925944",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://lgg.epfl.ch/publications/2016/BeyondDevelopable/paper.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, No affiliation",
+    "ACM 1": "Shape modeling",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 64,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://lgg.epfl.ch/publications/2016/BeyondDevelopable/index.php",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "The pseudo-code in appendix is actually usable C++ code. However, it implements a fraction of the paper (the non penetration constraint in the optimizer, not the entire simulation).",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 1,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Mina",
+            "family": "Konakovi\u0107",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "EPFL"
+                }
+            ]
+        },
+        {
+            "given": "Keenan",
+            "family": "Crane",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CMU"
+                }
+            ]
+        },
+        {
+            "given": "Bailin",
+            "family": "Deng",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Hull"
+                }
+            ]
+        },
+        {
+            "given": "Sofien",
+            "family": "Bouaziz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "EPFL"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Piker",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Mark",
+            "family": "Pauly",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "EPFL"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

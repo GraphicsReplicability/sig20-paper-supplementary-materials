@@ -1,0 +1,105 @@
+{
+    "Timestamp": "12/5/2019 17:03:40",
+    "Title": "Rendering specular microgeometry with wave optics",
+    "DOI": "10.1145/3197517.3201351",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/lingqi/WaveOpticsBrdf",
+    "code URL  2": "",
+    "PDF URL": "https://cseweb.ucsd.edu/~ravir/waveoptics.pdf",
+    "License type": "GPL",
+    "Build mechanism": "Makefile",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "Missing Eigen dependency.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 13,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "openexr / eigen",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Ling-Qi",
+            "family": "Yan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Milo\u0161",
+            "family": "Ha\u0161an",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Autodesk"
+                }
+            ]
+        },
+        {
+            "given": "Bruce",
+            "family": "Walter",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Steve",
+            "family": "Marschner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Ravi",
+            "family": "Ramamoorthi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

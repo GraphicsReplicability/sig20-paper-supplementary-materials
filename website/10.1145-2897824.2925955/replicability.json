@@ -1,0 +1,75 @@
+{
+    "Timestamp": "1/2/2020 2:48:00",
+    "Title": "Spectral Style Transfer for Human Motion between Independent Actions",
+    "DOI": "10.1145/2897824.2925955",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://geometry.cs.ucl.ac.uk/projects/2016/spectral-style-transfer/paper_docs/SpectralStyleTransfer.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Motion processing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 35,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://geometry.cs.ucl.ac.uk/projects/2016/spectral-style-transfer/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "M. Ersin",
+            "family": "Yumer",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Niloy J.",
+            "family": "Mitra",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University College London"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.25,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=10351149"
+}

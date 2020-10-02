@@ -1,0 +1,530 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410028
+        },
+        "reference-count": 77,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "SIGMA-Vision"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1502435"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925903",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Entropic metric alignment for correspondence problems"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriel",
+                "family": "Peyr\u00e9",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNRS & Univ. Paris-Dauphine"
+                    }
+                ]
+            },
+            {
+                "given": "Vladimir G.",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Suvrit",
+                "family": "Sra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925903-1",
+                "unstructured": "Aflalo, Y., and Kimmel, R. 2013. Spectral multidimensional scaling.PNAS 110, 45, 18052--18057."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-2",
+                "unstructured": "Aflalo, Y., Bronstein, A. M., and Kimmel, R. 2014. Graph matching: relax or not?CoRR abs/1401.7623."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-3",
+                "unstructured": "Aflalo, Y., Bronstein, A., and Kimmel, R. 2015. On convex relaxation of graph isomorphism.Proc. National Academy of Sci. 112, 10, 2942--2947."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-4",
+                "unstructured": "Attouch, H., Bolte, J., Redont, P., and Soubeyran, A. 2010. Proximal alternating minimization and projection methods for nonconvex problems: An approach based on the Kurdyka-&#321;ojasiewicz inequality.Math. Oper. Res. 35, 2 (May), 438--457."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-5",
+                "unstructured": "Bauschke, H., and Combettes, P. 2011.Convex Analysis and Monotone Operator Theory in Hilbert Spaces.CMS.",
+                "DOI": "10.1007/978-1-4419-9467-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-6",
+                "unstructured": "Bauschke, H. H., Combettes, P. L., and Noll, D. 2006. Joint minimization with alternating Bregman proximity operators.Pacific J. Optim. 2, 3, 401--424."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-7",
+                "unstructured": "Benamou, J.-D., Carlier, G., Cuturi, M., Nenna, L., and Peyr&#233;, G. 2015. Iterative Bregman projections for regularized transportation problems.SIAM J. Sci. Comp. 37, 2, A1111--A1138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-8",
+                "unstructured": "Berg, A. C., Berg, T. L., and Malik, J. 2005. Shape matching and object recognition using low distortion correspondences. InProc. CVPR, vol. 1, 26--33.",
+                "DOI": "10.1109/CVPR.2005.320",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-9",
+                "unstructured": "Bonneel, N., van de Panne, M., Paris, S., and Heidrich, W. 2011. Displacement interpolation using Lagrangian mass transport.ACM Trans. Graph. 30, 6 (Dec.), 158:1--158:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-10",
+                "unstructured": "Bo&#355;, R. I., Csetnek, E. R., and L&#225;szl&#243;, S. C. 2015. An inertial forward--backward algorithm for the minimization of the sum of two nonconvex functions.EURO J. Comp. Optim., 1--23."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-11",
+                "unstructured": "Bregman, L. M. 1967. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming.USSR comp. math. and math. phys. 7, 3, 200--217."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-12",
+                "unstructured": "Bronstein, A. M., Bronstein, M. M., and Kimmel, R. 2006. Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching.PNAS 103, 5, 1168--1172.",
+                "DOI": "10.1073/pnas.0508601103",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-13",
+                "unstructured": "Bronstein, A. M., Bronstein, M. M., Kimmel, R., Mah-moudi, M., and Sapiro, G. 2010. A Gromov-Hausdorff framework with diffusion geometry for topologically-robust non-rigid shape matching.IJCV 89, 2-3, 266--286."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-14",
+                "unstructured": "Bronstein, A. M., Bronstein, M. M., Guibas, L. J., and Ovsjanikov, M. 2011. Shape Google: Geometric words and expressions for invariant shape retrieval.TOG 30, 1 (Feb.), 1:1--1:20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-15",
+                "unstructured": "&#199;ela, E. 2013.The Quadratic Assignment Problem: Theory and Algorithms.Combinatorial Optim. Springer."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-16",
+                "unstructured": "Chen, Q., and Koltun, V. 2015. Robust nonrigid registration by convex optimization. InProc. ICCV, 2039--2047."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-17",
+                "unstructured": "Chen, Y., Guibas, L., and Huang, Q. 2014. Near-optimal joint object matching via convex relaxation. InProc. ICML, JMLR Workshop and Conference Proceedings, 100--108."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-18",
+                "unstructured": "Combettes, P. L., and Pesquet, J.-C. 2011. Proximal splitting methods in signal processing. InFixed-point algorithms for inverse problems in science and engineering. 185--212.",
+                "DOI": "10.1007/978-1-4419-9569-8_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-19",
+                "unstructured": "Coste, M. 1999. An introduction to O-minimal geometry. Tech. rep., Institut de Recherche Mathematiques de Rennes, November."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-20",
+                "unstructured": "Cuturi, M. 2013. Sinkhorn distances: Lightspeed computation of optimal transportation. InProc. NIPS, vol. 26. 2292--2300."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-21",
+                "unstructured": "De Goes, F., Cohen-Steiner, D., Alliez, P., and Desbrun, M. 2011. An optimal transport approach to robust reconstruction and simplification of 2d shapes. InCGF, vol. 30, 1593--1602."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-22",
+                "unstructured": "de Goes, F., Breeden, K., Ostromoukhov, V., and Desbrun, M. 2012. Blue noise through optimal transport.ACM Trans. Graph. 31, 6 (Nov.), 171:1--171:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-23",
+                "unstructured": "de Goes, F., Wallez, C., Huang, J., Pavlov, D., and Desbrun, M. 2015. Power particles: An incompressible fluid solver based on power diagrams.ACM Trans. Graph. 34, 4 (July), 50:1--50:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-24",
+                "unstructured": "Fried, O., DiVerdi, S., Halber, M., Sizikova, E., and Finkelstein, A. 2015. IsoMatch: Creating informative grid layouts. InCGF, vol. 34, 155--166."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-25",
+                "unstructured": "Gaussier, E., and Goutte, C. 2005. Relation between pLSA and NMF and implications. InProc. SIGIR, 601--602."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-26",
+                "unstructured": "Giorgi, D., Biasotti, S., and Paraboschi, L. 2007. Shrec: shape retrieval contest: Watertight models track.http://watertight.ge.imati.cnr.it."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-27",
+                "unstructured": "Gold, S., and Rangarajan, A. 1996. A graduated assignment algorithm for graph matching.PAMI 18, 4 (Apr.), 377--388."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-28",
+                "unstructured": "Gromov, M. 2001.Metric Structures for Riemannian and Non-Riemannian Spaces. Progress in Math. Birkh&#228;user."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-29",
+                "unstructured": "Hofmann, T. 1999. Probabilistic latent semantic indexing. InProc. SIGIR, 50--57."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-30",
+                "unstructured": "Huang, Q., and Guibas, L. 2013. Consistent shape maps via semidefinite programming. InProc. SGP, 177--186."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-31",
+                "unstructured": "Hunter, D., and Lange, K. 2000. Quantile regression via an MM algorithm.J. Comp. and Graphical Stats. 9, 1, 60--77."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-32",
+                "unstructured": "Kezurer, I., Kovalsky, S. Z., Basri, R., and Lipman, Y. 2015. Tight relaxation of quadratic matching.CGF.",
+                "DOI": "10.1111/cgf.12701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-33",
+                "unstructured": "Kim, V. G., Lipman, Y., and Funkhouser, T. 2011. Blended intrinsic maps.ACM Trans. Graph. 30, 4 (July), 79:1--79:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-34",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N. J., DiVerdi, S., and Funkhouser, T. 2012. Exploring collections of 3d models using fuzzy correspondences.ACM Trans. Graph. 31, 4 (July), 54:1--54:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-35",
+                "unstructured": "Kurdyka, K. 1998. On gradients of functions definable in o-minimal structures.Annales de l'institut Fourier 48, 3, 769--783."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-36",
+                "unstructured": "Lanckriet, G. R., and Sriperumbudur, B. K. 2009. On the convergence of the concave-convex procedure. InProc. NIPS, 1759--1767."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-37",
+                "unstructured": "Leordeanu, M., and Hebert, M. 2005. A spectral technique for correspondence problems using pairwise constraints. InProc. ICCV, 1482--1489."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-38",
+                "unstructured": "Loiola, E. M., de Abreu, N. M. M., Boaventura-Netto, P. O., Hahn, P., and Querido, T. 2007. A survey for the quadratic assignment problem.European J. Operational Research 176, 2, 657--690."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-39",
+                "unstructured": "&#321;ojasiewicz, S. 1963. Une propri&#233;t&#233; topologique des sousensembles analytiques r&#233;els.Les &#233;quations aux d&#233;riv&#233;es partielles, 87--89."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-40",
+                "unstructured": "&#321;ojasiewicz, S. 1993. Sur la g&#233;om&#233;trie semi-et sous-analytique. InAnnales de l'institut Fourier, vol. 43, 1575--1595."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-41",
+                "unstructured": "Lyzinski, V., Fishkind, D., Fiori, M., Vogelstein, J., Priebe, C., and Sapiro, G. 2015. Graph matching: Relax at your own risk.PAMI.",
+                "DOI": "10.1109/TPAMI.2015.2424894",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-42",
+                "unstructured": "M&#233;moli, F. 2007. On the use of Gromov--Hausdorff distances for shape comparison. InSymposium on Point Based Graphics.81--90."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-43",
+                "unstructured": "M&#233;moli, F. 2008. Gromov--Hausdorff distances in Euclidean spaces. InProc. CVPR Workshops, 1--8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-44",
+                "unstructured": "M&#233;moli, F. 2009. Spectral Gromov-Wasserstein distances for shape matching. InProc. ICCV Workshops, 256--263."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-45",
+                "unstructured": "M&#233;moli, F. 2011. Gromov--Wasserstein distances and the metric approach to object matching.Foundations of Comp. Math. 11, 4, 417--487."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-46",
+                "unstructured": "M&#233;moli, F. 2014. The Gromov--Wasserstein distance: A brief overview.Axioms 3, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-47",
+                "unstructured": "M&#233;rigot, Q. 2011. A multiscale approach to optimal transport. InCGF, vol. 30, 1583--1592."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-48",
+                "unstructured": "Meyer, R. R. 1976. Sufficient conditions for the convergence of monotonic mathematical programming algorithms.J. Comput. Syst. Sci. 12, 1 (Feb.), 108--121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-49",
+                "unstructured": "Ovsjanikov, M., M&#233;rigot, Q., M&#233;moli, F., and Guibas, L. 2010. One point isometric matching with the heat kernel. InCGF, vol. 29, 1555--1564."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-50",
+                "unstructured": "Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., and Guibas, L. 2012. Functional maps: A flexible representation of maps between shapes.ACM Trans. Graph. 31, 4 (July), 30:1--30:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-51",
+                "unstructured": "Pachauri, D., Kondor, R., and Singh, V. 2013. Solving the multi-way matching problem by permutation synchronization. InProc. NIPS. 1860--1868."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-52",
+                "unstructured": "Pardalos, P., and Wolkowicz, H., Eds. 1994.Quadratic Assignment and Related Problems. AMS.",
+                "DOI": "10.1090/dimacs/016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-53",
+                "unstructured": "Pauly, M., 2015. The beauty of geometry (SGP keynote), July."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-54",
+                "unstructured": "Quadrianto, N., Song, L., and Smola, A. J. 2009. Kernelized sorting. InProc. NIPS, vol. 21. 1289--1296."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-55",
+                "unstructured": "Rangarajan, A., Gold, S., and Mjolsness, E. 1996. A novel optimizing network architecture with applications.Neural Comp. 8, 5, 1041--1060."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-56",
+                "unstructured": "Rangarajan, A., Yuille, A. L., Gold, S., and Mjolsness, E. 1997. A convergence proof for the softassign quadratic assignment algorithm.Proc. NIPS, 620--626."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-57",
+                "unstructured": "Rangarajan, A., Yuille, A., and Mjolsness, E. 1999. Convergence properties of the softassign quadratic assignment algorithm.Neural Comput. 11, 6 (Aug.), 1455--1474."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-58",
+                "unstructured": "Rubner, Y., Tomasi, C., and Guibas, L. J. 2000. The earth mover's distance as a metric for image retrieval.IJCV 40, 2 (Nov.), 99--121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-59",
+                "unstructured": "Rustamov, R. M., Ovsjanikov, M., Azencot, O., Ben-Chen, M., Chazal, F., and Guibas, L. 2013. Map-based exploration of intrinsic shape differences and variability.TOG 32, 4 (July), 72:1--72:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-60",
+                "unstructured": "Sahni, S., and Gonzalez, T. 1976. P-complete approximation problems.J. ACM 23, 3 (July), 555--565."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-61",
+                "unstructured": "Sahni, S. 1974. Computationally related problems.SIAM J. Comp. 3, 4, 262--279."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-62",
+                "unstructured": "Schwartzburg, Y., Testuz, R., Tagliasacchi, A., and Pauly, M. 2014. High-contrast computational caustic design.ACM Trans. Graph. 33, 4 (July), 74:1--74:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-63",
+                "unstructured": "Smola, A., Gretton, A., Song, L., and Sch&#246;lkopf, B. 2007. A Hilbert space embedding for distributions. InAlgorithmic Learning Theory, vol. 4754 of LNCS. 13--31.",
+                "DOI": "10.1007/978-3-540-75225-7_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-64",
+                "unstructured": "Solomon, J., Nguyen, A., Butscher, A., Ben-Chen, M., and Guibas, L. 2012. Soft maps between surfaces.CGF 31, 5 (Aug.), 1617--1626."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-65",
+                "unstructured": "Solomon, J., Guibas, L., and Butscher, A. 2013. Dirichlet energy for analysis and synthesis of soft maps. InCGF, vol. 32, 197--206."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-66",
+                "unstructured": "Solomon, J., Rustamov, R., Guibas, L., and Butscher, A. 2014. Earth mover's distances on discrete surfaces.ACM Trans. Graph. 33, 4 (July), 67:1--67:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-67",
+                "unstructured": "Solomon, J., de Goes, F., Peyr&#233;, G., Cuturi, M., Butscher, A., Nguyen, A., Du, T., and Guibas, L. 2015. Convolutional Wasserstein distances: Efficient optimal transportation on geometric domains.TOG 34, 4 (July), 66:1--66:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-68",
+                "unstructured": "Sturm, K.-T. 2012. The space of spaces: curvature bounds and gradient flows on the space of metric measure spaces. Preprint 1208.0434, arXiv."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-69",
+                "unstructured": "Sun, J., Qu, Q., and Wright, J. 2015. When are nonconvex problems not scary?arXiv:1510.06096."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-70",
+                "unstructured": "Tangelder, J. W., and Veltkamp, R. C. 2008. A survey of content based 3d shape retrieval methods.Multimedia Tools Appl. 39, 3 (Sept.), 441--471."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-71",
+                "unstructured": "Thakoor, N., Gao, J., and Jung, S. 2007. Hidden Markov model-based weighted likelihood discriminant for 2-D shape classification.Trans. Image Proc. 16, 11, 2707--2719."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-72",
+                "unstructured": "Tropp, J. A., 2003. An alternating minimization algorithm for non-negative matrix approximation."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-73",
+                "unstructured": "Urakawa, H. 2013.Calculus of Variations and Harmonic Maps.Translations of Math. Monographs. AMS."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-74",
+                "unstructured": "van Kaick, O., Zhang, H., Hamarneh, G., and Cohen-Or, D. 2011. A survey on shape correspondence.CGF 30, 6, 1681--1707."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-75",
+                "unstructured": "Villani, C. 2003.Topics in Optimal Transportation. Graduate studies in Math. AMS.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-76",
+                "unstructured": "Waltz, R. A., Morales, J. L., Nocedal, J., and Orban, D. 2006. An interior algorithm for nonlinear optimization that combines line search and trust region steps.Math. Program. 107, 3 (July), 391--408."
+            },
+            {
+                "key": "key-10.1145/2897824.2925903-77",
+                "unstructured": "Wei, L., Huang, Q., Ceylan, D., Vouga, E., and Li, H. 2015. Dense human body correspondences using convolutional networks.CoRR abs/1511.05904.",
+                "DOI": "10.1109/CVPR.2016.171",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925903&amp;ftid=1755935&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:43:28Z",
+            "timestamp": 1568162608000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 77,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925903",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:54Z",
+            "timestamp": 1574815974396
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925910",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Resolving fluid boundary layers with particle strength exchange and weak adaptivity"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xinxin",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science"
+                    }
+                ]
+            },
+            {
+                "given": "Minchen",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Bridson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science, Autodesk Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925910-1",
+                "unstructured": "Ando, R., Th&#252;rey, N., and Wojtan, C. 2013. Highly adaptive liquid simulations on tetrahedral meshes.ACM Trans. Graph. (Proc. SIGGRAPH 2013)(July).",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-2",
+                "unstructured": "Ando, R., Th&#252;rey, N., and Wojtan, C. 2015. A dimension-reduced pressure solver for liquid simulations.EUROGRAPHICS 2015."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-3",
+                "unstructured": "Batty, C., Bertails, F., and Bridson, R. 2007. A fast variational framework for accurate solid-fluid coupling.ACM Trans. Graph. (Proc. SIGGRAPH) 26, 3, 100."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-4",
+                "unstructured": "Bridson, R. 2008.Fluid Simulation for Computer Graphics. A K Peters / CRC Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-5",
+                "unstructured": "Chorin, A. J. 1973. Numerical study of slightly viscous flow.Journal of Fluid Mechanics Digital Archive 57, 04, 785--796."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-6",
+                "unstructured": "Edwards, E., and Bridson, R. 2014. Detailed water with coarse grids: combining surface meshes and adaptive discontinuous Galerkin.ACM Trans. Graph. (Proc. SIGGRAPH) 33, 4, 136:1--9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-7",
+                "unstructured": "English, R. E., Qiu, L., Yu, Y., and Fedkiw, R. 2013. Chimera grids for water simulation. InProceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '13, 85--94.",
+                "DOI": "10.1145/2485895.2485897",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-8",
+                "unstructured": "Fedkiw, R., Stam, J., and Jensen, H. W. 2001. Visual simulation of smoke. InProc. ACM SIGGRAPH, 15--22."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-9",
+                "unstructured": "Ferstl, F., Westermann, R., and Dick, C. 2014. Large-scale liquid simulation on adaptive hexahedral grids.Visualization and Computer Graphics, IEEE Transactions on PP, 99, 1--1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-10",
+                "unstructured": "Gamito, M. N., Lopes, P. F., and Gomes, M. R. 1995. Two-dimensional simulation of gaseous phenomena using vortex particles. InComputer Animation and Simulation '95, Eurographics. Springer Vienna, 3--15.",
+                "DOI": "10.1007/978-3-7091-9435-5_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-11",
+                "unstructured": "Golas, A., Narain, R., Sewall, J., Krajcevski, P., Dubey, P., and Lin, M. 2012. Large-scale fluid simulation using velocity-vorticity domain decomposition.ACM Transactions on Graphics (TOG) 31, 6, 148."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-12",
+                "unstructured": "Jiang, C., Schroeder, C., Selle, A., Teran, J., and Stomakhin, A. 2015. The affine particle-in-cell method.ACM Trans. Graph. 34, 4 (July), 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-13",
+                "unstructured": "Kim, T., Thurey, N., James, D., and Gross, M. H. 2008. Wavelet turbulence for fluid simulation.ACM Trans. Graph. (Proc. SIGGRAPH) 27, 3, 50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-14",
+                "unstructured": "Lentine, M., Zheng, W., and Fedkiw, R. 2010. A novel algorithm for incompressible flow using only a coarse grid projection.ACM Trans. Graph. 29, 4 (July), 114:1--114:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-15",
+                "unstructured": "Lienhard, J. 1966.Synopsis of Lift, Drag, and Vortex Frequency Data for Rigid Circular Cylinders.Bulletin (Washington State University. College of Engineering. Research Division). Technical Extension Service, Washington State University."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-16",
+                "unstructured": "Losasso, F., Gibou, F., and Fedkiw, R. 2004. Simulating water and smoke with an octree data structure.ACM Trans. Graph. (Proc. SIGGRAPH) 23, 3, 457--462."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-17",
+                "unstructured": "Mas-Gallic, S. 1995. Particle approximation of a linear convection-diffusion problem with Neumann boundary conditions.SIAM J. Numer. Anal. 32, 4 (Aug.), 1098--1125."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-18",
+                "unstructured": "McAdams, A., Sifakis, E., and Teran, J. 2010. A parallel multigrid poisson solver for fluids simulation on large grids. InProc. ACM SIGGRAPH / Eurographics Symp. Comp. Anim., 65--74."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-19",
+                "unstructured": "Molemaker, J., Cohen, J. M., Patel, S., and Noh, J. 2008. Low viscosity flow simulations for animation. InSCA '08: Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, 9--18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-20",
+                "unstructured": "Park, S. I., and Kim, M.-J. 2005. Vortex fluid for gaseous phenomena. InProc. ACM SIGGRAPH / Eurographics Symp. Comp. Animation, 261--270."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-21",
+                "unstructured": "Pfaff, T., Thuerey, N., Selle, A., and Gross, M. 2009. Synthetic turbulence using artificial boundary layers.ACM Trans. Graph. 28, 5, 121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-22",
+                "unstructured": "Ralston, A. 1962. Runge-Kutta methods with minimum error bounds.Mathematics of Computation 16, 80, 431--437."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-23",
+                "unstructured": "Rivoalen, E., and Huberson, S. 2001. The particle strength exchange method applied to axisymmetric viscous flows.J. Comput. Phys. 168, 2 (Apr.), 519--526."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-24",
+                "unstructured": "Schechter, H., and Bridson, R. 2008. Evolving sub-grid turbulence for smoke animation. InProceedings of the 2008 ACM/Eurographics Symposium on Computer Animation."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-25",
+                "unstructured": "Setaluri, R., Aanjaneya, M., Bauer, S., and Sifakis, E. 2014. SPGrid: A sparse paged grid structure applied to adaptive smoke simulation.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 33, 6, 205:1--205:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-26",
+                "unstructured": "Song, O.-Y., Kim, D., and Ko, H.-S. 2007. Derivative particles for simulating detailed movements of fluids.IEEE Trans. Vis. Comp. Graph. 13, 4, 711--719."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-27",
+                "unstructured": "Steinhoff, J., and Underhill, D. 1994. Modification of the Euler equations for \"vorticity confinement\": Application to the computation of interacting vortex rings.Physics of Fluids 6, 2738--2744.",
+                "DOI": "10.1063/1.868164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-28",
+                "unstructured": "Stock, M. J., and Gharakhani, A. 2010. A GPU-accelerated boundary element method and vortex particle method. InAIAA 40th Fluid Dynamics Conference and Exhibit (July 2010), 1.",
+                "DOI": "10.2514/6.2010-5099",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-29",
+                "unstructured": "Stock, M. J., Gharakhani, A., and Stone, C. P. 2010. Modeling rotor wakes with a hybrid OVERFLOW-vortex method on a GPU cluster. In28th AIAA Applied Aerodynamics Conference, vol. 20.",
+                "DOI": "10.2514/6.2010-4553",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-30",
+                "unstructured": "Van Dyke, M. 1982.An album of fluid motion. Parabolic Press.",
+                "DOI": "10.1115/1.3241909",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-31",
+                "unstructured": "Zhang, X., and Bridson, R. 2014. A PPPM fast summation method for fluids and beyond.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 33, 6, 206:1--11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-32",
+                "unstructured": "Zhang, X., Bridson, R., and Greif, C. 2015. Restoring the missing vorticity in advection-projection fluid solvers.ACM Trans. Graph. 34, 4 (July), 52:1--52:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925910-33",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid.ACM Trans. Graph. (Proc. SIGGRAPH) 24, 3, 965--972."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925910&amp;ftid=1755908&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:44:05Z",
+            "timestamp": 1568162645000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925910",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

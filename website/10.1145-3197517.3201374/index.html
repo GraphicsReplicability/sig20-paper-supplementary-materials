@@ -1,0 +1,99 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">A high-performance software graphics pipeline architecture for the GPU <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Michael <span class="family">Kenzel</span></li>
+<li> Bernhard <span class="family">Kerbl</span></li>
+<li> Dieter <span class="family">Schmalstieg</span></li>
+<li> Markus <span class="family">Steinberger</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201374">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.markussteinberger.net/papers/cuRE.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/GPUPeople/cuRE">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201374-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201374-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..), Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Closed source (e.g. commercial) software or libraries free for research purposes</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 0</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   10</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>To compile the software, a number of steps need to be performed:
+
+- In dependencies/image_tools/source/dds.cpp (line 11) and pfm.cpp (line 10) change 
+#include <core/utils/io> to #include "io.h"
+
+- In pfm.cpp, line 32: change read(data(img) + w * (h - 1 - j), file, w); to read(file, data(img) + w * (h - 1 - j), w);
+- In dds.cpp, line 77: change return read(buffer, file, width * pixel_size); to return read(file, buffer, width * pixel_size);
+- In dds.cpp, line 83: change read(buffer + y * width * pixel_size, file, width * pixel_size); to read(file, buffer + y * width * pixel_size, width * pixel_size);
+- In dds.cpp, line 97: change read<char, 4>(magic_num, file); to  read<char, 4>(file, magic_num);
+
+- In dependencies/config_tools/include/configfile/Stream.h (line 15), Database.h (line 11), log.h (line 12), change
+#include <core/interface> to #include "../../../core_tools/include/core/interface.h"
+- in configfile.cpp, line 11: 
+change #include <core/utils/memory> to #include "../../../core_tools/include/core/utils/memory.h"
+- In source/cure/materials/OceanMaterial.cpp and source/cure/Geometry.cpp
+change #include <core/utils/memory> to #include "../build/dependencies/core_tools/include/core/utils/memory.h"
+
+- In the library paths of cuREREnderer, add the path to CUPTI, which was for me:
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\extras\CUPTI\lib64
+
+- In cure.vcxproj, cudaraster.vcxproj and freepipe.vcxproj, edit 
+<Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 10.0.props" />
+to your actual CUDA props path ; mine is:
+<Import Project="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\extras\visual_studio_integration\MSBuildExtensions\CUDA 10.2.props" />
+and same thing for the corresponding .targets.
+
+After that, the software compiles fine with Visual Studio and runs fine with my NVIDIA GeForce RTX 2080.
+
+However it has been tested with a Quadro M1000M (under Linux) and only the OpenGL renderer worked (probably the graphics card is not supported). There were no error message indicating why the different plugins could be loaded.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,3,3,0,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

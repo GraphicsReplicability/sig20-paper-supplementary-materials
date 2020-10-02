@@ -1,0 +1,414 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ],
+            "date-time": "2020-01-10T18:23:34Z",
+            "timestamp": 1578680614631
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSERC Postdoctoral Fellowship",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1116718 (AdaCID)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601144",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 36,
+        "title": [
+            "A compressive light field projection system"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Matthew",
+                "family": "Hirsch",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ramesh",
+                "family": "Raskar",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601144-1",
+                "unstructured": "Akeley, K., Watt, S. J., Girshick, A. R., and Banks, M. S. 2004. A Stereo Display Prototype with Multiple Focal Distances.ACM Trans. Graph. (SIGGRAPH) 23, 804--813.",
+                "DOI": "10.1145/1015706.1015804",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-2",
+                "unstructured": "Balogh, T. 2006. The HoloVizio System. InProc. SPIE 6055, vol. 60550U.",
+                "DOI": "10.1117/12.650907",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-3",
+                "unstructured": "Berthouzoz, F., and Fattal, R. 2012. Resolution Enhancement by Vibrating Displays.ACM Trans. Graph. 31, 2, 15:1--14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-4",
+                "unstructured": "Bogaert, L., Meuret, Y., Roelandt, S., Avci, A., Smet, H. D., and Thienpont, H. 2010. Single Projector Multiview Displays: Directional Illumination Compared to Beam Steering. InProc. SPIE 7524, vol. 75241R.",
+                "DOI": "10.1117/12.838678",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-5",
+                "unstructured": "Cichocki, A., Zdunek, R., Phan, A. H., and ichi Amari, S. 2009.Nonnegative Matrix and Tensor Factorizations. Wiley.",
+                "DOI": "10.1002/9780470747278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-6",
+                "unstructured": "Cossairt, O., and Favalora, G., 2006. Minimized-Thickness Angular Scanner of Electromagnetic Radiation, Apr. 26. US Patent App. 11/380,296."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-7",
+                "unstructured": "Cossairt, O. S., Napoli, J., Hill, S. L., Dorval, R. K., and Favalora, G. E. 2007. Occlusion-Capable Multiview Volumetric Three-Dimensional Display.Applied Optics 46, 8, 1244--1250.",
+                "DOI": "10.1364/AO.46.001244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-8",
+                "unstructured": "Damera-Venkata, N., and Chang, N. L. 2009. Display Supersampling.ACM Trans. Graph. 28, 1, 9:1--9:19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-9",
+                "unstructured": "Dodgson, N. A., Moore, J. R., Lang, S. R., Martin, G., and Canepa, P. 2000. A time-sequential multi-projector autostereoscopic display.Journal of the SID 8, 2, 169--176."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-10",
+                "unstructured": "Eichenlaub, J. B. 2005. Optical System Which Projects Small Volumetric Images to Very Large Size. InElectronic Imaging 2005, International Society for Optics and Photonics, 313--322."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-11",
+                "unstructured": "Funk, W. 2012. History of Autostereoscopic Cinema. InProc. SPIE 8288, vol. 82880R.",
+                "DOI": "10.1117/12.909410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-12",
+                "unstructured": "Gabor, D., 1944. Optical System Composed of Lenticules, June 13. US Patent 2,351,034."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-13",
+                "unstructured": "Grosse, M., Wetzstein, G., Grundh&#246;fer, A., and Bimber, O. 2010. Coded Aperture Projection.ACM Trans. Graph. 29, 22:1--22:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-14",
+                "unstructured": "Hecht, E. 2002.Optics, fourth edition. Addison Wesley."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-15",
+                "unstructured": "Heide, F., Wetzstein, G., Raskar, R., and Heidrich, W. 2013. Adaptive Image Synthesis for Compressive Displays.ACM Trans. Graph. (Proc. SIGGRAPH) 32, 4, 132:1--132:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-16",
+                "unstructured": "Heide, F., Gregson, J., Wetzstein, G., Raskar, R., and Heidrich, W. 2014. A Compressive Multi-Mode Superresolution Display.ArXiv e-prints(Apr.).",
+                "DOI": "10.1364/COSI.2014.CM4C.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-17",
+                "unstructured": "Hembd-S&#246;lner, C., Stevens, R. F., and Hutley, M. C. 1999. Imaging Properties of the Gabor Superlens.Journal of Optics A: Pure and Applied Optics 1, 1, 94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-18",
+                "unstructured": "Hong, J., Kim, Y., Park, S.-G., Hong, J.-H., Min, S.-W., Lee, S.-D., and Lee, B. 2010. 3D/2D Convertible Projection-type Integral Imaging using Concave Half Mirror Array.Optics Express 18.",
+                "DOI": "10.1364/OE.18.020628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-19",
+                "unstructured": "Hsu, F.-H., 2008. Three-Dimensional (3D) Image Projection. US patent 7425070 B2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-20",
+                "unstructured": "Ives, H., 1903. Parallax Stereogram and Process of Making Same. US patent 725,567."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-21",
+                "unstructured": "Ives, H. 1928. Camera for Making Parallax Panoramagrams.J. Opt. Soc. Amer. 17, 435--439.",
+                "DOI": "10.1364/JOSA.17.000435",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-22",
+                "unstructured": "Jacobs, A., Mather, J., Winlow, R., Montgomery, D., Jones, G., Willis, M., Tillin, M., Hill, L., Khazova, M., Stevenson, H., and Bourhill, G. 2003. 2D/3D switchable displays.Sharp Technical Journal, 4, 15--18."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-23",
+                "unstructured": "Jones, A., McDowall, I., Yamada, H., Bolas, M., and Debevec, P. 2007. Rendering for an Interactive 360&#176; Light Field Display.ACM Trans. Graph. (SIGGRAPH) 26, 40:1--40:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-24",
+                "unstructured": "Jones, A., Liu, J., Busch, J., Debevec, P., Bolas, M., and Yu, X., 2013. An Autostereoscopic Projector Array Optimized for 3D Facial Display. SIGGRAPH Emerging Technologies."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-25",
+                "unstructured": "Jurik, J., Jones, A., Bolas, M., and Debevec, P. 2011. Prototyping a Light Field Display Involving Direct Observation of a Video Projector Array. InProc. ProCams, IEEE.",
+                "DOI": "10.1109/CVPRW.2011.5981693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-26",
+                "unstructured": "Kim, Y., Hong, K., Yeom, J., Hong, J., Jung, J.-H., Lee, Y. W., Park, J.-H., and Lee, B. 2012. A Frontal Projection-type Three-dimensional Display.Optics Express 20.",
+                "DOI": "10.1364/OE.20.020130",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-27",
+                "unstructured": "Kimura, H., Uchiyama, T., and Yoshikawa, H. 2006. Laser Produced 3D Display in the Air. InSIGGRAPH Emerging Technologies, ACM, 20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-28",
+                "unstructured": "Lanman, D., Hirsch, M., Kim, Y., and Raskar, R. 2010. Content-Adaptive Parallax Barriers: Optimizing Dual-Layer 3D Displays using Low-Rank Light Field Factorization.ACM Trans. Graph. (SIGGRAPH Asia) 28, 5, 1--10.",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-29",
+                "unstructured": "Lanman, D., Wetzstein, G., Hirsch, M., Heidrich, W., and Raskar, R. 2011. Polarization Fields: Dynamic Light Field Display Using Multi-Layer LCDs.ACM Trans. Graph. (SIGGRAPH Asia) 30, 6, 186."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-30",
+                "unstructured": "Lee, D. D., and Seung, S. 1999. Learning the Parts of Objects by Non-negative Matrix Factorization.Nature 401, 788--791.",
+                "DOI": "10.1038/44565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-31",
+                "unstructured": "Lippmann, G. 1908. La Photographie Int&#233;grale.Academie des Sciences 146, 446--451."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-32",
+                "unstructured": "Maimone, A., Wetzstein, G., Lanman, D., Hirsch, M., Raskar, R., and Fuchs, H. 2013. Focus 3D: Compressive Accommodation Display.ACM Trans. Graph. (TOG) 32, 5, 153:1--153:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-33",
+                "unstructured": "Masia, B., Wetzstein, G., Didyk, P., and Gutierrez, D. 2013. A survey on computational displays: Pushing the boundaries of optics, computation, and perception.Computers &#38; Graphics 37, 8, 1012--1038.",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-34",
+                "unstructured": "Matusik, W., and Pfister, H. 2004. 3D TV: a Scalable System for Real-time Acquisition, Transmission, and Autostereoscopic Display of Dynamic Scenes.ACM Trans. on Graph. (SIGGRAPH) 23, 814--824.",
+                "DOI": "10.1145/1015706.1015805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-35",
+                "unstructured": "Meuret, Y., Bogaert, L., Roelandt, S., Vanderheijden, J., Avci, A., Smet, H. D., and Thienpont, H. 2010. LED Projection Architectures for Stereoscopic and Multiview 3D Displays. InProc. SPIE 7690, vol. 769007."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-36",
+                "unstructured": "Nims, J., and Lo, A., 1972. 3-D Screen and System. US patent 3,814,513."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-37",
+                "unstructured": "Perlin, K., Paxia, S., and Kollin, J. S. 2000. An Autostereoscopic Display. InACM SIGGRAPH, ACM, 319--326.",
+                "DOI": "10.1145/344779.344933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-38",
+                "unstructured": "Sajadi, B., Gopi, M., and Majumder, A. 2012. Edge-Guided Resolution Enhancement in Projectors via Optical Pixel Sharing.ACM Trans. Graph. 31, 4, 79."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-39",
+                "unstructured": "Sajadi, B., Lai, D.-Q., Iher, A., Gopi, M., and Majumder, A. 2013. Image Enhancement in Projectors Via Optical Pixel Shift and Overlay. InProc. IEEE ICCP, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-40",
+                "unstructured": "Sandin, D. J., Margolis, T., Ge, J., Girado, J., Peterka, T., and DeFanti, T. A. 2005. The Varrier Autostereoscopic Virtual Reality Display.ACM Trans. Graph. (SIGGRAPH) 24, 3, 894--903.",
+                "DOI": "10.1145/1073204.1073279",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-41",
+                "unstructured": "Seetzen, H., Heidrich, W., Stuerzlinger, W., Ward, G., Whitehead, L., Trentacoste, M., Ghosh, A., and Vorozcovs, A. 2004. High Dynamic Range Display Systems.ACM Trans. Graph. (SIGGRAPH) 23, 3, 760--768.",
+                "DOI": "10.1145/1015706.1015797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-42",
+                "unstructured": "Smoot, L. S., Smithwick, Q., and Reetz, D. 2011. A Volumetric Display Based On A Rim-Driven Varifocal Beamsplitter And LED Backlit LCD. InSIGGRAPH Emerging Technologies, ACM, 22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-43",
+                "unstructured": "Sullivan, A. 2003. A Solid-State Multi-Planar Volumetric Display. InSID Digest, vol. 32, 207--211."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-44",
+                "unstructured": "Tompkin, J., Heinzle, S., Kautz, J., and Matusik, W. 2013. Content-Adaptive Lenticular Prints.ACM Trans. Grap. (TOG) 32, 4, 133."
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-45",
+                "unstructured": "Travis, A. R. L. 1990. Autostereoscopic 3-D Display.OSA Appl. Opt. 29, 29, 4341--4342.",
+                "DOI": "10.1364/AO.29.004341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-46",
+                "unstructured": "Urey, H., Chellappan, K. V., Erden, E., and Surman, P. 2011. State of the Art in Stereoscopic and Autostereoscopic Displays.Proc. IEEE 99, 4, 540--555.",
+                "DOI": "10.1109/JPROC.2010.2098351",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-47",
+                "unstructured": "Wetzstein, G., Lanman, D., Heidrich, W., and Raskar, R. 2011. Layered 3D: Tomographic Image Synthesis for Attenuation-based Light Field and High Dynamic Range Displays.ACM Trans. Graph. (SIGGRAPH).",
+                "DOI": "10.1145/1964921.1964990",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-48",
+                "unstructured": "Wetzstein, G., Lanman, D., Hirsch, M., and Raskar, R. 2012. Tensor Displays: Compressive Light Field Synthesis using Multilayer Displays with Directional Backlighting.ACM Trans. Graph. (SIGGRAPH) 31, 1--11.",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601144-49",
+                "unstructured": "Yang, R., Huang, X., Li, S., and Jaynes, C. 2008. Toward the Light Field Display: Autostereoscopic Rendering via a Cluster of Projectors.IEEE TVCG 14, 1, 84--96."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601144&amp;ftid=1488866&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:48Z",
+            "timestamp": 1565663688000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601144",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

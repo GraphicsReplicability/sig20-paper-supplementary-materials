@@ -1,0 +1,386 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:19Z",
+            "timestamp": 1574815939054
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "CAREER-1055035, IIS-1422869"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000879",
+                "name": "Alfred P. Sloan Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "USC Annenberg Graduate Fellowship",
+                "award": []
+            },
+            {
+                "name": "Okawa Foundation",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925916",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Pose-space subspace dynamics"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Hongyi",
+                "family": "Xu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            },
+            {
+                "given": "Jernej",
+                "family": "Barbi\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925916-1",
+                "unstructured": "Amsallem, D., and Farhat, C. 2008. Interpolation method for adapting reduced-order models and application to aeroelasticity.AIAA J. 46, 7, 1803--1813."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-2",
+                "unstructured": "Amsallem, D., and Farhat, C. 2011. An online method for interpolating linear parametric reduced-order models.SIAM J. on Scientific Computing 33, 5, 2169--2198."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-3",
+                "unstructured": "An, S. S., Kim, T., and James, D. L. 2008. Optimizing cubature for efficient integration of subspace deformations.ACM Trans. on Graphics (SIGGRAPH Asia 2008) 27, 5, 165:1--165:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-4",
+                "unstructured": "Anjyo, K., Lewis, J. P., and Pighin, F. 2014. Scattered data interpolation for computer graphics. InSIGGRAPH Courses, 27."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-5",
+                "unstructured": "Barbi&#269;, J., and James, D. L. 2005. Real-time subspace integration for St. Venant-Kirchhoff deformable models.ACM Trans. on Graphics (SIGGRAPH 2005) 24, 3, 982--990."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-6",
+                "unstructured": "Barbi&#269;, J., and Zhao, Y. 2011. Real-time large-deformation substructuring.ACM Trans. on Graphics (SIGGRAPH 2011) 30, 4, 91:1--91:7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-7",
+                "unstructured": "Barbi&#269;, J., da Silva, M., and Popovi&#263;, J. 2009. Deformable object animation using reduced optimal control.ACM Trans. on Graphics (SIGGRAPH 2009) 28, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-8",
+                "unstructured": "Barnhill, R., Dube, R., and Little, F. 1983. Properties of Shepards Surfaces.Rocky Mountain J. Math. 13, 365--382."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-9",
+                "unstructured": "Capell, S., Green, S., Curless, B., Duchamp, T., and Popovi&#263;, Z. 2002. Interactive skeleton-driven dynamic deformations.ACM Trans. on Graphics (SIGGRAPH 2002) 21, 3, 586--593."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-10",
+                "unstructured": "Capell, S., Burkhart, M., Curless, B., Duchamp, T., and Popovi&#263;, Z. 2005. Physically based rigging for deformable characters. InSymp. on Computer Animation (SCA), 301--310."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-11",
+                "unstructured": "Carr, J. C., Beatson, R. K., Cherrie, J. B., Mitchell, T. J., Fright, W. R., McCallum, B. C., and Evans, T. R. 2001. Reconstruction and representation of 3d objects with radial basis functions. InProc. of ACM SIGGRAPH 2001, 67--76."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-12",
+                "unstructured": "Chen, D., and Plemmons, R. J. 2006. Nonnegativity constraints in numerical analysis. InSymp. on the Birth of Numerical Analysis."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-13",
+                "unstructured": "Degroote, J., Vierendeels, J., and Willcox, K. 2010. Interpolation among reduced-order matrices to obtain parameterized models for design, optimization and probabilistic analysis.Int. J. for Numerical Methods in Fluids 63, 2, 207--230."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-14",
+                "unstructured": "Feng, A., Casas, D., and Shapiro, A. 2015. Avatar reshaping and automatic rigging using a deformable model. InProc. of the Motion in Games (MIG) Conf., 57--64."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-15",
+                "unstructured": "Galoppo, N., Otaduy, M. A., Tekin, S., Gross, M., and Lin, M. C. 2007. Soft articulated characters with fast contact handling. InComputer Graphics Forum, vol. 26, 243--253."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-16",
+                "unstructured": "Galoppo, N., Otaduy, M. A., Moss, W., Sewall, J., Curtis, S., and Lin, M. C. 2009. Controlling deformable material with dynamic morph targets. InProc. of the Symp. on Interactive 3D graphics and games (I3D), ACM, 39--47.",
+                "DOI": "10.1145/1507149.1507156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-17",
+                "unstructured": "Gower, J. C., and Dijksterhuis, G. B. 2004.Procrustes problems, vol. 3. Oxford University Press Oxford.",
+                "DOI": "10.1093/acprof:oso/9780198510581.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-18",
+                "unstructured": "Hahn, F., Martin, S., Thomaszewski, B., Sumner, R., Coros, S., and Gross, M. 2012. Rig-space physics.ACM Trans. on Graphics (SIGGRAPH 2012) 31, 4, 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-19",
+                "unstructured": "Hahn, F., Thomaszewski, B., Coros, S., Sumner, R., and Gross, M. 2013. Efficient simulation of secondary motion in rig-space. InSymp. on Computer Animation (SCA), 165--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-20",
+                "unstructured": "Hahn, F., Thomaszewski, B., Coros, S., Sumner, R. W., Cole, F., Meyer, M., DeRose, T., and Gross, M. 2014. Subspace clothing simulation using adaptive bases.ACM Trans. on Graphics (SIGGRAPH 2014) 33, 4, 105:1--105:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-21",
+                "unstructured": "Harmon, D., and Zorin, D. 2013. Subspace integration with local deformations.ACM Trans. on Graphics (SIGGRAPH 2013) 32, 4, 107:1--107:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-22",
+                "unstructured": "Hauser, K. K., Shen, C., and O'Brien, J. F. 2003. Interactive deformation using modal analysis with constraints. InProc. of Graphics Interface, 247--256."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-23",
+                "unstructured": "Hildebrandt, K., Schulz, C., von Tycowicz, C., and Polthier, K. 2012. Interactive spacetime control of deformable objects.ACM Trans. on Graphics (SIGGRAPH 2012) 31, 4, 71:1--71:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-24",
+                "unstructured": "Huang, H., Yin, K., Zhao, L., Qi, Y., Yu, Y., and Tong, X. 2012. Detail-preserving controllable deformation from sparse examples.IEEE Trans. on Visualization and Computer Graphics 18, 8, 1215--1227."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-25",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. on Graphics (SIGGRAPH 2011) 30, 4, 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-26",
+                "unstructured": "James, D. L., and Pai, D. K. 2002. DyRT: Dynamic Response Textures for Real Time Deformation Simulation With Graphics Hardware.ACM Trans. on Graphics (SIGGRAPH 2002) 21, 3, 582--585.",
+                "DOI": "10.1145/566570.566621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-27",
+                "unstructured": "Kim, T., and James, D. 2009. Skipping steps in deformable simulation with online model reduction.ACM Trans. on Graphics (SIGGRAPH Asia 2009) 28, 5, 123:1--123:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-28",
+                "unstructured": "Kim, T., and James, D. L. 2012. Physics-based character skinning using multidomain subspace deformations.IEEE Trans. on Visualization and Computer Graphics 18, 8, 1228--1240."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-29",
+                "unstructured": "Kim, J., and Pollard, N. S. 2011. Fast simulation of skeleton-driven deformable body characters.ACM Trans. on Graphics (TOG) 30, 5, 121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-30",
+                "unstructured": "Kry, P. G., James, D. L., and Pai, D. K. 2002. EigenSkin: Real Time Large Deformation Character Skinning in Hardware. InSymp. on Computer Animation (SCA), 153--160."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-31",
+                "unstructured": "Kurihara, T., and Miyata, N. 2004. Modeling deformable human hands from medical images. InSymp. on Computer Animation (SCA), 355--363."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-32",
+                "unstructured": "Lehoucq, R., Sorensen, D., and Yang, C. 1997. ARPACK Users' Guide: Solution of large scale eigenvalue problems with implicitly restarted Arnoldi methods. Tech. rep., Comp. and Applied Mathematics, Rice Univ.",
+                "DOI": "10.1137/1.9780898719628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-33",
+                "unstructured": "Lewis, J. P., Cordner, M., and Fong, N. 2000. Pose Space Deformations: A Unified Approach to Shape Interpolation and Skeleton-Driven Deformation. InProc. of ACM SIGGRAPH 2000, 165--172.",
+                "DOI": "10.1145/344779.344862",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-34",
+                "unstructured": "Liu, L., Yin, K., Wang, B., and Guo, B. 2013. Simulation and control of skeleton-driven soft body characters.ACM Trans. on Graphics (SIGGRAPH Asia 2013) 32, 6, 215."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-35",
+                "unstructured": "Magnenat-Thalmann, N., Laperrire, R., and Thalmann, D. 1988. Joint-dependent local deformations for hand animation and object grasping. InProc. of Graphics Interface."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-36",
+                "unstructured": "McAdams, A., Zhu, Y., Selle, A., Empey, M., Tamstorf, R., Teran, J., and Sifakis, E. 2011. Efficient elasticity for character skinning with contact and collisions.ACM Trans. on Graphics (SIGGRAPH 2011) 30, 4, 37:1--37:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-37",
+                "unstructured": "Neumann, T., Varanasi, K., Wenger, S., Wacker, M., Magnor, M., and Theobalt, C. 2013. Sparse localized deformation components.ACM Trans. on Graphics (SIGGRAPH Asia 2013) 32, 6, 179:1--179:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-38",
+                "unstructured": "Pardiso, 2015. Parallel Direct Sparse Solver Interface, Pardiso project, http://www.pardiso-project.org and Intel MKL, http://software.intel.com/en-us/articles/intel-mkl."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-39",
+                "unstructured": "Pons-Moll, G., Romero, J., Mahmood, N., and Black, M. J. 2015. Dyna: A model of dynamic human shape in motion.ACM Trans. on Graphics (SIGGRAPH 2015) 34, 4, 120:1--120:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-40",
+                "unstructured": "Teng, Y., Otaduy, M. A., and Kim, T. 2014. Simulating articulated subspace self-contact.ACM Trans. on Graphics (SIGGRAPH 2014) 33, 4, 106:1--106:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-41",
+                "unstructured": "Teng, Y., Meyer, M., DeRose, T., and Kim, T. 2015. Subspace condensation: Full space adaptivity for subspace deformations.ACM Trans. on Graphics (SIGGRAPH 2015) 34, 4, 76:1--76:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-42",
+                "unstructured": "von Tycowicz, C., Schulz, C., Seidel, H.-P., and Hildebrandt, K. 2013. An efficient construction of reduced deformable objects.ACM Trans. on Graphics (SIGGRAPH Asia 2013) 32, 6, 213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-43",
+                "unstructured": "Wang, Y., Jacobson, A., Barbi&#269;, J., and Kavan, L. 2015. Linear subspace design for real-time shape deformation.ACM Trans. on Graphics (SIGGRAPH 2015) 34, 4, 57:1--57:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-44",
+                "unstructured": "Xu, H., and Barbi&#269;, J. 2014. Signed distance fields for polygon soup meshes. InProc. of Graphics Interface, 35--41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-45",
+                "unstructured": "Xu, H., Li, Y., Chen, Y., and Barbi&#269;, J. 2015. Interactive material design using model reduction.ACM Trans. on Graphics (TOG) 34, 2, 18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-46",
+                "unstructured": "Xu, H., Sin, F., Zhu, Y., and Barbi&#269;, J. 2015. Nonlinear material design using principal stretches.ACM Trans. on Graphics (SIGGRAPH 2015) 34, 4, 75:1--75:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925916-47",
+                "unstructured": "Yang, Y., Xu, W., Guo, X., Zhou, K., and Guo, B. 2013. Boundary-aware multidomain subspace deformation.IEEE Trans. on Visualization and Computer Graphics 19, 10, 1633--1645."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925916&amp;ftid=1755888&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:36:08Z",
+            "timestamp": 1568162168000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925916",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

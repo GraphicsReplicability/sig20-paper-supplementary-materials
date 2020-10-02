@@ -1,0 +1,135 @@
+{
+    "Timestamp": "1/16/2020 10:11:18",
+    "Title": "Object-aware guidance for autonomous scene reconstruction",
+    "DOI": "10.1145/3197517.3201295",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 5,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.07794",
+    "code URL": "https://github.com/againxx/nbo-autoscanning",
+    "code URL  2": "",
+    "PDF URL": "http://vcc.szu.edu.cn/file/upload_file//image/research/att201805111047/ObjNBV.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation",
+    "Authors": "Academia",
+    "ACM 1": "Shape analysis",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Unable to build: ROS is not compiling. Old version of cuda is required (not working on virtual machine).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 5,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "ROS/opencv/cuDNN/ElasticFusion/Pangolin/SuiteSparse/cuda",
+    "Project URL": "https://vcc.tech/research/2018/ObjNBV",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Ligang",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Xi",
+            "family": "Xia",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Han",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Qi",
+            "family": "Shen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Juzhan",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University"
+                }
+            ]
+        },
+        {
+            "given": "Bin",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University"
+                }
+            ]
+        },
+        {
+            "given": "Hui",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University"
+                }
+            ]
+        },
+        {
+            "given": "Kai",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shenzhen University and National University of Defense Technology"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 1,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=42271234"
+}

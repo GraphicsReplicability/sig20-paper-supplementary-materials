@@ -1,0 +1,606 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808478
+        },
+        "reference-count": 73,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201350",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Headon"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Justus",
+                "family": "Thies",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max-Planck-Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Stamminger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Erlangen-Nuremberg"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Niessner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201350-1",
+                "unstructured": "Oleg Alexander, Mike Rogers, William Lambeth, Matt Chiang, and Paul Debevec. 2009. The Digital Emily Project: Photoreal Facial Modeling and Animation. InACM SIGGRAPH 2009 Courses.Article 12, 12:1--12:15 pages.",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-2",
+                "unstructured": "Hadar Averbuch-Elor, Daniel Cohen-Or, Johannes Kopf, and Michael F. Cohen. 2017. Bringing Portraits to Life.ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2017)36, 4 (2017), to appear.",
+                "DOI": "10.1145/3130800.3130818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-3",
+                "unstructured": "Paul J. Besl and Neil D. McKay. 1992. A Method for Registration of 3-D Shapes.IEEE Trans. Pattern Anal. Mach. Intell.14, 2 (Feb. 1992), 239--256.",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-4",
+                "unstructured": "Volker Blanz, Curzio Basso, Tomaso Poggio, and Thomas Vetter. 2003. Reanimating faces in images and video. InProc. EUROGRAPHICS, Vol. 22. 641--650.",
+                "DOI": "10.1111/1467-8659.t01-1-00712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-5",
+                "unstructured": "Volker Blanz and Thomas Vetter. 1999. A Morphable Model for the Synthesis of 3D Faces. InACM TOG.187--194.",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-6",
+                "unstructured": "J. Booth, A. Roussos, S. Zafeiriou, A. Ponniah, and D. Dunaway. 2016. A 3D Morphable Model learnt from 10,000 faces. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2016.598",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-7",
+                "unstructured": "Sofien Bouaziz, Yangang Wang, and Mark Pauly. 2013. Online Modeling for Realtime Facial Animation.ACM TOG32, 4, Article 40 (2013), 10 pages.",
+                "DOI": "10.1145/2461912.2461976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-8",
+                "unstructured": "Chen Cao, Derek Bradley, Kun Zhou, and Thabo Beeler. 2015. Real-time High-fidelity Facial Performance Capture.ACM TOG34, 4, Article 46 (2015), 9 pages.",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-9",
+                "unstructured": "Chen Cao, Qiming Hou, and Kun Zhou. 2014a. Displaced Dynamic Expression Regression for Real-time Facial Tracking and Animation. InACM TOG, Vol. 33. 43:1--43:10.",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-10",
+                "unstructured": "Chen Cao, Yanlin Weng, Stephen Lin, and Kun Zhou. 2013. 3D shape regression for real-time facial animation. InACM TOG, Vol. 32. 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-11",
+                "unstructured": "Chen Cao, Yanlin Weng, Shun Zhou, Yiying Tong, and Kun Zhou. 2014b. FaceWarehouse: A 3D Facial Expression Database for Visual Computing.IEEE TVCG20, 3 (2014), 413--425."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-12",
+                "unstructured": "Chen Cao, Hongzhi Wu, Yanlin Weng, Tianjia Shao, and Kun Zhou. 2016. Real-time Facial Animation with Image-based Dynamic Avatars.ACM Trans. Graph.35, 4 (July 2016).",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-13",
+                "unstructured": "Jin-xiang Chai, Jing Xiao, and Jessica Hodgins. 2003. Vision-based control of 3D facial animation. InProc. SCA.193--206."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-14",
+                "unstructured": "Yang Chen and G&#233;rard G. Medioni. 1992. Object modelling by registration of multiple range images.Image and Vision Computing10, 3 (1992), 145--155.",
+                "DOI": "10.1016/0262-8856(92)90066-C",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-15",
+                "unstructured": "Yen-Lin Chen, Hsiang-Tao Wu, Fuhao Shi, Xin Tong, and Jinxiang Chai. 2013. Accurate and Robust 3D Facial Capture Using a Single RGBD Camera.Proc. ICCV(2013), 3615--3622."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-16",
+                "unstructured": "E. Chuang and C. Bregler. 2002.Performance-driven Facial Animation using Blend Shape Interpolation.Technical Report CS-TR-2002--02. Stanford University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-17",
+                "unstructured": "Timothy F. Cootes, Gareth J. Edwards, and Christopher J. Taylor. 2001. Active Appearance Models.IEEE TPAMI23, 6 (2001), 681--685.",
+                "DOI": "10.1109/34.927467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-18",
+                "unstructured": "Brian Curless and Marc Levoy. 1996. A Volumetric Method for Building Complex Models from Range Images. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '96).ACM, New York, NY, USA, 303--312.",
+                "DOI": "10.1145/237170.237269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-19",
+                "unstructured": "Angela Dai, Matthias Nie&#223;ner, Michael Zollh&#246;fer, Shahram Izadi, and Christian Theobalt. 2017. BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Reintegration.ACM Transactions on Graphics (TOG)36, 3 (2017), 24."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-20",
+                "unstructured": "Kevin Dale, Kalyan Sunkavalli, Micah K. Johnson, Daniel Vlasic, Wojciech Matusik, and Hanspeter Pfister. 2011. Video face replacement. InACM TOG, Vol. 30.130:1--130:10.",
+                "DOI": "10.1145/2024156.2024164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-21",
+                "unstructured": "Graham Fyffe, Andrew Jones, Oleg Alexander, Ryosuke Ichikari, and Paul Debevec. 2014. Driving High-Resolution Facial Scans with Video Performance Capture.ACM Trans. Graph.34, 1, Article 8 (Dec. 2014), 14 pages.",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-22",
+                "unstructured": "Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, and Victor S. Lempitsky. 2016. DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation. InECCV.",
+                "DOI": "10.1007/978-3-319-46475-6_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-23",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Ole Rehmsen, Thorsten Thormaehlen, Patrick Perez, and Christian Theobalt. 2014. Automatic Face Reenactment. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2014.537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-24",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Hamid Sarmadi, Ingmar Steiner, Kiran Varanasi, Patrick Perez, and Christian Theobalt. 2015. VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audio Track. InCGF (Proc. EUROGRAPHICS).",
+                "DOI": "10.1111/cgf.12552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-25",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Chenglei Wu, and Christian Theobalt. 2013. Reconstructing Detailed Dynamic Face Geometry from Monocular Video. InACM TOG, Vol. 32. 158:1--158:10.",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-26",
+                "unstructured": "Pablo Garrido, Michael Zollh&#246;fer, Dan Casas, Levi Valgaerts, Kiran Varanasi, Patrick P&#233;rez, and Christian Theobalt. 2016. Reconstruction of Personalized 3D Face Rigs from Monocular Video.ACM Transactions on Graphics (TOG)35, 3 (2016), 28."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-27",
+                "unstructured": "Steven J. Gortler, Radek Grzeszczuk, Richard Szeliski, and Michael F. Cohen. 1996. The Lumigraph. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '96).ACM, New York, NY, USA, 43--54.",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-28",
+                "unstructured": "Pei-Lun Hsieh, Chongyang Ma, Jihun Yu, and Hao Li. 2015. Unconstrained realtime facial performance capture. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298776",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-29",
+                "unstructured": "Liwen Hu, Shunsuke Saito, Lingyu Wei, Koki Nagano, Jaewoo Seo, Jens Fursund, Iman Sadeghi, Carrie Sun, Yen-Chun Chen, and Hao Li. 2017. Avatar Digitization from a Single Image for Real-time Rendering.ACM Trans. Graph.36, 6, Article 195 (Nov. 2017), 14 pages.",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-30",
+                "unstructured": "Alexandru Eugen Ichim, Sofien Bouaziz, and Mark Pauly. 2015. Dynamic 3D Avatar Creation from Hand-held Video Input.ACM TOG34, 4, Article 45 (2015), 14 pages.",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-31",
+                "unstructured": "Alexandru-Eugen Ichim, Petr Kadle&#269;ek, Ladislav Kavan, and Mark Pauly. 2017. Phace: Physics-based Face Modeling and Animation.ACM Trans. Graph.36, 4, Article 153 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-32",
+                "unstructured": "Aaron Isaksen, Leonard McMillan, and Steven J. Gortler. 2000. Dynamically Reparameterized Light Fields. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 297--306.",
+                "DOI": "10.1145/344779.344929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-33",
+                "unstructured": "Sing Bing Kang, Yin Li, Xin Tong, and Heung-Yeung Shum. 2006. Image-based Rendering.Found. Trends. Comput. Graph. Vis.2, 3 (Jan. 2006), 173--258.",
+                "DOI": "10.1561/0600000012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-34",
+                "unstructured": "Masahide Kawai, Tomoyori Iwao, Daisuke Mima, Akinobu Maejima, and Shigeo Morishima. 2014. Data-Driven Speech Animation Synthesis Focusing on Realistic Inside of the Mouth.Journal of Information Processing22, 2 (2014), 401--409.",
+                "DOI": "10.2197/ipsjjip.22.401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-35",
+                "unstructured": "Ira Kemelmacher-Shlizerman. 2016. Transfiguring Portraits.ACM Trans. Graph.35, 4, Article 94 (July 2016), 8 pages.",
+                "DOI": "10.1145/2897824.2925871",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-36",
+                "unstructured": "Oliver Klehm, Fabrice Rousselle, Marios Papas, Derek Bradley, Christophe Hery, Bernd Bickel, Wojciech Jarosz, and Thabo Beeler. 2015. Recent Advances in Facial Appearance Capture.CGF (EUROGRAPHICS STAR Reports)(2015).",
+                "DOI": "10.1111/cgf.12594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-37",
+                "unstructured": "Johannes Kopf, Fabian Langguth, Daniel Scharstein, Richard Szeliski, and Michael Goesele. 2013. Image-based Rendering in the Gradient Domain.ACM Trans. Graph.32, 6, Article 199 (Nov. 2013), 9 pages.",
+                "DOI": "10.1145/2508363.2508369",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-38",
+                "unstructured": "J. P. Lewis, Ken Anjyo, Taehyun Rhee, Mengjie Zhang, Fred Pighin, and Zhigang Deng. 2014. Practice and Theory of Blendshape Facial Models. InEurographics STARs.199--218."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-39",
+                "unstructured": "Hao Li, Laura Trutoiu, Kyle Olszewski, Lingyu Wei, Tristan Trutna, Pei-Lun Hsieh, Aaron Nicholls, and Chongyang Ma. 2015. Facial Performance Sensing Head-Mounted Display.ACM Transactions on Graphics (Proceedings SIGGRAPH 2015)34, 4 (July 2015).",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-40",
+                "unstructured": "Hao Li, Jihun Yu, Yuting Ye, and Chris Bregler. 2013. Realtime Facial Animation with On-the-fly Correctives. InACM TOG, Vol. 32."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-41",
+                "unstructured": "Tianye Li, Timo Bolkart, Michael J. Black, Hao Li, and Javier Romero. 2017. Learning a model of facial shape and expression from 4D scans.ACM Transactions on Graphics36, 6 (Nov. 2017), 194:1--194:17. Two first authors contributed equally.",
+                "DOI": "10.1145/3130800.3130813",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-42",
+                "unstructured": "Shu Liang, Ira Kemelmacher-Shlizerman, and Linda G. Shapiro. 2014. 3D Face Hallucination from a Single Depth Frame. In3D Vision (3DV).IEEE Computer Society.",
+                "DOI": "10.1109/3DV.2014.67",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-43",
+                "unstructured": "Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black. 2015. SMPL: A Skinned Multi-Person Linear Model.ACM Trans. Graphics (Proc. SIGGRAPH Asia)34, 6 (Oct. 2015), 248:1--248:16.",
+                "DOI": "10.1145/2816795.2818013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-44",
+                "unstructured": "William E. Lorensen and Harvey E. Cline. 1987. Marching Cubes: A High Resolution 3D Surface Construction Algorithm. InProceedings of the 14th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '87).ACM, New York, NY, USA, 163--169.",
+                "DOI": "10.1145/37401.37422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-45",
+                "unstructured": "Kok-Lim Low. 2004. Linear Least-Squares Optimization for Point-to-Plane ICP Surface Registration. (01 2004)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-46",
+                "unstructured": "Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, and Luc Van Gool. 2017. Pose Guided Person Image Generation. InNIPS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-47",
+                "unstructured": "Richard A. Newcombe, Shahram Izadi, Otmar Hilliges, David Molyneaux, David Kim, Andrew J. Davison, Pushmeet Kohli, Jamie Shotton, Steve Hodges, and Andrew Fitzgibbon. 2011. KinectFusion: Real-time Dense Surface Mapping and Tracking. InProceedings of the 2011 10th IEEE International Symposium on Mixed and Augmented Reality (ISMAR '11).IEEE Computer Society, Washington, DC, USA, 127--136.",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-48",
+                "unstructured": "M. Nie&#223;ner, M. Zollh&#246;fer, S. Izadi, and M. Stamminger. 2013. Real-time 3D Reconstruction at Scale Using Voxel Hashing.ACM Trans. Graph.32, 6, Article 169, 11 pages.",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-49",
+                "unstructured": "Kyle Olszewski, Joseph J. Lim, Shunsuke Saito, and Hao Li. 2016. High-Fidelity Facial and Speech Animation for VR HMDs.ACM TOG35, 6 (2016).",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-50",
+                "unstructured": "Patrick P&#233;rez, Michel Gangnet, and Andrew Blake. 2003. Poisson Image Editing. InACM SIGGRAPH 2003 Papers (SIGGRAPH '03).ACM, 313--318. F. Pighin, J. Hecker, D. Lischinski, R. Szeliski, and D. Salesin. 1998. Synthesizing realistic facial expressions from photographs. InACM TOG.75--84.",
+                "DOI": "10.1145/1201775.882269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-51",
+                "unstructured": "Carsten Rother, Vladimir Kolmogorov, and Andrew Blake. 2004. \"GrabCut\": Interactive Foreground Extraction Using Iterated Graph Cuts. InACM SIGGRAPH 2004 Papers (SIGGRAPH '04).ACM, New York, NY, USA, 309--314.",
+                "DOI": "10.1145/1186562.1015720",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-52",
+                "unstructured": "Szymon Rusinkiewicz and Marc Levoy. 2001. Efficient variants of the ICP algorithm. In3-D Digital Imaging and Modeling, 2001. Proceedings. Third International Conference on.IEEE, 145--152.",
+                "DOI": "10.1109/IM.2001.924423",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-53",
+                "unstructured": "Jason M. Saragih, Simon Lucey, and Jeffrey F. Cohn. 2011. Deformable Model Fitting by Regularized Landmark Mean-Shift.IJCV91, 2 (2011).",
+                "DOI": "10.1007/s11263-010-0380-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-54",
+                "unstructured": "Fuhao Shi, Hsiang-Tao Wu, Xin Tong, and Jinxiang Chai. 2014a. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos. InACM TOG, Vol. 33. Issue 6.",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-55",
+                "unstructured": "Fuhao Shi, Hsiang-Tao Wu, Xin Tong, and Jinxiang Chai. 2014b. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos.ACM Trans. Graph.33, 6, Article 222 (Nov. 2014), 13 pages.",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-56",
+                "unstructured": "Eftychios Sifakis, Igor Neverov, and Ronald Fedkiw. 2005. Automatic Determination of Facial Muscle Activations from Sparse Motion Capture Marker Data.ACM TOG24, 3 (2005), 417--425.",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-57",
+                "unstructured": "Supasorn Suwajanakorn, Ira Kemelmacher-Shlizerman, and Steven M. Seitz. 2014. Total Moving Face Reconstruction. InProc. ECCV.796--812.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-58",
+                "unstructured": "Supasorn Suwajanakorn, Steven M. Seitz, and Ira Kemelmacher-Shlizerman. 2015. What Makes Tom Hanks Look Like Tom Hanks. InProc. ICCV.",
+                "DOI": "10.1109/ICCV.2015.450",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-59",
+                "unstructured": "Supasorn Suwajanakorn, Steven M. Seitz, and Ira Kemelmacher-Shlizerman. 2017. Synthesizing Obama: Learning Lip Sync from Audio.ACM Trans. Graph.36, 4, Article 95 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-60",
+                "unstructured": "J. Rafael Tena, Fernando De la Torre, and Iain Matthews. 2011. Interactive Region-based Linear 3D Face Models.ACM TOG30, 4, Article 76 (2011), 10 pages.",
+                "DOI": "10.1145/2010324.1964971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-61",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Matthias Nie&#223;ner, Levi Valgaerts, Marc Stamminger, and Christian Theobalt. 2015. Real-time Expression Transfer for Facial Reenactment.ACM TOG34, 6, Article 183 (2015), 14 pages.",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-62",
+                "unstructured": "Justus Thies, M. Zollh&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2016. Face2Face: Real-time Face Capture and Reenactment of RGB Videos. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2016.262",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-63",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Marc Stamminger, Christian Theobalt, and Matthias Nie&#223;ner. 2017. Demo of FaceVR: Real-time Facial Reenactment and Eye Gaze Control in Virtual Reality. InACM SIGGRAPH 2017 Emerging Technologies (SIGGRAPH '17).ACM, Article 7, 2 pages. https://doi.org/10-1145/3084822.3084841",
+                "DOI": "10.1145/3084822.3084841",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-64",
+                "unstructured": "Justus Thies, M. Zollh&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2018. FaceVR: Real-Time Gaze-Aware Facial Reenactment in Virtual Reality.ACM Transactions on Graphics (TOG).",
+                "DOI": "10.1145/3182644",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-65",
+                "unstructured": "Levi Valgaerts, Chenglei Wu, Andr&#233;s Bruhn, Hans-Peter Seidel, and Christian Theobalt. 2012. Lightweight Binocular Facial Performance Capture under Uncontrolled Lighting. InACM TOG, Vol. 31.",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-66",
+                "unstructured": "Daniel Vlasic, Matthew Brand, Hanspeter Pfister, and Jovan Popovic. 2005. Face transfer with multilinear models. InACM TOG, Vol. 24.",
+                "DOI": "10.1145/1186822.1073209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-67",
+                "unstructured": "Thibaut Weise, Sofien Bouaziz, Hao Li, and Mark Pauly. 2011. Realtime performance-based facial animation. InACM TOG, Vol. 30. Issue 4.",
+                "DOI": "10.1145/1964921.1964972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-68",
+                "unstructured": "Thibaut Weise, Hao Li, Luc J. Van Gool, and Mark Pauly. 2009. Face/Off: live facial puppetry. InProc. SCA.7--16.",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-69",
+                "unstructured": "Daniel N. Wood, Daniel I. Azuma, Ken Aldinger, Brian Curless, Tom Duchamp, David H. Salesin, and Werner Stuetzle. 2000. Surface Light Fields for 3D Photography. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 287--296.",
+                "DOI": "10.1145/344779.344925",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-70",
+                "unstructured": "Jing Xiao, Simon Baker, Iain Matthews, and Takeo Kanade. 2004. Real-Time Combined 2D+3D Active Appearance Models. InProc. CVPR.535 -- 542."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-71",
+                "unstructured": "S. Zafeiriou, A. Roussos, A. Ponniah, D. Dunaway, and J. Booth. 2017. Large Scale 3D Morphable Models.International Journal of Computer Vision(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-72",
+                "unstructured": "Michael Zollh&#246;fer, Matthias Nie&#223;ner, Shahram Izadi, Christoph Rehmann, Christopher Zach, Matthew Fisher, Chenglei Wu, Andrew Fitzgibbon, Charles Loop, Christian Theobalt, and Marc Stamminger. 2014. Real-time Non-rigid Reconstruction using an RGB-D Camera. InACM TOG, Vol. 33.",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201350-73",
+                "unstructured": "M. Zollh&#246;fer, J. Thies, P. Garrido, D. Bradley, T. Beeler, P P&#233;rez, M. Stamminger, M. Nie&#223;ner, and C. Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications.Computer Graphics Forum (EUROGRAPHICS 2018)37, 2."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201350&ftid=1991722&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T16:00:29Z",
+            "timestamp": 1571673629000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "real-time reenactment of human portrait videos"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 73,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201350",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:42Z",
+            "timestamp": 1578582222980
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925876",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "CofiFab"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Peng",
+                "family": "Song",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Bailin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hull"
+                    }
+                ]
+            },
+            {
+                "given": "Ziqi",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Zhichao",
+                "family": "Dong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Wei",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Chi-Wing",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Ligang",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925876-1",
+                "unstructured": "Alemanno, G., Cignoni, P., Pietroni, N., Ponchio, F., and Scopigno, R. 2014. Interlocking pieces for printing tangible cultural heritage replicas. InEurographics Workshop on Graphics and Cultural Heritage, 145--154."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-2",
+                "unstructured": "Alexandrov, A. D. 2005.Convex Polyhedra.Springer."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-3",
+                "unstructured": "Beyer, D., Gurevich, S., Mueller, S., Chen, H.-T., and Baudisch, P. 2015. Platener: Low-fidelity fabrication of 3D objects by substituting 3D print with laser-cut plates. CHI '15, 1799--1806.",
+                "DOI": "10.1145/2702123.2702225",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-4",
+                "unstructured": "Borgefors, G., and Strand, R. 2005. An approximation of the maximal inscribed convex set of a digital object. InImage Analysis and Processing - ICIAP 2005.438--445.",
+                "DOI": "10.1007/11553595_54",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-5",
+                "unstructured": "Cabello, S., Cibulka, J., Kyn&#269;l, J., Saumell, M., and Valtr, P. 2014. Peeling potatoes near-optimally in near-linear time. SOCG'14, 224:224--224:231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-6",
+                "unstructured": "Chang, J. S., and Yap, C. K. 1986. A polynomial solution for the potato-peeling problem.Discrete &#38; Comp. Geom. 1, 2, 155--182."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-7",
+                "unstructured": "Chen, L., and Sass, L. 2015. Fresh Press Modeler: A generative system for physically based low fidelity prototyping.Computers &#38; Graphics 54, 157--165."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-8",
+                "unstructured": "Chen, D., Sitthi-amorn, P., Lan, J. T., and Matusik, W. 2013. Computing and fabricating multiplanar models.Computer Graphics Forum 32, 2, 305--315."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-9",
+                "unstructured": "Chen, X., Zhang, H., Lin, J., Hu, R., Lu, L., Huang, Q., Benes, B., Cohen-Or, D., and Chen, B. 2015. Dapper: Decompose-and-pack for 3D printing.ACM Trans. Graph. 34, 6, 213:1--213:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-10",
+                "unstructured": "Cignoni, P., Pietroni, N., Malomo, L., and Scopigno, R. 2014. Field-aligned mesh joinery.ACM Trans. Graph. 33, 1, 11:1--11:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-11",
+                "unstructured": "Cohen-Steiner, D., Alliez, P., and Desbrun, M. 2004. Variational shape approximation.ACM Trans. Graph. 23, 3, 905--914."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-12",
+                "unstructured": "Craftsmansapce, 2015. Woodworking joints. http://www.craftsmanspace.com/knowledge/woodworking-joints.html."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-13",
+                "unstructured": "Deits, R., and Tedrake, R. 2015. Computing large convex regions of obstacle-free space through semidefinite programming. InAlgorithmic Foundations of Robotics XI. 109--124.",
+                "DOI": "10.1007/978-3-319-16595-0_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-14",
+                "unstructured": "Fu, C.-W., Song, P., Yan, X., Yang, L. W., Jayaraman, P. K., and Cohen-Or, D. 2015. Computational interlocking furniture assembly.ACM Trans. Graph. 34, 4, 91:1--91:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-15",
+                "unstructured": "Gao, W., Zhang, Y., Nazzetta, D. C., Ramani, K., and Cipra, R. J. 2015. RevoMaker: Enabling multi-directional and functionally-embedded 3D printing using a rotational cuboidal platform. UIST '15, 437--446.",
+                "DOI": "10.1145/2807442.2807476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-16",
+                "unstructured": "Gershenfeld, N. 2007.Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication.Basic Books, Inc., New York, NY, USA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-17",
+                "unstructured": "Goodman, J. E. 1981. On the largest convex polygon contained in a non-convex n-gon, or how to peel a potato.Geometriae Dedicata 11, 1, 99--106."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-18",
+                "unstructured": "Hao, J., Fang, L., and Williams, R. E. 2011. An efficient curvature-based partitioning of large-scale STL models.Rapid Prototyping Journal 17, 2, 116--127."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-19",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2012. crdbrd: Shape fabrication by sliding planar slices.Computer Graphics Forum 31, 2, 583--592."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-20",
+                "unstructured": "Hornus, S., Lefebvre, S., Dumas, J., and Claux, F. 2015. Tight printable enclosures for additive manufacturing. Tech. rep., Inria. RR-8712."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-21",
+                "unstructured": "Hu, R., Li, H., Zhang, H., and Cohen-Or, D. 2014. Approximate pyramidal shape decomposition.ACM Trans. Graph. 33, 6, 213:1--213:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-22",
+                "unstructured": "Lien, J.-M., and Amato, N. M. 2008. Approximate convex decomposition of polyhedra and its applications.Comput. Aided Geom. Des. 25, 7, 503--522."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-23",
+                "unstructured": "Lu, L., Sharf, A., Zhao, H., Wei, Y., Fan, Q., Chen, X., Savoye, Y., Tu, C., Cohen-Or, D., and Chen, B. 2014. Build-to-last: Strength to weight 3D printed objects.ACM Trans. Graph. 33, 4, 97:1--97:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-24",
+                "unstructured": "Luo, L., Baran, I., Rusinkiewicz, S., and Matusik, W. 2012. Chopper: Partitioning models into 3D-printable parts.ACM Trans. Graph. 31, 6, 129:1--129:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-25",
+                "unstructured": "McCrae, J., Singh, K., and Mitra, N. J. 2011. Slices: A shape-proxy based on planar sections.ACM Trans. Graph. 30, 6, 168:1--168:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-26",
+                "unstructured": "Medell&#237;n, H., Lim, T., Corney, J., Ritchie, J. M., and Davies, J. B. C. 2007. Automatic subdivision and refinement of large components for rapid prototyping production.J. Comput. Inf. Sci. Eng. 7, 3, 249--258."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-27",
+                "unstructured": "Mueller, S., Mohr, T., Guenther, K., Frohnhofen, J., and Baudisch, P. 2014. faBrickation: Fast 3D printing of functional objects by integrating construction kit building blocks. CHI '14, 3827--3834."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-28",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make it stand: Balancing shapes for 3D fabrication.ACM Trans. Graph. 32, 4, 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-29",
+                "unstructured": "Schwartzburg, Y., and Pauly, M. 2013. Fabrication-aware design with intersecting planar pieces.Computer Graphics Forum 32, 2, 317--326."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-30",
+                "unstructured": "Song, P., Fu, C.-W., and Cohen-Or, D. 2012. Recursive interlocking puzzles.ACM Trans. Graph. 31, 6, 128:1--128:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-31",
+                "unstructured": "Song, P., Fu, Z., Liu, L., and Fu, C.-W. 2015. Printing 3D objects with interlocking parts.CAGD 35--36, 137--148."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-32",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: Improving structural strength of 3D printable objects.ACM Trans. Graph. 31, 4, 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-33",
+                "unstructured": "Vanek, J., Galicia, J. A. G., Benes, B., M&#283;ch, R., Carr, N., Stava, O., and Miller, G. S. 2014. PackMerger: A 3D print volume optimizer.Computer Graphics Forum 33, 6, 322--332."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-34",
+                "unstructured": "W&#228;chter, A., and Biegler, L. T. 2006. On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming.Math. Program. 106, 1, 25--57."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-35",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3D objects with skin-frame structures.ACM Trans. Graph. 32, 6, 177:1--177:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-36",
+                "unstructured": "Yao, M., Chen, Z., Luo, L., Wang, R., and Wang, H. 2015. Level-set-based partitioning and packing optimization of a printable model.ACM Trans. Graph. 34, 6, 214:1--214:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925876-37",
+                "unstructured": "Zhang, X., Xia, Y., Wang, J., Yang, Z., Tu, C., and Wang, W. 2015. Medial axis tree-an internal supporting structure for 3D printing.Comput. Aided Geom. Des. 35--36, 149--162."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925876&amp;ftid=1755833&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:38:27Z",
+            "timestamp": 1568162307000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "coarse-to-fine fabrication of large 3D objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925876",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

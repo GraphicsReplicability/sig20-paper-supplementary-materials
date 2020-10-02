@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853045
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002428",
+                "name": "Austrian Science Fund",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "I 3007"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "STE 2565/1-1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201374",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "A high-performance software graphics pipeline architecture for the GPU"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Michael",
+                "family": "Kenzel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Graz University of Technology, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Kerbl",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Graz University of Technology, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Dieter",
+                "family": "Schmalstieg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Graz University of Technology, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Steinberger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Graz University of Technology, Austria and Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201374-1",
+                "unstructured": "Timo Aila and Samuli Laine. 2009. Understanding the Efficiency of Ray Traversal on GPUs. InProceedings of the Conference on High Performance Graphics 2009 (HPG '09).ACM, New York, NY, USA, 145--149.",
+                "DOI": "10.1145/1572769.1572792",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-2",
+                "unstructured": "Johan Andersson. 2009. Parallel Graphics in Frostbite - Current &#38; Future. SIGGRAPH '09 Courses, Beyond Programmable Shading, Talk."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-3",
+                "unstructured": "Guy E. Blelloch. 1990.Prefix Sums and Their Applications.Technical Report CMU-CS-90-190. School of Computer Science, Carnegie Mellon University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-4",
+                "unstructured": "David Blythe. 2006. The Direct3D 10 System.ACM Trans. Graph.25, 3 (July 2006), 724--734.",
+                "DOI": "10.1145/1141911.1141947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-5",
+                "unstructured": "Matthew Eldridge, Homan Igehy, and Pat Hanrahan. 2000. Pomegranate: A Fully Scalable Graphics Architecture. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 443--454.",
+                "DOI": "10.1145/344779.344981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-6",
+                "unstructured": "Kayvon Fatahalian and Mike Houston. 2008. A Closer Look at GPUs.Commun. ACM51, 10 (Oct. 2008), 50--57.",
+                "DOI": "10.1145/1400181.1400197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-7",
+                "unstructured": "Ned Greene. 1996. Hierarchical Polygon Tiling with Coverage Masks. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '96).ACM, New York, NY, USA, 65--74.",
+                "DOI": "10.1145/237170.237207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-8",
+                "unstructured": "K. E. Hillesland and J. C. Yang. 2016. Texel Shading. InProceedings of the 37th Annual Conference of the European Association for Computer Graphics: Short Papers (EG '16).Eurographics Association, Goslar, Germany, 73--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-9",
+                "unstructured": "ISO. 2008.Document management - Portable document format - Part 1: PDF 1.7.International Standard 32000-1:2008. International Organization for Standardization."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-10",
+                "unstructured": "Bernhard Kainz, Markus Grabner, Alexander B&#248;rnik, Stefan Hauswiesner, Judith Muehl, and Dieter Schmalstieg. 2009. Ray Casting of Multiple Volumetric Datasets with Polyhedral Boundaries on Manycore GPUs.ACM Trans. Graph.28, 5 (Dec. 2009), 152:1--152:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-11",
+                "unstructured": "Michael Kenzel, Bernhard Kerbl, Wolfgang Tatzgern, Elena Ivanchenko, Dieter Schmalstieg, and Markus Steinberger. 2018. On-the-fly Vertex Reuse for Massively-Parallel Software Geometry Processing. (2018). arXiv:1805.08893"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-12",
+                "unstructured": "Bernhard Kerbl, Michael Kenzel, Dieter Schmalstieg, and Markus Steinberger. 2017. Effective Static Bin Patterns for Sort-middle Rendering. InProceedings of High Performance Graphics (HPG '17).ACM, New York, NY, USA, 14:1--14:10.",
+                "DOI": "10.1145/3105762.3105777",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-13",
+                "unstructured": "Khronos. 2016a.The OpenGL Graphics System: A Specification.The Khronos Group Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-14",
+                "unstructured": "Khronos. 2016b.Vulkan 1.0.32 - A Specification.The Khronos Group Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-15",
+                "unstructured": "Samuli Laine and Tero Karras. 2011. High-performance Software Rasterization on GPUs. InProceedings of the ACM SIGGRAPH Symposium on High Performance Graphics (HPG '11).ACM, New York, NY, USA, 79--88.",
+                "DOI": "10.1145/2018323.2018337",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-16",
+                "unstructured": "Samuli Laine, Tero Karras, and Timo Aila. 2013. Megakernels Considered Harmful: Wavefront Path Tracing on GPUs. InProceedings of the 5th High-Performance Graphics Conference (HPG '13).ACM, New York, NY, USA, 137--143.",
+                "DOI": "10.1145/2492045.2492060",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-17",
+                "unstructured": "Fang Liu, Meng-Cheng Huang, Xue-Hui Liu, and En-Hua Wu. 2010. FreePipe: A Programmable Parallel Rendering Architecture for Efficient Multi-fragment Effects. InProceedings of the 2010 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D '10).ACM, New York, NY, USA, 75--82.",
+                "DOI": "10.1145/1730804.1730817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-18",
+                "unstructured": "Charles Loop and Jim Blinn. 2005. Resolution Independent Curve Rendering Using Programmable Graphics Hardware.ACM Trans. Graph.24, 3 (July 2005), 1000--1009.",
+                "DOI": "10.1145/1073204.1073303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-19",
+                "unstructured": "Michael D. McCool, Zheng Qin, and Tiberiu S. Popa. 2002. Shader Metaprogramming. InProceedings of the ACM SIGGRAPH/EUROGRAPHICS Conference on Graphics Hardware (HWWS '02).Eurographics Association, Aire-la-Ville, Switzerland, 57--68."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-20",
+                "unstructured": "Mesa 3D. 1993. The Mesa 3D Graphics Library, https://www.mesa3d.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-21",
+                "unstructured": "Steven Molnar, Michael Cox, David Ellsworth, and Henry Fuchs. 1994. A Sorting Classification of Parallel Rendering.IEEE Comput. Graph. Appl.14, 4 (July 1994), 23--32.",
+                "DOI": "10.1109/38.291528",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-22",
+                "unstructured": "John Nickolls, Ian Buck, Michael Garland, and Kevin Skadron. 2008. Scalable Parallel Programming with CUDA.Queue6, 2 (March 2008), 40--53.",
+                "DOI": "10.1145/1365490.1365500",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-23",
+                "unstructured": "NVIDIA. 2007.Solid Wireframe.Whitepaper WP-03014-001_v01. NVIDIA Corporation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-24",
+                "unstructured": "NVIDIA. 2016.CUDA C Programming Guide.NVIDIA Corporation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-25",
+                "unstructured": "Marc Olano and Trey Greer. 1997. Triangle Scan Conversion Using 2D Homogeneous Coordinates. InProceedings of the ACM SIGGRAPH/EUROGRAPHICS Workshop on Graphics Hardware (HWWS '97).ACM, New York, NY, USA, 89--95.",
+                "DOI": "10.1145/258694.258723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-26",
+                "unstructured": "Steven G. Parker, James Bigler, Andreas Dietrich, Heiko Friedrich, Jared Hoberock, David Luebke, David McAllister, Morgan McGuire, Keith Morley, Austin Robison, and Martin Stich. 2010. OptiX: A General Purpose Ray Tracing Engine.ACM Trans. Graph.29, 4 (July 2010), 66:1--66:13.",
+                "DOI": "10.1145/1833349.1778803",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-27",
+                "unstructured": "Anjul Patney, Stanley Tzeng, Kerry A. Seitz, Jr., and John D. Owens. 2015. Piko: A Framework for Authoring Programmable Graphics Pipelines.ACM Trans. Graph.34, 4 (July 2015), 147:1--147:13.",
+                "DOI": "10.1145/2766973",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-28",
+                "unstructured": "Ken Perlin. 2001. Noise Hardware. SIGGRAPH '01 Courses, Real-Time Shading, Talk."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-29",
+                "unstructured": "Tim Purcell. 2010. Fast Tessellated Rendering on the Fermi GF100. High Performance Graphics 2010, Hot 3D, Talk."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-30",
+                "unstructured": "RAD. 2002.Pixomatic SDK Features.RAD Game Tools Inc. http://www.radgametools.com/cn/pixofeat.htm"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-31",
+                "unstructured": "D. Sanchez, D. Lo, R. M. Yoo, J. Sugerman, and C. Kozyrakis. 2011. Dynamic Fine-Grain Scheduling of Pipeline Parallelism. In2011 International Conference on Parallel Architectures and Compilation Techniques.IEEE Computer Society, Washington, D.C., USA, 22--32.",
+                "DOI": "10.1109/PACT.2011.9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-32",
+                "unstructured": "Larry Seiler, Doug Carmean, Eric Sprangle, Tom Forsyth, Michael Abrash, Pradeep Dubey, Stephen Junkins, Adam Lake, Jeremy Sugerman, Robert Cavin, Roger Espasa, Ed Grochowski, Toni Juan, and Pat Hanrahan. 2008. Larrabee: A Many-core x86 Architecture for Visual Computing.ACM Trans. Graph.27, 3 (Aug. 2008), 18:1--18:15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-33",
+                "unstructured": "Markus Steinberger, Michael Kenzel, Pedro Boechat, Bernhard Kerbl, Mark Dokter, and Dieter Schmalstieg. 2014. Whippletree: Task-based Scheduling of Dynamic Workloads on the GPU.ACM Trans. Graph.33, 6 (Nov. 2014), 228:1--228:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-34",
+                "unstructured": "John E Stone, David Gohara, and Guochun Shi. 2010. OpenCL: A parallel programming standard for heterogeneous computing systems.Computing in science &#38; engineering12, 1--3 (2010), 66--73.",
+                "DOI": "10.1109/MCSE.2010.69",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-35",
+                "unstructured": "Jeremy Sugerman, Kayvon Fatahalian, Solomon Boulos, Kurt Akeley, and Pat Hanrahan. 2009. GRAMPS: A Programming Model for Graphics Pipelines.ACM Trans. Graph.28, 1 (Feb. 2009), 4:1--4:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-36",
+                "unstructured": "Stanley Tzeng, Anjul Patney, and John D. Owens. 2010. Task Management for Irregular-parallel Workloads on the GPU. InProceedings of the Conference on High Performance Graphics (HPG '10).Eurographics Association, Aire-la-Ville, Switzerland, 29--37."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-37",
+                "unstructured": "Alexis Vaisse. 2014. Efficient Usage of Compute Shaders on Xbox One and PS4. Game Developers Conference Europe 2014, Talk."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-38",
+                "unstructured": "Alex Vlachos. 2016. Advanced VR Rendering Performance. Game Developers Conference 2016, Talk."
+            },
+            {
+                "key": "key-10.1145/3197517.3201374-39",
+                "unstructured": "Lance Williams. 1983. Pyramidal Parametrics.SIGGRAPH Comput. Graph.17, 3 (July 1983), 1--11.",
+                "DOI": "10.1145/964967.801126",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201374&ftid=1991663&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:01Z",
+            "timestamp": 1571673481000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201374",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

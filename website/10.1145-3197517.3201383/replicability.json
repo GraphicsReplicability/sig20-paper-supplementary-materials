@@ -1,0 +1,106 @@
+{
+    "Timestamp": "1/7/2020 9:28:18",
+    "Title": "Differentiable Programming for Image Processing and Deep Learning in Halide",
+    "DOI": "10.1145/3197517.3201383",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/halide/Halide",
+    "code URL  2": "",
+    "PDF URL": "https://people.csail.mit.edu/tzumao/gradient_halide/gradient_halide.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Image processing",
+    "ACM 2": "Machine learning",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I was able to perform automatic differentiation (gamma correction example in the paper) however most filter examples in the paper did not come with code to reproduce and I was unable to reproduce them in a timely manner.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 26,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "llvm",
+    "Project URL": "https://people.csail.mit.edu/tzumao/gradient_halide/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Tzu-Mao",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Micha\u00ebl",
+            "family": "Gharbi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Andrew",
+            "family": "Adams",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facebook AI Research"
+                }
+            ]
+        },
+        {
+            "given": "Fr\u00e9do",
+            "family": "Durand",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan",
+            "family": "Ragan-Kelley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UC Berkeley & Google"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.75,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=46630053"
+}

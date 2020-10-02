@@ -1,0 +1,250 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:00:29Z",
+            "timestamp": 1574816429342
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925955",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Spectral style transfer for human motion between independent actions"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "M. Ersin",
+                "family": "Yumer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925955-1",
+                "unstructured": "Amaya, K., Bruderlin, A., and Calvert, T. 1996. Emotion from motion. InGraphics interface, vol. 96, Toronto, Canada, 222--229."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-2",
+                "unstructured": "Arikan, O., Forsyth, D. A., and O'Brien, J. F. 2003. Motion synthesis from annotations.ACM Transactions on Graphics (TOG) 22, 3, 402--408."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-3",
+                "unstructured": "Brand, M., and Hertzmann, A. 2000. Style machines. InProceedings of the 27th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 183--192.",
+                "DOI": "10.1145/344779.344865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-4",
+                "unstructured": "Chai, J., and Hodgins, J. K. 2007. Constraint-based motion optimization using a statistical dynamic model.ACM Transactions on Graphics (TOG) 26, 3, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-5",
+                "unstructured": "Giese, M. A., and Poggio, T. 2000. Morphable models for the analysis and synthesis of complex motion patterns.International Journal of Computer Vision 38, 1, 59--73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-6",
+                "unstructured": "Hsu, E., Pulli, K., and Popovi&#263;, J. 2005. Style translation for human motion.ACM Transactions on Graphics (TOG) 24, 3, 1082--1089."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-7",
+                "unstructured": "Hyv&#228;rinen, A., Karhunen, J., and Oja, E. 2004.Independent component analysis, vol. 46. John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-8",
+                "unstructured": "Ikemoto, L., Arikan, O., and Forsyth, D. 2009. Generalizing motion edits with gaussian processes.ACM Transactions on Graphics (TOG) 28, 1, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-9",
+                "unstructured": "Kovar, L., and Gleicher, M. 2004. Automated extraction and parameterization of motions in large data sets. InACM Transactions on Graphics (TOG), vol. 23, ACM, 559--568.",
+                "DOI": "10.1145/1186562.1015760",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-10",
+                "unstructured": "Lau, M., Bar-Joseph, Z., and Kuffner, J. 2009. Modeling spatial and temporal variation in motion data. InACM Transactions on Graphics (TOG), vol. 28, ACM, 171.",
+                "DOI": "10.1145/1661412.1618517",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-11",
+                "unstructured": "Min, J., and Chai, J. 2012. Motion graphs++: a compact generative model for semantic motion analysis and synthesis.ACM Transactions on Graphics (TOG) 31, 6, 153."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-12",
+                "unstructured": "Min, J., Liu, H., and Chai, J. 2010. Synthesis and editing of personalized stylistic human motion. InProceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games, ACM, 39--46.",
+                "DOI": "10.1145/1730804.1730811",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-13",
+                "unstructured": "Monzani, J.-S., Baerlocher, P., Boulic, R., and Thalmann, D. 2000. Using an intermediate skeleton and inverse kinematics for motion retargeting. InComputer Graphics Forum, vol. 19, Wiley Online Library, 11--19.",
+                "DOI": "10.1111/1467-8659.00393",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-14",
+                "unstructured": "Oppenheim, A. V., and Schafer, R. W. 2009.Discrete-time signal processing, vol. 3. Prentice-Hall."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-15",
+                "unstructured": "Shapiro, A., Cao, Y., and Faloutsos, P. 2006. Style components. InProceedings of Graphics Interface 2006, Canadian Information Processing Society, 33--39."
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-16",
+                "unstructured": "Urtasun, R., Glardon, P., Boulic, R., Thalmann, D., and Fua, P. 2004. Style-based motion synthesis. InComputer Graphics Forum, vol. 23, Wiley Online Library, 799--812.",
+                "DOI": "10.1111/j.1467-8659.2004.00809.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-17",
+                "unstructured": "Wang, J. M., Fleet, D. J., and Hertzmann, A. 2007. Multifactor gaussian process models for style-content separation. InProceedings of the 24th international conference on Machine learning, ACM, 975--982.",
+                "DOI": "10.1145/1273496.1273619",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925955-18",
+                "unstructured": "Xia, S., Wang, C., Chai, J., and Hodgins, J. 2015. Realtime style transfer for unlabeled heterogeneous human motion.ACM Transactions on Graphics (TOG) 34, 4, 119."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925955&amp;ftid=1755843&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T18:12:50Z",
+            "timestamp": 1498327970000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925955",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

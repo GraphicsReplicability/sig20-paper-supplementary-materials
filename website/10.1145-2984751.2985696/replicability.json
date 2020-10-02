@@ -1,0 +1,125 @@
+{
+    "Timestamp": "1/14/2020 15:55:26",
+    "Title": "Rig Animation with a Tangible and Modular Input Device",
+    "DOI": "10.1145/2984751.2985696",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/oliglauser/atamid",
+    "code URL  2": "",
+    "PDF URL": "https://igl.ethz.ch/projects/rig-animation-input-device/Rig-Animation-Input-Device-2016.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Human computer interaction (HCI)",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "The project contains both hardware specifications and a software to control the proposed tangible controller. The code does not provide any information about the build instructions and it seems that it requires an old version of libIGL (and many hardcoded path in the CMakeLists.txt).I was thus not able compile the project.\n\nThe repository seems to be down as many elements are missing: \"Future home of the open hardware specifications and software source code accompanying \"Rig Animation with a Tangible and Modular Input Device\" [Glauser et al. 2016].",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 20,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "igl / eigen/glfw / nanogui",
+    "Project URL": "https://igl.ethz.ch/projects/rig-animation-input-device/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to missing specific hardware",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Virtual Reality",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Oliver",
+            "family": "Glauser",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "ETH Zurich, Zurich, Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Benedek",
+            "family": "Vartok",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Zurich, Zurich, Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Wan-Chun",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Activision Inc., Santa Monica, CA, USA"
+                }
+            ]
+        },
+        {
+            "given": "Daniele",
+            "family": "Panozzo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University, New York, NY, USA"
+                }
+            ]
+        },
+        {
+            "given": "Alec",
+            "family": "Jacobson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University, New York, NY, USA"
+                }
+            ]
+        },
+        {
+            "given": "Otmar",
+            "family": "Hilliges",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Zurich, Zurich, Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Olga",
+            "family": "Sorkine-Hornung",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ETH Zurich, Zurich, Switzerland"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

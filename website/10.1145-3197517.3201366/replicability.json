@@ -1,0 +1,96 @@
+{
+    "Timestamp": "12/16/2019 16:42:06",
+    "Title": "Mode-adaptive neural networks for quadruped motion control",
+    "DOI": "10.1145/3197517.3201366",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/ShikamaruZhang/MANN",
+    "code URL  2": "",
+    "PDF URL": "http://homepages.inf.ed.ac.uk/tkomura/dog.pdf",
+    "License type": "This code implementation is only for research or education purposes, and (especially the learned data) not freely available for commercial use or redistribution. The intellectual property and code implementation belongs to the University of Edinburgh.",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 3,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Neural networks",
+    "ACM 2": "Motion capture",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Was able to launch the training, which ran smoothly, but I was unable to visualize the result. No readme was provided.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 22,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "He",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "given": "Sebastian",
+            "family": "Starke",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "given": "Taku",
+            "family": "Komura",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "given": "Jun",
+            "family": "Saito",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0.5,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=46381211"
+}

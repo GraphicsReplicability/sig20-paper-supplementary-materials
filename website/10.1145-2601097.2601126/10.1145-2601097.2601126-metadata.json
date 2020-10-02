@@ -1,0 +1,350 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    31
+                ]
+            ],
+            "date-time": "2019-12-31T06:43:10Z",
+            "timestamp": 1577774590833
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1130934"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601126",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Blending liquids"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Karthik",
+                "family": "Raveendran",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Chris",
+                "family": "Wojtan",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Nils",
+                "family": "Thuerey",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Greg",
+                "family": "Turk",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601126-1",
+                "unstructured": "Amberg, B., Romdhani, S., and Vetter, T. 2007. Optimal step nonrigid ICP algorithms for surface registration. InIEEE Conf. Computer Vision and Pattern Recognition, CVPR '07, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-2",
+                "unstructured": "Autodesk, 2013. Maya software."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-3",
+                "unstructured": "Besl, P. J., and McKay, N. D. 1992. A method for registration of 3-d shapes.IEEE Trans. Pattern Anal. Mach. Intell. 14, 2 (Feb.), 239--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-4",
+                "unstructured": "Bojsen-Hansen, M., Li, H., and Wojtan, C. 2012. Tracking surfaces with evolving topology.ACM Trans. Graph. 31, 4 (July), 53:1--53:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-5",
+                "unstructured": "Breen, D. E., and Whitaker, R. T. 2001. A level-set approach for the metamorphosis of solid models.IEEE Trans. Visualization and Computer Graphics 7, 2 (Apr.), 173--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-6",
+                "unstructured": "Brochu, T., Batty, C., and Bridson, R. 2010. Matching fluid simulation elements to surface geometry and topology.ACM Trans. Graph. 29, 4 (July), 47:1--47:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-7",
+                "unstructured": "Brown, B., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3-D scans.ACM Trans. Graph. 26, 3 (Aug.).",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-8",
+                "unstructured": "Cohen-Or, D., Solomovic, A., and Levin, D. 1998. Three-dimensional distance field metamorphosis.ACM Trans. Graph. 17, 2 (Apr.), 116--141."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-9",
+                "unstructured": "Enright, D., Nguyen, D., Gibou, F., and Fedkiw, R. 2003. Using the Particle Level Set Method and a Second Order Accurate Pressure Boundary Condition for Free-Surface Flows.Proc. Joint Fluids Engineering Conference.",
+                "DOI": "10.1115/FEDSM2003-45144",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-10",
+                "unstructured": "Foster, N., and Metaxas, D. 1996. Realistic animation of liquids.Graph. Models Image Process. 58, 5 (Sept.), 471--483."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-11",
+                "unstructured": "Gelfand, N., Ikemoto, L., Rusinkiewicz, S., and Levoy, M. 2003. Geometrically stable sampling for the ICP algorithm. InInt. Conference on 3D Digital Imaging and Modeling (3DIM)."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-12",
+                "unstructured": "Gelfand, N., Mitra, N. J., Guibas, L. J., and Pottmann, H. 2005. Robust global registration. InSymposium on Geometry Processing, Eurographics Association, SGP '05."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-13",
+                "unstructured": "H&#228;hnel, D., Thrun, S., and Burgard, W. 2003. An extension of the ICP algorithm for modeling nonrigid objects with mobile robots. InProc. of the Int. Joint Conference on Artificial Intelligence, IJCAI."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-14",
+                "unstructured": "Klein, A. W., Sloan, P.-P. J., Finkelstein, A., and Cohen, M. F. 2002. Stylized video cubes. InACM SIGGRAPH Symposium on Computer Animation, 15--22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-15",
+                "unstructured": "Kwatra, V., and Rossignac, J. 2002. Space-time surface simplification and edgebreaker compression for 2d cel animations.Int. Journal of Shape Modeling 8, 2, 119--137.",
+                "DOI": "10.1142/S0218654302000091",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-16",
+                "unstructured": "Li, H., Adams, B., Guibas, L. J., and Pauly, M. 2009. Robust single-view geometry and motion reconstruction.ACM Trans. Graph. 28, 5 (Dec.), 175:1--175:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-17",
+                "unstructured": "Li, H., Luo, L., Vlasic, D., Peers, P., Popovi&#263;, J., Pauly, M., and Rusinkiewicz, S. 2012. Temporally coherent completion of dynamic shapes.ACM Trans. Graph. 31, 1 (Feb.), 2:1--2:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-18",
+                "unstructured": "McNamara, A., Treuille, A., Popovi&#263;, Z., and Stam, J. 2004. Fluid control using the adjoint method.ACM Trans. Graph. 23(August), 449--456."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-19",
+                "unstructured": "Misztal, M. K., Erleben, K., Bargteil, A., Fursund, J., Christensen, B. B., B&#230;rentzen, J. A., and Bridson, R. 2012. Multiphase flow of immiscible fluids on unstructured moving meshes. InProc. Symposium on Computer Animation, Eurographics Association, SCA '12, 97--106."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-20",
+                "unstructured": "M&#252;ller, M., Charypar, D., and Gross, M. 2003. Particle-based fluid simulation for interactive applications. InProc. Symposium on Computer Animation, Eurographics Association, 154--159."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-21",
+                "unstructured": "Nielsen, M. B., and Bridson, R. 2011. Guide shapes for high resolution naturalistic liquid simulation. ACM, New York, NY, USA, vol. 30, 83:1--83:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-22",
+                "unstructured": "Osher, S., and Fedkiw, R. 2002.Level set methods and dynamic implicit surfaces. Springer Verlag.",
+                "DOI": "10.1007/b98879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-23",
+                "unstructured": "Pan, Z., Huang, J., Tong, Y., Zheng, C., and Bao, H. 2013. Interactive localized liquid motion editing.ACM Trans. Graph. (Proc. SIGGRAPH Asia) 32, 6 (Nov.).",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-24",
+                "unstructured": "Papazov, C., and Burschka, D. 2011. Deformable 3d shape registration based on local similarity transforms.Computer Graphics Forum 30, 5, 1493--1502.",
+                "DOI": "10.1111/j.1467-8659.2011.02023.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-25",
+                "unstructured": "Raveendran, K., Thuerey, N., Wojtan, C., and Turk, G. 2012. Controlling liquids using meshes. InProce. Symposium on Computer Animation, Eurographics Association, SCA '12, 255--264."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-26",
+                "unstructured": "Rusinkiewicz, S., and Levoy, M. 2001. Efficient variants of the icp algorithm. InProc. 3D Digital Imaging and Modeling, 145--152."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-27",
+                "unstructured": "Schmid, J., Sumner, R. W., Bowles, H., and Gross, M. 2010. Programmable motion effects.ACM Trans. Graph. 29, 4 (July), 57:1--57:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-28",
+                "unstructured": "Shi, L., and Yu, Y. 2005. Taming liquids for rapidly changing targets. InSymposium on Computer animation, ACM, SCA '05, 229--236."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-29",
+                "unstructured": "Solenthaler, B., and Pajarola, R. 2009. Predictive-corrective incompressible sph.ACM Trans. Graph. 28, 3 (July), 40:1--40:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-30",
+                "unstructured": "Stam, J. 1999. Stable fluids. InProc. SIGGRAPH, ACM, 121--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-31",
+                "unstructured": "Sumner, R. W., Schmid, J., and Pauly, M. 2007. Embedded deformation for shape manipulation. InACM SIGGRAPH 2007 Papers, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-32",
+                "unstructured": "Szeliski, R. 1996. Matching 3-d anatomical surfaces with non-rigid deformations using octree-splines.Int. Journal of Computer Vision 18, 171--186.",
+                "DOI": "10.1007/BF00055001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-33",
+                "unstructured": "Taubin, G. 1995. A signal processing approach to fair surface design. InProceedings of SIGGRAPH 95, Annual Conference Series, 351--358."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-34",
+                "unstructured": "Tevs, A., Berner, A., Wand, M., Ihrke, I., Bokeloh, M., Kerber, J., and Seidel, H.-P. 2012. Animation cartography-intrinsic reconstruction of shape and motion.ACM Transactions on Graphics (TOG) 31, 2, 12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-35",
+                "unstructured": "Thuerey, N., Keiser, R., Ruede, U., and Pauly, M. 2006. Detail-Preserving Fluid Control.Symposium on Computer Animation(Jun), 7--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-36",
+                "unstructured": "Turk, G., and O'Brien, J. F. 1999. Shape transformation using variational implicit functions. InProceedings of the 26th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, SIGGRAPH '99, 335--342."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-37",
+                "unstructured": "Wojtan, C., Th&#252;rey, N., Gross, M., and Turk, G. 2010. Physics-inspired topology changes for thin fluid features.ACM Trans. Graph. 29(July), 50:1--50:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-38",
+                "unstructured": "Yu, J., and Turk, G. 2010. Reconstructing surfaces of particle-based fluids using anisotropic kernels. InProceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, 217--225."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-39",
+                "unstructured": "Zeng, Y., Wang, C., Wang, Y., Gu, X., Samaras, D., and Paragios, N. 2010. Dense non-rigid surface registration using high-order graph matching. InIEEE Conf. Computer Vision and Pattern Recognition, CVPR 2010, 382--389."
+            },
+            {
+                "key": "key-10.1145/2601097.2601126-40",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid.ACM Trans. Graph. 24, 3 (July), 965--972."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601126&amp;ftid=1488946&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:50Z",
+            "timestamp": 1565663750000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601126",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

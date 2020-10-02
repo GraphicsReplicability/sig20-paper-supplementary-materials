@@ -1,0 +1,356 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:03Z",
+            "timestamp": 1574815983759
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100007601",
+                "name": "Horizon 2020",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "645599"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925978",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Computational design of stable planar-rod structures"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Eder",
+                "family": "Miguel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Mathias",
+                "family": "Lepoutre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925978-1",
+                "unstructured": "Bergou, M., Wardetzky, M., Robinson, S., Audoly, B., and Grinspun, E. 2008. Discrete elastic rods. InACM transactions on graphics (TOG), vol. 27, ACM, 63.",
+                "DOI": "10.1145/1399504.1360662",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-2",
+                "unstructured": "Bertails, F., Audoly, B., Cani, M.-P., Querleux, B., Leroy, F., and L&#233;v&#234;que, J.-L. 2006. Super-helices for predicting the dynamics of natural hair.ACM Transactions on Graphics (TOG) 25, 3, 1180--1187."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-3",
+                "unstructured": "Cignoni, P., Pietroni, N., Malomo, L., and Scopigno, R. 2014. Field-aligned mesh joinery.ACM Transactions on Graphics (TOG) 33, 1, 11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-4",
+                "unstructured": "De Goes, F., Alliez, P., Owhadi, H., and Desbrun, M. 2013. On the equilibrium of simplicial masonry structures.ACM Transactions on Graphics (TOG) 32, 4, 93."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-5",
+                "unstructured": "Demaine, E. D., and ORourke, J. 2007.Geometric folding algorithms. Cambridge university press Cambridge.",
+                "DOI": "10.1017/CBO9780511735172",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-6",
+                "unstructured": "Derouet-Jourdan, A., Bertails-Descoubes, F., Daviet, G., and Thollot, J. 2013. Inverse dynamic hair modeling with frictional contact.ACM Transactions on Graphics (TOG) 32, 6, 159."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-7",
+                "unstructured": "Deuss, M., Panozzo, D., Whiting, E., Liu, Y., Block, P., Sorkine-Hornung, O., and Pauly, M. 2014. Assembling self-supporting structures.ACM Transactions on Graphics (TOG) 33, 6, 214."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-8",
+                "unstructured": "Frick, U., Van Mele, T., and Block, P. 2015. Decomposing three-dimensional shapes into self-supporting, discrete-element assemblies. InModelling Behaviour.Springer, 187--201.",
+                "DOI": "10.1007/978-3-319-24208-8_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-9",
+                "unstructured": "Fu, C.-W., Song, P., Yan, X., Yang, L. W., Jayaraman, P. K., and Cohen-Or, D. 2015. Computational interlocking furniture assembly.ACM Transactions on Graphics (TOG) 34, 4, 91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-10",
+                "unstructured": "Garg, A., Sageman-Furnas, A. O., Deng, B., Yue, Y., Grinspun, E., Pauly, M., and Wardetzky, M. 2014. Wire mesh design.ACM Transactions on Graphics (TOG) 33, 4, 66."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-11",
+                "unstructured": "Gr&#233;goire, M., and Sch&#246;mer, E. 2007. Interactive simulation of one-dimensional flexible parts.Computer-Aided Design 39, 8, 694--707."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-12",
+                "unstructured": "Hadap, S. 2006. Oriented strands: dynamics of stiff multi-body system. InProceedings of the 2006 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, 91--100."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-13",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2012. crdbrd: Shape fabrication by sliding planar slices. InComputer Graphics Forum, vol. 31, Wiley Online Library, 583--592."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-14",
+                "unstructured": "Iarussi, E., Li, W., and Bousseau, A. 2015. Wrapit: computer-assisted crafting of wire wrapped jewelry.ACM Transactions on Graphics (TOG) 34, 6, 221."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-15",
+                "unstructured": "Iben, H., Meyer, M., Petrovic, L., Soares, O., Anderson, J., and Witkin, A. 2013. Artistic simulation of curly hair. InProceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, 63--71.",
+                "DOI": "10.1145/2485895.2485913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-16",
+                "unstructured": "Kilian, M., Fl&#246;ry, S., Chen, Z., Mitra, N. J., Sheffer, A., and Pottmann, H. 2008. Curved folding. InACM Transactions on Graphics (TOG), vol. 27, ACM, 75.",
+                "DOI": "10.1145/1399504.1360674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-17",
+                "unstructured": "Lau, C., Schwartzburg, Y., Shaji, A., Sadeghipoor, Z., and S&#252;sstrunk, S. 2014. Creating personalized jigsaw puzzles. InProceedings of the Workshop on Non-Photorealistic Animation and Rendering, ACM, 31--39.",
+                "DOI": "10.1145/2630397.2630405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-18",
+                "unstructured": "Liu, Y., Pan, H., Snyder, J., Wang, W., and Guo, B. 2013. Computing self-supporting surfaces by regular triangulation.ACM Transactions on Graphics (TOG) 32, 4, 92."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-19",
+                "unstructured": "Massarwi, F., Gotsman, C., and Elber, G. 2007. Papercraft models using generalized cylinders. InComputer Graphics and Applications, 2007. PG'07. 15th Pacific Conference on, IEEE, 148--157.",
+                "DOI": "10.1109/PG.2007.16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-20",
+                "unstructured": "Mitani, J., and Suzuki, H. 2004. Making papercraft toys from meshes using strip-based approximate unfolding. InACM Transactions on Graphics (TOG), vol. 23, ACM, 259--263.",
+                "DOI": "10.1145/1186562.1015711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-21",
+                "unstructured": "&#214;ztireli, A. C., Guennebaud, G., and Gross, M. 2009. Feature preserving point set surfaces based on non-linear kernel regression. InComputer Graphics Forum, vol. 28, Wiley Online Library, 493--501.",
+                "DOI": "10.1111/j.1467-8659.2009.01388.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-22",
+                "unstructured": "Pai, D. K. 2002. Strands: Interactive simulation of thin solids using cosserat models. InComputer Graphics Forum, vol. 21, Wiley Online Library, 347--352."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-23",
+                "unstructured": "Panozzo, D., Block, P., and Sorkine-Hornung, O. 2013. Designing unreinforced masonry models.ACM Transactions on Graphics (TOG)32, 4, 91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-24",
+                "unstructured": "P&#233;rez, J., Thomaszewski, B., Coros, S., Bickel, B., Canabal, J. A., Sumner, R., and Otaduy, M. A. 2015. Design and fabrication of flexible rod meshes.ACM Transactions on Graphics (TOG) 34, 4, 138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-25",
+                "unstructured": "Sageman-Furnas, A. O., Umetani, N., and Schmidt, R. 2015. Meltables: fabrication of complex 3d curves by melting. InSIGGRAPH Asia 2015 Technical Briefs, ACM, 14.",
+                "DOI": "10.1145/2820903.2820915",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-26",
+                "unstructured": "Selle, A., Lentine, M., and Fedkiw, R. 2008. A mass spring model for hair simulation. InACM Transactions on Graphics (TOG), vol. 27, ACM, 64.",
+                "DOI": "10.1145/1399504.1360663",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-27",
+                "unstructured": "Siciliano, B., and Khatib, O. 2008.Springer handbook of robotics. Springer Science &#38; Business Media.",
+                "DOI": "10.1007/978-3-540-30301-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-28",
+                "unstructured": "Skouras, M., Thomaszewski, B., Bickel, B., and Gross, M. 2012. Computational design of rubber balloons. InComputer Graphics Forum, vol. 31, Wiley Online Library, 835--844.",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-29",
+                "unstructured": "Skouras, M., Thomaszewski, B., Kaufmann, P., Garg, A., Bickel, B., Grinspun, E., and Gross, M. 2014. Designing inflatable structures.ACM Transactions on Graphics (TOG) 33, 4, 63."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-30",
+                "unstructured": "Skouras, M., Coros, S., Grinspun, E., and Thomaszewski, B. 2015. Interactive surface design with interlocking elements.ACM Transactions on Graphics (TOG) 34, 6, 224."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-31",
+                "unstructured": "Song, P., Fu, C.-W., and Cohen-Or, D. 2012. Recursive interlocking puzzles.ACM Transactions on Graphics (TOG) 31, 6, 128."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-32",
+                "unstructured": "Twigg, C. D., and Ka&#269;i&#263;-Alesi&#263;, Z. 2011. Optimization for sag-free simulations. InProceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, 225--236.",
+                "DOI": "10.1145/2019406.2019437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-33",
+                "unstructured": "Vouga, E., H&#246;binger, M., Wallner, J., and Pottmann, H. 2012. Design of self-supporting surfaces.ACM Transactions on Graphics (TOG)31, 4, 87."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-34",
+                "unstructured": "Weyrich, T., Deng, J., Barnes, C., Rusinkiewicz, S., and Finkelstein, A. 2007. Digital bas-relief from 3d scenes. InACM Transactions on Graphics (TOG), vol. 26, ACM, 32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-35",
+                "unstructured": "Whiting, E., Ochsendorf, J., and Durand, F. 2009. Procedural modeling of structurally-sound masonry buildings.ACM Transactions on Graphics (TOG) 28, 5, 112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925978-36",
+                "unstructured": "Whiting, E., Shin, H., Wang, R., Ochsendorf, J., and Durand, F. 2012. Structural optimization of 3d masonry buildings.ACM Transactions on Graphics (TOG) 31, 6, 159."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925978&amp;ftid=1755878&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:07Z",
+            "timestamp": 1568162707000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925978",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

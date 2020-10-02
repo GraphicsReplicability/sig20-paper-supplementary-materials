@@ -1,0 +1,426 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:43Z",
+            "timestamp": 1578582223011
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000266",
+                "name": "EPSRC",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "EP/K02339X/1, EP/M023281/1"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology (KAUST)",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61372168, 61572502"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925935",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Computational network design from functional specifications"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Chi-Han",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ASU and UCL"
+                    }
+                ]
+            },
+            {
+                "given": "Yong-Liang",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Bath Univ."
+                    }
+                ]
+            },
+            {
+                "given": "Fan",
+                "family": "Bao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ASU"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Fink",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Urban Agency"
+                    }
+                ]
+            },
+            {
+                "given": "Dong-Ming",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST and NLPR-CASIA"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST and ASU"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UCL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925935-1",
+                "unstructured": "AlHalawani, S., and Mitra, N. J. 2015.Advances in Visual Computing: ISVC 2015, Part II.ch. Congestion-Aware Warehouse Flow Analysis and Optimization, 702--711."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-2",
+                "unstructured": "AlHalawani, S., Yang, Y.-L., Liu, H., and Mitra, N. J. 2013. Interactive facades: Analysis and synthesis of semi-regular facades.Computer Graphics Forum (Proc. EUROGRAPHICS) 32, 2pt2, 215--224."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-3",
+                "unstructured": "AlHalawani, S., Yang, Y.-L., Wonka, P., and Mitra, N. J. 2014. What makes London work like London.Computer Graphics Forum (Proc. SGP) 33.",
+                "DOI": "10.1111/cgf.12441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-4",
+                "unstructured": "Aliaga, D., Vanegas, C., and Benes, B. 2008. Interactive Example-Based Urban Layout Synthesis.ACM TOG (Siggraph Asia) 27, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-5",
+                "unstructured": "Bao, F., Yan, D.-M., Mitra, N. J., and Wonka, P. 2013. Generating and exploring good building layouts.ACM TOG (Siggraph) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-6",
+                "unstructured": "Baswana, S., and Sen, S. 2007. A simple and linear time randomized algorithm for computing sparse spanners in weighted graphs.Random Struct. Algorithms 30, 4, 532--563."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-7",
+                "unstructured": "Board, T. R. 2010.Highway Capacity Manual. Transportation Research Board."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-8",
+                "unstructured": "Chen, G., Esch, G., Wonka, P., M&#252;ller, P., and Zhang, E. 2008. Interactive procedural street modeling.ACM TOG (Siggraph) 27, 3, 103:1--9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-9",
+                "unstructured": "Deussen, O., Hanrahan, P., Lintermann, B., M&#283;ch, R., Pharr, M., and Prusinkiewicz, P. 1998. Realistic modeling and rendering of plant ecosystems. InProc. ACM SIGGRAPH, 275--286."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-10",
+                "unstructured": "Galin, E., Peytavie, A., Gu&#233;rin, E., and Benes, B. 2011. Authoring hierarchical road networks. Computer Graphics Forum 29, 7, 2021--2030.",
+                "DOI": "10.1111/j.1467-8659.2011.02055.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-11",
+                "unstructured": "Garcia-Dorado, I., Aliaga, D. G., and Ukkusuri, S. V. 2014. Designing large-scale interactive traffic animations for urban modeling.Computer Graphics Forum (Proc. EUROGRAPHICS) 33, 2, 411--420."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-12",
+                "unstructured": "G&#233;nevaux, J.-D., Galin, E., Gu&#233;rin, E., Peytavie, A., and Bene&#353;, B. 2013. Terrain generation using procedural models based on hydrology.ACM TOG (Siggraph) 32, 4, 143:1--143:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-13",
+                "unstructured": "Gurobi Optimization, Inc., 2014. Gurobi optimizer reference manual."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-14",
+                "unstructured": "Handy, S., Paterson, R., and Butler, K. 2003. Planning for street connectivity: Getting from here to there. InPlanning Advisory Service Report."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-15",
+                "unstructured": "Kass, M., Witkin, A., and Terzopoulos, D. 1988. Snakes: Active contour models.Int. Journal of Computer Vision 1, 4, 321--331."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-16",
+                "unstructured": "Koster, A., Kutschka, M., and Raack, C. 2010. Towards robust network design using integer linear programming techniques. InNext Generation Internet (NGI), 2010 6th EURO-NF Conference on, 1--8.",
+                "DOI": "10.1109/NGI.2010.5534462",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-17",
+                "unstructured": "Krajzewicz, D., Erdmann, J., Behrisch, M., and Bieker, L. 2012. Recent development and applications of SUMO - Simulation of Urban MObility.International Journal On Advances in Systems and Measurements 5, 3&4, 128--138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-18",
+                "unstructured": "Liu, H., Yang, Y.-L., AlHalawani, S., and Mitra, N. J. 2013. Constraint-aware interior layout exploration for precast concrete-based buildings.The Visual Computer (CGI Special Issue).",
+                "DOI": "10.1007/s00371-013-0825-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-19",
+                "unstructured": "Luathep, P., Sumalee, A., Lam, W. H., Li, Z.-C., and Lo, H. K. 2011. Global optimization method for mixed transportation network design problem: A mixed-integer linear programming approach.Transportation Research Part B: Methodological 45, 5, 808--827."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-20",
+                "unstructured": "Ma, C., Vining, N., Lefebvre, S., and Sheffer, A. 2014. Game level layout from design specification.Computer Graphics Forum (Proc. EUROGRAPHICS) 33, 2, 95--104."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-21",
+                "unstructured": "Mar&#233;chal, N., Gu&#233;rin, E., Galin, E., Merillou, S., and Mrillou, N. 2010. Procedural generation of roads.Computer Graphics Forum 29, 2, 429--438."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-22",
+                "unstructured": "Marshall, S. 2005.Streets &#38; Pattern.Spon press, New York."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-23",
+                "unstructured": "MATSim, 2015. Matsim, http://www.matsim.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-24",
+                "unstructured": "Merrell, P., Schkufza, E., and Koltun, V. 2010. Computer-generated residential building layouts.ACM TOG (Siggraph Asia) 29, 6, 181:1--181:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-25",
+                "unstructured": "Meyer, M., and Miller, E. 2000.Urban Transportation Planning. McGraw-Hill."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-26",
+                "unstructured": "Miller, C. E., Tucker, A. W., and Zemlin, R. A. 1960. Integer programming formulation of traveling salesman problems.J. ACM 7, 4, 326--329."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-27",
+                "unstructured": "Nishida, G., Garcia-Dorado, I., and Aliaga, D. G. 2015. Example-driven procedural urban roads.Computer Graphics Forum, 1--14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-28",
+                "unstructured": "Ortzar, J. d. D., and Willumsen, L. 2011.Modelling Transport. Wiley.",
+                "DOI": "10.1002/9781119993308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-29",
+                "unstructured": "Parish, Y. I. H., and M&#252;ller, P. 2001. Procedural modeling of cities. InProc. ACM SIGGRAPH, 301--308."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-30",
+                "unstructured": "Peng, C.-H., Barton, M., Jiang, C., and Wonka, P. 2014. Exploring quadrangulations.ACM TOG 33, 1, 12:1--12:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-31",
+                "unstructured": "Peng, C.-H., Yang, Y.-L., and Wonka, P. 2014. Computing layouts with deformable templates.ACM TOG (Siggraph) 33, 4, 99:1--99:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-32",
+                "unstructured": "Runions, A., Fuhrer, M., Lane, B., Federl, P., Rolland-Lagan, A.-G., and Prusinkiewicz, P. 2005. Modeling and visualization of leaf venation patterns.ACM TOG (Siggraph) 24, 3, 702--711."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-33",
+                "unstructured": "Sewall, J., Wilkie, D., Merrell, P., and Lin, M. 2010. Continuum Traffic Simulation.Computer Graphics Forum (Proc. EUROGRAPHICS) 29, 2, 439--448."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-34",
+                "unstructured": "Sewall, J., Wilkie, D., and Lin, M. C. 2011. Interactive hybrid simulation of large-scale traffic.ACM TOG (Siggraph Asia) 30, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-35",
+                "unstructured": "Southworth, M., and Ben-Joseph, E. 2003.Streets and the Shaping of Towns and Cities.Island Press, Wasington DC."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-36",
+                "unstructured": "Vanegas, C. A., Aliaga, D. G., Bene&#353;, B., and Waddell, P. A. 2009. Interactive design of urban spaces using geometrical and behavioral modeling.ACM TOG (Siggraph Asia) 28, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-37",
+                "unstructured": "Vanegas, C. A., Garcia-Dorado, I., Aliaga, D. G., Benes, B., and Waddell, P. 2012. Inverse design of urban procedural models.ACM TOG (Siggraph Asia) 31, 6, 168:1--168:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-38",
+                "unstructured": "VISSIM, 2015. http://vision-traffic.ptvgroup.com/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-39",
+                "unstructured": "Wardrop, J. 1952. Some theoretical aspects of road traffic research.Proceedings of the Institution of Civil Engineers 1, 2, 325--378."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-40",
+                "unstructured": "Weber, B., M&#252;ller, P., Wonka, P., and Gross, M. H. 2009. Interactive geometric simulation of 4D cities.Computer Graphics Forum (Proc. EUROGRAPHICS) 28, 2, 481--492."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-41",
+                "unstructured": "Wilkie, D., Sewall, J., and Lin, M. C. 2013. Flow reconstruction for data-driven traffic animation.ACM TOG (Siggraph) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-42",
+                "unstructured": "Yang, H., and Bell, M. 1998. Models and algorithms for road network design: a review and some new developments.Transport Reviews 18, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-43",
+                "unstructured": "Yang, Y.-L., Wang, J., Vouga, E., and Wonka, P. 2013. Urban pattern: Layout design by hierarchical domain splitting.ACM TOG (Siggraph Asia).",
+                "DOI": "10.1145/2508363.2508405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925935-44",
+                "unstructured": "Yu, L.-F., Yeung, S.-K., Tang, C.-K., Terzopoulos, D., Chan, T. F., and Osher, S. 2011. Make it home: Automatic optimization of furniture arrangement.ACM TOG (Siggraph) 30, 4, 86:1--86:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925935&amp;ftid=1755844&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:50Z",
+            "timestamp": 1568162930000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925935",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

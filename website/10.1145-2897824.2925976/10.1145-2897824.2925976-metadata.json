@@ -1,0 +1,288 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:55:34Z",
+            "timestamp": 1574816134367
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "340884"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GSC 111"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925976",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "HexEx"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Max",
+                "family": "Lyon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Bommes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            },
+            {
+                "given": "Leif",
+                "family": "Kobbelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925976-1",
+                "unstructured": "Bommes, D., Campen, M., Ebke, H.-C., Alliez, P., and Kobbelt, L. 2013. Integer-grid maps for reliable quad meshing.ACM Transactions on Graphics 32, 4 (July).",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-2",
+                "unstructured": "Ebke, H.-C., Bommes, D., Campen, M., and Kobbelt, L. 2013. QEx: Robust quad mesh extraction.ACM Transactions on Graphics 32, 6 (Nov.).",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-3",
+                "unstructured": "Ebke, H.-C., Campen, M., Bommes, D., and Kobbelt, L. 2014. Level-of-detail quad meshing.ACM Transactions on Graphics 33, 6 (Dec).",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-4",
+                "unstructured": "Gregson, J., Sheffer, A., and Zhang, E. 2011. All-hex mesh generation via volumetric polycube deformation.Computer Graphics Forum 30, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-5",
+                "unstructured": "Huang, J., Jiang, T., Shi, Z., Tong, Y., Bao, H., and Desbrun, M. 2014.l1-based construction of polycube maps from complex shapes.ACM Trans. Graph. 33, 3 (June).",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-6",
+                "unstructured": "Jiang, T., Huang, J., Wang, Y., Tong, Y., and Bao, H. 2014. Frame field singularity correction for automatic hexahedralization.IEEE Transactions on Visualization and Computer Graphics 20, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-7",
+                "unstructured": "Kraemer, P., Untereiner, L., Jund, T., Thery, S., and Cazier, D. 2014. CGoGN: n-dimensional meshes with combinatorial maps. InProceedings of the 22nd International Meshing Roundtable.",
+                "DOI": "10.1007/978-3-319-02335-9_27",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-8",
+                "unstructured": "Kremer, M., Bommes, D., and Kobbelt, L. 2012. OpenVolumeMesh -- a versatile index-based data structure for 3d polytopal complexes. InProceedings of the 21st International Meshing Roundtable.",
+                "DOI": "10.1007/978-3-642-33573-0_31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-9",
+                "unstructured": "Li, Y., Liu, Y., Xu, W., Wang, W., and Guo, B. 2012. All-hex meshing using singularity-restricted field.ACM Transactions on Graphics 31, 6 (Nov.).",
+                "DOI": "10.1145/2366145.2366196",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-10",
+                "unstructured": "Livesu, M., Vining, N., Sheffer, A., Gregson, J., and Scateni, R. 2013. PolyCut: Monotone graph-cuts for polycube base-complex construction.Transactions on Graphics (Proc. SIGGRAPH ASIA 2013) 32, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-11",
+                "unstructured": "Livesu, M., Sheffer, A., Vining, N., and Tarini, M. 2015. Practical hex-mesh optimization via edge-cone rectification.ACM Trans. Graph. 34, 4 (July).",
+                "DOI": "10.1145/2766905",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-12",
+                "unstructured": "Lyon, M., Bommes, D., and Kobbelt, L., 2016. libHexEx: a robust hexahedral mesh extraction library. http://www.graphics.rwth-aachen.de/software/libHexEx.",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-13",
+                "unstructured": "M&#246;bius, J., and Kobbelt, L. 2012. OpenFlipper: An open source geometry processing and rendering framework. InCurves and Surfaces, vol. 6920 ofLecture Notes in Computer Science."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-14",
+                "unstructured": "Nieser, M., Reitebuch, U., and Polthier, K. 2011. Cube-Cover - parameterization of 3D volumes.Comp. Graph. Forum.",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-15",
+                "unstructured": "Ray, N., and Sokolov, D. 2015. On smooth 3D frame field design.Computing Research Repository."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-16",
+                "unstructured": "Shepherd, J. F., and Johnson, C. R. 2008. Hexahedral mesh generation constraints.Engineering with Computers 24, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-17",
+                "unstructured": "Shewchuk, J. R. 1997. Adaptive precision floating-point arithmetic and fast robust geometric predicates.Discrete &#38; Computational Geometry 18, 3 (Oct.).",
+                "DOI": "10.1007/PL00009321",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925976-18",
+                "unstructured": "Shimada, K. 2006. Current trends and issues in automatic mesh generation.Computer-Aided Design &#38; Applications 3, 6."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925976&amp;ftid=1755892&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:19Z",
+            "timestamp": 1568162899000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "robust hexahedral mesh extraction"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925976",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

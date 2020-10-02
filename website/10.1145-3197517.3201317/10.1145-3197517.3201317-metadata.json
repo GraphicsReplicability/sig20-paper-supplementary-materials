@@ -1,0 +1,480 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853913
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1422325"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201317",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Gradient-domain processing within a texture atlas"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Fabi\u00e1n",
+                "family": "Prada",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Misha",
+                "family": "Kazhdan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Ming",
+                "family": "Chuang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Perceptln Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Hugues",
+                "family": "Hoppe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Inc."
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201317-1",
+                "unstructured": "Aseem Agarwala, Mira Dontcheva, Maneesh Agrawala, Steven Drucker, Alex Colburn, Brian Curless, David Salesin, and Michael Cohen. 2004. Interactive digital photomontage.ACM Trans. Graphics23 (2004), 294--302.",
+                "DOI": "10.1145/1015706.1015718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-2",
+                "unstructured": "Marc Alexa and Max Wardetzky. 2011. Discrete Laplacians on general polygonal meshes.ACM Trans. Graphics30 (2011), 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-3",
+                "unstructured": "Chandrajit Bajaj and Guoliang Xu. 2003. Anisotropic diffusion of surfaces and functions on surfaces.ACM Trans. Graphics22 (2003), 4--32.",
+                "DOI": "10.1145/588272.588276",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-4",
+                "unstructured": "Marcelo Bertalmio, Li-Tien Cheng, Stanley Osher, and Guillermo Sapiro. 2001. Variational problems and partial differential equations on implicit surfaces.J. Computational Physics174 (2001), 759--780.",
+                "DOI": "10.1006/jcph.2001.6937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-5",
+                "unstructured": "Pravin Bhat, Brian Curless, Michael Cohen, and Lawrence Zitnick. 2008. Fourier analysis of the 2D screened Poisson equation for gradient domain problems. In10th European Conf. Computer Vision.114--128.",
+                "DOI": "10.1007/978-3-540-88688-4_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-6",
+                "unstructured": "Alain Bossavit. 1988. Whitney forms: a class of finite elements for three-dimensional computations in electromagnetism.IEE Proc. A (Physical Science, Measurement and Instrumentation, Management and Education, Reviews)135 (1988), 493--500."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-7",
+                "unstructured": "William Briggs, Van Emden Henson, and Steve McCormick. 2000.A multigrid tutorial (2nd ed.).Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9780898719505",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-8",
+                "unstructured": "Brian Cabral and Leith Casey Leedom. 1993. Imaging vector fields using line integral convolution. In20th Annual Conf. Computer Graphics and Interactive Techniques.263--270.",
+                "DOI": "10.1145/166117.166151",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-9",
+                "unstructured": "Nathan Carr and John Hart. 2002. Meshed atlases for real-time procedural solid texturing.ACM Trans. Graphics21 (2002), 106--131.",
+                "DOI": "10.1145/508357.508360",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-10",
+                "unstructured": "Nathan Carr and John C. Hart. 2004. Painting detail.ACM Trans. Graphics23 (2004), 845--852.",
+                "DOI": "10.1145/1015706.1015809",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-11",
+                "unstructured": "Yanqing Chen, Timothy Davis, William W Hager, and Sivasankaran Rajamanickam. 2008. Algorithm 887: CHOLMOD, supernodal sparse Cholesky factorization and update/downdate.ACM Trans. Math. Softw.35 (2008), 22:1--22:14.",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-12",
+                "unstructured": "Ming Chuang, Linjie Luo, Benedict Brown, Szymon Rusinkiewicz, and Misha Kazhdan. 2009. Estimating the Laplace-Beltrami operator by restricting 3D functions.Computer Graphics Forum (SGP '09)(2009), 1475--1484."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-13",
+                "unstructured": "Ming Chuang, Szymon Rusinkiewicz, and Michael Kazhdan. 2016. Gradient-domain processing of meshes.J. Computer Graphics Techniques5 (2016), 44--55."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-14",
+                "unstructured": "Ulrich Clarenz, Udo Diewald, and Martin Rumpf. 2000. Anisotropic geometric diffusion in surface processing. InConf. Visualization '00.397--405."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-15",
+                "unstructured": "Keenan Crane, Fernando de Goes, Mathieu Desbrun, and Peter Schr&#246;der. 2013a. Digital Geometry Processing with Discrete Exterior Calculus. InACM SIGGRAPH 2013 Courses.7:1--7:126."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-16",
+                "unstructured": "Keenan Crane, Clarisse Weischedel, and Max Wardetzky. 2013b. Geodesies in heat: A new approach to computing distance based on heat flow.ACM Trans. Graphics32 (2013), 152:1--152:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-17",
+                "unstructured": "David Day and Mark Taylor. 2007. A new 11 point degree 6 cubature formula for the triangle.Sixth International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting 7(2007), 1022501--1022502."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-18",
+                "unstructured": "Mathieu Desbrun, Mark Meyer, Peter Schr&#246;der, and Alan Barr. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. InACM SIGGRAPH Conf. Proc.317--324.",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-19",
+                "unstructured": "Gerhard Dziuk. 1988.Finite elements for the Beltrami operator on arbitrary surfaces.Springer, 142--155.",
+                "DOI": "10.1007/BFb0082865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-20",
+                "unstructured": "Raanan Fattal, Dani Lischinski, and Michael Werman. 2002. Gradient domain high dynamic range compression.ACM Trans. Graphics21 (2002), 249--256.",
+                "DOI": "10.1145/566654.566573",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-21",
+                "unstructured": "Francisco Gonz&#225;lez and Gustavo Patow. 2009. Continuity mapping for multi-chart textures.ACM Trans. Graphics28 (2009), 109:1--109:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-22",
+                "unstructured": "Paul Heckbert. 1993. Introduction to finite element methods. InACM SIGGRAPH 1993 Courses."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-23",
+                "unstructured": "Sylvain Lefebvre and Hugues Hoppe. 2006. Appearance-space texture synthesis.ACM Trans. Graphics25 (2006), 541--548.",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-24",
+                "unstructured": "Anat Levin, Assaf Zomet, Shmuel Peleg, and Yair Weiss. 2003. Seamless image stitching in the gradient domain. InEuropean Conf. Computer Vision.377--389.",
+                "DOI": "10.1007/978-3-540-24673-2_31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-25",
+                "unstructured": "Bruno L&#233;vy, Sylvain Petitjean, Nicolas Ray, and J&#233;rome Maillot. 2002. Least Squares Conformal Maps for Automatic Texture Atlas Generation.ACM Trans. Graph.21 (2002), 362--371.",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-26",
+                "unstructured": "Ligang Liu, Lei Zhang, Yin Xu, Craig Gotsman, and Steven Gortler. 2008. A Local/Global Approach to Mesh Parameterization. InSymposium on Geometry Processing.1495--1504.",
+                "DOI": "10.1111/j.1467-8659.2008.01290.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-27",
+                "unstructured": "Songrun Liu, Zachary Ferguson, Alec Jacobson, and Yotam Gingold. 2017. Seamless: Seam Erasure and Seam-aware Decoupling of Shape from Mesh Resolution.ACM Trans. Graph.36 (2017), 216:1--216:15.",
+                "DOI": "10.1145/3130800.3130897",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-28",
+                "unstructured": "Lok Lui, Yalin Wang, and Tony Chan. 2005. Solving PDEs on Manifolds with Global Conformal Parameterization. InProc. Third Int. Conf. on Variational, Geometric, and Level Set Methods in Computer Vision.307--319.",
+                "DOI": "10.1007/11567646_26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-29",
+                "unstructured": "Microsoft. 2018. UVAtlas: isochart texture atlasing https://github.com/Microsoft/UVAtlas. (2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-30",
+                "unstructured": "Stanley Osher and James Sethian. 1988. Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations.J. Computational Physics79 (1988), 12--49.",
+                "DOI": "10.1016/0021-9991(88)90002-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-31",
+                "unstructured": "Jonathan Palacios and Eugene Zhang. 2011. Interactive Visualization of Rotational Symmetry Fields on Surfaces.IEEE Trans. Visualization and Computer Graphics17 (2011), 947--955.",
+                "DOI": "10.1109/TVCG.2010.121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-32",
+                "unstructured": "Patrick P&#233;rez, Michel Gangnet, and Andrew Blake. 2003. Poisson image editing.ACM Trans. Graphics22 (2003), 313--318.",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-33",
+                "unstructured": "Pietro Perona and Jitendra Malik. 1990. Scale-space and edge detection using anisotropic diffusion.Trans. on Pattern Analysis and Machine Intelligence12 (1990), 629--639.",
+                "DOI": "10.1109/34.56205",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-34",
+                "unstructured": "Cosmin Petra, Olaf Schenk, and Mihai Anitescu. 2014a. Real-time stochastic optimization of complex energy systems on high-performance computers.Computing in Science &#38; Engineering16, 5 (2014), 32--42.",
+                "DOI": "10.1109/MCSE.2014.53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-35",
+                "unstructured": "Cosmin G. Petra, Olaf Schenk, Miles Lubin, and Klaus G&#228;ertner. 2014b. An augmented incomplete factorization approach for computing the Schur complement in stochastic optimization.SIAM J. on Scientific Computing36 (2014), C139--C162.",
+                "DOI": "10.1137/130908737",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-36",
+                "unstructured": "Ulrich Pinkall and Konrad Polthier. 1993. Computing discrete minimal surfaces and their conjugates.Experimental Mathematics2, 15--36.",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-37",
+                "unstructured": "Roi Poranne, Marco Tarini, Sandro Huber, Daniele Panozzo, and Olga Sorkine-Hornung. 2017. Autocuts: Simultaneous Distortion and Cut Optimization for UV Mapping.ACM Trans. Graph.36 (2017), 215:1--215:11.",
+                "DOI": "10.1145/3130800.3130845",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-38",
+                "unstructured": "Pedro Sander, Steven Gortler, John Snyder, and Hugues Hoppe. 2002. Signal-specialized Parametrization. InProc. 13th Eurographics Workshop on Rendering.87--98."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-39",
+                "unstructured": "Pedro Sander, John Snyder, Steven Gortler, and Hugues Hoppe. 2001. Texture Mapping Progressive Meshes. InProc. 28th Annual Conf. on Computer Graphics and Interactive Techniques.409--416.",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-40",
+                "unstructured": "Alla Sheffer and John Hart. 2002. Seamster: Inconspicuous Low-distortion Texture Seam Layout. InProc. Conf. on Visualization '02.291--298."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-41",
+                "unstructured": "Barry Smith, Petter Bj&#248;rstad, and William Gropp. 1996.Domain decomposition: Parallel multilevel methods for elliptic partial differential equations.Cambridge Univ. Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-42",
+                "unstructured": "Jason Smith and Scott Schaefer. 2015. Bijective Parameterization with Free Boundaries.ACM Trans. Graph.34 (2015), 70:1--70:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-43",
+                "unstructured": "Olga Sorkine, Daniel Cohen-Or, Yaron Lipman, Marc Alexa, Christian Rossi, and Hand-Peter Seidel. 2004. Laplacian surface editing. InSymposium on Geometry Processing.175--184.",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-44",
+                "unstructured": "Jos Stam. 2003. Flows on surfaces of arbitrary topology.ACM Trans. Graphics (SIGGRAPH '03)22 (2003), 724--731."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-45",
+                "unstructured": "Tolga Tasdizen, Ross Whitaker, Paul Burchard, and Stanley Osher. 2002. Geometric surface smoothing via anisotropic diffusion of normals. InConf. Visualization '02.125--132."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-46",
+                "unstructured": "Gabriel Taubin. 1995. A signal processing approach to fair surface design. InACM SIGGRAPH Conf. Proc.351--358.",
+                "DOI": "10.1145/218380.218473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-47",
+                "unstructured": "Christian Teitzel, Roberto Grosso, and Thomas Ertl. 1997. Line Integral Convolution on Triangulated Surfaces. InConf. World Society for Computer Graphics 1997.572--581."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-48",
+                "unstructured": "Christian Weiss, Wolfgang Karl, Markus Kowarschik, and Ulrich R&#252;de. 1999. Memory characteristics of iterative methods. In1999 ACM/IEEE Conf. Supercomputing.",
+                "DOI": "10.1145/331532.331563",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-49",
+                "unstructured": "Tim Weyrich, Jia Deng, Connelly Barnes, Szymon Rusinkiewicz, and Adam Finkelstein. 2007. Digital bas-relief from 3D scenes.ACM Trans. Graphics26 (2007), 32:1--32:7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-50",
+                "unstructured": "Andrew Witkin and Michael Kass. 1991. Reaction-diffusion textures. InACM SIGGRAPH Conf. Proc.299--308.",
+                "DOI": "10.1145/122718.122750",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-51",
+                "unstructured": "Yizhou Yu, Kun Zhou, Dong Xu, Xiaohan Shi, Hujun Bao, Baining Guo, and Heung-Yeung Shum. 2004. Mesh editing with Poisson-based gradient field manipulation.ACM Trans. Graphics23 (2004), 644--651.",
+                "DOI": "10.1145/1015706.1015774",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-52",
+                "unstructured": "Cem Yuksel. 2017. Mesh color textures. InHigh Performance Graphics.17:1--17:11.",
+                "DOI": "10.1145/3105762.3105780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-53",
+                "unstructured": "Eugene Zhang, Konstantin Mischaikow, and Greg Turk. 2005. Feature-based Surface Parameterization and Texture Mapping.ACM Trans. Graph.24 (2005), 1--27.",
+                "DOI": "10.1145/1037957.1037958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201317-54",
+                "unstructured": "Kun Zhou, John Synder, Baining Guo, and Heung-Yeung Shum. 2004. Iso-charts: Stretch-driven Mesh Parameterization Using Spectral Analysis. InSymposium on Geometry Processing.45--54.",
+                "DOI": "10.1145/1057432.1057439",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201317&ftid=1991720&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:59:11Z",
+            "timestamp": 1571673551000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201317",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

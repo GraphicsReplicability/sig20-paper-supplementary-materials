@@ -1,0 +1,430 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    26
+                ]
+            ],
+            "date-time": "2019-12-26T15:03:12Z",
+            "timestamp": 1577372592560
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61120106007"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000287",
+                "name": "Royal Academy of Engineering",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Research Grant of Beijing Higher Institution Engineering Research Center",
+                "award": []
+            },
+            {
+                "name": "Tsinghua University Initiative Scientific Research Program",
+                "award": []
+            },
+            {
+                "name": "the Royal Academy of Engineering and the Leverhulme Trust",
+                "award": [
+                    "LSRF1415/11/96"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925897",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Multiphase SPH simulation for interactive fluids and solids"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xiao",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Yun-Tao",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Chen-Feng",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Swansea University"
+                    }
+                ]
+            },
+            {
+                "given": "Ralph R.",
+                "family": "Martin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cardiff University"
+                    }
+                ]
+            },
+            {
+                "given": "Shi-Min",
+                "family": "Hu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925897-1",
+                "unstructured": "Akinci, N., Ihmsen, M., Akinci, G., Solenthaler, B., and Teschner, M. 2012. Versatile rigid-fluid coupling for incompressible sph.ACM Trans. Graph. 31, 4 (July), 62:1--62:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-2",
+                "unstructured": "Akinci, N., Cornelis, J., Akinci, G., and Teschner, M. 2013. Coupling elastic solids with sph fluids.Journal of Computer Animation and Virtual Worlds."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-3",
+                "unstructured": "Aldu&#225;n, I., and Otaduy, M. A. 2011. Sph granular flow with friction and cohesion.Proceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 25--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-4",
+                "unstructured": "Bauer, E. 1996. Calibration of a comprehensive hypoplastic model for granular materials.Soils and Foundations 36, 1, 13--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-5",
+                "unstructured": "Becker, M., and Teschner, M. 2007. Weakly compressible sph for free surface flows.Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 209--217."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-6",
+                "unstructured": "Becker, M., Ihmsen, M., and Teschner, M. 2009. Corotated sph for deformable solids.Proceedings of the Fifth Eurographics Conference on Natural Phenomena, 27--34."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-7",
+                "unstructured": "Bell, N., Yu, Y., and Mucha, P. J. 2005. Particle-based simulation of granular materials.Proceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 77--86."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-8",
+                "unstructured": "Bender, J., and Koschier, D. 2015. Divergence-free smoothed particle hydrodynamics.SCA '15, 147--155."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-9",
+                "unstructured": "Bui, H. H., Fukagawa, R., Sako, K., and Ohno, S. 2008. Lagrangian meshfree particles method (sph) for large deformation and failure flows of geomaterial using elasticcplastic soil constitutive model.International Journal for Numerical and Analytical Methods in Geomechanics 32, 12, 1537--1570."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-10",
+                "unstructured": "Gerszewski, D., Bhattacharya, H., and Bargteil, A. W. 2009. A point-based method for animating elastoplastic solids.Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 133--138."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-11",
+                "unstructured": "Gray, J., Monaghan, J., and Swift, R. 2001. SPH elastic dynamics.Computer Methods in Applied Mechanics and Engineering 190, 49C50, 6641--6662."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-12",
+                "unstructured": "Gudehus, G. 1996. A comprehensive constitutive equation for granular materials.Soils and Foundations 36, 1, 1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-13",
+                "unstructured": "Hill, R. 1998.The Mathematical Theory of Plasticity. Oxford, Clarendon Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-14",
+                "unstructured": "Ihmsen, M., Wahl, A., and Teschner, M. 2012. High-resolution simulation of granular material with sph.VRIPHYS, 53--60."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-15",
+                "unstructured": "Ihmsen, M., Cornelis, J., Solenthaler, B., Horvath, C., and Teschner, M. 2014. Implicit incompressible sph.IEEE Transactions on Visualization and Computer Graphics 20, 3 (Mar.), 426--435."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-16",
+                "unstructured": "Ihmsen, M., Orthmann, J., Solenthaler, B., Kolb, A., and Teschner, M. 2014. SPH Fluids in Computer Graphics.Eurographics 2014 - State of the Art Reports."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-17",
+                "unstructured": "Jones, B., Ward, S., Jallepalli, A., Perenia, J., and Bargteil, A. W. 2014. Deformation embedding for point-based elastoplastic simulation.ACM Trans. Graph. 33, 2 (Apr.), 21:1--21:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-18",
+                "unstructured": "Keiser, R., Adams, B., Gasser, D., Bazzi, P., Dutr&#233;, P., and Gross, M. 2005. A unified lagrangian approach to solid-fluid animation.Proceedings of the Second Eurographics / IEEE VGTC Conference on Point-Based Graphics, 125--133."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-19",
+                "unstructured": "Kolymbas, D. 1991. Computer-aided design of constitutive laws.International Journal for Numerical and Analytical Methods in Geomechanics 15, 8, 593--604."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-20",
+                "unstructured": "Lenaerts, T., and Dutr, P. 2009. Mixing fluids and granular materials.Computer Graphics Forum 28, 2, 213--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-21",
+                "unstructured": "Lenaerts, T., Adams, B., and Dutr&#233;, P. 2008. Porous flow in particle-based fluid simulations.ACM Trans. Graph. 27, 3 (Aug.), 49:1--49:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-22",
+                "unstructured": "Libersky, L., and Petschek, A. 1991. Smooth particle hydrodynamics with strength of materials. InAdvances in the Free-Lagrange Method Including Contributions on Adaptive Grid-ding and the Smooth Particle Hydrodynamics Method, H. Trease, M. Fritts, and W. Crowley, Eds., vol. 395 ofLecture Notes in Physics. Springer Berlin Heidelberg, 248--257.",
+                "DOI": "10.1007/3-540-54960-9_58",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-23",
+                "unstructured": "Macklin, M., and M&#252;ller, M. 2013. Position based fluids.ACM Trans. Graph. 32, 4 (July), 104:1--104:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-24",
+                "unstructured": "Macklin, M., M&#252;ller, M., Chentanez, N., and Kim, T.-Y. 2014. Unified particle physics for real-time applications.ACM Trans. Graph. 33, 4 (July), 153:1--153:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-25",
+                "unstructured": "Manninen, M., Taivassalo, V., and Kallio, S. 1996. On the mixture model for multiphase flow.VTT Technical Research Centre of Finland, 288."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-26",
+                "unstructured": "Martin, S., Kaufmann, P., Botsch, M., Grinspun, E., and Gross, M. 2010. Unified simulation of elastic rods, shells, and solids.ACM Trans. Graph. 29, 4 (July), 39:1--39:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-27",
+                "unstructured": "Monaghan, J. J. 1992. Smoothed particle hydrodynamics.Annual Review of Astronomy and Astrophysics 30, 1, 543--574."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-28",
+                "unstructured": "Monaghan, J. 1997. Sph and riemann solvers.J. Comput. Phys. 136, 2 (Sept.), 298--307."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-29",
+                "unstructured": "M&#252;ller, M., and Chentanez, N. 2011. Solid simulation with oriented particles.ACM Trans. Graph. 30, 4 (July), 92:1--92:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-30",
+                "unstructured": "M&#252;ller, M., Charypar, D., and Gross, M. 2003. Particle-based fluid simulation for interactive applications.Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 154--159."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-31",
+                "unstructured": "M&#252;ller, M., Keiser, R., Nealen, A., Pauly, M., Gross, M., and Alexa, M. 2004. Point based animation of elastic, plastic and melting objects.Proceedings of the 2004 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 141--151."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-32",
+                "unstructured": "M&#252;ller, M., Heidelberger, B., Teschner, M., and Gross, M. 2005. Meshless deformations based on shape matching.ACM SIGGRAPH 2005 Papers, 471--478."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-33",
+                "unstructured": "M&#252;ller, M., Solenthaler, B., Keiser, R., and Gross, M. 2005. Particle-based fluid-fluid interaction.Proceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 237--244."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-34",
+                "unstructured": "Narain, R., Golas, A., and Lin, M. C. 2010. Free-flowing granular materials with two-way solid coupling.ACM SIGGRAPH Asia 2010 Papers, 173:1--173:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-35",
+                "unstructured": "Peer, A., Ihmsen, M., Cornelis, J., and Teschner, M. 2015. An implicit viscosity formulation for sph fluids.ACM Trans. Graph. 34, 4 (July), 114:1--114:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-36",
+                "unstructured": "Randles, P. W., and Libersky, L. D. 2000. Normalized sph with stress points.International Journal for Numerical Methods in Engineering 48, 10, 1445--1462."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-37",
+                "unstructured": "Ren, B., Li, C., Yan, X., Lin, M. C., Bonet, J., and Hu, S.-M. 2014. Multiple-fluid sph simulation using a mixture model.ACM Trans. Graph. 33, 5 (Sept.), 171:1--171:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-38",
+                "unstructured": "Schaeffer, D. G. 1987. Instability in the evolution equations describing incompressible granular flow.Journal of Differential Equations 66, 1, 19--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-39",
+                "unstructured": "Shao, X., Zhou, Z., Magnenat-Thalmann, N., and Wu, W. 2015. Stable and fast fluid-solid coupling for incompressible sph.Comput. Graph. Forum 34, 1 (Feb.), 191--204."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-40",
+                "unstructured": "Solenthaler, B., and Pajarola, R. 2008. Density contrast sph interfaces. SCA '08, 211--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-41",
+                "unstructured": "Solenthaler, B., and Pajarola, R. 2009. Predictive-corrective incompressible sph.ACM Trans. Graph. 28, 3 (July), 40:1--40:6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-42",
+                "unstructured": "Solenthaler, B., Schl&#228;fli, J., and Pajarola, R. 2007. A unified particle model for fluid-solid interactions.Comput. Animat. Virtual Worlds 18, 1 (Feb.), 69--82."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-43",
+                "unstructured": "Stomakhin, A., Schroeder, C., Chai, L., Teran, J., and Selle, A. 2013. A material point method for snow simulation.ACM Trans. Graph. 32, 4 (July), 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-44",
+                "unstructured": "Stomakhin, A., Schroeder, C., Jiang, C., Chai, L., Teran, J., and Selle, A. 2014. Augmented mpm for phase-change and varied materials.ACM Trans. Graph. 33, 4 (July), 138:1--138:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-45",
+                "unstructured": "Sulsky, D., Chen, Z., and Schreyer, H. 1994. A particle method for history-dependent materials.Computer Methods in Applied Mechanics and Engineering 118, 1C2, 179--196."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-46",
+                "unstructured": "Swegle, J., Hicks, D., and Attaway, S. 1995. Smoothed particle hydrodynamics stability analysis.Journal of Computational Physics 116, 1, 123--134."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-47",
+                "unstructured": "Takahashi, T., Dobashi, Y., Fujishiro, I., Nishita, T., and Lin, M. C. 2015. Implicit formulation for sph-based viscous fluids.Comput. Graph. Forum 34, 2, 493--502."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-48",
+                "unstructured": "Wu, W., and Bauer, E. 1994. A simple hypoplastic constitutive model for sand.International Journal for Numerical and Analytical Methods in Geomechanics 18, 12, 833--862."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-49",
+                "unstructured": "Yang, T., Chang, J., Ren, B., Lin, M. C., Zhang, J. J., and Hu, S.-M. 2015. Fast multiple-fluid simulation using helmholtz free energy.ACM Trans. Graph. 34, 6 (Oct.), 201:1--201:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-50",
+                "unstructured": "Zhou, Y., Lun, Z., Kalogerakis, E., and Wang, R. 2013. Implicit integration for particle-based simulation of elasto-plastic solids.Computer Graphics Forum 32, 7, 215--223."
+            },
+            {
+                "key": "key-10.1145/2897824.2925897-51",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid.ACM SIGGRAPH 2005 Papers, 965--972."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925897&amp;ftid=1755948&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T18:12:29Z",
+            "timestamp": 1498327949000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925897",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    15
+                ]
+            ],
+            "date-time": "2020-01-15T17:03:18Z",
+            "timestamp": 1579107798348
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "IIS-1065384, IIS-1055046"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601210",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Controllable high-fidelity facial performance transfer"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Feng",
+                "family": "Xu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Jinxiang",
+                "family": "Chai",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yilong",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xin",
+                "family": "Tong",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601210-1",
+                "unstructured": "Akhter, I., Simon, T., Khan, S., Matthews, I., and Sheikh, Y. 2012. Bilinear spatiotemporal basis models.ACM Trans. Graph. 31, 2 (Apr.), 17:1--17:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-2",
+                "unstructured": "Baran, I., Vlasic, D., Grinspun, E., and Popovi&#263;, J. 2009. Semantic deformation transfer.ACM Trans. Graph. 28, 3 (July), 36:1--36:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-3",
+                "unstructured": "Beeler, T., Hahn, F., Bradley, D., Bickel, B., Beardsley, P., Gotsman, C., Sumner, R. W., and Gross, M. 2011. High-quality passive facial performance capture using anchor frames.ACM Trans. Graph. 30, 4, 75:1--75:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-4",
+                "unstructured": "Bermano, A. H., Bradley, D., Beeler, T., Zund, F., Nowrouzezahrai, D., Baran, I., Sorkine-Hornung, O., Pfister, H., Sumner, R. W., Bickel, B., and Gross, M. 2014. Facial performance enhancement using dynamic shape space analysis.ACM Trans. Graph. 33, 2 (Apr.), 13:1--13:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-5",
+                "unstructured": "Bhat, K. S., Goldenthal, R., Ye, Y., Mallet, R., and Koperwas, M. 2013. High fidelity facial animation capture and retargeting with contours. InProceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '13, 7--14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-6",
+                "unstructured": "Bickel, B., Botsch, M., Angst, R., Matusik, W., Otaduy, M., Pfister, H., and Gross, M. 2007. Multi-scale capture of facial geometry and motion.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-7",
+                "unstructured": "Bickel, B., Lang, M., Botsch, M., Otaduy, M. A., and Gross, M. 2008. Pose-space animation and transfer of facial details. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '08, 57--66."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-8",
+                "unstructured": "Bouaziz, S., Wang, Y., and Pauly, M. 2013. Online modeling for realtime facial animation.ACM Trans. Graph. 32, 4 (July), 40:1--40:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-9",
+                "unstructured": "Buck, I., Finkelstein, A., Jacobs, C., Klein, A., Salesin, D., Seims, J., Szeliski, R., and Toyama, K. 2000. Performance-driven hand-drawn animation. InProceedings of NPAR 2000.",
+                "DOI": "10.1145/340916.340929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-10",
+                "unstructured": "Cao, C., Weng, Y., Lin, S., and Zhou, K. 2013. 3d shape regression for real-time facial animation.ACM Trans. Graph. 32, 4 (July), 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-11",
+                "unstructured": "Chai, J., Xiao, J., and Hodgins, J. 2003. Vision-based control of 3D facial animation. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 193--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-12",
+                "unstructured": "Chuang, E., 2004. Analysis, synthesis, and retargeting of facial expressions. PhD thesis, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-13",
+                "unstructured": "Havaldar, P. 2006. Performance driven facial animation.ACM SIGGRAPH Course Notes."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-14",
+                "unstructured": "Huang, H., Chai, J., Tong, X., and Wu, H.-T. 2011. Leveraging motion capture and 3d scanning for high-fidelity facial performance acquisition.ACM Trans. Graph. 30, 4, 74:1--74:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-15",
+                "unstructured": "Image-Metrics. Live driver (face tracking). http://www.image-metrics.com."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-16",
+                "unstructured": "James, D. L., and Twigg, C. D. 2005. Skinning mesh animations.ACM Transactions on Graphics 24, 3, 399--407.",
+                "DOI": "10.1145/1073204.1073206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-17",
+                "unstructured": "Joshi, P., Tien, W. C., Desbrun, M., and Pighin, F. 2003. Learning controls for blendshape based realistic facial animation. InProceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Aimation. 187--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-18",
+                "unstructured": "Kholgade, N., Matthews, I., and Sheikh, Y. 2011. Content retargeting using parameter-parallel facial layers. InProceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '11, 195--204."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-19",
+                "unstructured": "Lau, M., Chai, J., Xu, Y.-Q., and Shum, H.-Y. 2007. Face poser: interactive facial modeling using model priors. InProceedings of the 2007 ACM SIGGRAPH/Eurographics symposium on Computer animation."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-20",
+                "unstructured": "Lau, M., Chai, J., Xu, Y.-Q., and Shum, H. 2009. Face poser: Interactive modeling of 3d facial expressions using facial priors.ACM Transactions on Graphics 29, 1, 3:1--3:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-21",
+                "unstructured": "Lewis, J., and Anjyo, K. 2010. Direct manipulation blendshapes.IEEE Computer Graphics and Applications 30, 4, 42--50.",
+                "DOI": "10.1109/MCG.2010.41",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-22",
+                "unstructured": "Li, Q., and Deng, Z. 2008. Orthogonal-blendshape-based editing system for facial motion capture data.IEEE Comput. Graph. Appl. 28, 6 (Nov.), 76--82."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-23",
+                "unstructured": "Li, H., Weise, T., and Pauly, M. 2010. Example-based facial rigging.ACM Transactions on Graphics 29, 4, 32:1--32:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-24",
+                "unstructured": "Li, H., Yu, J., Ye, Y., and Bregler, C. 2013. Realtime facial animation with on-the-fly correctives.ACM Trans. Graph. 32, 4 (July), 42:1--42:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-25",
+                "unstructured": "Meyer, M., and Anderson, J. 2007. Key point subspace acceleration and soft caching. InACM Transactions on Graphics. 26(3): Article No. 74.",
+                "DOI": "10.1145/1276377.1276469",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-26",
+                "unstructured": "Noh, J., and Neumann, U. 2001. Expression cloning. InProceedings of ACM SIGGRAPH 2001. 277--288."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-27",
+                "unstructured": "Pighin, F., and Lewis, J. 2005. Digital face cloning.ACM SIGGRAPH Course Notes."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-28",
+                "unstructured": "Seol, Y., Seo, J., Kim, P. H., Lewis, J. P., and Noh, J. 2011. Artist friendly facial animation retargeting. InProceedings of the 2011 SIGGRAPH Asia Conference, ACM, New York, NY, USA, SA '11, 162:1--162:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-29",
+                "unstructured": "Seol, Y., Lewis, J., Seo, J., Choi, B., Anjyo, K., and Noh, J. 2012. Spacetime expression cloning for blendshapes.ACM Trans. Graph. 31, 2 (Apr.), 14:1--14:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-30",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Lipman, Y., Alexa, M., R&#246;ssl, C., and Seidel, H. 2004. Laplacian surface editing. InProceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing, ACM, 175--184."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-31",
+                "unstructured": "Sumner, R. W., and Popovi&#263;, J. 2004. Deformation transfer for triangle meshes.ACM Trans. Graph. 23, 3 (Aug.), 399--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-32",
+                "unstructured": "Taubin, G. 1995. A signal processing approach to fair surface design. InProceedings of the 22Nd Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '95, 351--358."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-33",
+                "unstructured": "Tena, J. R., De la Torre, F., and Matthews, I. 2011. Interactive region-based linear 3d face models.ACM Trans. Graph. 30, 4 (July), 76:1--76:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-34",
+                "unstructured": "Vlasic, D., Brand, M., Pfister, H., and Popovi&#263;, J. 2005. Face transfer with multilinear models.ACM Transactions on Graphics 24, 3, 426--433."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-35",
+                "unstructured": "Weise, T., Li, H., Van Gool, L., and Pauly, M. 2009. Face/off: live facial puppetry. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '09, 7--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601210-36",
+                "unstructured": "Zhang, L., Snavely, N., Curless, B., and Seitz, S. 2004. Spacetime faces: high resolution capture for modeling and animation.ACM Transactions on Graphics 23, 3, 548--558.",
+                "DOI": "10.1145/1015706.1015759",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601210&amp;ftid=1488851&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:07:58Z",
+            "timestamp": 1498151278000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601210",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

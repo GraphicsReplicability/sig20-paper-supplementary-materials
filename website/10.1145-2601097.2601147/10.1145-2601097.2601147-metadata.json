@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    14
+                ]
+            ],
+            "date-time": "2020-01-14T16:24:28Z",
+            "timestamp": 1579019068918
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "GRAND NCE",
+                "award": []
+            },
+            {
+                "name": "German Research Foundation (DFG)",
+                "award": [
+                    "IH 114/1-1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601147",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "From capture to simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "James",
+                "family": "Gregson",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Ivo",
+                "family": "Ihrke",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Nils",
+                "family": "Thuerey",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601147-1",
+                "unstructured": "Akinci, N., Ihmsen, M., Akinci, G., Solenthaler, B., and Teschner, M. 2012. Versatile Rigid-fluid Coupling for Incompressible SPH.ACM Transactions on Graphics 31, 4, article 62.",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-2",
+                "unstructured": "Ando, R., Thuerey, N., and Wojtan, C. 2013. Highly Adaptive Liquid Simulations on Tetrahedral Meshes.ACM Transactions on Graphics 32, 4 (August), article 10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-3",
+                "unstructured": "Atcheson, B., Ihrke, I., Heidrich, W., Tevs, A., Bradley, D., Magnor, M., and Seidel, H.-P. 2008. Time-resolved 3D Capture of Non-stationary Gas Flows.ACM Transactions on Graphics 27, 5, article 132.",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-4",
+                "unstructured": "Barbu, I., Herzet, C., and M&#233;min, E. 2013. Joint Estimation of Volume and Velocity in TomoPIV. InInternational Symposium on Particle Image Velocimetry."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-5",
+                "unstructured": "Batty, C., Bertails, F., and Bridson, R. 2007. A fast variational framework for accurate solid-fluid coupling.ACM Transactions on Graphics 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-6",
+                "unstructured": "Bridson, R. 2008.Fluid Simulation for Computer Graphics. AK Peters/CRC Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-7",
+                "unstructured": "Elsinga, G., Scarano, F., Wieneke, B., and van Oudheusden, B. 2006. Tomographic Particle Image Velocimetry.Experiments in Fluids 41, 6, 933--947.",
+                "DOI": "10.1007/s00348-006-0212-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-8",
+                "unstructured": "Foster, N., and Metaxas, D. 1996. Realistic Animation of Liquids.Graphical Models and Image Processing 58, 5 (Sept.), 471--483."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-9",
+                "unstructured": "Gregson, J., Krimerman, M., Hullin, M. B., and Heidrich, W. 2012. Stochastic Tomography and its Applications in 3D Imaging of Mixing Fluids.Proceedings ACM SIGGRAPH 2012 31, 4, article 52.",
+                "DOI": "10.1145/2185520.2185548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-10",
+                "unstructured": "Gu, J., Nayar, S., Grinspun, E., Belhumeur, P., and Ramamoorthi, R. 2013. Compressive Structured Light for Recovering Inhomogeneous Participating Media.IEEE Pattern Analysis and Machine Intelligence 35, 3, 555--567."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-11",
+                "unstructured": "Harlow, F., and Welch, E. 1965. Numerical Calculation of Time-dependent Viscous Incompressible Flow of Fluid with Free Surface.Physics of Fluids 8, 12, 2182--2189.",
+                "DOI": "10.1063/1.1761178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-12",
+                "unstructured": "Hasinoff, S. W., and Kutulakos, K. N. 2007. Photo-consistent Reconstruction of Semitransparent Scenes by Density-sheet Decomposition.IEEE Trans. PAMI 29, 5, 870--885.",
+                "DOI": "10.1109/TPAMI.2007.1056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-13",
+                "unstructured": "Hawkins, T., Einarsson, P., and Debevec, P. 2005. Acquisition of Time-Varying Participating Media.ACM Transactions on Graphics 24, 3, 812--815.",
+                "DOI": "10.1145/1073204.1073266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-14",
+                "unstructured": "Horn, B., and Schunck, B. 1981. Determining Optical Flow.Artificial Intelligence 17, 1, 185--203.",
+                "DOI": "10.1016/0004-3702(81)90024-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-15",
+                "unstructured": "Ihrke, I., and Magnor, M. 2004. Image-Based Tomographic Reconstruction of Flames. InProc. of ACM/Eurographics Symposium on Computer Animation (SCA), 367--375."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-16",
+                "unstructured": "Kadri Harouna, S., D&#233;rian, P., H&#233;as, P., and Memin, E. 2013. Divergence-free Wavelets and High Order Regularization.International Journal of Computer Vision 103, 1 (May), 80--99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-17",
+                "unstructured": "Kim, B., Liu, Y., Llamas, I., and Rossignac, J. 2005. Flow-Fixer: Using BFECC for Fluid Simulation. InProceedings of the First Eurographics conference on Natural Phenomena, 51--56."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-18",
+                "unstructured": "Kim, T., Th&#252;rey, N., James, D., and Gross, M. 2008. Wavelet Turbulence for Fluid Simulation.ACM Transactions on Graphics 27, 3, article 50."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-19",
+                "unstructured": "Li, C., Pickup, D., Saunders, T., Cosker, D., Marshall, D., Hall, P., and Willis, P. 2013. Water Surface Modeling from a Single Viewpoint Video.IEEE Transactions on Visualization and Computer Graphics 19, 7, 1242--1251.",
+                "DOI": "10.1109/TVCG.2012.302",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-20",
+                "unstructured": "Liu, T., and Shen, L. 2008. Fluid Flow and Optical Flow.Journal of Fluid Mechanics 614(11), 253--291.",
+                "DOI": "10.1017/S0022112008003273",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-21",
+                "unstructured": "McNamara, A., Treuille, A., Popovi&#263;, Z., and Stam, J. 2004. Fluid Control Using the Adjoint Method.ACM Transactions on Graphics 23, 3, 449--456."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-22",
+                "unstructured": "Meinhardt-Llopis, E., P&#233;rez, J. S., and Kondermann, D. 2013. Horn-Schunck Optical Flow with a Multi-Scale Strategy.Image Processing On-Line 2013, 151--172."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-23",
+                "unstructured": "M&#252;ller, M., Charypar, D., and Gross, M. 2003. Particle-based Fluid Simulation for Interactive Applications. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 154--159."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-24",
+                "unstructured": "Narain, R., Sewall, J., Carlson, M., and Lin, M. C. 2008. Fast Animation of Turbulence Using Energy Transport and Procedural Synthesis.ACM Transactions on Graphics 27, 5, article 166.",
+                "DOI": "10.1145/1409060.1409119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-25",
+                "unstructured": "Nielsen, M. B., Christensen, B. B., Zafar, N. B., Roble, D., and Museth, K. 2009. Guiding of Smoke Animations through Variational Coupling of Simulations at Different Resolutions. InProceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation, 217--226."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-26",
+                "unstructured": "Panigrahi, P. K., and Muralidhar, K. 2012.Schlieren and Shadowgraph Methods in Heat and Mass Transfer. Springer.",
+                "DOI": "10.1007/978-1-4614-4535-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-27",
+                "unstructured": "Parikh, N., and Boyd, S. 2013. Proximal Algorithms.Foundations and Trends in Optimization 1, 3, 123--231."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-28",
+                "unstructured": "Pfaff, T., and Thuerey, N., 2013. MantaFlow. http://mantaflow.ethz.ch."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-29",
+                "unstructured": "Settles, G. S. 2001.Schlieren and Shadowgraph Techniques. Experimental Fluid Mechanics. Springer.",
+                "DOI": "10.1007/978-3-642-56640-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-30",
+                "unstructured": "Shi, L., and Yu, Y. 2005. Taming Liquids for Rapidly Changing Targets. InProceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation, 229--236."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-31",
+                "unstructured": "Stam, J. 1999. Stable Fluids. InProceedings ACM SIGGRAPH, 121--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-32",
+                "unstructured": "Stomakhin, A., Schroeder, C., Chai, L., Teran, J., and Selle, A. 2013. A Material Point Method for Snow Simulation.ACM Transactions on Graphics 32, 4, article 102.",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-33",
+                "unstructured": "Su, L. K., and Dahm, W. J. A. 1996. Scalar Imaging Velocimetry Measurements of the Velocity Gradient Tensor Field in Turbulent Flows. I. Assessment of Errors.Physics of Fluids 8, 7, 1869--1882.",
+                "DOI": "10.1063/1.868969",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-34",
+                "unstructured": "Sun, D., Roth, S., and Black, M. J. 2014. A Quantitative Analysis of Current Practices in Optical Flow Estimation and the Principles behind Them.International Journal of Computer Vision 106, 2, 115--137.",
+                "DOI": "10.1007/s11263-013-0644-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-35",
+                "unstructured": "Thuerey, N., Keiser, R., Ruede, U., and Pauly, M. 2006. Detail-Preserving Fluid Control. InProceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation, 7--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-36",
+                "unstructured": "Tropea, C., Yarin, A. L., and Foss, J. F. 2006.Handbook of Experimental Fluid Mechanics. Springer.",
+                "DOI": "10.1007/978-3-540-30299-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-37",
+                "unstructured": "Van Vliet, E., Van Bergen, S., Derksen, J., Portela, L., and Van den Akker, H. 2004. Time-Resolved, 3D, Laser-Induced Fluorescence Measurements of Fine-Structure Passive Scalar Mixing in a Tubular Reactor.Experiments in Fluids 37, 1--21.",
+                "DOI": "10.1007/s00348-004-0779-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-38",
+                "unstructured": "Vlasenko, A., and Schn&#246;rr, C. 2009. Variational Approaches to Image Fluid Flow Estimation with Physical Priors. InImaging Measurement Methods for Flow Analysis, vol. 106. Springer, 247--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-39",
+                "unstructured": "Wang, H., Liao, M., Zhang, Q., Yang, R., and Turk, G. 2009. Physically Guided Liquid Surface Modeling from Videos.ACM Transactions on Graphics 28, 3, article 90.",
+                "DOI": "10.1145/1531326.1531396",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-40",
+                "unstructured": "Yuan, J., Schn&#246;rr, C., and M&#233;min, E. 2007. Discrete Orthogonal Decomposition and Variational Fluid Flow Estimation.Journal of Mathemathical Imaging and Vision 28, 1, 67--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601147-41",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating Sand as a Fluid.ACM Transactions on Graphics 24, 3, 965--972.",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601147&amp;ftid=1488948&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:49Z",
+            "timestamp": 1565663749000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "connecting forward and inverse problems in fluids"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601147",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

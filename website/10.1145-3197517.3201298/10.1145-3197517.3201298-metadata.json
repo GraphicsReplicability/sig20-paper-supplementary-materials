@@ -1,0 +1,510 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:03Z",
+            "timestamp": 1574859843021
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003422",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Visual Computing Center CCF"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201298",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Space-time tomography for continuously deforming objects"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Guangming",
+                "family": "Zang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Ramzi",
+                "family": "Idouchi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Ran",
+                "family": "Tao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Gilles",
+                "family": "Lubineau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201298-1",
+                "unstructured": "Mohamed Aly, Guangming Zang, Wolfgang Heidrich, and Peter Wonka. 2016. TRex: A Tomography Reconstruction Proximal Framework for Robust Sparse View X-Ray Applications.arXiv preprint arXiv:1606.03601(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-2",
+                "unstructured": "Anders H Andersen and Avinash C Kak. 1984. Simultaneous algebraic reconstruction technique (SART): a superior implementation of the ART algorithm.Ultrasonic Imaging6, 1 (1984), 81-94.",
+                "DOI": "10.1177/016173468400600107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-3",
+                "unstructured": "Bradley Atcheson, Ivo Ihrke, Wolfgang Heidrich, Art Tevs, Derek Bradley, Marcus Magnor, and Hans-Peter Seidel. 2008. Time-resolved 3D capture of non-stationary gas flows.ACM Trans. Graph.27, 5 (2008), 132.",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-4",
+                "unstructured": "Brian K Bay, Tait S Smith, David P Fyhrie, and Malik Saad. 1999. Digital volume correlation: three-dimensional strain mapping using X-ray tomography.Exp. Mech.39, 3 (1999), 217--226."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-5",
+                "unstructured": "Derek Bradley, Tiberiu Popa, Alla Sheffer, Wolfgang Heidrich, and Tamy Boubekeur. 2008. Markerless garment capture. 27, 3 (2008), 99."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-6",
+                "unstructured": "Martin Burger, Hendrik Dirks, and Carola-Bibiane Schonlieb. 2018. A variational model for joint motion estimation and image reconstruction.SIAM Journal on Imaging Sciences11, 1 (2018), 94--128.",
+                "DOI": "10.1137/16M1084183",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-7",
+                "unstructured": "Antonin Chambolle and Thomas Pock. 2011. A first-order primal-dual algorithm for convex problems with applications to imaging.J. Math. Imaging and Vision40, 1 (2011), 120--145.",
+                "DOI": "10.1007/s10851-010-0251-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-8",
+                "unstructured": "Guang-Hong Chen, Pascal Th&#233;riault-Lauzier, Jie Tang, Brian Nett, Shuai Leng, Joseph Zambelli, Zhihua Qi, Nicholas Bevins, Amish Raval, Scott Reeder, et al. 2012. Time-resolved interventional cardiac C-arm cone-beam CT: An application of the PICCS algorithm.IEEE Trans. Med. Img.31, 4 (2012), 907--923.",
+                "DOI": "10.1109/TMI.2011.2172951",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-9",
+                "unstructured": "W Chlewicki, C Badea, and N Pallikarakis. 2001. Cone based 3D reconstruction: a FDK-SART comparison for limited number of projections.Proceedings of MEDICON 2001(2001)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-10",
+                "unstructured": "Edilson De Aguiar, Carsten Stoll, Christian Theobalt, Naveed Ahmed, Hans-Peter Seidel, and Sebastian Thrun. 2008. Performance capture from sparse multi-view video. 27, 3 (2008), 98."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-11",
+                "unstructured": "Laurent Desbat, Sbastien Roux, and Pierre Grangeat. 2007. Compensation of some time dependent deformations in tomography.IEEE Trans. Med. Img.26, 2 (2007), 261--269.",
+                "DOI": "10.1109/TMI.2006.889743",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-12",
+                "unstructured": "Mingsong Dou, Sameh Khamis, Yury Degtyarev, Philip Davidson, Sean Ryan Fanello, Adarsh Kowdle, Sergio Orts Escolano, Christoph Rhemann, David Kim, Jonathan Taylor, et al. 2016. Fusion4D: Real-time performance capture of challenging scenes.ACM Trans. Graph.35, 4 (2016), 114.",
+                "DOI": "10.1145/2897824.2925969",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-13",
+                "unstructured": "Gerrit E Eisinga, Fulvio Scarano, Bernhard Wieneke, and Bas W van Oudheusden. 2006. Tomographic particle image velocimetry.Exp. Fluids41, 6 (2006), 933--947."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-14",
+                "unstructured": "LA Feldkamp, LC Davis, and JW Kress. 1984. Practical cone-beam algorithm.JOSA A1, 6 (1984), 612--619.",
+                "DOI": "10.1364/JOSAA.1.000612",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-15",
+                "unstructured": "Pascal Getreuer. 2012. Rudin-Osher-Fatemi total variation denoising using split Bregman.Image Processing On Line2 (2012), 74--95.",
+                "DOI": "10.5201/ipol.2012.g-tvd",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-16",
+                "unstructured": "James Gregson, Ivo Ihrke, Nils Thuerey, and Wolfgang Heidrich. 2014. From capture to simulation: connecting forward and inverse problems in fluids.ACM Trans. Graph.33, 4 (2014), 139.",
+                "DOI": "10.1145/2601097.2601147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-17",
+                "unstructured": "James Gregson, Michael Krimerman, Matthias B Hullin, and Wolfgang Heidrich. 2012. Stochastic tomography and its applications in 3D imaging of mixing fluids.ACM Trans. Graph.31, 4 (2012), 52--1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-18",
+                "unstructured": "Samuel W Hasinoff and Kiriakos N Kutulakos. 2007. Photo-consistent reconstruction of semitransparent scenes by density-sheet decomposition.IEEE Trans. PAMI29, 5 (2007), 870--885.",
+                "DOI": "10.1109/TPAMI.2007.1056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-19",
+                "unstructured": "Gabor T. Herman. 2009.Fundamentals of computerized tomography: image reconstruction from projections."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-20",
+                "unstructured": "Fran&#231;ois Hild, Hugo Leclerc, and St&#233;phane Roux. 2014. Performing DVC at the Voxel Scale. InAdvancement of Optical Methods in Experimental Mechanics, Volume 3.209--215.",
+                "DOI": "10.1007/978-3-319-00768-7_26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-21",
+                "unstructured": "Berthold KP Horn and Brian G Schunck. 1981. Determining optical flow.Artificial Intelligence17, 1--3 (1981), 185--203."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-22",
+                "unstructured": "Peter J Huber. 2011. Robust statistics. InInt. Encyclopedia of Statistical Science.1248--1251.",
+                "DOI": "10.1007/978-3-642-04898-2_594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-23",
+                "unstructured": "Ivo Ihrke and Marcus Magnor. 2004. Image-based tomographic reconstruction of flames. InProc. SCA.365--373.",
+                "DOI": "10.1145/1028523.1028572",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-24",
+                "unstructured": "Takashi Ijiri, Shin Yoshizawa, Hideo Yokota, and Takeo Igarashi. 2014. Flower modeling via X-ray computed tomography.ACM Trans. Graph.33, 4 (2014), 48.",
+                "DOI": "10.1145/2601097.2601124",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-25",
+                "unstructured": "Matthias Innmann, Michael Zollh&#246;fer, Matthias Nie&#223;ner, Christian Theobalt, and Marc Stamminger. 2016. VolumeDeform: Real-time volumetric non-rigid reconstruction. InProc. ECCV.Springer, 362--379.",
+                "DOI": "10.1007/978-3-319-46484-8_22",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-26",
+                "unstructured": "Oszk&#225;r J&#243;zsa, Attila B&#246;res, and Csaba Benedek. 2013. Towards 4D virtual city reconstruction from Lidar point cloud sequences. ISPRS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-27",
+                "unstructured": "Avinash C Kak and Malcolm Slaney. 2001.Principles of computerized tomographic imaging.SIAM."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-28",
+                "unstructured": "Sakiho Kato, Tomofumi Narita, Chika Tomiyama, Takashi Ijiri, and Hiroya Tanaka. 2017. 4D computed tomography measurement for growing plant animation. InSIGGRAPH ASIA 2017Posters.",
+                "DOI": "10.1145/3145690.3145715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-29",
+                "unstructured": "ByungMoon Kim, Yingjie Liu, Ignacio Llamas, and Jaroslaw R Rossignac. 2005.Flowfixer: Using bfecc for fluid simulation.Technical Report. Georgia Institute of Technology."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-30",
+                "unstructured": "Jo&#235;l Lachambre, Julien R&#233;thor&#233;, Arnaud Weck, and Jean-Yves Buffiere. 2015. Extraction of stress intensity factors for 3D small fatigue cracks using digital volume correlation and X-ray tomography.Int. J. Fatigue71 (2015), 3--10.",
+                "DOI": "10.1016/j.ijfatigue.2014.03.022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-31",
+                "unstructured": "Douglas Lanman, Gordon Wetzstein, Matthew Hirsch, Wolfgang Heidrich, and Ramesh Raskar. 2011. Polarization fields: dynamic light field display using multi-layer LCDs.ACM Trans. Graph.30, 6 (2011), 186.",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-32",
+                "unstructured": "Hugo Leclerc, St&#233;phane Roux, and Fran&#231;ois Hild. 2015. Projection savings in CT-based digital volume correlation.Exp. Mech.55, 1 (2015), 275--287.",
+                "DOI": "10.1007/s11340-014-9871-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-33",
+                "unstructured": "Hao Li, Linjie Luo, Daniel Vlasic, Pieter Peers, Jovan Popovi&#263;, Mark Pauly, and Szymon Rusinkiewicz. 2012. Temporally coherent completion of dynamic shapes.ACM Trans. Graph.31, 1 (2012), 2.",
+                "DOI": "10.1145/2077341.2077343",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-34",
+                "unstructured": "Enric Meinhardt-Llopis, Javier S&#225;nchez P&#233;rez, and Daniel Kondermann. 2013. Horn-Schunck Optical Flow with a Multi-Scale Strategy. Image Processing On Line, 2013: 151--172, 2013. (2013).",
+                "DOI": "10.5201/ipol.2013.20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-35",
+                "unstructured": "Niloy J Mitra, Simon Fl&#246;ry, Maks Ovsjanikov, Natasha Gelfand, Leonidas J Guibas, and Helmut Pottmann. 2007. Dynamic geometry registration. InSymposium on geometry processing.173--182."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-36",
+                "unstructured": "K Aditya Mohan, SV Venkatakrishnan, John W Gibbs, Emine Begum Gulsoy, Xianghui Xiao, Marc De Graef, Peter W Voorhees, and Charles A Bouman. 2015. TIMBER: A method for time-space reconstruction from interlaced views. 1, 2 (2015), 96--111."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-37",
+                "unstructured": "Thilo F Morgeneyer, Lukas Helfen, Hazem Mubarak, and Fran&#231;ois Hild. 2013. 3D digital volume correlation of synchrotron radiation laminography images of ductile crack initiation: an initial feasibility study.Exp. Mech.53, 4 (2013), 543--556.",
+                "DOI": "10.1007/s11340-012-9660-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-38",
+                "unstructured": "Cyril Mory, Vincent Auvray, Bo Zhang, Michael Grass, Dirk Sch&#228;fer, S James Chen, John D Carroll, Simon Rit, Fran&#231;oise Peyrin, Philippe Douek, et al. 2014. Cardiac C-arm computed tomography using a 3D + time ROI reconstruction method with spatial and temporal regularization.Med. Phys.41, 2 (2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-39",
+                "unstructured": "Cyril Mory, Bo Zhang, Vincent Auvray, Michael Grass, Dirk Sch&#228;fer, Fran&#231;oise Peyrin, Simon Rit, Philippe Douek, and Lo&#239;c Boussel. 2012. ECG-gated C-arm computed tomography using L1 regularization. InProc. EUSIPCO.2728--2732."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-40",
+                "unstructured": "J Neggers, JPM Hoefnagels, MGD Geers, F Hild, and S Roux. 2015. Time-resolved integrated digital image correlation.Internat. J. Numer. Methods Engrg.103, 3 (2015), 157--182.",
+                "DOI": "10.1002/nme.4882",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-41",
+                "unstructured": "Alex Reche-Martinez, Ignacio Martin, and George Drettakis. 2004. Volumetric reconstruction and interactive rendering of trees from photographs.ACM Trans. Graph.23, 3 (2004), 720--727.",
+                "DOI": "10.1145/1015706.1015785",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-42",
+                "unstructured": "St&#233;phane Roux, Fran&#231;ois Hild, Philippe Viot, and Dominique Bernard. 2008. Three-dimensional image correlation from X-ray computed tomography of solid foam.Composites Part A: Applied science and manufacturing39, 8 (2008), 1253--1265.",
+                "DOI": "10.1016/j.compositesa.2007.11.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-43",
+                "unstructured": "Hubert Schreier, Jean-Jos&#233; Orteu, and Michael A Sutton. 2009.Image correlation for shape, motion and deformation measurements.Springer US.",
+                "DOI": "10.1007/978-0-387-78747-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-44",
+                "unstructured": "Emil Y Sidky and Xiaochuan Pan. 2008. Image reconstruction in circular cone-beam computed tomography by constrained, total-variation minimization.Physics in Medicine and Biology53, 17 (2008), 4777."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-45",
+                "unstructured": "Jan-Jakob Sonke, Lambert Zijp, Peter Remeijer, and Marcel van Herk. 2005. Respiratory correlated cone beam CT.Med. Phys.32, 4 (2005), 1176--1186.",
+                "DOI": "10.1118/1.1869074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-46",
+                "unstructured": "Wolfgang H Stuppy, Jessica A Maisano, Matthew W Colbert, Paula J Rudall, and Timothy B Rowe. 2003. Three-dimensional analysis of plant structure using high-resolution X-ray computed tomography.Trends in Plant Science8, 1 (2003), 2--6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-47",
+                "unstructured": "Thibault Taillandier-Thomas, St&#233;phane Roux, and Fran&#231;ois Hild. 2016. Soft route to 4D tomography.Phys. Rev. Letters117, 2 (2016), 025501."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-48",
+                "unstructured": "Oliver Taubmann, G&#252;nter Lauritsch, Andreas Maier, Rebecca Fahrig, and Joachim Hornegger. 2015. Estimate, compensate, iterate: joint motion estimation and compensation in 4-D cardiac C-arm computed tomography. InProc. Int. Conf. on Medical Image Computing and Computer-Assisted Intervention.579--586.",
+                "DOI": "10.1007/978-3-319-24571-3_69",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-49",
+                "unstructured": "Borislav Trifonov, Derek Bradley, and Wolfgang Heidrich. 2006. Tomographic reconstruction of transparent objects. InProc. EGSR.",
+                "DOI": "10.1145/1179849.1179918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-50",
+                "unstructured": "JG Van der Corput. 1935. Verteilungsfunktionen I, II.Nederl. Akad. Wetensch. Proc.38 (1935)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-51",
+                "unstructured": "Eelco Verhulp, Bert van Rietbergen, and Rik Huiskes. 2004. A three-dimensional digital image correlation technique for strain measurements in micro structures.J. Biomechanics37, 9 (2004), 1313--1320.",
+                "DOI": "10.1016/j.jbiomech.2003.12.036",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-52",
+                "unstructured": "Michael Wand, Bart Adams, Maksim Ovsjanikov, Alexander Berner, Martin Bokeloh, Philipp Jenke, Leonidas Guibas, Hans-Peter Seidel, and Andreas Schilling. 2009. Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data.ACM Trans. Graph.28, 2 (2009), 15.",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-53",
+                "unstructured": "Gordon Wetzstein, Douglas Lanman, Wolfgang Heidrich, and Ramesh Raskar. 2011. Layered 3D: tomographic image synthesis for attenuation-based light field and high dynamic range displays.ACM Trans. Graph.30, 4 (2011), 95.",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-54",
+                "unstructured": "Jinhui Xiong, Ramzi Idoughi, Andres A Aguirre-Pablo, Abdulrahman B Aljedaani, Xiong Dun, Qiang Fu, Sigurdur T. Thoroddsen, and Wolfgang Heidrich. 2017. Rainbow particle imaging velocimetry for dense 3D fluid velocity imaging.ACM Trans. Graph.36, 4 (2017), 36.",
+                "DOI": "10.1145/3072959.3073662",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-55",
+                "unstructured": "Shuang Zhao, Wenzel Jakob, Steve Marschner, and Kavita Bala. 2011. Building volumetric appearance models of fabric using micro CT imaging.ACM Trans. Graph.30, 4 (2011), 44.",
+                "DOI": "10.1145/2010324.1964939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201298-56",
+                "unstructured": "Qian Zheng, Xiaochen Fan, Minglun Gong, Andrei Sharf, Oliver Deussen, and Hui Huang. 2017. 4D Reconstruction of Blooming Flowers.CGF36, 6 (2017), 405--417.",
+                "DOI": "10.1111/cgf.12989",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201298&ftid=1991755&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:43Z",
+            "timestamp": 1571673163000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201298",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

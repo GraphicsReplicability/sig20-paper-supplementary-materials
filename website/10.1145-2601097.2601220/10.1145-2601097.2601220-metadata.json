@@ -1,0 +1,352 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:30Z",
+            "timestamp": 1575507210883
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Max Plack Center for Visual Computing and Communications",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "FODAVA 808515, DMS 1228304"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601220",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Relating shapes via geometric symmetries and regularities"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Art",
+                "family": "Tevs",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Qixing",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Michael",
+                "family": "Wand",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Leonidas",
+                "family": "Guibas",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601220-1",
+                "unstructured": "Allen, B., Curless, B., and Popovi&#263;, Z. 2003. The space of human body shapes: Reconstruction and parameterization from range scans.ACM Trans. Graph. 22, 3, 587--594."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-2",
+                "unstructured": "Bokeloh, M., Berner, A., Wand, M., Seidel, H.-P., and Schilling, A. 2009. Symmetry detection using line features.Computer Graphics Forum (Proc. Eurographics).",
+                "DOI": "10.1111/j.1467-8659.2009.01410.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-3",
+                "unstructured": "Bokeloh, M., Wand, M., Seidel, H.-P., and Koltun, V. 2012. An algebraic model for parameterized shape editing.ACM Transactions on Graphics 31, 4.",
+                "DOI": "10.1145/2185520.2185574",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-4",
+                "unstructured": "Cullen, B., and O'Sullivan, C. 2011. Symmetry hybrids. InProceedings of the International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging, ACM, New York, NY, USA, CAe '11, 33--38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-5",
+                "unstructured": "Fisher, M., Savva, M., and Hanrahan, P. 2011. Characterizing structural relationships in scenes using graph kernels.ACM Trans. Graph. 30, 4 (July), 34:1--34:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-6",
+                "unstructured": "Gal, R., Sorkine, O., Mitra, N., and Cohen-Or, D. 2009. iwires: An analyze-and-edit approach to shape manipulation.ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531339",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-7",
+                "unstructured": "Gelfand, N., and Guibas, L. J. 2004. Shape segmentation using local slippage analysis. InProc. SGP, 214--223.",
+                "DOI": "10.1145/1057432.1057461",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-8",
+                "unstructured": "Gelfand, N., Mitra, N. J., Guibas, L. J., and Pottmann, H. 2005. Robust global registration. InProc. SGP, 197--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-9",
+                "unstructured": "Hahn, T. 2002.International Tables for Crystallography, Volume A: Space Group Symmetry. Springer Verlag, Berlin."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-10",
+                "unstructured": "Hauagge, D. C., and Snavely, N. 2012. Image matching using local symmetry features. InProc. CVPR, 206--213."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-11",
+                "unstructured": "Henderson, T. C., Cohen, E., Joshi, A., Grant, E., Draelos, M., and Deshpande, N. 2012. Symmetry as a basis for perceptual fusion. InMultisensor Fusion and Integration for Intelligent Systems (MFI), 2012 IEEE Conference on, 101--107."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-12",
+                "unstructured": "Huang, Q., Zhang, G., Gao, L., Hu, S., Bustcher, A., and Guibas, L. 2012. An optimization approach for extracting and encoding consistent maps in a shape collection.ACM Transactions on Graphics 31, 125:1--125:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-13",
+                "unstructured": "Kalogerakis, E., Hertzmann, A., and Singh, K. 2010. Learning 3d mesh segmentation and labeling.ACM Trans. Graph. 29, 3.",
+                "DOI": "10.1145/1778765.1778839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-14",
+                "unstructured": "Kazhdan, M., Funkhouser, T., and Rusinkiewicz, S. 2003. Rotation invariant spherical harmonic representation of 3D shape descriptors. InSymposium on Geometry Processing."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-15",
+                "unstructured": "Kazhdan, M., Funkhouser, T., and Rusinkiewicz, S. 2004. Symmetry descriptors and 3d shape matching. InProc. Symposium on Geometry Processing (SGP).",
+                "DOI": "10.1145/1057432.1057448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-16",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N., DiVerdi, S., and Funkhouser, T. 2012. Exploring collections of 3d models using fuzzy correspondences. InACM SIGGRAPH 2012 papers.",
+                "DOI": "10.1145/2185520.2185550",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-17",
+                "unstructured": "Leordeanu, M., and Hebert, M. 2006. Efficient map approximation for dense energy functions. ICML '06, 545--552.",
+                "DOI": "10.1145/1143844.1143913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-18",
+                "unstructured": "Lipman, Y., Chen, X., Daubechies, I., and Funkhouser, T. 2010. Symmetry factored embedding and distance.ACM Trans. Graph. 29(July), 103:1--103:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-19",
+                "unstructured": "Liu, T., Kim, V. G., and Funkhouser, T. 2012. Finding surface correspondences using symmetry axis curves.Computer Graphics Forum (Proc. SGP)(July).",
+                "DOI": "10.1111/j.1467-8659.2012.03166.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-20",
+                "unstructured": "Martinet, A. 2007.Structuring 3D Geometry based on Symmetry and Instancing Information. PhD thesis, INP Grenoble."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-21",
+                "unstructured": "Mitra, N. J., Guibas, L. J., and Pauly, M. 2006. Partial and approximate symmetry detection for 3d geometry.ACM Trans. Graph. 25, 3, 560--568.",
+                "DOI": "10.1145/1141911.1141924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-22",
+                "unstructured": "Mitra, N. J., Yang, Y.-L., Yan, D.-M., Li, W., and Agrawala, M. 2010. Illustrating how mechanical assemblies work.ACM Transactions on Graphics 29, 3.",
+                "DOI": "10.1145/1778765.1778795",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-23",
+                "unstructured": "Nguyen, A., Ben-Chen, M., Welnicka, K., Ye, Y., and Guibas, L. 2011. An optimization approach to improving collections of shape maps.Computer Graphics Forum (Proc. SGP), 1481--1491."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-24",
+                "unstructured": "Ovsjanikov, M., Li, W., Guibas, L., and Mitra, N. 2011. Exploration of continuous variability in collections of 3d shapes.ACM Trans. Graph. (Proc. Siggraph).",
+                "DOI": "10.1145/1964921.1964928",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-25",
+                "unstructured": "Pauly, M., Mitra, N. J., Wallner, J., Pottmann, H., and Guibas, L. 2008. Discovering structural regularity in 3D geometry.ACM Transactions on Graphics 27, 3, #43, 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-26",
+                "unstructured": "Sidi, O., van Kaick, O., Kleiman, Y., Zhang, H., and Cohen-Or, D. 2011. Unsupervised co-segmentation of a set of shapes via descriptor-space spectral clustering.ACM Trans. Graph. 30, 6 (Dec.), 126:1--126:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-27",
+                "unstructured": "Simari, P., Nowrouzezahrai, D., Kalogerakis, E., and Singh, K. 2009. Multi-objective shape segmentation and labeling.Computer Graphics Forum 28, 5.",
+                "DOI": "10.1111/j.1467-8659.2009.01518.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-28",
+                "unstructured": "Thrun, S., and Wegbreit, B. 2005. Shape from symmetry. InProc. ICCV'05, 1824--1831."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-29",
+                "unstructured": "van Kaick, O., Zhang, H., Hamarneh, G., and Cohen-Or, D. 2011. A survey on shape correspondence.Computer Graphics Forum 30, 6, 1681--1707.",
+                "DOI": "10.1111/j.1467-8659.2011.01884.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-30",
+                "unstructured": "van Kaick, O., Xu, K., Zhang, H., Wang, Y., Sun, S., Shamir, A., and Cohen-Or, D. 2013. Co-hierarchical analysis of shape structures.ACM Trans. Graph. (Proc. Siggraph) 32, 4 (July), 69:1--69:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-31",
+                "unstructured": "Wang, Y., Xu, K., Li, J., Zhang, H., Shamir, A., Liu, L., Cheng, Z., and Xiong, Y. 2011. Symmetry hierarchy of man-made objects.Computer Graphics Forum (Proc. EUROGRAPHICS) 30, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-32",
+                "unstructured": "Wang, Y., Xu, K., Zhang, H., Cohen-Or, D., and Shamir, A. 2012. Structural co-hierarchy of a set of shapes. Tech. rep."
+            },
+            {
+                "key": "key-10.1145/2601097.2601220-33",
+                "unstructured": "Xu, K., Zhang, H., Tagliasacchi, A., Liu, L., Li, G., Meng, M., and Xiong, Y. 2009. Partial intrinsic reflectional symmetry of 3d shapes.ACM Transactions on Graphics, (Proceedings SIGGRAPH Asia 2009) 28, 5, 138:1--138:10."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601220&amp;ftid=1488927&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:38Z",
+            "timestamp": 1565663738000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601220",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,620 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813437
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "TUM-IAS Rudolf M\u00f6\u00dfbauer Fellowship",
+                "award": []
+            },
+            {
+                "name": "Max Planck Center for Visual Computing and Communications",
+                "award": []
+            },
+            {
+                "name": "ERC Starting Grant CapReal",
+                "award": [
+                    "335545"
+                ]
+            },
+            {
+                "name": "Google Faculty Award",
+                "award": []
+            },
+            {
+                "name": "RCUK grant CAMERA",
+                "award": [
+                    "EP/M023281/1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201283",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Deep video portraits"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Hyeongwoo",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Pablo",
+                "family": "Carrido",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technicolor, France"
+                    }
+                ]
+            },
+            {
+                "given": "Ayush",
+                "family": "Tewari",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Weipeng",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Justus",
+                "family": "Thies",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Niessner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Patrick",
+                "family": "P\u00e9rez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technicolor, France"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Richardt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bath, United Kingdom"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201283-1",
+                "unstructured": "Mart&#237;n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Man&#233;, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi&#233;gas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. https://www.tensorflow.org/ Software available from tensorflow.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-2",
+                "unstructured": "Oleg Alexander, Mike Rogers, William Lambeth, Jen-Yuan Chiang, Wan-Chun Ma, Chuan-Chang Wang, and Paul Debevec. 2010. The Digital Emily Project: Achieving a Photorealistic Digital Actor.IEEE Computer Graphics and Applications30, 4 (July/ August 2010), 20--31."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-3",
+                "unstructured": "Hadar Averbuch-Elor, Daniel Cohen-Or, Johannes Kopf, and Michael F. Cohen. 2017. Bringing Portraits to Life.ACM Transactions on Graphics (SIGGRAPH Asia)36, 6 (November 2017), 196:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-4",
+                "unstructured": "Volker Blanz, Kristina Scherbaum, Thomas Vetter, and Hans-Peter Seidel. 2004. Exchanging Faces in Images.Computer Graphics Forum (Eurographics)23, 3 (September 2004), 669--676.",
+                "DOI": "10.1111/j.1467-8659.2004.00799.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-5",
+                "unstructured": "Volker Blanz and Thomas Vetter. 1999. A Morphable Model for the Synthesis of 3D Faces. InAnnual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH).187--194.",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-6",
+                "unstructured": "James Booth, Anastasios Roussos, Allan Ponniah, David Dunaway, and Stefanos Zafeiriou. 2018. Large Scale 3D Morphable Models.International Journal of Computer Vision126, 2 (April 2018), 233--254.",
+                "DOI": "10.1007/s11263-017-1009-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-7",
+                "unstructured": "Christoph Bregler, Michele Covell, and Malcolm Slaney. 1997. Video Rewrite: Driving Visual Speech with Audio. InAnnual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH).353--360.",
+                "DOI": "10.1145/258734.258880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-8",
+                "unstructured": "Chen Cao, Derek Bradley, Kun Zhou, and Thabo Beeler. 2015. Real-time High-fidelity Facial Performance Capture.ACM Transactions on Graphics (SIGGRAPH)34, 4 (July 2015), 46:1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-9",
+                "unstructured": "Chen Cao, Qiming Hou, and Kun Zhou. 2014a. Displaced Dynamic Expression Regression for Real-time Facial Tracking and Animation.ACM Transactions on Graphics (SIGGRAPH)33, 4 (July 2014), 43:1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-10",
+                "unstructured": "Chen Cao, Yanlin Weng, Shun Zhou, Yiying Tong, and Kun Zhou. 2014b. FaceWarehouse: A 3D Facial Expression Database for Visual Computing.IEEE Transactions on Visualization and Computer Graphics20, 3 (March 2014), 413--425.",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-11",
+                "unstructured": "Chen Cao, Hongzhi Wu, Yanlin Weng, Tianjia Shao, and Kun Zhou. 2016. Real-time Facial Animation with Image-based Dynamic Avatars.ACM Transactions on Graphics (SIGGRAPH)35, 4 (July 2016), 126:1--12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-12",
+                "unstructured": "Yao-Jen Chang and Tony Ezzat. 2005. Transferable Videorealistic Speech Animation. InSymposium on Computer Animation (SCA).143--151.",
+                "DOI": "10.1145/1073368.1073388",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-13",
+                "unstructured": "Qifeng Chen and Vladlen Koltun. 2017. Photographic Image Synthesis with Cascaded Refinement Networks. InInternational Conference on Computer Vision (ICCV).1520--1529.",
+                "DOI": "10.1109/ICCV.2017.168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-14",
+                "unstructured": "Kevin Dale, Kalyan Sunkavalli, Micah K. Johnson, Daniel Vlasic, Wojciech Matusik, and Hanspeter Pfister. 2011. Video face replacement.ACM Transactions on Graphics (SIGGRAPH Asia)30, 6 (December 2011), 130:1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-15",
+                "unstructured": "Tony Ezzat, Gadi Geiger, and Tomaso Poggio. 2002. Trainable Videorealistic Speech Animation.ACM Transactions on Graphics (SIGGRAPH)21, 3 0uly 2002), 388--398."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-16",
+                "unstructured": "Ohad Fried, Eli Shechtman, Dan B. Goldman, and Adam Finkelstein. 2016. Perspective-aware Manipulation of Portrait Photos.ACM Transactions on Graphics (SIGGRAPH)35, 4 (July 2016), 128:1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-17",
+                "unstructured": "Graham Fyffe, Andrew Jones, Oleg Alexander, Ryosuke Ichikari, and Paul Debevec. 2014. Driving High-Re solution Facial Scans with Video Performance Capture.ACM Transactions on Graphics34, 1 (December 2014), 8:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-18",
+                "unstructured": "Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, and Victor Lempitsky. 2016. DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation. InEuropean Conference on Computer Vision (ECCV).311--326.",
+                "DOI": "10.1007/978-3-319-46475-6_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-19",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Ole Rehmsen, Thorsten Thormaehlen, Patrick P&#233;rez, and Christian Theobalt. 2014. Automatic Face Reenactment. InConference on Computer Vision and Pattern Recognition (CVPR).4217--4224.",
+                "DOI": "10.1109/CVPR.2014.537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-20",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Hamid Sarmadi, Ingmar Steiner, Kiran Varanasi, Patrick Perez, and Christian Theobalt. 2015. VDub: Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audio Track.Computer Graphics Forum (Eurographics)34, 2 (May 2015), 193--204."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-21",
+                "unstructured": "Pablo Garrido, Michael Zollh&#246;fer, Dan Casas, Levi Valgaerts, Kiran Varanasi, Patrick P&#233;rez, and Christian Theobalt. 2016. Reconstruction of Personalized 3D Face Rigs from Monocular Video.ACM Transactions on Graphics35, 3 (June 2016), 28:1--15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-22",
+                "unstructured": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. Generative Adversarial Nets. InAdvances in Neural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-23",
+                "unstructured": "Geoffrey E. Hinton and Ruslan Salakhutdinov. 2006. Reducing the Dimensionality of Data with Neural Networks.Science313, 5786 (July 2006), 504--507.",
+                "DOI": "10.1126/science.1127647",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-24",
+                "unstructured": "Liwen Hu, Shunsuke Saito, Lingyu Wei, Koki Nagano, Jaewoo Seo, Jens Fursund, Iman Sadeghi, Carrie Sun, Yen-Chun Chen, and Hao Li. 2017. Avatar Digitization from a Single Image for Real-time Rendering.ACM Transactions on Graphics (SIGGRAPH Asia)36, 6 (November 2017), 195:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-25",
+                "unstructured": "Alexandru Eugen Ichim, Sofien Bouaziz, and Mark Pauly. 2015. Dynamic 3D Avatar Creation from Hand-held Video Input.ACM Transactions on Graphics (SIGGRAPH)34, 4 (July 2015), 45:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-26",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. 2017. Image-to-image Translation with Conditional Adversarial Networks. InConference on Computer Vision and Pattern Recognition (CVPR).5967--5976.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-27",
+                "unstructured": "Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen. 2018. Progressive Growing of GANs for Improved Quality, Stability, and Variation. InInternational Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-28",
+                "unstructured": "Ira Kemelmacher-Shlizerman. 2013. Internet-Based Morphable Model. InInternational Conference on Computer Vision (ICCV).3256--3263.",
+                "DOI": "10.1109/ICCV.2013.404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-29",
+                "unstructured": "Ira Kemelmacher-Shlizerman, Aditya Sankar, Eli Shechtman, and Steven M. Seitz. 2010. Being John Malkovich. InEuropean Conference on Computer Vision (ECCV).341--353.",
+                "DOI": "10.1007/978-3-642-15549-9_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-30",
+                "unstructured": "Ira Kemelmacher-Shlizerman, Eli Shechtman, Rahul Garg, and Steven M. Seitz. 2011. Exploring photobios.ACM Transactions on Graphics (SIGGRAPH)30, 4 (August 2011), 61:1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-31",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2015. Adam: A Method for Stochastic Optimization. InInternational Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-32",
+                "unstructured": "Christoph Lassner, Gerard Pons-Moll, and Peter V. Gehler. 2017. A Generative Model of People in Clothing. InInternational Conference on Computer Vision (ICCV).853--862.",
+                "DOI": "10.1109/ICCV.2017.98",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-33",
+                "unstructured": "Hao Li, Laura Trutoiu, Kyle Olszewski, Lingyu Wei, Tristan Trutna, Pei-Lun Hsieh, Aaron Nicholls, and Chongyang Ma. 2015. Facial Performance Sensing Head-mounted Display.ACM Transactions on Graphics (SIGGRAPH)34, 4 0uly 2015), 47:1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-34",
+                "unstructured": "Kai Li, Qionghai Dai, Ruiping Wang, Yebin Liu, Feng Xu, and Jue Wang. 2014. A Data-Driven Approach for Facial Expression Retargeting in Video.IEEE Transactions on Multimedia16, 2 (February 2014), 299--310.",
+                "DOI": "10.1109/TMM.2013.2293064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-35",
+                "unstructured": "Kang Liu and Joern Ostermann. 2011. Realistic facial expression synthesis for an image-based talking head. InInternational Conference on Multimedia and Expo (ICME).",
+                "DOI": "10.1109/ICME.2011.6011835",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-36",
+                "unstructured": "Ming-Yu Liu, Thomas Breuel, and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. InAdvances in Neural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-37",
+                "unstructured": "Zicheng Liu, Ying Shan, and Zhengyou Zhang. 2001. Expressive Expression Mapping with Ratio Images. InAnnual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH).271--276.",
+                "DOI": "10.1145/383259.383289",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-38",
+                "unstructured": "Liqian Ma, Qianru Sun, Xu Jia, Bernt Schiele, Tinne Tuytelaars, and Luc Van Gool. 2017. Pose Guided Person Image Generation. InAdvances in Neural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-39",
+                "unstructured": "Mehdi Mirza and Simon Osindero. 2014. Conditional Generative Adversarial Nets. (2014). https://arxiv.org/abs/1411.1784 arXiv:1411.1784."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-40",
+                "unstructured": "Kyle Olszewski, Zimo Li, Chao Yang, Yi Zhou, Ronald Yu, Zeng Huang, Sitao Xiang, Shunsuke Saito, Pushmeet Kohli, and Hao Li. 2017. Realistic Dynamic Facial Textures from a Single Image using GANs. InInternational Conference on Computer Vision (ICCV).5439--5448.",
+                "DOI": "10.1109/ICCV.2017.580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-41",
+                "unstructured": "Kyle Olszewski, Joseph J. Lim, Shunsuke Saito, and Hao Li. 2016. High-fidelity Facial and Speech Animation for VR HMDs.ACM Transactions on Graphics (SIGGRAPH Asia)35, 6 (November 2016), 221:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-42",
+                "unstructured": "Alec Radford, Luke Metz, and Soumith Chintala. 2016. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. InInternational Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-43",
+                "unstructured": "Ravi Ramamoorthi and Pat Hanrahan. 2001. An efficient representation for irradiance environment maps. InAnnual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH).497--500.",
+                "DOI": "10.1145/383259.383317",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-44",
+                "unstructured": "Elad Richardson, Matan Sela, and Ron Kimmel. 2016. 3D Face Reconstruction by Learning from Synthetic Data. InInternational Conference on 3D Vision (3DV).460--469.",
+                "DOI": "10.1109/3DV.2016.56",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-45",
+                "unstructured": "Elad Richardson, Matan Sela, Roy Or-El, and Ron Kimmel. 2017. Learning Detailed Face Reconstruction from a Single Image. InConference on Computer Vision and Pattern Recognition (CVPR).5553--5562.",
+                "DOI": "10.1109/CVPR.2017.589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-46",
+                "unstructured": "Olaf Ronneberger, Philipp Fischer, and Thomas Brox. 2015. U-Net: Convolutional Networks for Biomedical Image Segmentation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI).234--241.",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-47",
+                "unstructured": "Joseph Roth, Yiying Tong Tong, and Xiaoming Liu. 2017. Adaptive 3D Face Reconstruction from Unconstrained Photo Collections.IEEE Transactions on Pattern Analysis and Machine Intelligence39, 11 (November 2017), 2127--2141.",
+                "DOI": "10.1109/TPAMI.2016.2636829",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-48",
+                "unstructured": "Jason M. Saragih, Simon Lucey, and Jeffrey F. Cohn. 2011. Real-time avatar animation from a single image. InInternational Conference on Automatic Face and Gesture Recognition (FG).117--124.",
+                "DOI": "10.1109/FG.2011.5771383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-49",
+                "unstructured": "Matan Sela, Elad Richardson, and Ron Kimmel. 2017. Unrestricted Facial Geometry Reconstruction Using Image-to-image Translation. InInternational Conference on Computer Vision (ICCV).1585--1594.",
+                "DOI": "10.1109/ICCV.2017.175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-50",
+                "unstructured": "Fuhao Shi, Hsiang-Tao Wu, Xin Tong, and Jinxiang Chai. 2014. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos.ACM Transactions on Graphics (SIGGRAPH Asia)33, 6 (November 2014), 222:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-51",
+                "unstructured": "Robert W. Sumner and Jovan Popovi&#263;. 2004. Deformation Transfer for Triangle Meshes.ACM Transactions on Graphics (SIGGRAPH)23, 3 (August 2004), 399--405.",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-52",
+                "unstructured": "Supasorn Suwajanakorn, Ira Kemelmacher-Shlizerman, and Steven M. Seitz. 2014. Total Moving Face Reconstruction. InEuropean Conference on Computer Vision (ECCV) (Lecture Notes in Computer Science), Vol. 8692. 796--812.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-53",
+                "unstructured": "Supasorn Suwajanakorn, Steven M. Seitz, and Ira Kemelmacher-Shlizerman. 2015. What Makes Tom Hanks Look Like Tom Hanks. InInternational Conference on Computer Vision (ICCV).3952--3960.",
+                "DOI": "10.1109/ICCV.2015.450",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-54",
+                "unstructured": "Supasorn Suwajanakorn, Steven M. Seitz, and Ira Kemelmacher-Shlizerman. 2017. Synthesizing Obama: Learning Lip Sync from Audio.ACM Transactions on Graphics (SIGGRAPH)36, 4 (July 2017), 95:1--13.",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-55",
+                "unstructured": "Yaniv Taigman, Adam Polyak, and Lior Wolf. 2017. Unsupervised Cross-Domain Image Generation. InInternational Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-56",
+                "unstructured": "Ayush Tewari, Michael Zollh&#246;fer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard. Patrick P&#233;rez, and Christian Theobalt. 2017. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. InInternational Conference on Computer Vision (ICCV).3735--3744.",
+                "DOI": "10.1109/ICCV.2017.401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-57",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Matthias Nie&#223;ner, Levi Valgaerts, Marc Stamminger, and Christian Theobalt. 2015. Real-time Expression Transfer for Facial Reenactment.ACM Transactions on Graphics (SIGGRAPH Asia)34, 6 (November 2015), 183:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-58",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Marc Stamminger, Christian Theobalt, and Matthias Nie&#223;ner. 2016. Face2Face: Real-Time Face Capture and Reenactment of RGB Videos. InConference on Computer Vision and Pattern Recognition (CVPR).2387--2395.",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-59",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Marc Stamminger, Christian Theobalt, and Matthias Nie&#223;ner. 2018. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality.ACM Transactions on Graphics(2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-60",
+                "unstructured": "Anh Tuan Tran, Tal Hassner, Iacopo Masi, and Gerard Medioni. 2017. Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network. InConference on Computer Vision and Pattern Recognition (CVPR).1493--1502.",
+                "DOI": "10.1109/CVPR.2017.163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-61",
+                "unstructured": "Daniel Vlasic, Matthew Brand, Hanspeter Pfister, and Jovan Popovi&#263;. 2005. Face Transfer with Multilinear Models.ACM Transactions on Graphics (SIGGRAPH)24, 3 (July 2005), 426--433.",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-62",
+                "unstructured": "Chao Wang, Haiyong Zheng, Zhibin Yu, Ziqiang Zheng, Zhaorui Gu, and Bing Zheng. 2017. Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-image Translation. (2017). https://arxiv.org/abs/711.09554 arXiv:1711.09554."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-63",
+                "unstructured": "Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, and Bryan Catanzaro. 2018. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. InConference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-64",
+                "unstructured": "Thibaut Weise, Sofien Bouaziz, Hao Li, and Mark Pauly. 2011. Realtime Performance-based Facial Animation.ACM Transactions on Graphics (SIGGRAPH)30, 4 (July 2011), 77:1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-65",
+                "unstructured": "Erroll Wood, Tadas Baltru&#353;aitis, Louis-Philippe Morency, Peter Robinson, and Andreas Bulling. 2018. GazeDirector: Fully articulated eye gaze redirection in video.Computer Graphics Forum (Eurographics)37, 2 (2018).",
+                "DOI": "10.1111/cgf.13355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-66",
+                "unstructured": "Chenglei Wu, Derek Bradley, Markus Gross, and Thabo Beeler. 2016. An Anatomically-Constrained Local Deformation Model for Monocular Face Capture.ACM Transactions on Graphics (SIGGRAPH)35, 4 (July 2016), 115:1--12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-67",
+                "unstructured": "Zili Yi, Hao Zhang, Ping Tan, and Minglun Gong. 2017. DualGAN: Unsupervised Dual Learning for Image-to-image Translation. InInternational Conference on Computer Vision (ICCV).2868--2876.",
+                "DOI": "10.1109/ICCV.2017.310",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-68",
+                "unstructured": "Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros. 2017. Unpaired Image-to-image Translation using Cycle-Consistent Adversarial Networks. InInternational Conference on Computer Vision (ICCV).2242--2251.",
+                "DOI": "10.1109/ICCV.2017.244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201283-69",
+                "unstructured": "Michael Zollh&#246;fer, Justus Thies, Pablo Garrido, Derek Bradley, Thabo Beeler, Patrick P&#233;rez, Marc Stamminger, Matthias Nie&#223;ner, and Christian Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications.Computer Graphics Forum37, 2 (2018).",
+                "DOI": "10.1111/cgf.13382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201283&ftid=1991620&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T16:00:11Z",
+            "timestamp": 1571673611000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201283",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Multiple-Scattering Microfacet BSDFs with the Smith Model <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Eric <span class="family">Heitz</span></li>
+<li> Johannes <span class="family">Hanika</span></li>
+<li> Eugene <span class="family">d'Eon</span></li>
+<li> Carsten <span class="family">Dachsbacher</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925943">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://drive.google.com/uc?id=0BzvWIdpUpRx_cFVlUkFhWXdleEU&export=download">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://eheitzresearch.wordpress.com/240-2/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://drive.google.com/file/d/0BzvWIdpUpRx_bTdXTEFfaWlQRUE/view">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925943-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925943-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: None</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   58</li>
+<li><span class="family">Reviewer</span>: 1</li>
+</ul><h2>Comments</h2><pre>The authors provide both a mitsuba plugin and a tutorial implementation source code. 
+
+For the mitsuba plugin, by adding the .cpp and .h to mitsuba/src/bsdfs folder and adding lines:
+plugins += env.SharedLibrary('roughconductorGGX', ['roughconductorGGX.cpp'])
+plugins += env.SharedLibrary('roughdiffuseGGX', ['roughdiffuseGGX.cpp'])
+plugins += env.SharedLibrary('roughdielectricGGX', ['roughdielectricGGX.cpp']) 
+to mitsuba/src/bsdfs/SConscript , everything compiles well. The examples work after using the mitsuba gui to convert the scenes from version 0.5 to 0.6. However the examples are not the same as in the paper (but they do loook similar).
+
+The tutorial code consists in a C++ class (with a very precise and clear technical documentation) but no example is given. The code looks fine but I was not able to produce some results with the tutorials.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [0,4,4,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

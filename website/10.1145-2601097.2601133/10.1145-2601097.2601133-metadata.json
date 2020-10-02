@@ -1,0 +1,368 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:42Z",
+            "timestamp": 1578582222982
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "VERVE (ICT)",
+                "award": [
+                    "288914"
+                ]
+            },
+            {
+                "name": "Marie Curie IAPP",
+                "award": [
+                    "251415"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601133",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Capturing and stylizing hair for 3D fabrication"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jose I.",
+                "family": "Echevarria",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Derek",
+                "family": "Bradley",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Thabo",
+                "family": "Beeler",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601133-1",
+                "unstructured": "3D-u, 2010. ThreeDee-You. http://www.3d-u.es/. Accessed: January 18, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-2",
+                "unstructured": "3DSystems, 2013. 3DMe Photobooth. http://www. 3dsystems.com/. Accessed: January 10, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-3",
+                "unstructured": "Beeler, T., Bickel, B., Beardsley, P., Sumner, B., and Gross, M. 2010. High-quality single-shot capture of facial geometry.ACM Trans. Graph. 29, 3, 40:1--40:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-4",
+                "unstructured": "Beeler, T., Bickel, B., Noris, G., Beardsley, P., Marschner, S., Sumner, R. W., and Gross, M. 2012. Coupled 3D reconstruction of sparse facial hair and skin.ACM Trans. Graph. 31, 4, 117:1--117:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-5",
+                "unstructured": "Besl, P. J., and McKay, N. D. 1992. A method for registration of 3-D shapes.IEEE Trans. Pattern Anal. Mach. Intell. 14, 2, 239--256.",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-6",
+                "unstructured": "Brox, T., Boomgaard, R., Lauze, F., Weijer, J., Weickert, J., Mrzek, P., and Kornprobst, P. 2006. Adaptive structure tensors and their applications. InVisualization and Processing of Tensor Fields, Mathematics and Visualization. 17--47.",
+                "DOI": "10.1007/3-540-31272-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-7",
+                "unstructured": "Cabral, B., and Leedom, L. C. 1993. Imaging vector fields using line integral convolution. InProceedings of the 20th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '93, 263--270."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-8",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Yu, Y., Guo, B., and Zhou, K. 2012. Single-view hair modeling for portrait manipulation.ACM Trans. Graph. 31, 4, 116:1--116:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-9",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Jin, X., and Zhou, K. 2013. Dynamic hair manipulation in images and videos.ACM Trans. Graph. 32, 4, 75:1--75:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-10",
+                "unstructured": "D-Tech Me, 2012. D-tech me. http://www.insidethemagic.net/tag/d-tech-me/. Accessed: January 18, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-11",
+                "unstructured": "Grabli, S., Sillion, F., Marschner, S. R., and Lengyel, J. E. 2002. Image-based hair capture by inverse lighting. InProc. Graphics Interface, 51--58."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-12",
+                "unstructured": "Herrera, T. L., Zinke, A., and Weber, A. 2012. Lighting hair from the inside: A thermal approach to hair reconstruction.ACM Trans. Graph. 31, 6, 146:1--146:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-13",
+                "unstructured": "Hu, L., Ma, C., Luo, L., and Li, H. 2014. Robust hair capture using simulated examples.ACM Trans. Graph. 33, 4.",
+                "DOI": "10.1145/2601097.2601194",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-14",
+                "unstructured": "Jakob, W., Moon, J. T., and Marschner, S. 2009. Capturing hair assemblies fiber by fiber.ACM Trans. Graph. 28, 5, 164:1--164:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-15",
+                "unstructured": "Kang, H., and Lee, S. 2008. Shape-simplifying image abstraction.Computer Graphics Forum 27, 7, 1773--1780.",
+                "DOI": "10.1111/j.1467-8659.2008.01322.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-16",
+                "unstructured": "Kang, H., Lee, S., and Chui, C. K. 2009. Flow-based image abstraction.IEEE Transactions on Visualization and Computer Graphics 15, 1, 62--76.",
+                "DOI": "10.1109/TVCG.2008.81",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-17",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson surface reconstruction. InSymposium on Geometry Processing, 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-18",
+                "unstructured": "Kong, W., Takahashi, H., and Nakajima, M. 1997. Generation of 3D hair model from multiple pictures. InProc. Multimedia Modeling, 183--196."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-19",
+                "unstructured": "Kyprianidis, J. E., and Kang, H. 2011. Image and video abstraction by coherence-enhancing filtering.Computer Graphics Forum 30, 2, 593--602.",
+                "DOI": "10.1111/j.1467-8659.2011.01882.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-20",
+                "unstructured": "Kyprianidis, J. E., Collomosse, J., Wang, T., and Isenberg, T. 2013. State of the Art: A taxonomy of artistic stylization techniques for images and video.IEEE Transactions on Visualization and Computer Graphics 19, 5, 866--885.",
+                "DOI": "10.1109/TVCG.2012.160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-21",
+                "unstructured": "Lefebvre, S., and Hoppe, H. 2006. Appearance-space texture synthesis.ACM Trans. Graph. 25, 3, 541--548.",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-22",
+                "unstructured": "Li, H., Vouga, E., Gudym, A., Luo, L., Barron, J. T., and Gusev, G. 2013. 3D Self-portraits.ACM Trans. Graph. 32, 6, 187:1--187:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-23",
+                "unstructured": "Luo, L., Li, H., Sylvain, Weise, T., Pauly, M., and Rusinkiewicz, S. 2012. Multi-view hair capture using orientation fields. InProceedings of the 2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1490--1497."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-24",
+                "unstructured": "Luo, L., Li, H., and Rusinkiewicz, S. 2013. Structure-aware hair capture.ACM Trans. Graph. 32, 4, 76:1--76:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-25",
+                "unstructured": "Mehra, R., Zhou, Q., Long, J., Sheffer, A., Gooch, A., and Mitra, N. J. 2009. Abstraction of man-made shapes.ACM Trans. Graph. 28, 5, 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-26",
+                "unstructured": "Nan, L., Sharf, A., Xie, K., Wong, T.-T., Deussen, O., Cohen-Or, D., and Chen, B. 2011. Conjoining gestalt rules for abstraction of architectural drawings.ACM Trans. Graph. 30, 6. 185:1-185:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-27",
+                "unstructured": "Omote 3D, 2012. Omote 3D. http://www.omote3d.com/. Accessed: January 18, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-28",
+                "unstructured": "Osher, S., and Rudin, L. I. 1990. Feature-oriented image enhancement using shock filters.SIAM Journal on Numerical Analysis 27, 4, 919--940.",
+                "DOI": "10.1137/0727053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-29",
+                "unstructured": "Paris, S., Brice&#241;o, H. M., and Sillion, F. X. 2004. Capture of hair geometry from multiple images.ACM Trans. Graph. 23, 3, 712--719."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-30",
+                "unstructured": "Paris, S., Chang, W., Kozhushnyan, O. I., Jarosz, W., Matusik, W., Zwicker, M., and Durand, F. 2008. Hair photobooth: Geometric and photometric acquisition of real hairstyles.ACM Trans. Graph. 27, 3, 30:1--30:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-31",
+                "unstructured": "PocketSize Me, 2013. PocketSize Me. http://www.pocketsizeme.ch/. Accessed: January 18, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-32",
+                "unstructured": "Sochen, N., Deriche, R., and Perez, L. 2003. The beltrami flow over implicit manifolds. InNinth IEEE International Conference on Computer Vision (ICCV), vol. 3, 832--839.",
+                "DOI": "10.1109/ICCV.2003.1238434",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-33",
+                "unstructured": "Sturm, J., Bylow, E., Kahl, F., and Cremers, D. 2013. CopyMe3D: Scanning and printing persons in 3D. InPattern Recognition, vol. 8142. 405--414."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-34",
+                "unstructured": "Tena, J. R., Mahler, M., Beeler, T., Grosse, M., Yeh, H., and Matthews, I. 2013. Fabricating 3D figurines with personalized faces.IEEE Computer Graphics and Applications 33, 6, 36--46.",
+                "DOI": "10.1109/MCG.2013.83",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-35",
+                "unstructured": "Wang, L., Yu, Y., Zhou, K., and Guo, B. 2009. Example-based hair geometry synthesis.ACM Trans. Graph. 28, 3, 56:1--56:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-36",
+                "unstructured": "Wei, L.-Y., and Levoy, M. 2001. Texture synthesis over arbitrary manifold surfaces. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '01, 355--360."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-37",
+                "unstructured": "Wei, Y., Ofek, E., Quan, L., and Shum, H.-Y. 2005. Modeling hair from multiple views.ACM Trans. Graph. 24, 3, 816--820.",
+                "DOI": "10.1145/1073204.1073267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-38",
+                "unstructured": "Weickert, J. 2003. Coherence-enhancing shock filters. InPattern Recognition, vol. 2781 ofLecture Notes in Computer Science. 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601133-39",
+                "unstructured": "Yumer, M. E., and Kara, L. B. 2012. Co-abstraction of shape collections.ACM Trans. Graph. 31, 6, 166:1--166:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601133&amp;ftid=1488934&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601133",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

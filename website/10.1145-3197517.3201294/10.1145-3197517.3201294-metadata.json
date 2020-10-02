@@ -1,0 +1,588 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:52Z",
+            "timestamp": 1574859832790
+        },
+        "reference-count": 61,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CNS1302246, NRT1633299, CNS1650499"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201294",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Towards virtual reality infinite walking"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qi",
+                "family": "Sun",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University, NVIDIA, and Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Arie",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            },
+            {
+                "given": "Anjul",
+                "family": "Patney",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Li-Yi",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Omer",
+                "family": "Shapira",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwan",
+                "family": "Lu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Asente",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Suwen",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            },
+            {
+                "given": "Morgan",
+                "family": "Mcguire",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201294-1",
+                "unstructured": "Rachel Albert, Anjul Patney, David Luebke, and Joohwan Kim. 2017. Latency Requirements for Foveated Rendering in Virtual Reality.ACM Trans. Appl. Percept.14, 4. Article 25 (2017), 13 pages.",
+                "DOI": "10.1145/3127589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-2",
+                "unstructured": "Richard Andersson, Linnea Larsson, Kenneth Holmqvist, Martin Stridh, and Marcus Nystr&#246;m. 2017. One algorithm to rule them all? An evaluation and discussion of ten eye movement event-detection algorithms.Behavior Research Methods49, 2 (2017), 616--637.",
+                "DOI": "10.3758/s13428-016-0738-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-3",
+                "unstructured": "Elena Arabadzhiyska, Okan Tarhan Tursun, Karol Myszkowski, Hans-Peter Seidel, and Piotr Didyk. 2017. Saccade Landing Position Prediction for Gaze-contingent Rendering.ACM Trans. Graph.36, 4, Article 50 (2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073642",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-4",
+                "unstructured": "Mahdi Azmandian, Timofey Grechkin, Mark Bolas, and Evan Suma. 2015. Physical Space Requirements for Redirected Walking: How Size and Shape Affect Performance. InEurographics Symposium on Virtual Environments (2015).The Eurographics Association, Kyoto, Japan, 93--100."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-5",
+                "unstructured": "Mahdi Azmandian, Timofey Grechkin, Mark Bolas, and Evan Suma. 2016a. Automated Path Prediction for Redirected Walking Using Navigation Meshes. InIEEE Symposium on 3D User Interfaces.63--66.",
+                "DOI": "10.1109/3DUI.2016.7460032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-6",
+                "unstructured": "Mahdi Azmandian, Timofey Grechkin, Mark Bolas, and Evan Suma. 2016b. The redirected walking toolkit: a unified development platform for exploring large virtual environments. In2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR).9--14.",
+                "DOI": "10.1109/WEVR.2016.7859537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-7",
+                "unstructured": "Mahdi Azmandian, Timofey Grechkin, and Evan Suma Rosenberg. 2017. An evaluation of strategies for two-user redirected walking in shared physical spaces. In2017 IEEE Virtual Reality (VR).91--98.",
+                "DOI": "10.1109/VR.2017.7892235",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-8",
+                "unstructured": "Mahdi Azmandian, Mark Hancock, Hrvoje Benko, Eyal Ofek, and Andrew D. Wilson. 2016c. A Demonstration of Haptic Retargeting: Dynamic Repurposing of Passive Haptics for Enhanced Virtual Reality Experiences. InProceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16).ACM, New York, NY, USA, 501--504.",
+                "DOI": "10.1145/2992154.2996883",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-9",
+                "unstructured": "A. Terry Bahill, Michael R. Clark, and Lawrence Stark. 1975. The main sequence, a tool for studying human eye movements.Mathematical Biosciences24, 3-4 (1975). 191--204.",
+                "DOI": "10.1016/0025-5564(75)90075-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-10",
+                "unstructured": "Reynold Bailey, Ann McNamara, Nisha Sudarsanam, and Cindy Grimm. 2009. Subtle Gaze Direction.ACM Trans. Graph.28, 4, Article 100 (2009), 14 pages.",
+                "DOI": "10.1145/1559755.1559757",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-11",
+                "unstructured": "Benjamin Bolte and Markus Lappe. 2015. Subliminal Reorientation and Repositioning in Immersive Virtual Environments using Saccadic Suppression.IEEE TVCG21, 4 (2015), 545--552.",
+                "DOI": "10.1109/TVCG.2015.2391851",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-12",
+                "unstructured": "Thomas Booth, Srinivas Sridharan, Ann McNamara, Cindy Grimm, and Reynold Bailey. 2013. Guiding Attention in Controlled Real-world Environments. InSAP '13.75--82.",
+                "DOI": "10.1145/2492494.2492508",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-13",
+                "unstructured": "Bruce Bridgeman, Derek Hendry, and Lawrence Stark. 1975. Failure to detect displacement of the visual world during saccadic eye movements.Vision Research15, 6 (1975), 719 -- 722.",
+                "DOI": "10.1016/0042-6989(75)90290-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-14",
+                "unstructured": "David C. Burr, M. Concetta Morrone, John Ross, and others. 1994. Selective suppression of the magnocellular visual pathway during saccadic eye movements.Nature371, 6497 (1994), 511--513.",
+                "DOI": "10.1038/371511a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-15",
+                "unstructured": "Haiwei Chen and Henry Fuchs. 2017. Supporting Free Walking in a Large Virtual Environment: Imperceptible Redirected Walking with an Immersive Distractor. InProceedings of the Computer Graphics International Conference (CGI '17).ACM, New York, NY, USA, Article 22, 6 pages.",
+                "DOI": "10.1145/3095140.3095162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-16",
+                "unstructured": "Lung-Pan Cheng, Eyal Ofek, Christian Holz, Hrvoje Benko, and Andrew D. Wilson. 2017. Sparse Haptic Proxy: Touch Feedback in Virtual Environments Using a General Passive Prop. InProceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17).ACM, New York, NY, USA, 3718--3728.",
+                "DOI": "10.1145/3025453.3025753",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-17",
+                "unstructured": "Mark R. Diamond, John Ross, and Maria C. Morrone. 2000. Extraretinal control of saccadic suppression.The Journal of Neuroscience20, 9 (2000), 3449--3455.",
+                "DOI": "10.1523/JNEUROSCI.20-09-03449.2000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-18",
+                "unstructured": "Zhi-Chao Dong, Xiao-Ming Fu, Chi Zhang, Kang Wu, and Ligang Liu. 2017. Smooth Assembled Mappings for Large-scale Real Walking.ACM Trans. Graph.36, 6, Article 211 (2017), 13 pages.",
+                "DOI": "10.1145/3130800.3130893",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-19",
+                "unstructured": "Andrew T Duchowski and Arzu &#199;&#246;ltekin. 2007. Foveated gaze-contingent displays for peripheral LOD management, 3D visualization, and stereo imaging.ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)3, 4 (2007), 6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-20",
+                "unstructured": "Andrew T. Duchowski, Nathan Cournia, and Hunter Murphy. 2004. Gaze-contingent displays: A review.CyberPsychology &#38; Behavior7, 6 (2004), 621--634.",
+                "DOI": "10.1089/cpb.2004.7.621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-21",
+                "unstructured": "Andrew T. Duchowski, Donald H. House, Jordan Gestring, Rui I. Wang, Krzysztof Krejtz, Izabela Krejtz, Rados&#322;aw Mantiuk, and Bartosz Bazyluk. 2014. Reducing Visual Discomfort of 3D Stereoscopic Displays with Gaze-contingent Depth-of-field. InProceedings of the ACM Symposium on Applied Perception (SAP '14).ACM, New York, NY, USA, 39--46.",
+                "DOI": "10.1145/2628257.2628259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-22",
+                "unstructured": "Leon A. Gatys, Matthias K&#252;mmerer, Thomas Wallis, and Matthias Bethge. 2017. Guiding human gaze with convolutional neural networks.ArXiv e-prints(2017). arXiv:cs.CV/1712.06492"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-23",
+                "unstructured": "Timofey Grechkin, Jerald Thomas, Mahdi Azmandian, Mark Bolas, and Evan Suma. 2016. Revisiting Detection Thresholds for Redirected Walking: Combining Translation and Curvature Gains. InProceedings of the ACM Symposium on Applied Perception (SAP '16).ACM, New York, NY, USA, 113--120.",
+                "DOI": "10.1145/2931002.2931018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-24",
+                "unstructured": "Steve Grogorick, Michael Stengel, Elmar Eisemann, and Marcus Magnor. 2017. Subtle Gaze Guidance for Immersive Environments. InSAP '17.Article 4, 7 pages.",
+                "DOI": "10.1145/3119881.3119890",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-25",
+                "unstructured": "Brian Guenter, Mark Finch, Steven Drucker, Desney Tan, and John Snyder. 2012. Foveated 3D Graphics.ACM Trans. Graph.31, 6 (2012), 164:1--164:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-26",
+                "unstructured": "Peng Han, Daniel R Saunders, Russell L Woods, and Gang Luo. 2013. Trajectory prediction of saccadic eye movements using a compressed exponential model.Journal of vision13, 8 (2013), 27--27.",
+                "DOI": "10.1167/13.8.27",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-27",
+                "unstructured": "Eric Hodgson and Eric Bachmann. 2013. Comparing Four Approaches to Generalized Redirected Walking: Simulation and Live User Data.TVCG19, 4 (2013), 634--643.",
+                "DOI": "10.1109/TVCG.2013.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-28",
+                "unstructured": "J. Johanna Hopp and Albert F Fuchs. 2004. The characteristics and neuronal substrate of saccadic eye movement plasticity.Progress in Neurobiology72, 1 (2004), 27 -- 53.",
+                "DOI": "10.1016/j.pneurobio.2003.12.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-29",
+                "unstructured": "Michael R. Ibbotson and Shaun L. Cloherty. 2009. Visual Perception: Saccadic Omission - Suppression or Temporal Masking?Current Biology19, 12 (2009), R493--R496.",
+                "DOI": "10.1016/j.cub.2009.05.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-30",
+                "unstructured": "David E. Jacobs, Orazio Gallo, Emily A. Cooper, Kari Pulli, and Marc Levoy. 2015. Simulating the Visual Experience of Very Bright and Very Dark Scenes.ACM Trans. Graph.34, 3, Article 25 (2015), 15 pages.",
+                "DOI": "10.1145/2714573",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-31",
+                "unstructured": "Robert S Kennedy, Norman E Lane, Kevin S Berbaum, and Michael G Lilienthal. 1993. Simulator sickness questionnaire: An enhanced method for quantifying simulator sickness.The International Journal of Aviation Psychology3, 3 (1993), 203--220."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-32",
+                "unstructured": "Eike Langbehn, Gerd Bruder, and Frank Steinicke. 2016. Subliminal Reorientation and Repositioning in Virtual Reality During Eye Blinks. InProc. of Spatial User Interaction.213--213.",
+                "DOI": "10.1145/2983310.2989204",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-33",
+                "unstructured": "Eike Langbehn, Frank Steinicke, Markus Lappe, Gregory F. Welch, and Gerd Bruder. 2018. In the Blink of an Eye: Leveraging Blink-Induced Suppression for Imperceptible Position and Orientation Redirection in Virtual Reality.ACM Trans. Graph.37, 4, Article 66 (2018).",
+                "DOI": "10.1145/3197517.3201335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-34",
+                "unstructured": "Marc Levoy and Ross Whitaker. 1990. Gaze-directed volume rendering.ACM SIGGRAPH Computer Graphics24, 2 (1990), 217--223.",
+                "DOI": "10.1145/91394.91449",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-35",
+                "unstructured": "Wenxun Li and Leonard Matin. 1990. The influence of saccade length on the saccadic suppression of displacement detection.Perception &#38; Psychophysics48, 5 (1990), 453--458.",
+                "DOI": "10.3758/BF03211589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-36",
+                "unstructured": "David Luebke and Benjamin Hallen. 2001. Perceptually driven simplification for inter-active rendering. InRendering Techniques 2001.Springer, 223--234.",
+                "DOI": "10.1007/978-3-7091-6242-2_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-37",
+                "unstructured": "Ethel Matin. 1974. Saccadic suppression: a review and an analysis.Psychological bulletin81, 12 (1974), 899."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-38",
+                "unstructured": "George W. McConkie and Lester C. Loschky. 2002. Perception onset time during fixations in free viewing.Behavior Research Methods, Instruments, &#38; Computers34, 4 (2002), 481--490.",
+                "DOI": "10.3758/BF03195477",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-39",
+                "unstructured": "Ann McNamara, Reynold Bailey, and Cindy Grimm. 2008. Improving Search Task Performance Using Subtle Gaze Direction. InProceedings of the 5th Symposium on Applied Perception in Graphics and Visualization (APGV '08).ACM, New York, NY, USA, 51--56.",
+                "DOI": "10.1145/1394281.1394289",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-40",
+                "unstructured": "Ann McNamara, Reynold Bailey, and Cindy Grimm. 2009. Search Task Performance Using Subtle Gaze Direction with the Presence of Distractions.ACM Trans. Appl. Percept.6, 3 (2009), 17:1--17:19."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-41",
+                "unstructured": "Ann McNamara, Thomas Booth, Srinivas Sridharan, Stephen Caffey, Cindy Grimm, and Reynold Bailey. 2012. Directing Gaze in Narrative Art. InProceedings of the ACM Symposium on Applied Perception (SAP '12).ACM, New York, NY, USA, 63--70.",
+                "DOI": "10.1145/2338676.2338689",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-42",
+                "unstructured": "J. Nocedal and S. Wright. 2006.Numerical Optimization.Springer New York."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-43",
+                "unstructured": "Anjul Patney. 2017. Perceptual Insights into Foveated Virtual Reality. InNVIDIA GPU Technology Conference 2017 Talks.San Jose, California."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-44",
+                "unstructured": "Anjul Patney, Marco Salvi, Joohwan Kim, Anton Kaplanyan, Chris Wyman, Nir Benty, David Luebke, and Aaron Lefohn. 2016. Towards Foveated Rendering for Gaze-tracked Virtual Reality.ACM Trans. Graph.35, 6 (2016), 179:1--179:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-45",
+                "unstructured": "Tabitha C Peck, Henry Fuchs, and Mary C Whitton. 2010. Improved redirection with distractors: A large-scale-real-walking locomotion interface and its effect on navigation in virtual environments. InVirtual Reality Conference.IEEE, 35--38."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-46",
+                "unstructured": "Ken Pfeuffer, Benedikt Mayer, Diako Mardanbegi, and Hans Gellersen. 2017. Gaze + Pinch Interaction in Virtual Reality. InProc. of Spatial User Interaction (SUI '17).99--108.",
+                "DOI": "10.1145/3131277.3132180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-47",
+                "unstructured": "Sharif Razzaque. 2005.Redirected Walking.Ph.D. Dissertation. Chapel Hill, NC, USA. Advisor(s) Brooks, Jr., Fredrick P. AAI3190299."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-48",
+                "unstructured": "Sharif Razzaque, Zachariah Kohn, and Mary C. Whitton. 2001. Redirected walking. InProc. of Eurographics, Vol. 9. Manchester, UK, 105--106."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-49",
+                "unstructured": "Sharif Razzaque, David Swapp, Mel Slater, Mary C. Whitton, and Anthony Steed. 2002. Redirected Walking in Place. InEGVE '02.123--130."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-50",
+                "unstructured": "Stephen M. Reder. 1973. On-line monitoring of eye-position signals in contingent and noncontingent paradigms.Behavior Research Methods5, 2 (1973), 218--228.",
+                "DOI": "10.3758/BF03200168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-51",
+                "unstructured": "William H. Ridder III and Alan Tomlinson. 1997. A comparison of saccadic and blink suppression in normal observers.Vision Research37, 22 (1997), 3171--3179.",
+                "DOI": "10.1016/S0042-6989(97)00110-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-52",
+                "unstructured": "John Ross, M. Concetta Morrone, Michael E. Goldberg, and David C. Burr. 2001. Changes in visual perception at the time of saccades.Trends in Neurosciences24, 2 (2001), 113--121.",
+                "DOI": "10.1016/S0166-2236(00)01685-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-53",
+                "unstructured": "Srinivas Sridharan and Reynold Bailey. 2015. Automatic Target Prediction and Subtle Gaze Guidance for Improved Spatial Information Recall. InProceedings of the ACM SIGGRAPH Symposium on Applied Perception (SAP '15).99--106.",
+                "DOI": "10.1145/2804408.2804415",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-54",
+                "unstructured": "Srinivas Sridharan, James Pieszala, and Reynold Bailey. 2015. Depth-based Subtle Gaze Guidance in Virtual Reality Environments. InProceedings of the ACM SIGGRAPH Symposium on Applied Perception (SAP '15).ACM, New York, NY, USA, 132--132.",
+                "DOI": "10.1145/2804408.2814187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-55",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Jason Jerald, Harald Frenz, and Markus Lappe. 2008. Analyses of Human Sensitivity to Redirected Walking. InProceedings of the 2008 ACM Symposium on Virtual Reality Software and Technology (VRST '08).ACM, New York, NY, USA, 149--156.",
+                "DOI": "10.1145/1450579.1450611",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-56",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Jason Jerald, Harald Frenz, and Markus Lappe. 2010. Estimation of Detection Thresholds for Redirected Walking Techniques.IEEE TVCG16, 1 (2010), 17--27.",
+                "DOI": "10.1109/TVCG.2009.62",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-57",
+                "unstructured": "Evan A. Suma, D. Krum, and Mark Bolas. 2013. Redirected Walking in Mixed Reality Training Applications. InHuman Walking in Virtual Environments: Perception, Technology, and Applications.Springer, 319--331."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-58",
+                "unstructured": "Qi Sun, Li-Yi Wei, and Arie Kaufman. 2016. Mapping Virtual and Physical Reality.ACM Trans. Graph.35, 4, Article 64 (2016), 12 pages.",
+                "DOI": "10.1145/2897824.2925883",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-59",
+                "unstructured": "Martin Usoh, Kevin Arthur, Mary C. Whitton, Rui Bastos, Anthony Steed, Mel Slater, and Frederick P. Brooks, Jr. 1999. Walking &gt; Walking-in-place &gt; Flying, in Virtual Environments. InSIGGRAPH '99.359--364."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-60",
+                "unstructured": "Peter Vincent and Ritchie Brannan. 2017. S7797 Tobii Eye Tracked Foveated Rendering for VR and Desktop. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201294-61",
+                "unstructured": "Mounia Ziat, Vincent Hayward, C. Elaine Chapman, Marc O. Ernst, and Charles Lenay. 2010. Tactile suppression of displacement.Experimental Brain Research206, 3 (2010), 299--310.",
+                "DOI": "10.1007/s00221-010-2407-z",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201294&ftid=1991728&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:48:17Z",
+            "timestamp": 1571672897000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "dynamic saccadic redirection"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 61,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201294",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

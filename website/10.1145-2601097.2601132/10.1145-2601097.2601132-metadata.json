@@ -1,0 +1,322 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:49Z",
+            "timestamp": 1575507229487
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Intel Science and Technology Center for Visual Computing",
+                "award": []
+            },
+            {
+                "name": "Pixar Animation Studios",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-0915462"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601132",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 24,
+        "title": [
+            "Adaptive tearing and cracking of thin sheets"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Tobias",
+                "family": "Pfaff",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Rahul",
+                "family": "Narain",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Juan Miguel",
+                "family": "de Joya",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "James F.",
+                "family": "O'Brien",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601132-1",
+                "unstructured": "Ando, R., Th&#252;rey, N., and Wojtan, C. 2013. Highly adaptive liquid simulations on tetrahedral meshes.ACM Trans. Graph. (Proc. SIGGRAPH 2013)(July).",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-2",
+                "unstructured": "Bao, Z., Hong, J.-M., Teran, J., and Fedkiw, R. 2007. Fracturing rigid materials.IEEE transactions on visualization and computer graphics 13, 2 (Jan.), 370--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-3",
+                "unstructured": "Bargteil, A. W., Wojtan, C., Hodgins, J. K., and Turk, G. 2007. A finite element method for animating large viscoplastic flow.ACM Transactions on Graphics 26, 3 (July), 16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-4",
+                "unstructured": "Bridson, R., Fedkiw, R., and Anderson, J. 2002. Robust treatment of collisions, contact and friction for cloth animation.ACM Trans. Graph. 21, 3 (July), 594--603."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-5",
+                "unstructured": "Bridson, R., Marino, S., and Fedkiw, R. 2003. Simulation of clothing with folds and wrinkles. InProc. 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '03, 28--36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-6",
+                "unstructured": "Busaryev, O., Dey, T. K., and Wang, H. 2013. Adaptive fracture simulation of multi-layered thin plates.ACM Transactions on Graphics 32, 4 (July), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-7",
+                "unstructured": "Chentanez, N., Feldman, B. E., Labelle, F., O'Brien, J. F., and Shewchuk, J. R. 2007. Liquid simulation on lattice-based tetrahedral meshes. InProc. ACM SIGGRAPH/Eurographics Symposium on Computer Animation 2007, 219--228."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-8",
+                "unstructured": "Clausen, P., Wicke, M., Shewchuk, J. R., and O'Brien, J. F. 2013. Simulating liquids and solid-liquid interactions with lagrangian meshes.ACM Transactions on Graphics 32, 2 (Apr.), 1--15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-9",
+                "unstructured": "Gingold, Y., Secord, A., Han, J. Y., Grinspun, E., and Zorin, D. 2004. A Discrete Model for Inelastic Deformation of Thin Shells. InACM Symposium on Computer Animation."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-10",
+                "unstructured": "Glondu, L., Muguercia, L., Marchal, M., Bosch, C., Rushmeier, H., Dumont, G., and Drettakis, G. 2012. Example-Based Fractured Appearance.Computer Graphics Forum 31, 4 (June), 1547--1556."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-11",
+                "unstructured": "Grinspun, E., Hirani, A. N., Desbrun, M., and Schr&#246;der, P. 2003. Discrete shells. InProc. 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '03, 62--67."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-12",
+                "unstructured": "Harmon, D., Vouga, E., Tamstorf, R., and Grinspun, E. 2008. Robust treatment of simultaneous collisions.ACM Trans. Graph. 27, 3 (Aug.), 23:1--23:4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-13",
+                "unstructured": "Hutchinson, D., Preston, M., and Hewitt, T. 1996. Adaptive refinement for mass/spring simulations. In7th Eurographics Workshop on Animation and Simulation, Springer-Verlag, 31--45."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-14",
+                "unstructured": "Iben, H. N., and O'Brien, J. F. 2006. Generating surface crack patterns.ACM Symposium on Computer Animation(Sept.), 177--185."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-15",
+                "unstructured": "Kaufmann, P., Martin, S., Botsch, M., Grinspun, E., and Gross, M. 2009. Enrichment textures for detailed cutting of shells.ACM Transactions on Graphics 28, 3 (July), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-16",
+                "unstructured": "Klingner, B. M., Feldman, B. E., Chentanez, N., and O'Brien, J. F. 2006. Fluid animation with dynamic meshes.ACM Trans. Graph. 25, 3 (July), 820--825."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-17",
+                "unstructured": "Molino, N., Bao, Z., and Fedkiw, R. 2004. A virtual node algorithm for changing mesh topology during simulation.ACM Transactions on Graphics, 23 (July), 385----392."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-18",
+                "unstructured": "M&#252;ller, M., Chentanez, N., and Kim, T.-Y. 2013. Real time dynamic fracture with volumetric approximate convex decompositions.ACM Transactions on Graphics 32, 4 (July), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-19",
+                "unstructured": "Narain, R., Samii, A., and O'Brien, J. F. 2012. Adaptive anisotropic remeshing for cloth simulation.ACM Transactions on Graphics 31, 6 (Nov.), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-20",
+                "unstructured": "Narain, R., Pfaff, T., and O'Brien, J. F. 2013. Folding and crumpling adaptive sheets.ACM Trans. Graph. 32, 4, 51:1--51:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-21",
+                "unstructured": "Norton, A., Turk, G., Bacon, B., Gerth, J., and Sweeney, P. 1991. Animation of fracture by physical modeling.The Visual Computer 7, 4, 210--219.",
+                "DOI": "10.1007/BF01900837",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-22",
+                "unstructured": "O'Brien, J. F., and Hodgins, J. K. 1999. Graphical modeling and animation of brittle fracture. InProceedings of the 26th annual conference on Computer graphics and interactive techniques - SIGGRAPH '99, ACM Press, New York, New York, USA, 137--146."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-23",
+                "unstructured": "O'Brien, J. F., Bargteil, A. W., and Hodgins, J. K. 2002. Graphical modeling and animation of ductile fracture.ACM Trans. Graph. 21, 3 (July), 291--294."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-24",
+                "unstructured": "O'Brien, J. F. 2000. Graphical Modeling and Animation of Fracture."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-25",
+                "unstructured": "Pauly, M., Keiser, R., Adams, B., Dutr&#233;, P., Gross, M., and Guibas, L. J. 2005. Meshless Animation of Fracturing Solids.ACM transactions on graphics 24, 3 (July), 957--964."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-26",
+                "unstructured": "Sifakis, E., Der, K. G., and Fedkiw, R. 2007. Arbitrary cutting of deformable tetrahedralized objects. InACM Symposium on Computer Animation, Eurographics Association, 73--80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-27",
+                "unstructured": "Simnett, T. J. R., Laycock, S. D., and Day, A. M. 2009. An Edge-based Approach to Adaptively Refining a Mesh for Cloth Deformation. InEurographics UK Theory and Practice of Computer Graphics, 77--84."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-28",
+                "unstructured": "Su, J., Schroeder, C., and Fedkiw, R. 2009. Energy stability and fracture for frame rate rigid body simulations. InACM Symposium on Computer Animation, ACM Press, New York, New York, USA, 155."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-29",
+                "unstructured": "Terzopoulos, D., and Fleischer, K. 1988. Modeling inelastic deformation: viscolelasticity, plasticity, fracture. InProc. SIGGRAPH '88, 269--278.",
+                "DOI": "10.1145/54852.378522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-30",
+                "unstructured": "Wang, H., O'Brien, J. F., and Ramamoorthi, R. 2011. Data-driven elastic models for cloth.ACM Transactions on Graphics 30, 4 (July), 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-31",
+                "unstructured": "Wicke, M., Ritchie, D., Klingner, B. M., Burke, S., Shewchuk, J. R., and O'Brien, J. F. 2010. Dynamic local remeshing for elastoplastic simulation.ACM Trans. Graph. 29(July), 49:1--49:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-32",
+                "unstructured": "Wicke, M., Ritchie, D., Klingner, B. M., Burke, S., Shewchuk, J. R., and O'Brien, J. F. 2010. Dynamic local remeshing for elastoplastic simulation.ACM Transactions on Graphics 29, 4 (July), 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601132-33",
+                "unstructured": "Wojtan, C., and Turk, G. 2008. Fast viscoelastic behavior with thin features.ACM Trans. Graph. 27, 3 (Aug.), 47:1--47:8."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601132&amp;ftid=1488918&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:27Z",
+            "timestamp": 1565663727000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601132",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

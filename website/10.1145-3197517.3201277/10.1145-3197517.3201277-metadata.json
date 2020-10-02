@@ -1,0 +1,538 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:55Z",
+            "timestamp": 1574859835150
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1350330"
+                ]
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1622360"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201277",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "FEPR"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Dimitar",
+                "family": "Dinev",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            },
+            {
+                "given": "Tiantian",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Jing",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            },
+            {
+                "given": "Ladislav",
+                "family": "Kavan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201277-1",
+                "unstructured": "Samantha Ainsley, Etienne Vouga, Eitan Grinspun, and Rasmus Tamstorf. 2012. Speculative parallel asynchronous contact mechanics.ACM Trans. Graph.31, 6 (2012), 151.",
+                "DOI": "10.1145/2366145.2366170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-2",
+                "unstructured": "Sheldon Andrews, Kenny Erleben, Paul G Kry, and Marek Teichmann. 2017. Constraint reordering for iterative multi-body simulation with contact. InECCOMAS Thematic Conference on Multibody Dynamic."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-3",
+                "unstructured": "David Baraff and Andrew Witkin. 1998. Large Steps in Cloth Simulation. InProc. of ACM SIGGRAPH.43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-4",
+                "unstructured": "Jan Bender, Matthias M&#252;ller, Miguel A Otaduy, Matthias Teschner, and Miles Macklin. 2014. A Survey on Position-Based Simulation Methods in Computer Graphics. InComput. Graph. Forum, Vol. 33. 228--251.",
+                "DOI": "10.1111/cgf.12346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-5",
+                "unstructured": "Sofien Bouaziz, Sebastian Martin, Tiantian Liu, Ladislav Kavan, and Mark Pauly. 2014. Projective dynamics: fusing constraint projections for fast simulation.ACM Trans. Graph.33, 4 (2014), 154.",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-6",
+                "unstructured": "Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, and Jonathan Eckstein. 2011. Distributed optimization and statistical learning via the alternating direction method of multipliers.Foundations and Trends&#174;in Machine Learning3, 1 (2011), 1--122."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-7",
+                "unstructured": "Robert Bridson, Sebastian Marino, and Ronald Fedkiw. 2003. Simulation of clothing with folds and wrinkles.Proc. EG/ACM Symp. Computer Animation, 28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-8",
+                "unstructured": "Yu Ju Chen, Uri Ascher, and Dinesh Pai. 2017. Exponential Rosenbrock-Euler Integrators for Elastodynamic Simulation.TVCG(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-9",
+                "unstructured": "Kwang-Jin Choi and Hyeong-Seok Ko. 2002. Stable but responsive cloth.ACM Trans. Graph.21, 3 (2002), 604--611.",
+                "DOI": "10.1145/566654.566624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-10",
+                "unstructured": "Gilles Debunne, Mathieu Desbrun, Marie-Paule Cani, and Alan H Barr. 2001. Dynamic real-time deformations using space &#38; time adaptive sampling. InProc. of Computer graphics and interactive techniques.31--36.",
+                "DOI": "10.1145/383259.383262",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-11",
+                "unstructured": "Dimitar Dinev, Tiantian Liu, and Ladislav Kavan. 2018. Stabilizing Integrators for Real-Time Physics.ACM Trans. Graph.37, 1 (Jan. 2018), 9:1--9:19."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-12",
+                "unstructured": "Bernhard Eberhardt, Olaf Etzmu&#223;, and Michael Hauth. 2000.Implicit-explicit schemes for fast animation with particle systems.Springer.",
+                "DOI": "10.1007/978-3-7091-6344-3_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-13",
+                "unstructured": "Robert D Engle, Robert D Skeel, and Matthew Drees. 2005. Monitoring energy drift with shadow Hamiltonians.J. Comput. Phys.206, 2 (2005), 432--452."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-14",
+                "unstructured": "Elliot English and Robert Bridson. 2008. Animating developable surfaces using nonconforming elements.ACM Trans. Graph.27, 3, 66."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-15",
+                "unstructured": "Basil Fierz, Jonas Spillmann, and Matthias Harders. 2011. Element-wise mixed implicit-explicit integration for stable dynamic simulation of deformable objects.Proc. EG/ACM Symp. Computer Animation, 257--266.",
+                "DOI": "10.1145/2019406.2019440",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-16",
+                "unstructured": "Mihai Fr&#226;ncu and Florica Moldoveanu. 2017. Position based simulation of solids with accurate contact handling.Computers &#38; Graphics69 (2017), 12--23.",
+                "DOI": "10.1016/j.cag.2017.09.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-17",
+                "unstructured": "Marco Fratarcangeli, Valentina Tibaldo, and Fabio Pellacini. 2016. Vivace: a practical gauss-seidel method for stable soft body dynamics.ACM Trans. Graph.35, 6 (2016), 214.",
+                "DOI": "10.1145/2980179.2982437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-18",
+                "unstructured": "Theodore F Gast, Craig Schroeder, Alexey Stomakhin, Chenfanfu Jiang, and Joseph M Teran. 2015. Optimization integrator for large time steps.TVCG21, 10 (2015), 1103--1115."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-19",
+                "unstructured": "Zhong Ge and Jerrold E Marsden. 1988. Lie-poisson hamilton-jacobi theory and lie-poisson integrators.Physics Letters A133, 3 (1988), 134--139.",
+                "DOI": "10.1016/0375-9601(88)90773-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-20",
+                "unstructured": "Rony Goldenthal, David Harmon, Raanan Fattal, Michel Bercovier, and Eitan Grinspun. 2007. Efficient simulation of inextensible cloth.ACM Trans. Graph.26, 3 (2007), 49.",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-21",
+                "unstructured": "Oscar Gonzalez. 1996. Time integration and discrete Hamiltonian systems.Journal of Nonlinear Science6, 5 (1996), 449--467.",
+                "DOI": "10.1007/BF02440162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-22",
+                "unstructured": "Oscar Gonzalez. 2000. Exact energy and momentum conserving algorithms for general models in nonlinear elasticity.Computer Methods in Applied Mechanics and Engineering190, 13 (2000), 1763--1783.",
+                "DOI": "10.1016/S0045-7825(00)00189-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-23",
+                "unstructured": "Ernst Hairer. 2006.Long-time energy conservation of numerical integrators.162--180.",
+                "DOI": "10.1017/CBO9780511721571.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-24",
+                "unstructured": "Ernst Hairer, Christian Lubich, and Gerhard Wanner. 2006.Geometric numerical integration: structure-preserving algorithms for ordinary differential equations.Vol. 31."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-25",
+                "unstructured": "David Harmon, Etienne Vouga, Breannan Smith, Rasmus Tamstorf, and Eitan Grinspun. 2009. Asynchronous contact mechanics. InACM Trans. Graph., Vol. 28. 87.",
+                "DOI": "10.1145/1531326.1531393",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-26",
+                "unstructured": "Amiram Harten, Peter D Lax, and Bram Van Leer. 1997. On upstream differencing and Godunov-type schemes for hyperbolic conservation laws. InUpwind and High-Resolution Schemes.Springer, 53--79."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-27",
+                "unstructured": "TJR Hughes, TK Caughey, and WK Liu. 1978. Finite-element methods for nonlinear elastodynamics which conserve energy.Journal of Applied Mechanics45, 2 (1978), 366--370.",
+                "DOI": "10.1115/1.3424303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-28",
+                "unstructured": "Arieh Iserles, Hans Z Munthe-Kaas, Syvert P N&#248;rsett, and Antonella Zanna. 2000. Lie-group methods.Acta Numerica 20009 (2000), 215--365.",
+                "DOI": "10.1017/S0962492900002154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-29",
+                "unstructured": "Ning Jin, Wenlong Lu, Zhenglin Geng, and Ronald P Fedkiw. 2017. Inequality cloth. InProc. EG/ACM Symp. Computer Animation.ACM, 16.",
+                "DOI": "10.1145/3099564.3099568",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-30",
+                "unstructured": "Liliya Kharevych, Weiwei Yang, Yiying Tong, Eva Kanso, Jerrold E Marsden, Peter Schr&#246;der, and Matthieu Desbrun. 2006. Geometric, variational integrators for computer animation.Proc. EG/ACM Symp. Computer Animation, 43--51."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-31",
+                "unstructured": "Marin Kobilarov, Keenan Crane, and Mathieu Desbrun. 2009. Lie group integrators for animation and control of vehicles.ACM Trans. Graph.28, 2 (2009), 16.",
+                "DOI": "10.1145/1516522.1516527",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-32",
+                "unstructured": "D Kuhl and MA Crisfield. 1999. Energy-conserving and decaying algorithms in nonlinear structural dynamics.International journal for numerical methods in engineering45, 5 (1999), 569--599.",
+                "DOI": "10.1002/(SICI)1097-0207(19990620)45:5<569::AID-NME595>3.0.CO;2-A",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-33",
+                "unstructured": "Detlef Kuhl and Ekkehard Ramm. 1996. Constraint energy momentum algorithm and its application to non-linear dynamics of shells.Computer methods in applied mechanics and engineering136, 3--4 (1996), 293--315."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-34",
+                "unstructured": "Robert A LaBudde and Donald Greenspan. 1975. Energy and momentum conserving methods of arbitrary order for the numerical integration of equations of motion.Numer. Math.25, 4 (1975), 323--346."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-35",
+                "unstructured": "Tiantian Liu, Adam W Bargteil, James F O'Brien, and Ladislav Kavan. 2013. Fast simulation of mass-spring systems.ACM Trans. Graph.32, 6 (2013), 209:1--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-36",
+                "unstructured": "Tiantian Liu, Sofien Bouaziz, and Ladislav Kavan. 2017. Quasi-Newton Methods for Real-Time Simulation of Hyperelastic Materials.ACM Trans. Graph.36, 3 (2017), 23.",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-37",
+                "unstructured": "Miles Macklin, Matthias M&#252;ller, and Nuttapong Chentanez. 2016. XPBD: position-based simulation of compliant constrained dynamics. InProc. of Motion in Games.49--54.",
+                "DOI": "10.1145/2994258.2994272",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-38",
+                "unstructured": "Miles Macklin, Matthias M&#252;ller, Nuttapong Chentanez, and Tae-YongKim. 2014. Unified particle physics for real-time applications.ACM Trans. Graph.33, 4 (2014), 153.",
+                "DOI": "10.1145/2601097.2601152",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-39",
+                "unstructured": "Jerrold E Marsden and Matthew West. 2001. Discrete mechanics and variational integrators.Acta Numerica 200110 (2001), 357--514."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-40",
+                "unstructured": "Sebastian Martin, Bernhard Thomaszewski, Eitan Grinspun, and Markus Gross. 2011. Example-based elastic materials. InACM Trans. Graph., Vol. 30. ACM, 72.",
+                "DOI": "10.1145/1964921.1964967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-41",
+                "unstructured": "Aleka McAdams, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf, Joseph Teran, and Eftychios Sifakis. 2011. Efficient elasticity for character skinning with contact and collisions. InACM Trans. Graph., Vol. 30. 37.",
+                "DOI": "10.1145/2010324.1964932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-42",
+                "unstructured": "Robert I McLachlan, GRW Quispel, and Nicolas Robidoux. 1999. Geometric integration using discrete gradients.Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences357, 1754 (1999), 1021--1045."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-43",
+                "unstructured": "Dominik Michels, Vu Thai Luan, and Mayya Tokman. 2017. A Stiffly Accurate Integrator for Elastodynamic Problems.ACM Trans. Graph.(2017).",
+                "DOI": "10.1145/3072959.3073706",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-44",
+                "unstructured": "Dominik L Michels, Gerrit A Sobottka, and Andreas G Weber. 2014. Exponential integrators for stiff elastodynamic problems.ACM Trans. Graph.33, 1 (2014), 7.",
+                "DOI": "10.1145/2508462",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-45",
+                "unstructured": "Matthias M&#252;ller, Bruno Heidelberger, Marcus Hennix, and John Ratcliff. 2007. Position based dynamics.Journal of Visual Communication and Image Representation18, 2 (2007), 109--118.",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-46",
+                "unstructured": "Jorge Nocedal and Stephen Wright. 2006.Numerical optimization."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-47",
+                "unstructured": "Michael Ortiz. 1986. A note on energy conservation and stability of nonlinear time-stepping algorithms.Computers &#38; structures24, 1 (1986), 167--168.",
+                "DOI": "10.1016/0045-7949(86)90346-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-48",
+                "unstructured": "Matthew Overby, George E Brown, Jie Li, and Rahul Narain. 2017. ADMM &supe; Projective Dynamics: Fast Simulation of Hyperelastic Models with Dynamic Constraints.TVCG23, 10 (2017), 2222--2234."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-49",
+                "unstructured": "Eric G Parker and James F O'Brien. 2009. Real-time deformation and fracture in a game environment.Proc. EG/ACM Symp. Computer Animation, 165--175."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-50",
+                "unstructured": "Juan C Simo, N Tarnow, and KK Wong. 1992. Exact energy-momentum conserving algorithms and symplectic schemes for nonlinear dynamics.Computer methods in applied mechanics and engineering100, 1 (1992), 63--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-51",
+                "unstructured": "Ari Stern and Eitan Grinspun. 2009. Implicit-explicit variational integration of highly oscillatory problems.Multiscale Modeling &#38; Simulation7, 4 (2009), 1779--1794.",
+                "DOI": "10.1137/080732936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-52",
+                "unstructured": "Jonathan Su, Rahul Sheth, and Ronald Fedkiw. 2013. Energy conservation for the simulation of deformable bodies.TVCG19, 2 (2013), 189--200.",
+                "DOI": "10.1109/TVCG.2012.132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-53",
+                "unstructured": "Yuan Sui, Jun J Pan, Hong Qin, Hao Liu, and Yun Lu. 2017. Real-time simulation of soft tissue deformation and electrocautery procedures in laparoscopic rectal cancer radical surgery.The International Journal of Medical Robotics and Computer Assisted Surgery(2017).",
+                "DOI": "10.1002/rcs.1827",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-54",
+                "unstructured": "Demetri Terzopoulos and Kurt Fleischer. 1988a. Deformable models.The Visual Computer4, 6 (1988), 306--331.",
+                "DOI": "10.1007/BF01908877",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-55",
+                "unstructured": "Demetri Terzopoulos and Kurt Fleischer. 1988b. Modeling inelastic deformation: viscolelasticity, plasticity, fracture. InComputer Graphics (Proceedings of SIGGRAPH), Vol. 22. 269--278.",
+                "DOI": "10.1145/54852.378522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-56",
+                "unstructured": "Demetri Terzopoulos, John Platt, Alan Barr, and Kurt Fleischer. 1987. Elastically deformable models. InComputer Graphics (Proceedings of SIGGRAPH), Vol. 21. 205--214.",
+                "DOI": "10.1145/37401.37427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-57",
+                "unstructured": "Bernhard Thomaszewski, Simon Pabst, and Wolfgang Stra&#223;er. 2008. Asynchronous cloth simulation.Computer Graphics International."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-58",
+                "unstructured": "Pascal Volino and Nadia Magnenat-Thalmann. 2005. Implicit midpoint integration and adaptive damping for efficient cloth simulation.Computer Animation and Virtual Worlds16, 3--4 (2005), 163--175."
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-59",
+                "unstructured": "Andreas W&#228;chter and Lorenz T Biegler. 2006. On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming.Mathematical programming106, 1 (2006), 25--57.",
+                "DOI": "10.1007/s10107-004-0559-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-60",
+                "unstructured": "Huamin Wang. 2015. A Chebyshev semi-iterative approach for accelerating projective and position-based dynamics.ACM Trans. Graph.34, 6 (2015), 246.",
+                "DOI": "10.1145/2816795.2818063",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-61",
+                "unstructured": "Huamin Wang and Yin Yang. 2016. Descent methods for elastic body simulation on the GPU.ACM Trans. Graph.35, 6 (2016), 212.",
+                "DOI": "10.1145/2980179.2980236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201277-62",
+                "unstructured": "Mianlun Zheng, Zhiyong Yuan, Qianqian Tong, Guian Zhang, and Weixu Zhu. 2017. A novel unconditionally stable explicit integration method for finite element method.The Visual Computer(2017), 1--13."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201277&ftid=1991751&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:50:05Z",
+            "timestamp": 1571673005000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "fast energy projection for real-time simulation of deformable objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201277",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

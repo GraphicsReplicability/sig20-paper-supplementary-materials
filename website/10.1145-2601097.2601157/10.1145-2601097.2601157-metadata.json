@@ -1,0 +1,374 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:49Z",
+            "timestamp": 1575507229128
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ETH Zurich / Marie Curie COFUND Postdoctoral Fellowship",
+                "award": []
+            },
+            {
+                "name": "ERC Starting Grant iModel",
+                "award": [
+                    "StG-2012-306877"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601157",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 70,
+        "title": [
+            "Spin-it"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Moritz",
+                "family": "B\u00e4cher",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Emily",
+                "family": "Whiting",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601157-1",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating articulated characters from skinned meshes.ACM Trans. Graph. 31, 4, 47:1--47:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-2",
+                "unstructured": "Bends&#248;e, M., and Sigmund, O. 2012.Topology Optimization: Theory, Methods and Applications. Engineering online library. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-3",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Trans. Graph. 29, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-4",
+                "unstructured": "Byrd, R. H., Nocedal, J., and Waltz, R. A. 2006. Knitro: An integrated package for nonlinear optimization. InLarge-scale nonlinear optimization. Springer, 35--59.",
+                "DOI": "10.1007/0-387-30065-1_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-5",
+                "unstructured": "Cal&#236;, J., Calian, D. A., Amati, C., Kleinberger, R., Steed, A., Kautz, J., and Weyrich, T. 2012. 3D-printing of non-assembly, articulated models.ACM Trans. Graph. 31, 6, 130:1--130:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-6",
+                "unstructured": "Ceylan, D., Li, W., Mitra, N., Agrawala, M., and Pauly, M. 2013. Designing and fabricating mechanical automata from mocap sequences.ACM Trans. Graph. 32, 6.",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-7",
+                "unstructured": "Chen, D., Levin, D. I. W., Didyk, P., Sitthi-Amorn, P., and Matusik, W. 2013. Spec2Fab: A reducer-tuner model for translating specifications to 3D prints.ACM Trans. Graph. 32, 4, 135:1--135:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-8",
+                "unstructured": "Cohen, R. J. 1977. The tippe top revisited.American Journal of Physics 45, 1, 12--17.",
+                "DOI": "10.1119/1.10926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-9",
+                "unstructured": "Coros, S., Thomaszewski, B., Noris, G., Sueda, S., Forberg, M., Sumner, R. W., Matusik, W., and Bickel, B. 2013. Computational design of mechanical characters.ACM Trans. Graph. 32, 4, 83:1--83:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-10",
+                "unstructured": "Crabtree, H. 1909.An Elementary Treatment of the Theory of Spinning Tops. Longmans, Green and Co."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-11",
+                "unstructured": "Cross, R. 2013. The rise and fall of spinning tops.American Journal of Physics 81, 280.",
+                "DOI": "10.1119/1.4776195",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-12",
+                "unstructured": "DeRose, G. C. J., and D&#237;az, A. R. 1996. Hierarchical solution of large-scale three-dimensional topology optimization problems. InASME Design Engineering Technical Conferences and Computers in Engineering Conference."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-13",
+                "unstructured": "Eberly, D. H. 2003.Game Physics. Elsevier Science Inc."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-14",
+                "unstructured": "Fletcher, R. 1987.Practical Methods of Optimization; (2Nd Ed.). Wiley-Interscience, New York, NY, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-15",
+                "unstructured": "Furuta, Y., Mitani, J., Igarashi, T., and Fukui, Y. 2010. Kinetic art design system comprising rigid body simulation.Computer-Aided Design and Applications 7, 4, 533--546.",
+                "DOI": "10.3722/cadaps.2010.533-546",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-16",
+                "unstructured": "Gajamohan, M., Merz, M., Thommen, I., and D'Andrea, R. 2012. The Cubli: A cube that can jump up and balance. InProc. IROS, IEEE, 3722--3727."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-17",
+                "unstructured": "Goldstein, H., Poole, C., and Safko, J. 2001.Classical Mechanics, 3rd ed. Addison Wesley.",
+                "DOI": "10.1119/1.1484149",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-18",
+                "unstructured": "Gould, D. 1975.The Top: Universal Toy Enduring Pastime. Bailey Brothers and Swinfen Ltd."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-19",
+                "unstructured": "Hirose, M., Mitani, J., Kanamori, Y., and Fukui, Y. 2011. An interactive design system for sphericon-based geometric toys using conical voxels. InProc. International Conference on Smart Graphics, 37--47.",
+                "DOI": "10.1007/978-3-642-22571-0_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-20",
+                "unstructured": "Hullin, M. B., Ihrke, I., Heidrich, W., Weyrich, T., Damberg, G., and Fuchs, M. 2013. Computational fabrication and display of material appearance. InEurographics State-of-the-Art Reports (STAR), 17 pages."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-21",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. Graph. 30, 4, 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-22",
+                "unstructured": "Jacobson, A., Baran, I., Kavan, L., Popovi&#263;, J., and Sorkine, O. 2012. Fast automatic skinning transformations.ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 31, 4, 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-23",
+                "unstructured": "Kang, Z., Wang, X., and Wang, R. 2009. Topology optimization of space vehicle structures considering attitude control effort.Finite Elements in Analysis and Design 45, 431--438.",
+                "DOI": "10.1016/j.finel.2008.12.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-24",
+                "unstructured": "K&#246;nig, O., and Wintermantel, M., 2004. CAD-based evolutionary design optimization with CATIA V5. 1st Weimar Optimization and Stochastic Days."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-25",
+                "unstructured": "Lewis, D., Ratiu, T., Simo, J. C., and Marsden, J. E. 1992. The heavy top: a geometric treatment.Nonlinearity 5, 1, 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-26",
+                "unstructured": "Luo, L., Baran, I., Rusinkiewicz, S., and Matusik, W. 2012. Chopper: partitioning models into 3D-printable parts.ACM Trans. Graph. 31, 6, 129:1--129:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-27",
+                "unstructured": "Macchietto, A., Zordan, V., and Shelton, C. R. 2009. Momentum control for balance.ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-28",
+                "unstructured": "Malko, G. 1978.The One and Only Yo-Yo Book. Avon."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-29",
+                "unstructured": "Nocedal, J., and Wright, S. J. 2000.Numerical Optimization. Springer.",
+                "DOI": "10.1007/b98874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-30",
+                "unstructured": "Perry, J. 1957.Spinning Tops and Gyroscopic Motion. Dover Publications."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-31",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing shapes for 3D fabrication.ACM Trans. Graph. 32, 4, 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-32",
+                "unstructured": "Proos, K., Steven, G., Querin, O., and Xie, Y. 2001. Stiffness and inertia multicriteria evolutionary structural optimisation.Engineering Computations 18, 7, 1031--1054.",
+                "DOI": "10.1108/02644400110404028",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-33",
+                "unstructured": "Provatidis, C. G. 2012. Revisiting the spinning top.International Journal of Material and Mechanical Engineering (IJMME) 1, 4, 71--88."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-34",
+                "unstructured": "Skouras, M., Thomaszewski, B., Coros, S., Bickel, B., and Gross, M. 2013. Computational design of actuated deformable characters.ACM Trans. Graph. 32, 4, 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-35",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Lipman, Y., Alexa, M., R&#246;ssl, C., and Seidel, H.-P. 2004. Laplacian surface editing. InProc. Symposium on Geometry Processing, 179--188."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-36",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: Improving structural strength of 3D printable objects.ACM Trans. Graph. 31, 4, 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-37",
+                "unstructured": "Umetani, N., and Schmidt, R. 2013. Cross-sectional structural analysis for 3D printing optimization. InSIGGRAPH Asia 2013 Technical Briefs, 5:1--5:4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-38",
+                "unstructured": "Vidim&#269;e, K., Wang, S.-P., Ragan-Kelley, J., and Matusik, W. 2013. OpenFab: A programmable pipeline for multi-material fabrication.ACM Trans. Graph. 32, 4, 136:1--136:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-39",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3D objects with skin-frame structures.ACM Trans. Graph. 32, 6, 177:1--177:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-40",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case structural analysis.ACM Trans. Graph. 32, 4, 137:1--137:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-41",
+                "unstructured": "Zhou, Y., Sueda, S., Matusik, W., and Shamir, A. 2014. Boxelization: Folding 3d objects into boxes.ACM Trans. Graph. 33, 4 (Jul), (to appear).",
+                "DOI": "10.1145/2601097.2601173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601157-42",
+                "unstructured": "Zhu, L., Xu, W., Snyder, J., Liu, Y., Wang, G., and Guo, B. 2012. Motion-guided mechanical toy modeling.ACM Trans. Graph. 31, 6, 127."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601157&amp;ftid=1488904&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:20Z",
+            "timestamp": 1565663720000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "optimizing moment of inertia for spinnable objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601157",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

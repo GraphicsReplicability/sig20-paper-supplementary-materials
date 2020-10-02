@@ -1,0 +1,376 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808449
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201399",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Online optical marker-based hand tracking with deep labels"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shangchen",
+                "family": "Han",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Beibei",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Yuting",
+                "family": "Ye",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher D.",
+                "family": "Twigg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Kenrick",
+                "family": "Kin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201399-1",
+                "unstructured": "2018. OptiTrack Motion Capture Systems. (2018). https://www.optitrack.com"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-2",
+                "unstructured": "2018. Vicon Motion Systems. (2018). https://www.vicon.com/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-3",
+                "unstructured": "Simon Alexanderson, Carol O'Sullivan, and Jonas Beskow. 2016. Robust Online Motion Capture Labeling of Finger Markers. InProceedings of the 9th International Conference on Motion in Games (MIG).",
+                "DOI": "10.1145/2994258.2994264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-4",
+                "unstructured": "Simon Alexanderson, Carol O'Sullivan, and Jonas Beskow. 2017. Real-time labeling of non-rigid motion capture marker sets.Computers &#38; graphics(2017).",
+                "DOI": "10.1016/j.cag.2017.10.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-5",
+                "unstructured": "Tameem Antoniades. 2016. Creating a Live Real-time Performance-captured Digital Human. InACM SIGGRAPH 2016 Real-Time Live! (SIGGRAPH '16).",
+                "DOI": "10.1145/2933540.2933551",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-6",
+                "unstructured": "A. Aristidou and J. Lasenby. 2010. Motion capture with constrained inverse kinematics for real-time hand tracking. In2010 4th International Symposium on Communications, Control and Signal Processing (ISCCSP).",
+                "DOI": "10.1109/ISCCSP.2010.5463419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-7",
+                "unstructured": "Adrian Bulat and Georgios Tzimiropoulos. 2016. Human Pose Estimation via Convolutional Part Heatmap Regression. InComputer Vision - ECCV 2016, Bastian Leibe, Jiri Matas, Nicu Sebe, and Max Welling (Eds.). Springer International Publishing, Cham, 717--732.",
+                "DOI": "10.1007/978-3-319-46478-7_44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-8",
+                "unstructured": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 2009.Introduction to Algorithms, Third Edition(3rd ed.). The MIT Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-9",
+                "unstructured": "Kaiming He, Georgia Gkioxari, Piotr Dollar, and Ross Girshick. 2017. Mask R-CNN. InThe IEEE International Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2017.322",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-10",
+                "unstructured": "Wheatland N. Neff M. Zordan V. Kang, C. 2012. Automatic Hand-Over Animation for Free-Hand Motions from Low Resolution Input. InProceedings of Motion in Games (MIG)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-11",
+                "unstructured": "M. Kitagawa and B. Windsor. 2008.MoCap for Artists: Workflow and Techniques for Motion Capture.Focal Press.",
+                "DOI": "10.1016/B978-0-240-81000-3.50012-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-12",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. ImageNet Classification with Deep Convolutional Neural Networks. InAdvances in Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-13",
+                "unstructured": "Jonathan Maycock, Tobias Rohlig, Matthias Schr&#195;&#369;der, Mario Botsch, and Helge J. Ritter. 2015. Fully automatic optical motion tracking using an inverse kinematics approach.. In15th IEEE-RAS International Conference on Humanoid Robots.461--466.",
+                "DOI": "10.1109/HUMANOIDS.2015.7363590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-14",
+                "unstructured": "J. Meyer, M. Kuderer, J. M&#252;ller, and W. Burgard. 2014. Online marker labeling for fully automatic skeleton tracking in optical motion capture. In2014 IEEE International Conference on Robotics and Automation (ICRA).",
+                "DOI": "10.1109/ICRA.2014.6907690",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-15",
+                "unstructured": "Iason Oikonomidis, Nikolaos Kyriazis, and Antonis A. Argyros. 2012. Tracking the Articulated Motion of Two Strongly Interacting Hands. InThe IEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2012.6247885",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-16",
+                "unstructured": "Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. 2015. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. InAdvances in Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-17",
+                "unstructured": "Gernot Riegler, Osman Ulusoy, and Andreas Geiger. 2017. OctNet: Learning Deep 3D Representations at High Resolutions. InIEEE Conf. on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2017.701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-18",
+                "unstructured": "Maurice Ringer and Joan Lasenby. 2002a. Multiple Hypothesis Tracking for Automatic Optical Motion Capture. InThe 7th European Conference on Computer Vision (ECCV).",
+                "DOI": "10.1007/3-540-47969-4_35",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-19",
+                "unstructured": "Maurice Ringer and Joan Lasenby. 2002b. A Procedure for Automatically Estimating Model Parameters in Optical Motion Capture. InIn British Machine Vision Conference.747--756.",
+                "DOI": "10.5244/C.16.73",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-20",
+                "unstructured": "Matthias Schr&#246;der, Jonathan Maycock, and Mario Botsch. 2015. Reduced Marker Layouts for Optical Motion Capture of Hands. InProceedings of the 8th ACM SIGGRAPH Conference on Motion in Games (MIG).",
+                "DOI": "10.1145/2822013.2822026",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-21",
+                "unstructured": "Matthias Schr&#246;der, Thomas Waltemate, Jonathan Maycock, Tobias R&#195;&#369;hlig, Helge Ritter, and Mario Botsch. 2017. Design and evaluation of reduced marker layouts for hand motion capture.Computer Animation and Virtual Worlds(2017), e1751.",
+                "DOI": "10.1002/cav.1751",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-22",
+                "unstructured": "T. Schubert, K. Eggensperger, A. Gkogkidis, F. Hutter, T. Ball, and W Burgard. 2016. Automatic bone parameter estimation for skeleton tracking in optical motion capture. In2016 IEEE International Conference on Robotics and Automation (ICRA).",
+                "DOI": "10.1109/ICRA.2016.7487771",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-23",
+                "unstructured": "T. Schubert, A. Gkogkidis, T. Ball, and W. Burgard. 2015. Automatic initialization for skeleton tracking in optical motion capture. In2015 IEEE International Conference on Robotics and Automation (ICRA).",
+                "DOI": "10.1109/ICRA.2015.7139260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-24",
+                "unstructured": "Kevin J. Shih, Arun Mallya, Saurabh Singh, and Derek Hoiem. 2015. Part Localization using Multi-Proposal Consensus for Fine-Grained Categorization. InProceedings of the British Machine Vision Conference 2015, BMVC 2015, Swansea, UK, September 7--10, 2015.128.1--128.12.",
+                "DOI": "10.5244/C.29.128",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-25",
+                "unstructured": "Tomas Simon, Hanbyul Joo, Iain Matthews, and Yaser Sheikh. 2017. Hand Keypoint Detection in Single Images Using Multiview Bootstrapping. InThe IEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2017.494",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-26",
+                "unstructured": "K. Simonyan and A. Zisserman. 2015. Very Deep Convolutional Networks for Large-Scale Image Recognition. InProceedings of the International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-27",
+                "unstructured": "Jonathan Taylor, Lucas Bordeaux, Thomas Cashman, Bob Corish, Cem Keskin, Toby Sharp, Eduardo Soto, David Sweeney, Julien Valentin, Benjamin Luff, Arran Topalian, Erroll Wood, Sameh Khamis, Pushmeet Kohli, Shahram Izadi, Richard Banks, Andrew Fitzgibbon, and Jamie Shotton. 2016. Efficient and Precise Interactive Hand Tracking Through Joint, Continuous Optimization of Pose and Correspondences.ACM Trans. Graph.35, 4 (July 2016), 143:1--143:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-28",
+                "unstructured": "Jonathan Taylor, Vladimir Tankovich, Danhang Tang, Cem Keskin, David Kim, Philip Davidson, Adarsh Kowdle, and Shahram Izadi. 2017. Articulated Distance Fields for Ultra-fast Tracking of Hands Interacting.ACM Trans. Graph.36, 6 (Nov. 2017), 244:1--244:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-29",
+                "unstructured": "Anastasia Tkach, Mark Pauly, and Andrea Tagliasacchi. 2016. Sphere-meshes for Real-time Hand Modeling and Tracking.ACM Trans. Graph.35, 6 (Nov. 2016), 222:1--222:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-30",
+                "unstructured": "Jonathan Tompson, Murphy Stein, Yann Lecun, and Ken Perlin. 2014. Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks.ACM Trans. Graph.33, 5 (Aug. 2014), 169:1--169:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-31",
+                "unstructured": "Nkenge Wheatland, Sophie J&#246;rg, and Victor Zordan. 2013. Automatic Hand-Over Animation Using Principle Component Analysis. InProceedings of Motion in Games (MIG).",
+                "DOI": "10.1145/2522628.2522656",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-32",
+                "unstructured": "Nkenge Wheatland, Yingying Wang, Huaguang Song, Michael Neff, Victor Zordan, and Sophie J&#195;&#369;rg. 2015. State of the Art in Hand and Finger Modeling and Animation.Computer Graphics Forum(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201399-33",
+                "unstructured": "Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Lukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Gregory S. Corrado, Macduff Hughes, and Jeffrey Dean. 2016. Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation.CoRRabs/1609.08144 (2016)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201399&ftid=1991747&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T16:00:02Z",
+            "timestamp": 1571673602000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201399",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

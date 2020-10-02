@@ -1,0 +1,352 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:57Z",
+            "timestamp": 1574859837869
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "KAKENHI",
+                "award": [
+                    "15H05924"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201398",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Example-based turbulence style transfer"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Syuhei",
+                "family": "Sato",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Dwango CG Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yoshinori",
+                "family": "Dobashi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hokkaido University and Dwango CG Research"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Tomoyuki",
+                "family": "Nishita",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dwango CG Research and Hiroshima Shudo University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201398-1",
+                "unstructured": "Adam Wade Bargteil. 2006.Tracking and texturing liquid surfaces.Ph.D. Dissertation. University of California, Berkeley."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-2",
+                "unstructured": "Connelly Barnes and Fang-Lue Zhang. 2017. A survey of the state-of-the-art in patch-based synthesis.Computational Visual Media3, 1 (2017), 3--20.",
+                "DOI": "10.1007/s41095-016-0064-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-3",
+                "unstructured": "Robert Bridson. 2015.Fluid simulation for computer graphics.CRC Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-4",
+                "unstructured": "Robert Bridson, Jim Hourihan, and Marcus Nordenstam. 2007. Curl-noise for procedural fluid flow.ACM Transactions on Graphics26, 3 (2007), Article 46.",
+                "DOI": "10.1145/1276377.1276435",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-5",
+                "unstructured": "M. Chu and N. Thuerey. 2017. Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors.ACM Transactions on Graphics36, 4 (2017), Article 14.",
+                "DOI": "10.1145/3072959.3073643",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-6",
+                "unstructured": "R. Fedkiw, J. Stam, and H. W. Jansen. 2001. Visual Simulation of Smoke. InProceedings of ACM SIGGRAPH 2001.15--22.",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-7",
+                "unstructured": "James Gregson, Ivo Ihrke, Nils Thuerey, and Wolfgang Heidrich. 2014. From Capture to Simulation: Connecting Forward and Inverse Problems in Fluids.ACM Trans. Graph.33, 4, Article 139 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-8",
+                "unstructured": "T. Inglis, M.-L. Eckert, J. Gregson, and N. Thuerey. 2017. Primal-Dual Optimization for Fluids.Computer Graphics Forum36, 8 (2017), 354--368.",
+                "DOI": "10.1111/cgf.13084",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-9",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. (2010). http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-10",
+                "unstructured": "O. Jamriska, J. Fiser, P. Asente, J. Lu, E. Shechtman, and D. Sykora. 2015. LazyFluids: appearance transfer for fluid animations.ACM Transactions on Graphics34, 4 (2015), Article 92.",
+                "DOI": "10.1145/2766983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-11",
+                "unstructured": "Doyub Kim. 2017.Fluid Engine Development.CRC Press.",
+                "DOI": "10.1201/b22137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-12",
+                "unstructured": "Theodore Kim, Nils Thurey, Doug James, and Markus Gross. 2008. Wavelet turbulence for fluid simulation.ACM Transactions on Graphics27, 3 (2008), Article 3.",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-13",
+                "unstructured": "Vivek Kwatra, David Adalsteinsson, Theodore Kim, Nipun Kwatra, Mark Carlson, and Ming C. Lin. 2007. Texturing fluids.IEEE Transactions on Visualization and Computer Graphics13, 5 (2007), 939--952.",
+                "DOI": "10.1109/TVCG.2007.1044",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-14",
+                "unstructured": "Vivek Kwatra, Irfan Essa, Aaron Bobick, and Nipun Kwatra. 2005. Texture optimization for example-based synthesis.ACM Transactions on Graphics24, 3 (2005), 795--802.",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-15",
+                "unstructured": "Ares Lagae, Sylvain Lefebvre, Rob Cook, Tony DeRose, George Drettakis, David S Ebert, John P Lewis, Ken Perlin, and Matthias Zwicker. 2010. A survey of procedural noise functions. InComputer Graphics Forum, Vol. 29. Wiley Online Library, 2579--2600."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-16",
+                "unstructured": "C. Ma, L. Wei, B. Guo, and K. Zhou. 2009. Motion field texture synthesis.ACM Transactions on Graphics28, 5 (2009), Article 110.",
+                "DOI": "10.1145/1618452.1618456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-17",
+                "unstructured": "Rahul Narain, Vivek Kwatra, Huai-Ping Lee, Theodore Kim, Mark Carlson, and Ming C. Lin. 2007. Feature-guided dynamic texture synthesis on continuous flows. InProceedings of the 18th Eurographics conference on Rendering Techniques.361--370."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-18",
+                "unstructured": "R. Narain, J. Sewall, M. Carlson, and M. C. Lin. 2008. Fast animation of turbulence using energy transport and procedural synthesis.ACM Transactions on Graphics27, 5 (2008), Article 166.",
+                "DOI": "10.1145/1409060.1409119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-19",
+                "unstructured": "Michael B. Nielsen and Brian B. Christensen. 2010. Improved Variational Guiding of Smoke Animations.Computer Graphics Forum29, 2 (2010), 705--712.",
+                "DOI": "10.1111/j.1467-8659.2009.01640.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-20",
+                "unstructured": "Michael B. Nielsen, Brian B. Christensen, Nafees Bin Zafar, Doug Roble, and Ken Museth. 2009. Guiding of smoke animations through variational coupling of simulations at different resolutions. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation.217--226.",
+                "DOI": "10.1145/1599470.1599499",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-21",
+                "unstructured": "T. Pfaff, N. Thuerey, A. Selle, and M. Gross. 2009. Synthetic turbulence using artificial boundary layers.ACM Transactions on Graphics28, 5 (2009), Article 121.",
+                "DOI": "10.1145/1618452.1618467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-22",
+                "unstructured": "Michael Rabinovich, Roi Poranne, Daniele Panozzo, and Olga Sorkine-Hornung. 2017. Scalable Locally Injective Mappings.ACM Trans. Graph.36, 2, Article 16 (April 2017), 16 pages.",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-23",
+                "unstructured": "S. Sato, Y. Dobashi, and T. Nishita. 2016. A combining method of fluid animations by interpolating flow fields. InProceedings of SIGGRAPH Asia 2016 Technical Briefs.Article 4.",
+                "DOI": "10.1145/3005358.3005382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-24",
+                "unstructured": "S. Sato, T. Morita, Y. Dobashi, , and T. Yamamoto. 2012. A data-driven approach for synthesizing high-resolution animation of fire. InProceedings of the Digital Production Symposium 2012.37--42.",
+                "DOI": "10.1145/2370919.2370926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-25",
+                "unstructured": "H. Schechter and R. Bridson. 2008. Evolving sub-grid turbulence for smoke animation. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation.1--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-26",
+                "unstructured": "Arno Sch&#246;dl, Richard Szeliski, David H. Salesin, and Irfan Essa. 2000. Video Textures. InProceedings of ACM SIGGRAPH 2000.489--498.",
+                "DOI": "10.1145/344779.345012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-27",
+                "unstructured": "Jos Stam. 1999. Stable Fluids. InProceedings of ACM SIGGRAPH 1999, Annual Conference Series.121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-28",
+                "unstructured": "Nils Thuerey, Theodore Kim, and Tobias Pfaff. 2013. Turbulent Fluids. InProceedings of SIGGRAPH '13 ACM SIGGRAPH 2013 Courses.Article No. 6.",
+                "DOI": "10.1145/2504435.2504441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201398-29",
+                "unstructured": "Li-Yi Wei, Sylvain Lefebvre, Vivek Kwatra, and Greg Turk. 2009. State of the Art in Example-based Texture Synthesis. InEurographics 2009, State of the Art Report, EG-STAR.Eurographics Association. http://www-sop.inria.fr/reves/Basilic/2009/WLKT09"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201398&ftid=1991677&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:50:45Z",
+            "timestamp": 1571673045000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201398",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

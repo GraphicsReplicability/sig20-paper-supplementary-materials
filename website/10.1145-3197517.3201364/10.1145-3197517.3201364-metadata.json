@@ -1,0 +1,750 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808427
+        },
+        "reference-count": 95,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201364",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "High-fidelity facial reflectance and geometry inference from an unconstrained image"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shuco",
+                "family": "Yamaguchi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Shunsuke",
+                "family": "Saito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Koki",
+                "family": "Nagano",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pinscreen"
+                    }
+                ]
+            },
+            {
+                "given": "Yajie",
+                "family": "Zhao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Weikai",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Kyle",
+                "family": "Olszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Shigeo",
+                "family": "Morishima",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201364-1",
+                "unstructured": "M. Aittala, T. Aila, and J. Lehtinen. 2016. Reflectance modeling by neural texture synthesis.ACM Trans. Graph.35, 4 (2016), 65.",
+                "DOI": "10.1145/2897824.2925917",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-2",
+                "unstructured": "O. Alexander, M. Rogers, W. Lambeth, M. Chiang, and P. Debevec. 2009. The Digital Emily Project: Photoreal Facial Modeling and Animation. InACM SIGGRAPH 2009 Courses.ACM, New York, NY, USA, Article 12, 12:1--12:15 pages.",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-3",
+                "unstructured": "J. T. Barron and J. Malik. 2015a. Shape, illumination, and reflectance from shading.IEEE Transactions on Pattern Analysis and Machine Intelligence37, 8 (2015), 1670--1687.",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-4",
+                "unstructured": "J. T. Barron and J. Malik. 2015b. Shape, Illumination, and Reflectance from Shading.IEEE Transactions on Pattern Analysis and Machine Intelligence(2015).",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-5",
+                "unstructured": "T. Beeler, B. Bickel, P. Beardsley, B. Sumner, and M. Gross. 2010. High-quality single-shot capture of facial geometry. InACM Trans. Graph., Vol. 29. ACM, 40.",
+                "DOI": "10.1145/1833349.1778777",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-6",
+                "unstructured": "T. Beeler, F. Hahn, D. Bradley, B. Bickel, P. Beardsley, C. Gotsman, R. W. Sumner, and M. Gross. 2011. High-quality passive facial performance capture using anchor frames. InACM Trans. Graph., Vol. 30. ACM, 75.",
+                "DOI": "10.1145/1964921.1964970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-7",
+                "unstructured": "V. Blanz and T. Vetter. 1999. A morphable model for the synthesis of 3D faces. InProc. SIGGRAPH.187--194.",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-8",
+                "unstructured": "J. Booth, A. Roussos, S. Zafeiriou, A. Ponniah, and D. Dunaway 2016. A 3d morphable model learnt from 10,000 faces. InProc. CVPR.5543--5552.",
+                "DOI": "10.1109/CVPR.2016.598",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-9",
+                "unstructured": "D. Bradley, T. Beeler, K. Mitchell, and others. 2017. Real-Time Multi-View Facial Capture with Synthetic Training. InComputer Graphics Forum, Vol. 36. Wiley Online Library, 325--336."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-10",
+                "unstructured": "C. Cao, D. Bradley, K. Zhou, and T. Beeler. 2015. Real-time high-fidelity facial performance capture.ACM Trans. Graph.34, 4 (2015), 46.",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-11",
+                "unstructured": "C. Cao, H. Wu, Y. Weng, T. Shao, and K. Zhou. 2016. Real-time facial animation with image-based dynamic avatars.ACM Trans. Graph.35, 4 (2016), 126.",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-12",
+                "unstructured": "P. Debevec, T. Hawkins, C. Tchou, H.-P. Duiker, and W. Sarokin. 2000. Acquiring the Reflectance Field of a Human Face. InProc. SIGGRAPH.",
+                "DOI": "10.1145/344779.344855",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-13",
+                "unstructured": "R. Donner, M. Reiter, G. Langs, P. Peloschek, and H. Bischof. 2006. Fast Active Appearance Model Search Using Canonical Correlation Analysis.IEEE Transactions on Pattern Analysis and Machine Intelligence28, 10 (2006), 1690--1694.",
+                "DOI": "10.1109/TPAMI.2006.206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-14",
+                "unstructured": "C. N Duong, K. Luu, K. G. Quach, and T. D. Bui. 2015. Beyond principal components: Deep boltzmann machines for face modeling. InProc. CVPR.4786--4794."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-15",
+                "unstructured": "G.J. Edwards, C.J. Taylor, and T. F. Cootes. 1998. Interpreting Face Images Using Active Appearance Models. InProceedings of the 3rd. International Conference on Face and Gesture Recognition (FG '98).IEEE Computer Society, 300--.",
+                "DOI": "10.1109/AFGR.1998.670965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-16",
+                "unstructured": "A. A. Efros and W. T. Freeman. 2001. Image Quilting for Texture Synthesis and Transfer. InProc. SIGGRAPH.ACM, 341--346.",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-17",
+                "unstructured": "A. A. Efros and T. K. Leung. 1999. Texture Synthesis by Non-Parametric Sampling. InIEEE ICCV.1033--.",
+                "DOI": "10.1109/ICCV.1999.790383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-18",
+                "unstructured": "G. Fyffe, A. Jones, O. Alexander, R. Ichikari, and P. Debevec. 2014. Driving high-resolution facial scans with video performance capture.ACM Trans. Graph.34, 1 (2014), 8.",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-19",
+                "unstructured": "G. Fyffe, K. Nagano, L. Huynh, S. Saito, J. Busch, A. Jones, H. Li, and P. Debevec. 2017. Multi-View Stereo on Consistent Face Topology. InComputer Graphics Forum, Vol. 36. Wiley Online Library, 295--309.",
+                "DOI": "10.1111/cgf.13127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-20",
+                "unstructured": "P. Garrido, L. Valgaerts, C. Wu, and C. Theobalt. 2013. Reconstructing Detailed Dynamic Face Geometry from Monocular Video. InACM Trans. Graph., Vol. 32. 158:1--158:10.",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-21",
+                "unstructured": "L. A. Gatys, M. Bethge, A. Hertzmann, and E. Shechtman. 2016. Preserving Color in Neural Artistic Style Transfer.CoRRabs/1606.05897 (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-22",
+                "unstructured": "L. A. Gatys, A. S. Ecker, and M. Bethge. 2015. Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks.CoRRabs/1505.07376 (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-23",
+                "unstructured": "A. Ghosh, G. Fyffe, B. Tunwattanapong, J. Busch, X. Yu, and P. Debevec. 2011. Multiview Face Capture Using Polarized Spherical Gradient Illumination.ACM Trans. Graph.30, 6, Article 129 (2011), 129:1--129:10 pages.",
+                "DOI": "10.1145/2070781.2024163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-24",
+                "unstructured": "M. Glencross, G.J. Ward, F. Melendez, C.Jay, J. Liu, and R. Hubbold. 2008. A perceptually validated model for surface depth hallucination.ACM Trans. Graph.27, 3 (2008), 59.",
+                "DOI": "10.1145/1360612.1360658",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-25",
+                "unstructured": "A. Golovinskiy, W. Matusik, H. Pfister, S. Rusinkiewicz, and T Funkhouser. 2006. A Statistical Model for Synthesis of Detailed Facial Geometry.ACM Trans. Graph.25, 3 (2006), 1025--1034.",
+                "DOI": "10.1145/1141911.1141988",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-26",
+                "unstructured": "I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio. 2014. Generative Adversarial Nets. InAdvances in Neural Information Processing Systems 27, Z. Ghahramani, M. Welling, C. Cortes, N D. Lawrence, and K. Q. Weinberger (Eds.). Curran Associates, Inc., 2672--2680."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-27",
+                "unstructured": "P. F. Gotardo, T. Simon, Y. Sheikh, and I. Matthews. 2015. Photogeometric scene flow for high-detail dynamic 3d reconstruction. InProc. ICCV.846--854.",
+                "DOI": "10.1109/ICCV.2015.103",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-28",
+                "unstructured": "P. Graham, B. Tunwattanapong, J. Busch, X. Yu, A. Jones, P. Debevec, and A. Ghosh. 2013a. Measurement-Based Synthesis of Facial Microgeometry. InComputer Graphics Forum, Vol. 32. Wiley Online Library, 335--344.",
+                "DOI": "10.1111/cgf.12053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-29",
+                "unstructured": "P. Graham, B. Tunwattanapong, J. Busch, X. Yu, A. Jones, P. Debevec, and A. Ghosh. 2013b. Measurement-based Synthesis of Facial Microgeometry. InEUROGRAPHICS.",
+                "DOI": "10.1111/cgf.12053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-30",
+                "unstructured": "J. Han, K. Zhou, L.-Y. Wei, M. Gong, H. Bao, X. Zhang, and B. Guo. 2006. Fast example-based surface texture synthesis via discrete optimization.The Visual Computer22, 9--11 (2006), 918--925."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-31",
+                "unstructured": "A. Haro, B. Guenterz, and I. Essay. 2001. Real-time, Photo-realistic, Physically Based Rendering of Fine Scale Human Skin Structure. InEurographics Workshop on Rendering, S. J. Gortle and K. Myszkowski (Eds.).",
+                "DOI": "10.1007/978-3-7091-6242-2_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-32",
+                "unstructured": "L. Hu, S. Saito, L. Wei, K. Nagano, J. Seo, J. Fursund, I. Sadeghi, C. Sun, Y.-C. Chen, and H. Li. 2017. Avatar Digitization From a Single Image For Real-Time Rendering.ACM Trans. Graph.36, 6 (2017).",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-33",
+                "unstructured": "A. E. Ichim, S. Bouaziz, and M. Pauly. 2015. Dynamic 3D Avatar Creation from Handheld Video Input.ACM Trans. Graph.34, 4, Article 45 (2015), 45:1--45:14 pages.",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-34",
+                "unstructured": "S. Iizuka, E. Simo-Serra, and H. Ishikawa. 2017. Globally and Locally Consistent Image Completion.ACM Trans. Graph.36, 4, Article 107 (2017), 107:1--107:14 pages.",
+                "DOI": "10.1145/3072959.3073659",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-35",
+                "unstructured": "P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. 2016. Image-to-image translation with conditional adversarial networks.arXiv:1611.07004(2016).",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-36",
+                "unstructured": "M. K.Johnson, F. Cole, A. Raj, and E. H. Adelson. 2011. Microgeometry Capture using an Elastomeric Sensor.ACM Trans. Graph30, 4 (2011), 46:1--46:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-37",
+                "unstructured": "T. Karras, T. Aila, S. Laine, and J. Lehtinen. 2017. Progressive Growing of GANs for Improved Quality, Stability, and Variation.CoRRabs/1710.10196 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-38",
+                "unstructured": "I. Kemelmacher-Shlizerman. 2013. Internet-based Morphable Model.IEEE ICCV(2013).",
+                "DOI": "10.1109/ICCV.2013.404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-39",
+                "unstructured": "I. Kemelmacher-Shlizerman and R. Basri. 2011. 3D face reconstruction from a single image using a single reference face shape.IEEE Transactions on Pattern Analysis and Machine Intelligence33, 2 (2011), 394--405.",
+                "DOI": "10.1109/TPAMI.2010.63",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-40",
+                "unstructured": "I. Kemelmacher-Shlizerman and S. M. Seitz. 2011. Face reconstruction in the wild. InIEEE ICCV.IEEE, 1746--1753.",
+                "DOI": "10.1109/ICCV.2011.6126439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-41",
+                "unstructured": "H. Kim, M. Zollh&#246;fer, A. Tewari, J. Thies, C. Richardt, and C. Theobalt. 2018. Inverse-FaceNet: Deep Monocular Inverse Face Rendering. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2018.00486",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-42",
+                "unstructured": "D. P. Kingma and J. Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-43",
+                "unstructured": "T. D. Kulkarni, W. F. Whitney, P. Kohli, and J. Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. InAdvances in Neural Information Processing Systems 28, C. Cortes, N. D. Lawrence, D. D. Lee, M. Sugiyama, and R. Garnett (Eds.). Curran Associates, Inc., 2539--2547."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-44",
+                "unstructured": "V. Kwatra, I. Essa, A. Bobick, and N. Kwatra. 2005. Texture optimization for example-based synthesis.ACM Trans. Graph.24, 3 (2005), 795--802.",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-45",
+                "unstructured": "V. Kwatra, A. Sch&#246;dl, I. Essa, G. Turk, and A. Bobick. 2003. Graphcut Textures: Image and Video Synthesis Using Graph Cuts. InProc. SIGGRAPH.ACM, 277--286.",
+                "DOI": "10.1145/1201775.882264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-46",
+                "unstructured": "M. S. Langer and S. W. Zucker. 1994. Shape-from-shading on a cloudy day.JOSA A11, 2 (1994), 467--478.",
+                "DOI": "10.1364/JOSAA.11.000467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-47",
+                "unstructured": "A. Lasram and S. Lefebvre. 2012. Parallel patch-based texture synthesis. InProceedings of the Fourth ACM SIGGRAPH/Eurographics conference on High-Performance Graphics.Eurographics Association, 115--124."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-48",
+                "unstructured": "C. Ledig, L. Theis, F. Husz&#225;r, J. Caballero, A. Cunningham, A. Acosta, A. Aitken, A. Tejani, J. Totz, Z. Wang, and others. 2016. Photo-realistic single image super-resolution using a generative adversarial network.arXiv:1609.04802(2016).",
+                "DOI": "10.1109/CVPR.2017.19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-49",
+                "unstructured": "S. Lefebvre and H. Hoppe. 2006. Appearance-space texture synthesis.ACM Trans. Graph.25, 3 (2006), 541--548.",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-50",
+                "unstructured": "C. Li, K. Zhou, and S. Lin. 2014. Intrinsic Face Image Decomposition with Human Face Priors. InProc. ECCV (5)'14.218--233.",
+                "DOI": "10.1007/978-3-319-10602-1_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-51",
+                "unstructured": "H. Li, L. Trutoiu, K. Olszewski, L. Wei, T. Trutna, P.-L. Hsieh, A. Nicholls,, A. Nicholls, and C. Ma. 2015. Facial Performance Sensing Head-Mounted Display.ACM Trans. Graph.34, 4 (July 2015).",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-52",
+                "unstructured": "Y. Li, S. Liu, J. Yang, and M.-H. Yang. 2017. Generative Face Completion. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-53",
+                "unstructured": "C. Liu, H.-Y. Shum, and W. T. Freeman. 2007. Face Hallucination: Theory and Practice.Int. J. Comput. Vision75, 1 (2007), 115--134.",
+                "DOI": "10.1007/s11263-006-0029-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-54",
+                "unstructured": "F. Liu, D. Zeng, J. Li, and Q.-j. Zhao. 2017. On 3D face reconstruction via cascaded regression in shape space.Frontiers of Information Technology &#38; Electronic Engineering18, 12(2017), 1978--1990.",
+                "DOI": "10.1631/FITEE.1700253",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-55",
+                "unstructured": "Z. Liu, P. Luo, X. Wang, and X. Tang. 2015. Deep Learning Face Attributes in the Wild. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2015.425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-56",
+                "unstructured": "D.S. Ma, J. Correll, and B. Wittenbrink. 2015. The Chicago face database: A free stimulus set of faces and norming data.Behavior Research Methods47, 4 (2015), 1122--1135.",
+                "DOI": "10.3758/s13428-014-0532-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-57",
+                "unstructured": "W.-C. Ma, T. Hawkins, P. Peers, C.-F. Chabert, M. Weiss, and P. Debevec. 2007a. Rapid Acquisition of Specular and Diffuse Normal Maps from Polarized Spherical Gradient Illumination. InProc. EGSR 2007.Eurographics Association, 183--194."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-58",
+                "unstructured": "W.-C. Ma, T. Hawkins, P. Peers, C.-F. Chabert, M. Weiss, and P. Debevec. 2007b. Rapid Acquisition of Specular and Diffuse Normal Maps from Polarized Spherical Gradient Illumination. InEurographics Symposium on Rendering."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-59",
+                "unstructured": "W.-C. Ma, A. Jones, J.-Y. Chiang, T. Hawkins, S. Frederiksen, P. Peers, M. Vukovic, M. Ouhyoung, and P. Debevec. 2008. Facial Performance Synthesis Using Deformation-driven Polynomial Displacement Maps. InProc. SIGGRAPH.ACM, 121:1--121:10.",
+                "DOI": "10.1145/1457515.1409074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-60",
+                "unstructured": "I. Matthews and S. Baker. 2004. Active Appearance Models Revisited.Int. J. Comput. Vision60, 2 (2004), 135--164.",
+                "DOI": "10.1023/B:VISI.0000029666.37597.d3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-61",
+                "unstructured": "S. McDonagh, M. Klaudiny, D. Bradley, T. Beeler, I. Matthews, and K. Mitchell. 2016. Synthetic prior design for real-time face tracking. In3D Vision (3DV), 2016 Fourth International Conference on.IEEE, 639--648.",
+                "DOI": "10.1109/3DV.2016.72",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-62",
+                "unstructured": "U. Mohammed, S. J. D. Prince, and J. Kautz. 2009. Visio-lization: Generating Novel Facial Images. InACM Trans. Graph.ACM, Article 57, 57:1--57:8 pages.",
+                "DOI": "10.1145/1531326.1531363",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-63",
+                "unstructured": "K. Nagano, G. Fyffe, O. Alexander, J. Barbi&#269;, H. Li, A. Ghosh, and P. Debevec. 2015. Skin Microstructure Deformation with Displacement Map Convolution.ACM Trans. Graph.34, 4 (2015).",
+                "DOI": "10.1145/2766894",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-64",
+                "unstructured": "C. Nhan Duong, K. Luu, K. Gia Quach, and T. D. Bui. 2015. Beyond principal components: Deep boltzmann machines for face modeling. InProc. CVPR.4786--4794.",
+                "DOI": "10.1109/CVPR.2015.7299111",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-65",
+                "unstructured": "K. Olszewski, Z. Li, C. Yang, Y. Zhou, R. Yu, Z. Huang, S. Xiang, S. Saito, P. Kohli, and H. Li. 2017. Realistic Dynamic Facial Textures From a Single Image Using GANs. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-66",
+                "unstructured": "K. Olszewski, J. J. Lim, S. Saito, and H. Li. 2016. High-Fidelity Facial and Speech Animation for VR HMDs.ACM Trans. Graph.35, 6 (December 2016).",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-67",
+                "unstructured": "D. Pathak, P. Krahenbuhl, J. Donahue, T. Darrell, and A. A. Efros. 2016. Context encoders: Feature learning by inpainting. InProc. CVPR.2536--2544.",
+                "DOI": "10.1109/CVPR.2016.278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-68",
+                "unstructured": "A. Radford, L. Metz, and S. Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.CoRRabs/1511.06434 (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-69",
+                "unstructured": "E. Richardson, M. Sela, and R. Kimmel. 2016. 3D face reconstruction by learning from synthetic data. In3D Vision (3DV), 2016 Fourth International Conference on.IEEE, 460--469."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-70",
+                "unstructured": "E. Richardson, M. Sela, R. Or-El, and R. Kimmel. 2017. Learning detailed face reconstruction from a single image. InProc. CVPR.IEEE, 5553--5562.",
+                "DOI": "10.1109/CVPR.2017.589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-71",
+                "unstructured": "S. Romdhani and T. Vetter. 2005. Estimating 3D Shape and Texture Using Pixel Intensity, Edges, Specular Highlights, Texture Constraints and a Prior.. InProc. CVPR.986--993.",
+                "DOI": "10.1109/CVPR.2005.145",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-72",
+                "unstructured": "S. Saito, T. Li, and H. Li. 2016. Real-Time Facial Segmentation and Performance Capture from RGB Input. InProc. ECCV.",
+                "DOI": "10.1007/978-3-319-46484-8_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-73",
+                "unstructured": "S. Saito, L. Wei, L. Hu, K. Nagano, and H. Li. 2017. Photorealistic Facial Texture Inference Using Deep Neural Networks. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-74",
+                "unstructured": "M. Sela, E. Richardson, and R. Kimmel. 2017. Unrestricted facial geometry reconstruction using image-to-image translation. InIEEE ICCV.IEEE, 1585--1594.",
+                "DOI": "10.1109/ICCV.2017.175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-75",
+                "unstructured": "S. Sengupta, A. Kanazawa, C. D. Castillo, and D. Jacobs. 2017. SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild.arXiv.1712.01261(2017).",
+                "DOI": "10.1109/CVPR.2018.00659",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-76",
+                "unstructured": "F. Shi, H.-T. Wu, X. Tong, and J. Chai. 2014. Automatic acquisition of high-fidelity facial performances using monocular videos.ACM Trans. Graph.33, 6 (2014), 222.",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-77",
+                "unstructured": "Z. Shu, E. Yumer, S. Hadap, K. Sunkavalli, E. Shechtman, and D. Samaras. 2017. Neural Face Editing with Intrinsic Image Disentangling.arXiv:1704.04131(2017).",
+                "DOI": "10.1109/CVPR.2017.578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-78",
+                "unstructured": "Solid Angle. 2016. (2016). http://www.solidangle.com/arnold/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-79",
+                "unstructured": "S. Suwajanakorn, I. Kemelmacher-Shlizerman, and S. M. Seitz. 2014. Total moving face reconstruction. InProc. ECCV.Springer, 796--812.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-80",
+                "unstructured": "A. Tewari, M. Zollh&#246;fer, P. Garrido, F. Bernard, H. Kim, P. P&#233;rez, and C. Theobalt. 2017a. Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz.arXiv.1712.02859(2017).",
+                "DOI": "10.1109/CVPR.2018.00270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-81",
+                "unstructured": "A. Tewari, M. Zollh&#246;fer, H. Kim, P. Garrido, F. Bernard, P. Perez, and C. Theobalt. 2017b. Mofa: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction. InIEEE ICCV, Vol. 2."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-82",
+                "unstructured": "The Digital Human League. 2015. Digital Emily 2.0. (2015). http://gl.ict.usc.edu/Research/DigitalEmily2/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-83",
+                "unstructured": "J. Thies, M. Zollh&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2016a. Face2Face: Real-time Face Capture and Reenactment of RGB Videos. InProc. CVPR.",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-84",
+                "unstructured": "J. Thies, M. Zoll&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2016b. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality.arXiv:1610.03151(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-85",
+                "unstructured": "M. Turk and A. Pentland. 1991. Eigenfaces for Recognition.J. Cognitive Neuroscience3, 1 (1991), 71--86.",
+                "DOI": "10.1162/jocn.1991.3.1.71",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-86",
+                "unstructured": "J. von der Pahlen, J. Jimenez, E. Danvoye, P. Debevec, G. Fyffe, and O. Alexander. 2014. Digital Ira and Beyond: Creating Real-time Photoreal Digital Actors. InACM SIGGRAPH 2014 Courses.ACM, New York, NY, USA, Article 1, 1:1--1:384 pages.",
+                "DOI": "10.1145/2614028.2615407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-87",
+                "unstructured": "L.-Y. Wei, S. Lefebvre, V. Kwatra, and G. Turk. 2009. State of the art in example-based texture synthesis. InEurographics 2009, State of the Art Report, EG-STAR.Eurographics Association, 93--117."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-88",
+                "unstructured": "L.-Y. Wei and M. Levoy. 2000. Fast Texture Synthesis Using Tree-structured Vector Quantization. InProc. SIGGRAPH.479--488.",
+                "DOI": "10.1145/344779.345009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-89",
+                "unstructured": "T. Weyrich, W. Matusik, H. Pfister, B. Bickel, C. Donner, C. Tu, J. McAndless, J. Lee, A. Ngan, H. W. Jensen, and M. Gross. 2006. Analysis of Human Faces using a Measurement-Based Skin Reflectance Model.ACM Trans. Graph.25, 3 (2006), 1013--1024.",
+                "DOI": "10.1145/1141911.1141987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-90",
+                "unstructured": "C. A. Wilson, A. Ghosh, P. Peers, J.-Y. Chiang, J. Busch, and P. Debevec. 2010. Temporal upsampling of performance geometry using photometric alignment.ACM Trans. Graph.29, 2 (2010), 17.",
+                "DOI": "10.1145/1731047.1731055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-91",
+                "unstructured": "C. Wu, D. Bradley, M. Gross, and T. Beeler. 2016. An anatomically-constrained local deformation model for monocular face capture.ACM Trans. Graph.35, 4 (2016), 115.",
+                "DOI": "10.1145/2897824.2925882",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-92",
+                "unstructured": "R. A. Yeh*, C. Chen*, T. Y. Lim, S. A. G., M. Hasegawa-Johnson, and M. N. Do. 2017. Semantic Image Inpainting with Deep Generative Models. InProc. CVPR.* equal contribution.",
+                "DOI": "10.1109/CVPR.2017.728",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-93",
+                "unstructured": "H. Zhao, J. Shi, X. Qi, X. Wang, and J. Jia. 2017. Pyramid Scene Parsing Network. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-94",
+                "unstructured": "J.-Y. Zhu, R. Zhang, D. Pathak, T. Darrell, A. A. Efros, O. Wang, and E. Shechtman. 2017. Toward Multimodal Image-to-image Translation. InAdvances in Neural Information Processing Systems 30."
+            },
+            {
+                "key": "key-10.1145/3197517.3201364-95",
+                "unstructured": "X. Zhu, Z. Lei, J. Yan, D. Yi, and S. Z. Li. 2015. High-fidelity pose and expression normalization for face recognition in the wild. InProc. CVPR.787--796."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201364&ftid=1991640&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T16:00:09Z",
+            "timestamp": 1571673609000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 95,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201364",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

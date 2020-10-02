@@ -1,0 +1,612 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    15
+                ]
+            ],
+            "date-time": "2020-01-15T03:03:29Z",
+            "timestamp": 1579057409352
+        },
+        "reference-count": 86,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925953",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-19",
+        "source": "Crossref",
+        "is-referenced-by-count": 118,
+        "title": [
+            "Soli"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jaime",
+                "family": "Lien",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Gillian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "M. Emre",
+                "family": "Karagozler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Patrick",
+                "family": "Amihood",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Carsten",
+                "family": "Schwesig",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Erik",
+                "family": "Olson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Hakim",
+                "family": "Raja",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Ivan",
+                "family": "Poupyrev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925953-1",
+                "unstructured": "Axelsson, S. R. 2004. Noise radar using random phase and frequency modulation.IEEE Transactions on Geoscience and Remote Sensing 42, 11, 2370--2384."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-2",
+                "unstructured": "Azevedo, S., and McEwan, T. 1996. Micropower impulse radar.Science and Technology Review, 17--29."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-3",
+                "unstructured": "Barnes, S. B. 1997. Douglas Carl Engelbart: Developing the underlying concepts for contemporary computing.IEEE Annals of the History of Computing 19, 3, 16--26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-4",
+                "unstructured": "Baum, C. E., Rothwell, E. J., Chen, K.-M., and Nyquist, D. P. 1991. The singularity expansion method and its application to target identification.Proceedings of the IEEE 79, 10, 1481--1492."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-5",
+                "unstructured": "Benezeth, Y., Jodoin, P. M., Emile, B., Laurent, H., and Rosenberger, C. 2008. Review and evaluation of commonly-implemented background subtraction algorithms. InICPR 2008.",
+                "DOI": "10.1109/ICPR.2008.4760998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-6",
+                "unstructured": "Bishop, C. M. 2006. Pattern recognition.Machine Learning."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-7",
+                "unstructured": "Bolt, R. a. 1980. Put-that-there.SIGGRAPH '80, 262--270."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-8",
+                "unstructured": "Breiman, L. 2001. Random forests.Machine Learning 45, 1, 5--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-9",
+                "unstructured": "Brookner, E. 1985. Phased-array radars.Scientific American 252, 2, 94--102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-10",
+                "unstructured": "Brown, L. 1999.A Radar History of World War II: Technical and Military Imperatives. Institute of Physics Publishing.",
+                "DOI": "10.1201/9781420050660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-11",
+                "unstructured": "Brunnbauer, M., Meyer, T., Ofner, G., Mueller, K., and Hagen, R. 2008. Embedded wafer level ball grid array (eWLB). InIEMT 2008, IEEE, 1--6.",
+                "DOI": "10.1109/IEMT.2008.5507866",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-12",
+                "unstructured": "Card, S., Moran, T., and Newell, A. 1983.The Psychology of Human-Computer Interaction.L. Erlbaum Associates."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-13",
+                "unstructured": "Chan, L., Chen, C.-h. H. Y.-l., and Yang, S. 2015. Cyclops: Wearable and single-piece full-body gesture input devices. InCHI 2015, ACM, 3001--3009."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-14",
+                "unstructured": "Comscore Inc. 2014. The US mobile app report. Tech. rep."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-15",
+                "unstructured": "Cooperstock, J. R., Fels, S. S., Buxton, W., and Smith, K. C. 1997. Reactive environments.Communications of the ACM 40, 9 (Sep), 65--73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-16",
+                "unstructured": "Dardas, N. H., and Georganas, N. D. 2011. Real-time hand gesture detection and recognition using bag-of-features and support vector machine techniques.IEEE Transactions on Instrumentation and Measurement 60, 11, 3592--3607."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-17",
+                "unstructured": "Dietz, P., and Leigh, D. 2001. Diamond Touch. InUIST '01, 219."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-18",
+                "unstructured": "Dorfmuller-Ulhaas, K., and Schmalstieg, D. 2001. Finger tracking for interaction in augmented environments.ISMAR 2001, 55--64."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-19",
+                "unstructured": "Duffner, S., Berlemont, S., Lefebvre, G., and Garcia, C. 2014. 3D gesture classification with convolutional neural networks. InICASSP 2014, IEEE, 5432--5436.",
+                "DOI": "10.1109/ICASSP.2014.6854641",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-20",
+                "unstructured": "FCC, 2016. FCC online table of frequency allocations."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-21",
+                "unstructured": "Geng, S., Kivinen, J., Zhao, X., and Vainikainen, P. 2009. Millimeter-wave propagation channel characterization for short-range wireless communications.IEEE Transactions on Vehicular Technology 58, 1 (Jan), 3--13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-22",
+                "unstructured": "Gillian, N., Knapp, R. B., and O'Modhrain, S. 2011. Recognition of multivariate temporal musical gestures using n-dimensional dynamic time warping. InProceedings of the 2011 International Conference on New Interfaces for Musical Expression (NIME 11), Oslo, Norway."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-23",
+                "unstructured": "Gillian, N. 2011.Gesture Recognition for Musician Computer Interaction.PhD thesis, School of Music and Sonic Arts, Queen's University Belfast."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-24",
+                "unstructured": "Gustafson, S., Holz, C., and Baudisch, P. 2011. Imaginary phone: Learning imaginary interfaces by transferring spatial memory from a familiar device.UIST '11, 283--292.",
+                "DOI": "10.1145/2047196.2047233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-25",
+                "unstructured": "Guyon, I., and Elisseeff, A. 2003. An introduction to variable and feature selection.The Journal of Machine Learning Research 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-26",
+                "unstructured": "Hansen, C. J. 2011. WiGiG: Multi-gigabit wireless communications in the 60 GHz band.IEEE Wireless Communications 18, 6, 6--7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-27",
+                "unstructured": "Harrison, C., Tan, D., and Morris, D. 2010. Skinput: Appropriating the body as an input surface.CHI 2010, 453--462."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-28",
+                "unstructured": "Holleis, P., Schmidt, A., Paasovaara, S., Puikkonen, A., and H&#228;kkil&#228;, J. 2008. Evaluating capacitive touch input on clothes. InMobileHCI '08, ACM Press, New York, New York, USA, 81--90.",
+                "DOI": "10.1145/1409240.1409250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-29",
+                "unstructured": "Holz, C., and Wilson, A. 2011. Data miming: Inferring spatial object descriptions from human gesture.CHI 2011, 811--820."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-30",
+                "unstructured": "Hussain, M. G. 1998. Ultra-wideband impulse radar -- an overview of the principles.IEEE Aerospace and Electronic Systems Magazine 13, 9, 9--14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-31",
+                "unstructured": "Ji, S., Xu, W., Yang, M., and Yu, K. 2013. 3D convolutional neural networks for human action recognition.IEEE Transactions on Pattern Analysis and Machine Intelligence 35, 1, 221--231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-32",
+                "unstructured": "Junker, H., Amft, O., Lukowicz, P., and Tr&#246;ster, G. 2008. Gesture spotting with body-worn inertial sensors to detect user activities.Pattern Recognition 41, 6, 2010--2024."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-33",
+                "unstructured": "Keller, J. B. 1962. Geometrical theory of diffraction.JOSA 52, 2, 116--130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-34",
+                "unstructured": "Kellogg, B., Talla, V., and Gollakota, S. 2014. Bringing gesture recognition to all devices. In11th USENIX Symposium on Networked Systems Design and Implementation (NSDI 14), 303--316."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-35",
+                "unstructured": "Keskin, C., Kira&#231;, F., Kara, Y. E., and Akarun, L. 2013. Real time hand pose estimation using depth sensors. InConsumer Depth Cameras for Computer Vision.Springer, 119--137.",
+                "DOI": "10.1007/978-1-4471-4640-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-36",
+                "unstructured": "Khoshelham, K., and Elberink, S. O. 2012. Accuracy and resolution of Kinect depth data for indoor mapping applications.Sensors 12, 2, 1437--1454."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-37",
+                "unstructured": "Kim, D., Hilliges, O., Izadi, S., Butler, A. D., Chen, J., Oikonomidis, I., and Olivier, P. 2012. Digits.UIST '12, 167--176."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-38",
+                "unstructured": "Knott, E. F. 2012.Radar Cross Section Measurements.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-39",
+                "unstructured": "Kurakin, A., Zhang, Z., and Liu, Z. 2012. A real time system for dynamic hand gesture recognition with a depth sensor. In2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO), 1975--1979."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-40",
+                "unstructured": "Lee, S., and Buxton, W. 1985. A multi-touch three dimensional touch-sensitive tablet. InCHI'85, 21--25."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-41",
+                "unstructured": "Levanon, N. 2000. Multifrequency complementary phase-coded radar signal. IEE Proceedings -Radar, Sonar and Navigation 147, 6, 276--284.",
+                "DOI": "10.1049/ip-rsn:20000734",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-42",
+                "unstructured": "LoPresti, L., LaCascia, M., Sclaroff, S., and Camps, O. 2015. Gesture modeling by Hanklet-based hidden Markov model. InComputer Vision -- ACCV 2014, D. Cremers, I. Reid, H. Saito, and M.-H. Yang, Eds., vol. 9005 ofLecture Notes in Computer Science.Springer International Publishing, 529--546."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-43",
+                "unstructured": "Melgarejo, P., Zhang, X., Ramanathan, P., and Chu, D. 2014. Leveraging directional antenna capabilities for fine-grained gesture recognition. InProceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing, ACM, 541--551.",
+                "DOI": "10.1145/2632048.2632095",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-44",
+                "unstructured": "Molchanov, P., Gupta, S., Kim, K., and Kautz, J. 2015. Hand gesture recognition with 3D convolutional neural networks. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 1--7.",
+                "DOI": "10.1109/CVPRW.2015.7301342",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-45",
+                "unstructured": "Molchanov, P., Gupta, S., Kim, K., and Pulli, K. 2015. Multi-sensor system for driver's hand-gesture recognition. InIEEE Conference on Automatic Face and Gesture Recognition.",
+                "DOI": "10.1109/FG.2015.7163132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-46",
+                "unstructured": "Molchanov, P., Gupta, S., Kim, K., and Pulli, K. 2015. Short-range FMCW monopulse radar for hand-gesture sensing. InIEEE Radar Conference (RadarCon 2015), IEEE, 1491--1496.",
+                "DOI": "10.1109/RADAR.2015.7131232",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-47",
+                "unstructured": "Nasr, I., Karagozler, E., Poupyrev, I., and Trotta, S. 2015. A highly integrated 60-GHz 6-channel transceiver chip in 0.35 um SiGe technology for smart sensing and short-range communications. InIEEE CSICS 2015, IEEE, 1--4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-48",
+                "unstructured": "Nasr, I., Jungmaier, R., Baheti, A., Noppeney, D., Bal, J. S., Wojnowski, M., Karagozler, E., Raja, H., Lien, J., Poupyrev, I., and Trotta, S. 2016. A highly integrated 60 GHz 6-channel transceiver with antenna in package for smart sensing and short range communications.submitted to IEEE Journal of Solid State Circuits.",
+                "DOI": "10.1109/JSSC.2016.2585621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-49",
+                "unstructured": "Nathanson, F. E., Reilly, J. P., and Cohen, M. N. 1991.Radar Design Principles -- Signal Processing and the Environment, vol. 91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-50",
+                "unstructured": "Novelda. Novelda Xethru NVA620x IC."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-51",
+                "unstructured": "Otero, M. 2005. Application of a continuous wave radar for human gait recognition.Proceedings of SPIE 5809, 538--548."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-52",
+                "unstructured": "Paradiso, J., Abler, C., Hsiao, K.-y., and Reynolds, M. 1997. The Magic Carpet: Physical sensing for immersive environments. InCHI'97 Extended Abstracts on Human Factors in Computing Systems, ACM, 277--278.",
+                "DOI": "10.1145/1120212.1120391",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-53",
+                "unstructured": "Paradiso, J. A. 1999. The Brain Opera technology: New instruments and gestural sensors for musical interaction and performance.Journal of New Music Research 28, 2, 130--149."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-54",
+                "unstructured": "Park, J.-I., and Kim, K.-T. 2010. A comparative study on ISAR imaging algorithms for radar target identification.Progress In Electromagnetics Research 108, 155--175."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-55",
+                "unstructured": "Potter, L. C., Chiang, D.-M., Carriere, R., and Gerry, M. J. 1995. A GTD-based parametric model for radar scattering.IEEE Transactions on Antennas and Propagation 43, 10, 1058--1067."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-56",
+                "unstructured": "Pu, Q., Gupta, S., Gollakota, S., and Patel, S. 2013. Whole-home gesture recognition using wireless signals. InProceedings of the 19th Annual International Conference on Mobile Computing &#38; Networking, ACM, 27--38.",
+                "DOI": "10.1145/2500423.2500436",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-57",
+                "unstructured": "Rahman, T., Adams, A. T., Zhang, M., and Choudhury, T. 2015. DoppleSleep: A contactless unobtrusive sleep sensing system using short-range doppler radar. InUbicomp '15, ACM.",
+                "DOI": "10.1145/2750858.2804280",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-58",
+                "unstructured": "Ralston, T. S., Charvat, G. L., and Peabody, J. E. 2010. Real-time through-wall imaging using an ultrawideband MIMO phased array radar system. InIEEE International Symposium on Phased Array Systems and Technology (ARRAY), IEEE.",
+                "DOI": "10.1109/ARRAY.2010.5613314",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-59",
+                "unstructured": "Rekimoto, J. 2001. GestureWrist and GesturePad: Unobtrusive wearable interaction devices.ISWC 2001, 21--27."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-60",
+                "unstructured": "Richards, M. A., Scheer, J., Holm, W. A., et al. 2010.Principles of modern radar: basic principles. SciTech Pub.",
+                "DOI": "10.1049/SBRA021E",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-61",
+                "unstructured": "Romero, J., Kjellstr&#246;m, H., Ek, C. H., and Kragic, D. 2013. Non-parametric hand pose estimation with object context.Image and Vision Computing 31, 8, 555--564."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-62",
+                "unstructured": "Russell, D., Streitz, N., and Winograd, T. 2005. Building disappearing computers.Communications of the ACM 48, 3, 42--48."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-63",
+                "unstructured": "Saponas, T. S., Tan, D. S., Morris, D., Balakrishnan, R., Turner, J., and Landay, J. A. 2009. Enabling always-available input with muscle-computer interfaces.UIST 2009, 167--176."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-64",
+                "unstructured": "Sharp, T., Keskin, C., Robertson, D., Taylor, J., Shotton, J., Kim, D., Rhemann, C., Leichter, I., Vinnikov, A., Wei, Y., Freedman, D., Kohli, P., Krupka, E., Fitzgibbon, A., and Izadi, S. 2015. Accurate, robust, and flexible real-time hand tracking.CHI 2015, 3633--3642."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-65",
+                "unstructured": "Shotton, J., Sharp, T., Kipman, A., Fitzgibbon, A., Finocchio, M., Blake, A., Cook, M., and Moore, R. 2013. Real-time human pose recognition in parts from single depth images.Communications of the ACM 56, 1, 116--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-66",
+                "unstructured": "Shuey, D., Bailey, D., and Morrissey, T. P. 1986. PHIGS: A standard, dynamic, interactive graphics interface.IEEE Computer Graphics and Applications 6, 8, 50--57."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-67",
+                "unstructured": "Skolnik, M. I. 1962. Introduction to radar.Radar Handbook 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-68",
+                "unstructured": "Smith, C., and Goggans, P. 1993. Radar target identification.IEEE Antennas and Propagation Magazine 35, 2 (April), 27--38."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-69",
+                "unstructured": "Smith, J., White, T., Dodge, C., Paradiso, J., Gershenfeld, N., and Allport, D. 1998. Electric field sensing for graphical interfaces.IEEE Computer Graphics and Applications 18, June, 54--59."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-70",
+                "unstructured": "Smulders, P. 2002. Exploiting the 60 GHz band for local wireless multimedia access: Prospects and future directions.IEEE Communications Magazine 40, 1, 140--147."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-71",
+                "unstructured": "Song, J., S&#246;r&#246;s, G., Pece, F., Fanello, S. R., Izadi, S., Keskin, C., and Hilliges, O. 2014. In-air gestures around unmodified mobile devices.UIST 2014, 319--329."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-72",
+                "unstructured": "Storcheus, D., Rostamizadeh, A., and Kumar, S. 2015. A survey of modern questions and challenges in feature extraction. InProceedings of the 1st International Workshop on Feature Extraction: Modern Questions and Challenges, NIPS, 1--18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-73",
+                "unstructured": "Stove, A. G. 1992. Linear FMCW radar techniques. InIEEE Proceedings on Radar and Signal Processing, vol. 139, IET, 343--350.",
+                "DOI": "10.1049/ip-f-2.1992.0048",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-74",
+                "unstructured": "Strickon, J., and Paradiso, J. 1998. Tracking hands above large interactive surfaces with a low-cost scanning laser rangefinder.CHI'98, 231--232."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-75",
+                "unstructured": "Sutherland, I. E., Blackwell, A., and Rodden, K. 1963. Sketchpad: A man-machine graphical communication system. Tech. Rep. TK296, Lincoln Laboratory, MIT, Lexington, MA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-76",
+                "unstructured": "Wan, Q., Li, Y., Li, C., and Pal, R. 2014. Gesture recognition for smart home applications using portable radar sensors. In36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2014), IEEE, 6414--6417."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-77",
+                "unstructured": "Wang, Y., and Fathy, A. E. 2011. Micro-doppler signatures for intelligent human gait recognition using a UWB impulse radar. InIEEE Antennas and Propagation Society, AP-S International Symposium (Digest), 2103--2106."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-78",
+                "unstructured": "Wang, R. Y., and Popovi&#263;, J. 2009. Real-time hand-tracking with a color glove. InSIGGRAPH 2009, ACM Press, New York, New York, USA, 1.",
+                "DOI": "10.1145/1576246.1531369",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-79",
+                "unstructured": "Watson-Watt, R. 1945. Radar in war and in peace.Nature 155, 3935, 319--324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-80",
+                "unstructured": "Wei, T., and Zhang, X. 2015. mTrack: High-precision passive tracking using millimeter wave radios. InProceedings of the 21st Annual International Conference on Mobile Computing and Networking, ACM, 117--129."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-81",
+                "unstructured": "Weichert, F., Bachmann, D., Rudak, B., and Fisseler, D. 2013. Analysis of the accuracy and robustness of the Leap Motion controller.Sensors 13, 5, 6380--6393."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-82",
+                "unstructured": "Weigel, M., Lu, T., Bailly, G., Oulasvirta, A., Majidi, C., and Steimle, J. 2015. iSkin: Flexible, stretchable and visually customizable on-body touch sensors for mobile computing. InCHI 2015, ACM, 1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-83",
+                "unstructured": "Wu, J., Konrad, J., and Ishwar, P. 2013. Dynamic time warping for gesture-based user identification and authentication with Kinect. InICASSP 2013, 2371--2375."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-84",
+                "unstructured": "Yatani, K., and Truong, K. N. 2012. BodyScope: A wearable acoustic sensor for activity recognition. InUbicomp '12, ACM, 341--350.",
+                "DOI": "10.1145/2370216.2370269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-85",
+                "unstructured": "Zhai, S., Milgram, P., and Buxton, W. 1996. The influence of muscle groups on performance of multiple degree-of-freedom input.CHI '96, 308--315."
+            },
+            {
+                "key": "key-10.1145/2897824.2925953-86",
+                "unstructured": "Zhuang, Y., Song, C., Wang, A., Lin, F., Li, Y., Gu, C., Li, C., and Xu, W. 2015. SleepSense: Non-invasive sleep event recognition using an electromagnetic probe. InIEEE 12th International Conference on Wearable and Implantable Body Sensor Networks (BSN 2015), 1--6."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925953&amp;ftid=1755915&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:28Z",
+            "timestamp": 1568162968000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "ubiquitous gesture sensing with millimeter wave radar"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 86,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925953",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

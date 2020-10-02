@@ -1,0 +1,158 @@
+{
+    "Timestamp": "12/10/2019 11:14:34",
+    "Title": "Deep Video Portraits",
+    "DOI": "10.1145/3197517.3201283",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.11714",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1805.11714.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Appearance and texture representations",
+    "ACM 2": "Neural networks",
+    "ACM 3": "Animation",
+    "ACM 4": "Rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 78,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://gvv.mpi-inf.mpg.de/projects/DeepVideoPortraits/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Hyeongwoo",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Max Planck Institute for Informatics, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Christian",
+            "family": "Theobalt",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Max Planck Institute for Informatics, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Pablo",
+            "family": "Carrido",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technicolor, France"
+                }
+            ]
+        },
+        {
+            "given": "Ayush",
+            "family": "Tewari",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Max Planck Institute for Informatics, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Weipeng",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Max Planck Institute for Informatics, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Justus",
+            "family": "Thies",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Matthias",
+            "family": "Niessner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Patrick",
+            "family": "P\u00e9rez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technicolor, France"
+                }
+            ]
+        },
+        {
+            "given": "Christian",
+            "family": "Richardt",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Bath, United Kingdom"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Zollh\u00f6fer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

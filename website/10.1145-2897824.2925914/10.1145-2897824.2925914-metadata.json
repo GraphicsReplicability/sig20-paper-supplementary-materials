@@ -1,0 +1,384 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:25Z",
+            "timestamp": 1574815945677
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC Starting Grant iModel",
+                "award": [
+                    "306877"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925914",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Computational thermoforming"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Sch\u00fcller",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Anselm",
+                "family": "Grundh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Henning",
+                "family": "Zimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Evgeni",
+                "family": "Sorkine",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925914-1",
+                "unstructured": "3dsystems, 2016. ProJet CJP 660Pro. http://www.3dsystems.com/3d-printers/professional/projet-660pro. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-2",
+                "unstructured": "Accuform, 2016. T-sim. http://www.t-sim.com. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-3",
+                "unstructured": "Agisoft, 2016. Agisoft photoscan standard edition 1.2.2. http://www.agisoft.com/. Accessed: 2015-12-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-4",
+                "unstructured": "Atcheson, B., Ihrke, I., Heidrich, W., Tevs, A., Bradley, D., Magnor, M. A., and Seidel, H. 2008. Time-resolved 3D capture of non-stationary gas flows.ACM Trans. Graph. 27, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-5",
+                "unstructured": "Batty, C., Uribe, A., Audoly, B., and Grinspun, E. 2012. Discrete viscous sheets.ACM Trans. Graph. 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-6",
+                "unstructured": "Bermano, A., Br&#252;schweiler, P., Grundh&#246;fer, A., Iwai, D., Bickel, B., and Gross, M. 2013. Augmenting physical avatars using projector-based illumination.ACM Trans. Graph. 32, 6, 189:1--189:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-7",
+                "unstructured": "Brox, T., Bruhn, A., Papenberg, N., and Weickert, J. 2004. High accuracy optical flow estimation based on a theory for warping. InComputer Vision - ECCV 2004, 8th European Conference on Computer Vision, Prague, Czech Republic, May 11-14, 2004. Proceedings, Part IV, Springer, T. Pajdla and J. Matas, Eds., vol. 3024 ofLecture Notes in Computer Science, 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-8",
+                "unstructured": "Cuttlefish, 2015. Cuttlefish: 3D printing pipeline. https://www.cuttlefish.de/. Accessed: 2015-03-01."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-9",
+                "unstructured": "ESI, 2016. ESI Pam-form. https://www.esi-group.com/software-solutions/virtual-manufacturing/composites/solutions-plastics-trims. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-10",
+                "unstructured": "FUJIFILM, 2016. Thermoforming ink. http://www.fujifilm.com.au/powerofinkjet/applications/thermoforming. Accessed: 2016-04-19."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-11",
+                "unstructured": "Hergel, J., and Lefebvre, S. 2014. Clean color: Improving multi-filament 3D prints.Computer Graphics Forum 33, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-12",
+                "unstructured": "Hill, R. 1998.The Mathematical Theory of Plasticity. Oxford classic texts in the physical sciences. Clarendon Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-13",
+                "unstructured": "Klein, P. 2009.Fundamentals of Plastics Thermoforming. Synthesis lectures on materials engineeering. Morgan &#38; Claypool.",
+                "DOI": "10.2200/S00184ED1V01Y200904MRE001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-14",
+                "unstructured": "Kouba, K., Bartos, O., and Vlachopoulos, J. 1992. Computer simulation of thermoforming in complex shapes.Polymer Engineering and Science 32, 10, 699--704."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-15",
+                "unstructured": "Koziey, B., Ghafur, M., Vlachopoulos, J., and Mirza, F. 1997. Computer simulation of thermoforming. InComposite Sheet Forming, D. Bhattacharyya, Ed., vol. 11 ofComposite Materials Series. Elsevier, ch. 3, 75--89."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-16",
+                "unstructured": "Kuzmin, A., Luisier, M., and Schenk, O. 2013. Fast methods for computing selected elements of the greens function in massively parallel nanoelectronic device simulations. InEuro-Par 2013 Parallel Processing, F. Wolf, B. Mohr, and D. Mey, Eds., vol. 8097 ofLecture Notes in Computer Science.Springer Berlin Heidelberg, 533--544."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-17",
+                "unstructured": "Lincoln, P., Welch, G., Nashel, A., Ilie, A., State, A., and Fuchs, H. 2009. Animatronic shader lamps avatars. InProc. ISMAR, 27--33."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-18",
+                "unstructured": "Lindemeier, T., Pirk, S., and Deussen, O. 2013. Image stylization with a painting machine using semantic hints.Computers &#38; Graphics 37, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-19",
+                "unstructured": "Liu, L., Zhang, L., Xu, Y., Gotsman, C., and Gortler, S. J. 2008. A local/global approach to mesh parameterization. InProceedings of the Symposium on Geometry Processing, SGP '08, 1495--1504."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-20",
+                "unstructured": "Ltd., M. T., 2016. Mcor Technologies Ltd. http://mcortechnologies.com/. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-21",
+                "unstructured": "Mieghem, B. V., Desplentere, F., Bael, A. V., and Ivens, J. 2015. Improvements in thermoforming simulation by use of 3D digital image correlation.Express Polymer Letters 9, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-22",
+                "unstructured": "M&#252;ller, M., and Gross, M. 2004. Interactive virtual materials. InProc. Graphics Interface, 239--246."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-23",
+                "unstructured": "Nied, H. F., Taylor, C. A., and Delorenzi, H. G. 1990. Three-dimensional finite element simulation of thermoforming.Polymer Engineering and Science 30, 20, 1314--1322."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-24",
+                "unstructured": "O'Brien, J. F., Bargteil, A. W., and Hodgins, J. K. 2002. Graphical modeling and animation of ductile fracture.ACM Trans. Graph. 21, 3, 291--294."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-25",
+                "unstructured": "Panozzo, D., Diamanti, O., Paris, S., Tarini, M., Sorkine, E., and Sorkine-Hornung, O. 2015. Texture mapping real-world objects with hydrographics.Comput. Graph. Forum (Proc. Symp. Geometry Processing) 34, 5, 65--75."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-26",
+                "unstructured": "Pr&#233;vost, R., Jacobson, A., Jarosz, W., and Sorkine-Hornung, O. 2015. Large-scale painting of photographs by interactive optimization.Computers &#38; Graphics.In press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-27",
+                "unstructured": "Raskar, R., Welch, G., Low, K.-l., and Bandyopadhyay, D. 2001. Shader lamps: Animating real objects with image-based illumination. InProc. EG Workshop on Rendering.",
+                "DOI": "10.1007/978-3-7091-6242-2_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-28",
+                "unstructured": "Reiner, T., Carr, N., M&#283;ch, R., &#352;t'ava, O., Dachsbacher, C., and Miller, G. 2014. Dual-color mixing for fused deposition modeling printers.Computer Graphics Forum 33, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-29",
+                "unstructured": "Rheoware, 2016. Rheoware simulation. http://www.blowmolding-thermoforming-simulation.com. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-30",
+                "unstructured": "Rouiller, O., Bickel, B., Kautz, J., Matusik, W., and Alexa, M. 2013. 3D-printing spatially varying BRDFs.IEEE Computer Graphics and Applications 33, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-31",
+                "unstructured": "Schenk, O., Wchter, A., and Hagemann, M. 2007. Matching-based preprocessing algorithms to the solution of saddle-point problems in large-scale nonconvex interior-point optimization.Computational Optimization and Applications 36, 2-3, 321--341."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-32",
+                "unstructured": "Schenk, O., Bollh&#246;fer, M., and R&#246;mer, R. A. 2008. On large-scale diagonalization techniques for the anderson model of localization.SIAM Rev. 50, 1 (Feb.), 91--112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-33",
+                "unstructured": "Shilkrot, R., Maes, P., Paradiso, J. A., and Zoran, A. 2015. Augmented airbrush for computer aided painting (CAP).ACM Trans. Graph. 34, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-34",
+                "unstructured": "Simo, J. C., and Hughes, T. J. R. 1998.Computational inelasticity.Interdisciplinary applied mathematics. Springer."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-35",
+                "unstructured": "Thermo3D, Q., 2016. Quadraxis Thermo3D. http://quadraxis.com/site/?page_id=45. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-36",
+                "unstructured": "transferpaper, 2015. Themagictouch cpm 6.2 - hard surface transfer paper. http://www.themagictouch.com/cpm.html/. Accessed: 2016-13-04."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-37",
+                "unstructured": "Vidim&#269;e, K., Wang, S.-P., Ragan-Kelley, J., and Matusik, W. 2013. OpenFab: A programmable pipeline for multi-material fabrication.ACM Trans. Graph. 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-38",
+                "unstructured": "Wald, I., Woop, S., Benthin, C., Johnson, G. S., and Ernst, M. 2014. Embree: A kernel framework for efficient CPU ray tracing.ACM Trans. Graph. 33, 4, 143:1--143:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-39",
+                "unstructured": "Witkin, A., and Baraff, D., 1997. Physically based modeling: Principles and practice, siggraph course notes."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-40",
+                "unstructured": "X-Rite, 2016. X-rite. http://xritephoto.com/. Accessed: 2016-01-18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925914-41",
+                "unstructured": "Zhang, Y., Yin, C., Zheng, C., and Zhou, K. 2015. Computational hydrographic printing.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2015) 34, 4 (Aug.).",
+                "DOI": "10.1145/2766932",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925914&amp;ftid=1755832&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:37:54Z",
+            "timestamp": 1568162274000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925914",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    19
+                ]
+            ],
+            "date-time": "2019-12-19T19:04:20Z",
+            "timestamp": 1576782260481
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC",
+                "award": [
+                    "StG-2012-306877"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601179",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Frame fields"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Enrico",
+                "family": "Puppo",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Marco",
+                "family": "Tarini",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601179-1",
+                "unstructured": "Alexa, M., Cohen-Or, D., and Levin, D. 2000. As-rigid-as-possible shape interpolation. InderACM SIGGRAPH, 157--164."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-2",
+                "unstructured": "Alliez, P., Cohen-Steiner, D., Devillers, O., L&#233;vy, B., and Desbrun, M. 2003. Anisotropic polygonal remeshing.ACM Trans. Graph. 22, 3, 485--493."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-3",
+                "unstructured": "Bommes, D., Zimmer, H., and Kobbelt, L. 2009. Mixed-integer quadrangulation.ACM Trans. Graph. 28, 3, 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-4",
+                "unstructured": "Bommes, D., L&#233;vy, B., Pietroni, N., Puppo, E., Silva, C., Tarini, M., and Zorin, D. 2013. Quad-mesh generation and processing: A survey.Comput. Graph. Forum 32, 51--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-5",
+                "unstructured": "Bommes, D., Campen, M., Ebke, H.-C., Alliez, P., and Kobbelt, L. 2013. Integer-grid maps for reliable quad meshing.ACM Trans. Graph. 32, 4, 98:1--98:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-6",
+                "unstructured": "Burley, B., and Lacewell, D. 2008. Ptex: Per-face texture mapping for production rendering. InProc. of Eurographics Conference on Rendering, 1155--1164."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-7",
+                "unstructured": "Crane, K., Desbrun, M., and Schr&#246;der, P. 2010. Trivial connections on discrete surfaces.Comput. Graph. Forum 29, 5, 1525--1533."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-8",
+                "unstructured": "DeRose, T., Kass, M., and Truong, T. 1998. Subdivision surfaces in character animation. InACM SIGGRAPH, 85--94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-9",
+                "unstructured": "Ebke, H.-C., Bommes, D., Campen, M., and Kobbelt, L. 2013. Qex: Robust quad mesh extraction.ACM Trans. Graph. 32, 6, 168:1--168:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-10",
+                "unstructured": "Fisher, M., Schr&#246;der, P., Desbrun, M., and Hoppe, H. 2007. Design of tangent vector fields.ACM Trans. Graph. 26, 3, 56:1--56:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-11",
+                "unstructured": "Hertzmann, A., and Zorin, D. 2000. Illustrating smooth surfaces. InProc. ACM SIGGRAPH, 517--526."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-12",
+                "unstructured": "Huang, J., Zhang, M., Ma, J., Liu, X., Kobbelt, L., and Bao, H. 2008. Spectral quadrangulation with orientation and alignment control.ACM Trans. Graph. 27, 5, 147:1--147:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-13",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. Graph. 30, 4, 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-14",
+                "unstructured": "K&#228;lberer, F., Nieser, M., and Polthier, K. 2007. Quad-Cover -- surface parameterization using branched coverings.Comput. Graph. Forum 26, 3, 375--384."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-15",
+                "unstructured": "Kn&#246;ppel, F., Crane, K., Pinkall, U., and Schr&#246;der, P. 2013. Globally optimal direction fields.ACM Trans. Graph. 32, 4, 59:1--59:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-16",
+                "unstructured": "Kovacs, D., Myles, A., and Zorin, D. 2010. Anisotropic quadrangulation. InProc. ACM Symposium on Solid and Physical Modeling, 137--146.",
+                "DOI": "10.1145/1839778.1839797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-17",
+                "unstructured": "Lai, Y.-K., Jin, M., Xie, X., He, Y., Palacios, J., Zhang, E., Hu, S.-M., and Gu, X. 2010. Metric-driven RoSy field design and remeshing.IEEE Trans. Vis. Comput. Graph. 16, 1, 95--108.",
+                "DOI": "10.1109/TVCG.2009.59",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-18",
+                "unstructured": "Lefebvre, S., and Hoppe, H. 2006. Appearance-space texture synthesis.ACM Trans. Graph. 25, 3, 541--548.",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-19",
+                "unstructured": "L&#233;vy, B., and Bonneel, N. 2012. Variational anisotropic surface meshing with Voronoi parallel linear enumeration. InProc. 21st Int. Meshing Roundtable, 349--366."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-20",
+                "unstructured": "Li, Y., Bao, F., Zhang, E., Kobayashi, Y., and Wonka, P. 2011. Geometry synthesis on surfaces using field-guided shape grammars.IEEE Trans. Vis. Comput. Graph. 17, 2, 231--243.",
+                "DOI": "10.1109/TVCG.2010.36",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-21",
+                "unstructured": "Ling, R., Huang, J., Sun, F., Juttler, B., Bao, H., and Wang, W. 2011. Spectral quadrangulation with boundary conformation. Tech. rep., TR-2011-13, The University of Hong Kong."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-22",
+                "unstructured": "Liu, L., Zhang, L., Xu, Y., Gotsman, C., and Gortler, S. J. 2008. A local/global approach to mesh parameterization.Comput. Graph. Forum 27, 5, 1495--1504.",
+                "DOI": "10.1111/j.1467-8659.2008.01290.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-23",
+                "unstructured": "Liu, Y., Xu, W., Wang, J., Zhu, L., Guo, B., Chen, F., and Wang, G. 2011. General planar quadrilateral mesh design using conjugate direction field.ACM Trans. Graph. 30, 6.",
+                "DOI": "10.1145/2070781.2024174",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-24",
+                "unstructured": "Marinov, M., and Kobbelt, L. 2004. Direct anisotropic quad-dominant remeshing. InProc. 12th Pacific Graphics, 207--216."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-25",
+                "unstructured": "Nash, J. 1956. The imbedding problem for Riemannian manifolds.Annals of Mathematics 63, 1, 20--63.",
+                "DOI": "10.2307/1969989",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-26",
+                "unstructured": "Pal, K., Sch&#252;ller, C., Panozzo, D., Sorkine-Hornung, O., and Weyrich, T. 2014. Interactive restoration of historical documents.Comput. Graph. Forum (Proc. Eurographics) 33, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-27",
+                "unstructured": "Palacios, J., and Zhang, E. 2007. Rotational symmetry field design on surfaces.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-28",
+                "unstructured": "Palacios, J., and Zhang, E. 2011. Interactive visualization of rotational symmetry fields on surfaces.IEEE Trans. Vis. Comput. Graph. 17, 7, 947--955.",
+                "DOI": "10.1109/TVCG.2010.121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-29",
+                "unstructured": "Panozzo, D., Block, P., and Sorkine-Hornung, O. 2013. Designing unreinforced masonry models.ACM Trans. Graph. 32, 4, 91:1--91:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-30",
+                "unstructured": "Pietroni, N., Tarini, M., Sorkine, O., and Zorin, D. 2011. Global parametrization of range image sets.ACM Trans. Graph. 30, 6.",
+                "DOI": "10.1145/2070781.2024183",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-31",
+                "unstructured": "Pinkall, U., Juni, S. D., and Polthier, K. 1993. Computing discrete minimal surfaces and their conjugates.Experimental Mathematics 2, 1, 15--36.",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-32",
+                "unstructured": "Ray, N., Li, W. C., L&#233;vy, B., Sheffer, A., and Alliez, P. 2006. Periodic global parameterization.ACM Trans. Graph. 25, 1460--1485."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-33",
+                "unstructured": "Ray, N., Vallet, B., Li, W. C., and L&#233;vy, B. 2008. N-symmetry direction field design.ACM Trans. Graph. 27, 2, 10:1--10:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-34",
+                "unstructured": "Ray, N., Vallet, B., Alonso, L., and Levy, B. 2009. Geometry-aware direction field processing.ACM Trans. Graph. 29, 1:1--1:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-35",
+                "unstructured": "Rossignac, J., and Vinacua, A. 2011. Steady affine motions and morphs.ACM Trans. Graph. 30, 5, 116:1--116:16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-36",
+                "unstructured": "Schaefer, S., McPhail, T., and Warren, J. D. 2006. Image deformation using moving least squares.ACM Trans. Graph. 25, 3, 533--540.",
+                "DOI": "10.1145/1141911.1141920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-37",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProc. Symp. Geometry Processing, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-38",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Goldenthal, R., and Lischinski, D. 2002. Bounded-distortion piecewise mesh parameterization. InIEEE Visualization, 355--362."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-39",
+                "unstructured": "Takayama, K., Panozzo, D., Sorkine-Hornung, A., and Sorkine-Hornung, O. 2013. Sketch-based generation and editing of quad meshes.ACM Trans. Graph. 32, 4, 97:1--97:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-40",
+                "unstructured": "Tarini, M., Puppo, E., Panozzo, D., Pietroni, N., and Cignoni, P. 2011. Simple quad domains for field aligned mesh parametrization.ACM Trans. Graph. 30, 6.",
+                "DOI": "10.1145/2070781.2024176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-41",
+                "unstructured": "Vouga, E., H&#246;binger, M., Wallner, J., and Pottmann, H. 2012. Design of self-supporting surfaces.ACM Trans. Graph. 31, 87:1--87:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-42",
+                "unstructured": "Wardetzky, M., Mathur, S., K&#228;lberer, F., and Grinspun, E. 2007. Discrete Laplace operators: No free lunch. InProc. Symp. Geometry Processing, 33--37."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-43",
+                "unstructured": "Y&#252;cer, K., Jacobson, A., Hornung, A., and Sorkine, O. 2012. Transfusive image manipulation.ACM Trans. Graph. 31, 6, 176:1--176:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-44",
+                "unstructured": "Zhang, E., Mischaikow, K., and Turk, G. 2006. Vector field design on surfaces.ACM Trans. Graph. 25, 4, 1294--1326.",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-45",
+                "unstructured": "Zhang, M., Huang, J., Liu, X., and Bao, H. 2010. A wave-based anisotropic quadrangulation method.ACM Trans. Graph. 29, 118:1--118:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601179-46",
+                "unstructured": "Zhong, Z., Guo, X., Wang, W., L&#233;vy, B., Sun, F., Liu, Y., and Mao, W. 2013. Particle-based anisotropic surface meshing.ACM Trans. Graph. 32, 4, 99:1--99:14."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601179&amp;ftid=1488943&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "anisotropic and non-orthogonal cross fields"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601179",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

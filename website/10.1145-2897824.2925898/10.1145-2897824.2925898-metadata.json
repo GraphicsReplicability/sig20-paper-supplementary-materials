@@ -1,0 +1,304 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:20Z",
+            "timestamp": 1574816000028
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925898",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Volume-encoded UV-maps"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Marco",
+                "family": "Tarini",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e0 dell'Insubria, Varese"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925898-1",
+                "unstructured": "Benson, D., and Davis, J. 2002. Octree textures.ACM Trans. Graph. 21, 3, 785--790."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-2",
+                "unstructured": "Burley, B., and Lacewell, D. 2008. Ptex: Per-face texture mapping for production rendering. InEurographics Symp. on Rendering, EGSR'08, 1155--1164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-3",
+                "unstructured": "Christensen, P. H., and Batali, D. 2004. An irradiance atlas for global illumination in complex production scenes. InProc. of EG Conf. on Rendering Techniques, EGSR'04, 133--141."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-4",
+                "unstructured": "Chuang, M., Luo, L., Brown, B. J., Rusinkiewicz, S., and Kazhdan, M. 2009. Estimating the Laplace-Beltrami operator by restricting 3D functions.Symp. on Geom. Proc., 1475--1484."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-5",
+                "unstructured": "Cignoni, P., Ranzuglia, G., Callieri, M., Corsini, M., Ganovelli, F., Pietroni, N., and Tarini, M., 2011. Mesh-lab. http://www.meshlab.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-6",
+                "unstructured": "Dachsbacher, C., and Lefebvre, S. 2008.Efficient and Practical TileTrees (in Shader X6). Shader X6. Charles River Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-7",
+                "unstructured": "Desbrun, M., Meyer, M., and Alliez, P. 2002. Intrinsic parameterizations of surface meshes.Comput. Graph. Forum 21, 3, 209--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-8",
+                "unstructured": "Ford, L., and Fulkerson, D. 1962.Flows in networks.Princeton U. Press.",
+                "DOI": "10.1515/9781400875184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-9",
+                "unstructured": "Gar&#263;ia, I., Lefebvre, S., Hornus, S., and Lasram, A. 2011. Coherent parallel hashing.ACM Trans. Graph. 30, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-10",
+                "unstructured": "Gu, X., Gortler, S. J., and Hoppe, H. 2002. Geometry images.ACM Trans. Graph. 21 (3)(21/07/2002), 355--361."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-11",
+                "unstructured": "He, Y., Wang, H., Fu, C., and Qin, H. 2009. A divide-and-conquer approach for automatic polycube map construction.Computers &#38; Graphics 33, 3, 369--380."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-12",
+                "unstructured": "Hormann, K., L&#233;vy, B., and Sheffer, A. 2007. Mesh parameterization: Theory and practice.SIGGRAPH Course Notes.",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-13",
+                "unstructured": "Jakob, W., Tarini, M., Panozzo, D., and Sorkine-Hornung, O. 2015. Instant field-aligned meshes.ACM Trans. Graph. 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-14",
+                "unstructured": "Lefebvre, S., and Dachsbacher, C. 2007. Tiletrees. InProc. of the Symp. on Interact. 3D Graph. and Games, ACM, 25--31.",
+                "DOI": "10.1145/1230100.1230104",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-15",
+                "unstructured": "Lefebvre, S., and Hoppe, H. 2006. Perfect spatial hashing. InACM Trans. Graph., vol. 25, ACM, 579--588.",
+                "DOI": "10.1145/1179352.1141926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-16",
+                "unstructured": "Lefebvre, S., Hornus, S., Neyret, F., et al. 2005. Octree textures on the gpu.GPU gems 2, 595--613."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-17",
+                "unstructured": "L&#233;vy, B., Petitjean, S., Ray, N., and Maillot, J. 2002. Least squares conformal maps for automatic texture atlas generation.ACM Trans. Graph. 21, 3, 362--371."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-18",
+                "unstructured": "Mitra, N. J., Nguyen, A., and Guibas, L. 2004. Estimating surface normals in noisy point cloud data. Inspec. issue of Inter. Jour. of Comp. Geom. and Appl., vol. 14, 261--276."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-19",
+                "unstructured": "Panetta, J., Kazhdan, M., and Zorin, D. 2012. Volumetric basis reduction for global seamless parameterization of meshes. Tech. rep., New York University."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-20",
+                "unstructured": "Pietroni, N., Tarini, M., and Cignoni, P. 2010. Almost isometric mesh parameterization through abstract domains.IEEE Trans. on Vis. and Comp. Graph. 16, 4, 621--635."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-21",
+                "unstructured": "Pietroni, N., Tarini, M., Sorkine, O., and Zorin, D. 2011. Global parametrization of range image sets.ACM Trans. Graph., 149:1--149:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-22",
+                "unstructured": "Purnomo, B., Cohen, J. D., and Kumar, S. 2004. Seamless texture atlases. InProc. of Symp. on Geom. Proc., ACM, 65--74.",
+                "DOI": "10.1145/1057432.1057441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-23",
+                "unstructured": "Ray, N., Nivoliers, V., Lefebvre, S., and Levy, B. 2010. Invisible Seams.Comput. Graph. Forum.",
+                "DOI": "10.1111/j.1467-8659.2010.01746.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-24",
+                "unstructured": "Sander, P. V., Snyder, J., Gortler, S. J., and Hoppe, H. 2001. Texture mapping progressive meshes. InProc. of SIGGRAPH '01, ACM, New York, NY, USA, 409--416.",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-25",
+                "unstructured": "Sander, P. V., Wood, Z. J., Gortler, S. J., Snyder, J., and Hoppe, H. 2003. Multi-chart geometry images. InProc. of Symp. on Geom. Proc., SGP '03, 146--155."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-26",
+                "unstructured": "Sheffer, A., Praun, E., and Rose, K. 2006. Mesh parameterization methods and their applications.Foundations and Trends&#174; in Computer Graphics and Vision 2, 2, 105--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-27",
+                "unstructured": "Tarini, M., Hormann, K., Cignoni, P., and Montani, C. 2004. Polycube-maps.ACM Trans. Graph. 23, 853--860."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-28",
+                "unstructured": "Tarini, M., Puppo, E., Panozzo, D., Pietroni, N., and Cignoni, P. 2011. Simple quad domains for field aligned mesh parametrization.ACM Trans. Graph. 30, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-29",
+                "unstructured": "Tarini, M. 2012. Cylindrical and toroidal parameterizations without vertex seams.Journal of Graphics Tools 16, 3, 144--150."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-30",
+                "unstructured": "Xia, J., Garcia, I., He, Y., Xin, S., and Patow, G. 2011. Editable polycube map for gpu-based subdivision surfaces. InSymp. on interactive 3D graphics and games, ACM, 151--158.",
+                "DOI": "10.1145/1944745.1944771",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-31",
+                "unstructured": "Yuksel, C., Keyser, J., and House, D. H. 2010. Mesh colors.ACM Trans. Grap. 29, 2, 15:1--15:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-32",
+                "unstructured": "Zhang, L., Liu, L., Gotsman, C., and Huang, H. 2010. Mesh reconstruction by meshless denoising and parameterization.Computers &#38; Graphics 34, 3, 198--208."
+            },
+            {
+                "key": "key-10.1145/2897824.2925898-33",
+                "unstructured": "Zhou, K., Synder, J., Guo, B., and Shum, H.-Y. 2004. Iso-charts: stretch-driven mesh parameterization using spectral analysis. InProc. of Symp. on Geom. Proc, ACM, SGP'04, 45--54.",
+                "DOI": "10.1145/1057432.1057439",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925898&amp;ftid=1755914&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:21Z",
+            "timestamp": 1568162781000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925898",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

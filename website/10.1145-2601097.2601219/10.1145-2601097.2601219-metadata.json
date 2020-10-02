@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:49Z",
+            "timestamp": 1575507229267
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001824",
+                "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "P202-13-26189S"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007397",
+                "name": "Univerzita Karlova v Praze",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "GA UK 1362413, SVV-2014-260103"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601219",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "Unifying points, beams, and paths in volumetric light transport simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Iliyan",
+                "family": "Georgiev",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Toshiya",
+                "family": "Hachisuka",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Petr",
+                "family": "V\u00e9voda",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Martin",
+                "family": "\u0160ik",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Derek",
+                "family": "Nowrouzezahrai",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Wojciech",
+                "family": "Jarosz",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601219-1",
+                "unstructured": "Arvo, J., and Kirk, D. 1990. Particle transport and image synthesis. InProc. of SIGGRAPH '90, ACM, New York, NY.",
+                "DOI": "10.1145/97879.97886",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-2",
+                "unstructured": "Arvo, J. 1993. Transfer functions in global illumination. InACM SIGGRAPH 93 Course Notes - Global Illumination."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-3",
+                "unstructured": "Banerjee, K. 2010.Kernel Density Estimator Methods for Monte Carlo Radiation Transport. PhD thesis, University of Michigan."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-4",
+                "unstructured": "Davidovi&#269;, T., and Georgiev, I., 2012. SmallVCM. http://www.smallvcm.com/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-5",
+                "unstructured": "D'Eon, E., and Irving, G. 2011. A quantized-diffusion model for rendering translucent materials.ACM Trans. Graph. (Proc. of SIGGRAPH) 30, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-6",
+                "unstructured": "Dunn, K., and Wilson, P. 2012. Kernel density estimators for Monte Carlo tallies on unstructured meshes.Transactions of the American Nuclear Society 107, 490--493."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-7",
+                "unstructured": "Georgiev, I., K&#345;iv&#225;nek, J., Davidovi&#269;, T., and Slusallek, P. 2012. Light transport simulation with vertex connection and merging.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 31, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-8",
+                "unstructured": "Georgiev, I., K&#345;iv&#225;nek, J., Hachisuka, T., Nowrouzezahrai, D., and Jarosz, W. 2013. Joint importance sampling of low-order volumetric scattering.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 32, 6 (Nov.).",
+                "DOI": "10.1145/2508363.2508411",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-9",
+                "unstructured": "Gkioulekas, I., Zhao, S., Bala, K., Zickler, T., and Levin, A. 2013. Inverse volume rendering with material dictionaries.ACM Trans. Graph. 32, 6 (Nov.), 162:1--162:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-10",
+                "unstructured": "Hachisuka, T., Ogaki, S., and Jensen, H. W. 2008. Progressive photon mapping.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 27, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-11",
+                "unstructured": "Hachisuka, T., Pantaleoni, J., and Jensen, H. W. 2012. A path space extension for robust light transport simulation.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 31, 6 (Nov.).",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-12",
+                "unstructured": "Hachisuka, T., Kaplanyan, A. S., and Dachsbacher, C. 2014. Multiplexed Metropolis light transport.ACM Trans. Graph. (Proc. of SIGGRAPH 2014) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-13",
+                "unstructured": "Immel, D. S., Cohen, M. F., and Greenberg, D. P. 1986. A radiosity method for non-diffuse environments.ACM SIGGRAPH Computer Graphics 20, 4, 133--142.",
+                "DOI": "10.1145/15886.15901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-14",
+                "unstructured": "Jarosz, W., Zwicker, M., and Jensen, H. W. 2008. The beam radiance estimate for volumetric photon mapping.Computer Graphics Forum (Proc. of Eurographics) 27, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-15",
+                "unstructured": "Jarosz, W., Nowrouzezahrai, D., Sadeghi, I., and Jensen, H. W. 2011. A comprehensive theory of volumetric radiance estimation using photon points and beams.ACM Trans. Graph. 30, 1, 5:1--5:19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-16",
+                "unstructured": "Jarosz, W., Nowrouzezahrai, D., Thomas, R., Sloan, P.-P., and Zwicker, M. 2011. Progressive photon beams.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 30, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-17",
+                "unstructured": "Jensen, H. W., and Christensen, P. H. 1998. Efficient simulation of light transport in scenes with participating media using photon maps. InProc. of SIGGRAPH '98.",
+                "DOI": "10.1145/280814.280925",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-18",
+                "unstructured": "Jensen, H. W. 1996. Global illumination using photon maps. InProc. of Eurographics Rendering Workshop.",
+                "DOI": "10.1007/978-3-7091-7484-5_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-19",
+                "unstructured": "Kajiya, J. T. 1986. The rendering equation. InComputer Graphics (Proc. of SIGGRAPH).",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-20",
+                "unstructured": "Knaus, C., and Zwicker, M. 2011. Progressive photon mapping: A probabilistic approach.ACM Transactions on Graphics 30, 3.",
+                "DOI": "10.1145/1966394.1966404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-21",
+                "unstructured": "Lafortune, E. P., and Willems, Y. D. 1993. Bi-directional path tracing. InCompugraphics '93."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-22",
+                "unstructured": "Lafortune, E. P., and Willems, Y. D. 1996. Rendering participating media with bidirectional path tracing. InProc. of the Eurographics Workshop on Rendering.",
+                "DOI": "10.1007/978-3-7091-7484-5_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-23",
+                "unstructured": "MacMillan, D. B. 1966. Comparison of statistical estimators for neutron Monte Carlo calculations.Nuclear Science and Engineering 26, 3 (Nov.), 366--372."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-24",
+                "unstructured": "Nov&#225;k, J., Nowrouzezahrai, D., Dachsbacher, C., and Jarosz, W. 2012. Progressive virtual beam lights.Proc. of Eurographics Symposium on Rendering 31, 4 (June).",
+                "DOI": "10.1111/j.1467-8659.2012.03136.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-25",
+                "unstructured": "Nov&#225;k, J., Nowrouzezahrai, D., Dachsbacher, C., and Jarosz, W. 2012. Virtual ray lights for rendering scenes with participating media.ACM Trans. Graph. (Proc. of SIGGRAPH) 31, 4 (July).",
+                "DOI": "10.1145/2185520.2185556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-26",
+                "unstructured": "Pauly, M., Kollig, T., and Keller, A. 2000. Metropolis light transport for participating media. InRendering Techniques (Proc. of Eurographics Workshop on Rendering).",
+                "DOI": "10.1007/978-3-7091-6303-0_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-27",
+                "unstructured": "Spanier, J., and Gelbard, E. M. 1969.Monte Carlo principles and neutron transport problems. Addison-Wesley.",
+                "DOI": "10.1063/1.3022338",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-28",
+                "unstructured": "Spanier, J. 1966. Two pairs of families of estimators for transport problems.SIAM Journal on Applied Mathematics 14, 4, 702--713.",
+                "DOI": "10.1137/0114059",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-29",
+                "unstructured": "Veach, E., and Guibas, L. 1994. Bidirectional estimators for light transport. InProc. of Eurographics Rendering Workshop.",
+                "DOI": "10.1007/978-3-642-87825-1_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-30",
+                "unstructured": "Veach, E., and Guibas, L. J. 1995. Optimally combining sampling techniques for Monte Carlo rendering. InProc. of SIGGRAPH '95.",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-31",
+                "unstructured": "Veach, E. 1997.Robust Monte Carlo methods for light transport simulation. PhD thesis, Stanford, CA, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601219-32",
+                "unstructured": "Vorba, J. 2011. Bidirectional photon mapping. InProc. of the Central European Seminar on Computer Graphics (CESCG '11)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601219&amp;ftid=1488911&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:27Z",
+            "timestamp": 1565663727000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601219",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

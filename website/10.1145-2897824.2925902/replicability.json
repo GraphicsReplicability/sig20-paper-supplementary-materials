@@ -1,0 +1,76 @@
+{
+    "Timestamp": "1/14/2020 10:11:34",
+    "Title": "Fast approximations for boundary element based brittle fracture simulation",
+    "DOI": "10.1145/2897824.2925902",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/david-hahn/FractureRB",
+    "code URL  2": "",
+    "PDF URL": "http://pub.ist.ac.at/group_wojtan/projects/2016_Hahn_FastFracture/download/2016_Hahn_FastFracture.pdf",
+    "License type": "GPL",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 1,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Physical Simulation",
+    "ACM 2": "Integral Equations",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I was unable to compile. I fixed the CMakeLists to include HyENA (provided as a .so library) and openvdb as well as zlib, tbb and eigen properly, so configuration works. However the version of openvdb is not compatible: MeshToVolume is not a type anymore in openvdb and I was not able to find the corresponding type (FractureRB/src/VDBWrapper.cpp:78:16: error: \u2018MeshToVolume\u2019 is not a member of \u2018openvdb::v5_0::tools\u2019).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 11,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Openvdb/eigen/zlib/tbb/HyENA",
+    "Project URL": "http://pub.ist.ac.at/group_wojtan/projects/2016_Hahn_FastFracture/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "David",
+            "family": "Hahn",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        },
+        {
+            "given": "Chris",
+            "family": "Wojtan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

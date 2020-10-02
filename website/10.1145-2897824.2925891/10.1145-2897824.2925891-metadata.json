@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:00:59Z",
+            "timestamp": 1574816459058
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925891",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Time-varying weathering in texture space"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Rachele",
+                "family": "Bellini",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Yanir",
+                "family": "Kleiman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925891-1",
+                "unstructured": "Aoki, K., Dong, N. H., Kaneko, T., and Kuriyama, S. 2004. Physically based simulation of cracks on drying 3d solids. InComputer Graphics International, 2004. Proceedings, IEEE, 357--364.",
+                "DOI": "10.1109/CGI.2004.1309233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-2",
+                "unstructured": "Bandeira, D., and Walter, M. 2009. Synthesis and transfer of time-variant material appearance on images. InComputer Graphics and Image Processing (SIBGRAPI), 2009 XXII Brazilian Symposium on, IEEE, 32--39.",
+                "DOI": "10.1109/SIBGRAPI.2009.38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-3",
+                "unstructured": "Becket, W., and Badler, N. I. 1990. Imperfection for realistic image synthesis.The Journal of Visualization and Computer Animation 1, 1, 26--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-4",
+                "unstructured": "Bosch, C., Laffont, P.-Y., Rushmeier, H., Dorsey, J., and Drettakis, G. 2011. Image-guided weathering: A new approach applied to flow phenomena.ACM Transactions on Graphics 30, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-5",
+                "unstructured": "Chen, Y., Xia, L., Wong, T.-T., Tong, X., Bao, H., Guo, B., and Shum, H.-Y. 2005. Visual simulation of weathering by &#947;-ton tracing. InACM Transactions on Graphics (TOG), vol. 24, ACM, 1127--1133."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-6",
+                "unstructured": "Dekel, T., Michaeli, T., Irani, M., and Freeman, W. T. 2015. Revealing and modifying non-local variations in a single image.ACM Transactions on Graphics (TOG) 34, 6, 227."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-7",
+                "unstructured": "Desbenoit, B., Galin, E., and Akkouche, S. 2004. Simulating and modeling lichen growth. InComputer Graphics Forum, vol. 23, Wiley Online Library, 341--350.",
+                "DOI": "10.1111/j.1467-8659.2004.00765.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-8",
+                "unstructured": "Doll&#225;r, P. Piotr's Computer Vision Matlab Toolbox (PMT). http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-9",
+                "unstructured": "Dong, Y., Tong, X., Pellacini, F., and Guo, B. 2011. Appgen: interactive material modeling from a single image. InACM Transactions on Graphics (TOG), vol. 30, ACM, 146.",
+                "DOI": "10.1145/2024156.2024180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-10",
+                "unstructured": "Dorsey, J., and Hanrahan, P. 2006. Modeling and rendering of metallic patinas. InACM SIGGRAPH 2006 Courses, ACM, 2.",
+                "DOI": "10.1145/1185657.1185722",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-11",
+                "unstructured": "Dorsey, J., Pedersen, H. K., and Hanrahan, P. 2005. Flow and changes in appearance. InACM SIGGRAPH 2005 Courses, ACM, 3.",
+                "DOI": "10.1145/1198555.1198696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-12",
+                "unstructured": "Efros, A. A., and Freeman, W. T. 2001. Image quilting for texture synthesis and transfer. InProceedings of the 28th annual conference on Computer graphics and interactive techniques, ACM, 341--346.",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-13",
+                "unstructured": "Georghiades, A. S., Lu, J., Xu, C., Dorsey, J., and Rushmeier, H. 2005. Observing and transferring material histories.Technical Report 1329."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-14",
+                "unstructured": "Hsu, S.-c., and Wong, T.-t. 1995. Simulating dust accumulation.Computer Graphics and Applications, IEEE 15, 1, 18--22."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-15",
+                "unstructured": "Iben, H. N., and O'Brien, J. F. 2009. Generating surface crack patterns.Graphical Models 71, 6, 198--208."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-16",
+                "unstructured": "Kaspar, A., Neubert, B., Lischinski, D., Pauly, M., and Kopf, J. 2015. Self tuning texture optimization. InComputer Graphics Forum, vol. 34, Wiley Online Library, 349--359.",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-17",
+                "unstructured": "Lu, J., Georghiades, A. S., Glaser, A., Wu, H., Wei, L.-Y., Guo, B., Dorsey, J., and Rushmeier, H. 2007. Context-aware textures.ACM Transactions on Graphics (TOG) 26, 1, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-18",
+                "unstructured": "Lu, J., Dorsey, J., and Rushmeier, H. 2009. Dominant texture and diffusion distance manifolds. InComputer Graphics Forum, vol. 28, Wiley Online Library, 667--676.",
+                "DOI": "10.1111/j.1467-8659.2009.01407.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-19",
+                "unstructured": "Merillou, S., Dischler, J.-M., and Ghazanfarpour, D. 2001. Corrosion: simulating and rendering. InGraphics interface, vol. 2001, 167--174."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-20",
+                "unstructured": "Mukai, N., Sakaguchi, Y., Shigeoka, H., and Kosugi, M. 2003. A method for generating texture images used on landscape simulation. MODSIM."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-21",
+                "unstructured": "Paquette, E., Poulin, P., and Drettakis, G. 2002. The simulation of paint cracking and peeling. InProceedings of Graphics Interface, Canadian Human-Computer Communications Society, 10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-22",
+                "unstructured": "Pellacini, F., and Lawrence, J. 2007. Appwand: editing measured materials using appearance-driven optimization. InACM Transactions on Graphics (TOG), vol. 26, ACM, 54.",
+                "DOI": "10.1145/1275808.1276444",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-23",
+                "unstructured": "Valette, G., Pr&#233;vost, S., Lucas, L., and L&#233;onard, J. 2008. A dynamic model of cracks development based on a 3d discrete shrinkage volume propagation. InComputer Graphics Forum, vol. 27, Wiley Online Library, 47--62."
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-24",
+                "unstructured": "Wang, J., Tong, X., Lin, S., Pan, M., Wang, C., Bao, H., Guo, B., and Shum, H.-Y. 2006. Appearance manifolds for modeling time-variant appearance of materials. InACM Transactions on Graphics (TOG), vol. 25, ACM, 754--761.",
+                "DOI": "10.1145/1179352.1141951",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-25",
+                "unstructured": "Wong, T.-T., Ng, W.-Y., and Heng, P.-A. 1997. A geometry dependent texture generation framework for simulating surface imperfections. InRendering Techniques' 97. Springer, 139--150.",
+                "DOI": "10.1007/978-3-7091-6858-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-26",
+                "unstructured": "Xue, S., Wang, J., Tong, X., Dai, Q., and Guo, B. 2008. Image-based material weathering. InComputer Graphics Forum, vol. 27, Wiley Online Library, 617--626.",
+                "DOI": "10.1111/j.1467-8659.2008.01159.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925891-27",
+                "unstructured": "Xue, S., Dorsey, J., and Rushmeier, H. 2011. Stone weathering in a photograph. InComputer Graphics Forum, vol. 30, Wiley Online Library, 1189--1196.",
+                "DOI": "10.1111/j.1467-8659.2011.01977.x",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925891&amp;ftid=1755868&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T18:12:51Z",
+            "timestamp": 1498327971000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925891",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

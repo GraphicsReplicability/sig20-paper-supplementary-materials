@@ -1,0 +1,125 @@
+{
+    "Timestamp": "1/15/2020 20:17:07",
+    "Title": "StyLit: illumination-guided example-based stylization of 3D renderings",
+    "DOI": "10.1145/2897824.2925948",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Cannot answer",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "http://stylit.org/dl/stylit-demo.zip",
+    "code URL  2": "",
+    "PDF URL": "https://dcgi.fel.cvut.cz/home/sykorad/Fiser16-SIG.pdf",
+    "License type": "custom",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "None",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Non-photorealistic rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Very intuitive and impressive results. My camera was not listed, so I used the screen capture mode and launched a webcam application on the side, with the StyLit capturing the webcam stream from the other application -- that worked.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 47,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://dcgi.fel.cvut.cz/home/sykorad/stylit",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Binary",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Jakub",
+            "family": "Fi\u0161er",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Czech Technical University in Prague"
+                }
+            ]
+        },
+        {
+            "given": "Ond\u0159ej",
+            "family": "Jamri\u0161ka",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Czech Technical University in Prague"
+                }
+            ]
+        },
+        {
+            "given": "Michal",
+            "family": "Luk\u00e1\u010d",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Czech Technical University in Prague"
+                }
+            ]
+        },
+        {
+            "given": "Eli",
+            "family": "Shechtman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Paul",
+            "family": "Asente",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Jingwan",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "S\u00fdkora",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Czech Technical University in Prague"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

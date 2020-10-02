@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808426
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201319",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Reconstructing scenes with mirror and glass surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Whelan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Goesele",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs and TU Darmstadt"
+                    }
+                ]
+            },
+            {
+                "given": "Steven J.",
+                "family": "Lovegrove",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Julian",
+                "family": "Straub",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Simon",
+                "family": "Green",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Richard",
+                "family": "Szeliski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "Butterfield",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Shobhit",
+                "family": "Verma",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Richard",
+                "family": "Newcombe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201319-1",
+                "unstructured": "Sameer Agarwal, Keir Mierle, and Others. 2018. Ceres Solver, http://ceres-solver.org. (2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-2",
+                "unstructured": "N. Arvanitopoulos, R. Achanta, and S. S&#252;sstrunk. 2017. Single Image Reflection Suppression. InCVPR 2017.1752--1760.",
+                "DOI": "10.1109/CVPR.2017.190",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-3",
+                "unstructured": "J. Balzer, D. Acevedo-Feliz, S. Soatto, S. H&#246;fer, M. Hadwiger, and J. Beyerer. 2014. Cavlectometry: Towards Holistic Reconstruction of Large Mirror Objects. In2nd International Conference on 3D Vision (3DV).448--455.",
+                "DOI": "10.1109/3DV.2014.85",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-4",
+                "unstructured": "J. Balzer, S. H&#246;fer, and J. Beyerer. 2011. Multiview specular stereo reconstruction of large mirror surfaces. InCVPR 2011.2537--2544.",
+                "DOI": "10.1109/CVPR.2011.5995346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-5",
+                "unstructured": "L. G. Brown. 1992. A Survey of Image Registration Techniques.Computing Surveys24, 4 (December 1992), 325--376.",
+                "DOI": "10.1145/146370.146374",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-6",
+                "unstructured": "Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Niessner, Manolis Savva, Shuran Song, Andy Zeng, and Yinda Zhang. 2017. Matterport3D: Learning from RGB-D Data in Indoor Environments. In5th International Conference on 3D Vision (3DV).",
+                "DOI": "10.1109/3DV.2017.00081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-7",
+                "unstructured": "Tongbo Chen, Michael Goesele, and Hans-Peter Seidel. 2006. Mesostructure from Specularity. InCVPR 2006, Vol. 2. 1825--1832."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-8",
+                "unstructured": "Angela Dai, Angel X. Chang, Manolis Savva, Maciej Halber, Thomas Funkhouser, and Matthias Nie&#223;ner. 2017. ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes. InProc. Computer Vision and Pattern Recognition (CVPR), IEEE.",
+                "DOI": "10.1109/CVPR.2017.261",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-9",
+                "unstructured": "A. DelPozo and S. Savarese. 2007. Detecting Specular Surfaces on Natural Images. InCVPR 2007.",
+                "DOI": "10.1109/CVPR.2007.383215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-10",
+                "unstructured": "Yuanyuan Ding and Jingyi Yu. 2008. Recovering shape characteristics on near-flat specular surfaces. InCVPR 2008.",
+                "DOI": "10.1109/CVPR.2008.4587774",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-11",
+                "unstructured": "J. Engel, V. Koltun, and D. Cremers. 2018. Direct Sparse Odometry.PAMI40, 3 (2018), 611--625.",
+                "DOI": "10.1109/TPAMI.2017.2658577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-12",
+                "unstructured": "A. Fasano, M. Callieri, P. Cignoni, and R. Scopigno. 2003. Exploiting mirrors for laser stripe 3D scanning. In3DIM 2003.243--250."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-13",
+                "unstructured": "Paul Foster, Zhenghong Sun, Jong Jin Park, and Benjamin Kuipers. 2013. VisAGGE: Visible angle grid for glass environments. InCVPR 2013.2213--2220.",
+                "DOI": "10.1109/ICRA.2013.6630875",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-14",
+                "unstructured": "C. Godard, P. Hedman, W. Li, and G. J. Brostow. 2015. Multi-view Reconstruction of Highly Specular Surfaces in Uncontrolled Environments. In3rd International Conference on 3D Vision (3DV).19--27.",
+                "DOI": "10.1109/3DV.2015.10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-15",
+                "unstructured": "Ivo Ihrke, Kiriakos N. Kutulakos, Hendrik P. A. Lensch, Marcus Magnor, and Wolfgang Heidrich. 2010. Transparent and Specular Object Reconstruction.Computer Graphics Forum29, 8 (2010), 2400--2426.",
+                "DOI": "10.1111/j.1467-8659.2010.01753.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-16",
+                "unstructured": "B. Jacquet, C. H&#228;ne, K. K&#246;ser, and M. Pollefeys. 2013. Real-World Normal Map Capture for Nearly Flat Reflective Surfaces. InCVPR 2013.713--720.",
+                "DOI": "10.1109/ICCV.2013.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-17",
+                "unstructured": "Jun Jiang, Renato Miyagusuku, Atsushi Yamashita, and Hajime Asama. 2017. Glass Confidence Maps Building Based on Neural Networks Using Laser Range-Finders for Mobile Robots. InIEEE/SICE International Symposium on System Integration.",
+                "DOI": "10.1109/SII.2017.8279246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-18",
+                "unstructured": "O. K&#228;hler, V. Adrian Prisacariu, C. Yuheng Ren, X. Sun, P. Torr, and D. Murray. 2015. Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices.TVCG21, 11 (Nov 2015), 1241--1250.",
+                "DOI": "10.1109/TVCG.2015.2459891",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-19",
+                "unstructured": "J. Kannala and S. S. Brandt. 2006. A generic camera model and calibration method for conventional, wide-angle, and fish-eye lenses.PAMI28, 8 (Aug 2006), 1335--1340.",
+                "DOI": "10.1109/TPAMI.2006.153",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-20",
+                "unstructured": "P.-F. K&#228;shammer and A. N&#252;chter. 2015. Mirror identification and correction of 3D point clouds.The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences40, 5 (2015), 109."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-21",
+                "unstructured": "U Klank, D. Carton, and M. Beetz. 2011. Transparent object detection and reconstruction on a mobile platform. InICRA 2011.5971--5978.",
+                "DOI": "10.1109/ICRA.2011.5979793",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-22",
+                "unstructured": "Rainer Koch, Stefan May, Patrick Murmann, and Andreas N&#252;chter. 2017b. Identification of Transparent and Specular Reflective Material in Laser Scans to Discriminate Affected Measurements for Faultless Robotic SLAM.Journal of Robotics and Autonomous Systems (JRAS)87 (2017), 296--312.",
+                "DOI": "10.1016/j.robot.2016.10.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-23",
+                "unstructured": "R. Koch, S. May, and A. N&#252;chter. 2017a. Effective distinction of transparent and specular reflective objects in point clouds of a multi-echo laser scanner. InICAR 2017.566--571.",
+                "DOI": "10.1109/ICAR.2017.8023667",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-24",
+                "unstructured": "Brian Kulis and Michael I. Jordan. 2011. Revisiting k-means: New algorithms via Bayesian nonparametrics.arXiv preprint arXiv.1111.0352(2011)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-25",
+                "unstructured": "J. P. Lewis. 1995. Fast Normalized Cross-Correlation. InVision Interface '95.Canadian Image Processing and Pattern Recognition Society."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-26",
+                "unstructured": "M. Liu, R. Hartley, and M. Salzmann. 2015. Mirror Surface Reconstruction from a Single Image.PAMI 37, 4 (April 2015), 760--773.",
+                "DOI": "10.1109/TPAMI.2014.2353622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-27",
+                "unstructured": "William E. Lorensen and Harvey E. Cline. 1987. Marching cubes: A high resolution 3D surface construction algorithm. InSIGGRAPH.ACM, 163--169.",
+                "DOI": "10.1145/37401.37422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-28",
+                "unstructured": "D. Miyazaki, M. Kagesawa, and K. Ikeuchi. 2004. Transparent surface modeling from a pair of polarization images.PAMI26, 1 (2004), 73--82.",
+                "DOI": "10.1109/TPAMI.2004.1261080",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-29",
+                "unstructured": "R. Mur-Artal, J. M. M. Montiel, and J. D. Tard&#243;s. 2015. ORB-SLAM: A Versatile and Accurate Monocular SLAM System.IEEE Transactions on Robotics31, 5 (Oct 2015), 1147--1163.",
+                "DOI": "10.1109/TRO.2015.2463671",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-30",
+                "unstructured": "R. A. Newcombe, S. Izadi, O. Hilliges, D. Molyneaux, D. Kim, A. J. Davison, P. Kohi, J. Shotton, S. Hodges, and A. Fitzgibbon. 2011. KinectFusion: Real-time dense surface mapping and tracking. InISMAR 2011.127--136.",
+                "DOI": "10.1109/ISMAR.2011.6162880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-31",
+                "unstructured": "Matthias Nie&#223;ner, Michael Zollh&#246;fer, Shahram Izadi, and Marc Stamminger. 2013. Real-time 3D Reconstruction at Scale Using Voxel Hashing.ACM Trans. Graph.32, 6, Article 169 (Nov. 2013), 11 pages.",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-32",
+                "unstructured": "Edwin Olson. 2011. AprilTag: A robust and flexible visual fiducial system. InICRA 2011.3400--3407.",
+                "DOI": "10.1109/ICRA.2011.5979561",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-33",
+                "unstructured": "Rui Rodrigues, Jo&#227;o P. Barreto, and Urbano Nunes. 2010. Camera Pose Estimation Using Images of Planar Mirror Reflections. InECCV 2010.382--395.",
+                "DOI": "10.1007/978-3-642-15561-1_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-34",
+                "unstructured": "YiChang Shih, D. Krishnan, F. Durand, and W. T. Freeman. 2015. Reflection removal using ghosting cues. InCVPR 2015.3193--3201.",
+                "DOI": "10.1109/CVPR.2015.7298939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-35",
+                "unstructured": "Sudipta N. Sinha, Johannes Kopf, Michael Goesele, Daniel Scharstein, and Richard Szeliski. 2012. Image-based Rendering for Scenes with Reflections.ACM Trans. Graph.31, 4, Article 100 (July 2012), 10 pages.",
+                "DOI": "10.1145/2185520.2335451",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-36",
+                "unstructured": "Julian Straub, Trevor Campbell, Jonathan P How, and John W Fisher. 2015. Small-variance nonparametric clustering on the hypersphere. InCVPR 2015.334--342.",
+                "DOI": "10.1109/CVPR.2015.7298630",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-37",
+                "unstructured": "Marco Tarini, Hendrik P.A. Lensch, Michael Goesele, and Hans-Peter Seidel. 2005. 3D acquisition of mirroring objects using striped patterns.Graphical Models67, 4 (2005), 233 -- 259.",
+                "DOI": "10.1016/j.gmod.2004.11.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-38",
+                "unstructured": "Markus Unger, Thomas Pock, and Horst Bischof. 2008a.Interactive globally optimal image segmentation.Technical Report ICG-TR-08/02. Graz University of Technology."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-39",
+                "unstructured": "Markus Unger, Thomas Pock, Werner Trobin, Daniel Cremers, and Horst Bischof. 2008b. TVSeg - Interactive Total Variation Based Image Segmentation. InBMVC 2008.",
+                "DOI": "10.5244/C.22.40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-40",
+                "unstructured": "J. Wang and E. Olson. 2016. AprilTag 2: Efficient and robust fiducial detection. InIROS 2016.4193--4198.",
+                "DOI": "10.1109/IROS.2016.7759617",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-41",
+                "unstructured": "Qiaosong Wang, Haiting Lin, Yi Ma, Sing Bing Kang, and Jingyi Yu. 2015. Automatic Layer Separation using Light Field Imaging.CoRRabs/1506.04721 (2015). arXiv:1506.04721 http://arxiv.org/abs/1506.04721"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-42",
+                "unstructured": "Sven Wanner and Bastian Goldluecke. 2013. Reconstructing Reflective and Transparent Surfaces from Epipolar Plane Images. InGCPR 2013.",
+                "DOI": "10.1007/978-3-642-40602-7_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-43",
+                "unstructured": "Tianfan Xue, Michael Rubinstein, Ce Liu, and William T. Freeman. 2015. A computational approach for obstruction-free photography.ACM Trans. Graph.34, 4 (2015), 79:1--79:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-44",
+                "unstructured": "Shao-Wen Yang and Chieh-Chih Wang. 2008. Dealing with laser scanner failure: Mirrors and windows. InICRA 2008.3009--3015.",
+                "DOI": "10.1109/ROBOT.2008.4543667",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-45",
+                "unstructured": "S. W Yang and C. C. Wang. 2011. On Solving Mirror Reflection in LIDAR Sensing.IEEE/ASME Transactions on Mechatronics16, 2 (April 2011), 255--265.",
+                "DOI": "10.1109/TMECH.2010.2040113",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-46",
+                "unstructured": "Y. Zhang, M. Ye, D. Manocha, and R. Yang. 2017. 3D Reconstruction in the Presence of Glass and Mirrors by Acoustic and Visual Fusion.PAMI(2017).",
+                "DOI": "10.1109/TPAMI.2017.2723883",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201319-47",
+                "unstructured": "Zhengyou Zhang. 2000. A Flexible New Technique for Camera Calibration.PAMI22, 11 (Nov. 2000), 1330--1334.",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201319&ftid=1991680&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:53:24Z",
+            "timestamp": 1571673204000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201319",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

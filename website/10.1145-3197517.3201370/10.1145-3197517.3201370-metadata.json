@@ -1,0 +1,374 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:05Z",
+            "timestamp": 1574859845863
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002241",
+                "name": "Japan Science and Technology Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CREST JPMJCR14D1, ACT-I JPMJPR16UD, ACT-I JPMJPR16U3"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201370",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Real-time data-driven interactive rough sketch inking"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Edgar",
+                "family": "Simo-Serra",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Satoshi",
+                "family": "Iizuka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hiroshi",
+                "family": "Ishikawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201370-1",
+                "unstructured": "Maher Ahmed and Rabab Ward. 2002. A rotation invariant rule-based thinning algorithm for character recognition.IEEE Transactions on Pattern Analysis and Machine Intelligence24, 12 (2002), 1672--1678.",
+                "DOI": "10.1109/TPAMI.2002.1114862",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-2",
+                "unstructured": "Seok-Hyung Bae, Ravin Balakrishnan, and Karan Singh. 2008. ILoveSketch: As-natural-as-possible Sketching System for Creating 3D Curve Models. InACM Symposium on User Interface Software and Technology.151--160.",
+                "DOI": "10.1145/1449715.1449740",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-3",
+                "unstructured": "Houssem Chatbri and Keisuke Kameyama. 2014. Using scale space filtering to make thinning algorithms robust against noise in sketch images.Pattern Recognition Letters42 (2014), 1--10.",
+                "DOI": "10.1016/j.patrec.2014.01.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-4",
+                "unstructured": "Jiazhou Chen, Ga&#235;l Guennebaud, Pascal Barla, and Xavier Granier. 2013. Non-Oriented MLS Gradient Fields.Computer Graphics Forum32, 8 (2013), 98--109.",
+                "DOI": "10.1111/cgf.12164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-5",
+                "unstructured": "David H Douglas and Thomas K Peucker. 1973. Algorithms for the reduction of the number of points required to represent a digitized line or its caricature.Cartographica: The International Journal for Geographic Information and Geovisualization10, 2 (1973), 112--122.",
+                "DOI": "10.3138/FM57-6770-U75U-7727",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-6",
+                "unstructured": "Charles R Dyer and Azriel Rosenfeld. 1979. Thinning algorithms for gray-scale pictures.IEEE Transactions on Pattern Analysis and Machine Intelligence1 (1979), 88--89."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-7",
+                "unstructured": "Mathias Eitz, James Hays, and Marc Alexa. 2012. How Do Humans Sketch Objects?ACM Transactions on Graphics (Proceedings of SIGGRAPH)31, 4 (2012), 44:1--44:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-8",
+                "unstructured": "Jean-Dominique Favreau, Florent Lafarge, and Adrien Bousseau. 2016. Fidelity vs. Simplicity: a Global Approach to Line Drawing Vectorization.ACM Transactions on Graphics (Proceedings of SIGGRAPH)35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925946",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-9",
+                "unstructured": "Jakub Fi&#353;er, Paul Asente, Stephen Schiller, and Daniel S&#253;kora. 2015. ShipShape: A Drawing Beautification Assistant. InWorkshop on Sketch-Based Interfaces and Modeling.49--57."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-10",
+                "unstructured": "Cindy Grimm and Pushkar Joshi. 2012. Just Drawlt: A 3D Sketching System. Innternational Symposium on Sketch-Based Interfaces and Modeling.121--130."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-11",
+                "unstructured": "David Ha and Douglas Eck. 2018. A Neural Representation of Sketch Drawings. InInternational Conference on Learning Representations."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-12",
+                "unstructured": "Xavier Hilaire and Karl Tombre. 2006. Robust and accurate vectorization of line drawings.IEEE Transactions on Pattern Analysis and Machine Intelligence28, 6 (2006), 890--904.",
+                "DOI": "10.1109/TPAMI.2006.127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-13",
+                "unstructured": "Takeo Igarashi, Satoshi Matsuoka, Sachiko Kawachiya, and Hidehiko Tanaka. 1997. Interactive Beautification: A Technique for Rapid Geometric Design. InACM Symposium on User Interface Software and Technology.105--114.",
+                "DOI": "10.1145/263407.263525",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-14",
+                "unstructured": "Sergey Ioffe and Christian Szegedy. 2015. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. InInternational Conference on Machine Learning."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-15",
+                "unstructured": "Jang and Roland T. Chin. 1990. Analysis of thinning algorithms using mathematical morphology.IEEE Transactions on Pattern Analysis and Machine Intelligence12, 6 (1990), 541--551.",
+                "DOI": "10.1109/34.56190",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-16",
+                "unstructured": "Louisa Lam, Seong-Whan Lee, and Ching Y Suen. 1992. Thinning methodologies-a comprehensive survey.IEEE Transactions on Pattern Analysis and Machine Intelligence14, 9 (1992), 869--885.",
+                "DOI": "10.1109/34.161346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-17",
+                "unstructured": "David Lindlbauer, Michael Haller, Mark S. Hancock, Stacey D. Scott, and Wolfgang Stuerzlinger. 2013. Perceptual grouping: selection assistance for digital sketching. InInternational Conference on Interactive Tabletops and Surfaces.51--60.",
+                "DOI": "10.1145/2512349.2512801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-18",
+                "unstructured": "Xueting Liu, Tien-Tsin Wong, and Pheng-Ann Heng. 2015. Closure-aware Sketch Simplification.ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)34, 6 (2015), 168:1--168:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-19",
+                "unstructured": "Henry B Mann and Donald R Whitney. 1947. On a test of whether one of two random variables is stochastically larger than the other.The annals of mathematical statistics(1947), 50--60."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-20",
+                "unstructured": "Gary Martin, Steve Rude, and Terry Austin. 1997.The Art of Comic Book Inking.Dark Horse Comics."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-21",
+                "unstructured": "Ana Maria Mendonca and Aurelio Campilho. 2006. Segmentation of retinal blood vessels by combining the detection of centerlines and morphological reconstruction.IEEE Transactions on Medical Imaging25, 9 (2006), 1200--1213.",
+                "DOI": "10.1109/TMI.2006.879955",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-22",
+                "unstructured": "Vinod Nair and Geoffrey E Hinton. 2010. Rectified linear units improve restricted boltzmann machines. InInternational Conference on Machine Learning.807--814."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-23",
+                "unstructured": "Gioacchino Noris, Alexander Hornung, Robert W Sumner, Maryann Simmons, and Markus Gross. 2013. Topology-driven Vectorization of Clean Line Drawings.ACM Transactions on Graphics32, 1 (2013), 4:1--4:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-24",
+                "unstructured": "G&#252;nay Orbay and Levent Burak Kara. 2011. Beautification of Design Sketches Using Trainable Stroke Clustering and Curve Fitting.IEEE Transactions on Visualization and Computer Graphics17, 5 (2011), 694--708.",
+                "DOI": "10.1109/TVCG.2010.105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-25",
+                "unstructured": "Urs Ramer. 1972. An iterative procedure for the polygonal approximation of plane curves.Computer graphics and image processing1, 3 (1972), 244--256.",
+                "DOI": "10.1016/S0146-664X(72)80017-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-26",
+                "unstructured": "Patsorn Sangkloy, Jingwan Lu, Chen Fang, Fisher Yu, and James Hays. 2017. Scribbler: Controlling Deep Image Synthesis with Sketch and Color. InIEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2017.723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-27",
+                "unstructured": "Amit Shesh and Baoquan Chen. 2008. Efficient and Dynamic Simplification of Line Drawings.Computer Graphics Forum27, 2 (2008), 537--545.",
+                "DOI": "10.1111/j.1467-8659.2008.01151.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-28",
+                "unstructured": "Wenzhe Shi, Jose Caballero, Ferenc Husz&#225;r, Johannes Totz, Andrew P Aitken, Rob Bishop, Daniel Rueckert, and Zehan Wang. 2016. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. InIEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2016.207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-29",
+                "unstructured": "Edgar Simo-Serra, Satoshi Iizuka, and Hiroshi Ishikawa. 2018. Mastering Sketching: Adversarial Augmentation for Structured Prediction.ACM Transactions on Graphics37, 1 (2018).",
+                "DOI": "10.1145/3197517.3201370",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-30",
+                "unstructured": "Edgar Simo-Serra, Satoshi Iizuka, Kazuma Sasaki, and Hiroshi Ishikawa. 2016. Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup.ACM Transactions on Graphics (Proceedings of SIGGRAPH)35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-31",
+                "unstructured": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. 2014. Dropout: A Simple Way to Prevent Neural Networks from Overfitting.Journal of Machine Learning Research15 (2014), 1929--1958."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-32",
+                "unstructured": "Jonathan Tompson, Ross Goroshin, Arjun Jain, Yann LeCun, and Christoph Bregler. 2015. Efficient object localization using convolutional networks. InIEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2015.7298664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-33",
+                "unstructured": "Jun Xie, Holger Winnem&#246;ller, Wilmot Li, and Stephen Schiller. 2017. Interactive Vectorization. InACM CHI Conference on Human Factors in Computing Systems.",
+                "DOI": "10.1145/3025453.3025872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-34",
+                "unstructured": "Matthew D. Zeiler. 2012. ADADELTA: An Adaptive Learning Rate Method.arXiv preprint arXiv:1212.5701(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-35",
+                "unstructured": "Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S Lin, Tianhe Yu, and Alexei A Efros. 2017. Real-Time User-Guided Image Colorization with Learned Deep Priors.ACM Transactions on Graphics (Proceedings of SIGGRAPH)9, 4 (2017).",
+                "DOI": "10.1145/3072959.3073703",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201370-36",
+                "unstructured": "TY Zhang and Ching Y. Suen. 1984. A fast parallel algorithm for thinning digital patterns.Commun. ACM27, 3 (1984), 236--239.",
+                "DOI": "10.1145/357994.358023",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201370&ftid=1991736&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:17Z",
+            "timestamp": 1571673137000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201370",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

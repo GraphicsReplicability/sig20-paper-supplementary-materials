@@ -1,0 +1,78 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">A moving least squares material point method with displacement discontinuity and two-way rigid body coupling <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Yuanming <span class="family">Hu</span></li>
+<li> Yu <span class="family">Fang</span></li>
+<li> Ziheng <span class="family">Ge</span></li>
+<li> Ziyin <span class="family">Qu</span></li>
+<li> Yixin <span class="family">Zhu</span></li>
+<li> Andre <span class="family">Pradhana</span></li>
+<li> Chenfanfu <span class="family">Jiang</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201293">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.seas.upenn.edu/~cffjiang/research/mlsmpm/hu2018mlsmpm.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://yzhu.io/publication/mpm2018siggraph/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/yuanming-hu/taichi_mpm">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201293-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201293-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Animation</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 4</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: Commandline instructions in README</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   25</li>
+<li><span class="family">Reviewer</span>: 1</li>
+</ul><h2>Comments</h2><pre>An example is provided in file mls.mpm88 (which is particularly well explained) which is consistent with the paper result. Many other examples are provided in the scripts folder, however this requires installing taichi (a legacy branch) which fails (even after adding a -fpermissive option which suppressed some errors) with:
+"error: no match for ‘operator+=’ (operand types are ‘taichi::RigidBody<2>::InertiaType’ {aka ‘float’} and ‘taichi::MatrixND<2, float, taichi::InstSetExt::AVX2>’)" 
+
+Hence I was not able to reproduce other results using the provided scripts.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,5,4]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

@@ -1,0 +1,434 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    7
+                ]
+            ],
+            "date-time": "2020-01-07T06:44:30Z",
+            "timestamp": 1578379470036
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201284",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Creating and chaining camera moves for qadrotor videography"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ke",
+                "family": "Xie",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Shengqiu",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Christie",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ Rennes, INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and National University of Defense Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Minglun",
+                "family": "Gong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Memorial University of Newfoundland"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201284-1",
+                "unstructured": "Helmut Alt and Emo Welzl. 1988. Visibility graphs and obstacle-avoiding shortest paths.Mathematical Methods of Operations Research32, 3 (1988), 145--164.",
+                "DOI": "10.1007/BF01928918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-2",
+                "unstructured": "Olov Andersson, Mariusz Wzorek, and Patrick Doherty. 2017. Deep Learning Quad-copter Control via Risk-Aware Active Learning. InProc. AAAI Conf. on Artificial Intelligence, Vol. 5. 3812--3818."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-3",
+                "unstructured": "Carlos Gran And&#250;jar, Pere Pau Alcocer V&#225;zquez, and Marta Gonz&#225;lez Fair&#233;n. 2004. Way-Finder: Guided Tours Through Complex Walkthrough Models.Computer Graphics Forum (Proc. of Eurographics)23, 3 (2004), 499--508."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-4",
+                "unstructured": "William H. Bares, Somying Thainimit, and Scott McDermott. 2000. A Model for Constraint-based Camera Planning. InSmart Graphics AAAI Spring Symposium.84--91."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-5",
+                "unstructured": "Jim Blinn. 1988. Where am I? What am I looking at?IEEE Computer Graphics and Applications8, 4 (1988), 76--81.",
+                "DOI": "10.1109/38.7751",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-6",
+                "unstructured": "Luca Chittaro, Roberto Ranon, and Lucio Ieronutti. 2003. Guiding Visitors of Web3D Worlds Through Automatically Generated Tours. InProc. Conf. on 3D Web Technology.27--38.",
+                "DOI": "10.1145/636593.636598",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-7",
+                "unstructured": "Marc Christie and Patrick Olivier. 2009. Camera control in computer graphics: models, techniques and applications. InACM SIGGRAPH ASIA 2009 Courses.",
+                "DOI": "10.1145/1665817.1665820",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-8",
+                "unstructured": "Marc Christie, Patrick Olivier, and Jean-Marie Normand. 2008. Camera control in computer graphics.Computer Graphics Forum27, 8 (2008), 2197--2218.",
+                "DOI": "10.1111/j.1467-8659.2008.01181.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-9",
+                "unstructured": "T. J. Diaz. 2015. Lights, drone... action.IEEE Spectrum52, 7 (2015), 36--41.",
+                "DOI": "10.1109/MSPEC.2015.7131693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-10",
+                "unstructured": "Steven M Drucker and David Zeltzer. 1994. Intelligent camera control in a virtual environment. InProc. of Graphics Interface.190--190."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-11",
+                "unstructured": "Oliver Dunkley, Jakob Engel, J&#252;rgen Sturm, and Daniel Cremers. 2014. Visual-Inertial Navigation for a Camera-Equipped 25g Nano-Quadrotor. InAerial Open Source Robotics Workshop."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-12",
+                "unstructured": "Niklas Elmqvist, M. Eduard Tudoreanu, and Philippas Tsigas. 2007. Tour generation for exploration of 3D virtual environments. InProc. ACM symposium on Virtual reality software and technology.207--210.",
+                "DOI": "10.1145/1315184.1315224",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-13",
+                "unstructured": "Jiankun Fan. 2014.Optimal path planning and control of quadrotor unmanned aerial vehicle for area coverage.Ph.D. Dissertation. The University of Toledo."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-14",
+                "unstructured": "Julien Fleureau, Quentin Galvane, Francois-Louis Tariolle, and Philippe Guillotel. 2016. Generic Drone Control Platform for Autonomous Capture of Cinema Scenes. InProc. Workshop on Micro Aerial Vehicle Networks, Systems, and Applications for Civilian Use.35--40.",
+                "DOI": "10.1145/2935620.2935622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-15",
+                "unstructured": "Quentin Galvane, Marc Christie, R&#233;mi Ronfard, Chen-Kim Lim, and Marie-Paule Cani. 2013. Steering behaviors for autonomous cameras. InProc. Motion on Games.93--102.",
+                "DOI": "10.1145/2522628.2522899",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-16",
+                "unstructured": "Quentin Galvane, Julien Fleureau, Francois-Louis Tariolle, and Philippe Guillotel. 2016. Automated Cinematography with Unmanned Aerial Vehicles. InProc. Eurographics Workshop on Intelligent Cinematography and Editing.23--30."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-17",
+                "unstructured": "Christoph Gebhardt, Benjamin Hepp, Tobias N&#228;geli, Stefan Stev&#353;i&#263;, and Otmar Hilliges. 2016. Airways: Optimization-Based Planning of Quadrotor Trajectories According to High-Level User Goals. InProc. CHI Conf. on Human Factors in Computing Systems.2508--2519.",
+                "DOI": "10.1145/2858036.2858353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-18",
+                "unstructured": "Nicolas Halper, Ralf Helbing, and Thomas Strothotte. 2001. A Camera Engine for Computer Games: Managing the Trade-Off Between Constraint Satisfaction and Frame Coherence.Computer Graphics Forum (Proc. of Eurographics)20 (2001), 174--183. Issue 3."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-19",
+                "unstructured": "Li-Wei He, Michael F Cohen, and David H Salesin. 1996. The virtual cinematographer: a paradigm for automatic real-time camera control and directing. InProc. of SIGGRAPH.217--224."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-20",
+                "unstructured": "Keld Helsgaun. 2015. Solving the equality generalized traveling salesman problem using the Lin-Kernighan-Helsgaun algorithm.Mathematical Programming Computation7, 3 (2015), 269--287.",
+                "DOI": "10.1007/s12532-015-0080-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-21",
+                "unstructured": "Wei-Hsien Hsu, Yubo Zhang, and Kwan-Liu Ma. 2013. A Multi-Criteria Approach to Camera Motion Design for Volume Data Animation.IEEE Trans. Visualization &#38; Computer Graphics19, 12 (2013), 2792--2801.",
+                "DOI": "10.1109/TVCG.2013.123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-22",
+                "unstructured": "Niels Joubert, L. E. Jane, Dan B. Goldman, Floraine Berthouzoz, Mike Roberts, James A. Landay, and Pat Hanrahan. 2016. Towards a Drone Cinematographer: Guiding Quadrotor Cameras using Visual Composition Principles.ArXiv e-prints(Oct. 2016). arXiv:cs.GR/1610.01691"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-23",
+                "unstructured": "Niels Joubert, Mike Roberts, Anh Truong, Floraine Berthouzoz, and Pat Hanrahan. 2015. An interactive tool for designing quadrotor camera shots.ACM Trans. on Graphics (Proc. of SIGGRAPH Asia)34, 6 (2015), 238:1--238:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-24",
+                "unstructured": "Tsai-Yen Li and Chung-Chiang Cheng. 2008. Real-Time Camera Planning for Navigation in Virtual Environments. InSmart Graphics.Lecture Notes in Computer Science, Vol. 5166. Springer Berlin Heidelberg.",
+                "DOI": "10.1007/978-3-540-85412-8_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-25",
+                "unstructured": "Christophe Lino and Marc Christie. 2015. Intuitive and efficient camera control with the toric space.ACM Trans. on Graphics (Proc. of SIGGRAPH)34, 4 (2015), 82:1--82:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-26",
+                "unstructured": "Christophe Lino, Marc Christie, Fabrice Lamarche, Guy Schofield, and Patrick Olivier. 2010. A Real-time Cinematography System for Interactive 3D Environments. InProc. ACM SIGGRAPH/Eurographics Symp. on Computer Animation.139--148."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-27",
+                "unstructured": "Daniel Mellinger and Vijay Kumar. 2011. Minimum snap trajectory generation and control for quadrotors. InProc. IEEE Int. Conf. on Robotics &#38; Automation.2520--2525.",
+                "DOI": "10.1109/ICRA.2011.5980409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-28",
+                "unstructured": "A. Messina et al. 2017.Multidrone media production requirements.Technical Report. University of Bristol."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-29",
+                "unstructured": "Tobias N&#228;geli, Lukas Meier, Alexander Domahidi, Javier Alonso-Mora, and Otmar Hilliges. 2017. Real-time Planning for Automated Multi-view Drone Cinematography.ACM Trans. on Graphics (Proc. of SIGGRAPH)36, 4 (2017), 132:1--132:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-30",
+                "unstructured": "Dennis Nieuwenhuisen and Mark H. Overmars. 2004. Motion Planning for Camera Movements. InProc. IEEE Int. Conf. on Robotics &#38; Automation, Vol. 4. 3870--3876.",
+                "DOI": "10.1109/ROBOT.2004.1308871",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-31",
+                "unstructured": "Thomas Oskam, Robert W Sumner, Nils Thuerey, and Markus Gross. 2009. Visibility transition planning for dynamic camera control. InProc. ACM SIGGRAPH/Eurographics Symp. on Computer Animation.55--65.",
+                "DOI": "10.1145/1599470.1599478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-32",
+                "unstructured": "Roberto Ranon and Tommaso Urli. 2014. Improving the Efficiency of Viewpoint Composition.IEEE Trans. Visualization &#38; Computer Graphics20, 5 (2014), 795--807.",
+                "DOI": "10.1109/TVCG.2013.2297932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-33",
+                "unstructured": "Charles Richter, Adam Bry, and Nicholas Roy. 2016. Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environments.Robotics Research114 (2016), 649--666.",
+                "DOI": "10.1007/978-3-319-28872-7_37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-34",
+                "unstructured": "Mike Roberts and Pat Hanrahan. 2016. Generating Dynamically Feasible Trajectories for Quadrotor Cameras.ACM Trans. on Graphics (Proc. of SIGGRAPH)35, 4 (2016), 61:1--61:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-35",
+                "unstructured": "Brian Salomon, Maxim Garber, Ming Lin, and Dinesh Manocha. 2003. Interactive navigation in complex environments using path planning. InProc. Sym. on Interactive 3D Graphics.41--50.",
+                "DOI": "10.1145/641480.641491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-36",
+                "unstructured": "Ekrem Serin, Serdar Hasan Adali, and Selim Balcisoy. 2012. Automatic path generation for terrain navigation.Computers &#38; Graphics36, 8 (2012), 1013--1024.",
+                "DOI": "10.1016/j.cag.2012.08.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-37",
+                "unstructured": "Dmitry Sokolov and Dimitri Plemenos. 2008. Virtual world explorations by using topological and semantic knowledge.The Visual Computer24, 3 (2008), 173--185.",
+                "DOI": "10.1007/s00371-007-0182-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-38",
+                "unstructured": "Pere-Pau V&#225;zquez, Miquel Feixas, Mateu Sbert, and Wolfgang Heidrich. 2001. Viewpoint Selection using Viewpoint Entropy. InProc. of Vision Modeling and Visualization Conference, Vol. 1. 273--280."
+            },
+            {
+                "key": "key-10.1145/3197517.3201284-39",
+                "unstructured": "Georgios N. Yannakakis and John Hallam. 2011. Rating vs. Preference: a comparative study of self-reporting. InProc. Int. Conf. on Affective Computing and Intelligent Interaction.437--446.",
+                "DOI": "10.1007/978-3-642-24600-5_47",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201284&ftid=1991753&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:51:05Z",
+            "timestamp": 1571673065000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201284",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

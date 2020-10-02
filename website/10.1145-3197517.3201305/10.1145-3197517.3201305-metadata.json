@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:47Z",
+            "timestamp": 1574859827945
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201305",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Deep learning of biomimetic sensorimotor control for biomechanical human animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Masaki",
+                "family": "Nakada",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Honglin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Tomer",
+                "family": "Weiss",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Demetri",
+                "family": "Terzopoulos",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201305-1",
+                "unstructured": "J. Bergstra, O. Breuleux, F. Bastien, P. Lamblin, R. Pascanu, G. Desjardins, J. Turian, D. Warde-Farley, and Y. Bengio. 2010. Theano: A CPU and GPU math compiler in Python. InProc. 9th Python in Science Conference.Austin, TX, 1--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-2",
+                "unstructured": "A.L. Cruz Ruiz, C. Pontonnier, N. Pronost, and G. Dumont. 2017. Muscle-based control for character animation.Computer Graphics Forum36, 6 (2017), 122--147.",
+                "DOI": "10.1111/cgf.12863",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-3",
+                "unstructured": "M. F. Deering. 2005. A photon accurate model of the human eye.ACM Transactions on Graphics24, 3 (2005), 649--658.",
+                "DOI": "10.1145/1073204.1073243",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-4",
+                "unstructured": "P. Faloutsos, M. van de Panne, and D. Terzopoulos. 2001. Composable controllers for physics-based character animation. InProc. 28th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '01).Los Angeles, CA, 251--260.",
+                "DOI": "10.1145/383259.383287",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-5",
+                "unstructured": "Y. Fan, J. Litven, and D.K. Pai. 2014. Active volumetric musculoskeletal systems.ACM Transactions on Graphics33, 4 (2014), 152."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-6",
+                "unstructured": "R. Featherstone. 2014.Rigid Body Dynamics Algorithms.Springer, New York, NY."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-7",
+                "unstructured": "T. Geijtenbeek, M. Van De Panne, and A.F. Van Der Stappen. 2013. Flexible muscle-based locomotion for bipedal creatures.ACM Transactions on Graphics32, 6 (2013), 206."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-8",
+                "unstructured": "I. Goodfellow, Y. Bengio, and A. Courville. 2016.Deep Learning.MIT Press, Cambridge, MA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-9",
+                "unstructured": "R. Grzeszczuk, D. Terzopoulos, and G. Hinton. 1998. NeuroAnimator: Fast neural network emulation and control of physics-based models. InComputer Graphics Proceedings, Annual Conference Series.Orlando, FL, 9--20. Proc. ACM SIGGRAPH 98.",
+                "DOI": "10.1145/280814.280816",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-10",
+                "unstructured": "K. He, X. Zhang, S. Ren, and J. Sun. 2015. Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification. InProc. IEEE International Conference on Computer Vision.Santiago, Chile, 1026--1034.",
+                "DOI": "10.1109/ICCV.2015.123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-11",
+                "unstructured": "J.K. Hodgins, W.L. Wooten, D.C. Brogan, and J.F. O'Brien. 1995. Animating human athletics. InProc. ACM SIGGRAPH '95 Conference.Los Angeles, CA, 71--78.",
+                "DOI": "10.1145/218380.218414",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-12",
+                "unstructured": "D. Holden, T. Komura, and J. Saito. 2017. Phase-functioned neural networks for character control.ACM Transactions on Graphics36, 4 (2017), 42."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-13",
+                "unstructured": "W. Huang, M. Kapadia, and D. Terzopoulos. 2010. Full-body hybrid motor control for reaching. InMotion in Games (Lecture Notes in Computer Science, Vol. 6459).Springer-Verlag, Berlin, 36--47.",
+                "DOI": "10.1007/978-3-642-16958-8_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-14",
+                "unstructured": "A.-E. Ichim, P. Kadle&#269;ek, L. Kavan, and M. Pauly. 2017. Phace: Physics-based face modeling and animation.ACM Transactions on Graphics36, 4 (2017), 153.",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-15",
+                "unstructured": "P. Kadle&#269;ek, A.-E. Ichim, T. Liu, J. K&#345;iv&#225;nek, and L. Kavan. 2016. Reconstructing personalized anatomical models for physics-based body animation.ACM Transactions on Graphics35, 6 (2016), 213."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-16",
+                "unstructured": "K. K&#228;hler, J. Haber, H. Yamauchi, and H.-P. Seidel. 2002. Head shop: Generating animated head models with anatomical structure. InProc. 2002 ACM SIGGRAPH/Eurographics Symposium on Computer Animation.San Antonio, TX, 55--63."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-17",
+                "unstructured": "D. Kingma and J. Ba. 2014.Adam: A method for stochastic optimization.Technical Report. arXiv preprint arXiv:1412.6980."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-18",
+                "unstructured": "S.-H. Lee, E. Sifakis, and D. Terzopoulos. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Transactions on Graphics28, 4 (2009), 99:1--17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-19",
+                "unstructured": "S.-H. Lee and D. Terzopoulos. 2006. Heads Up! Biomechanical modeling and neuromuscular control of the neck.ACM Transactions on Graphics23, 212 (2006), 1188--1198. Proc. ACM SIGGRAPH 2006.",
+                "DOI": "10.1145/1179352.1142013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-20",
+                "unstructured": "Y. Lee, M.S. Park, T. Kwon, and J. Lee. 2014. Locomotion control for many-muscle humanoids.ACM Transactions on Graphics33, 6 (2014), 218."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-21",
+                "unstructured": "Y. Lee, D. Terzopoulos, and K. Waters. 1995. Realistic modeling for facial animation. InComputer Graphics Proceedings, Annual Conference Series (Proc. ACM SIGGRAPH 95).Los Angleles, CA, 55--62.",
+                "DOI": "10.1145/218380.218407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-22",
+                "unstructured": "M. Lesmana, A. Landgren, P.-E. Forss&#233;n, and D.K. Pai. 2014. Active gaze stabilization. InProc. Indian Conference on Computer Vision, Graphics, and Image Processing.Bangalore, India, Article 81, 8 pages.",
+                "DOI": "10.1145/2683483.2683565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-23",
+                "unstructured": "M. Lesmana and D.K. Pai. 2011. A biologically inspired controller for fast eye movements. InIEEE International Conference on Robotics and Automation (ICRA).IEEE, Shanghai, China, 3670--3675.",
+                "DOI": "10.1109/ICRA.2011.5980432",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-24",
+                "unstructured": "L. Liu and J. Hodgins. 2017. Learning to schedule control fragments for physics-based characters using deep Q-learning.ACM Transactions on Graphics36, 3 (2017), 29."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-25",
+                "unstructured": "M. Nakada, H. Chen, and D. Terzopoulos. 2018. Deep learning of biomimetic visual perception for virtual humans. InProc. ACM Symposium on Applied Perception (SAP '18).Vancouver, BC, 1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-26",
+                "unstructured": "M. Nakada and D. Terzopoulos. 2015. Deep learning of neuromuscular control for biomechanical human animation. InAdvances in Visual Computing (Lecture Notes in Computer Science, Vol. 9474).Springer, Berlin, 339--348. Proc.International Symposium on Visual Computing, Las Vegas, NV, December 2015.",
+                "DOI": "10.1007/978-3-319-27857-5_31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-27",
+                "unstructured": "X.B. Peng, G. Berseth, K. Yin, and M. Van De Panne. 2017. Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.ACM Transactions on Graphics36, 4 (2017), 41.",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-28",
+                "unstructured": "T.F. Rabie and D. Terzopoulos. 2000. Active perception in virtual humans. InProc. Vision Interface 2000.Montreal, Canada, 16--22."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-29",
+                "unstructured": "P. Sachdeva, S. Sueda, S. Bradley, M. Fain, and D.K. Pai. 2015. Biomechanical simulation and control of hands and tendinous systems.ACM Transactions on Graphics34, 4 (2015), 42."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-30",
+                "unstructured": "E.L. Schwartz. 1977. Spatial mapping in the primate sensory projection: Analytic structure and relevance to perception.Biological Cybernetics25, 4 (1977), 181--194.",
+                "DOI": "10.1007/BF01885636",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-31",
+                "unstructured": "W. Si, S.-H. Lee, E. Sifakis, and D. Terzopoulos. 2014. Realistic biomechanical simulation and control of human swimming.ACM Transactions on Graphics34, 1, Article 10 (Nov. 2014), 15 pages.",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-32",
+                "unstructured": "E. Sifakis, I. Neverov, and R. Fedkiw. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data.ACM Transactions on Graphics1, 212 (2005), 417--425.",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-33",
+                "unstructured": "S. Sueda, A. Kaufman, and D.K. Pai. 2008. Musculotendon simulation for hand animation.ACM Transactions on Graphics27, 3 (Aug. 2008), 83."
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-34",
+                "unstructured": "D. Terzopoulos and T.F. Rabie. 1995. Animat vision: Active vision with artificial animals. InProc. Fifth International Conference on Computer Vision (ICCV '95).Cambridge, MA, 840--845.",
+                "DOI": "10.1109/ICCV.1995.466856",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-35",
+                "unstructured": "D. Terzopoulos and K. Waters. 1990. Physically-based facial modelling, analysis, and animation.Computer Animation and Virtual Worlds1, 2 (1990), 73--80.",
+                "DOI": "10.1002/vis.4340010208",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-36",
+                "unstructured": "J.M. Wang, S.R. Hamner, S.L. Delp, and V. Koltun. 2012. Optimizing locomotion controllers using biologically-based actuators and objectives.ACM Transactions on Graphics31, 4, Article 25 (2012), 11 pages.",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-37",
+                "unstructured": "Q. Wei, S. Sueda, and D.K. Pai. 2010. Biomechanical simulation of human eye movement. InBiomedical Simulation (Lecture Notes in Computer Science), Vol. 5958. Springer-Verlag, Berlin, 108--118.",
+                "DOI": "10.1007/978-3-642-11615-5_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201305-38",
+                "unstructured": "S.H. Yeo, M. Lesmana, D.R. Neog, and D.K. Pai. 2012. Eyecatch: Simulating visuomotor coordination for object interception.ACM Transactions on Graphics31, 4 (2012), 1--10.",
+                "DOI": "10.1145/2185520.2185538",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201305&ftid=1991698&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:46:16Z",
+            "timestamp": 1571672776000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201305",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

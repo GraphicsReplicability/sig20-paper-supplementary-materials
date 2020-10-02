@@ -1,0 +1,117 @@
+{
+    "Timestamp": "1/8/2020 16:01:08",
+    "Title": "Neural best-buddies: sparse cross-domain correspondence",
+    "DOI": "10.1145/3197517.3201332",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.04140",
+    "code URL": "https://github.com/kfiraberman/neural_best_buddies",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1805.04140.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Interest point and salient region detections",
+    "ACM 2": "Matching",
+    "ACM 3": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "sklearn dependency was not explicitly mentioned in the README. To make the code working on recent pytorch, I needed to update in line of code :\n\n\n@@ -92,7 +92,7 @@ class vgg19(nn.Module):\n             deconvolved_feature_forward = self.forward(level=src_level, start_level=dst_level, set_as_var = False)\n             loss_perceptual = criterionPerceptual(deconvolved_feature_forward, src_layer)\n             loss_perceptual.backward()\n-            error = loss_perceptual.data[0]\n+            error = loss_perceptual.item()\n             self.update_last_losses(error)\n             if (i % 3 == 0) and (print_errors == True):\n                 print(\"error: \", error)",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 8,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "CUDA / CuDNN / sklearn / numpy / torchvision / matplotlib",
+    "Project URL": "https://kfiraberman.github.io/neural_best_buddies/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Kfir",
+            "family": "Aberman",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Tel-Aviv University"
+                }
+            ]
+        },
+        {
+            "given": "Jing",
+            "family": "Liao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research Asia"
+                }
+            ]
+        },
+        {
+            "given": "Mingyi",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shandong University"
+                }
+            ]
+        },
+        {
+            "given": "Dani",
+            "family": "Lischinski",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Hebrew University of Jerusalem"
+                }
+            ]
+        },
+        {
+            "given": "Baoquan",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Shandong University and Peking University"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Cohen-Or",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Tel-Aviv University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 24.45,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=25&types=rttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=41314218"
+}

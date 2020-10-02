@@ -1,0 +1,430 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228741
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIP)",
+                "award": [
+                    "2011-0018340, 2007-0056094"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601170",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Interactive manipulation of large-scale crowd animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jongmin",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Yeongho",
+                "family": "Seol",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Taesoo",
+                "family": "Kwon",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jehee",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601170-1",
+                "unstructured": "Arikan, O., Forsyth, D. A., and O'Brien, J. F. 2003. Motion synthesis from annotations.ACM Trans. Graph. 22, 3, 402--408.",
+                "DOI": "10.1145/882262.882284",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-2",
+                "unstructured": "Boros&#225;n, P., Howard, R., Zhang, S., and Nealen, A. 2010. Hybrid mesh editing. InProceedings of EUROGRAPHICS Short papers, 41--44."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-3",
+                "unstructured": "Botsch, M., Pauly, M., Wicke, M., and Gross, M. 2007. Adaptive space deformations based on rigid cells.Computer Graphics Forum 26, 3, 339--347.",
+                "DOI": "10.1111/j.1467-8659.2007.01056.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-4",
+                "unstructured": "Boyd, S. 2003. Relaxations and randomized methods for nonconvex QCQPs.EE392o, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-5",
+                "unstructured": "Chenney, S. 2004. Flow tiles. InSIGGRAPH/Eurographics Symposium on Computer Animation '04: Proceedings of the 2004 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 233--242."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-6",
+                "unstructured": "Choi, M. G., Kim, M., Hyun, K., and Lee, J. 2011. Deformable motion: Squeezing into cluttered environments.Comput. Graph. Forum 30, 2, 445--453.",
+                "DOI": "10.1111/j.1467-8659.2011.01889.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-7",
+                "unstructured": "Cohen-Or, D. 2009. Space deformations, surface deformations and the opportunities in-between.J. Comput. Sci. Technol. 24, 1 (Jan.), 2--5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-8",
+                "unstructured": "Floater, M. S. 2003. Mean value coordinates.Computer Aided Geometric Design 20, 1, 19--27.",
+                "DOI": "10.1016/S0167-8396(03)00002-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-9",
+                "unstructured": "Gleicher, M. 1998. Retargeting motion to new characters. InProceedings of SIGGRAPH 98, 33--42.",
+                "DOI": "10.1145/280814.280820",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-10",
+                "unstructured": "Guy, S. J., Chhugani, J., Kim, C., Satish, N., Lin, M., Manocha, D., and Dubey, P. 2009. Clearpath: highly parallel collision avoidance for multi-agent simulation. InProceedings of the 2009 SIGGRAPH/Eurographics Symposium on Computer Animation, 177--187."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-11",
+                "unstructured": "Ho, E. S. L., Komura, T., and Tai, C.-L. 2010. Spatial relationship preserving character motion adaptation.ACM Trans. Graph. 29, 4, 33:1--33:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-12",
+                "unstructured": "Hormann, K., and Floater, M. S. 2006. Mean value coordinates for arbitrary planar polygons.ACM Trans. Graph. 25, 1424--1441.",
+                "DOI": "10.1145/1183287.1183295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-13",
+                "unstructured": "Huang, J., Shi, X., Liu, X., Zhou, K., Wei, L.-Y., Teng, S.-H., Bao, H., Guo, B., and Shum, H.-Y. 2006. Subspace gradient domain mesh deformation.ACM Trans. Graph. 25, 3, 1126--1134.",
+                "DOI": "10.1145/1141911.1142003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-14",
+                "unstructured": "Igarashi, T., Moscovich, T., and Hughes, J. F. 2005. As-rigid-as-possible shape manipulation.ACM Trans. Graph. 24, 1134--1141.",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-15",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. Graph. 30, 4, 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-16",
+                "unstructured": "Jacobson, A., Baran, I., Kavan, L., Popovi&#263;, J., and Sorkine, O. 2012. Fast automatic skinning transformations.ACM Trans. Graph. 31, 4, 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-17",
+                "unstructured": "Jordao, K., Pettr&#233;, J., Christie, M., Cani, M.-P., et al. 2013. Crowd sculpting: A space-time sculpting method for populating virtual environments.EUROGRAPHICS 2014.",
+                "DOI": "10.1111/cgf.12316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-18",
+                "unstructured": "Joshi, P., Meyer, M., DeRose, T., Green, B., and Sanocki, T. 2007. Harmonic coordinates for character articulation.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276466",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-19",
+                "unstructured": "Ju, T., Schaefer, S., and Warren, J. 2005. Mean value coordinates for closed triangular meshes.ACM Trans. Graph. 24, 3, 561--566.",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-20",
+                "unstructured": "Ju, E., Choi, M. G., Park, M., Lee, J., Lee, K. H., and Takahashi, S. 2010. Morphable crowds.ACM Trans. Graph. 29, 6, 140:1--140:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-21",
+                "unstructured": "Kim, M., Hyun, K., Kim, J., and Lee, J. 2009. Synchronized multi-character motion editing.ACM Trans. Graph. 28, 79:1--79:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-22",
+                "unstructured": "Kim, M., Hwang, Y., Hyun, K., and Lee, J. 2012. Tiling motion patches. InProceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 117--126."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-23",
+                "unstructured": "Kovar, L., and Gleicher, M. 2004. Automated extraction and parameterization of motions in large data sets.ACM Trans. Graph. 23, 3, 559--568.",
+                "DOI": "10.1145/1015706.1015760",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-24",
+                "unstructured": "Kovar, L., Gleicher, M., and Pighin, F. 2002. Motion graphs.ACM Trans. Graph. 21, 3, 473--482.",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-25",
+                "unstructured": "Kwon, T., Lee, K. H., Lee, J., and Takahashi, S. 2008. Group motion editing.ACM Trans. Graph. 27, 3, 80:1--80:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-26",
+                "unstructured": "Lee, J., and Shin, S. Y. 1999. A hierarchical approach to interactive motion editing for human-like figures. InProceedings of SIGGRAPH 99, 39--48.",
+                "DOI": "10.1145/311535.311539",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-27",
+                "unstructured": "Lee, J., Chai, J., Reitsma, P. S. A., Hodgins, J. K., and Pollard, N. S. 2002. Interactive control of avatars animated with human motion data.ACM Trans. Graph. 21, 3, 491--500.",
+                "DOI": "10.1145/566654.566607",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-28",
+                "unstructured": "Lee, K. H., Choi, M. G., Hong, Q., and Lee, J. 2007. Group behavior from video: a data-driven approach to crowd simulation. InProceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 109--118."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-29",
+                "unstructured": "Lerner, A., Chrysanthou, Y., and Lischinski, D. 2007. Crowds by example.Computer Graphics Forum 26, 3, 655--664.",
+                "DOI": "10.1111/j.1467-8659.2007.01089.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-30",
+                "unstructured": "Lerner, A., Fitusi, E., Chrysanthou, Y., and Cohen-Or, D. 2009. Fitting behaviors to pedestrian simulations.Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 199--208."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-31",
+                "unstructured": "Lipman, Y., Sorkine, O., Levin, D., and Cohen-Or, D. 2005. Linear rotation-invariant coordinates for meshes.ACM Trans. Graph. 24, 3, 479--487.",
+                "DOI": "10.1145/1073204.1073217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-32",
+                "unstructured": "Lipman, Y., Kopf, J., Cohen-Or, D., and Levin, D. 2007. GPU-assisted positive mean value coordinates for mesh deformations. InProceedings of the fifth Eurographics symposium on Geometry processing, 117--123."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-33",
+                "unstructured": "Lipman, Y., Levin, D., and Cohen-Or, D. 2008. Green coordinates.ACM Trans. Graph. 27, 78:1--78:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-34",
+                "unstructured": "Liu, L., Zhang, L., Xu, Y., Gotsman, C., and Gortler, S. J. 2008. A local/global approach to mesh parameterization. InProceedings of Eurographics Symposium on Geometry Processing, vol. 27, 1495--1504."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-35",
+                "unstructured": "Mukai, T., and Kuriyama, S. 2005. Geostatistical motion interpolation.ACM Trans. Graph. 24, 3, 1062--1070.",
+                "DOI": "10.1145/1073204.1073313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-36",
+                "unstructured": "Musse, S. R., and Thalmann, D. 1997. A model of human crowd behavior: Group inter-relationship and collision detection analysis. InComputer Animation and Simulation '97, 39--51."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-37",
+                "unstructured": "Narain, R., Golas, A., Curtis, S., and Lin, M. C. 2009. Aggregate dynamics for dense crowd simulation.ACM Trans. Graph. 28, 5, 122:1--122:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-38",
+                "unstructured": "Patil, S., Van Den Berg, J., Curtis, S., Lin, M. C., and Manocha, D. 2011. Directing crowd simulations using navigation fields.IEEE Transactions on Visualization and Computer Graphics 17, 2, 244--254.",
+                "DOI": "10.1109/TVCG.2010.33",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-39",
+                "unstructured": "PCL, 2012. Point Cloud Library. http://pointclouds.org/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-40",
+                "unstructured": "Pelechano, N., O'Brien, K., Silverman, B., and Badler, N. 2005. Crowd simulation incorporating agent psychological models, roles and communication. InProceedings of the First International Workshop on Crowd Simulation, 24--25."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-41",
+                "unstructured": "Pelechano, N., Allbeck, J. M., and Badler, N. I. 2007. Controlling individual agents in high-density crowd simulation. InProceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 99--108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-42",
+                "unstructured": "Reynolds, C. W. 1987. Flocks, herds and schools: A distributed behavioral model. InProceedings of SIGGRAPH 87, 25--34.",
+                "DOI": "10.1145/37401.37406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-43",
+                "unstructured": "Safonova, A., and Hodgins, J. K. 2007. Construction and optimal search of interpolated motion graphs.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-44",
+                "unstructured": "Shewchuk, J. R. 1996. Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator. InApplied Computational Geometry: Towards Geometric Engineering, vol. 1148 ofLecture Notes in Computer Science. Springer-Verlag, May, 203--222."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-45",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProceedings of the fifth Eurographics symposium on Geometry processing, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-46",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Lipman, Y., and Alexa, M. 2004. Laplacian surface editing. InProceedings of ACM SIGGRAPH/Eurographics Symposium on Geometry Processing, 175--184."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-47",
+                "unstructured": "Sturm, J. F. 1999. Using sedumi 1.02, a matlab toolbox for optimization over symmetric cones.Optimization Methods and Software 11, 1--4, 625--653.",
+                "DOI": "10.1080/10556789908805766",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-48",
+                "unstructured": "Sumner, R. W., Schmid, J., and Pauly, M. 2007. Embedded deformation for shape manipulation.ACM Trans. Graph. 26, 3, 80."
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-49",
+                "unstructured": "Treuille, A., Cooper, S., and Popovic, Z. 2006. Continuum crowds.ACM Trans. Graph. 25, 3, 1160--1168.",
+                "DOI": "10.1145/1141911.1142008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-50",
+                "unstructured": "Umetani, N., Kaufman, D., Igarashi, T., and Grinspun, E. 2011. Sensitive Couture for Interactive Garment Editing and Modeling.ACM Trans. Graph. 30, 4.",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601170-51",
+                "unstructured": "Xu, W., Zhou, K., Yu, Y., Tan, Q., Peng, Q., and Guo, B. 2007. Gradient domain editing of deforming mesh sequences.ACM Trans. Graph. 26, 3.",
+                "DOI": "10.1145/1276377.1276482",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601170&amp;ftid=1488891&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:04Z",
+            "timestamp": 1565663704000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601170",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

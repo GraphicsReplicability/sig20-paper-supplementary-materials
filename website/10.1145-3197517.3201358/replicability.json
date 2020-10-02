@@ -1,0 +1,105 @@
+{
+    "Timestamp": "12/5/2019 16:50:31",
+    "Title": "Curved optimal delaunay triangulation",
+    "DOI": "10.1145/3197517.3201358",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://hal.inria.fr/hal-01826055",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://www.geometry.caltech.edu/pubs/FABDD18.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Mesh generation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 7,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Leman",
+            "family": "Feng",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Ecole des Ponts ParisTech"
+                }
+            ]
+        },
+        {
+            "given": "Pierre",
+            "family": "Alliez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                }
+            ]
+        },
+        {
+            "given": "Laurent",
+            "family": "Bus\u00e9",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                }
+            ]
+        },
+        {
+            "given": "Herv\u00e9",
+            "family": "Delingette",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                }
+            ]
+        },
+        {
+            "given": "Mathieu",
+            "family": "Desbrun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Caltech"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

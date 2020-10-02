@@ -1,0 +1,450 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813684
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201276",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-17",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Shape from metric"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Albert",
+                "family": "Chern",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Kn\u00f6ppel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Ulrich",
+                "family": "Pinkall",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Schr\u00f6der",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201276-1",
+                "unstructured": "Michael F. Atiyah. 1971. Riemann Surface and Spin Structures. Ann. sci. de l'&#201;co. N. Sup. 4, 1 (1971), 47--62."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-2",
+                "unstructured": "Seung-Yeob Baek, Jeonghun Lim, and Kunwoo Lee. 2015. Isometric Shape Interpolation. Comp. &#38; Graph. 46 (2015), 257--263.",
+                "DOI": "10.1016/j.cag.2014.09.025",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-3",
+                "unstructured": "Abdenago Barros, Esdras Medeiros, and Romildo Silva. 2011. Two Counterexamples of Global Differential Geometry for Polyhedra. JP J. Geom. Top. 11, 1 (2011), 65--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-4",
+                "unstructured": "Marcel Berger. 2010. Geometry Revealed. Springer.",
+                "DOI": "10.1007/978-3-540-70997-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-5",
+                "unstructured": "Vincent Borrelli, Sa&#239;d Jabrane, Francis Lazarus, and Boris Thibert. 2012. Flat Tori in Three-Dimensional Space and Convex Integration. Proc. Nat. Acad. Sci. 109, 19 (2012), 7218--7223. Project page: http://hevea-project.fr/ENIndexHevea.html.",
+                "DOI": "10.1073/pnas.1118478109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-6",
+                "unstructured": "Vincent Borrelli, Sa&#239;d Jabrane, Francis Lazarus, and Boris Thibert. 2013. Isometric Embeddings of the Square Flat Torus in Ambient Space. Ensaios Matem&#225;ticos 24 (2013), 1--91."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-7",
+                "unstructured": "Friedrich B&#246;s, Max Wardetzky, Etienne Vouga, and Omer Gottesman. 2016. On the Incompressibility of Cylindrical Origami Patterns. J. Mech. Des. 139, 2 (2016), 021404:1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-8",
+                "unstructured": "Davide Boscaini, Davide Eynard, Drosos Kourounis, and Michael M. Bronstein. 2015. Shape-from-Operator: Recovering Shapes from Intrinsic Operators. Comp. Graph. Forum 34, 2 (2015), 265--274."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-9",
+                "unstructured": "Mario Botsch, Mark Pauly, Markus Gross, and Leif Kobbelt. 2006. PriMo: Coupled Prisms for Intuitive Surface Modeling. In Proc. Symp. Geom. Proc. 11--20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-10",
+                "unstructured": "Sofien Bouaziz, Mario Deuss, Yuliy Schwartzburg, Thibaut Weise, and Mark Pauly. 2012. Shape-Up: Shaping Discrete Geometry with Projections. Comp. Graph. Forum 31, 5 (2012), 1657--1667."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-11",
+                "unstructured": "Werner Boy. 1903. &#220;ber die Curvatura integra und die Topologie geschlossener Fl&#228;chen. Math. Ann. 57 (1903), 151--184.",
+                "DOI": "10.1007/BF01444342",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-12",
+                "unstructured": "Robert Bridson, S. Marino, and Ronald Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. In Proc. Symp. Comp. Anim. 28--36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-13",
+                "unstructured": "Yu. D. Burago and V. A. Zalgaller. 1960. Polyhedral Embedding of a Flat Metric with Conical Singularities. Vestnik Leningrad Univ. 15, 7 (1960), 66--80."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-14",
+                "unstructured": "Yu. D. Burago and V. A. Zalgaller. 1995. Isometric Piecewise-Linear Embeddings of Two-Dimensional Manifolds with a Polyhedral Metric into R3. Algebra i Analiz 7, 3 (1995), 76--95. English translation in St. Petersburg Math. J. 7, 3 (1996), 369--385."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-15",
+                "unstructured": "Isaac Chao, Ulrich Pinkall, Patrick Sanan, and Peter Schr&#246;der. 2010. A Simple Geometric Model for Elastic Deformations. ACM Trans. Graph. 29, 4 (2010), 38:1--38:6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-16",
+                "unstructured": "Keenan Crane, Mathieu Desbrun, and Peter Schr&#246;der. 2010. Trivial Connections on Discrete Surfaces. Comp. Graph. Forum 29, 5 (2010), 1525--1533."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-17",
+                "unstructured": "Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2011. Spin Transformations of Discrete Surfaces. ACM Trans. Graph. 30, 4 (2011), 104:1--104:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-18",
+                "unstructured": "Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2013. Robust Fairing via Conformal Curvature Flow. ACM Trans. Graph. 32, 4 (2013), 61:1--61:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-19",
+                "unstructured": "Mathieu Desbrun, Eva Kanso, and Yiying Tong. 2008. Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry, Alexander I. Bobenko, Peter Schr&#246;der, John M. Sullivan, and G&#252;nther M. Ziegler (Eds.). Oberwolfach Seminars, Vol. 38. Birkh&#228;user Verlag.",
+                "DOI": "10.1145/1508044.1508059",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-20",
+                "unstructured": "Pawe&#322; D&#322;otko. 2012. A Fast Algorithm to Compute Cohomology Group Generators of Orientable 2-Manifolds. Patt. Recog. Lett. 33, 11 (2012), 1468--1476.",
+                "DOI": "10.1016/j.patrec.2011.10.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-21",
+                "unstructured": "David Eppstein. 2003. Dynamic Generators of Topologically Embedded Graphs. In Proc. ACM-SIAM Symp. Disc. Alg. 599--608."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-22",
+                "unstructured": "Jeff Erickson and Kim Whittlesey. 2005. Greedy Optimal Homotopy and Homology Generators. In Proc. ACM-SIAM Symp. Disc. Alg. 1038--1046."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-23",
+                "unstructured": "Gerd Fischer (Ed.). 2017. Mathematical Models (2nd ed.). Springer Spektrum.",
+                "DOI": "10.1007/978-3-658-18865-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-24",
+                "unstructured": "Stefan Fr&#246;hlich and Mario Botsch. 2011. Example-Driven Deformations Based on Discrete Shells. Comp. Graph. Forum 30, 8 (2011), 2246--2257."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-25",
+                "unstructured": "Herman Gluck. 1974. Almost all Simply Connected Closed Surfaces are Rigid. In Geometric Topology (Lecture Notes in Mathematics), Vol. 438. Springer, 225--239."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-26",
+                "unstructured": "Eitan Grinspun, Anil Hirani, Mathieu Desbrun, and Peter Schr&#246;der. 2003. Discrete Shells. In Proc. Symp. Comp. Anim. 62--67."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-27",
+                "unstructured": "Misha Gromov. 1986. Partial Differential Relations. Springer.",
+                "DOI": "10.1007/978-3-662-02267-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-28",
+                "unstructured": "Andr&#233; Haefliger and Valentin Po&#233;naru. 1964. La Classification des Immersions Combinatoires. Pub. Math. I'IH&#201;S 23 (1964), 75--91."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-29",
+                "unstructured": "Joel Hass and John Hughes. 1985. Immersions of Surfaces in 3-Manifolds. Topology 24, 1 (1985), 97--112.",
+                "DOI": "10.1016/0040-9383(85)90048-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-30",
+                "unstructured": "Morris W. Hirsch. 1959. Immersions of Manifolds. Trans. Amer. Math. Soc. 93 (1959), 242--276.",
+                "DOI": "10.1090/S0002-9947-1959-0119214-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-31",
+                "unstructured": "Tim Hoffmann and Zi Ye. 2018. A Discrete Extrinsic and Intrinsic Dirac Operator. (2018). arXiv:1802.06278."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-32",
+                "unstructured": "Martin Isenburg, Stefan Gumhold, and Craig Gotsman. 2001. Connectivity Shapes. In Proc. IEEE Vis. 135--142.",
+                "DOI": "10.1109/VISUAL.2001.964504",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-33",
+                "unstructured": "Eric Jones, Travis Oliphant, Pearu Peterson, and others. 2001. SciPy: Open Source Scientific Tools for Python. Online at http://scipy.org/. (2001)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-34",
+                "unstructured": "Louis H. Kauffman and Thomas F. Banchoff. 1977. Immersions and mod-2 Quadratic Forms. Amer. Math. Month. 84, 3 (1977), 168--185.",
+                "DOI": "10.1080/00029890.1977.11994312",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-35",
+                "unstructured": "Michael Kazhdan, Jake Solomon, and Mirela Ben-Chen. 2012. Can Mean-Curvature Flow Be Made Non-Singular? Comp. Graph. Forum 31, 5 (2012), 1745--1754."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-36",
+                "unstructured": "Scott Kircher and Michael Garland. 2008. Free-Form Motion Processing. ACM Trans. Graph. 27, 2 (2008), 12:1--12:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-37",
+                "unstructured": "Nicolaas H. Kuiper. 1955. On C1-isometric Imbeddings I &#38; II. Indag. Math. 58 (1955), 545--556, 683--689.",
+                "DOI": "10.1016/S1385-7258(55)50075-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-38",
+                "unstructured": "H. Blaine Lawson and Marie-Louise Michelsohn. 1990. Spin Geometry. PMS, Vol. 38. Princeton UP.",
+                "DOI": "10.1515/9781400883912",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-39",
+                "unstructured": "Peter Li and Shing-Tung Yau. 1982. A New Conformal Invariant and its Applications to the Willmore Conjecture and the first Eigenvalue of Compact Surfaces. Inv. Math. 69, 2 (1982), 269--291.",
+                "DOI": "10.1007/BF01399507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-40",
+                "unstructured": "Yaron Lipman, Olga Sorkine, David Levin, and Daniel Cohen-Or. 2005. Linear Rotation-Invariant Coordinates for Meshes. ACM Trans. Graph. 24, 3 (2005), 479--487.",
+                "DOI": "10.1145/1073204.1073217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-41",
+                "unstructured": "Nelson Max. 1976. Turning a Sphere Inside Out. Computer Animation. (1976). Available from CRC Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-42",
+                "unstructured": "Nelson Max and Tom Banchoff. 1981. Contributions to Analysis and Geometry. JH Univ. P., Chapter Every Sphere Eversion has a Quadruple Point, 191--209."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-43",
+                "unstructured": "John Nash. 1954. C1 Isometric Imbeddings. Math. Ann. 60, 3 (1954), 383--396.",
+                "DOI": "10.2307/1969840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-44",
+                "unstructured": "Deniele Panozzo, Enrico Puppo, Marco Tarini, and Olga Sorkine-Hornung. 2014. Frame Fields: Anisotropic and Non-orthogonal Cross Fields. ACM Trans. Graph. 33, 4 (2014), 134:1--134:11.",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-45",
+                "unstructured": "Ulrich Pinkall. 1985. Regular Homotopy Classes of Immersed Surfaces. Topology 24, 4 (1985), 421--434.",
+                "DOI": "10.1016/0040-9383(85)90013-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-46",
+                "unstructured": "Henry Segerman. 2016. Visualizing Mathematics with 3D Printing. Johns Hopkins U. P."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-47",
+                "unstructured": "Carlo H. S&#233;quin. 2011. Torus Immersions and Transformations. Technical Report UCB/EECS-2011-83. UC Berkeley."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-48",
+                "unstructured": "Amit Singer. 2011. Angular Synchronization by Eigenvectors and Semidefinite Programming. App. Comp. Harm. Anal. 30, 1 (2011), 20--36.",
+                "DOI": "10.1016/j.acha.2010.02.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-49",
+                "unstructured": "Amit Singer and Hau-Tieng Wu. 2012. Vector Diffusion Maps and the Connection Laplacian. Comm. Pure Appl. Math. 65, 8 (2012), 1067--1144.",
+                "DOI": "10.1002/cpa.21395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-50",
+                "unstructured": "Stephen Smale. 1959. A Classification of Immersions of the Two-Sphere. Trans. Amer. Math. Soc. 90, 2 (1959), 281--290.",
+                "DOI": "10.1090/S0002-9947-1959-0104227-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-51",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-Rigid-As-Possible Surface Modeling. In Proc. Symp. Geom. Proc. 109--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-52",
+                "unstructured": "Y. Wang, B. Liu, and Y. Tong. 2012. Linear Surface Reconstruction from Discrete Fundamental Forms on Triangle Meshes. Comp. Graph. Forum 31, 8 (2012), 2277--2287."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-53",
+                "unstructured": "Hassler Whitney. 1937. On Regular Closed Curves in the Plane. Comp. Math. 4 (1937), 276--284."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-54",
+                "unstructured": "Tim Winkler, Jens Drieseberg, Marc Alexa, and Kai Hormann. 2010. Multi-Scale Geometry Interpolation. Comp. Graph. Forum 29, 2 (2010), 309--318."
+            },
+            {
+                "key": "key-10.1145/3197517.3201276-55",
+                "unstructured": "Min Zhang, Wei Zeng, Ren Guo, Feng Luo, and Xianfeng David Gu. 2015. Survey of Discrete Ricci Flow. J. Comput. Sci. Technol. 30, 3 (2015), 598--613.",
+                "DOI": "10.1007/s11390-015-1548-8",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201276&ftid=1991702&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T16:24:04Z",
+            "timestamp": 1533054244000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201276",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

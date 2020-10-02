@@ -1,0 +1,118 @@
+{
+    "Timestamp": "1/20/2020 14:36:02",
+    "Title": "ProxImaL: Efficient Image Optimization using Proximal Algorithms",
+    "DOI": "10.1145/2897824.2925875",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://www.proximal-lang.org/en/latest/",
+    "code URL  2": "https://github.com/comp-imaging/ProxImaL",
+    "PDF URL": "http://people.csail.mit.edu/jrk/proximal.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Other script",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation",
+    "Authors": "Academia",
+    "ACM 1": "Regularization",
+    "ACM 2": "Computational photography",
+    "ACM 3": "Mixed discrete-continuous optimization",
+    "ACM 4": "Solvers",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Works perfectly on linux. I was able to run the example but not all paper results.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 41,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "numpy / scipy / pil / pip / opencv",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Felix",
+            "family": "Heide",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University and University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Steven",
+            "family": "Diamond",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Matthias",
+            "family": "Nie\u00dfner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan",
+            "family": "Ragan-Kelley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Wolfgang",
+            "family": "Heidrich",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "KAUST and University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Gordon",
+            "family": "Wetzstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

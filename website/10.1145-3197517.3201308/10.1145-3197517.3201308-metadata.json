@@ -1,0 +1,514 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:45Z",
+            "timestamp": 1574859825807
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "French program Investissement d'Avenir",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201308",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "An implicit frictional contact solver for adaptive cloth simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jie",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "Gilles",
+                "family": "Daviet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France and Weta Digital, New Zealand"
+                    }
+                ]
+            },
+            {
+                "given": "Rahul",
+                "family": "Narain",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota and Indian Institute of Technology Delhi, India"
+                    }
+                ]
+            },
+            {
+                "given": "Florence",
+                "family": "Bertails-Descoubes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "Overby",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "George E.",
+                "family": "Brown",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "Laurence",
+                "family": "Boissieux",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201308-1",
+                "unstructured": "V. Acary and B. Brogliato. 2008.Numerical methods for nonsmooth dynamical systems.Lecture Notes in Computational and Applied Mechanics, Vol. 35. Springer.",
+                "DOI": "10.1007/978-3-540-75392-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-2",
+                "unstructured": "S. An, D. James, and S. Marschner. 2012. Motion-driven Concatenative Synthesis of Cloth Sounds.ACM Trans. Graph.31, 4, Article 102 (July 2012), 10 pages.",
+                "DOI": "10.1145/2185520.2335453",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-3",
+                "unstructured": "U. Ascher and E. Boxerman. 2003. On the modified conjugate gradient method in cloth simulation.The Visual Computer19, 7--8 (2003), 526--531."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-4",
+                "unstructured": "Y. Bai, W. Yu, and K. Liu. 2016. Dexterous Manipulation of Cloth.Computer Graphics Forum35, 2 (2016), 523--532.",
+                "DOI": "10.1111/cgf.12852",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-5",
+                "unstructured": "D. Baraff. 1989. Analytical methods for dynamic simulation of non-penetrating rigid bodies. InComputer Graphics Proceedings.ACM, New York, NY, USA, 223--232.",
+                "DOI": "10.1145/74333.74356",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-6",
+                "unstructured": "D. Baraff. 1991. Coping with friction for non-penetrating rigid body simulation. InComputer Graphics Proceedings.ACM, 31--40.",
+                "DOI": "10.1145/122718.122722",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-7",
+                "unstructured": "D. Baraff. 1994. Fast contact force computation for nonpenetrating rigid bodies. InComputer Graphics Proceedings.ACM, New York, NY, USA, 23--34.",
+                "DOI": "10.1145/192161.192168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-8",
+                "unstructured": "D. Baraff and A. Witkin. 1998. Large Steps in Cloth Simulation. InComputer Graphics Proceedings.43--54. http://www.cs.cmu.edu/~baraff/papers/sig98.pdf",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-9",
+                "unstructured": "D. Baraff, A. Witkin, and M. Kass. 2003. Untangling Cloth.ACM Transactions on Graphics22, 3 (2003), 862--870.",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-10",
+                "unstructured": "A. Bartle, A. Sheffer, V. Kim, D. Kaufman, N. Vining, and F. Berthouzoz. 2016. Physics-driven Pattern Adjustment for Direct 3D Garment Editing.ACM Trans. Graph.35, 4, Article 50 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925896",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-11",
+                "unstructured": "G. Bingham. 2012. Efficient Three Dimensional Modelling of Additive Manufactured Textile Structures."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-12",
+                "unstructured": "A. Blumentals, B. Brogliato, and F. Bertails-Descoubes. 2016. The contact problem in Lagrangian systems subject to bilateral and unilateral constraints, with or without sliding Coulomb's friction: a tutorial.Multibody System Dynamics38, 1 (2016), 43--76.",
+                "DOI": "10.1007/s11044-016-9527-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-13",
+                "unstructured": "F. Bossen and P. Heckbert. 1996. A Pliant Method for Anisotropic Mesh Generation. InProc. 5th International Meshing Roundtable.63--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-14",
+                "unstructured": "R. Bridson, R. Fedkiw, and R. Anderson. 2002. Robust treatment of collisions, contact and friction for cloth animation.ACM Trans. Graph.21, 3 (2002), 594--603. http://www.cs.ubc.ca/~rbridson/docs/cloth2002.pdf",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-15",
+                "unstructured": "R. Bridson, S. Marino, and R. Fedkiw. 2003. Simulation of Clothing with Folds and Wrinkles. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 28--36. http://dl.acm.org/citation.cfm?id=846276.846281"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-16",
+                "unstructured": "T. Brochu and R. Bridson. 2009. Robust Topological Operations for Dynamic Explicit Surfaces.SIAM Journal on Scientific Computing31, 4 (2009), 2472--2493. arXiv:http://dx.doi.org/10.1137/080737617",
+                "DOI": "10.1137/080737617",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-17",
+                "unstructured": "F. Cadoux. 2009.M&#233;thodes d'optimisation pour la dynamique non-r&#233;guli&#232;re.Ph.D. Dissertation. Universit&#233; Joseph Fourier."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-18",
+                "unstructured": "R. Casati, G. Daviet, and F. Bertails-Descoubes. 2016.Inverse elastic cloth design with contact and friction.Research Report. Inria Grenoble Rh&#244;ne-Alpes, Universit&#233; de Grenoble. https://hal.archives-ouvertes.fr/hal-01309617"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-19",
+                "unstructured": "G. Cirio, J. Lopez-Moreno, D. Miraut, and M. Otaduy. 2014. Yarn-level Simulation of Woven Cloth.ACM Trans. Graph.33, 6, Article 207 (Nov. 2014), 11 pages.",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-20",
+                "unstructured": "A. Clegg, J. Tan, G. Turk, and K. Liu. 2015. Animating Human Dressing.ACM Trans. Graph.34, 4, Article 116 (July 2015), 9 pages.",
+                "DOI": "10.1145/2766986",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-21",
+                "unstructured": "R. Cottle, J.-S. Pang, and R. Stone. 2009.Numerical methods for nonsmooth dynamical systems.Siam."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-22",
+                "unstructured": "P. Cundall. 1971. A computer model for simulating progressive large scale movements of blocky rock systems. In Proceedings of the Symposium of the International Society of Rock Mechanics. InProceedings of the Symposium of the International Society of Rock Mechanics, Vol. 1. 132--150."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-23",
+                "unstructured": "G. Daviet. 2016.Modeling and simulating complex materials subject to frictional contact: Application to fibrous and granular media.Ph.D. Dissertation. Universit&#233; Grenoble Alpes. https://tel.archives-ouvertes.fr/tel-01684673"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-24",
+                "unstructured": "G. Daviet, F. Bertails-Descoubes, and L. Boissieux. 2011. A hybrid iterative solver for robustly capturing Coulomb friction in hair dynamics.ACM Trans. Graph.30 (2011), 139:1--139:12. Issue 6. http://www.inrialpes.fr/bipop/people/bertails/Papiers/hybridIterativeSolverHairDynamicsSiggraphAsia2011.html",
+                "DOI": "10.1145/2070781.2024173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-25",
+                "unstructured": "G. Daviet, F. Bertails-Descoubes, and R. Casati. 2015. Fast Cloth Simulation with Implicit Contact and Exact Coulomb Friction. ACM SIGGRAPH / Eurographics Symposium on Computer Animation. (Aug. 2015). https://hal.inria.fr/hal-01180756 Poster.",
+                "DOI": "10.1145/2786784.2795139",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-26",
+                "unstructured": "G. De Saxc&#233; and Z.-Q. Feng. 1998. The bipotential method: a constructive approach to design the complete contact law with friction and improved numerical algorithms.Math. Comput. Modelling28, 4--8 (1998), 225--245."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-27",
+                "unstructured": "E. English and R. Bridson. 2008. Animating developable surfaces using nonconforming elements.ACM Trans. Graph.27, 3 (2008), 1--5.",
+                "DOI": "10.1145/1360612.1360665",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-28",
+                "unstructured": "Z. Erickson, A. Clegg, W. Yu, G. Turk, C. K. Liu, and C. C. Kemp. 2017. What does the person feel? Learning to infer applied forces during robot-assisted dressing. In2017 IEEE International Conference on Robotics and Automation (ICRA).6058--6065.",
+                "DOI": "10.1109/ICRA.2017.7989718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-29",
+                "unstructured": "M. Fukushima, Z.-Q. Luo, and P. Tseng. 2002. Smoothing Functions for Second-Order-Cone Complementarity Problems.SIAM J. on Optimization12 (February 2002), 436--460. Issue 2."
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-30",
+                "unstructured": "R. Goldenthal, D. Harmon, R. Fattal, M. Bercovier, and E. Grinspun. 2007. Efficient simulation of inextensible cloth. InACM Trans. Graph. (SIGGRAPH '07).ACM, New York, NY, USA, Article 49.",
+                "DOI": "10.1145/1275808.1276438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-31",
+                "unstructured": "E. Grinspun, A. Hirani, M. Desbrun, and P. Schr&#246;der. 2003. Discrete Shells. InACM SIGGRAPH - EG Symposium on Computer Animation (SCA '03).ACM-EG SCA, 62--67. http://www.multires.caltech.edu/pubs/ds.pdf"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-32",
+                "unstructured": "D. Harmon, E. Vouga, B. Smith, R. Tamstorf, and E. Grinspun. 2009. Asynchronous Contact Mechanics.ACM Trans. Graph.28, 3, Article 87 (July 2009), 12 pages.",
+                "DOI": "10.1145/1576246.1531393",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-33",
+                "unstructured": "D. Harmon, E. Vouga, R. Tamstorf, and E. Grinspun. 2008. Robust Treatment of Simultaneous Collisions.ACM Trans. Graph.27, 3, Article 23 (Aug. 2008), 4 pages.",
+                "DOI": "10.1145/1399504.1360622",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-34",
+                "unstructured": "M. Inoue. 2011. Surface Friction Properties of Fabrics and Human Skin, in New Tribological Ways. InCroatia: InTech.265--272. http://cdn.intechweb.org/pdfs/15598.pdf",
+                "DOI": "10.5772/14712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-35",
+                "unstructured": "M. Jean. 1999. The Non Smooth Contact Dynamics Method.Computer Methods in Applied Mechanics and Engineering177 (1999), 235--257. Special issue on computational modeling of contact and friction, J.A.C. Martins and A. Klarbring, editors.",
+                "DOI": "10.1016/S0045-7825(98)00383-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-36",
+                "unstructured": "C. Jiang, T. Gast, and J. Teran. 2017. Anisotropic Elastoplasticity for Cloth, Knit and Hair Frictional Contact.ACM Trans. Graph.36, 4, Article 152 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-37",
+                "unstructured": "D. Kaufman, T. Edmunds, and D. Pai. 2005. Fast frictional dynamics for rigid bodies.ACM Trans. Graph.24, 3 (2005), 946--956.",
+                "DOI": "10.1145/1073204.1073295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-38",
+                "unstructured": "D. Kaufman, S. Sueda, D. James, and D. Pai. 2008. Staggered Projections for Frictional Contact in Multibody Systems.ACM Trans. Graph.27, 5, Article 164 (Dec. 2008), 11 pages.",
+                "DOI": "10.1145/1457515.1409117",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-39",
+                "unstructured": "A. Klarbring. 1987. Contact Problems with Friction by Linear Complementarity.Unilateral Problems in Structural Analysis - 2(1987), 197--219.",
+                "DOI": "10.1007/978-3-7091-2967-8_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-40",
+                "unstructured": "M. Konakovi&#263;, K. Crane, B. Deng, S. Bouaziz, D. Piker, and M. Pauly. 2016. Beyond Developable: Computational Design and Fabrication with Auxetic Materials.ACM Trans. Graph.35, 4, Article 89 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-41",
+                "unstructured": "E. Miguel, D. Bradley, B. Thomaszewski, B. Bickel, W. Matusik, M. Otaduy, and S. Marschner. 2012. Data-Driven Estimation of Cloth Simulation Models.Computer Graphics Forum31, 2 (may 2012). http://www.gmrv.es/Publications/2012/MBTBMOM12",
+                "DOI": "10.1111/j.1467-8659.2012.03031.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-42",
+                "unstructured": "M. Moore and J. Wilhelms. 1988. Collision detection and response for computer animation. InComputer Graphics Proceedings.289--298.",
+                "DOI": "10.1145/378456.378528",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-43",
+                "unstructured": "J.-J. Moreau. 1988. Unilateral contact and dry friction in finite freedom dynamics. Nonsmooth mechanics and applications, CISM Courses Lect. 302, 1--82 (1988)..(1988).",
+                "DOI": "10.1007/978-3-7091-2624-0_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-44",
+                "unstructured": "R. Narain, T. Pfaff, and J. O'Brien. 2013. Folding and Crumpling Adaptive Sheets.ACM Trans. Graph.32, 4 (2013), 51.",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-45",
+                "unstructured": "R. Narain, A. Samii, and J. O'Brien. 2012. Adaptive Anisotropic Remeshing for Cloth Simulation.ACM Trans. Graph.31, 6, Article 152 (Nov. 2012), 10 pages.",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-46",
+                "unstructured": "M. Otaduy, R. Tamstorf, D. Steinemann, and M. Gross. 2009. Implicit Contact Handling for Deformable Objects.Computer Graphics Forum28, 2 (2009), 559--568.",
+                "DOI": "10.1111/j.1467-8659.2009.01396.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-47",
+                "unstructured": "S. Pabst, B. Thomaszewski, and W. Stra&#223;er. 2009. Anisotropic Friction for Deformable Surfaces and Solids. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '09).ACM, New York, NY, USA, 149--154.",
+                "DOI": "10.1145/1599470.1599490",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-48",
+                "unstructured": "X. Provot. 1997. Collision and self-collision handling in cloth model dedicated to design garments. InComputer Animation and Simulation '97, Daniel Thalmann and Michiel van de Panne (Eds.). Springer Vienna, Vienna, 177--189.",
+                "DOI": "10.1007/978-3-7091-6874-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-49",
+                "unstructured": "L. Sigal, M. Mahler, S. Diaz, K. McIntosh, E. Carter, T. Richards, and J. Hodgins. 2015. A Perceptual Control Space for Garment Simulation.ACM Trans. Graph.34, 4, Article 117(July 2015), 10 pages.",
+                "DOI": "10.1145/2766971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-50",
+                "unstructured": "D. Stewart and J. Trinkle. 1996. An implicit time-stepping scheme for rigid body dynamics with inelastic collisions and Coulomb friction.Internat. J. Numer. Methods Engrg.39, 15 (1996).",
+                "DOI": "10.1002/(SICI)1097-0207(19960815)39:15<2673::AID-NME972>3.0.CO;2-I",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-51",
+                "unstructured": "B. Thomaszewski, S. Pabst, and W. Strasser. 2009. Continuum-based Strain Limiting.Computer Graphics Forum28, 2 (apr 2009).",
+                "DOI": "10.1111/j.1467-8659.2009.01397.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-52",
+                "unstructured": "P. Volino and N. Magnenat-Thalmann. 2006. Resolving Surface Collisions Through Intersection Contour Minimization.ACM Trans. Graph.25, 3 (July 2006), 1154--1159.",
+                "DOI": "10.1145/1141911.1142007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201308-53",
+                "unstructured": "H. Wang, R. Ramamoorthi, and J. O'Brien. 2011. Data-driven elastic models for cloth: modeling and measurement.ACM Trans. Graph.30, 4, Article 71 (Aug. 2011), 12 pages.",
+                "DOI": "10.1145/1964921.1964966",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201308&ftid=1991582&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:46:04Z",
+            "timestamp": 1571672764000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201308",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

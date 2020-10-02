@@ -1,0 +1,106 @@
+{
+    "Timestamp": "1/21/2020 15:56:48",
+    "Title": "Fast and Exact Discrete Geodesic Computation Based on Triangle-Oriented Wavefront Propagation",
+    "DOI": "10.1145/2897824.2925930",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/YipengQin/VTP_source_code",
+    "code URL  2": "",
+    "PDF URL": "https://i.cs.hku.hk/~yzyu/publication/VTPgeodesic-sig2016.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "None",
+    "Mandatory Software dependencies": "None",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Shape modeling",
+    "ACM 2": "Computational geometry",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "The code comes with no makefile, but it is straightforward to compile it (a single main.cpp and a few .h, with no external dependencies, which is ideal). Given the stdafx.h, I compiled it with Visual Studio 2017, creating a solution in no effort. \nHowever, std::auto_ptr is soon to be deprecated. Right now, you need to #include <memory> in  geodesic_memory.h to compile it. Some people mention the preprocessor directive _HAS_AUTO_PTR_ETC=1 but this was not useful for me (perhaps VS2019).\nData were not provided, so I computed geodesics on meshes of my own. I managed to compute single source/all destinations geodesics of a 474K triangle mesh in 4.8 seconds on a 2.8GHz laptop, which matches timings in the paper (382K triangles in 4.13 seconds, on a 3.4GHz desktop machine).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 24,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Yipeng",
+            "family": "Qin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Bournemouth University"
+                }
+            ]
+        },
+        {
+            "given": "Xiaoguang",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Hongchuan",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bournemouth University"
+                }
+            ]
+        },
+        {
+            "given": "Yizhou",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Jianjun",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bournemouth University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

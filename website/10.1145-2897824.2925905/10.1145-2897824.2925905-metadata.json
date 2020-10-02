@@ -1,0 +1,334 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:19Z",
+            "timestamp": 1574815939138
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925905",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Efficient dynamic skinning with low-rank helper bone controllers"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Tomohiko",
+                "family": "Mukai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tokai University"
+                    }
+                ]
+            },
+            {
+                "given": "Shigeru",
+                "family": "Kuriyama",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Toyohashi University of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925905-1",
+                "unstructured": "Andersen, M. S., Dahl, J., and Vandenberghe, L. CVXOPT: A python package for convex optimization. http://cvxopt.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-2",
+                "unstructured": "Angelidis, A., and Singh, K. 2007. Kinodynamic skinning using volume-preserving deformations. In Proceedings of ACMSIGGRAPH/Eurographics Symposium on Computer Animation 2007, 129--140."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-3",
+                "unstructured": "de Aguiar, E., Sigal, L., Treuille, A., and Hodgins, J. K. 2010. Stable spaces for real-time clothing.ACM Transactions on Graphics 29, 4, 106:1--106:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-4",
+                "unstructured": "Fan, Y., Litven, J., and Pai, D. K. 2014. Active volumetric musculoskeletal systems.ACM Transactions on Graphics 33, 4, 152:1--152:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-5",
+                "unstructured": "Hahn, F., Martin, S., Thomaszewski, B., Sumner, R., Coros, S., and Gross, M. 2012. Rig-space physics.ACM Transactions on Graphics 31, 4, 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-6",
+                "unstructured": "Hahn, F., Thomaszewski, B., Coros, S., Sumner, R., and Markus. 2013. Efficient simulation of secondary motion in rig-space. InProceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation 2013, 165--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-7",
+                "unstructured": "Hsu, E., Pulli, K., and Popovi&#263;, J. 2005. Style translation for human motion.ACM Transactions on Graphics 24, 3, 1082--1089."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-8",
+                "unstructured": "James, D. L., and Pai, D. K. 2002. Dyrt: Dynamic response textures for real time deformation simulation with graphics hardware.ACM Transactions on Graphics 21, 3, 582--585."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-9",
+                "unstructured": "Kavan, L., and Sorkine, O. 2012. Elasticity-inspired deformers for character articulation.ACM Transactions on Graphics 31, 6, 196:1--196:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-10",
+                "unstructured": "Kavan, L., Collins, S., Zara, J., and O'Sullivan, C. 2007. Skinning with dual quaternions. InProceedings of ACM SIGGRAPH Symposium on Interactive 3D Graphics 2007, 39--46."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-11",
+                "unstructured": "Kim, J., and Kim, C.-H. 2011. Implementation and application of the real-time helper-joint system. InGame Developers Conference 2011."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-12",
+                "unstructured": "Kry, P. G., James, D. L., and Pai, D. K. 2002. Eigenskin: Real time large deformation character skinning in hardware. InProc. of ACM SIGGRAPH/Eurographics Symposium on Computer Animation 2002, 153--159."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-13",
+                "unstructured": "Larimore, W. 1990. Canonical variate analysis in identification, filtering and adaptive control. InProceedings of Control &#38; Decision Conference, 596--604."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-14",
+                "unstructured": "Le, B. H., and Deng, Z. 2012. Smooth skinning decomposition with rigid bones.ACM Transactions on Graphics 31, 6, 199:1--199:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-15",
+                "unstructured": "Le, B. H., and Deng, Z. 2014. Robust and accurate skeletal rigging from mesh sequences.ACM Transactions on Graphics 33, 4, 84."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-16",
+                "unstructured": "Lewis, J. P., Cordner, M., and Fong, N. 2000. Pose space deformation: A unified approach to shape interpolation and skeleton-driven deformation. InProceedings of SIGGRAPH 2000, 165--172.",
+                "DOI": "10.1145/344779.344862",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-17",
+                "unstructured": "Li, D., Sueda, S., Neog, D. R., and Pai, D. K. 2013. Thin skin elastodynamics.ACM Transactions on Graphics 32, 4, 49:1--49:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-18",
+                "unstructured": "Liu, Z., and Vandenberghe, L. 2009. Interior-point method for nuclear norm approximation with application to system identification.SIAM Journal on Matrix Analysis and Application 31, 3, 1235--1256."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-19",
+                "unstructured": "Liu, Z., Hansson, A., and Vandenberghe, L. 2013. Nuclear norm system identification with missing inputs and outputs.Systems &#38; Control Letters 62, 8, 605--612."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-20",
+                "unstructured": "Liu, Z. 2009.Structured Semidefinite Programs in System Identification and Control. PhD thesis, University of California, Los Angeles."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-21",
+                "unstructured": "Ljung, L. 1999.System Identification: Theory for the User. Prentice Hall.",
+                "DOI": "10.1002/047134608X.W1046",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-22",
+                "unstructured": "Loper, M., and Black, N. M. M. J. 2014. Motion and shape capture from sparse markers.ACM Transactions on Graphics 33, 6, 220:1--220:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-23",
+                "unstructured": "Loper, M., Mahmood, N., Romero, J., Pons-Moll, G., and Black, M. J. 2015. SMPL: A skinned multi-person linear model.ACM Transactions on Graphics 34, 6, 248:1--248:16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-24",
+                "unstructured": "Magnenat-Thalmann, N., Laperri&#232;re, R., and Thalmann, D. 1988. Joint-dependent local deformations for hand animation and object grasping. InProceedings on Graphics Interface '88, 26--33."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-25",
+                "unstructured": "Mari, J., Stoica, P., and McKelvey, T. 2000. Vector ARMA estimation: a reliable subspace approach.IEEE Transaction on Signal Processing 48, 7, 2092--2104."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-26",
+                "unstructured": "Mohr, A., and Gleicher, M. 2003. Building efficient, accurate character skins from examples.ACM Transactions on Graphics 22, 3, 562--568."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-27",
+                "unstructured": "Moor, B. D., Marc Moonen and, L. V., and Vandewalle, J. 1988. A geometrical approach for the identification of state space models with singular value decomposition. InInternational Conference on Acoustics, Speech, and Signal Processing, vol. 4, 2244--2247."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-28",
+                "unstructured": "Mukai, T. 2015. Building helper bone rigs from examples. InProceedings of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2015, 77--84."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-29",
+                "unstructured": "Neumann, T., Varanasi, K., Hasler, N., Wacker, M., Magnor, M., and Theobalt, C. 2013. Capture and statistical modeling of arm-muscle deformations.Computer Graphics Forum 32, 2, 285--294."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-30",
+                "unstructured": "Park, S. I., and Hodgins, J. K. 2008. Data-driven modeling of skin and muscle deformation.ACM Transactions on Graphics 27, 3, 96:1--96:6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-31",
+                "unstructured": "Parks, J. 2005. Helper joints: Advanced deformations on runtime characters. InGame Developers Conference 2005."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-32",
+                "unstructured": "Pons-Moll, G., Romero, J., Mahmood, N., and Black, M. J. 2015. Dyna: A model of dynamic human shape in motion.ACM Transactions on Graphics 33, 4, 120:1--120:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-33",
+                "unstructured": "Recht, B., Fazel, M., and Parrilo, P. A. 2010. Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization.SIAM Review 52, 3, 471--501."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-34",
+                "unstructured": "Rumman, N. A., and Fratarcangeli, M. 2015. Position-based skinning for soft articulated characters.Computer Graphics Forum 34, 6, 240--250."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-35",
+                "unstructured": "Shi, X., Zhou, K., Tong, Y., Desbrun, M., Bao, H., and Guo, B. 2008. Example-based dynamic skinning in real time.ACM Transactions on Graphics 27, 3, 29:1--29:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-36",
+                "unstructured": "Tibshirani, R. 2011. Regression shrinkage and selection via the lasso: A retrospective.Journal of the Royal Statistical Society: Series B (Statistical Methodology) 73, 3, 273--282."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-37",
+                "unstructured": "Verhaegen, M. 1994. Identification of the deterministic part of MIMO state space models given in innovations form from input-output data.Automatica 30, 1, 61--74."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-38",
+                "unstructured": "Viberg, M. 1995. On subspace-based methods for the identification of linear time-invariant systems.Automatica 31, 12, 1835--1852."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-39",
+                "unstructured": "Wang, X. C., and Phillips, C. 2002. Multi-weight enveloping: Least-squares approximation techniques for skin animation. InProceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 129--138.",
+                "DOI": "10.1145/545261.545283",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-40",
+                "unstructured": "Wang, R. Y., Pulli, K., and Popovi&#263;, J. 2007. Real-time enveloping with rotational regression.ACM Transactions on Graphics 26, 3, 73:1--73:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925905-41",
+                "unstructured": "Xia, S., Wang, C., Chai, J., and Hodgins, J. 2015. Realtime style transfer for unlabeled heterogeneous human motion.ACM Transactions on Graphics 34, 4, 119:1--119:10."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925905&amp;ftid=1755874&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:36:05Z",
+            "timestamp": 1568162165000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925905",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

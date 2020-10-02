@@ -1,0 +1,113 @@
+{
+    "Timestamp": "1/9/2020 15:15:10",
+    "Title": "Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines",
+    "DOI": "10.1145/2601097.2601174",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://darkroom-lang.org",
+    "code URL  2": "http://github.com/jameshegarty/darkroom",
+    "PDF URL": "http://graphics.stanford.edu/papers/darkroom14/darkroom14.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Commandline instructions in README",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Logic Design",
+    "ACM 2": "Hardware Architecture",
+    "ACM 3": "Graphics Processors",
+    "ACM 4": "Methodology and Techniques\u2014Languages",
+    "ACM 5": "General\u2014Image Processing Software",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "I've installed the 2015-08-03 version of terra and tried to compile the examples but all examples failed due to some #include \"stdio.h\" issues.\n\n> import \"darkroom\"\n<buffer>:1:10: fatal error: 'stdio.h' file not found\n#include \"stdio.h\"\n         ^\ncompilation of included c code failed\n\nstack traceback:\n\tsrc/terralib.lua:3664: in function 'includec'\n\t./darkroom.t:1: in main chunk\n\t[C]: at 0x010690af60\n\t[C]: in function 'xpcall'\n\tsrc/terralib.lua:4506: in function <src/terralib.lua:4505>\n\n----\nSame issue on Linux",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 110,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Terra",
+    "Project URL": "http://graphics.stanford.edu/papers/darkroom14/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2014,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "James",
+            "family": "Hegarty",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "John",
+            "family": "Brunhaver",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Zachary",
+            "family": "DeVito",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Jonathan",
+            "family": "Ragan-Kelley",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Noy",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Steven",
+            "family": "Bell",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Artem",
+            "family": "Vasilyev",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Mark",
+            "family": "Horowitz",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Pat",
+            "family": "Hanrahan",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "Altmetric score": 4,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=4&types=aaaatttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=2907273"
+}

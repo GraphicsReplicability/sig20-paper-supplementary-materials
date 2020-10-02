@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ],
+            "date-time": "2020-01-10T07:43:32Z",
+            "timestamp": 1578642212512
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Technology Agency of the Czech Republic",
+                "award": [
+                    "TE01020415"
+                ]
+            },
+            {
+                "name": "Fulbright Scholarship",
+                "award": [
+                    "Daniel Sykora"
+                ]
+            },
+            {
+                "name": "Grant Agency of the Czech Technical University in Prague",
+                "award": [
+                    "SGS16/237/OHK3/3T/13"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201326",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Toonsynth"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Marek",
+                "family": "Dvoro\u017en\u00e1k",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Wilmot",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Vladimir G.",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "S\u00fdkora",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201326-1",
+                "unstructured": "Rahul Arora, Ishan Darolia, Vinay Namboodiri, Karan Singh, and Adrien Bousseau. 2017. SketchSoup: Exploratory Ideation Using Design Sketches. Computer Graphics Forum 36, 8 (2017), 302--312.",
+                "DOI": "10.1111/cgf.13081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-2",
+                "unstructured": "Yunfei Bai, Danny M Kaufman, Karen Liu, and Jovan Popovi&#263;. 2016. Artist-directed dynamics for 2D animation. ACM Transactions on Graphics 35, 4 (2016), 145."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-3",
+                "unstructured": "William Baxter and Ken-ichi Anjyo. 2006. Latent Doodle Space. Computer Graphics Forum 25, 3 (2006), 477--485.",
+                "DOI": "10.1111/j.1467-8659.2006.00967.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-4",
+                "unstructured": "William Baxter, Pascal Barla, and Ken Anjyo. 2009. N-way morphing for 2D animation. Journal of Visualization and Computer Animation 20, 2--3 (2009), 79--87."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-5",
+                "unstructured": "Pierre B&#233;nard, Forrester Cole, Michael Kass, Igor Mordatch, James Hegarty, Martin Sebastian Senn, Kurt Fleischer, Davide Pesare, and Katherine Breeden. 2013. Stylizing animation by example. ACM Transactions on Graphics 32, 4 (2013), 119."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-6",
+                "unstructured": "Mikhail Bessmeltsev, Nicholas Vining, and Alla Sheffer. 2016. Gesture3D: posing 3D characters via gesture drawings. ACM Transactions on Graphics 35, 6 (2016), 165.",
+                "DOI": "10.1145/2980179.2980240",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-7",
+                "unstructured": "Christoph Bregler, Lorie Loeb, Erika Chuang, and Hrishi Deshpande. 2002. Turning to the Masters: Motion Capturing Cartoons. ACM Transactions on Graphics 21, 3 (2002), 399--407.",
+                "DOI": "10.1145/566654.566595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-8",
+                "unstructured": "Ian Buck, Adam Finkelstein, Charles Jacobs, Allison Klein, David Salesin, Joshua Seims, Richard Szeliski, and Kentaro Toyama. 2000. Performance-Driven Hand-Drawn Animation. In Proceedings of International Symposium on Non-Photorealistic Animation and Rendering. 101--108.",
+                "DOI": "10.1145/340916.340929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-9",
+                "unstructured": "Nestor Burtnyk and Marceli Wein. 1976. Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation. Commun. ACM 19, 10 (1976), 564--569.",
+                "DOI": "10.1145/360349.360357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-10",
+                "unstructured": "Edwin Catmull. 1978. The Problems of Computer-Assisted Animation. 12, 3 (1978), 348--353."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-11",
+                "unstructured": "James Davis, Maneesh Agrawala, Erika Chuang, Zoran Popovic, and David Salesin. 2003. A sketching interface for articulated figure animation. In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 320--328."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-12",
+                "unstructured": "Marek Dvoro&#382;&#328;&#225;k, Pierre B&#233;nard, Pascal Barla, Oliver Wang, and Daniel S&#253;kora. 2017. Example-Based Expressive Animation of 2D Rigid Bodies. ACM Transactions on Graphics 36, 4, Article 127 (2017).",
+                "DOI": "10.1145/3072959.3073611",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-13",
+                "unstructured": "Elmar Eisemann and Fr&#233;do Durand. 2004. Flash photography enhancement via intrinsic relighting. ACM Transactions on Graphics 23, 3 (2004), 673--678.",
+                "DOI": "10.1145/1015706.1015778",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-14",
+                "unstructured": "Jakub Fi&#353;er, Ond&#345;ej Jamri&#353;ka, Michal Luk&#225;&#269;, Eli Shechtman, Paul Asente, Jingwan Lu, and Daniel S&#253;kora. 2016. Stylit: Illumination-guided Example-based Stylization of 3D Renderings. ACM Transactions on Graphics 35, 4 (2016), 92.",
+                "DOI": "10.1145/2897824.2925948",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-15",
+                "unstructured": "Jakub Fi&#353;er, Ond&#345;ej Jamri&#353;ka, David Simons, Eli Shechtman, Jingwan Lu, Paul Asente, Michal Luk&#225;&#269;, and Daniel S&#253;kora. 2017. Example-Based Synthesis of Stylized Facial Animations. ACM Transactions on Graphics 36, 4, Article 155 (2017).",
+                "DOI": "10.1145/3072959.3073660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-16",
+                "unstructured": "Jakub Fi&#353;er, Michal Luk&#225;&#269;, Ond&#345;ej Jamri&#353;ka, Martin &#268;ad&#237;k, Yotam Gingold, Paul Asente, and Daniel S&#253;kora. 2014. Color Me Noisy: Example-Based Rendering of Hand-Colored Animations with Temporal Noise Control. Computer Graphics Forum 33, 4 (2014), 1--10.",
+                "DOI": "10.1111/cgf.12407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-17",
+                "unstructured": "Ben Glocker, Nikos Komodakis, Georgios Tziritas, Nassir Navab, and Nikos Paragios. 2008. Dense Image Registration Through MRFs And Efficient Linear Programming. Medical Image Analysis 12, 6 (2008), 731--741.",
+                "DOI": "10.1016/j.media.2008.03.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-18",
+                "unstructured": "William van Haevre, Fabian di Fiore, and Frank van Reeth. 2005. Uniting Cartoon Textures with Computer Assisted Animation. In Proceedings of International Conference on Computer Graphics and Interactive Techniques in Australasia and South East Asia. 245--253.",
+                "DOI": "10.1145/1101389.1101437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-19",
+                "unstructured": "Aaron Hertzmann, Charles E Jacobs, Nuria Oliver, Brian Curless, and David H Salesin. 2001. Image analogies. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques. ACM, 327--340.",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-20",
+                "unstructured": "Alexander Hornung, Ellen Dekkers, and Leif Kobbelt. 2007. Character Animation from 2D Pictures and 3D Motion Data. ACM Transactions on Graphics 26, 1 (2007).",
+                "DOI": "10.1145/1189762.1189763",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-21",
+                "unstructured": "Eakta Jain, Yaser Sheikh, and Jessica Hodgins. 2009. Leveraging the talent of hand animators to create three-dimensional animation. In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 93--102.",
+                "DOI": "10.1145/1599470.1599483",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-22",
+                "unstructured": "Ben Jones Jovan Popovic, James McCann, Wilmot Li, and Adam Bargteil. 2015. Dynamic sprites: Artistic authoring of interactive animations. Journal of Visualization and Computer Animation 26, 2 (2015), 97--108."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-23",
+                "unstructured": "Christina de Juan and Bobby Bodenheimer. 2004. Cartoon Textures. In Proceedings of Eurographics Symposium on Computer Animation. 267--276.",
+                "DOI": "10.1145/1028523.1028559",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-24",
+                "unstructured": "Christina de Juan and Bobby Bodenheimer. 2006. Re-using traditional animation: Methods for semi-automatic segmentation and inbetweening. In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 223--232."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-25",
+                "unstructured": "Rubaiat Habib Kazi, Tovi Grossman, Nobuyuki Umetani, and George Fitzmaurice. 2016. Motion Amplifiers: Sketching Dynamic Illustrations Using the Principles of 2D Animation. In Proceedings of ACM Conference on Human Factors in Computing Systems. 4599--4609."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-26",
+                "unstructured": "Alexander Kort. 2002. Computer Aided Inbetweening. In Proceedings of International Symposium on Non-Photorealistic Animation and Rendering. 125--132.",
+                "DOI": "10.1145/508530.508552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-27",
+                "unstructured": "Lucas Kovar, Michael Gleicher, and Fr&#233;d&#233;ric Pighin. 2002. Motion Graphs. ACM Transactions on Graphics 21, 3 (2002), 473--482.",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-28",
+                "unstructured": "Vivek Kwatra, Irfan Essa, Aaron Bobick, and Nipun Kwatra. 2005. Texture optimization for example-based synthesis. ACM Transactions on Graphics 24, 3 (2005), 795--802.",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-29",
+                "unstructured": "John Lasseter. 1987. Principles of Traditional Animation Applied to 3D Computer Animation. In Proceedings of the 14th Annual Conference on Computer Graphics and Interactive Techniques. 35--44.",
+                "DOI": "10.1145/37401.37407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-30",
+                "unstructured": "Seungyong Lee, George Wolberg, and Sung Yong Shin. 1998. Polymorph: Morphing Among Multiple Images. IEEE Computer Graphics and Applications 18, 1 (1998), 58--71.",
+                "DOI": "10.1109/38.637304",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-31",
+                "unstructured": "Sun-Young Lee, Jong-Chul Yoon, Ji-Yong Kwon, and In-Kwon Lee. 2012. CartoonModes: Cartoon Stylization of Video Objects Through Modal Analysis. Graphical Models 74, 2 (2012), 51--60.",
+                "DOI": "10.1016/j.gmod.2012.02.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-32",
+                "unstructured": "Dushyant Mehta, Srinath Sridhar, Oleksandr Sotnychenko, Helge Rhodin, Mohammad Shafiei, Hans-Peter Seidel, Weipeng Xu, Dan Casas, and Christian Theobalt. 2017. VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera. ACM Transactions on Graphics 36, 4 (2017), 44:1--44:14.",
+                "DOI": "10.1145/3072959.3073596",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-33",
+                "unstructured": "Johannes Schmid, Robert Sumner, Huw Bowles, and Markus Gross. 2010. Programmable Motion Effects. ACM Transactions on Graphics 29, 4 (2010), 57."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-34",
+                "unstructured": "Daniel S&#253;kora, Mirela Ben-Chen, Martin &#268;ad&#237;k, Brian Whited, and Maryann Simmons. 2011. TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations. In Proceedings of International Symposium on Non-Photorealistic Animation and Rendering. 75--83.",
+                "DOI": "10.1145/2024676.2024689",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-35",
+                "unstructured": "Daniel S&#253;kora, Jan Buri&#225;nek, and Ji&#345;&#237; &#381;&#225;ra. 2005. Sketching Cartoons by Example. In Proceedings of Eurographics Workshop on Sketch-Based Interfaces and Modeling. 27--34."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-36",
+                "unstructured": "Daniel S&#253;kora, John Dingliana, and Steven Collins. 2009. As-Rigid-As-Possible Image Registration for Hand-Drawn Cartoon Animations. In Proceedings of International Symposium on Non-Photorealistic Animation and Rendering. 25--33.",
+                "DOI": "10.1145/1572614.1572619",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-37",
+                "unstructured": "Daniel S&#253;kora, Ladislav Kavan, Martin &#268;ad&#237;k, Ond&#345;ej Jamri&#353;ka, Alec Jacobson, Brian Whited, Maryann Simmons, and Olga Sorkine-Hornung. 2014. Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters. ACM Transactions on Graphics 33, 2 (2014), 16.",
+                "DOI": "10.1145/2591011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-38",
+                "unstructured": "Daniel S&#253;kora, David Sedlacek, Sun Jinchao, John Dingliana, and Steven Collins. 2010. Adding Depth to Cartoons Using Sparse Depth (In)equalities. Computer Graphics Forum 29, 2 (2010), 615--623.",
+                "DOI": "10.1111/j.1467-8659.2009.01631.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-39",
+                "unstructured": "Cedric Vanaken, Chris Hermans, Tom Mertens, Fabian Di Fiore, Philippe Bekaert, and Frank Van Reeth. 2008. Strike a Pose: Image-Based Pose Synthesis. In Proceedings of the Conference on Vision, Modeling and Visualization. 131--138."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-40",
+                "unstructured": "Jue Wang, Steven Drucker, Maneesh Agrawala, and Michael Cohen. 2006. The Cartoon Animation Filter. ACM Transactions on Graphics 25, 3 (2006), 1169--1173.",
+                "DOI": "10.1145/1141911.1142010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-41",
+                "unstructured": "Xun Wang, Wenwu Yang, Haoyu Peng, and Guozheng Wang. 2013. Shape-aware skeletal deformation for 2D characters. The Visual Computer 29, 6--8 (2013), 545--553."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-42",
+                "unstructured": "Yonatan Wexler, Eli Shechtman, and Michal Irani. 2007. Space-Time Completion of Video. IEEE Transactions on Pattern Analysis and Machine Intelligence 29, 3 (2007), 463--476.",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-43",
+                "unstructured": "Brian Whited, Gioacchino Noris, Maryann Simmons, Robert Sumner, Markus Gross, and Jarek Rossignac. 2010. BetweenIT: An Interactive Tool for Tight Inbetweening. Computer Graphics Forum 29, 2 (2010), 605--614.",
+                "DOI": "10.1111/j.1467-8659.2009.01630.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-44",
+                "unstructured": "Nora Willett, Wilmot Li, Jovan Popovic, Floraine Berthouzoz, and Adam Finkelstein. 2017. Secondary Motion for Performed 2D Animation. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST '17). ACM, New York, NY, USA, 97--108.",
+                "DOI": "10.1145/3126594.3126641",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-45",
+                "unstructured": "Wenwu Yang. 2017. Context-Aware Computer Aided Inbetweening. IEEE Transactions on Visualizaton and Computer Graphics (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-46",
+                "unstructured": "Chih-Kuo Yeh, Shi-Yang Huang, Pradeep Kumar Jayaraman, Chi-Wing Fu, and Tong-Yee Lee. 2017. Interactive High-Relief Reconstruction for Organic and Double-Sided Objects from a Photo. IEEE Transactions on Visualization and Computer Graphics 23, 7 (2017), 1796--1808.",
+                "DOI": "10.1109/TVCG.2016.2574705",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-47",
+                "unstructured": "Lei Zhang, Hua Huang, and Hongbo Fu. 2012. EXCOL: An EXtract-and-COmplete Layering Approach to Cartoon Animation Reusing. IEEE Transactions on Visualization and Computer Graphics 18, 7 (2012), 1156--1169.",
+                "DOI": "10.1109/TVCG.2011.111",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201326-48",
+                "unstructured": "Yufeng Zhu, Jovan Popovi&#263;, Robert Bridson, and Danny Kaufman. 2017. Planar Interpolation with Extreme Deformation, Topology Change and Dynamics. ACM Transactions on Graphics 36, 6 (2017), 213."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201326&ftid=1991641&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T18:02:43Z",
+            "timestamp": 1533060163000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "example-based synthesis of hand-colored cartoon animations"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201326",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

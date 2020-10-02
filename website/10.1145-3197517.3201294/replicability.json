@@ -1,0 +1,156 @@
+{
+    "Timestamp": "12/8/2019 17:33:40",
+    "Title": "Towards virtual reality infinite walking: dynamic saccadic redirection",
+    "DOI": "10.1145/3197517.3201294",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://research.nvidia.com/sites/default/files/pubs/2018-08_Towards-Virtual-Reality/paper_0.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Virtual reality",
+    "ACM 2": "Perception",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 33,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://1iyiwei.github.io/dsr-sig18/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Virtual Reality",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 1,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Qi",
+            "family": "Sun",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stony Brook University, NVIDIA, and Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Arie",
+            "family": "Kaufman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stony Brook University"
+                }
+            ]
+        },
+        {
+            "given": "Anjul",
+            "family": "Patney",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NVIDIA"
+                }
+            ]
+        },
+        {
+            "given": "Li-Yi",
+            "family": "Wei",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Omer",
+            "family": "Shapira",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NVIDIA"
+                }
+            ]
+        },
+        {
+            "given": "Jingwan",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Paul",
+            "family": "Asente",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Suwen",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stony Brook University"
+                }
+            ]
+        },
+        {
+            "given": "Morgan",
+            "family": "Mcguire",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NVIDIA"
+                }
+            ]
+        },
+        {
+            "given": "David",
+            "family": "Luebke",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NVIDIA"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

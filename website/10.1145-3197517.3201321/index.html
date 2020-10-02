@@ -1,0 +1,131 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">The layer laboratory: a calculus for additive and subtractive composition of anisotropic surface reflectance <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Tizian <span class="family">Zeltner</span></li>
+<li> Wenzel <span class="family">Jakob</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201321">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://rgl.epfl.ch/publications/Zeltner2018Layer">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_2.zip">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201321-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201321-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: No due to technical issue</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: CMakeLists, Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   8</li>
+<li><span class="family">Reviewer</span>: 1</li>
+</ul><h2>Comments</h2><pre>Linux : compiled successfully after several major changes:
+
+** File mitsuba-layers/src/liblayer/microfacet.cpp: because of a delete use of = for a std::bind, I changed lines 602 forward to: 
+    auto const &integ1 = std::bind(&microfacet_fresnel, mu_o, mu_i, 0.0, std::placeholders::_1, alpha_u, alpha_v, eta_);
+    auto const &integ2 = std::bind(&microfacet_fresnel_no_additional_factors, mu_o, mu_i, 0.0, std::placeholders::_1, alpha_u, alpha_v, eta_);
+    auto integrand = &integ1;
+    if (fresnel_only) { integrand = &integ2;  }
+
+** File mitsuba-layers/include/mitsuba/layer/sparse.h add #include<memory>
+** File mitsuba-layers/ext/enoki/include/enoki/alloc.h add #include<cstring>
+** File mitsuba-layers/CMakeLists.txt : add  -fpermissive to CMAKE_CXX_FLAGS
+
+** Files mitsuba-layers/ext/openexr/CMakeLists.txt an nori/ext/openexr/CMakeLists.txt
+add_custom_target(CopyIlmBaseLibs
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Half/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/IlmThread/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Iex/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Imath/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+)
+instead of 
+add_custom_target(CopyIlmBaseLibs
+COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Half/$<CONFIGURATION>
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$<CONFIGURATION>
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/IlmThread/$<CONFIGURATION>
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$<CONFIGURATION>
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Iex/$<CONFIGURATION>
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$<CONFIGURATION>
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Imath/$<CONFIGURATION>
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$<CONFIGURATION>
+)
+
+** file nori-layers/ext/tbb/include/tbb/pipeline.h
+Replace line 328:
+template<typename T> struct tbb_trivially_copyable { enum { value = std::has_trivial_copy_constructor<T>::value }; };
+by:
+ template<typename T> struct tbb_trivially_copyable { enum { value = std::is_trivially_copy_constructible<T>::value }; };
+
+
+
+However none of the jupyter notebooks worked due to a problem with the version of prompt_toolkit. jupyter notebooks to replicate the results are provided. I could turn some of them into python scripts, but there were a lot of compatibility issues with matplotlib. Also don't forget to source setpath.sh to be able to import the compiled mitsuba in python.
+
+MacOS Attempt: The paper provides the code and data to reproduce the paper results (C++ code and jupyter notebooks to reproduce the figures). Unfortunately, the mitsuba-layers and nori renderer fail to compile on linux and macOS. E.g.:
+  - mitsuba-layers (on macOS): issue with tbb
+     [  1%] Built target mitsuba-layer-obj
+     [  1%] Built target tbb_def_files
+     [  1%] Linking CXX shared library libtbb.dylib
+     clang: error: no such file or directory: 'and'
+     clang: error: no such file or directory: 'data/mitsuba-layers/b1/ext_build/tbb/tbb.def'
+  - nori : Thread issue at cmake level.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,1,1,3,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

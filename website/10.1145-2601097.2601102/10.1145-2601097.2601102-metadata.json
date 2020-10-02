@@ -1,0 +1,352 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410043
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004543",
+                "name": "China Scholarship Council",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "NSERC Canada",
+                "award": [
+                    "611370"
+                ]
+            },
+            {
+                "name": "CPSF",
+                "award": [
+                    "2012M520392"
+                ]
+            },
+            {
+                "name": "NSF China",
+                "award": [
+                    "61202333, 61363048"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601102",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 34,
+        "title": [
+            "Topology-varying 3D shape creation via structural blending"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ibraheem",
+                "family": "Alhashim",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Honghua",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Junjie",
+                "family": "Cao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Rui",
+                "family": "Ma",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601102-1",
+                "unstructured": "Alexa, M. 2002. Recent advances in mesh morphing.Computer Graphics Forum 21, 2, 173--198.",
+                "DOI": "10.1111/1467-8659.00575",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-2",
+                "unstructured": "Bernstein, G., and Wojtan, C. 2013. Putting holes in holey geometry: Topology change for arbitrary surfaces.ACM Trans. on Graph. 32, 4, 34:1--34:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-3",
+                "unstructured": "Breen, D., and Whitaker, R. 2001. A level-set approach for the metamorphosis of solid models.Visualization and Computer Graphics, IEEE Transactions on 7, 2, 173--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-4",
+                "unstructured": "Cohen-Or, D., Solomovic, A., and Levin, D. 1998. Three-dimensional distance field metamorphosis.ACM Trans. Graph. 17, 2, 116--141.",
+                "DOI": "10.1145/274363.274366",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-5",
+                "unstructured": "Cornea, N. D., Min, P., and Silver, D. 2007. Curve-skeleton properties, applications, and algorithms.IEEE Trans. Vis. &#38; Comp. Graphics 13, 3, 530--548."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-6",
+                "unstructured": "Fu, H., Tai, C.-L., and Zhang, H. 2004. Topology-free cut-and-paste editing over meshes. InProc. of Geometric Modeling and Processing, 173--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-7",
+                "unstructured": "Hilaga, M., Shinagawa, Y., Kohmura, T., and Kunii, T. L. 2001. Topology matching for fully automatic similarity estimation of 3D shapes. InProc. of SIGGRAPH, 203--212."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-8",
+                "unstructured": "Hughes, J. F. 1992. Scheduled Fourier volume morphing. InProc. of SIGGRAPH, 43--46."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-9",
+                "unstructured": "Jain, A., Thormahlen, T., Ritschel, T., and Seidel, H.-P. 2012. Exploring shape variations by 3D-model decomposition and part-based recombination.Computer Graphics Forum 31, 2, 631--640.",
+                "DOI": "10.1111/j.1467-8659.2012.03042.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-10",
+                "unstructured": "Kalogerakis, E., Chaudhuri, S., Koller, D., and Koltun, V. 2012. A probabilistic model for component-based shape synthesis.ACM Trans. on Graph. 31, 4, 55:1--55:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-11",
+                "unstructured": "Kanonchayos, P., Nishita, T., Yoshihisa, S., and Kunii, T. L. 2002. Topological morphing using Reeb graphs. InProc. of Cyber Worlds, 0465--."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-12",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson surface reconstruction. InProc. of Symp. on Geom. Proc., 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-13",
+                "unstructured": "Kreavoy, V., Julius, D., and Sheffer, A. 2007. Model composition from interchangeable components. InProc. of Pacific Graphics, 129--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-14",
+                "unstructured": "Li, X., Gu, X., and Qin, H. 2009. Surface mapping using consistent pants decomposition.IEEE Trans. Vis. &#38; Comp. Graphics 15, 4, 558--571."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-15",
+                "unstructured": "Mitra, N. J., Guibas, L. J., and Pauly, M. 2006. Partial and approximate symmetry detection for 3D geometry.ACM Trans. on Graph. 25, 3, 560--568.",
+                "DOI": "10.1145/1141911.1141924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-16",
+                "unstructured": "Pottmann, H., Leopoldseder, S., and Hofer, M. 2002. Approximation with active b-spline curves and surfaces. InProc. of Pacific Graphics, 8--17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-17",
+                "unstructured": "Schmidt, R., and Singh, K. 2010. meshmixer: an interface for rapid mesh composition. InSIGGRAPH Talks.",
+                "DOI": "10.1145/1837026.1837034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-18",
+                "unstructured": "Sebastian, T., Klein, P., and Kimia, B. 2004. Recognition of shapes by editing their shock graphs.IEEE Trans. Pat. Ana. &#38; Mach. Int. 26, 5, 550--571."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-19",
+                "unstructured": "Sharf, A., Blumenkrants, M., Shamir, A., and Cohen-Or, D. 2006. SnapPaste: an interactive technique for easy mesh composition.Vis. Comput. 22, 9, 835--844.",
+                "DOI": "10.1007/s00371-006-0068-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-20",
+                "unstructured": "Sheffer, A., Praun, E., and Rose, K. 2006. Mesh parameterization methods and their applications.Found. Trends. Comput. Graph. Vis. 2, 2, 105--171.",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-21",
+                "unstructured": "Shneiderman, B. 2006. Creativity support tools: Report from a US national science foundation sponsored workshop.Int. J. of Human-Computer Interaction 20, 6, 61--77.",
+                "DOI": "10.1207/s15327590ijhc2002_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-22",
+                "unstructured": "Surazhsky, T., Surazhsky, V., Barequet, G., and Tal, A. 2001. Blending polygonal shapes with different topologies.Computers &#38; Graphics 25, 2001."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-23",
+                "unstructured": "Tagliasacchi, A., Alhashim, I., Olson, M., and Zhang, H. 2012. Mean curvature skeletons.Computer Graphics Forum (Proc. of SGP) 31, 5, 1735--1744."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-24",
+                "unstructured": "Takahashi, S., Kokojima, Y., and Ohbuchi, R. 2001. Explicit control of topological transitions in morphing shapes of 3D meshes. InProc. of Pacific Graphics, 70--79."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-25",
+                "unstructured": "Takayama, K., Schmidt, R., Singh, K., Igarashi, T., Boubekeur, T., and Sorkine, O. 2011. Geobrush: Interactive mesh geometry cloning.Computer Graphics Forum 30, 2, 613--622.",
+                "DOI": "10.1111/j.1467-8659.2011.01883.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-26",
+                "unstructured": "Wang, Y., Xu, K., Li, J., Zhang, H., Shamir, A., Liu, L., Cheng, Z., and Xiong, Y. 2011. Symmetry hierarchy of man-made objects.Computer Graphics Forum 30, 2, 287--296.",
+                "DOI": "10.1111/j.1467-8659.2011.01885.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-27",
+                "unstructured": "Welch, W., and Witkin, A. 1994. Free-form shape design using triangulated surfaces. InProc. of SIGGRAPH, 247--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-28",
+                "unstructured": "Wicker, N., Nguyen, C. H., and Mamitsuka, H. 2013. A new dissimilarity measure for comparing labeled graphs.Linear Algebra and its Applications 438, 5, 2331--2338.",
+                "DOI": "10.1016/j.laa.2012.10.021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-29",
+                "unstructured": "Xu, K., Zhang, H., Cohen-Or, D., and Chen, B. 2012. Fit and diverse: set evolution for inspiring 3D shape galleries.ACM Trans. on Graph. 31, 4, 57:1--57:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-30",
+                "unstructured": "Zheng, Y., Cohen-Or, D., and Mitra, N. J. 2013. Smart variations: Functional substructures for part compatibility.Computer Graphics Forum (Proc. of Eurographics) 32, 2, 195--204."
+            },
+            {
+                "key": "key-10.1145/2601097.2601102-31",
+                "unstructured": "Zhou, Q.-Y., Ju, T., and Hu, S.-M. 2007. Topology repair of solid models using skeletons.IEEE Trans. Vis. &#38; Comp. Graphics 13, 4, 675--685."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601102&amp;ftid=1488967&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:00Z",
+            "timestamp": 1565663760000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601102",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

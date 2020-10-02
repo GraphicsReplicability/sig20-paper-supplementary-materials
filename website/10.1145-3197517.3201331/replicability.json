@@ -1,0 +1,95 @@
+{
+    "Timestamp": "1/19/2020 11:30:33",
+    "Title": "Progressive Parameterizations",
+    "DOI": "10.1145/3197517.3201331",
+    "PDF availability (beside dl.acm)": "On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...), on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 7,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/ChunyangYe/PP",
+    "code URL  2": "",
+    "PDF URL": "https://www.dropbox.com/s/jqn1xnc7orpjze5/papers_306s4-file1.pdf?dl=0",
+    "License type": "MIT",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 3,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Shape modeling",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "I did not used MinGW as recommended since Visual Studio was working well with the provided CMake, modulo minor edits in the project file (_USE_MATH_DEFINES and the .dll and .a were linked instead of the .lib files).",
+    "Does the paper already have a reproducibility stamp": "Yes, http://www.replicabilitystamp.org",
+    "Citation count (google scholar)": 14,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "OpenMesh / Eigen",
+    "Project URL": "http://staff.ustc.edu.cn/~fuxm/projects/ProgressivePara/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Ligang",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China, China"
+                }
+            ]
+        },
+        {
+            "given": "Chunyang",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China, China"
+                }
+            ]
+        },
+        {
+            "given": "Ruiqi",
+            "family": "Ni",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China, China"
+                }
+            ]
+        },
+        {
+            "given": "Xiao-Ming",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China, China"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

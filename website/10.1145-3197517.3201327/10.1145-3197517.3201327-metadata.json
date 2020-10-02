@@ -1,0 +1,378 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:44Z",
+            "timestamp": 1574859824660
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "CAREER-1055035, IIS-1422869"
+                ]
+            },
+            {
+                "name": "USC Annenberg Graduate Fellowship",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201327",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Immersion of self-intersecting solids and surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yijing",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            },
+            {
+                "given": "Jernej",
+                "family": "Barbi\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201327-1",
+                "unstructured": "Marco Attene. 2010. A lightweight approach to repairing digitized polygon meshes.The Visual Computer26, 11 (2010), 1393--1406.",
+                "DOI": "10.1007/s00371-010-0416-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-2",
+                "unstructured": "Marco Attene. 2014. Direct repair of self-intersecting meshes.Graphical Models76, 6 (2014), 658--668.",
+                "DOI": "10.1016/j.gmod.2014.09.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-3",
+                "unstructured": "J. B&#230;rentzen and H. Aan&#230;s. 2005. Signed Distance Computation using the Angle Weighted Pseudo-normal.IEEE Trans. on Visualization and Computer Graphics11, 3 (2005), 243--253.",
+                "DOI": "10.1109/TVCG.2005.49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-4",
+                "unstructured": "David Baraff, Andrew Witkin, and Michael Kass. 2003. Untangling cloth. InACM Transactions on Graphics (TOG), Vol. 22. 862--870.",
+                "DOI": "10.1145/1201775.882357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-5",
+                "unstructured": "Jernej Barbi&#269;, Yijing Li, Bohan Wang, and Danyong Zhao. 2018. Vega FEM Library 4.0. (2018). http://www.jernejbarbic.com/vega."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-6",
+                "unstructured": "Marcel Campen and Leif Kobbelt. 2010. Exact and Robust (Self-) Intersections for Polygonal Meshes. InComputer Graphics Forum, Vol. 29. 397--406.",
+                "DOI": "10.1111/j.1467-8659.2009.01609.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-7",
+                "unstructured": "CGAL. 2018. Computational Geometry Algorithms Library. (2018). http://www.cgal.org"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-8",
+                "unstructured": "Keenan Crane. 2017. 3D Model Repository. (2017). http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-9",
+                "unstructured": "David Eppstein and Elena Mumford. 2009. Self-overlapping curves revisited. InProc. of ACM-SIAM Symp. on Discrete Algorithms.160--169.",
+                "DOI": "10.1137/1.9781611973068.19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-10",
+                "unstructured": "Jeff Erickson. 2009. Computational Topology; Cell Complexes. InCourse Notes, University of Illinois at Urbana-Champaign.http://jeffe.cs.illinois.edu/teaching/comptop/2009/notes/cell-complexes.pdf"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-11",
+                "unstructured": "Dennis Frisch. 2010. Extending Immersions into the Sphere.arXiv preprint arXiv.1012.4923(2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-12",
+                "unstructured": "B. Heidelberger, M. Teschner, R. Keiser, M. M&#252;ller, and M. H. Gross. 2004. Consistent penetration depth estimation for deformable collision response. InVMV'04.339--346."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-13",
+                "unstructured": "F. H&#233;troy, S. Rey, C. And&#250;jar, P. Brunet, and A. Vinacua. 2011. Mesh repair with user-friendly topology control.Computer-Aided Design43, 1 (2011), 101--113.",
+                "DOI": "10.1016/j.cad.2010.09.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-14",
+                "unstructured": "Zhe Huang, Hongbo Fu, and Rynson WH Lau. 2014. Data-driven segmentation and labeling of freehand sketches.ACM Trans. on Graphics (TOG)33, 6 (2014), 175."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-15",
+                "unstructured": "Alec Jacobson, Ilya Baran, Jovan Popovi&#263;, and Olga Sorkine. 2011. Bounded Biharmonic Weights for Real-time Deformation.ACM Trans. Graph.30, 4 (2011), 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-16",
+                "unstructured": "Alec Jacobson, Ladislav Kavan, and Olga Sorkine-Hornung. 2013a. Robust inside-outside segmentation using generalized winding numbers.ACM Transactions on Graphics (TOG)32, 4 (2013), 33."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-17",
+                "unstructured": "A Jacobson, D Panozzo, C Sch&#252;ller, O Diamanti, Q Zhou, N Pietroni, et al. 2013b. libigl: A simple C++ geometry processing library. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-18",
+                "unstructured": "Weishi Li. 2011. Detecting Ambiguities in 3D Polygons with Self-Intersecting Projections. InComputer-Aided Design and Computer Graphics CAD/Graphics.11--16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-19",
+                "unstructured": "Yijing Li, Hongyi Xu, and Jernej Barbi&#269;. 2016. Enriching Triangle Mesh Animations With Physically Based Simulation.IEEE Trans. on Visualization and Computer Graphics(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-20",
+                "unstructured": "Nathan Mitchell, Mridul Aanjaneya, Rajsekhar Setaluri, and Eftychios Sifakis. 2015. Non-manifold level sets: A multivalued implicit surface representation with applications to self-collision processing.ACM Transactions on Graphics (TOG)34, 6 (2015), 247.",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-21",
+                "unstructured": "N. Molino, Z. Bao, and R. Fedkiw. 2004. A virtual node algorithm for changing mesh topology during simulation. InProc. of ACM SIGGRAPH 2004.385--392.",
+                "DOI": "10.1145/1186562.1015734",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-22",
+                "unstructured": "Neil Molino, Robert Bridson, and Ronald Fedkiw. 2003a. Tetrahedral mesh generation for deformable bodies. InSymposium on Computer Animation (SCA)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-23",
+                "unstructured": "Neil Molino, Robert Bridson, Joseph Teran, and Ron Fedkiw. 2003b. A crystalline, red green strategy for meshing highly deformable objects with tetrahedra. In12th Int. Meshing Roundtable.103--114."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-24",
+                "unstructured": "Uddipan Mukherjee. 2014. Self-overlapping curves: Analysis and applications.Computer-Aided Design46 (2014), 227--232.",
+                "DOI": "10.1016/j.cad.2013.08.037",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-25",
+                "unstructured": "Uddipan Mukherjee and M Gopi. 2012. Tweening boundary curves of non-simple immersions of a disk. InProc. of Indian Conference on Computer Vision, Graphics and Image Processing.ACM, 36."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-26",
+                "unstructured": "U. Mukherjee, M. Gopi, and J. Rossignac. 2011. Immersion and embedding of self-crossing loops. InProc. of the Eurographics Symposium on Sketch-Based Interfaces and Modeling.31--38.",
+                "DOI": "10.1145/2021164.2021170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-27",
+                "unstructured": "Matthieu Nesme, Paul G. Kry, Lenka Je&#345;&#225;bkov&#225;, and Fran&#231;ois Faure. 2009. Preserving Topology and Elasticity for Embedded Deformable Models.ACM Trans. on Graphics (SIGGRAPH 2009)28, 3 (2009), 52:1--52:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-28",
+                "unstructured": "G. Noris, D. S&#x1EF3;kora, A. Shamir, S. Coros, B. Whited, M. Simmons, A. Hornung, M. Gross, and R. Sumner. 2012. Smart scribbles for sketch segmentation. InComputer Graphics Forum, Vol. 31. 2516--2527.",
+                "DOI": "10.1111/j.1467-8659.2012.03224.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-29",
+                "unstructured": "L. Sacht, A. Jacobson, D. Panozzo, C. Sch&#252;ller, and O. Sorkine-Hornung. 2013. Consistent Volumetric Discretizations Inside Self-Intersecting Surfaces. InComputer Graphics Forum, Vol. 32. 147--156.",
+                "DOI": "10.1111/cgf.12181",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-30",
+                "unstructured": "Peter W Shor and Christopher J Van Wyk. 1989. Detecting and decomposing self-overlapping curves. InProc. of ACM Symp. on Computational geometry.44--50.",
+                "DOI": "10.1145/73833.73838",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-31",
+                "unstructured": "E. Sifakis. 2007.Algorithmic Aspects of the Simulation and Control of Computer Generated Human Anatomy Models.Ph.D. Dissertation. Stanford University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-32",
+                "unstructured": "Eftychios Sifakis, Kevin Der, and Ronald Fedkiw. 2007. Arbitrary Cutting of Deformable Tetrahedralized Objects. InSymp. on Computer Animation (SCA).73--80."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-33",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible surface modeling. InSymp. on Geometry processing, Vol. 4. 109--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-34",
+                "unstructured": "Ivan Sutherland and Gary Hodgman. 1974. Reentrant Polygon Clipping.Commun. ACM17 (1974), 32--42.",
+                "DOI": "10.1145/360767.360802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-35",
+                "unstructured": "J. Teran, E. Sifakis, S. Blemker, V. Ng-Thow-Hing, C. Lau, and R. Fedkiw. 2005. Creating and simulating skeletal muscle from the visible human data set.IEEE Trans. on Visualization and Computer Graphics11, 3 (2005), 317--328.",
+                "DOI": "10.1109/TVCG.2005.42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-36",
+                "unstructured": "Y. Wang, C. Jiang, C. Schroeder, and J. Teran. 2014. An adaptive virtual node algorithm with robust mesh cutting. InSymposium on Computer Animation (SCA).77--85."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-37",
+                "unstructured": "Ofir Weber and Denis Zorin. 2014. Locally injective parametrization with arbitrary fixed boundaries.ACM Transactions on Graphics (TOG)33, 4 (2014), 75."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-38",
+                "unstructured": "Chris Wojtan, Nils Th&#252;rey, Markus Gross, and Greg Turk. 2009. Deforming meshes that split and merge. InACM Transactions on Graphics (TOG), Vol. 28. ACM, 76.",
+                "DOI": "10.1145/1576246.1531382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-39",
+                "unstructured": "Chris Wojtan and Greg Turk. 2008. Fast viscoelastic behavior with thin features.ACM Trans. on Graphics (TOG)27, 3 (2008), 47."
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-40",
+                "unstructured": "K. Xu, K. Chen, H. Fu, W. Sun, and S. Hu. 2013. Sketch2Scene: sketch-based co-retrieval and co-placement of 3D models.ACM Trans. on Graphics (TOG)32, 4 (2013), 123.",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201327-41",
+                "unstructured": "Qingnan Zhou, Eitan Grinspun, Denis Zorin, and Alec Jacobson. 2016. Mesh arrangements for solid geometry.ACM Transactions on Graphics (TOG)35, 4 (2016), 39."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201327&ftid=1991622&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:44:42Z",
+            "timestamp": 1571672682000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201327",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

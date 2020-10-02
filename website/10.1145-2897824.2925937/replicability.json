@@ -1,0 +1,95 @@
+{
+    "Timestamp": "1/14/2020 15:34:57",
+    "Title": "Flow-Guided Warping for Image-Based Shape Manipulation",
+    "DOI": "10.1145/2897824.2925937",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://hal.inria.fr/hal-01307571/",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://hal.inria.fr/hal-01307571/document",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 2,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "The authors mentioned a demo IOS app (http://bonneau.meylan.free.fr/ShwarpIt/ShwarpIt.html) but the app is not available anymore.",
+    "Software Type": "",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Romain",
+            "family": "Vergne",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Univ. Grenoble Alpes, CNRS and Inria"
+                }
+            ]
+        },
+        {
+            "given": "Pascal",
+            "family": "Barla",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Inria"
+                }
+            ]
+        },
+        {
+            "given": "Georges-Pierre",
+            "family": "Bonneau",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Univ. Grenoble Alpes, CNRS and Inria"
+                }
+            ]
+        },
+        {
+            "given": "Roland W.",
+            "family": "Fleming",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Justus Liebig Universitat Gie\u00dfen"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

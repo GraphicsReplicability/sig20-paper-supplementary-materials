@@ -1,0 +1,86 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Space-time tomography for continuously deforming objects <i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;"></i> <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Guangming <span class="family">Zang</span></li>
+<li> Ramzi <span class="family">Idouchi</span></li>
+<li> Ran <span class="family">Tao</span></li>
+<li> Gilles <span class="family">Lubineau</span></li>
+<li> Peter <span class="family">Wonka</span></li>
+<li> Wolfgang <span class="family">Heidrich</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201298">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://vccimaging.org/Publications/Zang2018Space-time/Zang2018Space-time.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://vccimaging.org/Publications/Zang2018Space-time/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/gmzang/SpaceTimeTomography">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201298-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201298-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Animation</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: No due to technical issue</li>
+<li><span class="family">Replicability score</span>: 1</li>
+<li><span class="family">License</span>: Creative Commons</li>
+<li><span class="family">Build mechanism</span>: None</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   9</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>There are multiple issues with the code. While no makefile is provided, it is relatively easy (though cumbersome because of several dependencies) to create a Visual Studio 2017 project. Not listed as a dependency is libtiff.
+In main.cpp, due to issues with "goto", you need to move the declarations of data (line 142), proNo (line 148), scene (line 149), mainWindow (line 154) at the begining of the main. It should look like:
+	VolumeData* data = new VolumeData;
+	GLUTSceneContainer *mainWindow;
+	int proNo;
+	ST_Tomography *scene;
+around line 49.
+In ST_Tomography.cpp, strdup (line 188) should be replaced by _strdup because it is deprecated in Visual Studio 2017 (it produces a compilation error although the code is supposed to compile with Visual Studio 2015 and 2018 according to the Readme).
+But then multiple files seems missing, and could either not be found on the internet (a "linear_solver.h" that contains a "linear_solver" namespace, a "scope.h" that includes a #define called "utilities_scope_defines", a file called "image_blas.h" that performs blas-like operations on images), or a generic and could be recoded (e.g., "vec3.h"). Similarly, "str_format" is not a standard function in Visual Studio, so I am not sure where it is supposed to come from.
+Ultimately, I could not compile the code.
+
+--alternative test on linux--
+Unable to compile, had to create a CMakeLists (no build instruction), several bugfix needed: goto crosses initialization issues, includes missing (cstring) missing linear_solver.h file ...</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [4,1,1,0,1]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

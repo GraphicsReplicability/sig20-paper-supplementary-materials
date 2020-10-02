@@ -1,0 +1,372 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813511
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005155",
+                "name": "Azrieli Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1790/12"
+                ]
+            },
+            {
+                "name": "Adobe Research",
+                "award": []
+            },
+            {
+                "name": "U.S.-Israel Binational Science Foundation",
+                "award": [
+                    "2012376"
+                ]
+            },
+            {
+                "name": "ERC Starting Grants",
+                "award": [
+                    "iModel (StG-2012-306877), SmartGeometry (StG-2013-335373)"
+                ]
+            },
+            {
+                "name": "Rabin Ezra Scholarship Trust",
+                "award": []
+            },
+            {
+                "name": "Marie Curie Career Integration Grant",
+                "award": [
+                    "303541"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601185",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 34,
+        "title": [
+            "Meta-representation of shape families"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Noa",
+                "family": "Fish",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Melinos",
+                "family": "Averkiou",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Oliver",
+                "family": "van Kaick",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601185-1",
+                "unstructured": "Averkiou, M., Kim, V. G., Zheng, Y., and Mitra, N. J. 2014. Shapesynth: Parameterizing model collections for coupled shape exploration and synthesis.Computer Graphics Forum (Eurographics) 33.",
+                "DOI": "10.1111/cgf.12310",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-2",
+                "unstructured": "Bokeloh, M., Wand, M., and Seidel, H.-P. 2010. A connection between partial symmetry and inverse procedural modeling.ACM Trans. Graph (SIGGRAPH) 29, 4, 104: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-3",
+                "unstructured": "Botsch, M., and Sorkine, O. 2008. On linear variational surface deformation methods.IEEE Trans. Vis. &#38; Comp. Graphics 14, 1, 213--230."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-4",
+                "unstructured": "Chaudhuri, S., Kalogerakis, E., Guibas, L., and Koltun, V. 2011. Probabilistic reasoning for assembly-based 3D modeling.ACM Trans. Graph (SIGGRAPH) 30, 4, 35: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-5",
+                "unstructured": "Chiu, S.-T. 1996. A comparative review of bandwidth selection for kernel density estimation.Statistica Sinica 6, 1, 129--145."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-6",
+                "unstructured": "Fisher, M., Savva, M., and Hanrahan, P. 2011. Characterizing structural relationships in scenes using graph kernels.ACM Trans. Graph (SIGGRAPH) 30, 4, 34: 1--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-7",
+                "unstructured": "Funkhouser, T., Kazhdan, M., Shilane, P., Min, P., Kiefer, W., Tal, A., Rusinkiewicz, S., and Dobkin, D. 2004. Modeling by example.ACM Trans. Graph (SIGGRAPH) 23, 3, 652--663.",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-8",
+                "unstructured": "Gal, R., Sorkine, O., Mitra, N. J., and Cohen-Or, D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation.ACM Trans. Graph (SIGGRAPH) 28, 3, 33: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-9",
+                "unstructured": "Hu, R., Fan, L., and Liu, L. 2012. Co-segmentation of 3D shapes via subspace clustering.Computer Graphics Forum (SGP) 31, 5, 1703--1713.",
+                "DOI": "10.1111/j.1467-8659.2012.03175.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-10",
+                "unstructured": "Huang, Q., Koltun, V., and Guibas, L. 2011. Joint shape segmentation with linear programming.ACM Trans. Graph (SIGGRAPH Asia) 30, 6, 125: 1--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-11",
+                "unstructured": "Kalogerakis, E., Hertzmann, A., and Singh, K. 2010. Learning 3D mesh segmentation and labeling.ACM Trans. Graph (SIGGRAPH) 29, 3, 102: 1--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-12",
+                "unstructured": "Kalogerakis, E., Chaudhuri, S., Koller, D., and Koltun, V. 2012. A probabilistic model of component-based shape synthesis.ACM Trans. Graph (SIGGRAPH) 31, 4, 55: 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-13",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N. J., Chaudhuri, S., DiVerdi, S., and Funkhouser, T. 2013. Learning part-based templates from large collections of 3D shapes.ACM Trans. Graph (SIGGRAPH) 32, 4, 70: 1--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-14",
+                "unstructured": "Laga, H., Mortara, M., and Spagnuolo, M. 2013. Geometry and context for semantic correspondences and functionality recognition in man-made 3D shapes.ACM Trans. Graph 32, 5, 150: 1--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-15",
+                "unstructured": "Li, G., Liu, L., Zheng, H., and Mitra, N. J. 2010. Analysis, reconstruction and manipulation using arterial snakes.ACM Trans. Graph (SIGGRAPH Asia) 29, 6, 152: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-16",
+                "unstructured": "Lin, J., Cohen-Or, D., Zhang, H. R., Liang, C., Sharf, A., Deussen, O., and Chen, B. 2011. Structure-preserving re-targeting of irregular 3D architecture.ACM Trans. Graph (SIGGRAPH Asia) 30, 6, 183: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-17",
+                "unstructured": "Meng, M., Xia, J., Luo, J., and He, Y. 2013. Unsupervised co-segmentation for 3D shapes using iterative multi-label optimization.Computer-Aided Design 45, 2, 312--320.",
+                "DOI": "10.1016/j.cad.2012.10.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-18",
+                "unstructured": "Mitra, N. J., Wand, M., Zhang, H., Cohen-Or, D., and Bokeloh, M. 2013. Structure-aware shape processing. InProc. Eurographics State-of-the-art Reports.",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-19",
+                "unstructured": "Ovsjanikov, M., Li, W., Guibas, L., and Mitra, N. J. 2011. Exploration of continuous variability in collections of 3D shapes.ACM Trans. Graph (SIGGRAPH) 30, 4, 33: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-20",
+                "unstructured": "Schneider, P. J., and Eberly, D. H. 2003.Geometric Tools for Computer Graphics. Morgan Kaufmann, San Francisco."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-21",
+                "unstructured": "Shtof, A., Agathos, A., Gingold, Y., Shamir, A., and Cohen-Or, D. 2013. Geosemantic snapping for sketch-based modeling.Computer Graphics Forum (Eurographics) 32, 2, 245--253."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-22",
+                "unstructured": "Sidi, O., van Kaick, O., Kleiman, Y., Zhang, H., and Cohen-Or, D. 2011. Unsupervised co-segmentation of a set of shapes via descriptor-space spectral clustering.ACM Trans. Graph (SIGGRAPH Asia) 30, 6, 126: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-23",
+                "unstructured": "Silverman, B. W. 1986.Density Estimation for Statistics and Data Analysis. Chapman &#38; Hall, London.",
+                "DOI": "10.1007/978-1-4899-3324-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-24",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InSymp. Geometry Processing, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-25",
+                "unstructured": "Sumner, R. W., Zwicker, M., Gotsman, C., and Popovi&#263;, J. 2005. Mesh-based inverse kinematics.ACM Trans. Graph (SIGGRAPH) 24, 3, 488--495."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-26",
+                "unstructured": "van Kaick, O., Xu, K., Zhang, H., Wang, Y., Sun, S., Shamir, A., and Cohen-Or, D. 2013. Co-hierarchical analysis of shape structures.ACM Trans. Graph (SIGGRAPH) 32, 4, 69: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-27",
+                "unstructured": "Wang, Y., Asafi, S., van Kaick, O., Zhang, H., Cohen-Or, D., and Chen, B. 2012. Active co-analysis of a set of shapes.ACM Trans. Graph (SIGGRAPH Asia) 31, 6, 157: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-28",
+                "unstructured": "Xu, W., Wang, J., Yin, K., Zhou, K., van de Panne, M., Chen, F., and Guo, B. 2009. Joint-aware manipulation of deformable models.ACM Trans. Graph (SIGGRAPH) 28, 3, 35: 1--9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-29",
+                "unstructured": "Xu, K., Zhang, H., Cohen-Or, D., and Chen, B. 2012. Fit and diverse: Set evolution for inspiring 3D shape galleries.ACM Trans. Graph (SIGGRAPH) 31, 4, 57: 1--10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-30",
+                "unstructured": "Yang, Y.-L., Yang, Y.-J., Pottmann, H., and Mitra, N. J. 2011. Shape space exploration of constrained meshes.ACM Trans. Graph (SIGGRAPH Asia) 30, 6, 124:1--124:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-31",
+                "unstructured": "Yumer, M. E., and Kara, L. B. 2012. Co-abstraction of shape collections.ACM Trans. Graph (SIGGRAPH Asia) 31, 6, 166: 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-32",
+                "unstructured": "Zheng, Y., Fu, H., Cohen-Or, D., Au, O. K.-C., and Tai, C.-L. 2011. Component-wise controllers for structure-preserving shape manipulation.Computer Graphics Forum (Eurographics) 30, 2, 563--572."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-33",
+                "unstructured": "Zheng, Y., Cohen-Or, D., and Mitra, N. J. 2013. Smart variations: Functional substructures for part compatibility.Computer Graphics Forum (Eurographics) 32, 2, 195--204."
+            },
+            {
+                "key": "key-10.1145/2601097.2601185-34",
+                "unstructured": "Zheng, Y., Cohen-Or, D., Averkiou, M., and Mitra, N. J. 2014. Recurring part arrangements in shape collections.Computer Graphics Forum (Eurographics) 33.",
+                "DOI": "10.1111/cgf.12309",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601185&amp;ftid=1488843&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:19Z",
+            "timestamp": 1565663659000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601185",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

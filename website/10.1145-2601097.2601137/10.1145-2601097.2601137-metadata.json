@@ -1,0 +1,386 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:53Z",
+            "timestamp": 1575507233461
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Quanta Computer",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601137",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 56,
+        "title": [
+            "Style transfer for headshot portraits"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "YiChang",
+                "family": "Shih",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Sylvain",
+                "family": "Paris",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Connelly",
+                "family": "Barnes",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "William T.",
+                "family": "Freeman",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601137-1",
+                "unstructured": "Ahonen, T., Hadid, A., and Pietikainen, M. 2006. Face description with local binary patterns: Application to face recognition.IEEE Trans. Pattern Analysis and Machine Intelligence.",
+                "DOI": "10.1109/TPAMI.2006.244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-2",
+                "unstructured": "An, X., and Pellacini, F. 2010. User-controllable color transfer. InComputer Graphics Forum, vol. 29, 263--271.",
+                "DOI": "10.1111/j.1467-8659.2009.01595.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-3",
+                "unstructured": "Bae, S., Paris, S., and Durand, F. 2006. Two-scale tone management for photographic look. InACM Trans. Graphics.",
+                "DOI": "10.1145/1179352.1141935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-4",
+                "unstructured": "Barnes, C., Shechtman, E., Finkelstein, A., and Goldman, D. B. 2009. PatchMatch: A randomized correspondence algorithm for structural image editing.ACM Trans. Graphics.",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-5",
+                "unstructured": "Beier, T., and Neely, S. 1992. Feature-based image metamorphosis. InACM Trans. Graphics, vol. 26."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-6",
+                "unstructured": "Brand, M., and Pletscher, P. 2008. A conditional random field for automatic photo editing. InIEEE Conf. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2008.4587588",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-7",
+                "unstructured": "Brox, T., Bruhn, A., Papenberg, N., and Weickert, J. 2004. High accuracy optical flow estimation based on a theory for warping. InEuropean Conference on Computer Vision. 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-8",
+                "unstructured": "Burt, P., and Adelson, E. 1983. The laplacian pyramid as a compact image code.IEEE Transactions on Communications 31, 4, 532--540.",
+                "DOI": "10.1109/TCOM.1983.1095851",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-9",
+                "unstructured": "Cohen-Or, D., Sorkine, O., Gal, R., Leyvand, T., and Xu, Y.-Q. 2006. Color harmonization.ACM Trans. Graphics 25.",
+                "DOI": "10.1145/1141911.1141933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-10",
+                "unstructured": "Daugman, J. G. 1993. High confidence visual recognition of persons by a test of statistical independence.IEEE Trans. Pattern Analysis and Machine Intelligence 15, 11, 1148--1161.",
+                "DOI": "10.1109/34.244676",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-11",
+                "unstructured": "Guo, D., and Sim, T. 2009. Digital face makeup by example. InIEEE Conf. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-12",
+                "unstructured": "HaCohen, Y., Shechtman, E., Goldman, D. B., and Lischinski, D. 2011. Non-rigid dense correspondence with applications for image enhancement. InACM Trans. Graphics, vol. 30."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-13",
+                "unstructured": "Heeger, D. J., and Bergen, J. R. 1995. Pyramid-based texture analysis/synthesis. InACM Trans. Graphics, ACM, 229--238."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-14",
+                "unstructured": "Joshi, N., Matusik, W., Adelson, E. H., and Kriegman, D. J. 2010. Personal photo enhancement using example images.ACM Transaction on Graphics (TOG) 29, 2, 1--15.",
+                "DOI": "10.1145/1731047.1731050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-15",
+                "unstructured": "Levin, A., Lischinski, D., and Weiss, Y. 2008. A closed-form solution to natural image matting.IEEE Trans. Pattern Analysis and Machine Intelligence 30, 2, 228--242.",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-16",
+                "unstructured": "Leyvand, T., Cohen-Or, D., Dror, G., and Lischinski, D. 2008. Data-driven enhancement of facial attractiveness. InACM Transactions on Graphics (TOG), vol. 27, ACM, 38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-17",
+                "unstructured": "Li, Y., Sharan, L., and Adelson, E. H. 2005. Compressing and companding high dynamic range images with subband architectures.ACM Trans. Graphics 24.",
+                "DOI": "10.1145/1073204.1073271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-18",
+                "unstructured": "Liu, C., Shum, H.-Y., and Freeman, W. T. 2007. Face hallucination: Theory and practice.International Journal of Computer Vision 75, 1, 115--134.",
+                "DOI": "10.1007/s11263-006-0029-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-19",
+                "unstructured": "Liu, C., Yuen, J., and Torralba, A. 2011. Sift flow: Dense correspondence across scenes and its applications.IEEE Transactions on Pattern Analysis and Machine Intelligence 33, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-20",
+                "unstructured": "Malik, J., and Perona, P. 1990. Preattentive texture discrimination with early vision mechanisms.Journal of the Optical Society of America A 7.",
+                "DOI": "10.1364/JOSAA.7.000923",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-21",
+                "unstructured": "Mohammed, U., Prince, S. J., and Kautz, J. 2009. Visiolization: generating novel facial images. InACM Transactions on Graphics (TOG), vol. 28, 57."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-22",
+                "unstructured": "Nars, F. 2004. Makeup your mind.PowerHouse Books."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-23",
+                "unstructured": "Oliva, A., Torralba, A., and Schyns, P. G. 2006. Hybrid images. InACM Transactions on Graphics (TOG), vol. 25, 527--532."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-24",
+                "unstructured": "Peers, P., Tamura, N., Matusik, W., and Debevec, P. 2007. Post-production facial performance relighting using reflectance transfer.ACM Transactions on Graphics (TOG) 26, 3, 52."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-25",
+                "unstructured": "Phillips, N. 2004. Lighting techniques for low key portrait photography.Amherst Media, 12--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-26",
+                "unstructured": "Piti&#233;, F., Kokaram, A. C., and Dahyot, R. 2005. N-dimensional probability density function transfer and its application to color transfer. InIEEE Conference on Computer Vision.",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-27",
+                "unstructured": "Reinhard, E., Adhikhmin, M., Gooch, B., and Shirley, P. 2001. Color transfer between images.IEEE Computer Graphics and Applications 21, 5, 34--41.",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-28",
+                "unstructured": "Rother, C., Kolmogorov, V., and Blake, A. 2004. Grabcut: Interactive foreground extraction using iterated graph cuts. InACM Transactions on Graphics (TOG), vol. 23, 309--314."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-29",
+                "unstructured": "Saragih, J. M., Lucey, S., and Cohn, J. F. 2009. Face alignment through subspace constrained mean-shifts. InIEEE Conference on Computer Vision, 1034--1041."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-30",
+                "unstructured": "Shih, Y., Paris, S., Durand, F., and Freeman, W. T. 2013. Data-driven hallucination for different times of day from a single outdoor photo.ACM Transactions on Graphics (Proc. SIGGRAPH Asia).",
+                "DOI": "10.1145/2508363.2508419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-31",
+                "unstructured": "Su, S., Durand, F., and Agrawala, M. 2005. De-emphasis of distracting image regions using texture power maps. InProc. of ICCV Workshop on Texture Analysis and Synthesis.",
+                "DOI": "10.1145/1080402.1080445",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-32",
+                "unstructured": "Sunkavalli, K., Johnson, M. K., Matusik, W., and Pfister, H. 2010. Multi-scale image harmonization.ACM Trans. Graphics 29, 4, 125."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-33",
+                "unstructured": "Tai, Y.-W., Jia, J., and Tang, C.-K. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. InIEEE Conf. on Computer Vision and Pattern Recognition, vol. 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-34",
+                "unstructured": "Tong, W.-S., Tang, C.-K., Brown, M. S., and Xu, Y.-Q. 2007. Example-based cosmetic transfer. InIEEE Pacific Graphics.",
+                "DOI": "10.1109/PG.2007.31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-35",
+                "unstructured": "Tuzel, O., Porikli, F., and Meer, P. 2006. Region covariance: A fast descriptor for detection and classification. InEuropean Conference on Computer Vision. 589--600.",
+                "DOI": "10.1007/11744047_45",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-36",
+                "unstructured": "Wang, B., Yu, Y., Wong, T., Chen, C., and Xu, Y. 2010. Data-driven image color theme enhancement. InACM Transactions on Graphics, vol. 29, 146.",
+                "DOI": "10.1145/1882261.1866172",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-37",
+                "unstructured": "Wang, B., Yu, Y., and Xu, Y.-Q. 2011. Example-based image color and tone style enhancement.ACM Transactions on Graphics 30, 4.",
+                "DOI": "10.1145/2010324.1964959",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-38",
+                "unstructured": "Wen, Z., Liu, Z., and Huang, T. S. 2003. Face relighting with radiance environment maps. InIEEE Conf. Computer Vision and Pattern Recognition, vol. 2, II-158."
+            },
+            {
+                "key": "key-10.1145/2601097.2601137-39",
+                "unstructured": "Zhang, L., Wang, S., and Samaras, D. 2005. Face synthesis and recognition from a single image under arbitrary unknown lighting using a spherical harmonic basis morphable model. InIEEE Conf. Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2005.152",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601137&amp;ftid=1488957&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:00Z",
+            "timestamp": 1565663760000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601137",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

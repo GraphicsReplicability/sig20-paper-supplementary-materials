@@ -1,0 +1,106 @@
+{
+    "Timestamp": "12/11/2019 6:14:48",
+    "Title": "Deep learning of biomimetic sensorimotor control for biomechanical human animation",
+    "DOI": "10.1145/3197517.3201305",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://web.cs.ucla.edu/~nakada/pdfs/siggraph18_nakada.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Machine learning approaches",
+    "ACM 2": "Animation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 9,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Masaki",
+            "family": "Nakada",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Tao",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Honglin",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Tomer",
+            "family": "Weiss",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Demetri",
+            "family": "Terzopoulos",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

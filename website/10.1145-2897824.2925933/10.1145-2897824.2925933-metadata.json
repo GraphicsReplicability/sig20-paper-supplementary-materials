@@ -1,0 +1,334 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808446
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Google Graduate Fellowship",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925933",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Perspective-aware manipulation of portrait photos"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Ohad",
+                "family": "Fried",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Eli",
+                "family": "Shechtman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Dan B.",
+                "family": "Goldman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Adam",
+                "family": "Finkelstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925933-1",
+                "unstructured": "Alexander, O., Rogers, M., Lambeth, W., Chiang, M., and Debevec, P. 2009. The digital emily project: Photoreal facial modeling and animation. InACM SIGGRAPH 2009 Courses.",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-2",
+                "unstructured": "Blanz, V., and Vetter, T. 1999. A morphable model for the synthesis of 3d faces. InProceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '99, 187--194."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-3",
+                "unstructured": "Bradley, D., Heidrich, W., Popa, T., and Sheffer, A. 2010. High resolution passive facial performance capture.ACM Trans. Graph. 29, 4 (July), 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-4",
+                "unstructured": "Brox, T., and Malik, J. 2011. Large displacement optical flow: Descriptor matching in variational motion estimation.IEEE Trans. on Pattern Analysis and Machine Intelligence (PAMI) 33, 3 (Mar.), 500--513."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-5",
+                "unstructured": "Bryan, R., Perona, P., and Adolphs, R. 2012. Perspective distortion from interpersonal distance is an implicit visual cue for social judgments of faces.PLoS ONE 7, 9 (09).",
+                "DOI": "10.1371/journal.pone.0045301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-6",
+                "unstructured": "Burgos-Artizzu, X. P., Ronchi, M. R., and Perona, P. 2014. Distance estimation of an unknown person from a portrait. InEuropean Conference on Computer Vision (ECCV).Springer, 313--327.",
+                "DOI": "10.1007/978-3-319-10590-1_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-7",
+                "unstructured": "Cao, C., Weng, Y., Lin, S., and Zhou, K. 2013. 3d shape regression for real-time facial animation.ACM Trans. Graph. 32, 4 (July), 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-8",
+                "unstructured": "Cao, C., Hou, Q., and Zhou, K. 2014. Displaced dynamic expression regression for real-time facial tracking and animation.ACM Trans. Graph. 33, 4 (July), 43:1--43:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-9",
+                "unstructured": "Cao, C., Weng, Y., Zhou, S., Tong, Y., and Zhou, K. 2014. Facewarehouse: A 3d facial expression database for visual computing.IEEE Transactions on Visualization and Computer Graphics 20, 3, 413--425."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-10",
+                "unstructured": "Coleman, T. F., and Li, Y. 1996. An interior trust region approach for nonlinear minimization subject to bounds.SIAM Journal on Optimization 6, 2, 418--445."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-11",
+                "unstructured": "Cooper, E. A., Piazza, E. A., and Banks, M. S. 2012. The perceptual basis of common photographic practice.Journal of Vision 12, 5, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-12",
+                "unstructured": "DeCarlo, D., Metaxas, D., and Stone, M. 1998. An anthropometric face model using variational techniques. InProceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '98, 67--74.",
+                "DOI": "10.1145/280814.280823",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-13",
+                "unstructured": "Giger, D., Bazin, J.-C., Kuster, C., Popa, T., and Gross, M. 2014. Gaze correction with a single webcam.IEEE International Conference on Multimedia &#38; Expo.",
+                "DOI": "10.1109/ICME.2014.6890306",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-14",
+                "unstructured": "Hassner, T., and Basri, R. 2006. Example based 3d reconstruction from single 2d images. InBeyond Patches Workshop at IEEE CVPR'06.",
+                "DOI": "10.1109/CVPRW.2006.76",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-15",
+                "unstructured": "Hassner, T., Harel, S., Paz, E., and Enbar, R. 2015. Effective face frontalization in unconstrained images. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2015.7299058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-16",
+                "unstructured": "Hassner, T. 2013. Viewing real-world faces in 3D. InInternational Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2013.448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-17",
+                "unstructured": "Kemelmacher-Shlizerman, I., and Basri, R. 2011. 3d face reconstruction from a single image using a single reference face shape.IEEE Trans. on Pattern Analysis and Machine Intelligence (PAMI) 33, 2 (Feb), 394--405."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-18",
+                "unstructured": "Kemelmacher-Shlizerman, I., and Seitz, S. M. 2011. Face reconstruction in the wild. InInternational Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2011.6126439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-19",
+                "unstructured": "Kemelmacher-Shlizerman, I., Shechtman, E., Garg, R., and Seitz, S. M. 2011. Exploring photobios.ACM Trans. Graph. 30, 4 (July), 61:1--61:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-20",
+                "unstructured": "Orlov, A., 2016. Selecting a portrait lens with correct focal length. Accessed 2016-01-15: http://petapixel.com/2016/01/04/selecting-a-portrait-lens-with-correct-focal-length/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-21",
+                "unstructured": "Perona, P. 2007. A new perspective on portraiture.Journal of Vision 7, 992--992."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-22",
+                "unstructured": "Perona, P. 2013. Far and yet close: Multiple viewpoints for the perfect portrait.Art &#38; Perception 1, 1-2, 105--120."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-23",
+                "unstructured": "Saragih, J. M., Lucey, S., and Cohn, J. 2009. Face alignment through subspace constrained mean-shifts. InInternational Conference on Computer Vision (ICCV).",
+                "DOI": "10.1109/ICCV.2009.5459377",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-24",
+                "unstructured": "Tucker, L. 1966. Some mathematical notes on three-mode factor analysis.Psychometrika 31, 3, 279--311."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-25",
+                "unstructured": "Valind, E. 2014.Portrait Photography: From Snapshots to Great Shots.Pearson Education."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-26",
+                "unstructured": "Vlasic, D., Brand, M., Pfister, H., and Popovi&#263;, J. 2005. Face transfer with multilinear models.ACM Trans. Graph. 24, 3 (July), 426--433."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-27",
+                "unstructured": "Weise, T., Leibe, B., and Van Gool, L. 2007. Fast 3d scanning with automatic motion compensation. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), 861--868."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-28",
+                "unstructured": "Yang, F., Wang, J., Shechtman, E., Bourdev, L., and Metaxas, D. 2011. Expression flow for 3d-aware face component transfer.ACM Trans. Graph. 30, 4 (July), 60:1--60:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-29",
+                "unstructured": "Yang, F., Bourdev, L., Shechtman, E., Wang, J., and Metaxas, D. 2012. Facial expression editing in video using a temporally-smooth factorization. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), 861--868."
+            },
+            {
+                "key": "key-10.1145/2897824.2925933-30",
+                "unstructured": "Yang, F., Shechtman, E., Wang, J., Bourdev, L., and Metaxas, D. 2012. Face morphing using 3d-aware appearance optimization. InProceedings of Graphics Interface (GI'12), 93--99."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925933&amp;ftid=1755950&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:35Z",
+            "timestamp": 1568162915000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925933",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

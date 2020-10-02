@@ -1,0 +1,386 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:49Z",
+            "timestamp": 1574815969397
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "279593"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001691",
+                "name": "Japan Society for the Promotion of Science",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "26700002"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925918",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Wasserstein barycentric coordinates"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Nicolas",
+                "family": "Bonneel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Univ. Lyon, CNRS and LIRIS"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriel",
+                "family": "Peyr\u00e9",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNRS and Univ. Paris-Dauphine"
+                    }
+                ]
+            },
+            {
+                "given": "Marco",
+                "family": "Cuturi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Kyoto University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925918-1",
+                "unstructured": "Agueh, M., and Carlier, G. 2011. Barycenters in the Wasserstein space.SIAM J. on Mathematical Analysis 43, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-2",
+                "unstructured": "Benamou, J.-D., and Brenier, Y. 2000. A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem.Numerische Mathematik 84, 3, 375--393."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-3",
+                "unstructured": "Benamou, J.-D., Carlier, G., Cuturi, M., Nenna, M., and Peyr&#233;, G. 2015. Iterative Bregman projections for regularized transportation problems.SIAM J. on Sci. Computing 2, 37."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-4",
+                "unstructured": "Bigot, J., and Klein, T. 2012. Consistent estimation of a population barycenter in the Wasserstein space.Preprint arXiv:1212.2562."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-5",
+                "unstructured": "Bigot, J., Gouet, R., Klein, T., and L&#243;pez, A. 2015. Geodesic PCA in the Wasserstein space by Convex PCA.Annales de l'Institut Henri Poincar&#233; B: Probability and Statistics."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-6",
+                "unstructured": "Bonneel, N., van de Panne, M., Paris, S., and Heidrich, W. 2011. Displacement interpolation using lagrangian mass transport.ACM Trans. Graph. (SIGGRAPH Asia) 30, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-7",
+                "unstructured": "Bonneel, N., Sunkavalli, K., Paris, S., and Pfister, H. 2013. Example-Based Video Color Grading.ACM Trans. Graph. (SIGGRAPH) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-8",
+                "unstructured": "Bonneel, N., Rabin, J., Peyr&#233;, G., and Pfister, H. 2015. Sliced and Radon Wasserstein barycenters of measures.J. of Mathematical Imaging and Vision 51, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-9",
+                "unstructured": "Brand, M., and Brand, M. 2003. Charting a manifold. InAdv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-10",
+                "unstructured": "Bregman, L. M. 1967. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming.USSR computational mathematics and mathematical physics 7, 3, 200--217."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-11",
+                "unstructured": "Burkard, R., Dell'Amico, M., and Martello, S. 2009.Assignment Problems.Society for Industrial and App. Math.",
+                "DOI": "10.1137/1.9780898717754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-12",
+                "unstructured": "Chen, X., Golovinskiy, A., and Funkhouser, T. 2009. A benchmark for 3D mesh segmentation.ACM Trans. Graph. (SIGGRAPH) 28, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-13",
+                "unstructured": "Cuturi, M., and Doucet, A. 2014. Fast computation of Wasserstein barycenters. InInt. Conf. on Machine Learning (ICML)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-14",
+                "unstructured": "Cuturi, M. 2013. Sinkhorn distances: Lightspeed computation of optimal transport. InAdv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-15",
+                "unstructured": "Deming, W. E., and Stephan, F. F. 1940. On a least squares adjustment of a sampled frequency table when the expected marginal totals are known.Annals Mathematical Statistics 11, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-16",
+                "unstructured": "Filip, J., and V&#225;vra, R. 2014. Template-based sampling of anisotropic BRDFs.Computer Graphics Forum (PG) 33, 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-17",
+                "unstructured": "Haker, S., Zhu, L., Tannenbaum, A., and Angenent, S. Optimal mass transport for registration and warping.International Journal of Computer Vision 60, 3.",
+                "DOI": "10.1023/B:VISI.0000036836.66311.97",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-18",
+                "unstructured": "Kantorovich, L. 1942. On the transfer of masses (in russian).Doklady Akademii Nauk 37, 2, 227--229."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-19",
+                "unstructured": "Lewis, A. S., and Overton, M. L. 2013. Nonsmooth optimization via quasi-newton methods.Math. Programming 141.",
+                "DOI": "10.1007/s10107-012-0514-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-20",
+                "unstructured": "Matusik, W., Pfister, H., Brand, M., and McMillan, L. 2003. A data-driven reflectance model.ACM Trans. Graph. (SIGGRAPH) 22, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-21",
+                "unstructured": "M&#233;rigot, Q. 2011. A multiscale approach to optimal transport.Computer Graphics Forum (SGP) 30, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-22",
+                "unstructured": "Monge, G. 1781. M&#233;moire sur la th&#233;orie des d&#233;blais et des remblais.Histoire de l'Acad&#233;mie Royale des Sciences, 666--704."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-23",
+                "unstructured": "Neidinger, R. D. 2010. Introduction to automatic differentiation and MATLAB object-oriented programming.SIAM Rev. 52, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-24",
+                "unstructured": "Piti&#233;, F., Kokaram, A., and Dahyot, R. 2007. Automated colour grading using colour distribution transfer.Computer Vision and Image Understanding.",
+                "DOI": "10.1016/j.cviu.2006.11.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-25",
+                "unstructured": "Rabin, J., and Papadakis, N. 2015. Convex color image segmentation with optimal transport distances. InProc. SSVM'15.",
+                "DOI": "10.1007/978-3-319-18461-6_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-26",
+                "unstructured": "Rabin, J., Delon, J., and Gousseau, Y. 2010. Regularization of transportation maps for color and contrast transfer. InIEEE International Conference on Image Processing (ICIP).",
+                "DOI": "10.1109/ICIP.2010.5650823",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-27",
+                "unstructured": "Rabin, J., Peyr&#233;, G., Delon, J., and Bernot, M. 2012. Wasserstein barycenter and its application to texture mixing. InScale Space and Variational Methods in Computer Vision.",
+                "DOI": "10.1007/978-3-642-24785-9_37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-28",
+                "unstructured": "Reinhard, E., Ashikhmin, M., Gooch, B., and Shirley, P. 2001. Color transfer between images.IEEE Comput. Graph. Appl. 21, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-29",
+                "unstructured": "Rolet, A., Cuturi, M., and Peyr&#233;, G. 2016. Fast dictionary learning with a smoothed Wasserstein loss. InProc. AISTATS'16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-30",
+                "unstructured": "Rubner, Y., Tomasi, C., and Guibas, L. 1998. A metric for distributions with applications to image databases. InComputer Vision, 1998. Sixth International Conference on, 59--66."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-31",
+                "unstructured": "Rubner, Y., Tomasi, C., and Guibas, M. J. 2000. The earth mover's distance as a metric for image retrieval.International J. of Computer Vision 40, 2000."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-32",
+                "unstructured": "Rustamov, R. M. 2010. Barycentric coordinates on surfaces.Computer Graphics Forum 5, 29."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-33",
+                "unstructured": "Sandler, R., and Lindenbaum, M. 2009. Nonnegative matrix factorization with earth mover's distance metric. InIEEE Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2009.5206834",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-34",
+                "unstructured": "Schmidt, M. W., van den Berg, E., Friedlander, M. P., and Murphy, K. P. 2009. Optimizing costly functions with simple constraints: A limited-memory projected quasi-newton algorithm. InInternational Conference on Artificial Intelligence and Statistics (AISTATS), vol. 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-35",
+                "unstructured": "Seguy, V., and Cuturi, M. 2015. Principal geodesic analysis for probability measures under the optimal transport metric. InAdv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-36",
+                "unstructured": "Sinkhorn, R. 1964. A relationship between arbitrary positive matrices and doubly stochastic matrices.Ann. Math. Statist. 35.",
+                "DOI": "10.1214/aoms/1177703591",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-37",
+                "unstructured": "Solomon, J., Rustamov, R., Guibas, L., and Butscher, A. 2014. Earth mover's distances on discrete surfaces.ACM Trans. Graph. (SIGGRAPH) 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-38",
+                "unstructured": "Solomon, J., Rustamov, R., Guibas, L., and Butscher, A. 2014. Wasserstein propagation for semi-supervised learning. InInt. Conf. on Machine Learning (ICML)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-39",
+                "unstructured": "Solomon, J., de Goes, F., Peyr&#233;, G., Cuturi, M., Butscher, A., Nguyen, A., Du, T., and Guibas, L. 2015. Convolutional Wasserstein distances: Efficient optimal transportation on geometric domains.ACM Trans. Graph. (SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-40",
+                "unstructured": "Srivastava, S., Cevher, V., Tran-Dinh, Q., and Dunson, D. B. 2015. Wasp: Scalable bayes via barycenters of subset posteriors. InInternational Conference on Artificial Intelligence and Statistics."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-41",
+                "unstructured": "Villani, C. 2003.Topics in optimal transportation.American Mathematical Soc.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-42",
+                "unstructured": "Villani, C. 2008.Optimal transport: old and new, vol. 338."
+            },
+            {
+                "key": "key-10.1145/2897824.2925918-43",
+                "unstructured": "Wills, J., Agarwal, S., Kriegman, D., and Belongie, S. 2009. Toward a perceptual space for gloss.ACM Trans. Graph. 28, 4."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925918&amp;ftid=1755930&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:43:12Z",
+            "timestamp": 1568162592000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "histogram regression using optimal transport"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925918",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

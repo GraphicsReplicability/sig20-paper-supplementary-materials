@@ -1,0 +1,310 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ],
+            "date-time": "2020-01-10T07:43:32Z",
+            "timestamp": 1578642212463
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "ACI-1047932, IIS-0905502"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601154",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 43,
+        "title": [
+            "Robust field-aligned global parametrization"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ashish",
+                "family": "Myles",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Nico",
+                "family": "Pietroni",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601154-1",
+                "unstructured": "Alliez, P., Cohen-Steiner, D., Devillers, O., L&#233;vy, B., and Desbrun, M. 2003. Anisotropic polygonal remeshing. InACM Transactions on Graphics (TOG), vol. 22, ACM, 485--493."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-2",
+                "unstructured": "Andronov, A. A., Leontovich, E., Gordon, I., and Maier, A. 1973.Qualitative theory of second-order dynamic systems. Israel Program for Scientific Translations Jerusalem."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-3",
+                "unstructured": "Ben-Chen, M., Gotsman, C., and Bunin, G. 2008. Conformal flattening by curvature prescription and metric scaling.Computer Graphics Forum 27, 2, 449--458.",
+                "DOI": "10.1111/j.1467-8659.2008.01142.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-4",
+                "unstructured": "Bommes, D., Zimmer, H., and Kobbelt, L. 2009. Mixed-integer quadrangulation.ACM Trans. Graph. 28, 3, 77."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-5",
+                "unstructured": "Bommes, D., Lvy, B., Pietroni, N., Puppo, E., Silva, C., Tarini, M., and Zorin, D. 2012. Quad Meshing. Eurographics Association, Cagliari, Sardinia, Italy, M.-P. Cani and F. Ganovelli, Eds., 159--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-6",
+                "unstructured": "Bommes, D., Campen, M., Ebke, H.-C., Alliez, P., Kobbelt, L., et al. 2013. Integer-grid maps for reliable quad meshing.ACM Trans. Graph. 32, 4.",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-7",
+                "unstructured": "Dong, S., Bremer, P., Garland, M., Pascucci, V., and Hart, J. 2006. Spectral surface quadrangulation.ACM Trans. Graph. 25, 3, 1057--1066.",
+                "DOI": "10.1145/1141911.1141993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-8",
+                "unstructured": "Eppstein, D., and Erickson, J. 1999. Raising roofs, crashing cycles, and playing pool: Applications of a data structure for finding pairwise interactions.Discrete and Computational Geometry 22, 4, 569--592.",
+                "DOI": "10.1007/PL00009479",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-9",
+                "unstructured": "Eppstein, D., Goodrich, M. T., Kim, E., and Tamstorf, R. 2008. Motorcycle graphs: canonical quad mesh partitioning. InComputer Graphics Forum, vol. 27, Wiley Online Library, 1477--1486."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-10",
+                "unstructured": "Gunpinar, E., Moriguchi, M., Suzuki, H., and Ohtake, Y. 2014. Feature-aware partitions from the motorcycle graph.Computer-Aided Design 47, 85--95.",
+                "DOI": "10.1016/j.cad.2013.09.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-11",
+                "unstructured": "Jadhav, S., Bhatia, H., Bremer, P.-T., Levine, J. A., Nonato, L. G., and Pascucci, V. 2012. Consistent approximation of local flow behavior for 2d vector fields using edge maps. InTopological Methods in Data Analysis and Visualization II. Springer, 141--159.",
+                "DOI": "10.1007/978-3-642-23175-9_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-12",
+                "unstructured": "Kharevych, L., Springborn, B., and Schr&#246;der, P. 2006. Discrete conformal mappings via circle patterns.ACM Trans. Graph. 25(April), 412--438."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-13",
+                "unstructured": "Kn&#246;ppel, F., Crane, K., Pinkall, U., and Schr&#246;der, P. 2013. Globally optimal direction fields.ACM Transactions on Graphics (TOG) 32, 4, 59."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-14",
+                "unstructured": "Lee, A., Sweldens, W., Schr&#246;der, P., Cowsar, L., and Dobkin, D. 1998. MAPS: multiresolution adaptive parameterization of surfaces. InSIGGRAPH 1998, 95--104."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-15",
+                "unstructured": "Li, W.-C., Vallet, B., Ray, N., and L&#233;vy, B. 2006. Representing higher-order singularities in vector fields on piecewise linear surfaces.Visualization and Computer Graphics, IEEE Transactions on 12, 5, 1315--1322."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-16",
+                "unstructured": "Li, W., Ray, N., and L&#233;vy, B. 2006. Automatic and interactive mesh to T-spline conversion. InSymposium on Geometry Processing, Eurographics Association, 200."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-17",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Transactions on Graphics (TOG) 31, 4, 108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-18",
+                "unstructured": "Myles, A., and Zorin, D. 2012. Global parametrization by incremental flattening.ACM Transactions on Graphics (TOG) 31, 4, 109."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-19",
+                "unstructured": "Myles, A., and Zorin, D. 2013. Controlled-distortion constrained global parametrization.ACM Transactions on Graphics (TOG) 32, 4, 105."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-20",
+                "unstructured": "Myles, A., Pietroni, N., Kovacs, D., and Zorin, D. 2010. Feature-aligned T-meshes.ACM Trans. Graph. 29, 4, 1--11.",
+                "DOI": "10.1145/1778765.1778854",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-21",
+                "unstructured": "Ray, N., and Sokolov, D. 2013. Tracing cross-free polylines oriented by a n-symmetry direction field on triangulated surfaces.arXiv preprint arXiv:1306.0706."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-22",
+                "unstructured": "Ray, N., Li, W., L&#233;vy, B., Sheffer, A., and Alliez, P. 2006. Periodic global parameterization.ACM Trans. Graph. 25, 4, 1460--1485."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-23",
+                "unstructured": "Ray, N., Vallet, B., Li, W., and L&#233;vy, B. 2008. N-Symmetry direction field design.ACM Trans. Graph. 27, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-24",
+                "unstructured": "Sheffer, A., and de Sturler, E. 2001. Parameterization of Faceted Surfaces for Meshing using Angle-Based Flattening.Engineering with Computers 17, 3, 326--337.",
+                "DOI": "10.1007/PL00013391",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-25",
+                "unstructured": "Springborn, B., Schr&#246;der, P., and Pinkall, U. 2008. Conformal equivalence of triangle meshes.ACM Trans. Graph. 27(August), 77:1--77:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-26",
+                "unstructured": "Szymczak, A., and Zhang, E. 2012. Robust morse decompositions of piecewise constant vector fields.Visualization and Computer Graphics, IEEE Transactions on 18, 6, 938--951."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-27",
+                "unstructured": "Tong, Y., Alliez, P., Cohen-Steiner, D., and Desbrun, M. 2006. Designing quadrangulations with discrete harmonic forms.Symposium on Geometry Processing, 201--210."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-28",
+                "unstructured": "Tricoche, X., Scheuermann, G., and Hagen, H. 2000. Higher order singularities in piecewise linear vector fields. InThe Mathematics of Surfaces IX. Springer, 99--113.",
+                "DOI": "10.1007/978-1-4471-0495-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-29",
+                "unstructured": "Tricoche, X. 2002. Vector and tensor field topology simplification, tracking, and visualization. InPhD. thesis, Universit&#228;t Kaiserslautern, Citeseer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601154-30",
+                "unstructured": "Zhang, E., Mischaikow, K., and Turk, G. 2006. Vector field design on surfaces.ACM Transactions on Graphics (TOG) 25, 4, 1294--1326.",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601154&amp;ftid=1488944&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601154",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

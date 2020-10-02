@@ -1,0 +1,105 @@
+{
+    "Timestamp": "1/12/2020 14:02:32",
+    "Title": "Automatically Scheduling Halide Image Processing Pipelines",
+    "DOI": "10.1145/2897824.2925952",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/halide/Halide",
+    "code URL  2": "",
+    "PDF URL": "http://graphics.cs.cmu.edu/projects/halidesched/mullapudi16_halidesched.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Graphics systems and interfaces",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I tested the newest version of Halide: this does not correspond to the paper. The project webpage states: \"NOTICE: The algorithm described in this paper has been superceded by the techniques described in the SIGGRAPH 2019 autoscheduler paper. The autoscheduling functionality in the master Halide repo now uses the algorithm from the 2019 paper\". And there is no explanation on how to get the code of this particular submission, nor how to reproduce any of the examples.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 75,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "llvm",
+    "Project URL": "http://graphics.cs.cmu.edu/projects/halidesched/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 2,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Ravi Teja",
+            "family": "Mullapudi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University"
+                }
+            ]
+        },
+        {
+            "given": "Andrew",
+            "family": "Adams",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        },
+        {
+            "given": "Dillon",
+            "family": "Sharlet",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan",
+            "family": "Ragan-Kelley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Kayvon",
+            "family": "Fatahalian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

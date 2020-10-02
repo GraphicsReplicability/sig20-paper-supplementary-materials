@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:47Z",
+            "timestamp": 1574859827742
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201379",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Laplacian kernel splatting for efficient depth-of-field and motion blur synthesis or reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Leimk\u00fchler",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik, Saarland Informatics Campus, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik, Saarland Informatics Campus, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Tobias",
+                "family": "Ritschel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London, United Kingdom"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201379-1",
+                "unstructured": "Tomas Akenine-M&#246;ller, Jacob Munkberg, and Jon Hasselgren. 2007. Stochastic rasterization using time-continuous triangles. InProc. Graphics Hardware.9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-2",
+                "unstructured": "Laurent Belcour, Cyril Soler, Kartic Subr, Nicolas Holzschuch, and Fredo Durand. 2013. 5D covariance tracing for efficient defocus and motion blur.ACM Trans. Graph.32, 3 (2013).",
+                "DOI": "10.1145/2487228.2487239",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-3",
+                "unstructured": "Pravin Bhat, Brian Curless, Michael Cohen, and C Zitnick. 2008. Fourier analysis of the 2D screened Poisson equation for gradient domain problems.ECCV(2008), 114--28."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-4",
+                "unstructured": "Pravin Bhat, C Lawrence Zitnick, Michael Cohen, and Brian Curless. 2010. Gradientshop: A gradient-domain optimization framework for image and video filtering.ACM Trans. Graph.29, 2 (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-5",
+                "unstructured": "Robert L Cook, Loren Carpenter, and Edwin Catmull. 1987. The REYES image rendering architecture. InACM SIGGRAPH Computer Graphics, Vol. 21. 95--102."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-6",
+                "unstructured": "Robert L Cook, Thomas Porter, and Loren Carpenter. 1984. Distributed ray tracing. InACM SIGGRAPH Computer Graphics, Vol. 18. ACM, 137--145."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-7",
+                "unstructured": "Franklin C Crow. 1984. Summed-area tables for texture mapping.ACM SIGGRAPH Computer Graphics18, 3 (1984), 207--12.",
+                "DOI": "10.1145/964965.808600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-8",
+                "unstructured": "Kostadin Dabov, Alessandro Foi, Vladimir Katkovnik, and Karen Egiazarian. 2006. Image denoising with block-matching and 3D filtering. InProc. SPIE, Vol. 6064.",
+                "DOI": "10.1117/12.643267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-9",
+                "unstructured": "Philip Dutr&#233;, Eric P Lafortune, and Yves Willems. 1993. Monte Carlo light tracing with direct computation of pixel intensities. InProc. Computational Graphics and Visualisation Techniques.128--37."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-10",
+                "unstructured": "Kevin Egan, Yu-Ting Tseng, Nicolas Holzschuch, Fr&#233;do Durand, and Ravi Ramamoorthi. 2009. Frequency analysis and sheared reconstruction for rendering motion blur.ACM Trans. Graph. (Proc. SIGGRAPH)28, 3 (2009).",
+                "DOI": "10.1145/1531326.1531399",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-11",
+                "unstructured": "Zeev Farbman, Raanan Fattal, and Dani Lischinski. 2011. Convolution pyramids.ACM Trans. Graph.30, 6 (2011), 175--1.",
+                "DOI": "10.1145/2070781.2024209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-12",
+                "unstructured": "Kayvon Fatahalian, Edward Luong, Solomon Boulos, Kurt Akeley, William R Mark, and Pat Hanrahan. 2009. Data-parallel rasterization of micropolygons with defocus and motion blur. InProc. HPG.59--68.",
+                "DOI": "10.1145/1572769.1572780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-13",
+                "unstructured": "Alain Fournier and Eugene Fiume. 1988. Constant-time filtering with space-variant kernels. InACM SIGGRAPH Computer Graphics, Vol. 22. ACM, 229--238.",
+                "DOI": "10.1145/54852.378515",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-14",
+                "unstructured": "Irena Gali&#263;, Joachim Weickert, Martin Welk, Andr&#233;s Bruhn, Alexander Belyaev, and Hans-Peter Seidel. 2008. Image compression with anisotropic diffusion.J Math. Imaging and Vision31, 2 (2008), 255--69.",
+                "DOI": "10.1007/s10851-008-0087-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-15",
+                "unstructured": "Jhonny G&#246;ransson and Andreas Karlsson. 2007. Practical post-process depth of field. InGPU Gems 3.583--606."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-16",
+                "unstructured": "Michael Goy. 2013.American cinematographer manual.Vol. 10. Am. Cinemat."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-17",
+                "unstructured": "Paul Haeberli and Kurt Akeley. 1990. The accumulation buffer: hardware support for high-quality rendering.ACM SIGGRAPH Computer Graphics24, 4 (1990), 309--318.",
+                "DOI": "10.1145/97880.97913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-18",
+                "unstructured": "Paul S Heckbert. 1986. Filtering by repeated integration. InACM SIGGRAPH Computer Graphics, Vol. 20. 315--21."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-19",
+                "unstructured": "Matthias Hullin, Elmar Eisemann, Hans-Peter Seidel, and Sungkil Lee. 2011. Physically-based real-time lens flare rendering.ACM Trans Graph. (Proc. SIGGRAPH Asia)30, 4 (2011), 108."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-20",
+                "unstructured": "Nima Khademi Kalantari and Pradeep Sen. 2013. Removing the noise in Monte Carlo rendering with general image denoising algorithms.Comp. Graph. Forum32, 2 (2013), 93--102."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-21",
+                "unstructured": "Craig Kolb, Don Mitchell, and Pat Hanrahan. 1995. A realistic camera model for computer graphics. InSIGGRAPH.317--24.",
+                "DOI": "10.1145/218380.218463",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-22",
+                "unstructured": "Janne Kontkanen, Jussi R&#228;s&#228;nen, and Alexander Keller. 2006. Irradiance filtering for Monte Carlo ray tracing., 259--272 pages.",
+                "DOI": "10.1007/3-540-31186-6_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-23",
+                "unstructured": "Johannes Kopf, Fabian Langguth, Daniel Scharstein, Richard Szeliski, and Michael Goesele. 2013. Image-based rendering in the gradient domain.ACM Trans. Graph. (Proc. SIGGRAPH)32, 6 (2013).",
+                "DOI": "10.1145/2508363.2508369",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-24",
+                "unstructured": "Martin Kraus and Magnus Strengert. 2007. Depth-of-Field Rendering by Pyramidal Image Processing. InComp. Graph Forum, Vol. 26. 645--54.",
+                "DOI": "10.1111/j.1467-8659.2007.01088.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-25",
+                "unstructured": "Sungkil Lee, Elmar Eisemann, and Hans-Peter Seidel. 2009. Depth-of-field rendering with multiview synthesis. InACM Trans. Graph. (Proc. SIGRAPH Asia), Vol. 28.",
+                "DOI": "10.1145/1661412.1618480",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-26",
+                "unstructured": "Sungkil Lee, Elmar Eisemann, and Hans-Peter Seidel. 2010. Real-time lens blur effects and focus control.ACM Trans. Graph (Proc. SIGGRAPH)29, 4 (2010).",
+                "DOI": "10.1145/1778765.1778802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-27",
+                "unstructured": "Sungkil Lee, Gerard Jounghyun Kim, and Seungmoon Choi. 2008. Real-Time Depth-of-Field Rendering Using Point Splatting on Per-Pixel Layers.Comp. Graph. Forum27, 7 (2008), 1955--62."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-28",
+                "unstructured": "Jaakko Lehtinen, Timo Aila, Jiawen Chen, Samuli Laine, and Fr&#233;do Durand. 2011. Temporal Light Field Reconstruction for Rendering Distribution Effects.ACM Trans. Graph. (Proc. SIGGRAPH)30, 4 (2011).",
+                "DOI": "10.1145/2010324.1964950",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-29",
+                "unstructured": "Jaakko Lehtinen, Tero Karras, Samuli Laine, Miika Aittala, Fr&#233;do Durand, and Timo Aila. 2013. Gradient-domain metropolis light transport.ACM Trans. Graph. (Proc. SIGGRAPH)32, 4 (2013), 95."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-30",
+                "unstructured": "Thomas Leimk&#252;hler, Hans-Peter Seidel, and Tobias Ritschel. 2017. Minimal Warping: Planning Incremental Novel-view Synthesis.Comp. Graph. Forum36, 4 (2017), 1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-31",
+                "unstructured": "Stuart Lloyd. 1982. Least squares quantization in PCM.IEEE Trans. Inf. Theory28, 2 (1982), 129--37.",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-32",
+                "unstructured": "Michael D McCool. 1999. Anisotropic diffusion for Monte Carlo noise reduction.ACM Trans. Graph.18, 2 (1999), 171--94.",
+                "DOI": "10.1145/318009.318015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-33",
+                "unstructured": "Morgan McGuire, Padraic Hennessy, Michael Bukowski, and Brian Osman. 2012. A reconstruction filter for plausible motion blur. Ini3D.135--42.",
+                "DOI": "10.1145/2159616.2159639",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-34",
+                "unstructured": "Jacob Munkberg, Karthik Vaidyanathan, Jon Hasselgren, Petrik Clarberg, and Tomas Akenine-M&#246;ller. 2014. Layered reconstruction for defocus and motion blur.Comp. Graph. Forum33, 4 (2014), 81--92."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-35",
+                "unstructured": "Oliver Nalbach, Elena Arabadzhiyska, Dushyant Mehta, H-P Seidel, and Tobias Ritschel. 2017. Deep Shading: Convolutional Neural Networks for Screen Space Shading.Comp. Graph. Forum36, 4 (2017), 65--78."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-36",
+                "unstructured": "Oliver Nalbach, Tobias Ritschel, and Hans-Peter Seidel. 2014. Deep Screen Space. InI3D.ACM.",
+                "DOI": "10.1145/2556700.2556708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-37",
+                "unstructured": "Alexandrina Orzan, Adrien Bousseau, Pascal Barla, Holger Winnem&#246;ller, Jo&#235;lle Thollot, and David Salesin. 2013. Diffusion curves: a vector representation for smooth-shaded images.Comm. ACM56, 7 (2013), 101--8.",
+                "DOI": "10.1145/2483852.2483873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-38",
+                "unstructured": "Patrick P&#233;rez, Michel Gangnet, and Andrew Blake. 2003. Poisson image editing.ACM Trans. Graph (Proc. SIGGRAPH)22, 3 (2003), 313--18."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-39",
+                "unstructured": "Matt Pharr, Wenzel Jakob, and Greg Humphreys. 2016.Physically based rendering: From theory to implementation.Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-40",
+                "unstructured": "Michael Potmesil and Indranil Chakravarty. 1981. A lens and aperture camera model for synthetic image generation.ACM SIGGRAPH Computer Graphics15, 3 (1981), 297--305.",
+                "DOI": "10.1145/965161.806818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-41",
+                "unstructured": "Simon Premo&#382;e, Michael Ashikhmin, Jerry Tessendorf, Ravi Ramamoorthi, and Shree Nayar. 2004. Practical rendering of multiple scattering effects in participating media. InProc. EGWR.363--74."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-42",
+                "unstructured": "Gilberto Rosado. 2007.Motion blur as a post-processing effect.575--81."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-43",
+                "unstructured": "Pradeep Sen and Soheil Darabi. 2012. On filtering the noise from the random parameters in Monte Carlo rendering.ACM Trans. Graph. (Proc. SIGGRAPH)31, 3 (2012), 18--1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-44",
+                "unstructured": "Jonathan Shade, Steven Gortler, Li-wei He, and Richard Szeliski. 1998. Layered depth images. InProc. SIGRAPH.231--42.",
+                "DOI": "10.1145/280814.280882",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-45",
+                "unstructured": "Patrice Simard, Leon Bottou, Patrick Haffner, and Yann LeCun. 1999. Boxlets: a fast convolution algorithm for signal processing and neural networks. InNIPS.571--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-46",
+                "unstructured": "Cyril Soler, Kartic Subr, Fr&#233;do Durand, Nicolas Holzschuch, and Fran&#231;ois Sillion. 2009. Fourier depth of field.ACM Trans. Graph.28, 2 (2009), 18.",
+                "DOI": "10.1145/1516522.1516529",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-47",
+                "unstructured": "Xin Sun, Guofu Xie, Yue Dong, Stephen Lin, Weiwei Xu, Wencheng Wang, Xin Tong, and Baining Guo. 2012. Diffusion curve textures for resolution independent texture mapping.ACM Trans. Graph. (Proc. SIGGRAPH)31, 4 (2012), 74--1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-48",
+                "unstructured": "Karthik Vaidyanathan, Jacob Munkberg, Petrik Clarberg, and Marco Salvi. 2015. Layered light field reconstruction for defocus blur.ACM Trans. Graph.34, 2 (2015).",
+                "DOI": "10.1145/2699647",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201379-49",
+                "unstructured": "Xuan Yu, Rui Wang, and Jingyi Yu. 2010. Real-time Depth of Field Rendering via Dynamic Light Field Generation and Filtering.Comp. Graph. Forum29, 7 (2010), 2099--2107."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201379&ftid=1991644&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:46:20Z",
+            "timestamp": 1571672780000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201379",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

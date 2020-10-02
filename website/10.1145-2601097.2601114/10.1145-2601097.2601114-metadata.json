@@ -1,0 +1,272 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:30Z",
+            "timestamp": 1575507210964
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601114",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Defending continuous collision detection against errors"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Huamin",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601114-1",
+                "unstructured": "Ainsley, S., Vouga, E., Grinspun, E., and Tamstorf, R. 2012. Speculative parallel asynchronous contact mechanics.ACM Transactions on Graphics (SIGGRAPH Asia 2012) 31, 6 (Nov.), 151:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-2",
+                "unstructured": "Baraff, D., Witkin, A., and Kass, M. 2003. Untangling cloth.ACM Transactions on Graphics (SIGGRAPH) 22(July), 862--870.",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-3",
+                "unstructured": "Bridson, R., Fedkiw, R., and Anderson, J. 2002. Robust treatment of collisions, contact and friction for cloth animation. InProc. of ACM SIGGRAPH 2002, E. Fiume, Ed., vol. 21 ofComputer Graphics Proceedings, Annual Conference Series, 594--603."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-4",
+                "unstructured": "Brochu, T., Edwards, E., and Bridson, R. 2012. Efficient geometrically exact continuous collision detection.ACM Transactions on Graphics (SIGGRAPH 2012) 31, 4 (July), 96:1--96:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-5",
+                "unstructured": "Gilbert, E. G., Johnson, D. W., and Keerthi, S. S. 1988. A fast procedure for computing the distance between complex objects in three-dimensional space.Robotics and Automation 4, 2, 193--.",
+                "DOI": "10.1109/56.2083",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-6",
+                "unstructured": "Goldberg, D. 1991. What every computer scientist should know about floating-point arithmetic.ACM Computing Surveys 23, 1.",
+                "DOI": "10.1145/103162.103163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-7",
+                "unstructured": "Harmon, D., Vouga, E., Tamstorf, R., and Grinspun, E. 2008. Robust treatment of simultaneous collisions.ACM Transactions on Graphics (SIGGRAPH) 27, 3 (August), 23:1--23:4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-8",
+                "unstructured": "Harmon, D., Vouga, E., Smith, B., Tamstorf, R., and Grinspun, E. 2009. Asynchronous contact mechanics.ACM Transactions on Graphics (SIGGRAPH) 28, 3 (July), 87:1--87:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-9",
+                "unstructured": "Harmon, D., Zhou, Q., and Zorin, D. 2011. Asynchronous integration with phantom meshes. InProc. of SCA, 247--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-10",
+                "unstructured": "Huh, S., Metaxas, D. N., and Badler, N. I. 2001. Collision resolutions in cloth simulation. InProc. of Computer Animation, IEEE, 122--127."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-11",
+                "unstructured": "Larsen, E., Gottschalk, S., Lin, M. C., and Manocha, D. 2000. Fast distance queries with rectangular swept sphere volumes. InProc. of Robotics and Automation, 3719--3726."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-12",
+                "unstructured": "Lauterbach, C., Mo, Q., and Manocha, D. 2010. gProximity: Hierarchical GPU-based operations for collision and distance queries. InProc. of Eurographics, vol. 29, 419--428."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-13",
+                "unstructured": "Pabst, S., Koch, A., and Stra&#223;er, W. 2010. Fast and scalable CPU/GPU collision detection for rigid and deformable surfaces.Computer Graphics Forum 29, 5, 1605--1612."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-14",
+                "unstructured": "Provot, X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. InComputer Animation and Simulation, 177--189."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-15",
+                "unstructured": "Schvartzman, S. C., P&#233;rez, A. G., and Otaduy, M. A. 2010. Star-contours for efficient hierarchical self-collision detection.ACM Transactions on Graphics (SIGGRAPH 2010) 29(July), 80:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-16",
+                "unstructured": "Selle, A., Su, J., Irving, G., and Fedkiw, R. 2009. Robust high-resolution cloth using parallelism, history-based collisions, and accurate friction.IEEE Transactions on Visualization and Computer Graphics 15(March), 339--350.",
+                "DOI": "10.1109/TVCG.2008.79",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-17",
+                "unstructured": "Shewchuk, J. R. 1996. Adaptive precision floating-point arithmetic and fast robust geometric predicates.Discrete &#38; Computational Geometry 18, 305--363.",
+                "DOI": "10.1007/PL00009321",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-18",
+                "unstructured": "Stam, J. 2009. Nucleus: Towards a unified dynamics solver for computer graphics. In11th IEEE International Conference on Computer-Aided Design and Computer Graphics.",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-19",
+                "unstructured": "Tang, M., Kim, Y. J., and Manocha, D. 2010. Continuous collision detection for non-rigid contact computations using local advancement. InICRA, 4016--4021."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-20",
+                "unstructured": "Tang, M., Manocha, D., Yoon, S.-E., Du, P., Heo, J.-P., and Tong, R.-F. 2011. VolCCD: Fast continuous collision culling between deforming volume meshes.ACM Transactions on Graphics 30, 5 (Oct.), 111:1--111:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-21",
+                "unstructured": "Thomaszewski, B., Pabst, S., and Stra&#223;er, W. 2008. Asynchronous cloth simulation. InProc. of Computer Graphics International."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-22",
+                "unstructured": "Volino, P., and Magnenat-Thalmann, N. 2006. Resolving surface collisions through intersection contour minimization.ACM Transactions on Graphics (SIGGRAPH) 25(July), 1154--1159.",
+                "DOI": "10.1145/1141911.1142007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-23",
+                "unstructured": "Wilkinson, J. H. 1994.Rounding Errors in Algebraic Processes. Dover Publications, Incorporated."
+            },
+            {
+                "key": "key-10.1145/2601097.2601114-24",
+                "unstructured": "Zheng, C., and James, D. L. 2012. Energy-based self-collision culling for arbitrary mesh deformations.ACM Transactions on Graphics (SIGGRAPH 2012) 31, 4 (July), 98:1--98:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601114&amp;ftid=1488930&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:35Z",
+            "timestamp": 1565663735000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601114",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

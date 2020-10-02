@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:04Z",
+            "timestamp": 1574859844556
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201286",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Full 3D reconstruction of transparent objects"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Bojian",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University, and University of Chinese Academy of Sciences"
+                    }
+                ]
+            },
+            {
+                "given": "Yang",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Huazhong University of Science & Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Yiming",
+                "family": "Qian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Alberta"
+                    }
+                ]
+            },
+            {
+                "given": "Minglun",
+                "family": "Cong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Memorial University of Newfoundland"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201286-1",
+                "unstructured": "Kfir Aberman, Oren Katzir, Qiang Zhou, Zegang Luo, Andrei Sharf, Chen Greif, Baoquan Chen, and Daniel Cohen-Or. 2017. Dip Transform for 3D Shape Reconstruction.ACM Trans. on Graphics (Proc. of SIGGRAPH)36, 4 (2017), 79:1--79:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-2",
+                "unstructured": "Bradley Atcheson, Ivo Ihrke, Wolfgang Heidrich, Art Tevs, Derek Bradley, Marcus Magnor, and Hans-Peter Seidel. 2008. Time-resolved 3D Capture of Non-stationary Gas Flows.ACM Trans. on Graphics (Proc. of SIGGRAPH Asia)27, 5 (2008), 132:1--132:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-3",
+                "unstructured": "Moshe Ben-Ezra and Shree K. Nayar. 2003. What Does Motion Reveal About Transparency?Proc. Int. Conf. on Computer Vision(2003), 1025--1032."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-4",
+                "unstructured": "Matthew Berger, Joshua A. Levine, Luis Gustavo Nonato, Gabriel Taubin, and Claudio T. Silva. 2013. A Benchmark for Surface Reconstruction.ACM Trans. on Graphics32, 2 (2013), 20:1--20:17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-5",
+                "unstructured": "Matthew Berger, Andrea Tagliasacchi, Lee M. Seversky, Pierre Alliez, Joshua A. Levine, Andrei Sharf, and Claudio Silva. 2014. State of the Art in Surface Reconstruction from Point Clouds.Eurographics STAR(2014), 165--185."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-6",
+                "unstructured": "Max Born and Emil Wolf. 2013.Principles of optics: electromagnetic theory of propagation, interference and diffraction of light.Elsevier."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-7",
+                "unstructured": "Tongbo Chen, Hendrik PA Lensch, Christian Fuchs, and Hans-Peter Seidel. 2007. Polarization and Phase-Shifting for 3D Scanning of Translucent Objects.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2007), 1--8.",
+                "DOI": "10.1109/CVPR.2007.383209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-8",
+                "unstructured": "Yung-Yu Chuang, Douglas E. Zongker, Joel Hindorff, Brian Curless, David H. Salesin, and Richard Szeliski. 2000. Environment Matting Extensions: Towards Higher Accuracy and Real-time Capture.ACM Trans. on Graphics (Proc. of SIGGRAPH)(2000), 121--130."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-9",
+                "unstructured": "Massimiliano Corsini, Paolo Cignoni, and Roberto Scopigno. 2012. Efficient and Flexible Sampling with Blue Noise Properties of Triangular Meshes.IEEE Trans. Visualization &#38; Computer Graphics18, 6 (2012), 914--924.",
+                "DOI": "10.1109/TVCG.2012.34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-10",
+                "unstructured": "Zhaopeng Cui, Jinwei Gu, Boxin Shi, Ping Tan, and Jan Kautz. 2017. Polarimetric Multi-View Stereo.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2017), 1558--1567."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-11",
+                "unstructured": "Qi Duan, Jianfei Cai, and Jianmin Zheng. 2015. Compressive Environment Matting.The Visual Computer31, 12 (2015), 1587--1600.",
+                "DOI": "10.1007/s00371-014-1035-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-12",
+                "unstructured": "Silvano Galliani, Katrin Lasinger, and Konrad Schindler. 2015. Massively Parallel Multiview Stereopsis by Surface Normal Diffusion.Proc. Int. Conf. on Computer Vision(2015), 873--881."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-13",
+                "unstructured": "James Gregson, Michael Krimerman, Matthias B. Hullin, and Wolfgang Heidrich. 2012. Stochastic Tomography and Its Applications in 3D Imaging of Mixing Fluids.ACM Trans. on Graphics (Proc. of SIGGRAPH)31, 4 (2012), 52:1--52:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-14",
+                "unstructured": "Hui Huang, Dan Li, Hao Zhang, Uri Ascher, and Daniel Cohen-Or. 2009. Consolidation of Unorganized Point Clouds for Surface Reconstruction.ACM Trans. on Graphics (Proc. of SIGGRAPH Asia)28, 5 (2009), 176:1--176:7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-15",
+                "unstructured": "Hui Huang, Shihao Wu, Minglun Gong, Daniel Cohen-Or, Uri Ascher, and Hao Zhang. 2013. Edge-aware Point Set Resampling.ACM Trans. on Graphics32, 1 (2013), 9:1--9:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-16",
+                "unstructured": "Matthias B. Hullin, Martin Fuchs, Ivo Ihrke, Hans-Peter Seidel, and Hendrik P. A. Lensch. 2008. Fluorescent Immersion Range Scanning.ACM Trans. on Graphics (Proc. of SIGGRAPH)27, 3 (2008), 87:1--87:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-17",
+                "unstructured": "Cong Phuoc Huynh, Antonio Robles-Kelly, and Edwin Hancock. 2010. Shape and refractive index recovery from single-view polarisation images.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2010), 1229--1236.",
+                "DOI": "10.1109/CVPR.2010.5539828",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-18",
+                "unstructured": "Ivo Ihrke, Kiriakos N. Kutulakos, Hendrik Lensch, Marcus Magnor, and Wolfgang Heidrich. 2010. Transparent and specular object reconstruction.Computer Graphics Forum29, 8 (2010), 2400--2426.",
+                "DOI": "10.1111/j.1467-8659.2010.01753.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-19",
+                "unstructured": "Ivo Ihrke and Marcus Magnor. 2004. Image-based Tomographic Reconstruction of Flames.Proc. Eurographics Symp. on Computer Animation(2004), 365--373."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-20",
+                "unstructured": "Julian Iseringhausen, Bastian Goldl&#252;cke, Nina Pesheva, Stanimir Iliev, Alexander Wender, Martin Fuchs, and Matthias B. Hullin. 2017. 4D Imaging Through Spray-on Optics.ACM Trans. on Graphics (Proc. of SIGGRAPH)36, 4 (2017), 35:1--35:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-21",
+                "unstructured": "Yu Ji, Jinwei Ye, and Jingyi Yu. 2013. Reconstructing gas flows using light-path approximation.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2013), 2507--2514.",
+                "DOI": "10.1109/CVPR.2013.324",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-22",
+                "unstructured": "Michael Kazhdan and Hugues Hoppe. 2013. Screened Poisson Surface Reconstruction.ACM Trans. on Graphics32, 3 (2013), 29:1--29:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-23",
+                "unstructured": "Jaewon Kim, Ilya Reshetouski, and Abhijeet Ghosh. 2017. Acquiring Axially-Symmetric Transparent Objects Using Single-View Transmission Imaging.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2017), 1484--1492.",
+                "DOI": "10.1109/CVPR.2017.162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-24",
+                "unstructured": "Kiriakos N. Kutulakos and Steven M. Seitz. 2000. A Theory of Shape by Space Carving.Int. J. Computer Vision38, 3 (2000), 199--218.",
+                "DOI": "10.1023/A:1008191222954",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-25",
+                "unstructured": "Kiriakos N. Kutulakos and Eron Steger. 2008. A theory of refractive and specular 3D shape by light-path triangulation.Int. J. Computer Vision76, 1 (2008), 13--29.",
+                "DOI": "10.1007/s11263-007-0049-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-26",
+                "unstructured": "Aviad Levis, Yoav Y Schechner, Amit Aides, and Anthony B Davis. 2015. Airborne three-dimensional cloud tomography.Proc. Int. Conf. on Computer Vision(2015), 3379--3387."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-27",
+                "unstructured": "Aviad Levis, Yoav Y Schechner, and Anthony B Davis. 2017. Multiple-scattering microphysics tomography.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2017), 5797--5806.",
+                "DOI": "10.1109/CVPR.2017.614",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-28",
+                "unstructured": "Yaron Lipman, Daniel Cohen-Or, David Levin, and Hillel Tal-Ezer. 2007. Parameterization-free Projection for Geometry Reconstruction.ACM Trans. on Graphics (Proc. of SIGGRAPH)26, 3 (2007), 22:1--22:6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-29",
+                "unstructured": "Daisuke Miyazaki and Katsushi Ikeuchi. 2005. Inverse polarization raytracing: estimating surface shapes of transparent objects.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition2 (2005), 910--917."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-30",
+                "unstructured": "Nigel JW Morris and Kiriakos N. Kutulakos. 2007. Reconstructing the surface of inhomogeneous transparent scenes by scatter-trace photography.Proc. Int. Conf. on Computer Vision(2007), 1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-31",
+                "unstructured": "Nigel JW Morris and Kiriakos N. Kutulakos. 2011. Dynamic refraction stereo.IEEE Trans. Pattern Analysis &#38; Machine Intelligence33, 8 (2011), 1518--1531.",
+                "DOI": "10.1109/TPAMI.2011.24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-32",
+                "unstructured": "Pieter Peers and Philip Dutr&#233;. 2003. Wavelet environment matting.Proc. Eurographics Workshop on Rendering(2003), 157--166."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-33",
+                "unstructured": "Yiming Qian, Minglun Gong, and Yee Hong Yang. 2016. 3D Reconstruction of Transparent Objects with Position-Normal Consistency.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2016), 4369--4377.",
+                "DOI": "10.1109/CVPR.2016.473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-34",
+                "unstructured": "Yiming Qian, Minglun Gong, and Yee-Hong Yang. 2015. Frequency-based environment matting by compressive sensing.Proc. Int. Conf. on Computer Vision(2015), 3532--3540."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-35",
+                "unstructured": "Yiming Qian, Minglun Gong, and Yee-Hong Yang. 2017. Stereo-Based 3D Reconstruction of Dynamic Fluid Surfaces by Global Optimization.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2017), 6650--6659.",
+                "DOI": "10.1109/CVPR.2017.704",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-36",
+                "unstructured": "Yuliy Schwartzburg, Romain Testuz, Andrea Tagliasacchi, and Mark Pauly. 2014. High-contrast Computational Caustic Design.ACM Trans. on Graphics (Proc. of SIGGRAPH)33, 4 (2014), 74:1--74:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-37",
+                "unstructured": "Qi Shan, Sameer Agarwal, and Brian Curless. 2012. Refractive height fields from single and multiple images.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2012), 286--293.",
+                "DOI": "10.1109/CVPR.2012.6247687",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-38",
+                "unstructured": "Kenichiro Tanaka, Yasuhiro Mukaigawa, Hiroyuki Kubo, Yasuyuki Matsushita, and Yasushi Yagi. 2016. Recovering Transparent Shape from Time-of-Flight Distortion.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2016), 4387--4395.",
+                "DOI": "10.1109/CVPR.2016.475",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-39",
+                "unstructured": "Borislav Trifonov, Derek Bradley, and Wolfgang Heidrich. 2006. Tomographic reconstruction of transparent objects.Proc. Eurographics Conf. on Rendering Techniques(2006), 51--60."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-40",
+                "unstructured": "Chia-Yin Tsai, Ashok Veeraraghavan, and Aswin C Sankaranarayanan. 2015. What does a single light-ray reveal about a transparent object?Proc. IEEE Int. Conf. on Image Processing(2015), 606--610."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-41",
+                "unstructured": "Gordon Wetzstein, David Roodnick, Wolfgang Heidrich, and Ramesh Raskar. 2011. Refractive shape from light field distortion.Proc. Int. Conf. on Computer Vision(2011), 1180--1186."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-42",
+                "unstructured": "Yonatan Wexler, Andrew. W. Fitzgibbon, and Andrew. Zisserman. 2002. Image-based Environment Matting.Proc. Eurographics Workshop on Rendering(2002), 279--290."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-43",
+                "unstructured": "Shihao Wu, Hui Huang, Minglun Gong, Matthias Zwicker, and Daniel Cohen-Or. 2015a. Deep Points Consolidation.ACM Trans. on Graphics (Proc. of SIGGRAPH Asia)34, 6 (2015), 176:1--176:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-44",
+                "unstructured": "Shihao Wu, Wei Sun, Pinxin Long, Hui Huang, Daniel Cohen-Or, Minglun Gong, Oliver Deussen, and Baoquan Chen. 2014. Quality-driven Poisson-guided Autoscanning.ACM Trans. on Graphics (Proc. of SIGGRAPH Asia)33, 6 (2014), 203:1--203:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-45",
+                "unstructured": "Zhaohui Wu, Zhong Zhou, Delei Tian, and Wei Wu. 2015b. Reconstruction of Three-dimensional Flame with Color Temperature.The Visual Computer31, 5 (2015), 613--625.",
+                "DOI": "10.1007/s00371-014-0987-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-46",
+                "unstructured": "Sai-Kit Yeung, Tai-Pang Wu, Chi-Keung Tang, Tony F Chan, and Stanley Osher. 2011. Adequate reconstruction of transparent objects on a shoestring budget.Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition(2011), 2513--2520.",
+                "DOI": "10.1109/CVPR.2011.5995472",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-47",
+                "unstructured": "Yonghao Yue, Kei Iwasaki, Bing-Yu Chen, Yoshinori Dobashi, and Tomoyuki Nishita. 2014. Poisson-Based Continuous Surface Generation for Goal-Based Caustics.ACM Trans. on Graphics33, 3 (2014), 31:1--31:7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-48",
+                "unstructured": "Mingjie Zhang, Xing Lin, Mohit Gupta, Jinli Suo, and Qionghai Dai. 2014. Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.Proc. Euro. Conf. on Computer Vision(2014), 234--250."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-49",
+                "unstructured": "Zhengyou Zhang. 2000. A Flexible New Technique for Camera Calibration.IEEE Trans. Pattern Analysis &#38; Machine Intelligence22, 11 (2000), 1330--1334.",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-50",
+                "unstructured": "Ciyou Zhu, Richard H. Byrd, Peihuang Lu, and Jorge Nocedal. 1997. Algorithm 778: L-BFGS-B: Fortran Subroutines for Large-scale Bound-constrained Optimization.ACM Trans. Mathematical Software23, 4 (1997), 550--560.",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-51",
+                "unstructured": "Douglas E. Zongker, Dawn M. Werner, Brian Curless, and David H. Salesin. 1999. Environment Matting and Compositing.ACM Trans. on Graphics (Proc. of SIGGRAPH)(1999), 205--214."
+            },
+            {
+                "key": "key-10.1145/3197517.3201286-52",
+                "unstructured": "Xinxin Zuo, Chao Du, Sen Wang, Jiangbin Zheng, and Ruigang Yang. 2015. Interactive visual hull refinement for specular and transparent object surface reconstruction.Proc. Int. Conf. on Computer Vision(2015), 2237--2245."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201286&ftid=1991681&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:53:26Z",
+            "timestamp": 1571673206000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201286",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

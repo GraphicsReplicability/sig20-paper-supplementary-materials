@@ -1,0 +1,572 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410030
+        },
+        "reference-count": 67,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201333",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "End-to-end optimization of optics and image processing for achromatic extended depth of field and super-resolution imaging"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Vincent",
+                "family": "Sitzmann",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "Diamond",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Yifan",
+                "family": "Peng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia and Canada and Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Xiong",
+                "family": "Dun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Stephen",
+                "family": "Boyd",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201333-1",
+                "unstructured": "N. Antipa, S. Necula, R. Ng, and L. Waller. 2016. Single-shot diffuser-encoded light field imaging. InProc. IEEE ICCP.1--11.",
+                "DOI": "10.1109/ICCPHOT.2016.7492880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-2",
+                "unstructured": "M. S. Asif, A. Ayremlou, A. Sankaranarayanan, A. Veeraraghavan, and R. G. Baraniuk. 2017. FlatCam: Thin, Lensless Cameras Using Coded Aperture and Computation.IEEE Trans. Computational Imaging3, 3 (2017), 384--397.",
+                "DOI": "10.1109/TCI.2016.2593662",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-3",
+                "unstructured": "M. Ben-Ezra, A. Zomet, and S.K. Nayar. 2004. Jitter Camera: High Resolution Video from a Low Resolution Detector. InProc. CVPR.135--142.",
+                "DOI": "10.1109/CVPR.2004.1315155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-4",
+                "unstructured": "Max Born and Emil Wolf. 1999.Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light(7 ed.). Cambridge University Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-5",
+                "unstructured": "D.J. Brady, M. E. Gehm, R. A. Stack, D. L. Marks, D. S. Kittle, D. R. Golish, E. M. Vera, and S. D. Feller. 2012. Multiscale Gigapixel Photography.Nature486 (2012), 386--389.",
+                "DOI": "10.1038/nature11150",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-6",
+                "unstructured": "Ayan Chakrabarti. 2016. Learning sensor multiplexing design through back-propagation. InAdvances in Neural Information Processing Systems.3081--3089."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-7",
+                "unstructured": "Wei Ting Chen, Alexander Y Zhu, Vyshakh Sanjeev, Mohammadreza Khorasaninejad, Zhujun Shi, Eric Lee, and Federico Capasso. 2018. A broadband achromatic metalens for focusing and imaging in the visible.Nature nanotechnology(2018), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-8",
+                "unstructured": "Shane Colburn, Alan Zhan, and Arka Majumdar. 2018. Metasurface optics for full-color computational imaging.Science Advances4, 2 (2018), eaar2114."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-9",
+                "unstructured": "O. Cossairt, D. Miau, and S.K. Nayar. 2011. Gigapixel Computational Imaging. InProc. ICCP.",
+                "DOI": "10.1109/ICCPHOT.2011.5753115",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-10",
+                "unstructured": "Oliver Cossairt and Shree Nayar. 2010. Spectral focal sweep: Extended depth of field from chromatic aberrations. InProc. ICCP.1--8.",
+                "DOI": "10.1109/ICCPHOT.2010.5585101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-11",
+                "unstructured": "Oliver Cossairt, Changyin Zhou, and Shree Nayar. 2010. Diffusion Coded Photography for Extended Depth of Field.ACM Trans. Graph. (SIGGRAPH)29, 4 (2010), 31:1--31:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-12",
+                "unstructured": "Gerwin Damberg and Wolfgang Heidrich. 2015. Efficient freeform lens optimization for computational caustic displays.Optics Express23, 8 (2015), 10224--10232.",
+                "DOI": "10.1364/OE.23.010224",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-13",
+                "unstructured": "Paul E. Debevec and Jitendra Malik. 1997. Recovering High Dynamic Range Radiance Maps from Photographs. InACM SIGGRAPH.369--378.",
+                "DOI": "10.1145/258734.258884",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-14",
+                "unstructured": "Steven Diamond, Vincent Sitzmann, Stephen Boyd, Gordon Wetzstein, and Felix Heide. 2017a. Dirty pixels: Optimizing image classification architectures for raw sensor data.arXiv preprint arXiv:1701.06487(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-15",
+                "unstructured": "Steven Diamond, Vincent Sitzmann, Felix Heide, and Gordon Wetzstein. 2017b. Unrolled Optimization with Deep Priors. (2017). arXiv:1705.08041"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-16",
+                "unstructured": "C. Dong, C. Loy, K. He, and X. Tang. 2016b. Image Super-Resolution Using Deep Convolutional Networks.IEEE Trans. PAMI38, 2 (2016), 295--307.",
+                "DOI": "10.1109/TPAMI.2015.2439281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-17",
+                "unstructured": "Chao Dong, Chen Change Loy, and Xiaoou Tang. 2016a. Accelerating the super-resolution convolutional neural network. InProceedings of the European Conference on Computer Vision.391--407.",
+                "DOI": "10.1007/978-3-319-46475-6_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-18",
+                "unstructured": "Edward R. Dowski and W. Thomas Cathey. 1995. Extended depth of field through wave-front coding.OSA Appl. Opt.34, 11 (1995), 1859--1866.",
+                "DOI": "10.1364/AO.34.001859",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-19",
+                "unstructured": "Gabriel Eilertsen, Joel Kronander, Gyorgy Denes, Rafal Mantiuk, and Jonas Unger. 2017. HDR image reconstruction from a single exposure using deep CNNs.ACM Trans. Graph. (SIGGRAPH Asia)36, 6 (2017).",
+                "DOI": "10.1145/3130800.3130816",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-20",
+                "unstructured": "Angel Flores, Michael R Wang, and Jame J Yang. 2004. Achromatic hybrid refractive-diffractive lens with extended depth of focus.Applied optics43, 30 (2004), 5618--5630.",
+                "DOI": "10.1364/AO.43.005618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-21",
+                "unstructured": "Joseph Goodman. 2017.Introduction to Fourier Optics(4 ed.). W.H. Freeman."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-22",
+                "unstructured": "Samuel W. Hasinoff, Dillon Sharlet, Ryan Geiss, Andrew Adams, Jonathan T. Barron, Florian Kainz, Jiawen Chen, and Marc Levoy. 2016. Burst Photography for High Dynamic Range and Low-light Imaging on Mobile Cameras.ACM Trans. Graph. (SIGGRAPH)35, 6 (2016), 192:1--192:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-23",
+                "unstructured": "Felix Heide, Qiang Fu, Yifan Peng, and Wolfgang Heidrich. 2016. Encoded diffractive optics for full-spectrum computational imaging.Scientific Reports6, 33543 (2016).",
+                "DOI": "10.1038/srep33543",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-24",
+                "unstructured": "Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja. 2015. Single image super-resolution from transformed self-exemplars. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.5197--5206.",
+                "DOI": "10.1109/CVPR.2015.7299156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-25",
+                "unstructured": "Michael Iliadis, Leonidas Spinoulas, and Aggelos K Katsaggelos. 2016. Deepbinarymask: Learning a binary mask for video compressive sensing.arXiv preprint arXiv:1607.03343(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-26",
+                "unstructured": "Herve Jegou, Matthijs Douze, and Cordelia Schmid. 2008. Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search. InProc. ECCV.304--317.",
+                "DOI": "10.1007/978-3-540-88682-2_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-27",
+                "unstructured": "Nima Khademi Kalantari and Ravi Ramamoorthi. 2017. Deep High Dynamic Range Imaging of Dynamic Scenes.ACM Trans. Graph. (SIGGRAPH)36, 4 (2017), 144:1--144:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-28",
+                "unstructured": "Jiwon Kim, Jung Kwon Lee, and Kyoung Mu Lee. 2016a. Accurate image super-resolution using very deep convolutional networks. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.1646--1654.",
+                "DOI": "10.1109/CVPR.2016.182",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-29",
+                "unstructured": "Jiwon Kim, Jung Kwon Lee, and Kyoung Mu Lee. 2016b. Deeply-recursive convolutional network for image super-resolution. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.1637--1645.",
+                "DOI": "10.1109/CVPR.2016.181",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-30",
+                "unstructured": "Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, and Ming-Hsuan Yang. 2017. Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2017.618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-31",
+                "unstructured": "Michael L. Land and Dan-Eric Nielsson. 2002.Animal Eyes.Oxford University Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-32",
+                "unstructured": "Anat Levin, Rob Fergus, Fr&#233;do Durand, and William T. Freeman. 2007. Image and Depth from a Conventional Camera with a Coded Aperture.ACM Trans. Graph. (SIGGRAPH)26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276464",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-33",
+                "unstructured": "Anat Levin, Samuel W. Hasinoff, Paul Green, Fr&#233;do Durand, and William T. Freeman. 2009. 4D Frequency Analysis of Computational Cameras for Depth of Field Extension.ACM Trans. Graph. (SIGGRAPH)28, 3 (2009), 97:1--97:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-34",
+                "unstructured": "Zhiqiang Liu. 2007. Diffractive lens with extended depth of focus and its applications. (2007)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-35",
+                "unstructured": "Mann, Picard, S. Mann, and R. W. Picard. 1995. On Being `undigital' With Digital Cameras: Extending Dynamic Range By Combining Differently Exposed Pictures. InProceedings of IS&#38;T442--448."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-36",
+                "unstructured": "D. Martin, C. Fowlkes, D. Tal, and J. Malik. 2001. A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics. InICCV, Vol. 2. 416--423.",
+                "DOI": "10.1109/ICCV.2001.937655",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-37",
+                "unstructured": "Kshitij Marwah, Gordon Wetzstein, Yosuke Bando, and Ramesh Raskar. 2013. Compressive Light Field Photography Using Overcomplete Dictionaries and Optimized Projections.ACM Trans. Graph. (SIGGRAPH)32, 4 (2013), 46:1--46:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-38",
+                "unstructured": "Brian Morgan, Christopher M Waits, John Krizmanic, and Reza Ghodssi. 2004. Development of a deep silicon phase Fresnel lens using gray-scale lithography and deep reactive ion etching.Journal of microelectromechanical systems13, 1 (2004), 113--120.",
+                "DOI": "10.1109/JMEMS.2003.823220",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-39",
+                "unstructured": "S. K. Nayar. 2006. Computational Cameras: Redefining the Image.IEEE Computer39, 8 (2006), 30--38.",
+                "DOI": "10.1109/MC.2006.258",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-40",
+                "unstructured": "Y. Nesterov. 1983. A method of solving a convex programming problem with convergence rateO(1/k2).Soviet Mathematics Doklady27 (1983), 372--376."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-41",
+                "unstructured": "Ren Ng, Marc Levoy, Mathieu Bredif, Gene Duval, Mark Horowitz, and Pat Hanrahan. 2005. Light Field Photography with a Hand-Held Plenoptic Camera. Tech Report CSTR 2005-02."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-42",
+                "unstructured": "Sri Rama Prasanna Pavani, Michael A. Thompson, Julie S. Biteen, Samuel J. Lord, Na Liu, Robert J. Twieg, Rafael Piestun, and W. E. Moerner. 2009. Three-dimensional, single-molecule fluorescence imaging beyond the diffraction limit by using a double-helix point spread function. 106, 9 (2009), 2995--2999."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-43",
+                "unstructured": "Yifan Peng, Qiang Fu, Felix Heide, and Wolfgang Heidrich. 2016. The Diffractive Achromat Full Spectrum Computational Imaging with Diffractive Optics.ACM Trans. Graph. (SIGGRAPH)35, 4 (2016), 31:1--31:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-44",
+                "unstructured": "Ramesh Raskar, Amit Agrawal, and Jack Tumblin. 2006. Coded Exposure Photography: Motion Deblurring Using Fluttered Shutter.ACM Trans. Graph. (SIGGRAPH)25, 3 (2006), 795--804.",
+                "DOI": "10.1145/1141911.1141957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-45",
+                "unstructured": "Erik Reinhard, Greg Ward, Sumanta Pattanaik, and Paul Debevec. 2005.High Dynamic Range Imaging: Acquisition, Display, and Image-Based Lighting.Morgan Kaufmann.",
+                "DOI": "10.1016/B978-012585263-0/50010-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-46",
+                "unstructured": "Mushfiqur Rouf, Rafal Mantiuk, Wolfgang Heidrich, Matthew Trentacoste, and Cheryl Lau. 2011. Glare encoding of high dynamic range images. InProc. CVPR.289--296.",
+                "DOI": "10.1109/CVPR.2011.5995335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-47",
+                "unstructured": "Samuel Schulter, Christian Leistner, and Horst Bischof. 2015. Fast and accurate image upscaling with super-resolution forests. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.3791--3799.",
+                "DOI": "10.1109/CVPR.2015.7299003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-48",
+                "unstructured": "Yuliy Schwartzburg, Romain Testuz, Andrea Tagliasacchi, and Mark Pauly. 2014. High-contrast computational caustic design.ACM Trans. Graph. (SIGGRAPH)33, 4 (2014), 74."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-49",
+                "unstructured": "Yoav Shechtman, Steffen J. Sahl, Adam S. Backer, and W. E. Moerner. 2014. Optimal Point Spread Function Design for 3D Imaging.Phys. Rev. Lett.113 (2014), 133902. Issue 13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-50",
+                "unstructured": "Wenzhe Shi, Jose Caballero, Ferenc Huszar, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, and Zehan Wang. 2016. Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2016.207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-51",
+                "unstructured": "Yichang Shih, Brian Guenter, and Neel Joshi. 2012. Image enhancement using calibrated lens simulations. InEuropean Conference on Computer Vision.Springer, 42--56.",
+                "DOI": "10.1007/978-3-642-33765-9_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-52",
+                "unstructured": "Warren J. Smith. 2007.Modern Optical Engineering(4 ed.). McGraw-Hill."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-53",
+                "unstructured": "Pratul P. Srinivasan, Tongzhou Wang, Ashwin Sreelal, Ravi Ramamoorthi, and Ren Ng. 2017. Learning to Synthesize a 4D RGBD Light Field from a Single Image. InProc. IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-54",
+                "unstructured": "Libin Sun, Neel Joshi, Brian Guenter, and James Hays. 2015. Lens Factory: Automatic Lens Generation Using Off-the-shelf Components.CoRRabs/1506.08956 (2015). arXiv:1506.08956 http://arxiv.org/abs/1506.08956"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-55",
+                "unstructured": "Radu Timofte, Vincent De Smet, and Luc Van Gool. 2014. A+: Adjusted anchored neighborhood regression for fast super-resolution. InProceedings of Asian Conference on Computer Vision.111--126.",
+                "DOI": "10.1007/978-3-319-16817-3_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-56",
+                "unstructured": "Ashok Veeraraghavan, Ramesh Raskar, Amit Agrawal, Ankit Mohan, and Jack Tumblin. 2007. Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing.ACM Trans. Graph. (SIGGRAPH)26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276463",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-57",
+                "unstructured": "Ashwin Wagadarikar, Renu John, Rebecca Willett, and David Brady. 2008. Single disperser design for coded aperture snapshot spectral imaging.OSA Appl. Opt.47, 10 (2008), B44--B51.",
+                "DOI": "10.1364/AO.47.000B44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-58",
+                "unstructured": "Ting-Chun Wang, Jun-Yan Zhu, Nima Khademi Kalantari, Alexei A. Efros, and Ravi Ramamoorthi. 2017. Light Field Video Capture Using a Learning-Based Hybrid Imaging System.ACM Trans. Graph. (SIGGRAPH)36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073614",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-59",
+                "unstructured": "Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, and Thomas Huang. 2015. Deep networks for image super-resolution with sparse prior. InProceedings of the IEEE International Conference on Computer Vision.370--378.",
+                "DOI": "10.1109/ICCV.2015.50",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-60",
+                "unstructured": "Gordon Wetzstein, Ivo Ihrke, Douglas Lanman, and Wolfgang Heidrich. 2011. Computational Plenoptic Imaging.Computer Graphics Forum30, 8 (2011), 2397--2426.",
+                "DOI": "10.1111/j.1467-8659.2011.02073.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-61",
+                "unstructured": "Rengmao Wu, Liang Xu, Peng Liu, Yaqin Zhang, Zhenrong Zheng, Haifeng Li, and Xu Liu. 2013. Freeform illumination design: a nonlinear boundary problem for the elliptic Monge-Amp&#233;re equation.Optics letters38, 2 (2013), 229--231.",
+                "DOI": "10.1364/OL.38.000229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-62",
+                "unstructured": "Li Xu, Jimmy SJ Ren, Ce Liu, and Jiaya Jia. 2014. Deep convolutional neural network for image deconvolution. InAdvances in Neural Information Processing Systems.1790--1798."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-63",
+                "unstructured": "Jie Yang, Jiafu Wang, Mingde Feng, Yongfeng Li, Xinhua Wang, Xiaoyang Zhou, Tiejun Cui, and Shaobo Qu. 2017. Achromatic flat focusing lens based on dispersion engineering of spoof surface plasmon polaritons.Applied Physics Letters110, 20 (2017), 203507."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-64",
+                "unstructured": "Matthew D Zeiler. 2012. ADADELTA: an adaptive learning rate method.arXiv preprint arXiv:1212.5701(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-65",
+                "unstructured": "Jinsong Zhang and Jean-Fran&#231;ois Lalonde. 2017. Learning High Dynamic Range from Outdoor Panoramas. InProc. IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.484",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-66",
+                "unstructured": "C. Zhou, S. Lin, and S. K. Nayar. 2009. Coded Aperture Pairs for Depth from Defocus. InProc. ICCV.",
+                "DOI": "10.1007/s11263-010-0409-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201333-67",
+                "unstructured": "C. Zhou and S. Nayar. 2009. What are good apertures for defocus deblurring?. InProc. IEEE ICCP.1--8.",
+                "DOI": "10.1109/ICCPHOT.2009.5559018",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201333&ftid=1991601&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:28Z",
+            "timestamp": 1571673328000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 67,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201333",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

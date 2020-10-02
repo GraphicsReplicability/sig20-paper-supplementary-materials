@@ -1,0 +1,386 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808429
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201288",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "P2P-NET"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kangxue",
+                "family": "Yin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201288-1",
+                "unstructured": "Marc Alexa, Johannes Behr, Daniel Cohen-Or, Shachar Fleishman, David Levin, and Claudio T Silva. 2003. Computing and rendering point set surfaces.IEEE Trans. Vis. &#38; Comp. Graphics9, 1 (2003), 3--15.",
+                "DOI": "10.1109/TVCG.2003.1175093",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-2",
+                "unstructured": "Matthew Berger, Andrea Tagliasacchi, Lee M. Seversky, Pierre Alliez, Ga&#235;l Guennebaud, Joshua A. Levine, Andrei Sharf, and Claudio T. Silva. 2017. A Survey of Surface Reconstruction from Point Clouds.Computer Graphics Forum36, 1 (2017), 301--329.",
+                "DOI": "10.1111/cgf.12802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-3",
+                "unstructured": "Sema Berkiten, Maciej Halber, Justin Solomon, Chongyang Ma, Hao Li, and Szymon Rusinkiewicz. 2017. Learning detail transfer based on geometric features. InComputer Graphics Forum (Eurographics), Vol. 36. 361--373.",
+                "DOI": "10.1111/cgf.13132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-4",
+                "unstructured": "Jeannette Bohg, Javier Romero, Alexander Herzog, and Stefan Schaal. 2014. Robot arm pose estimation through pixel-wise part classification. InProc. of ICRA.IEEE, 3143--3150. https://github.com/jbohg/render_kinect",
+                "DOI": "10.1109/ICRA.2014.6907311",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-5",
+                "unstructured": "Arunkumar Byravan and Dieter Fox. 2016. SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks. InProc. of ICRA.",
+                "DOI": "10.1109/ICRA.2017.7989023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-6",
+                "unstructured": "Junjie Cao, Andrea Tagliasacchi, Matt Olson, Hao Zhang, and Zhinxun Su. 2010. Point cloud skeletons via laplacian based contraction. InProc. IEEE Int. Conf. on Shape Modeling and Applications.187--197.",
+                "DOI": "10.1109/SMI.2010.25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-7",
+                "unstructured": "Jonathan C Carr, Richard K Beatson, Jon B Cherrie, Tim J Mitchell, W Richard Fright, Bruce C McCallum, and Tim R Evans. 2001. Reconstruction and representation of 3D objects with radial basis functions. InACM Trans. on Graph (SIGGRAPH).67--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-8",
+                "unstructured": "Massimiliano Corsini, Paolo Cignoni, and Roberto Scopigno. 2012. Efficient and flexible sampling with blue noise properties of triangular meshes.IEEE Trans. Vis. &#38; Comp. Graphics18, 6 (2012), 914--924.",
+                "DOI": "10.1109/TVCG.2012.34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-9",
+                "unstructured": "Angela Dai, Charles Ruizhongtai Qi, and Matthias Nie&#223;ner. 2017. Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis. InProc. of CVPR.",
+                "DOI": "10.1109/CVPR.2017.693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-10",
+                "unstructured": "Haoqiang Fan, Hao Su, and Leonidas Guibas. 2017. A point set generation network for 3d object reconstruction from a single image. InProc. of CVPR.",
+                "DOI": "10.1109/CVPR.2017.264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-11",
+                "unstructured": "Matheus Gadelha, Subhransu Maji, and Rui Wang. 2017. Shape Generation using Spatially Partitioned Point Clouds. InProc. of BMVC.",
+                "DOI": "10.5244/C.31.54",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-12",
+                "unstructured": "Markus Gross and Hanspeter Pfister. 2007.Point-Based Graphics.Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-13",
+                "unstructured": "Michael Gschwandtner, Roland Kwitt, Andreas Uhl, and Wolfgang Pree. 2011. BlenSor: blender sensor simulation toolbox.Advances in visual computing(2011), 199--208."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-14",
+                "unstructured": "Paul Guerrero, Yanir Kleiman, Maks Ovsjanikov, and Niloy J Mitra. 2017. PCP-NET: Learning Local Shape Properties from Raw Point Clouds.arXiv preprint arXiv:1710.04954(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-15",
+                "unstructured": "Ruizhen Hu, Wenchao Li, Oliver van Kaick, Hui Huang, Melinos Averkiou, Daniel Cohen-Or, and Hao Zhang. 2017. Co-Locating Style-Defining Elements on 3D Shapes.ACM Trans. on Graph36, 3 (2017), 33:1--33:15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-16",
+                "unstructured": "Hui Huang, Dan Li, Hao Zhang, Uri Ascher, and Daniel Cohen-Or. 2009. Consolidation of unorganized point clouds for surface reconstruction. InACM Trans. on Graph (SIGGRAPH Asia), Vol. 28. 176:1--176:7.",
+                "DOI": "10.1145/1661412.1618522",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-17",
+                "unstructured": "Hui Huang, Shihao Wu, Daniel Cohen-Or, Minglun Gong, Hao Zhang, Guiqing Li, and Baoquan Chen. 2013a. L1-medial skeleton of point cloud.ACM Trans. on Graph (SIGGRAPH)32, 4 (2013), 65:1--65:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-18",
+                "unstructured": "Hui Huang, Shihao Wu, Minglun Gong, Daniel Cohen-Or, Uri Ascher, and Hao Zhang. 2013b. Edge-aware point set resampling.ACM Trans. on Graph32, 1 (2013), 9:1--9:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-19",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros. 2017. Image-to-image translation with conditional adversarial networks. InProc. of CVPR.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-20",
+                "unstructured": "Max Jaderberg, Karen Simonyan, Andrew Zisserman, et al. 2015. Spatial transformer networks. InProc. of NIPS.2017--2025."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-21",
+                "unstructured": "Michael Kazhdan and Hugues Hoppe. 2013. Screened Poisson surface reconstruction.ACM Trans. on Graph32, 3 (2013), 29:1--29:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-22",
+                "unstructured": "Chen-Hsuan Lin, Chen Kong, and Simon Lucey. 2018. Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. InProc. of AAAI."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-23",
+                "unstructured": "Yaron Lipman, Daniel Cohen-Or, David Levin, and Hillel Tal-Ezer. 2007. Parameterization-free projection for geometry reconstruction. InACM Trans. on Graph (SIGGRAPH), Vol. 26. 22:1--22:6.",
+                "DOI": "10.1145/1275808.1276405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-24",
+                "unstructured": "Ming-Yu Liu, Thomas Breuel, and Jan Kautz. 2017. Unsupervised Image-to-Image Translation Networks. InProc. of NIPS.700--708."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-25",
+                "unstructured": "Zhaoliang Lun, Matheus Gadelha, Evangelos Kalogerakis, Subhransu Maji, and Rui Wang. 2017. 3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks. InProc. of 3DV."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-26",
+                "unstructured": "Niloy J Mitra and An Nguyen. 2003. Estimating surface normals in noisy point cloud data. InSymp. on Geom. Proc.322--328.",
+                "DOI": "10.1145/777792.777840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-27",
+                "unstructured": "Matthias M&#252;ller, Richard Keiser, Andrew Nealen, Mark Pauly, Markus Gross, and Marc Alexa. 2004. Point based animation of elastic, plastic and melting objects. InSymp. on Computer Animation.141--151."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-28",
+                "unstructured": "Mark Pauly, Richard Keiser, Leif P Kobbelt, and Markus Gross. 2003. Shape modeling with point-sampled geometry.ACM Trans. on Graph (SIGGRAPH)22, 3 (2003), 641--650.",
+                "DOI": "10.1145/882262.882319",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-29",
+                "unstructured": "Reinhold Preiner, Oliver Mattausch, Murat Arikan, Renato Pajarola, and Michael Wimmer. 2014. Continuous Projection for Fast L1 Reconstruction.ACM Trans. on Graph33, 4 (July 2014), 47:1--47:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-30",
+                "unstructured": "Charles R. Qi, Hao Su, Kaichun Mo, and Leonidas J. Guibas. 2017a. PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. InProc. of CVPR.",
+                "DOI": "10.1109/CVPR.2017.16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-31",
+                "unstructured": "Charles R. Qi, Li Yi, Hao Su, and Leonidas J. Guibas. 2017b. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metrie Space. InProc. of NIPS."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-32",
+                "unstructured": "Minhyuk Sung, Hao Su, Vladimir G Kim, Siddhartha Chaudhuri, and Leonidas Guibas. 2017. ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling.ACM Trans. on Graph (SIGGRAPH Asia)36, 6 (2017), 226:1--226:12.",
+                "DOI": "10.1145/3130800.3130821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-33",
+                "unstructured": "Andrea Tagliasacchi, Thomas Delame, Michela Spagnuolo, Nina Amenta, and Alexandru Telea. 2016. 3D Skeletons. InEurographics State of the Art Report."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-34",
+                "unstructured": "Andrea Tagliasacchi, Hao Zhang, and Daniel Cohen-Or. 2009. Curve skeleton extraction from incomplete point cloud. InACM Trans. on Graph (SIGGRAPH Asia), Vol. 28. 71:1--71:9.",
+                "DOI": "10.1145/1576246.1531377",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-35",
+                "unstructured": "Shihao Wu, Hui Huang, Minglun Gong, Matthias Zwicker, and Daniel Cohen-Or. 2015a. Deep Points Consolidation.ACM Trans. on Graph34, 6 (2015), 176:1--176:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-36",
+                "unstructured": "Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, and Jianxiong Xiao. 2015b. 3d shapenets: A deep representation for volumetric shapes. InProc. of CVPR.1912--1920.",
+                "DOI": "10.1109/CVPR.2015.7298801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-37",
+                "unstructured": "Zili Yi, Hao Zhang, Ping Tan, and Minglun Gong. 2017. DualGAN: Unsupervised Dual Learning for Image-to-image Translation. InProc. of ICCV.",
+                "DOI": "10.1109/ICCV.2017.310",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-38",
+                "unstructured": "Tinghui Zhou, Shubham Tulsiani, Weilun Sun, Jitendra Malik, and Alexei A Efros. 2016. View synthesis by appearance flow. InProc. Euro. Conf. on Comp. Vis.286--301.",
+                "DOI": "10.1007/978-3-319-46493-0_18",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201288-39",
+                "unstructured": "Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. 2017. Unpaired image-to-image translation using cycle-consistent adversarial networks. InProc. of ICCV.",
+                "DOI": "10.1109/ICCV.2017.244",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201288&ftid=1991615&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:59:12Z",
+            "timestamp": 1571673552000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "bidirectional point displacement net for shape transform"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201288",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

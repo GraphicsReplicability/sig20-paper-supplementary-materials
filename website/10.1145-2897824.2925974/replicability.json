@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/22/2020 12:43:30",
+    "Title": "Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification",
+    "DOI": "10.1145/2897824.2925974",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/satoshiiizuka/siggraph2016_colorization",
+    "code URL  2": "",
+    "PDF URL": "http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.pdf",
+    "License type": "CC BY-NC-SA 4.0",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 3,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "CC BY-NC-SA 4.0",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Image processing",
+    "ACM 2": "Neural networks",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "The short LUA code comes with a downloadable pretrained network (the data to retrain the network is from http://places.csail.mit.edu/ but the code to train the network is not provided). I used the Ubuntu for Windows framework (with Windows 10) to run the code, which was simpler here.\nI still needed to perform a number of steps:\n- dos2unix download_model.sh to prevent including the \\r in the download URL\n- sudo apt-get install cmake and sudo apt-get install libreadline-dev for dependencies\n- installing torch with nn was slightly harder than the instructions on the torch website claim:\ngit clone https://github.com/torch/distro.git ~/torch --recursive\ncd ~/torch\nthen on line 178 of install--deps  you need to change\nsudo apt-get install -y python-software-properties\nto sudo apt-get install -y software-properties-common since python-software-properties is not supported anymore.\nThen you can run bash install-deps and ./install.sh\nBut then you still need to install nn:\nsudo apt install luarocks\nsudo ~/torch/install/bin/luarocks install torch\nsudo ~/torch/install/bin/luarocks install nn\nand finally run the colorize script, not directly with \"th\" but using:\n~/torch/install/bin/th colorize.lua ansel_colorado_1941.png out.png\nThen everything works fine, runs smoothly (counts 2-3 minutes on the CPU for the only example image provided, which exactly replicate the landscape result in the teaser).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 372,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "torch / torch-nn",
+    "Project URL": "http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.pdf",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Satoshi",
+            "family": "Iizuka",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Waseda University"
+                }
+            ]
+        },
+        {
+            "given": "Edgar",
+            "family": "Simo-Serra",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Waseda University"
+                }
+            ]
+        },
+        {
+            "given": "Hiroshi",
+            "family": "Ishikawa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Waseda University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 4.45,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=5&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=63141179"
+}

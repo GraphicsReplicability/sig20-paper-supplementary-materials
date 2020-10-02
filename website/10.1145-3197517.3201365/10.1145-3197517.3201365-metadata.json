@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:43:16Z",
+            "timestamp": 1578724996814
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201365",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Deep exemplar-based colorization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Mingming",
+                "family": "He",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Hong Kong UST"
+                    }
+                ]
+            },
+            {
+                "given": "Dongdong",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Jing",
+                "family": "Liao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pedro V.",
+                "family": "Sander",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hong Kong UST"
+                    }
+                ]
+            },
+            {
+                "given": "Lu",
+                "family": "Yuan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201365-1",
+                "unstructured": "Artem Babenko and Victor Lempitsky. 2015. Aggregating local deep features for image retrieval. InProc. ICCV.1269--1277."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-2",
+                "unstructured": "Artem Babenko, Anton Slesarev, Alexandr Chigorin, and Victor Lempitsky. 2014. Neural codes for image retrieval. InProc. ECCV.Springer, 584--599.",
+                "DOI": "10.1007/978-3-319-10590-1_38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-3",
+                "unstructured": "Vijay Badrinarayanan, Alex Kendall, and Roberto Cipolla. 2015. Segnet: A deep convolutional encoder-decoder architecture for image segmentation.arXiv preprint arXiv:1511.00561(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-4",
+                "unstructured": "Nicolas Bonneel, James Tompkin, Kalyan Sunkavalli, Deqing Sun, Sylvain Paris, and Hanspeter Pfister. 2015. Blind video temporal consistency.ACM Trans. Graph. (Proc. of SIGGRAPH Asia)34, 6 (2015), 196."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-5",
+                "unstructured": "Aur&#233;lie Bugeau and Vinh-Thong Ta. 2012. Patch-based image colorization. InPattern Recognition (ICPR), 2012 21st International Conference on.IEEE, 3058--3061."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-6",
+                "unstructured": "Aur&#233;lie Bugeau, Vinh-Thong Ta, and Nicolas Papadakis. 2014. Variational exemplar-based image colorization.IEEE Trans. on Image Processing23, 1 (2014), 298--307.",
+                "DOI": "10.1109/TIP.2013.2288929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-7",
+                "unstructured": "Guillaume Charpiat, Matthias Hofmann, and Bernhard Sch&#246;lkopf. 2008. Automatic image colorization via multimodal predictions. (2008), 126--139."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-8",
+                "unstructured": "Dongdong Chen, Jing Liao, Lu Yuan, Nenghai Yu, and Gang Hua. 2017a. Coherent online video style transfer. InProc. ICCV.",
+                "DOI": "10.1109/ICCV.2017.126",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-9",
+                "unstructured": "Dongdong Chen, Lu Yuan, Jing Liao, Nenghai Yu, and Gang Hua. 2017b. Stylebank: An explicit representation for neural image style transfer. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-10",
+                "unstructured": "Dongdong Chen, Lu Yuan, Jing Liao, Nenghai Yu, and Gang Hua. 2018. Stereoscopic Neural Style Transfer. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2018.00696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-11",
+                "unstructured": "Qifeng Chen and Vladlen Koltun. 2017. Photographic image synthesis with cascaded refinement networks. InProc. ICCV, Vol. 1.",
+                "DOI": "10.1109/ICCV.2017.168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-12",
+                "unstructured": "Zezhou Cheng, Qingxiong Yang, and Bin Sheng. 2015. Deep colorization. InProc. ICCV.415--423.",
+                "DOI": "10.1109/ICCV.2015.55",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-13",
+                "unstructured": "Alex Yong-Sang Chia, Shaojie Zhuo, Raj Kumar Gupta, Yu-Wing Tai, Siu-Yeung Cho, Ping Tan, and Stephen Lin. 2011. Semantic colorization with internet images.ACM Trans. Graph. (Proc. of SIGGRAPH Asia)30, 6 (2011), 156."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-14",
+                "unstructured": "Aditya Deshpande, Jason Rock, and David Forsyth. 2015. Learning large-scale automatic image colorization. InProc. ICCV.567--575.",
+                "DOI": "10.1109/ICCV.2015.72",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-15",
+                "unstructured": "Yunchao Gong, Liwei Wang, Ruiqi Guo, and Svetlana Lazebnik. 2014. Multi-scale orderless pooling of deep convolutional activation features. InProc. ECCV.Springer, 392--407.",
+                "DOI": "10.1007/978-3-319-10584-0_26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-16",
+                "unstructured": "Raj Kumar Gupta, Alex Yong-Sang Chia, Deepu Rajan, Ee Sin Ng, and Huang Zhiyong. 2012. Image colorization using similar images. InProc. of the 20th ACM international conference on Multimedia.ACM, 369--378.",
+                "DOI": "10.1145/2393347.2393402",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-17",
+                "unstructured": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2015. Deep Residual Learning for Image Recognition.arXiv preprint arXiv:1512.03385(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-18",
+                "unstructured": "Mingming He, Jing Liao, Lu Yuan, and Pedro V Sander. 2017. Neural Color Transfer between Images.arXiv preprint arXiv:1710.00756(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-19",
+                "unstructured": "Yi-Chin Huang, Yi-Shin Tung, Jun-Cheng Chen, Sung-Wen Wang, and Ja-Ling Wu. 2005. An adaptive edge detection based colorization algorithm and its applications. InProc. of the 13th annual ACM international conference on Multimedia.ACM, 351--354.",
+                "DOI": "10.1145/1101149.1101223",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-20",
+                "unstructured": "Satoshi Iizuka, Edgar Simo-Serra, and Hiroshi Ishikawa. 2016. Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification.ACM Trans. Graph. (Proc. of SIGGRAPH)35,4 (2016), 110."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-21",
+                "unstructured": "Sergey Ioffe and Christian Szegedy. 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. InInternational Conference on Machine Learning.448--456."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-22",
+                "unstructured": "Revital Irony, Daniel Cohen-Or, and Dani Lischinski. 2005. Colorization by Example. InRendering Techniques.201--210."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-23",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros. 2017. Image-to-image translation with conditional adversarial networks. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-24",
+                "unstructured": "Justin Johnson, Alexandre Alahi, and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. InProc. ECCV.Springer, 694--711.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-25",
+                "unstructured": "Diederik Kingma and Jimmy Ba. 2014. Adam: A method for stochastic optimization.arXiv preprint arXiv:1412.6980(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-26",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in neural information processing systems.1097--1105."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-27",
+                "unstructured": "Gustav Larsson, Michael Maire, and Gregory Shakhnarovich. 2016. Learning representations for automatic colorization. InProc. ECCV.577--593.",
+                "DOI": "10.1007/978-3-319-46493-0_35",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-28",
+                "unstructured": "Anat Levin, Dani Lischinski, and Yair Weiss. 2004. Colorization using optimization.ACM Trans. Graph. (Proc. of SIGGRAPH)23, 3 (2004), 689--694."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-29",
+                "unstructured": "Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, and Sing Bing Kang. 2017. Visual Attribute Transfer through Deep Image Analogy.arXiv preprint arXiv:1705.0108836, 4 (2017), 120."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-30",
+                "unstructured": "Ce Liu, Jenny Yuen, and Antonio Torralba. 2011. Sift flow: Dense correspondence across scenes and its applications.IEEE Trans. Pattern Anal. Mach. Intell.33, 5 (2011), 978--994.",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-31",
+                "unstructured": "Xiaopei Liu, Liang Wan, Yingge Qu, Tien-Tsin Wong, Stephen Lin, Chi-Sing Leung, and Pheng-Ann Heng. 2008. Intrinsic colorization.ACM Trans. Graph. (Proc. of SIGGRAPH Asia)27, 5 (2008), 152."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-32",
+                "unstructured": "Qing Luan, Fang Wen, Daniel Cohen-Or, Lin Liang, Ying-Qing Xu, and Heung-Yeung Shum. 2007. Natural image colorization. InProc. of the 18th Eurographics conference on Rendering Techniques.Eurographics Association, 309--320."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-33",
+                "unstructured": "Yingge Qu, Tien-Tsin Wong, and Pheng-Ann Heng. 2006. Manga colorization.ACM Trans. Graph. (Proc. of SIGGRAPH Asia)25, 3 (2006), 1214--1220."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-34",
+                "unstructured": "Alec Radford, Luke Metz, and Soumith Chintala. 2015. Unsupervised representation learning with deep convolutional generative adversarial networks.arXiv preprint arXiv:1511.06434(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-35",
+                "unstructured": "Ali Sharif Razavian, Josephine Sullivan, Stefan Carlsson, and Atsuto Maki. 2016. A baseline for visual instance retrieval with deep convolutional networks.arXiv preprint arXiv:1412.6574(2016).",
+                "DOI": "10.3169/mta.4.251",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-36",
+                "unstructured": "Erik Reinhard, Michael Adhikhmin, Bruce Gooch, and Peter Shirley. 2001. Color transfer between images.IEEE Computer graphics and applications21, 5 (2001), 34--41.",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-37",
+                "unstructured": "Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, and others. 2015. Imagenet large scale visual recognition challenge.International Journal of Computer Vision115, 3 (2015), 211--252.",
+                "DOI": "10.1007/s11263-015-0816-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-38",
+                "unstructured": "Mehdi SM Sajjadi, Bernhard Scholkopf, and Michael Hirsch. 2017. Enhancenet: Single image super-resolution through automated texture synthesis. InProc. CVPR.4491--4500.",
+                "DOI": "10.1109/ICCV.2017.481",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-39",
+                "unstructured": "Patsorn Sangkloy, Jingwan Lu, Chen Fang, Fisher Yu, and James Hays. 2016. Scribbler: Controlling deep image synthesis with sketch and color. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2017.723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-40",
+                "unstructured": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. 2015. Going Deeper with Convolutions. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-41",
+                "unstructured": "Yu-Wing Tai, Jiaya Jia, and Chi-Keung Tang. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. InProc. CVPR, Vol. 1. IEEE, 747--754."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-42",
+                "unstructured": "Engin Tola, Vincent Lepetit, and Pascal Fua. 2010. Daisy: An efficient dense descriptor applied to wide-baseline stereo.IEEE Trans. Pattern Anal. Mach. Intell.32, 5 (2010), 815--830.",
+                "DOI": "10.1109/TPAMI.2009.77",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-43",
+                "unstructured": "Giorgos Tolias, Ronan Sicre, and Herv&#233; J&#233;gou. 2015. Particular object retrieval with integral max-pooling of CNN activations.arXiv preprint arXiv:1511.05879(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-44",
+                "unstructured": "Philippe Weinzaepfel, Jerome Revaud, Zaid Harchaoui, and Cordelia Schmid. 2013. DeepFlow: Large displacement optical flow with deep matching. InProc. ICCV.1385--1392.",
+                "DOI": "10.1109/ICCV.2013.175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-45",
+                "unstructured": "Tomihisa Welsh, Michael Ashikhmin, and Klaus Mueller. 2002. Transferring color to greyscale images.ACM Trans. Graph. (Proc. of SIGGRAPH Asia)21, 3 (2002), 277--280."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-46",
+                "unstructured": "Liron Yatziv and Guillermo Sapiro. 2006. Fast image and video colorization using chrominance blending.IEEE Trans. on Image Processing15, 5 (2006), 1120--1129.",
+                "DOI": "10.1109/TIP.2005.864231",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-47",
+                "unstructured": "Fisher Yu and Vladlen Koltun. 2015. Multi-scale context aggregation by dilated convolutions.arXiv preprint arXiv:1511.07122(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-48",
+                "unstructured": "Richard Zhang, Phillip Isola, and Alexei A Efros. 2016. Colorful image colorization. InProc. ECCV.649--666.",
+                "DOI": "10.1007/978-3-319-46487-9_40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201365-49",
+                "unstructured": "Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S Lin, Tianhe Yu, and Alexei A Efros. 2017. Real-time user-guided image colorization with learned deep priors.ACM Trans. Graph. (Proc. of SIGGRAPH)36, 4 (2017), 119."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201365&ftid=1991697&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:44:54Z",
+            "timestamp": 1571672694000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201365",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:58Z",
+            "timestamp": 1574859838291
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1253948, IIS-1321168, IIS-1619376"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201352",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Scalable laplacian eigenfluids"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qiaodong",
+                "family": "Cui",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Pradeep",
+                "family": "Sen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201352-1",
+                "unstructured": "Steven S. An, Theodore Kim, and Doug L. James. 2008. Optimizing Cubature for Efficient Integration of Subspace Deformations.ACM Trans. Graph.27, 5, Article 165 (Dec. 2008), 10 pages.",
+                "DOI": "10.1145/1457515.1409118",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-2",
+                "unstructured": "Alexis Angelidis. 2017. Personal Communication. (2017).",
+                "DOI": "10.4074/S0336150017013102",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-3",
+                "unstructured": "David Baraf and Andrew Witkin. 1998. Large steps in cloth simulation. InProceedings of SIGGRAPH.43--54.",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-4",
+                "unstructured": "John P Boyd. 2001.Chebyshev and Fourier spectral methods.Dover Publications."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-5",
+                "unstructured": "Robert Bridson. 2015.Fluid simulation for computer graphics.CRC Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-6",
+                "unstructured": "Tyson Brochu, Todd Keeler, and Robert Bridson. 2012. Linear-time Smoke Animation with Vortex Sheet Meshes. InACM SIGGRAPH/Eurographics Symposium on Computer Animation.87--95."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-7",
+                "unstructured": "K. J. Burns, G. M. Vasil, J. S. Oishi, D. Lecoanet, B. P. Brown, and E. Quataert. 2017. Dedalus project. http://dedalus-project.org. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-8",
+                "unstructured": "CG Canuto, MY Hussaini, A Quarteroni, and TA Zang. 2007.Spectral Methods: Evolution to Complex Geometries and Applications to Fluid Dynamics.Springer.",
+                "DOI": "10.1007/978-3-540-30728-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-9",
+                "unstructured": "Claudio Canuto, M Yousuf Hussaini, Alfio Quarteroni, and TA Zang. 1988.Spectral methods in fluid dynamics.Springer.",
+                "DOI": "10.1007/978-3-642-84108-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-10",
+                "unstructured": "Albert Chern, Felix Kn&#246;ppel, Ulrich Pinkall, Peter Schr&#246;der, and Steffen Weissmann. 2016. Schr&#246;dinger's Smoke.ACM Trans. Graph.35, 4, Article 77 (July 2016), 13 pages.",
+                "DOI": "10.1145/2897824.2925868",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-11",
+                "unstructured": "Seth Davidovits and Nathaniel J Fisch. 2016. Sudden viscous dissipation of compressing turbulence.Physical Review Letters116, 10 (2016).",
+                "DOI": "10.1103/PhysRevLett.116.105004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-12",
+                "unstructured": "Tyler De Witt, Christian Lessig, and Eugene Fiume. 2012. Fluid Simulation Using Laplacian Eigenfunctions.ACM Trans. Graph.31, 1, Article 10 (2012), 11 pages.",
+                "DOI": "10.1145/2077341.2077351",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-13",
+                "unstructured": "Ronald Fedkiw, Jos Stam, and Henrik Wann Jensen. 2001. Visual Simulation of Smoke. InProceedings of SIGGRAPH.15--22.",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-14",
+                "unstructured": "Florian Ferstl, R&#252;diger Westermann, and Christian Dick. 2014. Large-scale liquid simulation on adaptive hexahedral grids.IEEE Transactions on Visualization and Computer Graphics20, 10 (2014), 1405--1417.",
+                "DOI": "10.1109/TVCG.2014.2307873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-15",
+                "unstructured": "Matteo Frigo and Steven G. Johnson. 2005. The Design and Implementation of FFTW3.Proc. IEEE93, 2 (2005), 216--231. Special issue on \"Program Generation, Optimization, and Platform Adaptation\".",
+                "DOI": "10.1109/JPROC.2004.840301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-16",
+                "unstructured": "Uriel Frisch. 1995.Turbulence: The Legacy of AN Kolmogorov.Cambridge University Press.",
+                "DOI": "10.1017/CBO9781139170666",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-17",
+                "unstructured": "Chuyuan Fu, Qi Guo, Theodore Gast, Chenfanfu Jiang, and Joseph Teran. 2017. A Polynomial Particle-in-cell Method.ACM Trans. Graph.36, 6, Article 222 (Nov. 2017), 12 pages.",
+                "DOI": "10.1145/3130800.3130878",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-18",
+                "unstructured": "Gene H Golub and Charles F Van Loan. 2012.Matrix computations.Vol. 3. JHU Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-19",
+                "unstructured": "David Gottlieb and Steven A Orszag. 1977.Numerical analysis of spectral methods: theory and applications.SIAM.",
+                "DOI": "10.1137/1.9781611970425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-20",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#238;t Jacob, et al. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-21",
+                "unstructured": "Mohit Gupta and Srinivasa G. Narasimhan. 2007. Legendre Fluids: A Unified Framework for Analytic Reduced Space Modeling and Rendering of Participating Media. InACM SIGGRAPH/Eurographics Symposium on Computer Animation.17--25."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-22",
+                "unstructured": "Milos Hasan, Edgar Velazquez-Armendariz, Fabio Pellacini, and Kavita Bala. 2008. Tensor Clustering for Rendering Many-Light Animations.Computer Graphics Forum27, 4 (2008), 1105--1114.",
+                "DOI": "10.1111/j.1467-8659.2008.01248.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-23",
+                "unstructured": "Ronald D. Henderson. 2012. Scalable Fluid Simulation in Linear Time on Shared Memory Multiprocessors. InProceedings of the Digital Production Symposium (DigiPro '12).43--52.",
+                "DOI": "10.1145/2370919.2370927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-24",
+                "unstructured": "Nambin Heo and Hyeong-Seok Ko. 2010. Detail-preserving fully-Eulerian Interface Tracking Framework.ACM Trans. Graph.29, 6, Article 176 (Dec. 2010), 8 pages.",
+                "DOI": "10.1145/1882262.1866198",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-25",
+                "unstructured": "Chenfanfu Jiang, Craig Schroeder, Andrew Selle, Joseph Teran, and Alexey Stomakhin. 2015. The Affine Particle-in-cell Method.ACM Trans. Graph.34, 4, Article 51 (July 2015), 10 pages.",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-26",
+                "unstructured": "Aaron Demby Jones, Pradeep Sen, and Theodore Kim. 2016. Compressing Fluid Subspaces. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation.77--84."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-27",
+                "unstructured": "Theodore Kim. 2013. Zephyr. http://www.tkim.graphics/RESIM/source.html. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-28",
+                "unstructured": "Theodore Kim and John Delaney. 2013. Subspace Fluid Re-simulation.ACM Trans. Graph.32, 4, Article 62 (2013), 9 pages.",
+                "DOI": "10.1145/2461912.2461987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-29",
+                "unstructured": "Theodore Kim, Nils Th&#252;rey, Doug James, and Markus Gross. 2008. Wavelet Turbulence for Fluid Simulation.ACM Trans. Graph.27, 3, Article 50 (Aug. 2008), 6 pages.",
+                "DOI": "10.1145/1399504.1360649",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-30",
+                "unstructured": "Cornelius Lanczos. 1938. Trigonometric interpolation of empirical and analytical functions.J. Math Phys.17, 1--4 (1938), 123--199."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-31",
+                "unstructured": "Beibei Liu, Gemma Mason, Julian Hodgson, Yiying Tong, and Mathieu Desbrun. 2015. Model-reduced Variational Fluid Simulation.ACM Trans. Graph.34, 6, Article 244 (2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818130",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-32",
+                "unstructured": "Benjamin Long and Erik Reinhard. 2009. Real-time Fluid Simulation Using Discrete Sine/Cosine Transforms. InSymposium on Interactive 3D Graphics and Games.99--106.",
+                "DOI": "10.1145/1507149.1507165",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-33",
+                "unstructured": "Frank Losasso, Fr&#233;d&#233;ric Gibou, and Ron Fedkiw. 2004. Simulating Water and Smoke with an Octree Data Structure.ACM Trans. Graph.23, 3 (Aug. 2004), 457--462.",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-34",
+                "unstructured": "A. McAdams, E. Sifakis, and J. Teran. 2010. A Parallel Multigrid Poisson Solver for Fluids Simulation on Large Grids. InACM SIGGRAPH/Eurographics Symposium on Computer Animation.65--74."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-35",
+                "unstructured": "Patrick Mullen, Keenan Crane, Dmitry Pavlov, Yiying Tong, and Mathieu Desbrun. 2009. Energy-preserving Integrators for Fluid Animation.ACM Trans. Graph.28, 3, Article 38 (2009), 8 pages.",
+                "DOI": "10.1145/1531326.1531344",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-36",
+                "unstructured": "Rahul Narain, Jason Sewall, Mark Carlson, and Ming C. Lin. 2008. Fast Animation of Turbulence Using Energy Transport and Procedural Synthesis.ACM Trans. Graph. 27, 5, Article 166 (Dec. 2008), 8 pages.",
+                "DOI": "10.1145/1457515.1409119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-37",
+                "unstructured": "Steven A Orszag. 1969. Numerical methods for the simulation of turbulence.The Physics of Fluids12, 12 (1969), II--250."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-38",
+                "unstructured": "Steven A Orszag. 1971. Accurate solution of the Orr-Sommerfeld stability equation.Journal of Fluid Mechanics50, 4 (1971), 689--703.",
+                "DOI": "10.1017/S0022112071002842",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-39",
+                "unstructured": "Tobias Pfaff, Nils Thuerey, and Markus Gross. 2012. Lagrangian Vortex Sheets for Animating Fluids.ACM Trans. Graph.31, 4, Article 112 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-40",
+                "unstructured": "Yousef Saad. 2003.Iterative methods for sparse linear systems.SIAM.",
+                "DOI": "10.1137/1.9780898718003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-41",
+                "unstructured": "H. Schechter and R. Bridson. 2008. Evolving Sub-grid Turbulence for Smoke Animation. InACM SIGGRAPH/Eurographics Symposium on Computer Animation.1--7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-42",
+                "unstructured": "Andrew Selle, Ronald Fedkiw, Byungmoon Kim, Yingjie Liu, and Jarek Rossignac. 2008. An unconditionally stable MacCormack method.Journal of Scientific Computing35, 2 (2008), 350--371.",
+                "DOI": "10.1007/s10915-007-9166-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-43",
+                "unstructured": "Andrew Selle, Nick Rasmussen, and Ronald Fedkiw. 2005. A Vortex Particle Method for Smoke, Water and Explosions.ACM Trans. Graph.24, 3 (July 2005), 910--914.",
+                "DOI": "10.1145/1073204.1073282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-44",
+                "unstructured": "Rajsekhar Setaluri, Mridul Aanjaneya, Sean Bauer, and Eftychios Sifakis. 2014. SPGrid: A Sparse Paged Grid Structure Applied to Adaptive Smoke Simulation.ACM Trans. Graph.33, 6, Article 205 (Nov. 2014), 12 pages.",
+                "DOI": "10.1145/2661229.2661269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-45",
+                "unstructured": "Jos Stam. 1999. Stable Fluids. InProceedings of SIGGRAPH.121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-46",
+                "unstructured": "Jos Stam. 2002. A Simple Fluid Solver Based on the FFT.J. Graph. Tools6, 2 (Sept. 2002), 43--52.",
+                "DOI": "10.1080/10867651.2001.10487540",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-47",
+                "unstructured": "Matt Stanton, Yu Sheng, Martin Wicke, Federico Perazzi, Amos Yuen, Srinivasa Narasimhan, and Adrien Treuille. 2013. Non-polynomial Galerkin Projection on Deforming Meshes.ACM Trans. Graph.32, 4, Article 86 (July 2013), 14 pages.",
+                "DOI": "10.1145/2461912.2462006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-48",
+                "unstructured": "Lloyd N Trefethen. 2000.Spectral methods in MATLAB.SIAM.",
+                "DOI": "10.1137/1.9780898719598",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-49",
+                "unstructured": "Adrien Treuille, Andrew Lewis, and Zoran Popovi&#263;. 2006. Model Reduction for Real-time Fluids.ACM Trans. Graph.25, 3 (July 2006), 826--834.",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-50",
+                "unstructured": "Geofrey M. Vasil, Keaton J. Burns, Daniel Lecoanet, Sheehan Olver, Benjamin P. Brown, and Jeffrey S. Oishi. 2016. Tensor calculus in polar coordinates using Jacobi polynomials.J. Comput. Phys.325 (2016), 53 -- 73.",
+                "DOI": "10.1016/j.jcp.2016.08.013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-51",
+                "unstructured": "Stefen Weissmann and Ulrich Pinkall. 2010. Filament-based Smoke with Vortex Shedding and Variational Reconnection.ACM Trans. Graph.29, 4, Article 115 (July 2010), 12 pages.",
+                "DOI": "10.1145/1833349.1778852",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-52",
+                "unstructured": "Martin Wicke, Matt Stanton, and Adrien Treuille. 2009. Modular Bases for Fluid Dynamics.ACM Trans. Graph.28, 3, Article 39 (July 2009), 8 pages.",
+                "DOI": "10.1145/1576246.1531345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-53",
+                "unstructured": "Xinxin Zhang, Robert Bridson, and Chen Greif. 2015. Restoring the Missing Vorticity in Advection-projection Fluid Solvers.ACM Trans. Graph.34, 4, Article 52 (July 2015), 8 pages.",
+                "DOI": "10.1145/2766982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201352-54",
+                "unstructured": "Yongning Zhu and Robert Bridson. 2005. Animating Sand As a Fluid.ACM Trans. Graph.24, 3 (July 2005), 965--972.",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201352&ftid=1991593&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:51:30Z",
+            "timestamp": 1571673090000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201352",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

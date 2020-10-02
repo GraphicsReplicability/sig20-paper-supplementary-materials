@@ -1,0 +1,392 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410040
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001804",
+                "name": "Canada Research Chairs",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "CFI",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601215",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Active volumetric musculoskeletal systems"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ye",
+                "family": "Fan",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Joshua",
+                "family": "Litven",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Dinesh K.",
+                "family": "Pai",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601215-1",
+                "unstructured": "Agur, A. M., Ng-Thow-Hing, V., Ball, K. A., Fiume, E., and McKee, N. H. 2003. Documentation and three-dimensional modelling of human soleus muscle architecture.Clinical Anatomy 16, 4, 285--293.",
+                "DOI": "10.1002/ca.10112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-2",
+                "unstructured": "Bargteil, A. W., Wojtan, C., Hodgins, J. K., and Turk, G. 2007. A Finite Element Method for Animating Large Viscoplastic Flow.ACM Trans. Graph. 26, 3 (July), 16:1--16:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-3",
+                "unstructured": "Blemker, S. S., and Delp, S. L. 2005. Three-dimensional representation of complex muscle architectures and geometries.Annals of Biomedical Engineering 33, 5 (May), 661--673."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-4",
+                "unstructured": "Chen, D. T., and Zeltzer, D. 1992. Pump it up: Computer animation of a biomechanically based model of muscle using the finite element method. SIGGRAPH '92, 89--98.",
+                "DOI": "10.1145/142920.134016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-5",
+                "unstructured": "Coros, S., Martin, S., Thomaszewski, B., Schumacher, C., Sumner, R., and Gross, M. 2012. Deformable objects alive!ACM Transactions on Graphics (TOG) 31, 4, 69."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-6",
+                "unstructured": "Delp, S. L., et al. 2007. OpenSim: open-source software to create and analyze dynamic simulations of movement.IEEE Trans Biomed Eng 54, 1940--1950.",
+                "DOI": "10.1109/TBME.2007.901024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-7",
+                "unstructured": "English, R. E., Qiu, L., Yu, Y., and Fedkiw, R. 2013. Chimera grids for water simulation. InProceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 85--94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-8",
+                "unstructured": "Fan, Y., Litven, J., Levin, D. I. W., and Pai, D. K. 2013. Eulerian-on-lagrangian simulation.ACM Trans. Graph. 32, 3 (July), 22:1--22:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-9",
+                "unstructured": "Faure, F., Gilles, B., Bousquet, G., and Pai, D. K. 2011. Sparse meshless models of complex deformable solids. InACM Transactions on Graphics (TOG), vol. 30, ACM, 73."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-10",
+                "unstructured": "Geijtenbeek, T., van de Panne, M., and van der Stappen, A. F. 2013. Flexible muscle-based locomotion for bipedal creatures.ACM Transactions on Graphics (TOG) 32, 6, 206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-11",
+                "unstructured": "Gilles, B., Reveret, L., and Pai, D. 2010. Creating and animating subject-specific anatomical models. InComputer Graphics Forum, vol. 29, Wiley Online Library, 2340--2351."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-12",
+                "unstructured": "Goldenthal, R., Harmon, D., Fattal, R., Bercovier, M., and Grinspun, E. 2007. Efficient simulation of inextensible cloth.ACM Transactions on Graphics (TOG) 26, 3, 49."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-13",
+                "unstructured": "Herzog, W. 2004. History dependence of skeletal muscle force production: implications for movement control.Hum Mov Sci 23(Nov), 591--604.",
+                "DOI": "10.1016/j.humov.2004.10.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-14",
+                "unstructured": "Holzbaur, K., Murray, W., and Delp, S. 2005. A model of the upper extremity for simulating musculoskeletal surgery and analyzing neuromuscular control.Annals of biomedical engineering 33, 6, 829--840.",
+                "DOI": "10.1007/s10439-005-3320-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-15",
+                "unstructured": "Hughes, T. 2000.The finite element method: linear static and dynamic finite element analysis. Dover Publications."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-16",
+                "unstructured": "Irving, G., Schroeder, C., and Fedkiw, R. 2007. Volume conserving finite element simulations of deformable models.ACM Transactions on Graphics (TOG) 26, 3, 13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-17",
+                "unstructured": "Ito, K., and Kunisch, K. 2008. Lagrange Multiplier Approach to Variational Problems and Applications.",
+                "DOI": "10.1137/1.9780898718614",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-18",
+                "unstructured": "Lee, S.-H., and Terzopoulos, D. 2008. Spline joints for multibody dynamics. InACM Transactions on Graphics (TOG), vol. 27, ACM, 22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-19",
+                "unstructured": "Lee, S., Sifakis, E., and Terzopoulos, D. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Transactions on Graphics (TOG) 28, 4, 99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-20",
+                "unstructured": "Lee, D., Glueck, M., Khan, A., Fiume, E., and Jackson, K. 2012. Modeling and simulation of skeletal muscle for computer graphics: A survey.Foundations and Trends in Computer Graphics and Vision 7, 4, 229--276.",
+                "DOI": "10.1561/0600000036",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-21",
+                "unstructured": "Levin, D. I. W., Litven, J., Jones, G. L., Sueda, S., and Pai, D. K. 2011. Eulerian solid simulation with contact.ACM Transactions on Graphics (TOG) 30, 4, 36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-22",
+                "unstructured": "Levin, D. I. W., Gilles, B., M&#228;dler, B., and Pai, D. K. 2011. Extracting skeletal muscle fiber fields from noisy diffusion tensor data.Medical Image Analysis 15, 3, 340--353."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-23",
+                "unstructured": "Li, D., Sueda, S., Neog, D. R., and Pai, D. K. 2013. Thin skin elastodynamics.ACM Transactions on Graphics (TOG) 32, 4, 49."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-24",
+                "unstructured": "Liu, L., Yin, K., Wang, B., and Guo, B. 2013. Simulation and control of skeleton-driven soft body characters.ACM Transactions on Graphics (TOG) 32, 6, 215."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-25",
+                "unstructured": "Maas, H., and Sandercock, T. G. 2010. Force transmission between synergistic skeletal muscles through connective tissue linkages.J. Biomed. Biotechnol. 2010, 575--672.",
+                "DOI": "10.1155/2010/575672",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-26",
+                "unstructured": "Misztal, M., Erleben, K., Bargteil, A., Fursund, J., Christensen, B., B&#230;rentzen, J., and Bridson, R. 2012. Multiphase flow of immiscible fluids on unstructured moving meshes. InEurographics/ACM SIGGRAPH Symposium on Computer Animation, 97--106."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-27",
+                "unstructured": "Nardinocchi, P., and Teresi, L. 2007. On the active response of soft living tissues.Journal of Elasticity 88, 1, 27--39.",
+                "DOI": "10.1007/s10659-007-9111-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-28",
+                "unstructured": "Nealen, A., M&#252;ller, M., Keiser, R., Boxerman, E., and Carlson, M. 2006. Physically based deformable models in computer graphics. InComputer Graphics Forum, vol. 25, 809--836."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-29",
+                "unstructured": "Ng-Thow-Hing, V., and Fiume, E. 2002. Application-specific muscle representations. InGraphics Interface, vol. 2, Citeseer, 107--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-30",
+                "unstructured": "Ng-Thow-Hing, V., Agur, A., and McKee, N. 2001. A muscle model that captures external shape, internal fibre architecture, and permits simulation of active contraction with volume preservation. InINTERNATIONAL SYMPOSIUM ON COMPUTER METHODS IN BIOMECHANICS &#38; BIOMEDICAL ENGINEERING (5.: 2001: Rome). Anais. Rome."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-31",
+                "unstructured": "Pai, D. K. 2010. Muscle mass in musculoskeletal models.J. Biomechanics 43, 11 (August), 2093--2098. DOI: 10.1016/j.jbiomech.2010.04.004.",
+                "DOI": "10.1016/j.jbiomech.2010.04.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-32",
+                "unstructured": "Patterson, T., Mitchell, N., and Sifakis, E. 2012. Simulation of complex nonlinear elastic bodies using lattice deformers.ACM Transactions on Graphics (TOG) 31, 6, 197."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-33",
+                "unstructured": "Schmid, J., Sandholm, A., Chung, F., Thalmann, D., Delingette, H., and Magnenat-Thalmann, N. 2009. Musculoskeletal simulation model generation from mri data sets and motion capture data. InRecent Advances in the 3D Physiological Human. Springer, 3--19.",
+                "DOI": "10.1007/978-1-84882-565-9_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-34",
+                "unstructured": "Schumacher, C., Thomaszewski, B., Coros, S., Martin, S., Sumner, R., and Gross, M. 2012. Efficient simulation of example-based materials. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-35",
+                "unstructured": "Sifakis, E., and Barbic, J. 2012. Fem simulation of 3d deformable solids: a practitioner's guide to theory, discretization and model reduction. InACM SIGGRAPH 2012 Course Notes.",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-36",
+                "unstructured": "Simo, J. C., and Taylor, R. L. 1991. Quasi-incompressible finite elasticity in principal stretches. continuum basis and numerical algorithms.Computer Methods in Applied Mechanics and Engineering 85, 3, 273--310.",
+                "DOI": "10.1016/0045-7825(91)90100-K",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-37",
+                "unstructured": "Sueda, S., Kaufman, A., and Pai, D. K. 2008. Musculotendon simulation for hand animation.ACM Transactions on Graphics (TOG) 27, 3, 83."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-38",
+                "unstructured": "Sueda, S., Jones, G. L., Levin, D. I., and Pai, D. K. 2011. Large-scale dynamic simulation of highly constrained strands. InACM Transactions on Graphics (TOG), vol. 30, ACM, 39."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-39",
+                "unstructured": "Teran, J., Blemker, S., Hing, V., and Fedkiw, R. 2003. Finite volume methods for the simulation of skeletal muscle. InProceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, 68--74."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-40",
+                "unstructured": "Teran, J., Sifakis, E., Blemker, S., Ng-Thow-Hing, V., Lau, C., and Fedkiw, R. 2005. Creating and simulating skeletal muscle from the visible human data set.Visualization and Computer Graphics, IEEE Transactions on 11, 3, 317--328."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-41",
+                "unstructured": "Terzopoulos, D., Platt, J., Barr, A., and Fleischer, K. 1987. Elastically deformable models. InComputer Graphics (Proceedings of SIGGRAPH 87), vol. 21, ACM, 205--214."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-42",
+                "unstructured": "Wei, Q., and Pai, D. 2008. Physically consistent registration of extraocular muscle models from MRI. InProc. IEEE Engineering in Medicine and Biology Society (EMBS) Annual Conference, 2237--2241."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-43",
+                "unstructured": "Wei, Q., Sueda, S., Miller, J. M., Demer, J. L., and Pai, D. K. 2009. Template-based reconstruction of human extraocular muscles from magnetic resonance images. InISBI'09. IEEE International Symposium on Biomedical Imaging, IEEE, 105--108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-44",
+                "unstructured": "Weiss, J. A., Maker, B. N., and Govindjee, S. 1996. Finite element implementation of incompressible, transversely isotropic hyperelasticity.Computer methods in applied mechanics and engineering 135, 1, 107--128.",
+                "DOI": "10.1016/0045-7825(96)01035-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-45",
+                "unstructured": "Wicke, M., Ritchie, D., Klingner, B. M., Burke, S., Shewchuk, J. R., and O'Brien, J. F. 2010. Dynamic local remeshing for elastoplastic simulation.ACM Trans. Graph. 29(July), 49:1--49:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601215-46",
+                "unstructured": "Zajac, F. E. 1989. Muscle and tendon: Properties, models, scaling, and application to biomechanics and motor control.CRC Critical Reviews of Biomedical Engineering 17, 4, 359--411."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601215&amp;ftid=1488961&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:58Z",
+            "timestamp": 1565663758000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601215",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

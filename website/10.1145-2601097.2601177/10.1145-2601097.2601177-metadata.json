@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227199
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "HCC-0905506, DGE-1144153"
+                ]
+            },
+            {
+                "DOI": "10.13039/100005851",
+                "name": "John Simon Guggenheim Memorial Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Autodesk",
+                "award": []
+            },
+            {
+                "name": "Advanced CAE Research (FastBEM)",
+                "award": []
+            },
+            {
+                "name": "Pixar",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601177",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Eigenmode compression for modal sound models"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Steven S.",
+                "family": "An",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kelvin K.",
+                "family": "Jin",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601177-1",
+                "unstructured": "Adrien, J.-M. 1991. Representations of musical signals. MIT Press, Cambridge, MA, USA, ch. The Missing Link: Modal Synthesis, 269--298."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-2",
+                "unstructured": "Agarwal, S., Mierle, K., and Others. Ceres solver. https://code.google.com/p/ceres-solver/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-3",
+                "unstructured": "Alexa, M., and M&#252;ller, W. 2000. Representing animations by principal components. InComputer Graphics Forum, vol. 19, Wiley Online Library, 411--418."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-4",
+                "unstructured": "Alexa, M., Behr, J., Cohen-Or, D., Fleishman, S., Levin, D., and Silva, C. T. 2001. Point set surfaces. InProceedings of the Conference on Visualization '01, IEEE Computer Society, Washington, DC, USA, VIS '01, 21--28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-5",
+                "unstructured": "Ashihara, K. 2007. Hearing thresholds for pure tones above 16khz.The Journal of the Acoustical Society of America 122, 3.",
+                "DOI": "10.1121/1.2761883",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-6",
+                "unstructured": "Bathe, K.-J. 1996.Finite Element Procedures, second ed. Prentice Hall."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-7",
+                "unstructured": "Bonneel, N., Drettakis, G., Tsingos, N., Viaud-Delmon, I., and James, D. 2008. Fast Modal Sounds with Scalable Frequency-Domain Synthesis.ACM Transactions on Graphics 27, 3 (Aug.), 24:1--24:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-8",
+                "unstructured": "Chadwick, J. N., An, S. S., and James, D. L. 2009. Harmonic shells: A practical nonlinear sound model for near-rigid thin shells.ACM Trans. Graph. 28, 5 (Dec.), 119:1--119:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-9",
+                "unstructured": "Chadwick, J. N., Zheng, C., and James, D. L. 2012. Precomputed acceleration noise for improved rigid-body sound.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2012) 31, 4 (Aug.).",
+                "DOI": "10.1145/2185520.2335454",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-10",
+                "unstructured": "Cook, P. R. 1995. Integration of physical modeling for synthesis and animation. InProceedings of the International Computer Music Conference, 525--528."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-11",
+                "unstructured": "Cook, P. 2002.Real Sound Synthesis for Interactive Applications. A. K. Peters.",
+                "DOI": "10.1201/b19597",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-12",
+                "unstructured": "Fastl, H., and Zwicker, E. 2006.Psychoacoustics: Facts and models, vol. 22. Springer.",
+                "DOI": "10.1007/978-3-540-68888-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-13",
+                "unstructured": "Fleishman, S., Cohen-Or, D., and Silva, C. T. 2005. Robust moving least-squares fitting with sharp features.ACM Trans. Graph. 24, 3 (July), 544--552."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-14",
+                "unstructured": "Grelaud, D., Bonneel, N., Wimmer, M., Asselot, M., and Drettakis, G. 2009. Efficient and practical audio-visual rendering for games using crossmodal perception. InI3D '09: Proceedings of the 2009 symposium on Interactive 3D graphics and games, ACM, New York, NY, USA, 177--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-15",
+                "unstructured": "Guendelman, E., Bridson, R., and Fedkiw, R. 2003. Non-convex rigid bodies with stacking.ACM Trans. Graph. 22, 3 (July), 871--878."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-16",
+                "unstructured": "Guskov, I., and Khodakovsky, A. 2004. Wavelet compression of parametrically coherent mesh sequences. InProceedings of the 2004 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '04, 183--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-17",
+                "unstructured": "Howe, M. S. 1998.Acoustics of fluid-structure interactions. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511662898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-18",
+                "unstructured": "James, D. L., and Pai, D. K. 2003. Multiresolution green's function methods for interactive simulation of large-scale elastostatic objects.ACM Trans. Graph. 22, 1 (Jan.), 47--82."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-19",
+                "unstructured": "James, D. L., Barbi&#269;, J., and Pai, D. K. 2006. Precomputed Acoustic Transfer: Output-sensitive, accurate sound generation for geometrically complex vibration sources.ACM Transactions on Graphics 25, 3 (July), 987--995."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-20",
+                "unstructured": "Jin, J., Garland, M., and Ramos, E. A. 2009. Mls-based scalar fields over triangle meshes and their application in mesh processing. InProceedings of the 2009 Symposium on Interactive 3D Graphics and Games, ACM, New York, NY, USA, I3D '09, 145--153."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-21",
+                "unstructured": "Kolarov, K., and Lynch, W. 1997. Wavelet compression for 3d and higher-dimensional objects. InProc. of SPIE Conference on Applications of Digital Image Processing XX, Volume 3164.",
+                "DOI": "10.1117/12.279557",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-22",
+                "unstructured": "Lipman, Y., Chen, X., Daubechies, I., and Funkhouser, T. 2010. Symmetry factored embedding and distance.ACM Trans. Graph. 29, 4 (July), 103:1--103:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-23",
+                "unstructured": "Liu, Y. J. 2009.Fast Multipole Boundary Element Method: Theory and Applications in Engineering. Cambridge University Press, Cambridge.",
+                "DOI": "10.1017/CBO9780511605345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-24",
+                "unstructured": "Martinet, A., Soler, C., Holzschuch, N., and Sillion, F. X. 2006. Accurate detection of symmetries in 3d shapes.ACM Trans. Graph. 25, 2 (Apr.), 439--464."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-25",
+                "unstructured": "Mitra, N. J., Guibas, L. J., and Pauly, M. 2006. Partial and approximate symmetry detection for 3d geometry.ACM Trans. Graph. 25, 3 (July), 560--568."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-26",
+                "unstructured": "Mitra, N. J., Pauly, M., Wand, M., and Ceylan, D. 2012. Symmetry in 3d geometry: Extraction and applications. InEUROGRAPHICS State-of-the-art Report.",
+                "DOI": "10.1111/cgf.12010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-27",
+                "unstructured": "O'Brien, J. F., Shen, C., and Gatchalian, C. M. 2002. Synthesizing sounds from rigid-body simulations. InACM SIGGRAPH Symposium on Computer Animation, 175--181."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-28",
+                "unstructured": "Pai, D. K., Doel, K. v. d., James, D. L., Lang, J., Lloyd, J. E., Richmond, J. L., and Yau, S. H. 2001. Scanning physical interaction behavior of 3d objects. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '01, 87--96."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-29",
+                "unstructured": "Pauly, M., Gross, M., and Kobbelt, L. P. 2002. Efficient simplification of point-sampled surfaces. InProceedings of the conference on Visualization '02, IEEE Computer Society, Washington, DC, USA, VIS '02, 163--170."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-30",
+                "unstructured": "Raghuvanshi, N., and Lin, M. C. 2006. Interactive sound synthesis for large scale environments. InProceedings of the 2006 Symposium on Interactive 3D Graphics and Games, ACM, New York, NY, USA, I3D '06, 101--108."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-31",
+                "unstructured": "Richmond, J. L. 2000.Automatic measurement and modeling of contact sounds. Master's thesis, University of British Columbia."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-32",
+                "unstructured": "Schaefer, S., McPhail, T., and Warren, J. 2006. Image deformation using moving least squares.ACM Trans. Graph. 25, 3 (July), 533--540."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-33",
+                "unstructured": "Schr&#246;der, P., and Sweldens, W. 1995. Spherical wavelets: Efficiently representing functions on the sphere. InProceedings of the 22Nd Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '95, 161--172."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-34",
+                "unstructured": "Seo, J., Irving, G., Lewis, J. P., and Noh, J. 2011. Compression and direct manipulation of complex blendshape models.ACM Trans. Graph. 30, 6 (Dec.), 164:1--164:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-35",
+                "unstructured": "Shabana, A. A. 1990.Theory of Vibration, Volume II: Discrete and Continuous Systems. Springer--Verlag, New York, NY."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-36",
+                "unstructured": "Shen, C., O'Brien, J. F., and Shewchuk, J. R. 2004. Interpolating and approximating implicit surfaces from polygon soup.ACM Trans. Graph. 23, 3 (Aug.), 896--904."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-37",
+                "unstructured": "Simari, P., Kalogerakis, E., and Singh, K. 2006. Folding meshes: Hierarchical mesh segmentation based on planar symmetry. InProceedings of the Fourth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '06, 111--119."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-38",
+                "unstructured": "Sorkine, O., and Cohen-Or, D. 2004. Least-squares meshes. InProceedings of Shape Modeling International, IEEE Computer Society Press, 191--199."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-39",
+                "unstructured": "Tsingos, N., Gallo, E., and Drettakis, G. 2004. Perceptual audio rendering of complex virtual environments.ACM Trans. Graph. 23, 3 (Aug.), 249--258."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-40",
+                "unstructured": "van den Doel, K., and Pai, D. K. 1996. Synthesis of shape dependent sounds with physical modeling. InIntl Conf. on Auditory Display."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-41",
+                "unstructured": "van den Doel, K., Kry, P. G., and Pai, D. K. 2001. FoleyAutomatic: Physically Based Sound Effects for Interactive Simulation and Animation. InProceedings of ACM SIGGRAPH 2001, Computer Graphics Proceedings, Annual Conference Series, 537--544."
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-42",
+                "unstructured": "van den Doel, K., Knott, D., and Pai, D. K. 2004. Interactive simulation of complex audiovisual scenes.Presence: Teleoper. Virtual Environ. 13, 1, 99--111.",
+                "DOI": "10.1162/105474604774048252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-43",
+                "unstructured": "Zheng, C., and James, D. L. 2010. Rigid-body fracture sound with precomputed soundbanks.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2010) 29, 3 (July).",
+                "DOI": "10.1145/1833349.1778806",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601177-44",
+                "unstructured": "Zheng, C., and James, D. L. 2011. Toward high-quality modal contact sound.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2011) 30, 4 (Aug.).",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601177&amp;ftid=1488849&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:29Z",
+            "timestamp": 1565663669000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601177",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

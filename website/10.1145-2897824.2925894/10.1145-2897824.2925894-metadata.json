@@ -1,0 +1,534 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:59:19Z",
+            "timestamp": 1574816359464
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "No. 61272305"
+                ]
+            },
+            {
+                "name": "Singapore MOE Academic Research Fund",
+                "award": [
+                    "MOE2013-T2-1-159"
+                ]
+            },
+            {
+                "name": "SUTD-MIT International Design Center Grant",
+                "award": [
+                    "IDG31300106"
+                ]
+            },
+            {
+                "name": "Joseph P. Healey Research Grant, Office of the President, and the Office of the Vice Provost for Research and Strategic Initiatives & Dean of Graduate Studies of UMass Boston",
+                "award": [
+                    "(N.A.)"
+                ]
+            },
+            {
+                "name": "UMass Boston StartUp Grant",
+                "award": [
+                    "P20150000029280"
+                ]
+            },
+            {
+                "name": "The SUTD Digital Manufacturing and Design (DManD) Centre which is supported by the National Research Foundation (NRF) of Singapore",
+                "award": [
+                    "(N.A.)"
+                ]
+            },
+            {
+                "name": "The National Research Foundation, Prime Minister's Office, Singapore under its IDM Futures Funding Initiative",
+                "award": [
+                    "(N.A.)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925894",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+            "Crowd-driven mid-scale layout design"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Tian",
+                "family": "Feng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Singapore University of Technology and Design"
+                    }
+                ]
+            },
+            {
+                "given": "Lap-Fai",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Boston"
+                    }
+                ]
+            },
+            {
+                "given": "Sai-Kit",
+                "family": "Yeung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Singapore University of Technology and Design"
+                    }
+                ]
+            },
+            {
+                "given": "KangKang",
+                "family": "Yin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National University of Singapore"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925894-1",
+                "unstructured": "AlHalawani, S., and Mitra, N. J. 2015. Congestion-aware warehouse flow analysis and optimization. InAdvances in Visual Computing. Springer, 702--711.",
+                "DOI": "10.1007/978-3-319-27863-6_66",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-2",
+                "unstructured": "AlHalawani, S., Yang, Y.-L., Wonka, P., and Mitra, N. J. 2014. What makes London work like London?Computer Graphics Forum 33, 5 (Aug.), 157--165."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-3",
+                "unstructured": "Ali, W., and Moulin, B. 2005. 2d-3d multiagent geosimulation with knowledge-based agents of customers' shopping behavior in a shopping mall. InSpatial Information Theory, A. Cohn and D. Mark, Eds., vol. 3693 ofLecture Notes in Computer Science.Springer Berlin Heidelberg, 445--458.",
+                "DOI": "10.1007/11556114_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-4",
+                "unstructured": "Aliaga, D. G., Vanegas, C. A., and Bene&#353;, B. 2008. Interactive example-based urban layout synthesis.ACM Trans. Graph. 27, 5 (Dec.), 160:1--160:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-5",
+                "unstructured": "Aliaga, D. G. 2012. 3d design and modeling of smart cities from a computer graphics perspective.International Scholarly Research Notices 2012.",
+                "DOI": "10.5402/2012/728913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-6",
+                "unstructured": "Aschwanden, G. D., Haegler, S., Bosch&#233;, F. N., Van Gool, L., and Schmitt, G. 2011. Empiric design evaluation in urban planning.Automation in construction 20, 3 (May), 299--310."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-7",
+                "unstructured": "Bao, F., Yan, D.-M., Mitra, N. J., and Wonka, P. 2013. Generating and exploring good building layouts.ACM Trans. Graph. 32, 4 (July), 122:1--122:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-8",
+                "unstructured": "Bene&#353;, J., Wilkie, A., and K&#345;iv&#225;nek, J. 2014. Procedural modelling of urban road networks.Computer Graphics Forum 33, 6, 132--142."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-9",
+                "unstructured": "Bloch, P. H., Ridgway, N. M., and Dawson, S. A. 1994. The shopping mall as consumer habitat.Journal of Retailing 70, 1, 23--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-10",
+                "unstructured": "Brown, M. G. 1999. Design and value: Spatial form and the economic failure of a mall.Journal of Real Estate Research 17, 189--225."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-11",
+                "unstructured": "Castillo, L. F., Bedia, M. G., Uribe, A. L., and Isaza, G. 2009. A formal approach to test commercial strategies: Comparative study using multiagent based techniques.Journal of Physical Agents 3, 3, 25--30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-12",
+                "unstructured": "Chen, G., Esch, G., Wonka, P., M&#252;ller, P., and Zhang, E. 2008. Interactive procedural street modeling.ACM Trans. Graph. 27, 3 (Aug.), 103:1--103:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-13",
+                "unstructured": "Clave, S. A. 2007.The Global Theme Park Industry. CABI.",
+                "DOI": "10.1079/9781845932084.0000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-14",
+                "unstructured": "D. Beyard, M., Corrigan, M. B., Kramer, A., Pawlukiewicz, M., and Bach, A. 2006.Ten Principles of Rethinking the Mall.Urban Land Institute."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-15",
+                "unstructured": "ESRI, 2016. ArcGIS. http://arcgis.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-16",
+                "unstructured": "Fang, Z., Lo, S., and Lu, J. 2003. On the relationship between crowd density and movement velocity.Fire Safety Journal 38, 3, 271--283."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-17",
+                "unstructured": "Fisher, M., Savva, M., Li, Y., Hanrahan, P., and Niessner, M. 2015. Activity-centric scene synthesis for functional 3d scene modeling.ACM Trans. Graph. 34, 6 (Oct.), 179:1--179:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-18",
+                "unstructured": "Galin, E., Peytavie, A., Mar&#233;chal, N., and Gu&#233;rin, E. 2010. Procedural generation of roads.Computer Graphics Forum 29, 2, 429--438."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-19",
+                "unstructured": "Galin, E., Peytavie, A., Gu&#233;rin, E., and Benes, B. 2011. Authoring hierarchical road networks.Computer Graphics Forum 30, 7, 2021--2030."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-20",
+                "unstructured": "Galle, P. 1981. An algorithm for exhaustive generation of building floor plans.Communications of ACM 24, 12 (Dec.), 813--825."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-21",
+                "unstructured": "Gloor, C., 2016. Pedsim. http://pedsim.silmaril.org. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-22",
+                "unstructured": "Guy, S. J., van den Berg, J., Liu, W., Lau, R., Lin, M. C., and Manocha, D. 2012. A statistical similarity measure for aggregate crowd dynamics.ACM Trans. Graph. 31, 6 (Nov.), 190:1--190:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-23",
+                "unstructured": "Hall, E. T. 1990.The Hidden Dimension. A Doubleday anchor book. Anchor Books."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-24",
+                "unstructured": "Harada, M., Witkin, A., and Baraff, D. 1995. Interactive physically-based manipulation of discrete/continuous models. InProceedings of the 22nd Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '95, 199--208."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-25",
+                "unstructured": "Hastings, W. K. 1970. Monte Carlo sampling methods using Markov chains and their applications.Biometrika 57, 1 (Apr.), 97--109."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-26",
+                "unstructured": "Helbing, D., and Molnar, P. 1995. Social force model for pedestrian dynamics.Physical review E 51, 5, 4282."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-27",
+                "unstructured": "Huerre, S., Lee, J., Lin, M., and O'Sullivan, C. 2010. Simulating believable crowd and group behaviors. In SIGGRAPH Asia 2010 Courses.",
+                "DOI": "10.1145/1900520.1900533",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-28",
+                "unstructured": "ICSC. 2015.U.S. Shopping-Center Classification and Characteristics.ICSC Research and CoStar Realty Information, Inc., mar."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-29",
+                "unstructured": "INRIA, 2016. scikit-learn. http://scikit-learn.org. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-30",
+                "unstructured": "Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. 1983. Optimization by simulated annealing.SCIENCE 220, 4598, 671--680."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-31",
+                "unstructured": "Li, X., and Liu, X. 2008. Embedding sustainable development strategies in agent-based models for use as a planning tool.International Journal of Geographical Information Science 22, 1, 21--45."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-32",
+                "unstructured": "Li, W., Di, Z., and Allbeck, J. 2012. Crowd distribution and location preference.Computer Animation and Virtual Worlds 23, 3, 343--351."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-33",
+                "unstructured": "Liaw, A., and Wiener, M. 2002. Classification and regression by randomforest.R News 2, 3, 18--22."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-34",
+                "unstructured": "Liu, H., Yang, Y.-L., AlHalawani, S., and Mitra, N. J. 2013. Constraint-aware interior layout exploration for precast concrete-based buildings.Visual Computer (CGI Special Issue).",
+                "DOI": "10.1007/s00371-013-0825-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-35",
+                "unstructured": "Machleit, K. A., Eroglu, S. A., and Mantel, S. P. 2000. Perceived retail crowding and shopping satisfaction: What modifies this relationship?Journal of Consumer Psychology 9, 1, 29--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-36",
+                "unstructured": "Massive Software, 2016. Massive. http://massivesoftware.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-37",
+                "unstructured": "Merrell, P., Schkufza, E., and Koltun, V. 2010. Computer-generated residential building layouts.ACM Trans. Graph. 29, 6 (Dec.), 181:1--181:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-38",
+                "unstructured": "Merrell, P., Schkufza, E., Li, Z., Agrawala, M., and Koltun, V. 2011. Interactive furniture layout using interior design guidelines.ACM Trans. Graph. 30, 4 (July), 87:1--87:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-39",
+                "unstructured": "Metropolis, N., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., and Teller, E. 1953. Equation of state calculations by fast computing machines.The Journal of Chemical Physics 21, 6, 1087--1092."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-40",
+                "unstructured": "Michalek, J., Choudhary, R., and Papalambros, P. 2002. Architectural layout design optimization.Engineering Optimization 34, 12, 461--484."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-41",
+                "unstructured": "Narain, R., Golas, A., Curtis, S., and Lin, M. C. 2009. Aggregate dynamics for dense crowd simulation.ACM Trans. Graph. 28, 5 (Dec.), 122:1--122:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-42",
+                "unstructured": "Ng, C. F. 2003. Satisfying shoppers' psychological needs: From public market to cyber-mall.Journal of Environmental Psychology 23, 4, 439--455."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-43",
+                "unstructured": "Niles, R., 2012. Robert's rules for the perfect theme park. http://themeparkinsider.com/flume/201212/3304, Dec. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-44",
+                "unstructured": "Nishida, G., Garcia-Dorado, I., and Aliaga, D. G. 2015. Example-driven procedural urban roads.Computer Graphics Forum.",
+                "DOI": "10.1111/cgf.12728",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-45",
+                "unstructured": "Older, S. J. 1964.Pedestrians. Department of Scientific and Industrial Research Laboratory, Crowthorne, England."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-46",
+                "unstructured": "Parish, Y. I. H., and M&#252;ller, P. 2001. Procedural modeling of cities. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '01, 301--308.",
+                "DOI": "10.1145/383259.383292",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-47",
+                "unstructured": "Peng, C.-H., Yang, Y.-L., and Wonka, P. 2014. Computing layouts with deformable templates.ACM Trans. Graph. 33, 4 (July), 99:1--99:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-48",
+                "unstructured": "Peng, C.-H., Mitra, N. J., Bao, F., Yan, D.-M., and Wonka, P. 2015. Computational Network Design from Functional Specifications.ArXiv e-prints(Oct.)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-49",
+                "unstructured": "Pettr&#233;, J., Kallmann, M., and Lin, M. C. 2008. Motion planning and autonomy for virtual humans. InACM SIGGRAPH 2008 Courses, ACM, 42.",
+                "DOI": "10.1145/1401132.1401193",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-50",
+                "unstructured": "Prusinkiewicz, P., and Lindenmayer, A. 1996.The Algorithmic Beauty of Plants.Springer-Verlag New York, Inc., New York, NY, USA."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-51",
+                "unstructured": "Shao, W., and Terzopoulos, D. 2005. Autonomous pedestrians. InProceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '05, 19--28.",
+                "DOI": "10.1145/1073368.1073371",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-52",
+                "unstructured": "Shaviv, E. 1974.A Model for Space Allocation in Complex Buildings: A Computer Graphics Approach.Working papers. Faculty of Architecture and Town Planning."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-53",
+                "unstructured": "Sun, J., Yu, X., Baciu, G., and Green, M. 2002. Template-based generation of road networks for virtual city modeling. InProceedings of the ACM Symposium on Virtual Reality Software and Technology, ACM, New York, NY, USA, VRST '02, 33--40.",
+                "DOI": "10.1145/585740.585747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-54",
+                "unstructured": "The AnyLogic Company, 2016. Anylogic. http://anylogic.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-55",
+                "unstructured": "Thunderhead Engineering Consultants, Inc., 2016. Pathfinder. http://thunderheadeng.com/pathfinder. Accessed: 01-01-2016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-56",
+                "unstructured": "TranSafety, Inc. 1997. Study compares older and younger pedestrian walking speeds.Road Engineering Journal."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-57",
+                "unstructured": "Treuille, A., Cooper, S., and Popovi&#263;, Z. 2006. Continuum crowds.ACM Trans. Graph. 25, 3 (July), 1160--1168."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-58",
+                "unstructured": "Tu, X., and Terzopoulos, D. 1994. Artificial fishes: Physics, locomotion, perception, behavior. InProceedings of the 21st Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '94, 43--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-59",
+                "unstructured": "Vanegas, C. A., Aliaga, D. G., Benes, B., and Waddell, P. 2009. Interactive design of urban spaces using geometrical and behavioral modeling.ACM Trans. Graph. 28, 5, 111:1--111:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-60",
+                "unstructured": "Vanegas, C. A., Garcia-Dorado, I., Aliaga, D. G., Benes, B., and Waddell, P. 2012. Inverse design of urban procedural models.ACM Trans. Graph. 31, 6 (Nov.), 168:1--168:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-61",
+                "unstructured": "Vanegas, C. A., Kelly, T., Weber, B., Halatsch, J., Aliaga, D. G., and M&#252;ller, P. 2012. Procedural generation of parcels in urban modeling.Computer Graphics Forum 31, 2pt3 (May), 681--690."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-62",
+                "unstructured": "Weber, B., Mller, P., Wonka, P., and Gross, M. 2009. Interactive geometric simulation of 4d cities.Computer Graphics Forum 28, 2, 481--492."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-63",
+                "unstructured": "Wilkie, D., Sewall, J., and Lin, M. 2013. Flow reconstruction for data-driven traffic animation.ACM Trans. Graph. 32, 4 (July), 89:1--89:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-64",
+                "unstructured": "Xu, K., Zhang, H., Cohen-Or, D., and Chen, B. 2012. Fit and diverse: Set evolution for inspiring 3d shape galleries.ACM Trans. Graph. 31, 4 (July), 57:1--57:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-65",
+                "unstructured": "Yang, Y.-L., Wang, J., Vouga, E., and Wonka, P. 2013. Urban pattern: Layout design by hierarchical domain splitting.ACM Trans. Graph. 32, 6 (Nov.), 181:1--181:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-66",
+                "unstructured": "Yu, Q., and Terzopoulos, D. 2007. A decision network framework for the behavioral animation of virtual humans. InProceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '07, 119--128."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-67",
+                "unstructured": "Yu, L.-F., Yeung, S.-K., Tang, C.-K., Terzopoulos, D., Chan, T. F., and Osher, S. J. 2011. Make it home: Automatic optimization of furniture arrangement.ACM Trans. Graph. 30, 4 (July), 86:1--86:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925894-68",
+                "unstructured": "Yu, L.-F., Yeung, S.-K., Terzopoulos, D., and Chan, T. F. 2012. Dressup!: Outfit synthesis through automatic optimization.ACM Trans. Graph. 31, 6 (Nov.), 134:1--134:14."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925894&amp;ftid=1755936&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:09Z",
+            "timestamp": 1568162949000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925894",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

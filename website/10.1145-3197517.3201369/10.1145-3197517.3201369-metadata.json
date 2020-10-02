@@ -1,0 +1,582 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:49Z",
+            "timestamp": 1574859829756
+        },
+        "reference-count": 70,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011415",
+                "name": "Wayne State University",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "4207299A"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1657364"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201369",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Computing a high-dimensional euclidean embedding from an arbitrary smooth riemannian metric"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Zichun",
+                "family": "Zhong",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Wayne State University"
+                    }
+                ]
+            },
+            {
+                "given": "Wenping",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Bruno",
+                "family": "L\u00e9vy",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA Nancy - Grand Est"
+                    }
+                ]
+            },
+            {
+                "given": "Jing",
+                "family": "Hua",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Wayne State University"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaohu",
+                "family": "Guo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Dallas"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201369-1",
+                "unstructured": "F. Alauzet and A. Loseille. 2010. High-Order Sonic Boom Modeling Based on Adaptive Methods.J. Comput. Phys.229, 3 (2010), 561--593.",
+                "DOI": "10.1016/j.jcp.2009.09.020",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-2",
+                "unstructured": "F. Alauzet and A. Lozeille. 2016. A Decade of Progress on Anisotropic Mesh Adaptation for Computational Fluid Dynamics.Computer-Aided Design72 (2016), 13--39.",
+                "DOI": "10.1016/j.cad.2015.09.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-3",
+                "unstructured": "P. Alliez, D. Cohen-Steiner, O. Devillers, B. L&#233;vy, and M. Desbrun. 2003. Anisotropic Polygonal Remeshing.ACM Trans. Graph.22, 3 (2003), 485--493.",
+                "DOI": "10.1145/882262.882296",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-4",
+                "unstructured": "P. Alliez, D. Cohen-Steiner, M. Yvinec, and M. Desbrun. 2005. Variational Tetrahedral Meshing.ACM Trans. Graph.24, 3 (2005), 617--625.",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-5",
+                "unstructured": "J-D. Boissonnat, K. Shi, J. Tournois, and M. Yvinec. 2015a. Anisotropic Delaunay Meshes of Surfaces.ACM Trans. Graph.34, 2 (2015), 14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-6",
+                "unstructured": "J-D. Boissonnat, C. Wormser, and M. Yvinec. 2008a. Anisotropic Diagrams: Labelle Shewchuk Approach Revisited.Theoretical Computer Science408, 2-3 (2008), 163--173."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-7",
+                "unstructured": "J-D. Boissonnat, C. Wormser, and M. Yvinec. 2008b. Locally Uniform Anisotropic Meshing. InProceedings of the 24th annual symposium on Computational geometry.270--277.",
+                "DOI": "10.1145/1377676.1377724",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-8",
+                "unstructured": "J-D. Boissonnat, C. Wormser, and M. Yvinec. 2015b. Anisotropic Delaunay Mesh Generation.SIAM J. Comput.44, 2 (2015), 467--512.",
+                "DOI": "10.1137/140955446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-9",
+                "unstructured": "H. Borouchaki, P. George, F. Hecht, P. Laug, and E. Saltel. 1997b. Delaunay Mesh Generation Governed by Metric Specifications. Part I. Algorithms.Finite Elements in Analysis and Design25, 1-2 (1997), 61--83."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-10",
+                "unstructured": "H. Borouchaki, P. George, and B. Mohammadi. 1997a. Delaunay Mesh Generation Governed by Metric Specifications. Part II. Applications.Finite Elements in Analysis and Design25, 1-2 (1997), 85--109."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-11",
+                "unstructured": "V. Borrelli, S. Jabrane, F. Lazarus, and B. Thibert. 2012. Flat Tori in Three-dimensional Space and Convex Integration.Proceedings of the National Academy of Sciences of the United States of America109, 19 (2012).",
+                "DOI": "10.1073/pnas.1118478109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-12",
+                "unstructured": "F. Bossen and P. Heckbert. 1996. A Pliant Method for Anisotropic Mesh Generation. In5th International Meshing Roundtable.63--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-13",
+                "unstructured": "M. Bronstein, A.Bronstein, R. Kimmel, and I. Yavneh. 2000. Multigrid Multidimensional Scaling.Numerical Linear Algebra with Applications0 (2000), 1--6."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-14",
+                "unstructured": "M. Bronstein, A. Bronstein, R. Kimmel, and I. Yavneh. 2005. A Multigrid Approach For Multi-Dimensional Scaling. InProceedings of the Copper Mountain Conference on Multigrid Methods."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-15",
+                "unstructured": "M. Budninskiy, B. Liu, F. de Goes, Y. Tong, P. Alliez, and M. Desbrun. 2016. Optimal Voronoi Tessellations with Hessian-based Anisotropy.ACM Trans. Graph.35, 6 (2016), 242:1--242:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-16",
+                "unstructured": "G. Canas and S. Gortler. 2006. Surface Remeshing in Arbitrary Codimensions.Visual Computer22, 9 (2006), 885--895.",
+                "DOI": "10.1007/s00371-006-0073-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-17",
+                "unstructured": "L. Chen, P. Sun, and J. Xu. 2007. Optimal Anisotropic Meshes for Minimizing Interpolation Errors inLp-Norm.Math. Comp.76 (2007), 179--204.",
+                "DOI": "10.1090/S0025-5718-06-01896-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-18",
+                "unstructured": "L. Chen and J. Xu. 2004. Optimal Delaunay Triangulations.Journal of Computational Mathematics22 (2004), 299--308."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-19",
+                "unstructured": "Z. Chen, W. Wang, B. L&#233;vy, L. Liu, and F. Sun. 2014. Revisiting Optimal Delaunay Triangulation for 3D Graded Mesh Generation.SIAM Journal Scientific Computing(2014).",
+                "DOI": "10.1137/120875132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-20",
+                "unstructured": "H-L. Cheng, T. Dey, H. Edelsbrunner, and J. Sullivan. 2001. Dynamic Skin Triangulation.ACM-SIAM symposium on Discrete algorithms25 (2001), 525--568."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-21",
+                "unstructured": "S. Cheng, T. Dey, and E. Ramos. 2006. Anisotropic Surface Meshing. InProceedings of ACM-SIAM Symposium on Discrete Algorithms.202--211.",
+                "DOI": "10.1145/1109557.1109581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-22",
+                "unstructured": "F. Courty, D. Leservoisier, P-L. George, and A. Dervieux. 2006. Continuous Metric and Mesh Adaptation.Applied Numerical Mathematics55 (2006), 117--145.",
+                "DOI": "10.1016/j.apnum.2005.03.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-23",
+                "unstructured": "J. Dardenne, S. Valette, N. Siauve, N. Burais, and R. Prost. 2009. Variational Tetrahedral Mesh Generation from Discrete Volume Data.The Visual Computer25, 5 (2009), 401--410.",
+                "DOI": "10.1007/s00371-009-0323-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-24",
+                "unstructured": "F. Dassi, A. Mola, and H. Si. 2014. Curvature-Adapted Remeshing of CAD Surfaces. In23rd International Meshing Roundtable.253--265.",
+                "DOI": "10.1016/j.proeng.2014.10.388",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-25",
+                "unstructured": "F. Dassi, H. Si, S. Perotto, and T. Streckenbach. 2015. Anisotropic Finite Element Mesh Adaptation via Higher Dimensional Embedding. In24th International Meshing Roundtable.265--277.",
+                "DOI": "10.1016/j.proeng.2015.10.138",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-26",
+                "unstructured": "C. Dobrzynski and P. Frey. 2008. Anisotropic Delaunay Mesh Adaptation for Unsteady Simulations. In17th International Meshing Roundtable.177--194.",
+                "DOI": "10.1007/978-3-540-87921-3_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-27",
+                "unstructured": "Q. Du, V Faber, and M. Gunzburger. 1999. Centroidal Voronoi Tessellations: Applications and Algorithms.SIAM Rev.41, 4 (1999), 637--676.",
+                "DOI": "10.1137/S0036144599352836",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-28",
+                "unstructured": "Q. Du and D. Wang. 2005a. Anisotropic Centroidal Voronoi Tessellations and Their Applications.SIAM Journal on Scientific Computing26, 3 (2005), 737--761.",
+                "DOI": "10.1137/S1064827503428527",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-29",
+                "unstructured": "Q. Du and D. Wang. 2005b. The Optimal Centroidal Voronoi Tessellations and the Gersho's Conjecture in the Three-dimensional Space.Computers &#38; Mathematics with Applications49, 9 (2005), 1355--1373.",
+                "DOI": "10.1016/j.camwa.2004.12.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-30",
+                "unstructured": "M. Freidlin. 1968. On the Factorization of Non-Negative Definite Matrices.Theory of Probability and Its Applications13, 2 (1968), 354--356.",
+                "DOI": "10.1137/1113046",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-31",
+                "unstructured": "P. Frey and F. Alauzet. 2005. Anisotropic Mesh Adaptation for CFD Computations.Computer Methods in Applied Mechanics and Engineering194, 48-49 (2005), 5068--5082."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-32",
+                "unstructured": "P. Frey and H. Borouchaki. 1997. Surface Mesh Evaluation. In6th International Meshing Roundtable.363--373."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-33",
+                "unstructured": "X. Fu, Y. Liu, J. Snyder, and B. Guo. 2014. Anisotropic Simplicial Meshing using Local Convex Functions.ACM Trans. Graph.33, 6 (2014), 182:1--182:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-34",
+                "unstructured": "G. Golub and C. Loan. 1996.Matrix Computations (3rd Ed.).Johns Hopkins University Press, Baltimore, Maryland."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-35",
+                "unstructured": "M. Gromov. 2017. Geometric, Algebraic, and Analytic Descendants of Nash Isometric Embedding Theorems.Bull. Amer. Math. Soc.54, 2 (2017), 173--245.",
+                "DOI": "10.1090/bull/1551",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-36",
+                "unstructured": "M. Gromov and V Rokhlin. 1970. Embeddings and Immersions in Riemannian Geometry.Russian Mathematical Surveys25, 5 (1970), 1--57.",
+                "DOI": "10.1070/RM1970v025n05ABEH003801",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-37",
+                "unstructured": "Q. Han and J-X. Hong. 2006.Isometric Embedding of Riemannian Manifolds in Euclidean Spaces.Vol. 13. American Mathematical Society.",
+                "DOI": "10.1090/surv/130",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-38",
+                "unstructured": "P. Heckbert and M. Garland. 1999. Optimal Triangulation and Quadric-Based Surface Simplification.Computational Geometry14, 1-3 (1999), 49--65."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-39",
+                "unstructured": "J-X. Hong. 1993. Realization in R3of Complete Riemannian Manifolds with Negative Curvature.Communications in Analysis and Geometry1, 4 (1993), 487--514.",
+                "DOI": "10.4310/CAG.1993.v1.n4.a1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-40",
+                "unstructured": "K. It&#244;. 1950. Stochastic Differential Equations in a Differentiable Manifold.Nagoya Mathematical Journal1 (1950), 35--47.",
+                "DOI": "10.1017/S0027763000022819",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-41",
+                "unstructured": "B. Klingner. 2008.Tetrahedral Mesh Improvement.Ph.D. Thesis, Dep. of Elec. Eng. and Comp. Sciences U. of California at Berkeley."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-42",
+                "unstructured": "B. Klingner and J. Shewchuk. 2007. Agressive Tetrahedral Mesh Improvement. InProceedings of 16th International Meshing Roundtable.3--23.",
+                "DOI": "10.1007/978-3-540-75103-8_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-43",
+                "unstructured": "D. Kovacs, A. Myles, and D. Zorin. 2010. Anisotropic Quadrangulation. InProceedings of the 14th ACM Symposium on Solid and Physical Modeling (SPM '10).137--146.",
+                "DOI": "10.1145/1839778.1839797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-44",
+                "unstructured": "N. Kuiper. 1955. OnC1-isometric Embeddings I. InProceedings of the Koninklijke Nederlandse Akademie van Wetenschappen.545--556.",
+                "DOI": "10.1016/S1385-7258(55)50075-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-45",
+                "unstructured": "B. L&#233;vy. 2016. Robustness and Efficiency of Geometric Programs: The Predicate Construction Kit (PCK).Computer-Aided Design72 (2016), 3--12.",
+                "DOI": "10.1016/j.cad.2015.10.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-46",
+                "unstructured": "B. L&#233;vy and N. Bonneel. 2012. Variational Anisotropic Surface Meshing with Voronoi Parallel Linear Enumeration. In21st International Meshing Roundtable.349--366.",
+                "DOI": "10.1007/978-3-642-33573-0_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-47",
+                "unstructured": "D. Liu and J. Nocedal. 1989. On the Limited Memory BFGS Method for Large Scale Optimization.Mathematical Programming45, 3 (1989), 503--528.",
+                "DOI": "10.1007/BF01589116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-48",
+                "unstructured": "Y. Liu, W. Wang, B. L&#233;vy, F. Sun, D. Yan, L. Lu, and C. Yang. 2009. On Centroidal Voronoi Tessellation - Energy Smoothness and Fast Computation.ACM Trans. Graph.28, 4 (2009), 101:1--101:17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-49",
+                "unstructured": "S. Lloyd. 1982. Least Squares Quantization in PCM.IEEE Transactions on Information Theory28, 2(1982), 129--137.",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-50",
+                "unstructured": "A. Loseille and R. L&#246;hner. 2016. Anisotropic Mesh Generation for High-fidelity Simulations in CFD.INRIA(2016). preprint."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-51",
+                "unstructured": "E. Marchandise, C. Geuzaine, and J.F. Remacle. 2013. Cardiovascular and Lung Mesh Generation Based on Centerlines.International Journal for Numerical Methods in Biomedical Engineering29, 6 (2013), 665--682.",
+                "DOI": "10.1002/cnm.2549",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-52",
+                "unstructured": "R. Narain, A. Samii, and J. F. O'Brien. 2012. Adaptive Anisotropic Remeshing for Cloth Simulation.ACM Trans. Graph.31, 6 (2012), 147:1--147:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-53",
+                "unstructured": "J. Nash. 1954.C1-isometric embeddings.Annals of Mathematics60, 3 (1954), 383--396.",
+                "DOI": "10.2307/1969840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-54",
+                "unstructured": "S. Ni, Z. Zhong, Y. Liu, W. Wang, Z. Chen, and X. Guo. 2017. Sliver-suppressing Tetrahedral Mesh Optimization with Gradient-based Shape Matching Energy.Computer Aided Geometric Design52 (2017), 247--261.",
+                "DOI": "10.1016/j.cagd.2017.02.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-55",
+                "unstructured": "D. Panozzo, E. Puppo, M. Tarini, and O. Sorkine-Hornung. 2014. Frame Fields: Anisotropic and Non-Orthogonal Cross Fields.ACM Trans. Graph.33, 4 (2014), 134:1--134:11.",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-56",
+                "unstructured": "M. Rouxel-Labb&#233;, M. Wintraecken, and J-D. Boissonnat. 2016. Discretized Riemannian Delaunay Triangulations.Procedia Engineering163 (2016), 97--109.",
+                "DOI": "10.1016/j.proeng.2016.11.026",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-57",
+                "unstructured": "E. Sauvage, J. Remacle, and E. Marchandise. 2014. Metric Field Construction for Anisotropic Mesh Adaptation with Application to Blood Flow Simulations.International Journal for Numerical Methods in Biomedical Engineering30, 11 (2014), 1326--1346.",
+                "DOI": "10.1002/cnm.2660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-58",
+                "unstructured": "K. Shimada and D. Gossard. 1995. Bubble Mesh: Automated Triangular Meshing of Non-manifold Geometry by Sphere Packing. InProceedings of the 3rd ACM Symposium on Solid Modeling and Applications.409--419.",
+                "DOI": "10.1145/218013.218095",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-59",
+                "unstructured": "K. Shimada, A. Yamada, and T. Itoh. 1997. Anisotropic Triangular Meshing of Parametric Surfaces via Close Packing of Ellipsoidal Bubbles. In6th International Meshing Roundtable.375--390."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-60",
+                "unstructured": "R. Simpson. 1994. Anisotropic Mesh Transformations and Optimal Error Control.Applied Numerical Mathematics14, 1-3 (1994), 183--198."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-61",
+                "unstructured": "O. Sorkine-Hornung and M. Alexa. 2007. As-rigid-as-possible Surface Modeling. InProceedings of the fifth Eurographics symposium on Geometry processing.109--116."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-62",
+                "unstructured": "R. Sumner and J. Popovi&#263;. 2004. Deformation Transfer for Triangle Meshes.ACM Trans. Graph.23, 3 (2004), 399--405.",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-63",
+                "unstructured": "J. Tournois, R. Srinivasan, and P. Alliez. 2009. Perturbing Slivers in 3D Delaunay Meshes.Proceedings of the 18th international meshing roundtable(2009), 157--173.",
+                "DOI": "10.1007/978-3-642-04319-2_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-64",
+                "unstructured": "S. Valette, J. Chassery, and R. Prost. 2008. Generic Remeshing of 3D Triangular Meshes with Metric-Dependent Discrete Voronoi Diagrams.IEEE Trans. Vis. Comput. Graph.14, 2 (2008), 369--381.",
+                "DOI": "10.1109/TVCG.2007.70430",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-65",
+                "unstructured": "N. Verma. 2012. Distance Preserving Embeddings for General n-Dimensional Manifolds.Journal of Machine Learning Research volume14 (2012), 2415--2448."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-66",
+                "unstructured": "S. Yamakawa and K. Shimada. 2000. High Quality Anisotropic Tetrahedral Mesh Generation via Packing Ellipsoidal Bubbles. In9th International Meshing Roundtable.263--273."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-67",
+                "unstructured": "D. Yan, B. L&#233;vy, Y Liu, F. Sun, and W. Wang. 2009. Isotropic Remeshing with Fast and Exact Computation of Restricted Voronoi Diagram.Computer Graphics Forum28, 5 (2009), 1445--1454.",
+                "DOI": "10.1111/j.1467-8659.2009.01521.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-68",
+                "unstructured": "D. Yan, W. Wang, B. L&#233;vy, and Y. Liu. 2013. Efficient Computation of Clipped Voronoi Diagram for Mesh Generation.Computer-Aided Design45, 4 (2013), 843--852.",
+                "DOI": "10.1016/j.cad.2011.09.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-69",
+                "unstructured": "Z. Zhong, X. Guo, W Wang, B. L&#233;vy, F. Sun, Y. Liu, and W. Mao. 2013. Particle-Based Anisotropic Surface Meshing.ACM Trans. Graph.32, 4 (2013), 99:1--99:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201369-70",
+                "unstructured": "Z. Zhong, L. Shuai, M. Jin, and X. Guo. 2014. Anisotropic Surface Meshing with Conformal Embedding.Graphical Models76, 5 (2014), 468--483.",
+                "DOI": "10.1016/j.gmod.2014.03.011",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201369&ftid=1991701&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:47:11Z",
+            "timestamp": 1571672831000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 70,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201369",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

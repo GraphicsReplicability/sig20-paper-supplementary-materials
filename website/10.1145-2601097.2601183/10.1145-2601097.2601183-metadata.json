@@ -1,0 +1,340 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    20
+                ]
+            ],
+            "date-time": "2019-12-20T15:04:58Z",
+            "timestamp": 1576854298645
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Research Grants Council of Hong Kong",
+                "award": [
+                    "CityU 123212, CityU 115112"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601183",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Look over here"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ying",
+                "family": "Cao",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Rynson W. H.",
+                "family": "Lau",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Antoni B.",
+                "family": "Chan",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601183-1",
+                "unstructured": "Barnes, C., Goldman, D., Shechtman, E., and Finkelstein, A. 2010. Video tapestries with continuous temporal zoom. InACM SIGGRAPH'10.",
+                "DOI": "10.1145/1833349.1778826",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-2",
+                "unstructured": "Bishop, C. 2006.Pattern Recognition and Machine Learning. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-3",
+                "unstructured": "Cao, Y., Chan, A., and Lau, R. 2012. Automatic stylistic manga layout. InACM SIGGRAPH Asia'12.",
+                "DOI": "10.1145/2366145.2366160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-4",
+                "unstructured": "Christensen, J., Marks, J., and Shieber, S. 1994.Placing text labels on maps and diagrams. Academic Press.",
+                "DOI": "10.1016/B978-0-12-336156-1.50064-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-5",
+                "unstructured": "Christensen, J., Marks, J., and Shieber, S. 1995. An empirical study of algorithms for point-feature label placement.ACM Trans. on Graphics 14, 203--232.",
+                "DOI": "10.1145/212332.212334",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-6",
+                "unstructured": "Chun, B., Ryu, D., Hwang, W., and Cho, H. 2006. An automated procedure for word balloon placement in cinema comics.LNCS 4292, 576--585."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-7",
+                "unstructured": "ComiPo, 2012. http://www.comipo.com/en."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-8",
+                "unstructured": "Correa, C., and Ma, K.-L. 2010. Dynamic video narratives. InACM SIGGRAPH'10.",
+                "DOI": "10.1145/1833349.1778825",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-9",
+                "unstructured": "DeCarlo, D., and Santella, A. 2002. Stylization and abstraction of photograph. InACM SIGGRAPH'02.",
+                "DOI": "10.1145/566570.566650",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-10",
+                "unstructured": "Edmondson, S., Christensen, J., Marks, J., and Shieber, S. 1996. A general cartographic labelling algorithm.Computers &#38; Geosciences 33, 13--24."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-11",
+                "unstructured": "Folse, S., 2010. http://hoodedutilitarian.com/visual-languages-of-manga-and-comics/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-12",
+                "unstructured": "Friedman, N., and Nachman, D. 2000. Gaussian process networks. InConf. on Uncertainty in Artificial Intelligence'00."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-13",
+                "unstructured": "Huang, H., Zhang, L., and Zhang, H. 2011. Arcimboldo-like collage using internet images. InACM SIGGRAPH Asia'11.",
+                "DOI": "10.1145/2070752.2024189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-14",
+                "unstructured": "Jain, E., Sheikh, Y., and Hodgins, J. 2012. Inferring artistic intention in comic art through viewer gaze. InACM SAP'12.",
+                "DOI": "10.1145/2338676.2338688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-15",
+                "unstructured": "Jain, E. 2012.Attention-guided Algorithms to Retarget and Augment Animations, Stills and Videos. PhD thesis, Carnegie Mellon University."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-16",
+                "unstructured": "Judd, T., Ehinger, K., Durand, F., and Torralba, A. 2009. Learning to predict where humans look. InICCV'09.",
+                "DOI": "10.1109/ICCV.2009.5459462",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-17",
+                "unstructured": "Kesting, M., 2004. Basic thoughts about visual composition. http://www.hippasus.com/resources/viscomp/index.html."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-18",
+                "unstructured": "Kim, J., and Pellacini, F. 2002. Jigsaw image mosaics. InACM SIGGRAPH'02.",
+                "DOI": "10.1145/566570.566633",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-19",
+                "unstructured": "Kurlander, D., Skelly, T., and Salesin, D. 1996. Comic chat. InACM SIGGRAPH'96.",
+                "DOI": "10.1145/237170.237260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-20",
+                "unstructured": "MangaStudio, 2011. http://manga.smithmicro.com/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-21",
+                "unstructured": "McCloud, S. 1994.Understanding Comics: The Invisible Art. William Morrow."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-22",
+                "unstructured": "McCloud, S. 2006.Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels. William Morrow."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-23",
+                "unstructured": "Murphy, K., 1998. A brief introduction to graphical models and bayesian networks. http://www.cs.ubc.ca/~murphyk/Bayes/bayes.html#reading."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-24",
+                "unstructured": "Murphy, K., 2002. Bayes net toolbox for matlab. https://code.google.com/p/bnt/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-25",
+                "unstructured": "Omori, T., Igaki, T., Ishii, T., Kurata, K., and Masuda, N. 2004. Eye catchers in comics: Controlling eye movements in reading pictorial and textual media. InInt'l Congress of Psychology'04."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-26",
+                "unstructured": "Qu, Y., Pang, W., Wong, T., and Heng, P. 2006. Richness-preserving manga screening. InACM SIGGRAPH'06."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-27",
+                "unstructured": "Qu, Y., Wong, T., and Heng, P. 2008. Manga colorization. InACM SIGGRAPH Asia'08."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-28",
+                "unstructured": "Ramanathan, S., Yanulevskaya, V., and Sebe, N. 2011. Can computers learn from humans to see better?: inferring scene semantics from viewers' eye movements. InACM MM'11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-29",
+                "unstructured": "Rasmussen, C., and Williams, C., 2013. Gaussian processes for machine learning matlab code. http://www.gaussianprocess.org/gpml/code/matlab/doc/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-30",
+                "unstructured": "Rother, C., Bordeaux, L., Hamadi, Y., and Blake, A. 2006. Autocollage. InACM SIGGRAPH'06.",
+                "DOI": "10.1145/1179352.1141965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-31",
+                "unstructured": "Sakoe, H., and Chiba, S. 1978. Dynamic programming algorithm optimization for spoken word recognition.IEEE Trans. ASSP 26, 43--49.",
+                "DOI": "10.1109/TASSP.1978.1163055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-32",
+                "unstructured": "SamuraiMangaWorkshop, 2011. Manga artist interview - shin shinmoto - 1/2. https://www.youtube.com/watch?v=fxwcHnYcgLo."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-33",
+                "unstructured": "Scott-Baron, H. 2006.Manga Clip Art: Everything You Need to Create Your Own Professional-Looking Manga Artwork. Andrews McMeel Publishing."
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-34",
+                "unstructured": "Toyoura, M., Sawada, T., Kunihiro, M., and Mao, X. 2012. Using eye-tracking data for automatic film comic creation. InSymp. on Eye Tracking Research and Applications'12.",
+                "DOI": "10.1145/2168556.2168640",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601183-35",
+                "unstructured": "Yuille, A., 2006. The EM algorithm. http://www.stat.ucla.edu/~yuille/courses/stat153/emtutorial.pdf."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601183&amp;ftid=1488902&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:27Z",
+            "timestamp": 1565663727000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "attention-directing composition of manga elements"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601183",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

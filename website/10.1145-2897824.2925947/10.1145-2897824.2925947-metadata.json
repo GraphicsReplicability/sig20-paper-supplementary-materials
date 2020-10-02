@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:55:29Z",
+            "timestamp": 1574816129595
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925947",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Realtime 3D eye gaze animation using a single RGB camera"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Congyi",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Institute of Computing Technology and University of Chinese Academy of Sciences"
+                    }
+                ]
+            },
+            {
+                "given": "Fuhao",
+                "family": "Shi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&M University"
+                    }
+                ]
+            },
+            {
+                "given": "Shihong",
+                "family": "Xia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institute of Computing Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Jinxiang",
+                "family": "Chai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&M University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925947-1",
+                "unstructured": "Anon, Applied science laboratories, 2015. http://www.as-l.com.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-2",
+                "unstructured": "Baltru&#353;aitis, T., Robinson, P., and Morency, L.-P. 2012. 3d constrained local model for rigid and non-rigid facial tracking. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2610--2617."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-3",
+                "unstructured": "Beeler, T., Bickel, B., Beardsley, P., Sumner, B., and Gross, M. 2010. High-quality single-shot capture of facial geometry.ACM Trans. Graph. 29, 4, 40:1--40:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-4",
+                "unstructured": "Beeler, T., Hahn, F., Bradley, D., Bickel, B., Beardsley, P., Gotsman, C., Sumner, R. W., and Gross, M. 2011. High-quality passive facial performance capture using anchor frames.ACM Trans. Graph. 30, 4, 75:1--75:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-5",
+                "unstructured": "Bickel, B., Botsch, M., Angst, R., Matusik, W., Otaduy, M., Pfister, H., and Gross, M. 2007. Multi-scale capture of facial geometry and motion.ACM Trans. Graph. 26, 3, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-6",
+                "unstructured": "BioID, 2015. https://www.bioid.com/about/bioid-face-database."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-7",
+                "unstructured": "Bouaziz, S., Wang, Y., and Pauly, M. 2013. Online modeling for realtime facial animation.ACM Trans. Graph. 32, 4 (July), 40:1--40:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-8",
+                "unstructured": "Bradley, D., Heidrich, W., Popa, T., and Sheffer, A. 2010. High resolution passive facial performance capture.ACM Trans. Graph. 29, 4, 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-9",
+                "unstructured": "Breiman, L. 2001. Random forests.Machine learning 45, 1, 5--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-10",
+                "unstructured": "Canny, J. 1986. A computational approach to edge detection.IEEE Transactions on Pattern Analysis and Machine Intelligence, 6, 679--698."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-11",
+                "unstructured": "Cao, X., Wei, Y., Wen, F., and Sun, J. 2012. Face alignment by explicit shape regression. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2887--2894."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-12",
+                "unstructured": "Cao, C., Weng, Y., Lin, S., and Zhou, K. 2013. 3d shape regression for real-time facial animation.ACM Trans. Graph.32, 4 (July), 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-13",
+                "unstructured": "Cao, C., Hou, Q., and Zhou, K. 2014. Displaced dynamic expression regression for real-time facial tracking and animation.ACM Transactions on Graphics (TOG) 33, 4, 43."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-14",
+                "unstructured": "Cao, C., Weng, Y., Zhou, S., Tong, Y., and Zhou, K. 2014. Facewarehouse: a 3d facial expression database for visual computing.IEEE Transations on Visualizationa and Computer Graphics (TVCG) 20, 3, 413--425."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-15",
+                "unstructured": "Cao, C., Bradley, D., Zhou, K., and Beeler, T. 2015. Realtime high-fidelity facial performance capture.ACM Transactions on Graphics (TOG) 34, 4, 46."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-16",
+                "unstructured": "Chai, J., Xiao, J., and Hodgins, J. 2003. Vision-based control of 3D facial animation. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 193--206."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-17",
+                "unstructured": "Chau, M., and Betke, M. 2005. Real time eye tracking and blink detection with usb cameras. Tech. rep., Boston University Computer Science Department."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-18",
+                "unstructured": "Chen, Y.-L., Wu, H.-t., Shi, F., Tong, X., and Chai, J. 2013. Accurate and robust 3d facial capture using a single rgbd camera. InIEEE International Conference on Computer Vision (ICCV), 3615--3622."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-19",
+                "unstructured": "Comaniciu, D., and Meer, P. 2002. Mean shift: A robust approach toward feature space analysis.IEEE Transactions on Pattern Analysis and Machine Intelligence 24, 5, 603--619."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-20",
+                "unstructured": "Corcoran, P. M., Nanu, F., Petrescu, S., and Bigioi, P. 2012. Real-time eye gaze tracking for gaming design and consumer electronics systems.IEEE Transactions on Consumer Electronics 58, 2, 347--355."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-21",
+                "unstructured": "Garrido, P., Valgaerts, L., Wu, C., and Theobalt, C. 2013. Reconstructing detailed dynamic face geometry from monocular video.ACM Trans. Graph. 32, 6, 158."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-22",
+                "unstructured": "Hsieh, P.-L., Ma, C., Yu, J., and Li, H. 2015. Unconstrained realtime facial performance capture. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 1675--1683."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-23",
+                "unstructured": "Huang, W., and Mariani, R. 2000. Face detection and precise eyes location. InInternational Conference on Pattern Recognition, vol. 4, 722--727."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-24",
+                "unstructured": "Huang, J., and Wechsler, H. 1999. Eye detection using optimal wavelet packets and radial basis functions (rbfs).International Journal of Pattern Recognition and Artificial Intelligence 13, 07, 1009--1025."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-25",
+                "unstructured": "Huang, G. B., Ramesh, M., Berg, T., and Learned-Miller, E. 2007. Labeled faces in the wild: A database for studying face recognition in unconstrained environments. Tech. rep., Technical Report 07-49, University of Massachusetts, Amherst."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-26",
+                "unstructured": "Huang, H., Chai, J., Tong, X., and Wu, H.-T. 2011. Leveraging motion capture and 3d scanning for high-fidelity facial performance acquisition.ACM Trans. Graph. 30, 4, 74:1--74:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-27",
+                "unstructured": "Kawato, S., and Ohya, J. 2000. Real-time detection of nodding and head-shaking by directly detecting and tracking the between-eyes. InIEEE International Conference on Automatic Face and Gesture Recognition, 40--45."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-28",
+                "unstructured": "Lc Technologies, 2015. http://www.eyegaze.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-29",
+                "unstructured": "Li, H., Yu, J., Ye, Y., and Bregler, C. 2013. Realtime facial animation with on-the-fly correctives.ACM Trans. Graph. 32, 4 (July), 42:1--42:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-30",
+                "unstructured": "Li, H., Trutoiu, L., Olszewski, K., Wei, L., Trutna, T., Hsieh, P.-L., Nicholls, A., and Ma, C. 2015. Facial performance sensing head-mounted display.ACM Transactions on Graphics (TOG) 34, 4, 47."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-31",
+                "unstructured": "Liu, Y., Xu, F., Chai, J., Tong, X., Wang, L., and Huo, Q. 2015. Video-audio driven real-time facial animation.ACM Trans. Graph. 34, 6 (Oct.), 182:1--182:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-32",
+                "unstructured": "Ma, W.-C., Jones, A., Chiang, J.-Y., Hawkins, T., Frederiksen, S., Peers, P., Vukovic, M., Ouhyoung, M., and Debevec, P. 2008. Facial performance synthesis using deformation-driven polynomial displacement maps.ACM Trans. Graph. 27, 5, 121:1--121:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-33",
+                "unstructured": "Megvii Technology, 2015. http://www.faceplusplus.com.cn."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-34",
+                "unstructured": "Morimoto, C. H., and Flickner, M. 2000. Real-time multiple face detection using active illumination. InIEEE International Conference on Automatic Face and Gesture Recognition, 8--13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-35",
+                "unstructured": "Ren, S., Cao, X., Wei, Y., and Sun, J. 2014. Face alignment at 3000 fps via regressing local binary features. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 1685--1692.",
+                "DOI": "10.1109/CVPR.2014.218",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-36",
+                "unstructured": "Ruhland, K., Andrist, S., Badler, J., Peters, C., Badler, N., Gleicher, M., Mutlu, B., and Mcdonnell, R. 2014. Look me in the eyes: A survey of eye and gaze animation for virtual agents and artificial systems. InEurographics State-of-the-Art Report, 69--91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-37",
+                "unstructured": "Saragih, J. M., Lucey, S., and Cohn, J. F. 2011. Realtime avatar animation from a single image. InIEEE International Conference on Automatic Face &#38; Gesture Recognition and Workshops (FG 2011), IEEE, 117--124.",
+                "DOI": "10.1109/FG.2011.5771400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-38",
+                "unstructured": "Shi, F., Wu, H.-T., Tong, X., and Chai, J. 2014. Automatic acquisition of high-fidelity facial performances using monocular videos.ACM Transactions on Graphics (TOG) 33, 6, 222."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-39",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Lipman, Y., Alexa, M., R&#246;ssl, C., and Seidel, H.-P. 2004. Laplacian surface editing. InProceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing, ACM, 175--184.",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-40",
+                "unstructured": "Sugano, Y., Matsushita, Y., and Sato, Y. 2014. Learning-by-synthesis for appearance-based 3d gaze estimation. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 1821--1828."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-41",
+                "unstructured": "Tian, Y.-l., Kanade, T., and Cohn, J. F. 2000. Dual-state parametric eye tracking. InIEEE International Conference on Automatic Face and Gesture Recognition, 110--115."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-42",
+                "unstructured": "Tobii Technologies, 2015. http://www.tobii.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-43",
+                "unstructured": "Valgaerts, L., Wu, C., Bruhn, A., Seidel, H.-P., and Theobalt, C. 2012. Lightweight binocular facial performance capture under uncontrolled lighting.ACM Trans. Graph. 31, 6 (Nov.), 187:1--187:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-44",
+                "unstructured": "Vlasic, D., Brand, M., Pfister, H., and Popovi&#263;, J. 2005. Face transfer with multilinear models. InACM Transactions on Graphics (TOG), vol. 24, ACM, 426--433.",
+                "DOI": "10.1145/1186822.1073209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-45",
+                "unstructured": "Weise, T., Li, H., Van Gool, L., and Pauly, M. 2009. Face/off: live facial puppetry. InSymposium on Computer Animation, 7--16.",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-46",
+                "unstructured": "Weise, T., Bouaziz, S., Li, H., and Pauly, M. 2011. Realtime performance-based facial animation.ACM Trans. Graph. 30, 4, 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-47",
+                "unstructured": "Wood, E., Baltrusaitis, T., Zhang, X., Sugano, Y., Robinson, P., and Bulling, A. 2015. Rendering of eyes for eye-shape registration and gaze estimation.arXiv preprint arXiv:1505.05916.",
+                "DOI": "10.1109/ICCV.2015.428",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-48",
+                "unstructured": "Xiong, X., and De la Torre, F. 2013. Supervised descent method and its applications to face alignment. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR), 532--539."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-49",
+                "unstructured": "Zhang, L., Snavely, N., Curless, B., and Seitz, S. 2004. Spacetime faces: high resolution capture for modeling and animation.ACM Transactions on Graphics 23, 3, 548--558."
+            },
+            {
+                "key": "key-10.1145/2897824.2925947-50",
+                "unstructured": "Zhang, X., Sugano, Y., Fritz, M., and Bulling, A. 2015. Appearance-based gaze estimation in the wild. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 4511--4520."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925947&amp;ftid=1755901&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:47:36Z",
+            "timestamp": 1568162856000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925947",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "Timestamp": "12/30/2019 2:07:16",
+    "Title": "A Compiler for 3D Machine Knitting",
+    "DOI": "10.1145/2897824.2925940",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://cfg.mit.edu/sites/cfg.mit.edu/files/paper_1.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Compilers",
+    "ACM 2": "Computer-aided manufacturing",
+    "ACM 3": "Graphics systems and interfaces",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 40,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://la.disneyresearch.com/publication/machine-knitting-compiler/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 1,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "James",
+            "family": "McCann",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Disney Research"
+                }
+            ]
+        },
+        {
+            "given": "Lea",
+            "family": "Albaugh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research"
+                }
+            ]
+        },
+        {
+            "given": "Vidya",
+            "family": "Narayanan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research"
+                }
+            ]
+        },
+        {
+            "given": "April",
+            "family": "Grow",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research and UC Santa Cruz"
+                }
+            ]
+        },
+        {
+            "given": "Wojciech",
+            "family": "Matusik",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massacusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Jen",
+            "family": "Mankoff",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research and Carnegie Mellon University"
+                }
+            ]
+        },
+        {
+            "given": "Jessica",
+            "family": "Hodgins",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

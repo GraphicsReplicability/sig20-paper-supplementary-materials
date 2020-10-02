@@ -1,0 +1,392 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:59:44Z",
+            "timestamp": 1574816384300
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925880",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Subdivision exterior calculus for geometry processing"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Fernando",
+                "family": "de Goes",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Meyer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Tony",
+                "family": "DeRose",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925880-1",
+                "unstructured": "Alexa, M., and Wardetzky, M. 2011. Discrete Laplacians on general polygonal meshes.ACM Trans. Graph. 30, 4, Art. 102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-2",
+                "unstructured": "Arnold, D. N., Falk, R. S., and Winther, R. 2006. Finite element exterior calculus, homological techniques, and applications.Acta Numerica 15, 1--155."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-3",
+                "unstructured": "Auchmann, B., and Kurz, S. 2006. A geometrically defined discrete Hodge operator on simplicial cells.IEEE Trans. on Magnetics 42, 4, 643--646."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-4",
+                "unstructured": "Babuska, I., and Suri, M. 1994. Thepandh-pversions of the finite element method: Basic principles and properties.SIAM Review 36, 4, 578--632."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-5",
+                "unstructured": "Back, A., and Sonnendr&#252;cker, E. 2014. Finite element Hodge for spline discrete differential forms: Application to the Vlasov-Poisson system.Appl. Numer. Math.79, 124--136."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-6",
+                "unstructured": "Barendrecht, P. J. 2013.Isogeometric Analysis for Subdivision Surfaces. Master's thesis, Eindhoven University of Technology."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-7",
+                "unstructured": "Bossavit, A., Ed. 1998.Computational Electromagnetism. Academic Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-8",
+                "unstructured": "Bossavit, A. 2000. Computational electromagnetism and geometry. (5): The 'Galerkin Hodge'.J. Japan Soc. Appl. Electromagn. &#38; Mech. 8, 2, 203--9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-9",
+                "unstructured": "Botsch, M., Kobbelt, L., Pauly, M., Alliez, P., and L&#233;vy, B. 2010.Polygon Mesh Processing.AK Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-10",
+                "unstructured": "Buffa, A., Rivas, J., Sangalli, G., and V&#225;zquez, R. 2011. Isogeometric discrete differential forms in three dimensions.SIAM J. Numer. Anal. 49, 2, 818--844."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-11",
+                "unstructured": "Buffa, A., Sangalli, G., and V&#225;zquez, R. 2014. Isogeometric methods for computational electromagnetics: B-spline and T-spline discretizations.J. Comput. Phys. 257, 1291--1320."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-12",
+                "unstructured": "Cirak, F., Scott, M. J., Antonsson, E. K., Ortiz, M., and Schr&#246;der, P. 2002. Integrated modeling, finite-element analysis, and engineering design for thin-shell structures using subdivision.Comput. Aided Des. 34, 137--148."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-13",
+                "unstructured": "Cottrell, J. A., Hughes, T. J. R., and Bazilevs, Y. 2009.Isogeometric Analysis: Toward Integration of CAD and FEA.Wiley Publishing.",
+                "DOI": "10.1002/9780470749081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-14",
+                "unstructured": "Crane, K., de Goes, F., Desbrun, M., and Schr&#246;der, P. 2013. Digital geometry processing with discrete exterior calculus. InACM SIGGRAPH Courses."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-15",
+                "unstructured": "Crane, K., Weischedel, C., and Wardetzky, M. 2013. Geodesics in heat: A new approach to computing distance based on heat flow.ACM Trans. Graph. 32, 5, Art. 152."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-16",
+                "unstructured": "Dahmen, W. 1986. Subdivision algorithms converge quadratically. J. Comput. Appl. Math. 16, 2, 145--158.",
+                "DOI": "10.1016/0377-0427(86)90088-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-17",
+                "unstructured": "de Goes, F., Memari, P., Mullen, P., and Desbrun, M. 2014. Weighted triangulations for geometry processing.ACM Trans. Graph. 33, 3, Art. 28."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-18",
+                "unstructured": "Desbrun, M., Meyer, M., Schr&#246;der, P., and Barr, A. H. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. ACM SIGGRAPH, 317--324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-19",
+                "unstructured": "Desbrun, M., Kanso, E., and Tong, Y. 2008. Discrete differential forms for computational modeling. InDiscrete Differential Geometry, A. I. Bobenko et al.(Eds), vol. 38 ofOberwolfach Seminars.287--324.",
+                "DOI": "10.1007/978-3-7643-8621-4_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-20",
+                "unstructured": "Elcott, S., Tong, Y., Kanso, E., Schr&#246;der, P., and Desbrun, M. 2007. Stable, circulation-preserving, simplicial fluids.ACM Trans. Graph. 26, 1, Art. 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-21",
+                "unstructured": "Fisher, M., Schr&#246;der, P., Desbrun, M., and Hoppe, H. 2007. Design of tangent vector fields.ACM Trans. Graph. 26, 3, Art. 56."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-22",
+                "unstructured": "Frankel, T. 2004.The Geometry of Physics: An Introduction.Cambridge University Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-23",
+                "unstructured": "Grinspun, E., Krysl, P., and Schr&#246;der, P. 2002. CHARMS: A simple framework for adaptive simulation.ACM Trans. Graph. 21, 3, 281--290."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-24",
+                "unstructured": "He, L., Schaefer, S., and Hormann, K. 2010. Parameterizing subdivision surfaces.ACM Trans. Graph. 29, 4, Art. 120."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-25",
+                "unstructured": "Hirani, A. 2003.Discrete Exterior Calculus. PhD thesis, Caltech."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-26",
+                "unstructured": "Hughes, T., Cottrell, J., and Bazilevs, Y. 2005. Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement.Comput. Methods Appl. Mech. Eng. 194, 39-41, 4135--4195."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-27",
+                "unstructured": "J&#252;ttler, B., Mantzaflaris, A., Perl, R., and Rumpf, M. 2016. On numerical integration in isogeometric subdivision methods for PDEs on surfaces.Comput. Methods Appl. Mech. Eng. 302, 131--146."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-28",
+                "unstructured": "Liu, S., Jacobson, A., and Gingold, Y. 2014. Skinning cubic B&#233;zier splines and Catmull-Clark subdivision surfaces.ACM Trans. Graph. 33, 6, Art. 190."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-29",
+                "unstructured": "Liu, B., Mason, G., Hodgson, J., Tong, Y., and Desbrun, M. 2015. Model-reduced variational fluid simulation.ACM Trans. Graph. 34, 6, Art. 244."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-30",
+                "unstructured": "Loop, C., van Gelder, D., Litke, N., El Guerrab, R., Elmieh, B., and Kraemer, M. 2013. OpenSubdiv from research to industry adoption. InACM SIGGRAPH Courses."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-31",
+                "unstructured": "Lounsbery, M., DeRose, T. D., and Warren, J. 1997. Multiresolution analysis for surfaces of arbitrary topological type.ACM Trans. Graph. 16, 1, 34--73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-32",
+                "unstructured": "McCormick, S. F. 1984. Multigrid Methods for Variational Problems: Further Results.SIAM J. Numer. Anal. 21, 2, 255--263."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-33",
+                "unstructured": "Mullen, P., Tong, Y., Alliez, P., and Desbrun, M. 2008. Spectral conformal parameterization.Comput. Graph. Forum 27, 5, 1487--1494."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-34",
+                "unstructured": "Mullen, P., Memari, P., de Goes, F., and Desbrun, M. 2011. HOT: Hodge-optimized triangulations.ACM Trans. Graph. 30, 4, Art. 103."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-35",
+                "unstructured": "Munkres, J. R. 1984.Elements of Algebraic Topology.Addison-Wesley."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-36",
+                "unstructured": "Nguyen, T., Kar&#269;iauskas, K., and Peters, J. 2014. A comparative study of several classical, discrete differential and isogeometric methods for solving Poissons equation on the disk.Axioms, 3, 280--299."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-37",
+                "unstructured": "Niessner, M., Loop, C., Meyer, M., and Derose, T. 2012. Feature-adaptive GPU rendering of Catmull-Clark subdivision surfaces.ACM Trans. Graph. 31, 1, Art. 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-38",
+                "unstructured": "Riffnaller-Schiefer, A., Augsd&#246;rfer, U. H., and Fellner, D. W. 2015. Isogeometric Analysis for Modelling and Design. InEurographics (short papers)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-39",
+                "unstructured": "Stam, J. 1998. Exact evaluation of Catmull-Clark subdivision surfaces at arbitrary parameter values. ACM SIGGRAPH, 395--404."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-40",
+                "unstructured": "Stam, J. 2003. Flows on surfaces of arbitrary topology.ACM Trans. Graph. 22, 3, 724--731."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-41",
+                "unstructured": "Strang, G., and Fix, G. 1973.An Analysis of the Finite Element Method.Wellesley-Cambridge."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-42",
+                "unstructured": "Thomaszewski, B., Wacker, M., and Strasser, W. 2006. A consistent bending model for cloth simulation with corota-tional subdivision finite elements. InSymp. Comp. Anim., 107--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-43",
+                "unstructured": "Wang, K., Weiwei, Tong, Y., Desbrun, M., and Schr&#246;der, P. 2006. Edge subdivision schemes and the construction of smooth vector fields.ACM Trans. Graph. 25, 3, 1041--1048."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-44",
+                "unstructured": "Wang, K. 2008.A subdivision approach to the construction of smooth differential forms. PhD thesis, Caltech."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-45",
+                "unstructured": "Wardetzky, M., Mathur, S., K&#228;lberer, F., and Grinspun, E. 2007. Discrete Laplace operators: No free lunch. InSymp. Geom. Process., 33--37."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-46",
+                "unstructured": "Warren, J., and Weimer, H. 2001.Subdivision Methods for Geometric Design: A Constructive Approach.Morgan Kaufmann Publishers Inc.",
+                "DOI": "10.1016/B978-155860446-9/50003-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-47",
+                "unstructured": "Whitney, H. 1957.Geometric Integration Theory. Princeton University Press.",
+                "DOI": "10.1515/9781400877577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-48",
+                "unstructured": "Zhou, K., Huang, X., Xu, W., Guo, B., and Shum, H.-Y. 2007. Direct manipulation of subdivision surfaces on GPUs.ACM Trans. Graph. 26, 3, Art. 91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925880-49",
+                "unstructured": "Zorin, D., and Schr&#246;der, P. 2000. Subdivision for modeling and animation. InACM SIGGRAPH Courses."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925880&amp;ftid=1755872&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:06Z",
+            "timestamp": 1568162946000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925880",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

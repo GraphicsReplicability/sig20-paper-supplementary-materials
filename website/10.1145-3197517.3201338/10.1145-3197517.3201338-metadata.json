@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:10Z",
+            "timestamp": 1574859850713
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201338",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "DSCarver"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Shiqing",
+                "family": "Xin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Yuanmin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Wenping",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hong Kong University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University and Peking University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201338-1",
+                "unstructured": "Rajneesh Kumar Agrawal, D. K. Pratihar, and Roy Choudhury. 2006. Optimization of CNC isoscallop free form surface machining using a genetic algorithm.The International Journal of Advanced Manufacturing Technology46, 7--8 (2006), 811--819."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-2",
+                "unstructured": "Saleh M Amaitik and S Engin Kili&#231;. 2007. An intelligent process planning system for prismatic parts using STEP features.The International Journal of Advanced Manufacturing Technology31, 9--10 (2007), 978--993."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-3",
+                "unstructured": "Karlo Apro. 2008.Secrets of 5-axis machining.Industrial Press Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-4",
+                "unstructured": "Amit H Bermano, Thomas Funkhouser, and Szymon Rusinkiewicz. 2017. State of the Art in Methods and Representations for Fabrication-Aware Design.Computer Graphics Forum36, 2 (2017), 509--535."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-5",
+                "unstructured": "Zhang Wei Bo, Lu Zhen Hua, and Zhu Guang Yu. 2006. Optimization of process route by genetic algorithms.Robotics and Computer-Integrated Manufacturing22, 2 (2006), 180--188.",
+                "DOI": "10.1016/j.rcim.2005.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-6",
+                "unstructured": "John Bowers, Rui Wang, Li Yi Wei, and David Maletz. 2010. Parallel Poisson disk sampling with spectrum analysis on surfaces.ACM Transactions on Graphics29, 6 (2010), 166."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-7",
+                "unstructured": "Yuri Boykov, Olga Veksler, and Ramin Zabih. 2001. Fast Approximate Energy Minimization via Graph Cuts.IEEE Trans. Pat Ana. &#38; Mach. Int.23, 11 (2001), 1222--1239.",
+                "DOI": "10.1109/34.969114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-8",
+                "unstructured": "Marcel Campen, Martin Heistermann, and Leif Kobbelt. 2013. Practical anisotropic geodesy. InComputer Graphics Forum, Vol. 32. Wiley Online Library, 63--71.",
+                "DOI": "10.1111/cgf.12173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-9",
+                "unstructured": "Ahmet Can and Ali &#220;n&#252;var. 2010. A novel iso-scallop tool-path generation for efficient five-axis machining of free-form surfaces.The International Journal of Advanced Manufacturing Technology51, 9--12 (2010), 1083--1098."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-10",
+                "unstructured": "Xuelin Chen, Hao Zhang, Jinjie Lin, Ruizhen Hu, Lin Lu, Qixing Huang, Bedrich Benes, Daniel Cohen-Or, and Baoquan Chen. 2015. Dapper: Decompose-and-pack for 3D Printing.ACM Trans. on Graph34, 6 (2015), 213:1--213:12.",
+                "DOI": "10.1145/2816795.2818087",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-11",
+                "unstructured": "B. Choi and R. Jerrard. 1998.Sculptured Surface Machining: Theory and Applications.Kluwer Academic Publishers.",
+                "DOI": "10.1007/978-1-4615-5283-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-12",
+                "unstructured": "V. Chvatal. 1979. A Greedy Heuristic for the Set-Covering Problem.Mathematics of Operations Research4, 3 (1979), pp. 233--235. http://www.jstor.org/stable/3689577",
+                "DOI": "10.1287/moor.4.3.233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-13",
+                "unstructured": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 2001.Introduction to Algorithms.MIT Press and McGraw-Hill."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-14",
+                "unstructured": "Keenan Crane, Clarisse Weischedel, and Max Wardetzky. 2013a. Geodesics in Heat: A New Approach to Computing Distance Based on Heat Flow.ACM Trans. on Graph32, 5 (2013), 152:1--152:11.",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-15",
+                "unstructured": "Keenan Crane, Clarisse Weischedel, and Max Wardetzky. 2013b. Geodesics in heat: A new approach to computing distance based on heat flow.ACM Transactions on Graphics32, 5 (2013), 13--15.",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-16",
+                "unstructured": "Donghong Ding, Zengxi Stephen Pan, Dominic Cuiuri, and Huijun Li. 2014. A tool-path generation strategy for wire and arc additive manufacturing.Int. J. of Adv. Manufact. Tech.73, 1--4 (2014), 173--183."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-17",
+                "unstructured": "R. T. Farouki. 2016. Rational rotation-minimizing frames --- Recent advances and open problems.Appl. Math. Comput.272 (2016), 80--91.",
+                "DOI": "10.1016/j.amc.2015.04.122",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-18",
+                "unstructured": "R. T. Farouki and S. Li. 2013. Optimal tool orientation control for 5-axis CNC milling with ball-end cutters.Computer Aided Geometric Design30, 2 (2013), 226--239.",
+                "DOI": "10.1016/j.cagd.2012.11.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-19",
+                "unstructured": "Matthew C Frank, Richard A Wysk, and Sanjay B Joshi. 2006. Determining setup orientations from the visibility of slice geometry for rapid computer numerically controlled machining.Journal of manufacturing science and engineering128, 1 (2006), 228--238."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-20",
+                "unstructured": "Stefan Gottschalk, Ming Lin, Dinesh Manocha, and Eric Larsen. 1999. PQP-the proximity query package.Accessed October4 (1999), 2011."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-21",
+                "unstructured": "YW Guo, Antony R Mileham, Geraint W Owen, Paul G Maropoulos, and WD Li. 2009. Operation sequencing optimization for five-axis prismatic parts using a particle swarm optimization approach.Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture223, 5 (2009), 485--497.",
+                "DOI": "10.1243/09544054JEM1224",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-22",
+                "unstructured": "Prosenjit Gupta, Ravi Janardan, Jayanth Majhi, and Tony Woo. 1996. Efficient geometric algorithms for workpiece orientation in 4-and 5-axis NC machining.Computer-Aided Design28, 8 (1996), 577--587.",
+                "DOI": "10.1016/0010-4485(95)00071-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-23",
+                "unstructured": "Steffen Hauth and Lars Linsen. 2012. Double-spiral tool path in configuration space.The International Journal of Advanced Manufacturing Technology54, 9 (2012), 1011--1022."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-24",
+                "unstructured": "Manjuri Hazarika, Uday Shanker Dixit, et al. 2015.Setup planning for machining.Springer.",
+                "DOI": "10.1007/978-3-319-13320-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-25",
+                "unstructured": "Martin Held and Christian Spielberger. 2014. Improved Spiral High-Speed Machining of Multiply-Connected Pockets.Computer-Aided Design and Applications11, 3 (2014), 346--357.",
+                "DOI": "10.1080/16864360.2014.863508",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-26",
+                "unstructured": "Philipp Herholz, Wojciech Matusik, and Marc Alexa. 2015. Approximating Free-form Geometry with Height Fields for Manufacturing.Computer Graphics Forum (Eurographics)34, 2 (2015), 239--251."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-27",
+                "unstructured": "Kristian Hildebrand, Bernd Bickel, and Marc Alexa. 2013. Orthogonal slicing for additive manufacturing.Computers &#38; Graphics37, 6 (2013), 669 -- 675. Shape Model. Intl. (SMI) Conf.",
+                "DOI": "10.1016/j.cag.2013.05.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-28",
+                "unstructured": "Ruizhen Hu, Honghua Li, Hao Zhang, and Daniel Cohen-Or. 2014. Approximate Pyramidal Shape Decomposition.ACM Trans. on Graph33, 6 (2014), 213:1--213:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-29",
+                "unstructured": "Ralph L Keeney and Howard Raiffa. 1993.Decisions with multiple objectives: preferences and value trade-offs.Cambridge university press.",
+                "DOI": "10.1017/CBO9781139174084",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-30",
+                "unstructured": "Su Jin Kim, Dong Yoon Lee, Hyun Chul Kim, Sung Gun Lee, and Min Yang Yang. 2006. CL surface deformation approach for a 5-axis tool path generation.International Journal of Advanced Manufacturing Technology28, 5--6 (2006), 509--517."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-31",
+                "unstructured": "Yuki Koyama, Shinjiro Sueda, Emma Steinhardt, Takeo Igarashi, Ariel Shamir, and Wojciech Matusik. 2015. AutoConnect: Computational Design of 3D-printable Connectors.ACM Trans. on Graph34, 6, Article 231 (2015), 231:1--231:11 pages.",
+                "DOI": "10.1145/2816795.2818060",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-32",
+                "unstructured": "Ali Lasemi, Deyi Xue, and Peihua Gu. 2010. Recent development in CNC machining of freeform surfaces: A state-of-the-art review.Computer-Aided Design42, 7 (2010), 641--654.",
+                "DOI": "10.1016/j.cad.2010.04.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-33",
+                "unstructured": "Yunjin Lee and Seungyong Lee. 2002. Geometric Snakes for Triangular Meshes.Computer Graphics Forum21, 3 (2002), 229--238.",
+                "DOI": "10.1111/1467-8659.t01-1-00582",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-34",
+                "unstructured": "Lin Lu, Andrei Sharf, Haisen Zhao, Yuan Wei, Qingnan Fan, Xuelin Chen, Yann Savoye, Changhe Tu, Daniel Cohen-Or, and Baoquan Chen. 2014. Build-to-Last: Strength to Weight 3D Printed Objects.ACM Trans. on Graph33, 4 (2014), 97:1--97:10.",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-35",
+                "unstructured": "Linjie Luo, Ilya Baran, Szymon Rusinkiewicz, and Wojciech Matusik. 2012. Chopper: Partitioning Models into 3D-Printable Parts.ACM Trans. on Graph31, 6 (2012), 129:1--129:9.",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-36",
+                "unstructured": "Debananda Misra, V Sundararajan, and Paul K Wright. 2005. Zig-zag tool path generation for sculptured surface finishing. InGeometric and algorithmic aspects of computer-aided design and manufacturing: DIMACS workshop computer aided design and manufacturing, Vol. 67. 265."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-37",
+                "unstructured": "Sang C Park, Chang Y C, and Byoung Kyu Choi. 2003. Contour-parallel offset machining without tool-retractions.Computer-Aided Design35, 9 (2003), 841--849."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-38",
+                "unstructured": "Helmut Pottmann, Johannes Wallner, Qi-Xing Huang, and Yong-Liang Yang. 2009. Integral invariants for robust geometry processing.Comp. Aided Geom. Design26, 1 (2009), 37--60.",
+                "DOI": "10.1016/j.cagd.2008.01.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-39",
+                "unstructured": "Romain Pr&#233;vost, Emily Whiting, Sylvain Lefebvre, and Olga Sorkine-Hornung. 2013. Make It Stand: Balancing Shapes for 3D Fabrication.ACM Trans. on Graph32, 4 (2013), 81:1--81:10.",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-40",
+                "unstructured": "Fei Ren, Yuwen Sun, and Dongming Guo. 2009. Combined reparameterization-based spiral toolpath generation for five-axis sculptured surface machining.Int. J. of Adv. Manufac. Tech.40, 7 (2009), 760--768.",
+                "DOI": "10.1007/s00170-008-1385-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-41",
+                "unstructured": "Ariel Shamir. 2008. A survey on Mesh Segmentation Techniques.Computer Graphics Forum27, 6 (2008), 1539--1556.",
+                "DOI": "10.1111/j.1467-8659.2007.01103.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-42",
+                "unstructured": "Siemens. 2016. NX Software. http://www.plm.automation.siemens.com/en_us/products/nx/index.shtml. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-43",
+                "unstructured": "Ondrej Stava, Juraj Vanek, Bedrich Benes, Nathan Carr, and Radomir M&#283;ch. 2012. Stress relief: improving structural strength of 3D printable objects.ACM Tran. on Graph31, 4 (2012), 48:1--48:11.",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-44",
+                "unstructured": "Y-J Tseng and SB Joshi. 1998. Recognition of interacting rotational and prismatic machining features from 3D mill-turn parts.International Journal of Production Research36, 11 (1998), 3147--3165.",
+                "DOI": "10.1080/002075498192346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-45",
+                "unstructured": "Yu Wang, Kai-Min Yu, and Charlie CL Wang. 2015. Spiral and conformal cooling in plastic injection molding.Computer-Aided Design63 (2015), 1--11.",
+                "DOI": "10.1016/j.cad.2014.11.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-46",
+                "unstructured": "Nuo Xu, Samuel H Huang, and Y Kevin Rong. 2007. Automatic setup planning: current state-of-the-art and future perspective.International journal of manufacturing technology and management11, 2 (2007), 193--208.",
+                "DOI": "10.1504/IJMTM.2007.013191",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-47",
+                "unstructured": "Y Yang, HT Loh, JYH Fuh, and YG Wang. 2002. Equidistant path generation for improving scanning efficiency in layered manufacturing.Rapid Prototyping Journal8, 1 (2002), 30--37.",
+                "DOI": "10.1108/13552540210413284",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-48",
+                "unstructured": "Haisen Zhao, Fanglin Gu, Qi-Xing Huang, Jorge Garcia, Hao Zhang, Daniel Cohen-Or, Yong Chen, Changhe Tu, and Baoquan Chen. 2016. Connected Fermat Spirals for Layered Fabrication.ACM Trans. on Graph35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-49",
+                "unstructured": "J. Zhao, B. Zhong, and Q. Zou. 2013. Tool orientation planning for five-axis CNC machining of open free-form surfaces.Journal of Systems Science and Complexity26, 5 (2013), 667--675.",
+                "DOI": "10.1007/s11424-013-3173-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-50",
+                "unstructured": "Bo Zhou, Jibin Zhao, Lun Li, and Renbo Xia. 2016. A smooth double spiral tool path generation and linking method for high-speed machining of multiply-connected pockets.Precision Engineering(2016).",
+                "DOI": "10.1016/j.precisioneng.2016.03.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201338-51",
+                "unstructured": "Qiang Zoua, Juyong Zhanga, Bailin Deng, and Jibin Zhao. 2014. Iso-level tool path planning for free-form surfaces.Computer-Aided Design53 (2014), 217--225.",
+                "DOI": "10.1016/j.cad.2014.04.006",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201338&ftid=1991635&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:32Z",
+            "timestamp": 1571673452000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "decompose-and-spiral-carve for subtractive manufacturing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201338",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

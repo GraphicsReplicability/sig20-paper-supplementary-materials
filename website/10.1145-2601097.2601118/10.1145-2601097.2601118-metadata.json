@@ -1,0 +1,338 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T22:03:13Z",
+            "timestamp": 1579298593955
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601118",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 66,
+        "title": [
+            "Pixie dust"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yoichi",
+                "family": "Ochiai",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Takayuki",
+                "family": "Hoshi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jun",
+                "family": "Rekimoto",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601118-1",
+                "unstructured": "Barnum, P. C., Narasimhan, S. G., and Kanade, T. 2010. A multi-layered display with water drops.ACM Trans. Graph. 29, 4 (July), 76:1--76:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-2",
+                "unstructured": "Brandt, E. H. 1989. Levitation in physics.Science 243, 4889, 349--55.",
+                "DOI": "10.1126/science.243.4889.349",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-3",
+                "unstructured": "Carter, T., Seah, S. A., Long, B., Drinkwater, B., and Subramanian, S. 2013. Ultrahaptics: Multi-point mid-air haptic feedback for touch surfaces. InProceedings of the 26th Annual ACM Symposium on User Interface Software and Technology, ACM, New York, NY, USA, UIST '13, 505--514."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-4",
+                "unstructured": "Cossairt, O., Napoli, J., Hill, S., Dorval, R., and Favalora, G. 2007. Occlusion-capable multiview volumetric three-dimensional display.Applied Optics 46, 8, 1244--1250.",
+                "DOI": "10.1364/AO.46.001244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-5",
+                "unstructured": "Follmer, S., Leithinger, D., Olwal, A., Hogge, A., and Ishii, H. 2013. inform: Dynamic physical affordances and constraints through shape and object actuation. InProceedings of the 26th Annual ACM Symposium on User Interface Software and Technology, ACM, New York, NY, USA, UIST '13, 417--426."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-6",
+                "unstructured": "Foresti, D., Nabavi, M., Klingauf, M., Ferrari, A., and Poulikakos, D. 2013. Acoustophoretic contactless transport and handling of matter in air.Proceedings of the National Academy of Sciences.",
+                "DOI": "10.1073/pnas.1301860110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-7",
+                "unstructured": "Goldstein, S. C., Campbell, J. D., and Mowry, T. C. 2005. Programmable matter.IEEE Computer 38, 6 (June), 99--101."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-8",
+                "unstructured": "Gor'kov, L. P. 1962. On the forces acting on a small particle in an acoustical field in an ideal fluid.Soviet Physics Doklady 6, 773--775."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-9",
+                "unstructured": "Heiner, J. M., Hudson, S. E., and Tanaka, K. 1999. The information percolator: Ambient information display in a decorative object. InProceedings of the 12th Annual ACM Symposium on User Interface Software and Technology, ACM, New York, NY, USA, UIST '99, 141--148."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-10",
+                "unstructured": "Hoshi, T., Takahashi, M., Iwamoto, T., and Shinoda, H. 2010. Noncontact tactile display based on radiation pressure of airborne ultrasound.IEEE Transactions on Haptics 3, 3, 155--165.",
+                "DOI": "10.1109/TOH.2010.4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-11",
+                "unstructured": "Hoshi, T. 2012. Compact ultrasound device for noncontact interaction. InAdvances in Computer Entertainment, Springer, A. Nijholt, T. Romao, and D. Reidsma, Eds., vol. 7624 ofLecture Notes in Computer Science, 502--505."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-12",
+                "unstructured": "Ishii, H., and Ullmer, B. 1997. Tangible bits: Towards seamless interfaces between people, bits and atoms. InProceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA, CHI '97, 234--241."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-13",
+                "unstructured": "Ishii, H., Lakatos, D., Bonanni, L., and Labrune, J.-B. 2012. Radical atoms: Beyond tangible bits, toward transformable materials.interactions 19, 1 (Jan.), 38--51."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-14",
+                "unstructured": "Iwaki, S., Morimasa, H., Noritsugu, T., and Kobayashi, M. 2011. Contactless manipulation of an object on a plane surface using multiple air jets. InICRA, IEEE, 3257--3262."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-15",
+                "unstructured": "Iwata, H., Yano, H., Nakaizumi, F., and Kawamura, R. 2001. Project feelex: Adding haptic surface to graphics. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '01, 469--476."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-16",
+                "unstructured": "Jones, A., McDowall, I., Yamada, H., Bolas, M., and Debevec, P. 2007. Rendering for an interactive 360&#176; light field display.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-17",
+                "unstructured": "Kimura, H., Asano, A., Fujishiro, I., Nakatani, A., and Watanabe, H. 2011. True 3d display. InACM SIGGRAPH 2011 Emerging Technologies, ACM, New York, NY, USA, SIGGRAPH '11, 20:1--20:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-18",
+                "unstructured": "Kono, M., Kakehi, Y., and Hoshi, T., 2013. lapillus bug. SIGGRAPH Asia 2013 Art Gallery.",
+                "DOI": "10.1145/2663806.2663850",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-19",
+                "unstructured": "Kozuka, T., Yasui, K., Tuziuti, T., Towata, A., and Iida, Y. 2007. Noncontact acoustic manipulation in air.Japanese Journal of Applied Physics 46, 7S, 4948."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-20",
+                "unstructured": "Landis, H., 2013. Spaxels. Ars Electronica 2013."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-21",
+                "unstructured": "Lee, C., DiVerdi, S., and Hollerer, T. 2009. Depth-fused 3d imagery on an immaterial display.IEEE Trans. Vis. Comput. Graph. 15, 1, 20--33.",
+                "DOI": "10.1109/TVCG.2008.83",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-22",
+                "unstructured": "Lee, J., Post, R., and Ishii, H. 2011. Zeron: Mid-air tangible interaction enabled by computer controlled magnetic levitation. InProceedings of the 24th Annual ACM Symposium on User Interface Software and Technology, ACM, New York, NY, USA, UIST '11, 327--336."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-23",
+                "unstructured": "Marshall, M., Carter, T., Alexander, J., and Subramanian, S. 2012. Ultra-tangibles: Creating movable tangible objects on interactive tables. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA, CHI '12, 2185--2188."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-24",
+                "unstructured": "Nakamura, M., Inaba, G., Tamaoki, J., Shiratori, K., and Hoshino, J. 2006. Mounting and application of bubble display system: Bubble cosmos. InProceedings of the 2006 ACM SIGCHI International Conference on Advances in Computer Entertainment Technology, ACM, New York, NY, USA, ACE '06."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-25",
+                "unstructured": "Nijholt, A., Giusti, L., Minuto, A., and Marti, P. 2012. Smart material interfaces: \"a material step to the future\". InProceedings of the 1st Workshop on Smart Material Interfaces: A Material Step to the Future, ACM, New York, NY, USA, SMI '12, 1:1--1:3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-26",
+                "unstructured": "Nyborg, W. L. 1967. Radiation pressure on a small rigid sphere.Journal of Acoustical Society of America 42, 947--952.",
+                "DOI": "10.1121/1.1910702",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-27",
+                "unstructured": "Ochiai, Y., Hoshi, T., Oyama, A., and Rekimoto, J. 2013. Poppable display: A display that enables popping, breaking, and tearing interactions with people. InConsumer Electronics (GCCE), 2013 IEEE 2nd Global Conference on, 124--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-28",
+                "unstructured": "Ochiai, Y., Hoshi, T., and Rekimoto, J. 2014. Three-dimensional mid-air acoustic manipulation by ultrasonic phased arrays.PLoS ONE 9, 5, e97590."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-29",
+                "unstructured": "Perlin, K., and HAN, J., 2006. Volumetric display with dust as the participating medium, Feb. 14. US Patent 6,997,558."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-30",
+                "unstructured": "Poupyrev, I., Nashida, T., Maruyama, S., Rekimoto, J., and Yamaji, Y. 2004. Lumen: Interactive visual and shape display for calm computing. InACM SIGGRAPH 2004 Emerging Technologies, ACM, New York, NY, USA, SIGGRAPH '04, 17--.",
+                "DOI": "10.1145/1186155.1186173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-31",
+                "unstructured": "Poupyrev, I., Nashida, T., and Okabe, M. 2007. Actuation and tangible user interfaces: the vaucanson duck, robots, and shape displays. InTangible and Embedded Interaction, ACM, B. Ullmer and A. Schmidt, Eds., 205--212."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-32",
+                "unstructured": "Rakkolainen, I., DiVerdi, S., Olwal, A., Candussi, N., H&#252;llerer, T., Laitinen, M., Piirto, M., and Palovuori, K. 2005. The interactive fogscreen. InACM SIGGRAPH 2005 Emerging Technologies, ACM, New York, NY, USA, SIGGRAPH '05."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-33",
+                "unstructured": "Sodhi, R., Poupyrev, I., Glisson, M., and Israr, A. 2013. Aireal: Interactive tactile experiences in free air.ACM Trans. Graph. 32, 4 (July), 134:1--134:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-34",
+                "unstructured": "TOCHKA. Tochka. http://tochka.jp/ Last accessed on 30 April 2013."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-35",
+                "unstructured": "Weber, R., Benmore, C., Tumber, S., Tailor, A., Rey, C., Taylor, L., and Byrn, S. 2012. Acoustic levitation: recent developments and emerging opportunities in biomaterials research.European Biophysics Journal 41, 4, 397--403.",
+                "DOI": "10.1007/s00249-011-0767-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-36",
+                "unstructured": "Wetzstein, G., Lanman, D., Heidrich, W., and Raskar, R. 2011. Layered 3d: Tomographic image synthesis for attenuation-based light field and high dynamic range displays.ACM Trans. Graph. 30, 4 (July), 95:1--95:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-37",
+                "unstructured": "Whymark, R. 1975. Acoustic field positioning for containerless processing.Ultrasonics 13, 6, 251--261.",
+                "DOI": "10.1016/0041-624X(75)90072-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601118-38",
+                "unstructured": "Xie, W. J., Cao, C. D., Lu, Y., Hong, Z. Y., and Wei, B. 2006. Acoustic method for levitation of small living animals.Applied Physics Letters 89, 21 (Nov), 214102-214102-3."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601118&amp;ftid=1488893&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:07Z",
+            "timestamp": 1565663707000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "graphics generated by levitated and animated objects in computational acoustic-potential field"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601118",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

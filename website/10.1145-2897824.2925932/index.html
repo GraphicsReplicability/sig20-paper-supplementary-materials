@@ -1,0 +1,125 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Fitting Procedural Yarn Models for Realistic Cloth Rendering <i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Shuang <span class="family">Zhao</span></li>
+<li> Fujun <span class="family">Luan</span></li>
+<li> Kavita <span class="family">Bala</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925932">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.cs.cornell.edu/~kb/publications/SIG16ProceduralYarn.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://www.cs.cornell.edu/projects/ctcloth/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://www.cs.cornell.edu/~kb/projects/ctcloth/code_data_v2.zip">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925932-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925932-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 3</li>
+<li><span class="family">License</span>: custom</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..), Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries, Paywall Closed source software or libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 0</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   29</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>The program comes with microCT scans and a window executable, which also launches matlab code. To be able to recompile the code with Visual Studio 2017, you need a number of steps :
+
+- MicroCT.cpp, line 1270, replace :
+ std:vector<float> ellipse_s_vec(loopNum), ellipse_l_vec(loopNum), yarn_radius_vec(loopNum);
+by
+std::vector<float> ellipse_s_vec(loopNum), ellipse_l_vec(loopNum), yarn_radius_vec(loopNum);
+(note the :: instead of : )
+
+- Util.h, line 99, remove the round function.
+
+- add the preprocessor directive _CRT_SECURE_NO_WARNINGS
+
+* The provided precompiled OpenCV was causing issues ; perhaps it had been compiled in 32 bits (?). I used a fresh OpenCV install instead, which led to a couple of additional edits :
+
+- in MicroCT.h, replace the opencv includes 
+#include "opencv/include/opencv/cv.h"
+#include "opencv/include/opencv/highgui.h"
+#include "opencv/include/opencv2/opencv.hpp"
+by
+#include <opencv2/highgui.hpp>
+#include "opencv2/opencv.hpp"
+#include <opencv2/core/types_c.h>
+#include <opencv2/highgui/highgui_c.h>
+
+-replace opencv_core249.lib;opencv_highgui249.lib;opencv_features2d249.lib;opencv_imgproc249.lib; by opencv_world420.lib in the project linked libraries.
+
+- in MicroCT.cpp, line 784, replace 
+	ellipse(Mat(displayImg), Point(C1.x, C1.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(1.f, 0.f, 0.f));
+	ellipse(Mat(displayImg), Point(C2.x, C2.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(0.f, 1.f, 0.f));
+by
+	ellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(1.f, 0.f, 0.f));
+	ellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(l, s), (double)rot_angle, 0, 360, Scalar(0.f, 1.f, 0.f));
+
+- in MicroCT.cpp, line 818, replace cv::Mat mat = cv::Mat(img, true); by cv::Mat mat = cv::cvarrToMat(img, true);
+
+- in MicroCT.cpp, line 1422, replace:
+	ellipse(Mat(displayImg), Point(C1.x, C1.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(Mat(displayImg), Point(C2.x, C2.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));
+by
+	ellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(cvEL, cvES), (double)rot_angle, 0, 360, Scalar(1.f, 1.f, 1.f));
+
+- in MicroCT.cpp, line 1610, replace
+	ellipse(Mat(displayImg), Point(C1.x, C1.y), Size(e_l, e_s), (double)rot1, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(Mat(displayImg), Point(C2.x, C2.y), Size(e_l, e_s), (double)rot2, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(Mat(displayImg), Point(C3.x, C3.y), Size(e_l, e_s), (double)rot3, 0, 360, Scalar(1.f, 1.f, 1.f));
+to
+	ellipse(cv::cvarrToMat(displayImg), Point(C1.x, C1.y), Size(e_l, e_s), (double)rot1, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(cv::cvarrToMat(displayImg), Point(C2.x, C2.y), Size(e_l, e_s), (double)rot2, 0, 360, Scalar(1.f, 1.f, 1.f));
+	ellipse(cv::cvarrToMat(displayImg), Point(C3.x, C3.y), Size(e_l, e_s), (double)rot3, 0, 360, Scalar(1.f, 1.f, 1.f));
+
+* Ultimately, the code runs. I didn't have to change my matlab settings as proposed (in fact, I do not have the option 'Location based on Matlab startup rules' but only 'Last working folder from previous Matlab session').
+However, the code only produces text files that contain strands. I do not know how to render this .txt in Mitsuba, but it was easy to grasp the file structure and code a loader in my own path tracer (though with circular cross section for simplicity instead of elliptical as suggested in Algorithm 1). The file merely contains the number of fibers, and then, for each fiber, the number of segments, for each segment the X, Y, Z coordinates.
+
+Nevertheless, the paper mentions a modified Mitsuba to be able to make the renderings, and the paper shows (impressive) renderings of fabrics, not just strands... Also, which reflectance model was used to render the fibers ?</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [4,4,4,5,3]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br><br><h2>Misc. comments</h2>
+<pre>Most of the time was spent in trying to visualize the results ; here, coding my own loader and renderer.</pre><br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

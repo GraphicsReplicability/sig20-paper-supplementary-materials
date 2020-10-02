@@ -1,0 +1,494 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    16
+                ]
+            ],
+            "date-time": "2020-01-16T01:23:20Z",
+            "timestamp": 1579137800286
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF 1717320, DMS 1516677"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201367",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-17",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Optimal cone singularities for conformal flattening"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yousuf",
+                "family": "Soliman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Dejan",
+                "family": "Slep\u010dev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201367-1",
+                "unstructured": "Noam Aigerman, Shahar Z. Kovalsky, and Yaron Lipman. 2017. Spherical Orbifold Tutte Embeddings.ACM Trans. Graph.36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073615",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-2",
+                "unstructured": "Noam Aigerman and Yaron Lipman. 2015. Orbifold Tutte Embeddings.ACM Trans. Graph.34, 6 (2015).",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-3",
+                "unstructured": "Noam Aigerman and Yaron Lipman. 2016. Hyperbolic Orbifold Tutte Embeddings.ACM Trans. Graph.35, 6 (2016).",
+                "DOI": "10.1145/2980179.2982412",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-4",
+                "unstructured": "Luigi Ambrosio, Edoardo Mainini, and Sylvia Serfaty. 2011. Gradient flow of the Chapman-Rubinstein-Schatzman model for signed vortices. InAnnales de l'Institut Henri Poincare Non Linear Analysis, Vol. 28.",
+                "DOI": "10.1016/j.anihpc.2010.11.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-5",
+                "unstructured": "Thierry Aubin. 1998.Some nonlinear problems in Riemannian geometry.Springer Science &#38; Business Media.",
+                "DOI": "10.1007/978-3-662-13006-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-6",
+                "unstructured": "Heinz H Bauschke and Patrick L Combettes. 2017.Convex Analysis and Monotone Operator Theory in Hubert Spaces.Springer.",
+                "DOI": "10.1007/978-3-319-48311-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-7",
+                "unstructured": "Mirela Ben-Chen, Craig Gotsman, and Guy Bunin. 2008. Conformal flattening by curvature prescription and metric scaling. InComputer Graphics Forum, Vol. 27. 449--458.",
+                "DOI": "10.1111/j.1467-8659.2008.01142.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-8",
+                "unstructured": "David Bommes, Marcel Campen, Hans-Christian Ebke, Pierre Alliez, and Leif Kobbelt. 2013a. Integer-grid Maps for Reliable Quad Meshing.ACM Trans. Graph.32, 4 (2013).",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-9",
+                "unstructured": "David Bommes, Bruno L&#233;vy, Nico Pietroni, Enrico Puppo, Claudio Silva, Marco Tarini, and Denis Zorin. 2013b. Quad-Mesh Generation and Processing. (2013).",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-10",
+                "unstructured": "Haim Brezis. 2010.Functional analysis, Sobolev spaces and partial differential equations.Springer Science &#38; Business Media.",
+                "DOI": "10.1007/978-0-387-70914-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-11",
+                "unstructured": "Eduardo Casas, Christian Clason, and Karl Kunisch. 2012. Approximation of elliptic control problems in measure spaces with sparse solutions.SIAM Journal on Control and Optimization50, 4 (2012).",
+                "DOI": "10.1137/110843216",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-12",
+                "unstructured": "Isaac Chao, Ulrich Pinkall, Patrick Sanan, and Peter Schr&#246;der. 2010. A Simple Geometric Model for Elastic Deformations.ACM Trans. Graph.29, 4 (2010).",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-13",
+                "unstructured": "Xiaojun Chen, Zuhair Nashed, and Liqun Qi. 2000. Smoothing methods and semismooth methods for nondifferentiable operator equations.SIAM J. Numer. Anal.38, 4 (2000).",
+                "DOI": "10.1137/S0036142999356719",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-14",
+                "unstructured": "Christian Clason and Karl Kunisch. 2012. A measure space approach to optimal source placement.Computational Optimization and Applications53, 1 (2012).",
+                "DOI": "10.1007/s10589-011-9444-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-15",
+                "unstructured": "Christian Clason and Anton Schiela. 2017. Optimal control of elliptic equations with positive measures.ESAIM: Cont., Opt. and Calc. of Var.23, 1 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-16",
+                "unstructured": "Teresa D'Aprile, Francesca De Marchis, and Isabella Ianni. 2016. Prescribed Gauss curvature problem on singular surfaces.arXiv preprint arXiv:1612.03657(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-17",
+                "unstructured": "Francesca De Marchis and Rafael L&#243;pez-Soriano. 2016. Existence and non existence results for the singular Nirenberg problem.Calculus of Variations and Partial Differential Equations55, 2 (2016).",
+                "DOI": "10.1007/s00526-016-0974-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-18",
+                "unstructured": "Manuel Del Pino and Carlos Rom&#225;n. 2015. Large conformal metrics with prescribed sign-changing Gauss curvature.Calculus of Variations and Partial Differential Equations54, 1 (2015).",
+                "DOI": "10.1007/s00526-014-0805-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-19",
+                "unstructured": "Jeff Erickson and Sariel Har-Peled. 2004. Optimally cutting a surface into a disk.Discrete &#38; Computational Geometry31, 1 (2004).",
+                "DOI": "10.1007/s00454-003-2948-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-20",
+                "unstructured": "James S. Gao, Alexander G. Huth, Mark D. Lescroart, and Jack L. Gallant. 2015. Pycortex: an interactive surface visualizer for fMRI.Front. in Neuro.9 (2015).",
+                "DOI": "10.3389/fninf.2015.00023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-21",
+                "unstructured": "Andreas G&#252;nther and Moulay Hicham Tber. 2016. A goal-oriented adaptive Moreau-Yosida algorithm for control-and state-constrained elliptic control problems.Advances in Applied Mathematics and Mechanics8, 3 (2016).",
+                "DOI": "10.4208/aamm.2014.m663",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-22",
+                "unstructured": "Lester La Verne Helms. 2009.Potential theory.Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-23",
+                "unstructured": "Heinrich Hencky. 1928. &#220;ber die Form des Elastizit&#228;tsgesetzes bei ideal elastischen Stoffen.Zeitschrift f&#252;r technische Physik9 (1928)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-24",
+                "unstructured": "M. Hinterm&#252;ller, K. Ito, and K. Kunisch. 2002. The Primal-Dual Active Set Strategy As a Semismooth Newton Method.SIAM J. on Optimization13, 3 (2002).",
+                "DOI": "10.1137/S1052623401383558",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-25",
+                "unstructured": "Michael Hinze. 2005. A Variational Discretization Concept in Control Constrained Optimization: The Linear-Quadratic Case.Comp. Opt. and Appl.30, 1 (2005).",
+                "DOI": "10.1007/s10589-005-4559-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-26",
+                "unstructured": "Kazufumi Ito and Karl Kunisch. 2003a. Semi-smooth Newton methods for state-constrained optimal control problems.Systems &#38; Control Letters50, 3 (2003).",
+                "DOI": "10.1016/S0167-6911(03)00156-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-27",
+                "unstructured": "Kazufumi Ito and Karl Kunisch. 2003b. Semi-smooth Newton methods for variational inequalities of the first kind.ESAIM: Math. Model. and Num. Anal.37, 1 (2003).",
+                "DOI": "10.1051/m2an:2003021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-28",
+                "unstructured": "Liliya Kharevych, Boris Springborn, and Peter Schr&#246;der. 2006. Discrete Conformal Mappings via Circle Patterns.ACM Trans. Graph.25, 2 (2006).",
+                "DOI": "10.1145/1138450.1138461",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-29",
+                "unstructured": "Felix Kn&#246;ppel, Keenan Crane, Ulrich Pinkall, and Peter Schr&#246;der. 2013. Globally optimal direction fields.ACM Trans. Graph.32, 4 (2013).",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-30",
+                "unstructured": "Mina Konakovic, Keenan Crane, Bailin Deng, Sofien Bouaziz, Daniel Piker, and Mark Pauly. 2016. Beyond Developable: Computational Design and Fabrication with Auxetic Materials.ACM Trans. Graph.35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-31",
+                "unstructured": "Walter Littman, Guido Stampacchia, and Hans F Weinberger. 1963. Regular points for elliptic equations with discontinuous coefficients.Annali della Scuola Normale Superiore di Pisa-Classe di Scienze17, 1--2 (1963)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-32",
+                "unstructured": "Richard MacNeal. 1949.The Solution of Partial Differential Equations by Means of Electrical Networks.Ph.D. Dissertation. California Institute of Technology."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-33",
+                "unstructured": "E. Mainini. 2012. A description of transport cost for signed measures.Journal of Mathematical Sciences181 (2012).",
+                "DOI": "10.1007/s10958-012-0718-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-34",
+                "unstructured": "Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G. Kim, and Yaron Lipman. 2017. Convolutional Neural Networks on Surfaces via Seamless Toric Covers.ACM Trans. Graph.36, 4 (2017).",
+                "DOI": "10.1145/3072959.3073616",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-35",
+                "unstructured": "Ashish Myles and Denis Zorin. 2012. Global parametrization by incremental flattening.ACM Transactions on Graphics (TOG)31, 4 (2012).",
+                "DOI": "10.1145/2185520.2185605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-36",
+                "unstructured": "Ashish Myles and Denis Zorin. 2013. Controlled-distortion constrained global parametrization.ACM Transactions on Graphics (TOG)32, 4 (2013).",
+                "DOI": "10.1145/2461912.2461970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-37",
+                "unstructured": "Herzog Roland and Kunisch Karl. 2010. Algorithms for PDE-constrained optimization.GAMM-Mitteilungen33, 2 (2010), 163--176.",
+                "DOI": "10.1002/gamm.201010013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-38",
+                "unstructured": "E.B. Saff and V. Totik. 1997.Logarithmic Potentials with External Fields.Springer Berlin Heidelberg.",
+                "DOI": "10.1007/978-3-662-03329-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-39",
+                "unstructured": "Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening.ACM Trans. Graph.37, 1 (2017).",
+                "DOI": "10.1145/3132705",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-40",
+                "unstructured": "Ryan Schmidt and Karan Singh. 2010. Meshmixer: An Interface for Rapid Mesh Composition. InACM SIGGRAPH 2010 Talks (SIGGRAPH '10).",
+                "DOI": "10.1145/1837026.1837034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-41",
+                "unstructured": "Nick Sharp and Keenan Crane. 2018. Variational Surface Cutting.ACM Trans. Graph.37, 4 (2018).",
+                "DOI": "10.1145/3197517.3201356",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-42",
+                "unstructured": "Alla Sheffer, Emil Praun, and Kenneth Rose. 2006. Mesh Parameterization Methods and Their Applications.Found. Trends. Comput. Graph. Vis.2, 2 (2006).",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-43",
+                "unstructured": "Yousuf Soliman. 2018.Conformal Cone Parameterization through Optimal Control.Master's thesis. Carnegie Mellon University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-44",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible Surface Modeling. InProc. Symp. Geom. Proc. (SGP '07)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-45",
+                "unstructured": "Boris Springborn, Peter Schr&#246;der, and Ulrich Pinkall. 2008. Conformal equivalence of triangle meshes. InACM Transactions on Graphics (TOG), Vol. 27."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-46",
+                "unstructured": "Guido Stampacchia. 1965. Le probl&#232;me de Dirichlet pour les &#233;quations elliptiques du second ordre &#224; coefficients discontinus.Ann. Inst. Fourier15, 1 (1965).",
+                "DOI": "10.5802/aif.204",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-47",
+                "unstructured": "William Thurston. 2002. The Geometry and Topology of 3-Manifolds. (2002)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-48",
+                "unstructured": "Marc Troyanov. 1989. Metrics of constant curvature on a sphere with two conical singularities.Lect. Notes Math1410 (1989).",
+                "DOI": "10.1007/BFb0086431",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-49",
+                "unstructured": "Marc Troyanov. 1991. Prescribing curvature on compact surfaces with conical singularities.Trans. Amer. Math. Soc.324, 2 (1991).",
+                "DOI": "10.1090/S0002-9947-1991-1005085-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-50",
+                "unstructured": "Alex Tsui, Devin Fenton, Phong Vuong, Joel Hass, Patrice Koehl, Nina Amenta, David Coeurjolly, Charles DeCarli, and Owen Carmichael. 2013. Globally Optimal Cortical Surface Matching With Exact Landmark Correspondence. InInformation Processing in Medical Imaging.",
+                "DOI": "10.1007/978-3-642-38868-2_41",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-51",
+                "unstructured": "M. Ulbrich. 2002.Nonsmooth Newton-like Methods for Variational Inequalities and Constrained Optimization Problems in Function Spaces, Habilitationsschrift.Fakult&#228;t f&#252;r Mathematik, Technische Universit&#228;t M&#252;nchen, Germany."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-52",
+                "unstructured": "Michael Ulbrich. 2011.Semismooth Newton Methods for Variational Inequalities and Constrained Optimization Problems in Function Spaces.Society for Industrial and Applied Mathematics, Philadelphia, PA, USA.",
+                "DOI": "10.1137/1.9781611970692",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-53",
+                "unstructured": "Amir Vaxman, Marcel Campen, Olga Diamanti, Daniele Panozzo, David Bommes, Klaus Hildebrandt, and Mirela Ben-Chen. 2016. Directional Field Synthesis, Design, and Processing.Computer Graphics Forum(2016).",
+                "DOI": "10.1145/2988458.2988478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-54",
+                "unstructured": "Ana Vintescu, Florent Dupont, Guillaume Lavou&#233;, Pooran Memari, and Julien Tierny. 2017a. Least Squares Affine Transitions for Global Parameterization. InWSCG 2017 5th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision 2017."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-55",
+                "unstructured": "Ana-Maria Vintescu, Florent Dupont, Guillaume Lavou&#233;, Pooran Memari, and Julien Tierny. 2017b. Conformal Factor Persistence for Fast Hierarchical Cone Extraction. InEurographics Short Papers."
+            },
+            {
+                "key": "key-10.1145/3197517.3201367-56",
+                "unstructured": "Eugene Zhang, Konstantin Mischaikow, and Greg Turk. 2005. Feature-based Surface Parameterization and Texture Mapping.ACM Trans. Graph.24, 1 (2005).",
+                "DOI": "10.1145/1037957.1037958",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201367&ftid=1991683&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:53:47Z",
+            "timestamp": 1571673227000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201367",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

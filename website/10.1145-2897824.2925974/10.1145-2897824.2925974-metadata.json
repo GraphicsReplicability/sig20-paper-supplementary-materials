@@ -1,0 +1,354 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    18
+                ]
+            ],
+            "date-time": "2020-01-18T02:23:16Z",
+            "timestamp": 1579314196777
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925974",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 147,
+        "title": [
+            "Let there be color!"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Satoshi",
+                "family": "Iizuka",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Edgar",
+                "family": "Simo-Serra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hiroshi",
+                "family": "Ishikawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925974-1",
+                "unstructured": "An, X., and Pellacini, F. 2008. AppProp: All-pairs appearance-space edit propagation.ACM Trans. Graph. 27, 3 (Aug.), 40:1--40:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-2",
+                "unstructured": "Bell, S., and Bala, K. 2015. Learning visual similarity for product design with convolutional neural networks.ACM Trans. on Graphics (SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-3",
+                "unstructured": "Bromley, J., Guyon, I., Lecun, Y., S&#228;ckinger, E., and Shah, R. 1994. Signature verification using a \"siamese\" time delay neural network. InNIPS.",
+                "DOI": "10.1142/9789812797926_0003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-4",
+                "unstructured": "Charpiat, G., Hofmann, M., and Sch&#246;lkopf, B. 2008. Automatic image colorization via multimodal predictions. InECCV.",
+                "DOI": "10.1007/978-3-540-88690-7_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-5",
+                "unstructured": "Chen, X., Zou, D., Zhao, Q., and Tan, P. 2012. Manifold preserving edit propagation.ACM Trans. Graph. 31, 6 (Nov.), 132:1--132:7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-6",
+                "unstructured": "Cheng, Z., Yang, Q., and Sheng, B. 2015. Deep colorization. InProceedings of ICCV 2015, 29--43."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-7",
+                "unstructured": "Chia, A. Y.-S., Zhuo, S., Gupta, R. K., Tai, Y.-W., Cho, S.-Y., Tan, P., and Lin, S. 2011. Semantic colorization with internet images.ACM Trans. Graph. 30, 6, 156:1--156:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-8",
+                "unstructured": "Dong, C., Loy, C. C., He, K., and Tang, X. 2016. Image super-resolution using deep convolutional networks.PAMI 38, 2, 295--307."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-9",
+                "unstructured": "Eigen, D., and Fergus, R. 2015. Predicting depth, surface normals and semantic labels with a common multi-scale convolutional architecture. InICCV.",
+                "DOI": "10.1109/ICCV.2015.304",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-10",
+                "unstructured": "Fischer, P., Dosovitskiy, A., Ilg, E., H&#228;usser, P., Hazirbas, C., Golkov, V., van der Smagt, P., Cremers, D., and Brox, T. 2015. Flownet: Learning optical flow with convolutional networks.",
+                "DOI": "10.1109/ICCV.2015.316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-11",
+                "unstructured": "Fukushima, K. 1988. Neocognitron: A hierarchical neural network capable of visual pattern recognition.Neural networks 1, 2, 119--130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-12",
+                "unstructured": "Gupta, R. K., Chia, A. Y.-S., Rajan, D., Ng, E. S., and Zhiyong, H. 2012. Image colorization using similar images. InACM International Conference on Multimedia, 369--378."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-13",
+                "unstructured": "Huang, Y.-C., Tung, Y.-S., Chen, J.-C., Wang, S.-W., and Wu, J.-L. 2005. An adaptive edge detection based colorization algorithm and its applications. InACM International Conference on Multimedia, 351--354."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-14",
+                "unstructured": "Ioffe, S., and Szegedy, C. 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. InICML."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-15",
+                "unstructured": "Irony, R., Cohen-Or, D., and Lischinski, D. 2005. Colorization by example. InEurographics Conference on Rendering Techniques, 201--210."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-16",
+                "unstructured": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. 2012. Imagenet classification with deep convolutional neural networks. InNIPS."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-17",
+                "unstructured": "LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. 1998. Gradient-based learning applied to document recognition.Proceedings of the IEEE 86, 11, 2278--2324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-18",
+                "unstructured": "Levin, A., Lischinski, D., and Weiss, Y. 2004. Colorization using optimization.ACM Transactions on Graphics 23, 689--694."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-19",
+                "unstructured": "Li, Y., Ju, T., and Hu, S.-M. 2010. Instant propagation of sparse edits on images and videos.Computer Graphics Forum 29, 7, 2049--2054."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-20",
+                "unstructured": "Liu, X., Wan, L., Qu, Y., Wong, T.-T., Lin, S., Leung, C.-S., and Heng, P.-A. 2008. Intrinsic colorization.ACM Transactions on Graphics (SIGGRAPH Asia 2008 issue) 27, 5 (December), 152:1--152:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-21",
+                "unstructured": "Long, J., Shelhamer, E., and Darrell, T. 2015. Fully convolutional networks for semantic segmentation. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-22",
+                "unstructured": "Luan, Q., Wen, F., Cohen-Or, D., Liang, L., Xu, Y.-Q., and Shum, H.-Y. 2007. Natural image colorization. InEurographics Conference on Rendering Techniques, 309--320."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-23",
+                "unstructured": "Piti&#233;, F., Kokaram, A. C., and Dahyot, R. 2007. Automated colour grading using colour distribution transfer.Comput. Vis. Image Underst. 107, 1--2 (July), 123--137."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-24",
+                "unstructured": "Qu, Y., Wong, T.-T., and Heng, P.-A. 2006. Manga colorization.ACM Trans. Graph. 25, 3 (July), 1214--1220."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-25",
+                "unstructured": "Reinhard, E., Ashikhmin, M., Gooch, B., and Shirley, P. 2001. Color transfer between images.IEEE Computer Graphics and Applications 21, 5 (sep), 34--41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-26",
+                "unstructured": "Rumelhart, D., Hinton, G., and Williams, R. 1986. Learning representations by back-propagating errors. InNature.",
+                "DOI": "10.1038/323533a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-27",
+                "unstructured": "Shen, W., Wang, X., Wang, Y., Bai, X., and Zhang, Z. 2015. Deepcontour: A deep convolutional feature learned by positive-sharing loss for contour detection. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-28",
+                "unstructured": "Simonyan, K., and Zisserman, A. 2015. Very deep convolutional networks for large-scale image recognition. InICLR."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-29",
+                "unstructured": "Springenberg, J. T., Dosovitskiy, A., Brox, T., and Riedmiller, M. A. 2015. Striving for simplicity: The all convolutional net. InICLR Workshop Track."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-30",
+                "unstructured": "S&#253;kora, D., Dingliana, J., and Collins, S. 2009. Lazy-Brush: Flexible painting tool for hand-drawn cartoons.Computer Graphics Forum 28, 2, 599--608."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-31",
+                "unstructured": "Tai, Y., Jia, J., and Tang, C. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. InCVPR, 747--754."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-32",
+                "unstructured": "Wang, L., Guo, S., Huang, W., and Qiao, Y. 2015. Places205-vggnet models for scene recognition.CoRR abs/1508.01667."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-33",
+                "unstructured": "Wang, L., Lee, C., Tu, Z., and Lazebnik, S. 2015. Training deeper convolutional networks with deep supervision.CoRR abs/1505.02496."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-34",
+                "unstructured": "Wang, X., Fouhey, D. F., and Gupta, A. 2015. Designing deep networks for surface normal estimation. InCVPR.",
+                "DOI": "10.1109/CVPR.2015.7298652",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-35",
+                "unstructured": "Welsh, T., Ashikhmin, M., and Mueller, K. 2002. Transferring color to greyscale images.ACM Trans. Graph. 21, 3 (July), 277--280."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-36",
+                "unstructured": "Wu, F., Dong, W., Kong, Y., Mei, X., Paul, J.-C., and Zhang, X. 2013. Content-based colour transfer.Computer Graphics Forum 32, 1, 190--203."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-37",
+                "unstructured": "Xu, K., Li, Y., Ju, T., Hu, S.-M., and Liu, T.-Q. 2009. Efficient affinity-based edit propagation using k-d tree.ACM Trans. Graph. 28, 5 (Dec.), 118:1--118:6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-38",
+                "unstructured": "Xu, L., Yan, Q., and Jia, J. 2013. A sparse control model for image and video editing.ACM Trans. Graph. 32, 6 (Nov.), 197:1--197:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-39",
+                "unstructured": "Yatziv, L., Yatziv, L., Sapiro, G., and Sapiro, G. 2004. Fast image and video colorization using chrominance blending.IEEE Transaction on Image Processing 15, 2006."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-40",
+                "unstructured": "Zeiler, M. D. 2012. ADADELTA: an adaptive learning rate method.CoRR abs/1212.5701."
+            },
+            {
+                "key": "key-10.1145/2897824.2925974-41",
+                "unstructured": "Zhou, B., Lapedriza, A., Xiao, J., Torralba, A., and Oliva, A. 2014. Learning deep features for scene recognition using places database. InNIPS."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925974&amp;ftid=1755900&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:58Z",
+            "timestamp": 1568162818000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925974",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

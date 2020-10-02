@@ -1,0 +1,87 @@
+{
+    "Timestamp": "1/22/2020 1:49:42",
+    "Title": "Gaussian material synthesis",
+    "DOI": "10.1145/3197517.3201307",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://arxiv.org/abs/1804.08369",
+    "code URL": "https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2018/04/gms-supplementary.zip",
+    "code URL  2": "",
+    "PDF URL": "https://users.cg.tuwien.ac.at/~zsolnai/wp/wp-content/uploads/2018/04/gms.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "MIT",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Gaussian processes",
+    "ACM 2": "Neural networks",
+    "ACM 3": "Ray tracing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "There are minor bugs that need to be fixed, that include mixes of tab and space in the Python code (l.70 and 406 of gms.py), the syntax `i+1`.zfill(4) was deemed incorrect by my Python 3.6.8 (l.512, 674 and 690 of gms.py ; replaced by str(i+1).zfill(4)). Error as well on line 20 : from sklearn.gaussian_process import GaussianProcess ; it seems sklearn has evolved and doesn't have GaussianProcess (now separated as classifier or regressor). This line can be commented out.\nThe main issue for making it run was the lack of documentation both for installing and for running the code, appart from a short readme. In practice :\nGPy is a Gaussian Process library that needs to be installed with pip (I was looking for a GPy.py in the source folder!), sklearn needs to be installed, as well as climin, keras and tensorflow. Regarding tensorflow, it needs to be sufficiently recent to have tf_utils (1.14.0 worked, but not my older install).\nAlso, Pillow needs to be installed with pip. However, the trick is that it needs to be installed *with the Python provided with Blender* and not your usual Python install !\nUltimately, I could run gms.py and nn-predict.py (which both produce images) but I could not get the Python script within material-loader.blend to run : this script merely erased all .png images of the directory (included reference.png and resolution.png needed to run gms.py and nn-predict.py), and doesn't seem to produce anything. The code within this script is obscure : for instance, the file which likely should contain the output (called \"output.txt\") is merely erased at the begining of the code if it already exists, and then never used again later in the code for writing.\nI was expecting some kind of user interface (similarly to the one shown in the paper) to navigate within the latent space of BRDFs, but I didn't see one. Since there isn't much documentation, I am not sure what I am looking at and how to use the code.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "keras / tensorflow / blender / pillow / GPy / sklearn / climin",
+    "Project URL": "https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 2,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "K\u00e1roly",
+            "family": "Zsolnai-Feh\u00e9r",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "TU Wien, Vienna, Austria"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Wonka",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "KAUST, Thuwal, Kingdom of Saudi Arabia"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Wimmer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "TU Wien, Vienna, Austria"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 10.5,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=11&types=mttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=39014597"
+}

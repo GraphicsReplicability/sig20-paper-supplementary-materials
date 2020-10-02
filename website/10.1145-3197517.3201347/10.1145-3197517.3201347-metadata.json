@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:54Z",
+            "timestamp": 1574859834952
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201347",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Shape representation by zippables"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Sch\u00fcller",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201347-1",
+                "unstructured": "N. Aigerman and Y. Lipman. 2015. Orbifold Tutte Embeddings.ACM Trans. Graph.34, 6, Article 190 (Oct. 2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-2",
+                "unstructured": "D. Barnette and E. Jucovi&#269;. 1970. Hamiltonian circuits on 3-polytopes.Journal of Combinatorial Theory9, 1 (1970), 54 -- 59.",
+                "DOI": "10.1016/S0021-9800(70)80054-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-3",
+                "unstructured": "B. Bickel, M. B&#228;cher, M. A. Otaduy, H. R. Lee, H. Pfister, M. Gross, and W. Matusik. 2010. Design and Fabrication of Materials with Desired Deformation Behavior.ACM Trans. Graph.29, 4, Article 63 (July 2010), 10 pages. https://d0i.0rg/10.1145/1778765.1778800",
+                "DOI": "10.1145/1833351.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-4",
+                "unstructured": "D. Bommes, B. L&#233;vy, N. Pietroni, E. Puppo, C. Silva, M. Tarini, and D. Zorin. 2013. Quad-Mesh Generation and Processing: A Survey.Comput. Graph. Forum32, 6 (2013), 51--76.",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-5",
+                "unstructured": "S. Chandra, A. K&#246;rner, A. Koronaki, R. Spiteri, R. Amin, S. Kowli, and M. Weinstock. 2015. Computing curved-folded tessellations through straight-folding approximation. InProc. Symposium on Simulation for Architecture &#38; Urban Design, http://dl.acm.org/citation.cfm?id=2873042"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-6",
+                "unstructured": "X. Chen, C. Zheng, W. Xu, and K. Zhou. 2014. An Asymptotic Numerical Method for Inverse Elastic Shape Design.ACM Trans. Graph.33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-7",
+                "unstructured": "D. Eppstein and M. Gopi. 2004. Single-strip triangulation of manifolds with arbitrary topology. InProc. Symp. Computational Geometry.455--456.",
+                "DOI": "10.1145/997817.997888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-8",
+                "unstructured": "A. Fondevilla, A. Bousseau, D. Rohmer, S. Hahmann, and M. Cani. 2017. Patterns from photograph: Reverse-engineering developable products.Computers &#38; Graphics66 (2017), 4--13.",
+                "DOI": "10.1016/j.cag.2017.05.017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-9",
+                "unstructured": "K. Hormann, B. L&#233;vy, and A. Sheffer. 2007. Mesh parameterization: theory and practice. InACM SIGGRAPH Courses.",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-10",
+                "unstructured": "Y. Igarashi and T. Igarashi. 2008. Pillow: Interactive Flattening of a 3D Model for Plush Toy Design. InProc. Smart Graphics.",
+                "DOI": "10.1111/j.1467-8659.2008.01318.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-11",
+                "unstructured": "Y. Igarashi, T. Igarashi, and H. Suzuki. 2009. Interactive Cover Design Considering Physical Constraints.Comput. Graph. Forum28, 7 (2009), 1965--1973.",
+                "DOI": "10.1111/j.1467-8659.2009.01575.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-12",
+                "unstructured": "D. Julius, V. Kraevoy, and A. Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation.Comput. Graph. Forum24, 3 (2005), 581--590.",
+                "DOI": "10.1111/j.1467-8659.2005.00883.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-13",
+                "unstructured": "A.Jung, S. Hahmann, D. Rohmer, A. Begault, L. Boissieux, and M. Cani. 2015. Sketching Folds: Developable Surfaces from Non-Planar Silhouettes.ACM Trans. Graph.34, 5 (2015), 155:1--155:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-14",
+                "unstructured": "F. K&#228;lberer, M. Nieser, and K. Polthier. 2011. Stripe parameterization of tubular surfaces. InTopological Methods in Data Analysis and Visualization.Springer, 13--26.",
+                "DOI": "10.1007/978-3-642-15014-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-15",
+                "unstructured": "M. Kilian, S. Fl&#246;ry, Z. Chen, N. J. Mitra, A. Sheffer, and H. Pottmann. 2008. Curved folding.ACM Trans. Graph.27, 3 (2008).",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-16",
+                "unstructured": "F. Kn&#246;ppel, K. Crane, U. Pinkall, and P. Schr&#246;der. 2015. Stripe patterns on surfaces.ACM Trans. Graph.34, 4 (2015).",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-17",
+                "unstructured": "S. Kolmiani&#269; and N. Guid. 2002. From Geometric Modeling to Shape Modeling. InProc. Workshop on Geometric Modeling: Fundamentals and Applications.35--46. http://dl.acm.org/citation.cfm?id=512296.512302",
+                "DOI": "10.1007/978-0-387-35495-8_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-18",
+                "unstructured": "S. Z. Kovalsky, M. Galun, and Y. Lipman. 2016. Accelerated quadratic proxy for geometric optimization.ACM Trans. Graph.35, 4 (2016), 134.",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-19",
+                "unstructured": "Y. Liu, Y. Lai, and S. M. Hu. 2009. Stripification of Free-Form Surfaces With Global Error Bounds for Developable Approximation.IEEE Trans. Automation Science and Engineering6, 4 (2009), 700--709.",
+                "DOI": "10.1109/TASE.2008.2009926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-20",
+                "unstructured": "M. Livesu, M. Attene, G. Patan&#232;, and M. Spagnuolo. 2017. Explicit cylindrical maps for general tubular shapes.Computer-Aided Design(2017). Accepted for publication.",
+                "DOI": "10.1016/j.cad.2017.05.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-21",
+                "unstructured": "A. Lubiw, E. D. Demaine, M. L. Demaine, A. Shallit, and J. Shallit. 2010. Zipper unfoldings of polyhedral complexes. InProceedings of the 22nd Annual Canadian Conference on Computational Geometry, Winnipeg, Manitoba, Canada, August 9--11, 2010.219--222. http://cccg.ca/proceedings/2010/paper58.pdf"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-22",
+                "unstructured": "A. Mahdavi-Amiri, P. Whittingham, and F. Samavati. 2015. Cover-it: an interactive system for covering 3D prints. InProc. Graphics Interface.73--80."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-23",
+                "unstructured": "T. Martin, E. Cohen, and M. Kirby. 2008. Volumetric parameterization and trivariate b-spline fitting using harmonic functions. InProceedings of the 2008 ACM Symposium on Solid and Physical Modeling, Stony Brook, New York, USA, June 2--4, 2008.269--280.",
+                "DOI": "10.1145/1364901.1364938",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-24",
+                "unstructured": "F. Massarwi, C. Gotsman, and G. Elber. 2007. Papercraft Models using Generalized Cylinders. InProc. Pacific Graphics.",
+                "DOI": "10.1109/PG.2007.16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-25",
+                "unstructured": "J. Mitani and H. Suzuki. 2004. Making papercraft toys from meshes using strip-based approximate unfolding.ACM Trans. Graph.23, 3 (2004), 259--263.",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-26",
+                "unstructured": "Y. Mori and T. Igarashi. 2007. Plushie: an interactive design system for plush toys.ACM Trans. Graph.26, 3 (2007).",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-27",
+                "unstructured": "A. Myles and D. Zorin. 2012. Global parametrization by incremental flattening.ACM Trans. Graph.31, 4 (2012), 109:1--109:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-28",
+                "unstructured": "J. O'Rourke. 2015. Spiral Unfoldings of Convex Polyhedra.arXiv preprint arXiv:1509.00321(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-29",
+                "unstructured": "H. Pedersen. 2011. Methods for Creating Developable Surfaces. (July 14 2011). https://www.google.ch/patents/US20110169828 US Patent App. 13/005,384."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-30",
+                "unstructured": "H. Pedersen and K. Singh. 2006. Organic Labyrinths and Mazes. InProceedings of the 4th International Symposium on Non-photorealistic Animation and Rendering (NPAR '06).ACM, New York, NY, USA, 79--86.",
+                "DOI": "10.1145/1124728.1124742",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-31",
+                "unstructured": "M. Rabinovich, R. Poranne, D. Panozzo, and O. Sorkine-Hornung. 2017. Scalable Locally Injective Mappings.ACM Trans. Graph.36, 2 (2017), 16:1--16:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-32",
+                "unstructured": "N. Ray, W. Li, B. L&#233;vy, A. Sheffer, and P. Alliez. 2006. Periodic global parameterization.ACM Trans. Graph.25, 4 (2006).",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-33",
+                "unstructured": "K. Rose, A. Sheffer, J. Wither, M.-P. Cani, and B. Thibert. 2007. Developable Surfaces from Arbitrary Sketched Boundaries. InProc. Symp. Geom. Processing.163--172."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-34",
+                "unstructured": "J. Rossignac. 1999. Edgebreaker: Connectivity Compression for Triangle Meshes.IEEE Trans. Vis. Comput. Graph.5, 1 (1999), 47--61.",
+                "DOI": "10.1109/2945.764870",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-35",
+                "unstructured": "I. Shatz, A. Tal, and G. Leifman. 2006. Paper craft models from meshes.The Visual Computer22, 9--11 (2006), 825--834."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-36",
+                "unstructured": "J. R. Shewchuk. 1996. Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator. InApplied Computational Geometry: Towards Geometric Engineering.Lecture Notes in Computer Science, Vol. 1148. 203--222."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-37",
+                "unstructured": "A. Shtengel, R. Poranne, O. Sorkine-Hornung, S. Z. Kovalsky, and Y. Lipman. 2017. Geometric Optimization via Composite Majorization.ACM Trans. Graph.36, 4, Article 38 (July 2017), 11 pages.",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-38",
+                "unstructured": "M. Skouras, B. Thomaszewski, B. Bickel, and M. H. Gross. 2012. Computational Design of Rubber Balloons.Comput. Graph. Forum31, 2 (2012), 835--844.",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-39",
+                "unstructured": "M. Skouras, B. Thomaszewski, S. Coros, B. Bickel, and M. Gross. 2013. Computational design of actuated deformable characters.ACM Trans. Graph.32, 4 (2013), 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-40",
+                "unstructured": "M. Skouras, B. Thomaszewski, P. Kaufmann, A. Garg, B. Bickel, E. Grinspun, and M. H. Gross. 2014. Designing inflatable structures.ACM Trans. Graph.33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-41",
+                "unstructured": "J. Smith and S. Schaefer. 2015. Bijective Parameterization with Free Boundaries.ACM Trans. Graph.34, 4, Article 70 (2015), 9 pages.",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-42",
+                "unstructured": "R. Straub and H. Prautzsch. 2011.Creating optimized cut-out sheets for paper models from meshes.Technical Report. Karlsruhe Institute of Technology."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-43",
+                "unstructured": "S. Takahashi, H. Wu, S. H. Saw, C. Lin, and H. Yen. 2011. Optimized Topological Surgery for Unfolding 3D Meshes.Comput. Graph. Forum30, 7 (2011), 2077--2086.",
+                "DOI": "10.1111/j.1467-8659.2011.02053.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-44",
+                "unstructured": "C. Tang, P. Bo, J. Wallner, and H. Pottmann. 2016. Interactive Design of Developable Surfaces.ACM Trans. Graph.35, 2, Article 12 (2016), 12 pages.",
+                "DOI": "10.1145/2832906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-45",
+                "unstructured": "M. Tarini. 2012. Cylindrical and Toroidal Parameterizations Without Vertex Seams.J. Graphics Tools16, 3 (2012), 144--150.",
+                "DOI": "10.1080/2151237X.2012.654054",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-46",
+                "unstructured": "J. Thiery, B. Buchholz, J. Tierny, and T. Boubekeur. 2012. Analytic Curve Skeletons for 3D Surface Modeling and Processing.Comput. Graph. Forum31, 7--2 (2012), 2223--2232."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-47",
+                "unstructured": "C. C. L. Wang. 2010. From Designing Products to Fabricating Them from Planar Materials.IEEE Computer Graphics and Applications30, 6 (2010), 74--85.",
+                "DOI": "10.1109/MCG.2009.155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-48",
+                "unstructured": "L. Zeng, Y. Liu, M. Chen, and M. M. Yuen. 2012. Least squares quasi-developable mesh approximation.Computer Aided Geometric Design29, 7 (2012), 565--578.",
+                "DOI": "10.1016/j.cagd.2012.03.009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-49",
+                "unstructured": "H. Zhao, F. Gu, Q. Huang, J. A. G. Galicia, Y. Chen, C. Tu, B. Benes, H. Zhang, D. Cohen-Or, and B. Chen. 2016. Connected Fermat spirals for layered fabrication.ACM Trans. Graph.35, 4 (2016), 100:1--100:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-50",
+                "unstructured": "Y. Zhou, K. Yin, H. Huang, H. Zhang, M. Gong, and D. Cohen-Or. 2015. Generalized Cylinder Decomposition.ACM Trans. Graph.34, 6 (2015), Article 171.",
+                "DOI": "10.1145/2816795.2818074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201347-51",
+                "unstructured": "zipit. 2017. zip it store online, http://www.zipitstore.com/. (2017). Accessed: 2017-02-01."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201347&ftid=1991773&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:49:59Z",
+            "timestamp": 1571672999000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201347",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:03Z",
+            "timestamp": 1574815983821
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925875",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "ProxImaL"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University and University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "Diamond",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Nie\u00dfner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST and University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925875-1",
+                "unstructured": "Almeida, M., and Figueiredo, M. 2013. Frame-based image deblurring with unknown boundary conditions using the alternating direction method of multipliers. InProc. ICIP, 582--585."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-2",
+                "unstructured": "Attouch, H., Bolte, J., and Svaiter, B. F. 2011. Convergence of descent methods for semi-algebraic and tame problems: proximal algorithms, forward--backward splitting, and regularized Gauss--Seidel methods.Mathematical Programming 137, 1, 91--129."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-3",
+                "unstructured": "Beck, A., and Teboulle, M. 2009. A fast iterative shrinkage-thresholding algorithm for linear inverse problems.SIAM Journal on Imaging Sciences 2, 1, 183--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-4",
+                "unstructured": "Becker, S., Cand&#232;s, E., and Grant, M. 2011. Templates for convex cone problems with applications to sparse signal recovery.Mathematical Programming Computation 3, 3, 165--218."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-5",
+                "unstructured": "Bernstein, G. L., Shah, C., Lemire, C., DeVito, Z., Fisher, M., Levis, P., and Hanrahan, P. 2015. Ebb: A DSL for physical simluation on CPUs and GPUs.arXiv e-Print 1506.07577."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-6",
+                "unstructured": "Bertalmio, M., Sapiro, G., Caselles, V., and Ballester, C. 2000. Image inpainting. InProc. SIGGRAPH, 417--424."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-7",
+                "unstructured": "Boyd, S., Parikh, N., Chu, E., Peleato, B., and Eckstein, J. 2011. Distributed optimization and statistical learning via the alternating direction method of multipliers.Foundations and Trends in Machine Learning 3, 1, 1--122."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-8",
+                "unstructured": "Brooke, A., Kendrick, D., Meeraus, A., and Rosenthal, R. 1988.GAMS: A user's guide. Course Technology."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-9",
+                "unstructured": "Bruck, R. 1975. An iterative solution of a variational inequality for certain monotone operators in Hilbert space.Bulletin of the American Mathematical Society 81, 5 (Sept.), 890--892."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-10",
+                "unstructured": "Chambolle, A., and Pock, T. 2011. A first-order primal-dual algorithm for convex problems with applications to imaging.Journal of Mathematical Imaging and Vision 40, 1, 120--145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-11",
+                "unstructured": "Danielyan, A., Katkovnik, V., and Egiazarian, K. 2012. BM3D frames and variational image deblurring.IEEE Trans. Image Processing 21, 4, 1715--1728."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-12",
+                "unstructured": "Debevec, P. E., and Malik, J. 1997. Recovering high dynamic range radiance maps from photographs. InProc. ACM SIGGRAPH, 369--378."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-13",
+                "unstructured": "Diamond, S., and Boyd, S. 2015. Convex optimization with abstract linear operators. InProc. IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2015.84",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-14",
+                "unstructured": "Diamond, S., and Boyd, S. 2016. Matrix-free convex optimization modeling. InOptimization and Applications in Control and Data Sciences.Springer. To appear.",
+                "DOI": "10.1007/978-3-319-42056-1_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-15",
+                "unstructured": "Diamond, S., and Boyd, S. 2016. CVXPY: A Python-embedded modeling language for convex optimization.Journal of Machine Learning Research.To appear."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-16",
+                "unstructured": "Dupe, F.-X., Fadili, M., and Starck, J.-L. 2011. Inverse problems with Poisson noise: Primal and primal-dual splitting. InProc. ICIP.",
+                "DOI": "10.1109/ICIP.2011.6115841",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-17",
+                "unstructured": "Esser, E., Zhang, X., and Chan, T. F. 2010. A general framework for a class of first order primal-dual algorithms for convex optimization in imaging science.SIAM Journal on Imaging Sciences 3, 4, 1015--1046."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-18",
+                "unstructured": "Evangelidis, G. D., and Psarakis, E. Z. 2008. Parametric image alignment using enhanced correlation coefficient maximization.Pattern Analysis and Machine Intelligence, IEEE Transactions on 30, 10, 1858--1865."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-19",
+                "unstructured": "Fattal, R., Lischinski, D., and Werman, M. 2002. Gradient domain high dynamic range compression.In ACM Trans. Graph., vol. 21, ACM, 249--256.",
+                "DOI": "10.1145/566570.566573",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-20",
+                "unstructured": "Fergus, R., Singh, B., Hertzmann, A., Roweis, S. T., and Freeman, W. T. 2006. Removing camera shake from a single photograph.ACM Trans. Graph. 25, 3, 787--794."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-21",
+                "unstructured": "Fienup, J. R. 1982. Phase retrieval algorithms: a comparison.Applied Optics 21, 15, 2758--2769."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-22",
+                "unstructured": "Figueiredo, M., and Bioucas-Dias, J. 2010. Restoration of Poissonian images using alternating direction optimization.IEEE Trans. Image Processing 19, 12, 3133--3145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-23",
+                "unstructured": "Foley, T., and Hanrahan, P. 2011. Spark: Modular, compos-able shaders for graphics hardware.ACM Trans. Graph. (SIGGRAPH) 30, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-24",
+                "unstructured": "Fougner, C., and Boyd, S. 2015. Parameter selection and preconditioning for a graph form solver.arXiv e-Print 1503.08366."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-25",
+                "unstructured": "Geman, D., and Yang, C. 1995. Nonlinear image recovery with half-quadratic regularization.IEEE Trans. Image Processing 4,7, 932--946."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-26",
+                "unstructured": "Giselsson, P., and Boyd, S. 2014. Diagonal scaling in Douglas-Rachford splitting and ADMM. InProceedings of the 53rd IEEE Conference on Decision and Control.",
+                "DOI": "10.1109/CDC.2014.7040175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-27",
+                "unstructured": "Goldstein, T., and Osher, S. 2009. The split Bregman method for &ell;1-regularized problems.SIAM Journal on Imaging Sciences 2, 2, 323--343."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-28",
+                "unstructured": "Grant, M., and Boyd, S., 2014. CVX: MATLAB software for disciplined convex programming, version 2.1. http://cvxr.com/cvx."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-29",
+                "unstructured": "Gu, J., Hitomi, Y., Mitsunaga, T., and Nayar, S. 2010. Coded Rolling Shutter Photography: Flexible Space-Time Sampling.In Proc. IEEE ICCP.",
+                "DOI": "10.1109/ICCPHOT.2010.5585094",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-30",
+                "unstructured": "Hallac, D., Leskovec, J., and Boyd, S. 2015. Network lasso: Clustering and optimization in large graphs. InProc. ACM SIGKDD, 387--396.",
+                "DOI": "10.1145/2783258.2783313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-31",
+                "unstructured": "Heide, F., Rouf, M., Hullin, M. B., Labitzke, B., Heidrich, W., and Kolb, A. 2013. High-quality computational imaging through simple lenses.ACM Trans. Graph. 32, 5, 149."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-32",
+                "unstructured": "Heide, F., Steinberger, M., Tsai, Y.-T., Rouf, M., Pajak, D., Reddy, D., Gallo, O., Liu, J., Heidrich, W., Egiazarian, K., Kautz, J., and Pulli, K. 2014. FlexISP: A flexible camera image processing framework.ACM Trans. Graph. (SIGGRAPH Asia) 33, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-33",
+                "unstructured": "Hestenes, M., and Stiefel, E. 1952. Methods of conjugate gradients for solving linear systems.J. Res. N.B.S. 49, 6, 409--436."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-34",
+                "unstructured": "Joshi, N., Zitnick, C. L., Szeliski, R., and Kriegman, D. J. 2009. Image deblurring and denoising using color priors. InProc. IEEE CVPR, 1550--1557."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-35",
+                "unstructured": "Krishnan, D., and Fergus, R. 2009. Fast image deconvolution using hyper-Laplacian priors. InAdvances in Neural Information Processing Systems, 1033--1041."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-36",
+                "unstructured": "Krishnan, D., and Szeliski, R. 2011. Multigrid and multilevel preconditioners for computational photography.ACM Trans. Graph. 30, 6, 177."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-37",
+                "unstructured": "Kunisch, K., and Pock, T. 2013. A bilevel optimization approach for parameter learning in variational models.SIAM Journal on Imaging Sciences 6, 2, 938--983."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-38",
+                "unstructured": "Lehoucq, R., and Sorensen, D. 1996. Deflation techniques for an implicitly restarted Arnoldi iteration.SIAM Journal on Matrix Analysis and Applications 17, 4, 789--821."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-39",
+                "unstructured": "Levin, A., Lischinski, D., and Weiss, Y. 2004. Colorization using optimization. InACM Trans. Graph., vol. 23, 689--694.",
+                "DOI": "10.1145/1186562.1015780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-40",
+                "unstructured": "Levin, A., Zomet, A., Peleg, S., and Weiss, Y. 2004. Seamless image stitching in the gradient domain. InProc. ECCV.377--389.",
+                "DOI": "10.1007/978-3-540-24673-2_31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-41",
+                "unstructured": "Li, G., and Pong, T. K. 2015. Global convergence of splitting methods for nonconvex composite optimization.arXiv e-Print 1407.0753."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-42",
+                "unstructured": "Lofberg, J. 2004. YALMIP: A toolbox for modeling and optimization in MATLAB. InProc. IEEE Int. Symp. Computed Aided Control Systems Design, 294--289.",
+                "DOI": "10.1109/CACSD.2004.1393890",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-43",
+                "unstructured": "M&#246;llenhoff, T., Strekalovskiy, E., Moeller, M., and Cremers, D. 2015. The primal-dual hybrid gradient method for semiconvex splittings.SIAM Journal on Imaging Sciences 8, 2, 827--857."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-44",
+                "unstructured": "Moreau, J.-J. 1965. Proximit&#233; et dualit&#233; dans un espace hilbertien.Bulletin de la Soci&#233;t&#233; math&#233;matique de France 93, 273--299."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-45",
+                "unstructured": "Ochs, P., Chen, Y., Brox, T., and Pock, T. 2014. iPiano: Inertial proximal algorithm for nonconvex optimization.SIAM Journal on Imaging Sciences 7, 2, 1388--1419."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-46",
+                "unstructured": "O'Donoghue, B., Chu, E., Parikh, N., and Boyd, S. 2015. Operator splitting for conic optimization via homogeneous self-dual embedding.arXiv e-Print 1312.3039."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-47",
+                "unstructured": "Paige, C., and Saunders, M. 1982. LSQR: An algorithm for sparse linear equations and sparse least squares.ACM Trans. Mathematical Software 8, 1, 43--71."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-48",
+                "unstructured": "Parikh, N., and Boyd, S. 2013. Proximal algorithms.Foundations and Trends in Optimization 1, 3, 123--231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-49",
+                "unstructured": "Pock, T., and Chambolle, A. 2011. Diagonal preconditioning for first order primal-dual algorithms in convex optimization. InProceedings of the IEEE International Conference on Computer Vision, 1762--1769."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-50",
+                "unstructured": "Pock, T., Cremers, D., Bischof, H., and A. Chambolle. 2009. An algorithm for minimizing the Mumford-Shah functional. InProceedings of the IEEE International Conference on Computer Vision, 1133--1140."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-51",
+                "unstructured": "Ragan-Kelley, J., Barnes, C., Adams, A., Paris, S., Durand, F., and Amarasinghe, S. 2013. Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines.ACM SIGPLAN 48, 6, 519--530."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-52",
+                "unstructured": "Robini, M. C., and Zhu, Y. 2015. Generic half-quadratic optimization for image reconstruction.SIAM Journal on Imaging Sciences 8, 3, 1752--1797."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-53",
+                "unstructured": "Rockafellar, R. 1976. Augmented Lagrangians and applications of the proximal point algorithm in convex programming.Mathematics of Operations Research 1, 2, 97--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-54",
+                "unstructured": "Schmidt, U., and Roth, S. 2014. Shrinkage fields for effective image restoration. InProc. IEEE CVPR, 2774--2781."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-55",
+                "unstructured": "Sidky, E. Y., and Pan, X. 2008. Image reconstruction in circular cone-beam computed tomography by constrained, total-variation minimization.Physics in medicine and biology 53, 17, 4777."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-56",
+                "unstructured": "Tian, L., and Waller, L. 2015. 3D intensity and phase imaging from light field measurements in an LED array microscope.Optica 2, 2, 104--111."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-57",
+                "unstructured": "Tsai, Y.-T., Steinberger, M., Pajak, D., and Pulli, K. 2014. Fast ANN for high-quality collaborative filtering. InHigh Performance Graphics.",
+                "DOI": "10.1111/cgf.12715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-58",
+                "unstructured": "Udell, M., Mohan, K., Zeng, D., Hong, J., Diamond, S., and Boyd, S. 2014. Convex optimization in Julia.Workshop on High Performance Technical Computing in Dynamic Languages.",
+                "DOI": "10.1109/HPTCDL.2014.5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-59",
+                "unstructured": "Vidimice, K., Wang, S.-P., Ragan-Kelley, J., and Matusik, W. 2013. OpenFab: A programmable pipeline for multi-material fabrication.ACM Trans. Graph. (SIGGRAPH) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-60",
+                "unstructured": "Wytock, M., Wang, P.-W., and Zico Kolter, J. 2015. Convex programming with fast proximal and linear operators.arXiv e-Print 1511.04815."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-61",
+                "unstructured": "Zhang, L., Wu, X., Buades, A., and Li, X. 2011. Color demosaicking by local directional interpolation and nonlocal adaptive thresholding.Journal of Electronic Imaging 20, 2, 023016--023016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-62",
+                "unstructured": "Zhu, Y. 2015. An augmented ADMM algorithm with application to the generalized lasso problem.Journal of Computational and Graphical Statistics, just-accepted."
+            },
+            {
+                "key": "key-10.1145/2897824.2925875-63",
+                "unstructured": "Zoran, D., and Weiss, Y. 2011. From learning models of natural image patches to whole image restoration. InProc. IEEE ICCV, 479--486."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925875&amp;ftid=1755861&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:17Z",
+            "timestamp": 1568162717000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient image optimization using proximal algorithms"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925875",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

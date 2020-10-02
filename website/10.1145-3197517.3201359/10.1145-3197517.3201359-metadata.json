@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ],
+            "date-time": "2020-01-10T07:43:32Z",
+            "timestamp": 1578642212508
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201359",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Blended cured quasi-newton for distortion optimization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yufeng",
+                "family": "Zhu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia & Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Bridson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk & University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201359-1",
+                "unstructured": "Noam Aigerman, Roi Poranne, and Yaron Lipman. 2015. Seamless surface mappings.ACM Transactions on Graphics (TOG)34, 4 (2015), 72."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-2",
+                "unstructured": "Mirela Ben-chen, Craig Gotsman, and Guy Bunin. 2008. Conformal flattening by curvature prescription and metric scaling.Computer Graphics Forum27 (2008).",
+                "DOI": "10.1111/j.1467-8659.2008.01142.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-3",
+                "unstructured": "Dimitri P. Bertsekas. 2016.Nonlinear Programming.Athena Scientific."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-4",
+                "unstructured": "David Bommes, Marcel Campen, Hans-Christian Ebke, Pierre Alliez, and Leif Kobbelt. 2013. Integer-grid Maps for Reliable Quad Meshing.ACM Trans. Graph.32, 4 (July 2013), 98:1--98:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-5",
+                "unstructured": "J Bonet and AJ Burton. 1998. A simple orthotropic, transversely isotropic hyperelastic constitutive equation for large strain computations.Computer methods in applied mechanics and engineering162, 1 (1998), 151--164.",
+                "DOI": "10.1016/S0045-7825(97)00339-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-6",
+                "unstructured": "Allan F Bower. 2009.Applied mechanics of solids.CRC press.",
+                "DOI": "10.1201/9781439802489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-7",
+                "unstructured": "Isaac Chao, Ulrich Pinkall, Patrick Sanan, and Peter Schr&#246;der. 2010. A simple geometric model for elastic deformations.ACM Transactions on Graphics (TOG)29, 4 (2010), 38."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-8",
+                "unstructured": "Renjie Chen and Ofir Weber. 2017. GPU-accelerated Locally Injective Shape Deformation.ACM Trans. Graph.36, 6 (Nov. 2017), 214:1--214:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-9",
+                "unstructured": "Renjie Chen, Ofir Weber, Daniel Keren, and Mirela Ben-Chen. 2013. Planar Shape Interpolation with Bounded Distortion.ACM Transactions on Graphics (TOG)32, 4 (2013), 108:1--108:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-10",
+                "unstructured": "Yanqing Chen, Timothy A. Davis, William W. Hager, and Sivasankaran Rajamanickam. 2008. Algorithm 887: CHOLMOD, Supernodal Sparse Cholesky Factorization and Update/Downdate.ACM Transactions on Mathematical Software (TOMS)35, 3 (2008), 14.",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-11",
+                "unstructured": "Sebastian Claici, Mikhail Bessmeltsev, Scott Schaefer, and Justin Solomon. 2017. Isometry-Aware Preconditioning for Mesh Parameterization. InProceedings of the Symposium on Geometry Processing.",
+                "DOI": "10.1111/cgf.13243",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-12",
+                "unstructured": "Richard W. Cottle, Jong-Shi Pang, and Richard E. Stone. 2009.The Linear Complementarity Problem.Society for Industrial &#38; Applied Mathematics (SIAM).",
+                "DOI": "10.1137/1.9780898719000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-13",
+                "unstructured": "Mathieu Desbrun, Mark Meyer, and Pierre Alliez. 2002. Intrinsic parameterizations of surface meshes. InComputer Graphics Forum, Vol. 21. Wiley Online Library, 209--218.",
+                "DOI": "10.1111/1467-8659.00580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-14",
+                "unstructured": "A Fischer. 1992. A special Newton-type optimization method. 24 (1992), 269--284."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-15",
+                "unstructured": "Xiao-Ming Fu, Yang Liu, and Baining Guo. 2015. Computing locally injective mappings by advanced MIPS.ACM Transactions on Graphics (TOG)34, 4 (2015), 71."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-16",
+                "unstructured": "N.J. Higham. 1992. Estimating the matrix p-norm.Numer. Math.62 (1992).",
+                "DOI": "10.1007/BF01396242",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-17",
+                "unstructured": "Kai Hormann and G&#252;nther Greiner. 2000.MIPS: An efficient global parametrization method.Technical Report. DTIC Document."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-18",
+                "unstructured": "Lianjun Jiang, Richard H Byrd, Elizabeth Eskow, and Robert B Schnabel. 2004.A preconditioned L-BFGS algorithm with application to molecular energy minimization.Technical Report. DTIC Document.",
+                "DOI": "10.21236/ADA444850",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-19",
+                "unstructured": "Shahar Z Kovalsky, Noam Aigerman, Ronen Basri, and Yaron Lipman. 2015. Large-scale bounded distortion mappings.ACM Trans. Graph34, 6 (2015), 191."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-20",
+                "unstructured": "Shahar Z. Kovalsky, Meirav Galun, and Yaron Lipman. 2016. Accelerated Quadratic Proxy for Geometric Optimization.ACM Transactions on Graphics (proceedings of ACM SIGGRAPH)35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-21",
+                "unstructured": "Bruno L&#233;vy, Sylvain Petitjean, Nicolas Ray, and J&#233;rome Maillot. 2002. Least squares conformal maps for automatic texture atlas generation. InACM Transactions on Graphics (TOG), Vol. 21. ACM, 362--371.",
+                "DOI": "10.1145/566570.566590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-22",
+                "unstructured": "Yaron Lipman. 2012. Bounded Distortion Mapping Spaces for Triangular Meshes.ACM Trans. Graph.31, 4 (July 2012), 108:1--108:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-23",
+                "unstructured": "Richard Lipton, Donald Rose, and Robert Targan. 1979. Generalized Nested Dissection.SIAM J. Numer. Anal.16, 2 (1979), 346--358.",
+                "DOI": "10.1137/0716027",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-24",
+                "unstructured": "Ligang Liu, Lei Zhang, Yin Xu, Craig Gotsman, and Steven J Gortler. 2008. A local/global approach to mesh parameterization. InComputer Graphics Forum, Vol. 27. Wiley Online Library, 1495--1504."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-25",
+                "unstructured": "Tiantian Liu, Sofien Bouaziz, and Ladislav Kavan. 2017. Quasi-Newton Methods for Real-Time Simulation of Hyperelastic Materials.ACM Transactions on Graphics (TOG)36, 3 (2017), 23."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-26",
+                "unstructured": "Tobias Martin, Pushkar Joshi, Mikl&#243;s Bergou, and Nathan Carr. 2013. Efficient Non-linear Optimization via Multi-scale Gradient Filtering. InComputer Graphics Forum, Vol. 32. Wiley Online Library, 89--100.",
+                "DOI": "10.1111/cgf.12019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-27",
+                "unstructured": "Melvin Mooney. 1940. A Theory of Large Elastic Deformation.Journal of Applied Physics11, 9 (1940), 582--592.",
+                "DOI": "10.1063/1.1712836",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-28",
+                "unstructured": "Patrick Mullen, Yiying Tong, Pierre Alliez, and Mathieu Desbrun. 2008. Spectral Conformal Parameterization. InProceedings of the Symposium on Geometry Processing (SGP '08).Eurographics Association, 1487--1494.",
+                "DOI": "10.1111/j.1467-8659.2008.01289.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-29",
+                "unstructured": "Yurii Nesterov. 1983. A method of solving a convex programming problem with convergence rate O(1/sqr(k)).Soviet Mathematics Doklady27 (1983), 372--376."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-30",
+                "unstructured": "JW Neuberger. 1985. Steepest descent and differential equations.Journal of the Mathematical Society of Japan37, 2 (1985), 187--195.",
+                "DOI": "10.2969/jmsj/03720187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-31",
+                "unstructured": "J. Nocedal and S. Wright. 2006.Numerical Optimization.Springer New York."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-32",
+                "unstructured": "Raymond Ogden. 1972. Large Deformation Isotropic Elasticity - On the Correlation of Theory and Experiment for Incompressible Rubberlike Solids. InProceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences.565--584."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-33",
+                "unstructured": "Cosmin G. Petra, Olaf Schenk, and Mihai Anitescu. 2014a. Real-time stochastic optimization of complex energy systems on high-performance computers.IEEE Computing in Science &#38; Engineering16, 5 (2014).",
+                "DOI": "10.1109/MCSE.2014.53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-34",
+                "unstructured": "Cosmin G. Petra, Olaf Schenk, Miles Lubin, and Klaus G&#228;rtner. 2014b. An augmented incomplete factorization approach for computing the Schur complement in stochastic optimization.SIAM Journal on Scientific Computing36, 2 (2014).",
+                "DOI": "10.1137/130908737",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-35",
+                "unstructured": "Michael Rabinovich, Roi Poranne, Daniele Panozzo, and Olga Sorkine-Hornung. 2017. Scalable Locally Injective Mappings.ACM Trans. Graph.36, 2 (April 2017), 16:1--16:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-36",
+                "unstructured": "Ronald S. Rivlin. 1948. Some Applications of Elasticity Theory to Rubber Engineering. InProc. Rubber Technology Conference.1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-37",
+                "unstructured": "Anna Shtengel, Roi Poranne, Olga Sorkine-Hornung, Shahar Z. Kovalsky, and Yaron Lipman. 2017. Geometric Optimization via Composite Majorization.ACM Transactions on Graphics (TOG)36, 4 (2017), 11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-38",
+                "unstructured": "Breannan Smith, Danny M. Kaufman, Etienne Vouga, Rasmus Tamstorf, and Eitan Grinspun. 2012. Reflections on Simultaneous Impact.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2012)31, 4 (2012), 106:1--106:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-39",
+                "unstructured": "Jason Smith and Scott Schaefer. 2015. Bijective parameterization with free boundaries.ACM Transactions on Graphics (TOG)34, 4 (2015), 70."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-40",
+                "unstructured": "Olga Sorkine and Marc Alexa. 2007. As-rigid-as-possible surface modeling. InSymposium on Geometry processing, Vol. 4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-41",
+                "unstructured": "Joseph Teran, Eftychios Sifakis, Geoffrey Irving, and Ronald Fedkiw. 2005. Robust quasistatic finite elements and flesh simulation. InProceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation.ACM, 181--190.",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-42",
+                "unstructured": "Huamin Wang and Yin Yang. 2016. Descent methods for elastic body simulation on the GPU.ACM Transactions on Graphics (TOG)35, 6 (2016), 212."
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-43",
+                "unstructured": "Ofir Weber, Ashish Myles, and Denis Zorin. 2012. Computing extremal quasiconformal maps. InComputer Graphics Forum, Vol. 31. Wiley Online Library, 1679--1689.",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201359-44",
+                "unstructured": "Hongyi Xu, Funshing Sin, Yufeng Zhu, and Jernej Barbi&#269;. 2015. Nonlinear material design using principal stretches.ACM Transactions on Graphics (TOG)34, 4 (2015), 75."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201359&ftid=1991621&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:43:43Z",
+            "timestamp": 1571672623000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201359",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

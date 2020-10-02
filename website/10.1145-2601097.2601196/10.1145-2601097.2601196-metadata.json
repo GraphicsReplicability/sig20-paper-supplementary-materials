@@ -1,0 +1,398 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228476
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "IIS-0915462, IIS-0953985"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Pixar",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601196",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Self-refining games using player analytics"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Matt",
+                "family": "Stanton",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Ben",
+                "family": "Humberston",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Brandon",
+                "family": "Kase",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "James F.",
+                "family": "O'Brien",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Adrien",
+                "family": "Treuille",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601196-1",
+                "unstructured": "Barbi&#269;, J., and James, D. 2005. Real-time subspace integration for St. Venant-Kirchhoff deformable models.ACM Trans. Graph. 24, 3 (July), 982--990."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-2",
+                "unstructured": "Barbi&#269;, J., and Popovi&#263;, J. 2008. Real-time control of physically based simulations using gentle forces.ACM Trans. Graph. 27, 5 (Dec.), 163:1--163:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-3",
+                "unstructured": "Chentanez, N., and M&#252;ller, M. 2010. Real-time simulation of large bodies of water with small scale details. InProceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '10, 197--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-4",
+                "unstructured": "Chentanez, N., and M&#252;ller, M. 2011. Real-time Eulerian water simulation using a restricted tall cell grid.ACM Trans. Graph. 30, 4 (July), 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-5",
+                "unstructured": "Cinematronics, 1983. Dragon's Lair. {Arcade}."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-6",
+                "unstructured": "Claypool, M., and Claypool, K. 2010. Latency can kill: Precision and deadline in online games. InProceedings of the First ACM Multimedia Systems Conference.",
+                "DOI": "10.1145/1730836.1730863",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-7",
+                "unstructured": "Cooper, S., Hertzmann, A., and Popovi&#263;, Z. 2007. Active learning for real-time motion controllers.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276384",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-8",
+                "unstructured": "Cooper, S., Khatib, F., Treuille, A., Barbero, J., Lee, J., Beenen, M., Leaver-Fay, A., Baker, D., and Popovi&#263;, Z. 2010. Predicting protein structures with a multiplayer online game.Nature 466(August).",
+                "DOI": "10.1038/nature09304",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-9",
+                "unstructured": "Crane, K., Llamas, I., and Tariq, S. 2007.Real Time Simulation and Rendering of 3D Fluids. Addison-Wesley, ch. 30."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-10",
+                "unstructured": "Eitz, M., Hays, J., and Alexa, M. 2012. How do humans sketch objects?ACM Trans. Graph. 31, 4 (July), 44:1--44:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-11",
+                "unstructured": "El-Nasr, M. S. 2007. Interaction, narrative, and drama: Creating an adaptive interactive narrative using performance arts theories.Interaction Studies 8, 2 (June), 209--240."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-12",
+                "unstructured": "Feller, W. 1968.An Introduction to Probability Theory and Its Applications. Wiley."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-13",
+                "unstructured": "Guan, P., Reiss, L. and Hirshberg, D., Weiss, A., and Black, M. J. 2012. DRAPE: DRessing Any PErson.ACM Trans. Graph. 31, 4 (July), 35:1--35:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-14",
+                "unstructured": "Gupta, M., and Narasimhan, S. G. 2007. Legendre fluids: A unified framework for analytic reduced space modeling and rendering of participating media. InProceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '07, 17--25."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-15",
+                "unstructured": "Houlette, R. 2003. Player modeling for adaptive games. InAI Game Programming Wisdom 2, S. Rabin, Ed. Charles River Media."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-16",
+                "unstructured": "Jakob, W., 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-17",
+                "unstructured": "James, D. L., and Fatahalian, K. 2003. Precomputing interactive dynamic deformable scenes. Tech. Rep. CMU-RI-TR-03-33, Carnegie Mellon University Robotics Institute.",
+                "DOI": "10.1145/1201775.882359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-18",
+                "unstructured": "Kavan, L., Gerszewski, D., Bargteil, A. W., and Sloan, P.-P. 2011. Physics-inspired upsampling for cloth simulation in games.ACM Trans. Graph. 30, 4 (July), 93:1--93:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-19",
+                "unstructured": "Kim, T., and Delaney, J. 2013. Subspace fluid re-simulation.ACM Trans. Graph. 32, 4 (July), 62:1--62:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-20",
+                "unstructured": "Kim, T., and James, D. L. 2009. Skipping steps in deformable simulation with online model reduction.ACM Trans. Graph. 28, 5 (Dec.), 123:1--123:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-21",
+                "unstructured": "Kim, D., Koh, W., Narain, R., Fatahalian, K., Treuille, A., and O'Brien, J. F. 2013. Near-exhaustive precomputation of secondary cloth effects.ACM Trans. Graph. 32, 4 (July), 87:1--7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-22",
+                "unstructured": "Kittur, A., Chi, E. H., and Suh, B. 2008. Crowdsourcing user studies with Mechanical Turk. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI '08, 453--456."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-23",
+                "unstructured": "Lee, J., Kladwang, W., Lee, M., Cantu, D., Azizyan, M., Kim, H., Limpaecher, A., Yoon, S., Treuille, A., Das, R., and EteRNA Participants. 2014. RNA design rules from a massive open laboratory.Proceedings of the National Academy of Sciences. 2014. (Preprint).",
+                "DOI": "10.1073/pnas.1313039111",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-24",
+                "unstructured": "Limpaecher, A., Feltman, N., Treuille, A., and Cohen, M. 2013. Real-time drawing assistance through crowdsourcing.ACM Trans. Graph. 32, 4 (July), 54:1--54:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-25",
+                "unstructured": "Macklin, M., and M&#252;ller, M. 2013. Position based fluids.ACM Trans. Graph. 32, 4 (July), 104:1--104:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-26",
+                "unstructured": "McCann, J., and Pollard, N. 2007. Responsive characters from motion fragments.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-27",
+                "unstructured": "Microsoft, 2013. Drivatar website. http://research.microsoft.com/en-us/projects/drivatar."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-28",
+                "unstructured": "Page, L., Brin, S., Motwani, R., and Winograd, T. 1999. The PageRank citation ranking: bringing order to the Web. Technical Report 1999-66, Stanford InfoLab, November."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-29",
+                "unstructured": "Sch&#246;dl, A., Szeliski, R., Salesin, D. H., and Essa, I. 2000. Video textures. InProceedings of SIGGRAPH 2000, Computer Graphics Proceedings, Annual Conference Series, 489--498."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-30",
+                "unstructured": "Smith, A. M., Lewis, C., Hullett, K., Smith, G., and Sullivan, A. 2011. An inclusive taxonomy of player modeling. Tech. Rep. UCSC-SOE-11-13, University of California, Santa Cruz.",
+                "DOI": "10.1145/2159365.2159419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-31",
+                "unstructured": "Solenthaler, B., and Pajarola, R. 2009. Predictive-corrective incompressible SPH.ACM Trans. Graph. 28, 3 (July), 40:1--40:6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-32",
+                "unstructured": "Stanton, M., Sheng, Y., Wicke, M., Perazzi, F., Yuen, A., Narasimhan, S., and Treuille, A. 2013. Non-polynomial Galerkin projection on deforming meshes.ACM Trans. Graph. 32, 4 (July), 86:1--86:14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-33",
+                "unstructured": "&#352;t'ava, O., Bene&#353;, B., Brisbin, M., and K&#345;iv&#225;nek, J. 2008. Interactive terrain modeling using hydraulic erosion. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '08, 201--210."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-34",
+                "unstructured": "Thue, D., Bulitko, V., Spetch, M., and Wasylishen, E. 2007. Interactive storytelling: A player modelling approach. InThe Third Conference on Artificial Intelligence and Interactive Digital Entertainment, AIIDE '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-35",
+                "unstructured": "Thurey, N., M&#252;ller-Fischer, M., Schirm, S., and Gross, M. 2007. Real-time breaking waves for shallow water simulations. InProceedings of the 15th Pacific Conference on Computer Graphics and Applications, PG '07, 39--46."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-36",
+                "unstructured": "Treuille, A., Lewis, A., and Popovi&#263;, Z. 2006. Model reduction for real-time fluids.ACM Trans. Graph. 25, 3 (July), 826--834."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-37",
+                "unstructured": "von Ahn, L., and Dabbish, L. 2004. Labeling images with a computer game. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI '04, 319--326."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-38",
+                "unstructured": "von Ahn, L., Liu, R., and Blum, M. 2006. Peekaboom: a game for locating objects in images. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI '06, 55--64."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-39",
+                "unstructured": "von Ahn, L., Maurer, B., Mcmillen, C., Abraham, D., and Blum, M. 2008. reCAPTCHA: Human-based character recognition via web security measures.Science 321, 5895 (August), 1465--1468."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-40",
+                "unstructured": "Wicke, M., Stanton, M., and Treuille, A. 2009. Modular bases for fluid dynamics.ACM Trans. Graph. 28, 3 (July), 39:1--39:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-41",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid.ACM Trans. Graph. 24, 3 (July), 965--972."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-42",
+                "unstructured": "Zook, A., Lee-Urban, S., Drinkwater, M. R., and Riedl, M. O. 2012. Skill-based mission generation: A data-driven temporal player modeling approach. InProceedings of the 7th International Conference on the Foundations of Digital Games, FDG '12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601196-43",
+                "unstructured": "Zook, A., Fruchter, E., and Riedl, M. O. 2014. Automatic playtesting for game parameter tuning via active learning. InProceedings of the 9th International Conference on the Foundations of Digital Games, FDG '14."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601196&amp;ftid=1488881&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:02Z",
+            "timestamp": 1565663702000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601196",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

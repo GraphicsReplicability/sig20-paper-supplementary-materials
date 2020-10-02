@@ -1,0 +1,96 @@
+{
+    "Timestamp": "1/6/2020 12:35:27",
+    "Title": "Computational Imaging with Multi-Camera Time-of-Flight Systems",
+    "DOI": "10.1145/2897824.2925928",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "C/C++, Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://www.computationalimaging.org/publications/multi-camera-time-of-flight-systems/",
+    "code URL  2": "http://web.stanford.edu/~gordonwz/download/tof/control_and_capture.zip",
+    "PDF URL": "http://www.computationalimaging.org/wp-content/uploads/2016/05/MultiCameraToF-SIGGRAPH2016.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "CMakeLists, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "3D imaging",
+    "ACM 2": "Computational photography",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "The project page provides many ressources for replicability (system diagrams, firmware, C++ libs for the controller). As the paper is a hardware-oriented research, it is not replicable in the sense of the current study.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 42,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab / SWIG / flann / PCL",
+    "Project URL": "https://www.computationalimaging.org/publications/multi-camera-time-of-flight-systems/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to missing specific hardware",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Shikhar",
+            "family": "Shrestha",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Felix",
+            "family": "Heide",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Wolfgang",
+            "family": "Heidrich",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia and KAUST"
+                }
+            ]
+        },
+        {
+            "given": "Gordon",
+            "family": "Wetzstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,77 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Semantic soft segmentation <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Yağiz <span class="family">Aksoy</span></li>
+<li> Tae-Hyun <span class="family">Oh</span></li>
+<li> Sylvain <span class="family">Paris</span></li>
+<li> Marc <span class="family">Pollefeys</span></li>
+<li> Wojciech <span class="family">Matusik</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201275">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://yaksoy.github.io/papers/TOG18-sss.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://yaksoy.github.io/sss/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/yaksoy/SemanticSoftSegmentation">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/iyah4888/SIGGRAPH18SSS">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201275-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201275-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 4</li>
+<li><span class="family">License</span>: custom</li>
+<li><span class="family">Build mechanism</span>: Other script, Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   24</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>The code is split in two parts, in two different projects. The second project is trivial to run in matlab without hassle, takes an input image that consists in standard RGB colors for the first half, and the second half should contain features. 
+The first project of the code, which is supposed to generate features is much more difficult to run. It depends on TensorFlow 1.4 (while the readme indicates TensorFlow >= 1.4, it in fact only works with TensorFlow = 1.4). This old TensorFlow does not support Python 3.7, so I had to remove my 3.7 to install a 3.6 (which cannot be installed via Anaconda -- Anaconda spent an entire night trying to downgrade 3.7 to 3.6 but this didn't work). Finally, when the code runs, it outputs a matlab file which contains 128 features. This file should be processed with preprocessFeatures, along with the original image, in the second project.
+The process is not documented, but can be understood from the context. In general, while it was relatively painful to run, results seem to be reproducible. It would however have been much less painful if I had a Python 3.6 already installed.
+The lower replicability score is explained by the fact no code is provided for training and only the pre-trained model is given.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [2,2,5,4]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

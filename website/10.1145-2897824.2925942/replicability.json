@@ -1,0 +1,106 @@
+{
+    "Timestamp": "1/22/2020 21:18:41",
+    "Title": "Sky is Not the Limit: Semantic-Aware Sky Replacement",
+    "DOI": "10.1145/2897824.2925942",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Matlab / Mathematica / ..",
+    "How long did take for you to evaluate the code this paper (if any)?": 5,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/SaumyaRawat/Semantic-Aware-Colour-Transfer",
+    "code URL  2": "",
+    "PDF URL": "http://vllab.ucmerced.edu/ytsai/SIGGRAPH16/siggraph16_sky_edit_low_res.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes, Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 1,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "evaluation dataset",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 2,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Image processing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": 5,
+    "OS of the test": "Linux",
+    "General comments": "Beside the compilation of matcaffe which took me a lot of time, I had to remove the absolute paths in custom_toolboxes/scene_parsing_model/scene_parse.m. The interactive selection of the images was not working, thus I removed the call to select_image in replace_sky.m, and selected the image programatically (automatically select the first image).\n\nThe code needs a mask and a parsing image for each RGB image took as input. No code is provided to generate those, which limits its use in other contexts.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 31,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Matlab, caffe",
+    "Project URL": "https://sites.google.com/site/yihsuantsai/research/siggraph16-sky",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Yi-Hsuan",
+            "family": "Tsai",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Merced"
+                }
+            ]
+        },
+        {
+            "given": "Xiaohui",
+            "family": "Shen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Zhe",
+            "family": "Lin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Kalyan",
+            "family": "Sunkavalli",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Ming-Hsuan",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, Merced"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

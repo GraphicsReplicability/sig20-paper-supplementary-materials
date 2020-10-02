@@ -1,0 +1,278 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813562
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "DFG Emmy Noether fellowship",
+                "award": [
+                    "GO 1752/3-1"
+                ]
+            },
+            {
+                "name": "FP7 Framework Programme",
+                "award": [
+                    "ICT-323567 (HARVEST4D), ICT-611089 (CR-PLAY)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601163",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 71,
+        "title": [
+            "Floating scale surface reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Simon",
+                "family": "Fuhrmann",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Michael",
+                "family": "Goesele",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601163-1",
+                "unstructured": "Blinn, J. F. 1982. A Generalization of Algebraic Surface Drawing.ACM Transactions on Graphics 1, 3, 235--256.",
+                "DOI": "10.1145/357306.357310",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-2",
+                "unstructured": "Bolitho, M., Kazhdan, M., Burns, R., and Hoppe, H. 2007. Multilevel Streaming for Out-of-core Surface Reconstruction. InProc. SGP, 69--78."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-3",
+                "unstructured": "Calakli, F., and Taubin, G. 2011. SSD: Smooth Signed Distance Surface Reconstruction.Computer Graphics Forum 30, 7, 1993--2002.",
+                "DOI": "10.1111/j.1467-8659.2011.02058.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-4",
+                "unstructured": "Carr, J., Beatson, R., Cherrie, J., Mitchell, T., Fright, W., and McCallum, B. 2001. Reconstruction and Representation of 3D Objects with Radial Basis Functions. InProc. SIGGRAPH, 67--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-5",
+                "unstructured": "Curless, B., and Levoy, M. 1996. A Volumetric Method for Building Complex Models from Range Images. InProc. SIGGRAPH, 303--312."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-6",
+                "unstructured": "Dey, T. K., Li, G., and Sun, J. 2005. Normal Estimation for Point Clouds: A Comparison Study for a Voronoi Based Method. InEurographics Symposium on Point-Based Graphics, 39--46."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-7",
+                "unstructured": "Fuhrmann, S., and Goesele, M. 2011. Fusion of Depth Maps with Multiple Scales. InProc. SIGGRAPH Asia, 148:1--148:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-8",
+                "unstructured": "Goesele, M., Snavely, N., Curless, B., Hoppe, H., and Seitz, S. M. 2007. Multi-View Stereo for Community Photo Collections. InProc. ICCV.",
+                "DOI": "10.1109/ICCV.2007.4408933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-9",
+                "unstructured": "Hoppe, H., DeRose, T., Duchamp, T., McDonald, J., and Stuetzle, W. 1992. Surface Reconstruction from Unorganized Points. InProc. SIGGRAPH, 71--78."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-10",
+                "unstructured": "Kazhdan, M., and Hoppe, H. 2013. Screened Poisson Surface Reconstruction.ACM Transactions on Graphics 32, 3, 29."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-11",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson Surface Reconstruction. InProc. SGP, 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-12",
+                "unstructured": "Kazhdan, M., Klein, A., Dalal, K., and Hoppe, H. 2007. Unconstrained Isosurface Extraction on Arbitrary Octrees. InProc. SGP."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-13",
+                "unstructured": "Klowsky, R., Kuijper, A., and Goesele, M. 2012. Modulation Transfer Function of Patch-based Stereo Systems. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2012.6247825",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-14",
+                "unstructured": "Levoy, M., Pulli, K., Curless, B., Rusinkiewicz, S., Koller, D., Pereira, L., Ginzton, M., Anderson, S., Davis, J., Ginsberg, J., Shade, J., and Fulk, D. 2000. The Digital Michelangelo Project: 3D Scanning of Large Statues. InProc. SIGGRAPH, 131--144.",
+                "DOI": "10.1145/344779.344849",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-15",
+                "unstructured": "Lorensen, W. E., and Cline, H. E. 1987. Marching Cubes: A High Resolution 3D Surface Construction Algorithm.Proc. SIGGRAPH 21, 5, 79--86."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-16",
+                "unstructured": "Muecke, P., Klowsky, R., and Goesele, M. 2011. Surface Reconstruction from Multi-Resolution Sample Points. InProc. of Vision, Modeling, and Visualization, 398--418."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-17",
+                "unstructured": "Ohtake, Y., Belyaev, A., Alexa, M., Turk, G., and Seidel, H.-P. 2003. Multi-level partition of unity implicits. InProc. SIGGRAPH, 463--470."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-18",
+                "unstructured": "Seitz, S. M., Curless, B., Diebel, J., Scharstein, D., and Szeliski, R. 2006. A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms. InProc. CVPR, 519--528."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-19",
+                "unstructured": "Shen, C., O'Brien, J. F., and Shewchuk, J. R. 2004. Interpolating and Approximating Implicit Surfaces from Polygon Soup. InProc. SIGGRAPH, 896--904."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-20",
+                "unstructured": "Stanford Scanning Repository, 2013. http://graphics.stanford.edu/data/3Dscanrep/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-21",
+                "unstructured": "Turk, G., and Levoy, M. 1994. Zippered Polygon Meshes from Range Images. InProc. SIGGRAPH, 311--318."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-22",
+                "unstructured": "Turk, G., and O'Brien, J. F. 1999. Variational Implicit Surfaces. Tech. rep., Georgia Institute of Technology."
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-23",
+                "unstructured": "Vrubel, A., Bellon, O., and Silva, L. 2009. A 3D Reconstruction Pipeline for Digital Preservation of Natural and Cultural Assets. InProc. CVPR.",
+                "DOI": "10.1109/CVPRW.2009.5206586",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601163-24",
+                "unstructured": "Yu, J., and Turk, G. 2013. Reconstructing Surfaces of Particle-Based Fluids using Anisotropic Kernels.ACM Transactions on Graphics 32, 1, 5:1--5:12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601163&amp;ftid=1488855&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:32Z",
+            "timestamp": 1565663672000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601163",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

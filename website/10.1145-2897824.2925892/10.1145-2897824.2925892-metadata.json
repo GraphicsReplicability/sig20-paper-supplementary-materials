@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:03Z",
+            "timestamp": 1574815983945
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925892",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Rigel"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "James",
+                "family": "Hegarty",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ross",
+                "family": "Daly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Zachary",
+                "family": "DeVito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Horowitz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925892-1",
+                "unstructured": "Adams, A., Talvala, E.-V., Park, S. H., Jacobs, D. E., Ajdin, B., Gelfand, N., Dolson, J., Vaquero, D., Baek, J., Tico, M., Lensch, H. P. A., Matusik, W., Pulli, K., Horowitz, M., and Levoy, M. 2010. The Frankencamera: An experimental platform for computational photography.ACM Transactions on Graphics 29, 4 (July), 29:1--29:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-2",
+                "unstructured": "Adelson, E. H., Anderson, C. H., Bergen, J. R., Burt, P. J., and Ogden, J. M. 1984. Pyramid methods in image processing.RCA engineer 29, 6, 33--41."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-3",
+                "unstructured": "Bilsen, G., Engels, M., Lauwereins, R., and Peper-straete, J. 1995. Cyclo-static data flow. In1995 International Conference on Acoustics, Speech, and Signal Processing, vol. 5, 3255--3258.",
+                "DOI": "10.1109/ICASSP.1995.479579",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-4",
+                "unstructured": "Bouguet, J.-Y. 2001. Pyramidal implementation of the affine Lucas Kanade feature tracker description of the algorithm. Tech. rep., Intel Corporation."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-5",
+                "unstructured": "Brunhaver, J. 2015.Design and Optimization of a Stencil Engine. PhD thesis, Stanford University."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-6",
+                "unstructured": "DeVito, Z., Hegarty, J., Aiken, A., Hanrahan, P., and Vitek, J. 2013. Terra: A multi-stage language for high-performance computing. InProceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation, 105--116.",
+                "DOI": "10.1145/2491956.2462166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-7",
+                "unstructured": "Elinux, 2015. Jetson computer vision performance. http://elinux.org/Jetson/Computer_Vision_Performance. [Online; accessed 12-April-2016]."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-8",
+                "unstructured": "Hameed, R., Qadeer, W., Wachs, M., Azizi, O., Solomatnikov, A., Lee, B. C., Richardson, S., Kozyrakis, C., and Horowitz, M. 2010. Understanding sources of inefficiency in general-purpose chips. InProceedings of the 37th Annual International Symposium on Computer Architecture, ACM, 37--47.",
+                "DOI": "10.1145/1815961.1815968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-9",
+                "unstructured": "Harris, C., and Stephens, M. 1988. A combined corner and edge detector. InProceedings of the 4th Alvey Vision Conference, 147--151."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-10",
+                "unstructured": "Hegarty, J., Brunhaver, J., DeVito, Z., Ragan-Kelley, J., Cohen, N., Bell, S., Vasilyev, A., Horowitz, M., and Hanrahan, P. 2014. Darkroom: Compiling high-level image processing code into hardware pipelines.ACM Transactions on Graphics 33, 4 (July), 144:1--144:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-11",
+                "unstructured": "Horstmannshoff, J., Grotker, T., and Meyr, H. 1997. Mapping multirate dataflow to complex rt level hardware models. InApplication-Specific Systems, Architectures and Processors, 1997. Proceedings., IEEE International Conference on, 283--292."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-12",
+                "unstructured": "Huang, J., Qian, F., Gerber, A., Mao, Z. M., Sen, S., and Spatscheck, O. 2012. A close examination of performance and power characteristics of 4g lte networks. InProceedings of the 10th international conference on Mobile systems, applications, and services, ACM, 225--238.",
+                "DOI": "10.1145/2307636.2307658",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-13",
+                "unstructured": "Lee, E. A., and Messerschmitt, D. G. 1987. Static scheduling of synchronous data flow programs for digital signal processing.IEEE Transactions on Computers 100, 1, 24--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-14",
+                "unstructured": "Leiserson, C. E., and Saxe, J. B. 1991. Retiming synchronous circuitry.Algorithmica 6, 1-6, 5--35."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-15",
+                "unstructured": "Lowe, D. 1999. Object recognition from local scale-invariant features. InThe Proceedings of the Seventh IEEE International Conference on Computer Vision, vol. 2, 1150--1157 vol. 2.",
+                "DOI": "10.1109/ICCV.1999.790410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-16",
+                "unstructured": "Lucas, B. D., Kanade, T., et al. 1981. An iterative image registration technique with an application to stereo vision. InInternational Joint Conference on Artificial Intelligence, vol. 81, 674--679."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-17",
+                "unstructured": "Mullapudi, R. T., Adams, A., Sharlet, D., Ragan-Kelley, J., and Fatahalian, K. 2016. Automatically scheduling halide image processing pipelines.ACM Transactions on Graphics 35, 4 (July).",
+                "DOI": "10.1145/2897824.2925952",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-18",
+                "unstructured": "Murthy, P. K., and Lee, E. 2002. Multidimensional synchronous dataflow.IEEE Transactions on Signal Processing 50, 8, 2064--2079."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-19",
+                "unstructured": "Murthy, P., Bhattacharyya, S., and Lee, E. 1997. Joint minimization of code and data for synchronous dataflow programs.Formal Methods in System Design 11, 1, 41--70."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-20",
+                "unstructured": "Ragan-Kelley, J., Adams, A., Paris, S., Levoy, M., Amarasinghe, S., and Durand, F. 2012. Decoupling algorithms from schedules for easy optimization of image processing pipelines.ACM Transactions on Graphics 31, 4, 32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-21",
+                "unstructured": "Scharstein, D., and Szeliski, R. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms.International Journal of Computer Vision 47, 1-3, 7--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-22",
+                "unstructured": "Sugerman, J., Fatahalian, K., Boulos, S., Akeley, K., and Hanrahan, P. 2009. Gramps: A programming model for graphics pipelines.ACM Transactions on Graphics 28, 1 (Feb.), 4:1--4:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-23",
+                "unstructured": "Vivado, 2016. Vivado high-level synthesis. http://www.xilinx.com/products/design-tools/vivado/integration/esl-design/. [Online; accessed 12-April-2016]."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-24",
+                "unstructured": "Xilinx. 2016.Zynq-7000 All Programmable SoC Overview.DS190 Rev. 1.9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925892-25",
+                "unstructured": "Xilinx, 2016. Power efficiency. http://www.xilinx.com/products/technology/power.html. [Online; accessed 12-April-2016]."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925892&amp;ftid=1755945&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:09Z",
+            "timestamp": 1568162709000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "flexible multi-rate image processing hardware"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925892",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

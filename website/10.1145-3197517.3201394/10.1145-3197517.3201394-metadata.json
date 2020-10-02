@@ -1,0 +1,438 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:12Z",
+            "timestamp": 1574859852819
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1422767,IIS-1539069"
+                ]
+            },
+            {
+                "DOI": "10.13039/100008502",
+                "name": "Brown Institute for Media Innovation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201394",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Scanner"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Alex",
+                "family": "Poms",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Will",
+                "family": "Crichton",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201394-1",
+                "unstructured": "2016. CaffeOnSpark. Github web site: https://github.com/yahoo/CaffeOnSpark. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-2",
+                "unstructured": "Mart&#237;n Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, Manjunath Kudlur, Josh Levenberg, Rajat Monga, Sherry Moore, Derek G. Murray, Benoit Steiner, Paul Tucker, Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. 2016. TensorFlow: A System for Large-Scale Machine Learning. In12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).USENIX Association, GA, 265--283."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-3",
+                "unstructured": "Ganesh Ananthanarayanan, Ali Ghodsi, Scott Shenker, and Ion Stoica. 2013. Effective Straggler Mitigation: Attack of the Clones. InPresented as part of the 10th USENIX Symposium on Networked Systems Design and Implementation (NSDI 13).USENLX, Lombard, IL, 185--198. https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/ananthanarayanan"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-4",
+                "unstructured": "Robert Anderson, David Gallup, Jonathan T. Barron, Janne Kontkanen, Noah Snavely, Carlos Hern&#225;ndez, Sameer Agarwal, and Steven M. Seitz. 2016. Jump: Virtual Reality Video.ACM Trans. Graph.35, 6, Article 198 (Nov. 2016), 13 pages.",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-5",
+                "unstructured": "Michael Armbrust, Reynold S. Xin, Cheng Lian, Yin Huai, Davies Liu, Joseph K. Bradley, Xiangrui Meng, Tomer Kaftan, Michael J. Franklin, Ali Ghodsi, and Matei Zaharia. 2015. Spark SQL: Relational Data Processing in Spark. InProceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD '15).ACM, New York, NY, USA, 1383--1394.",
+                "DOI": "10.1145/2723372.2742797",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-6",
+                "unstructured": "P. Baumann, A. Dehmel, P. Furtado, R. Ritsch, and N. Widmann. 1998. The Multidimensional Database System RasDaMan.SIGMOD Rec.27, 2 (June 1998), 575--577.",
+                "DOI": "10.1145/276305.276386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-7",
+                "unstructured": "Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, et al. 2016. End to End Learning for Self-Driving Cars.arXiv preprint arXiv:1604.07316(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-8",
+                "unstructured": "Rajesh Bordawekar. 2016. Accelerating Spark workloads using GPUs. https://www.oreilly.com/learning/accelerating-spark-workloads-using-gpus.O'Reilly Media, Inc(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-9",
+                "unstructured": "Ian Buck, Tim Foley, Daniel Horn, Jeremy Sugerman, Kayvon Fatahalian, Mike Houston, and Pat Hanrahan. 2004. Brook for GPUs: Stream Computing on Graphics Hardware.ACM Trans. Graph.23, 3 (Aug. 2004), 777--786.",
+                "DOI": "10.1145/1015706.1015800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-10",
+                "unstructured": "Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh. 2016. Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields.arXiv preprint arXiv:1611.08050(2016).",
+                "DOI": "10.1109/CVPR.2017.143",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-11",
+                "unstructured": "Tianqi Chen, Mu Li, Yutian Li, Min Lin, Naiyan Wang, Minjie Wang, Tianjun Xiao, Bing Xu, Chiyuan Zhang, and Zheng Zhang. 2015. MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems.arXiv:1512.01274(2015). arXiv:eprint arXiv:1512.01274"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-12",
+                "unstructured": "X. Chen, A. Shrivastava, and A. Gupta. 2013. NEIL: Extracting Visual Knowledge from Web Data. In2013 IEEE International Conference on Computer Vision.1409--1416.",
+                "DOI": "10.1109/ICCV.2013.178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-13",
+                "unstructured": "E. F. Codd. 1970. A Relational Model of Data for Large Shared Data Banks.Commun. ACM13, 6 (June 1970), 377--387.",
+                "DOI": "10.1145/362384.362685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-14",
+                "unstructured": "P. Cudre-Mauroux, H. Kimura, K.-T Lim, J. Rogers, R. Simakov, E. Soroush, P. Velikhov, D. L. Wang, M. Balazinska, J. Becla, D. DeWitt, B. Heath, D. Maier, S. Madden, J. Patel, M. Stonebraker, andS. Zdonik. 2009. A Demonstration of SciDB: A Science-oriented DBMS.Proc. VLDB Endow.2, 2 (Aug. 2009), 1534--1537.",
+                "DOI": "10.14778/1687553.1687584",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-15",
+                "unstructured": "DataBricks. 2016. TensorFrames. Github web site: https://github.com/databricks/tensorframes. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-16",
+                "unstructured": "Jeffrey Dean and Sanjay Ghemawat. 2004. MapReduce: Simplified Data Processing on Large Clusters. InProceedings of the 6th Conference on Symposium on Opearting Systems Design &#38; Implementation - Volume 6 (OSDI'04).USENIX Association, Berkeley, CA, USA, 10--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-17",
+                "unstructured": "Carl Doersch, Saurabh Singh, Abhinav Gupta, Josef Sivic, and Alexei A. Efros. 2012. What Makes Paris Look Like Paris?ACM Trans. Graph.31, 4, Article 101 (July 2012), 9 pages.",
+                "DOI": "10.1145/2185520.2335452",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-18",
+                "unstructured": "Inc. Facebook. 2017. Facebook Surround 360. Web site: https://facebook360.fb.com/facebook-surround-360/. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-19",
+                "unstructured": "S. Ginosar, K. Rakelly, S. M. Sachs, B. Yin, C. Lee, P. Krahenbuhl, and A. A. Efros. 2017. A Century of Portraits: A Visual Historical Record of American High School Yearbooks.IEEE Transactions on Computational ImagingPP, 99 (2017).",
+                "DOI": "10.1109/TCI.2017.2699865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-20",
+                "unstructured": "James Hays and Alexei A. Efros. 2007. Scene completion using millions of photographs.ACM Trans. Graph.26, 3, Article 4 (July 2007).",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-21",
+                "unstructured": "ISO/IEC 2015.ISO/IEC 14496-12:2015: Coding of audio-visual objects - Part 12: ISO base media file format.Standard. International Organization for Standardization, Geneva, CH."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-22",
+                "unstructured": "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, and Trevor Darrell. 2014. Caffe: Convolutional Architecture for Fast Feature Embedding.arXiv preprint arXiv:1408.5093(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-23",
+                "unstructured": "H. Joo, H. Liu, L. Tan, L. Gui, B. Nabbe, I. Matthews, T. Kanade, S. Nobuhara, and Y. Sheikh. 2015. Panoptic Studio: A Massively Multiview System for Social Motion Capture. In2015 IEEE International Conference on Computer Vision (ICCV).3334--3342.",
+                "DOI": "10.1109/ICCV.2015.381",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-24",
+                "unstructured": "Hanbyul Joo, Tomas Simon, Xulong Li, Hao Liu, Lei Tan, Lin Gui, Sean Banerjee, Timothy Godisart, Bart Nabbe, Iain Matthews, Takeo Kanade, Shohei Nobuhara, and Yaser Sheikh. 2016. Panoptic Studio: A Massively Multiview System for Social Interaction Capture. (2016). arXiv:arXiv:1612.03153"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-25",
+                "unstructured": "Neel Joshi, Wolf Kienzle, Mike Toelle, Matt Uyttendaele, and Michael F Cohen. 2015. Real-time hyperlapse creation via optimal frame selection.ACM Transactions on Graphics (TOG)34, 4 (2015), 63."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-26",
+                "unstructured": "Norman P. Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal, Raminder Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al Borchers, Rick Boyle, Pierre-luc Cantin, Clifford Chao, Chris Clark, Jeremy Coriell, Mike Daley, Matt Dau, Jeffrey Dean, Ben Gelb, Tara Vazir Ghaemmaghami, Rajendra Gottipati, William Gulland, Robert Hagmann, C. Richard Ho, Doug Hogberg, John Hu, Robert Hundt, Dan Hurt, Julian Ibarz, Aaron Jaffey, Alek Jaworski, Alexander Kaplan, Harshit Khaitan, Daniel Killebrew, Andy Koch, Naveen Kumar, Steve Lacy, James Laudon, James Law, Diemthu Le, Chris Leary, Zhuyuan Liu, Kyle Lucke, Alan Lundin, Gordon MacKean, Adriana Maggiore, Maire Mahony, Kieran Miller, Rahul Nagarajan, Ravi Narayanaswami, Ray Ni, Kathy Nix, Thomas Norrie, Mark Omernick, Narayana Penukonda, Andy Phelps, Jonathan Ross, Matt Ross, Amir Salek, Emad Samadiani, Chris Severn, Gregory Sizikov, Matthew Snelham, Jed Souter, Dan Steinberg, Andy Swing, Mercedes Tan, Gregory Thorson, Bo Tian, Horia Toma, Erick Tuttle, Vijay Vasudevan, Richard Walter, Walter Wang, Eric Wilcox, and Doe Hyun Yoon. 2017. In-Datacenter Performance Analysis of a Tensor Processing Unit. InProceedings of the 44th Annual International Symposium on Computer Architecture (ISCA '17).ACM, New York, NY, USA, 1--12.",
+                "DOI": "10.1145/3079856.3080246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-27",
+                "unstructured": "Ira Kemelmacher-Shlizerman. 2016. Transfiguring Portraits.ACM Trans. Graph.35, 4, Article 94 (July 2016), 8 pages.",
+                "DOI": "10.1145/2897824.2925871",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-28",
+                "unstructured": "D. Marpe, T. Wiegand, and G. J. Sullivan. 2006. The H.264/MPEG4 advanced video coding standard and its applications.IEEE Communications Magazine44, 8 (Aug 2006), 134--143.",
+                "DOI": "10.1109/MCOM.2006.1678121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-29",
+                "unstructured": "Kevin Matzen, Kavita Bala, and Noah Snavely. 2017. Streetstyle: Exploring world-wide clothing styles from millions of photos. (2017). https://arxiv.org/abs/1706.01869"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-30",
+                "unstructured": "Microsoft. 2017. The Microsoft Cognitive Toolkit. Web site: https://www.microsoft.com/en-us/cognitive-toolkit/. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-31",
+                "unstructured": "PostGIS Project 2016.PostGIS 2.3.2dev Manual.PostGIS Project."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-32",
+                "unstructured": "Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, and Fr&#233;do Durand. 2012. Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines.ACM Trans. Graph.31, 4, Article 32 (July 2012), 12 pages.",
+                "DOI": "10.1145/2185520.2335383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-33",
+                "unstructured": "Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Fr&#233;do Durand, and Saman Amarasinghe. 2013. Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.SIGPLAN Not.48, 6 (June 2013), 519--530.",
+                "DOI": "10.1145/2499370.2462176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-34",
+                "unstructured": "Rasdaman.org 2015.Rasdaman Version 9.2 Query Language Guide.Rasdaman.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-35",
+                "unstructured": "Alexander Ratner, Stephen H. Bach, Henry Ehrenberg, Jason Fries, Sen Wu, and Christopher R&#233;. 2018. Snorkel: Rapid Training Data Creation with Weak Supervision.Proc. VLDB Endow, (to appear)12, 1 (2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-36",
+                "unstructured": "Josh Rosen and Reynold Xin. 2015. Project Tungsten: Bringing Apache Spark Closer to Bare Metal. Databricks Engineering Blog: https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html. (2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-37",
+                "unstructured": "Krishna Kumar Singh, Kayvon Fatahalian, and Alexei Efros. 2016. KrishnaCam: Using a longitudinal, single-person, egocentric dataset for scene understanding tasks. In2016 IEEE Winter Conference on Applications of Computer Vision (WACV).",
+                "DOI": "10.1109/WACV.2016.7477717",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-38",
+                "unstructured": "Josef Sivic, Biliana Kaneva, Antonio Torralba, Shai Avidan, and William T. Freeman. 2008. Creating and Exploring a Large Photorealistic Virtual Space. InFirst IEEE Workshop on Internet Vision.",
+                "DOI": "10.1109/CVPRW.2008.4562950",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-39",
+                "unstructured": "Noah Snavely, Steven M. Seitz, and Richard Szeliski. 2006. Photo Tourism: Exploring Photo Collections in 3D.ACM Trans. Graph.25, 3 (July 2006), 835--846.",
+                "DOI": "10.1145/1141911.1141964",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-40",
+                "unstructured": "C. Szegedy, Wei Liu, Yangqing Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich. 2015. Going deeper with convolutions. In2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).1--9.",
+                "DOI": "10.1109/CVPR.2015.7298594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-41",
+                "unstructured": "William Thies, Michal Karczmarek, and Saman P. Amarasinghe. 2002. StreamIt: A Language for Streaming Applications. InProceedings of the 11th International Conference on Compiler Construction (CC '02).Springer-Verlag, London, UK, UK, 179--196.",
+                "DOI": "10.1007/3-540-45937-5_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-42",
+                "unstructured": "S. Yang and B. Wu. 2015. Large Scale Video Data Analysis Based on Spark. In2015 International Conference on Cloud Computing and Big Data (CCBD).209--212.",
+                "DOI": "10.1109/CCBD.2015.38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-43",
+                "unstructured": "Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, and Ion Stoica. 2010. Spark: Cluster Computing with Working Sets. InProceedings of the 2Nd USENIX Conference on Hot Topics in Cloud Computing (HotCloud'10).USENIX Association, Berkeley, CA, USA, 10--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201394-44",
+                "unstructured": "Jun-Yan Zhu, Yong Jae Lee, and Alexei A. Efros. 2014. AverageExplorer: Interactive Exploration and Alignment of Visual Data Collections.ACM Trans. Graph.33, 4, Article 160 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601145",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201394&ftid=1991761&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:57Z",
+            "timestamp": 1571673477000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient video analysis at scale"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201394",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,546 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848337
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201312",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Perception-driven semi-structured boundary vectorization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shayan",
+                "family": "Hoshyari",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Edoardo Alberto",
+                "family": "Dominici",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Nathan",
+                "family": "Carr",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Zhaowen",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Duygu",
+                "family": "Ceylan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "I-Chao",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National Taiwan University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201312-1",
+                "unstructured": "Adobe. 2017. Adobe Illustrator 2017: Image Trace, http://www.adobe.com/. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-2",
+                "unstructured": "Hani Altwaijry, Andreas Veit, Sergej Belongie, and Cornell Tech. 2016. Learning to Detect and Match Keypoints with Deep Architectures.. InBMVC.",
+                "DOI": "10.5244/C.30.49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-3",
+                "unstructured": "Fabi&#225;n Arrebola and Francisco Sandoval. 2005. Corner detection and curve segmentation by multiresolution chain-code linking.Pattern Recognition38, 10 (2005), 1596--1614.",
+                "DOI": "10.1016/j.patcog.2005.03.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-4",
+                "unstructured": "Ilya Baran, Jaakko Lehtinen, and Jovan Popovi&#263;. 2010. Sketching clothoid splines using shortest paths. InCGF, Vol. 29,2. 655--664.",
+                "DOI": "10.1111/j.1467-8659.2009.01635.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-5",
+                "unstructured": "H Lynn Beus and Steven SH Tiu. 1987. An improved corner detection algorithm based on chain-coded plane curves.Pattern Recognition20, 3 (1987), 291--296.",
+                "DOI": "10.1016/0031-3203(87)90004-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-6",
+                "unstructured": "Leo Breiman. 2001. Random forests.Machine learning45, 1 (2001), 5--32.",
+                "DOI": "10.1023/A:1010933404324",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-7",
+                "unstructured": "A Carmona-Poyato, Francisco Jos&#233; Madrid-Cuevas, R Medina-Carnicer, and Rafael Mu&#241;oz-Salinas. 2010. Polygonal approximation of digital planar curves through breakpoint suppression.Pattern Recognition43, 1 (2010), 14--25.",
+                "DOI": "10.1016/j.patcog.2009.06.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-8",
+                "unstructured": "Vicent Caselles, Ron Kimmel, and Guillermo Sapiro. 1997. Geodesic Active Contours.IJCV22, 1 (1997), 61--79.",
+                "DOI": "10.1023/A:1007979827043",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-9",
+                "unstructured": "Dmitry Chetverikov and Zsolt Szabo. 2003. A simple and efficient algorithm for detection of high curvature points in planar curves. InCAIP, Vol. 3. Springer, 746--753.",
+                "DOI": "10.1007/978-3-540-45179-2_91",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-10",
+                "unstructured": "Ryan Dahl, Mohammad Norouzi, and Jonathan Shlens. 2017. Pixel Recursive Super Resolution. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-11",
+                "unstructured": "J. R. Diebel. 2008.Bayesian image vectorization: The probabilistic inversion of vector image rasterization.Ph.D. dissertation, Stanford Univ."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-12",
+                "unstructured": "Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang. 2014. Learning a deep convolutional network for image super-resolution. InECCV.184--199.",
+                "DOI": "10.1007/978-3-319-10593-2_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-13",
+                "unstructured": "Eagle. 1997. Eagle. http://everything2.com/index.pl?node_id=1859453. (1997)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-14",
+                "unstructured": "Gerald Farin. 2002.Curves and Surfaces for CAGD: A Practical Guide.Morgan Kaufmann Publishers Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-15",
+                "unstructured": "M. Fatemi, A. Amini, L. Baboulaz, and M. Vetterli. 2016. Shapes From Pixels.IEEE TIP25, 3 (2016), 1193--1206.",
+                "DOI": "10.1109/TIP.2016.2514507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-16",
+                "unstructured": "Raanan Fattal. 2007. Image Upsampling via Imposed Edge Statistics. InACM SIGGRAPH.Article 95.",
+                "DOI": "10.1145/1275808.1276496",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-17",
+                "unstructured": "Jean-Dominique Favreau, Florent Lafarge, and Adrien Bousseau Bousseau. 2017. Photo2ClipArt: Image Abstraction and Vectorization Using Layered Linear Gradients.ACM TOG36, 6 (2017). https://hal.inria.fr/hal-01581981"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-18",
+                "unstructured": "M. A. T. Figueiredo, J. Leit&#195;&#269;o, and A. K. Jain. 2000. Unsupervised contour representation and estimation using B-splines and a minimum description length criterion.IEEE TIP9, 6 (2000), 1075--187."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-19",
+                "unstructured": "Shachar Fleishman, Daniel Cohen-Or, and Cl&#225;udio T. Silva. 2005. Robust Moving Least-squares Fitting with Sharp Features.ACM TOG24, 3 (2005), 544--552.",
+                "DOI": "10.1145/1073204.1073227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-20",
+                "unstructured": "Herbert Freeman and Larry S. Davis. 1977. A corner-finding algorithm for chain-coded curves.IEEE Transactions on computers26, 3 (1977), 297--303.",
+                "DOI": "10.1109/TC.1977.1674825",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-21",
+                "unstructured": "Daniel Glasner, Shai Bagon, and Michal Irani. 2009. Super-Resolution from a Single Image. InIEEE ICCV.",
+                "DOI": "10.1109/ICCV.2009.5459271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-22",
+                "unstructured": "Chris Harris and Mike Stephens. 1988. A combined corner and edge detector.. InAlvey vision conference, Vol. 15. 50.",
+                "DOI": "10.5244/C.2.23",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-23",
+                "unstructured": "Robert Hess and David Field. 1999. Integration of contours: new insights.Trends in cognitive sciences3, 12 (1999), 480--486.",
+                "DOI": "10.1016/S1364-6613(99)01410-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-24",
+                "unstructured": "Hsieh Hou and H Andrews. 1978. Cubic splines for image interpolation and digital filtering.IEEE Transactions on Acoustics, Speech, and Signal Processing26, 6 (1978), 508--517.",
+                "DOI": "10.1109/TASSP.1978.1163154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-25",
+                "unstructured": "Xie Jun, Winnem&#246;ller Holger, Li Wilmot, and Schiller Stephen. 2017. Interactive Vectorization. InACM SIGCHI.",
+                "DOI": "10.1145/3025453.3025872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-26",
+                "unstructured": "Michael Kass, Andrew Witkin, and Demetri Terzopoulos. 1988. Snakes: Active contour models.IJCV1, 4 (1988), 321--331.",
+                "DOI": "10.1007/BF00133570",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-27",
+                "unstructured": "Jiwon Kim, Jung Kwon Lee, and Kyoung Mu Lee. 2016. Accurate image super-resolution using very deep convolutional networks. (2016), 1646--1654."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-28",
+                "unstructured": "K. Koffka. 1955.Principles of Gestalt Psychology.Routledge &#38; K. Paul."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-29",
+                "unstructured": "Johannes Kopf and Dani Lischinski. 2011. Depixelizing Pixel Art.ACM TOG30, 4 (2011), 99:1--99:8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-30",
+                "unstructured": "DJ Langridge. 1982. Curve encoding and the detection of discontinuities.Computer Graphics and Image Processing20, 1 (1982), 58--71.",
+                "DOI": "10.1016/0146-664X(82)90073-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-31",
+                "unstructured": "Gregory Lecot and Bruno Levy. 2006. Ardeco: Automatic Region Detection and Conversion. InEGSR.349--360."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-32",
+                "unstructured": "Xin Li and Michael T Orchard. 2001. New edge-directed interpolation.IEEE TIP10, 10 (2001), 1521--1527."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-33",
+                "unstructured": "Yangyan Li, Xiaokun Wu, Yiorgos Chrysanthou, Andrei Sharf, Daniel Cohen-Or, and Niloy J. Mitra. 2011. GlobFit: Consistently Fitting Primitives by Discovering Global Relations.ACM TOG30, 4 (2011), 52:1--52:12.",
+                "DOI": "10.1145/1964921.1964947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-34",
+                "unstructured": "Jyh-Ming Lien and Nancy M. Amato. 2004. Approximate Convex Decomposition of Polygons. InProc. Symp. Computational Geometry.17--26.",
+                "DOI": "10.1145/997817.997823",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-35",
+                "unstructured": "Yang Liu and Wenping Wang. 2008. A Revisit to Least Squares Orthogonal Distance Fitting of Parametric Curves and Surfaces. InProc. Advances in Geometric Modeling and Processing.384--397.",
+                "DOI": "10.1007/978-3-540-79246-8_29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-36",
+                "unstructured": "Zhaoliang Lun, Evangelos Kalogerakis, and Alla Sheffer. 2015. Elements of Style: Learning Perceptual Shape Style Similarity.ACM Trans. Graph.34, 4 (2015), 84:1--84:14.",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-37",
+                "unstructured": "Andrea Mazzoleni. 2001. Scale2x. http://www.scale2x.it/. (2001)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-38",
+                "unstructured": "James McCrae and Karan Singh. 2008. Sketching Piecewise Clothoid Curves. InProc. Sketch-Based Interfaces and Modeling.",
+                "DOI": "10.1016/j.cag.2009.05.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-39",
+                "unstructured": "James McCrae and Karan Singh. 2011. Neatening Sketched Strokes Using Piecewise French Curves. InProc. EG Symposium on Sketch-Based Interfaces and Modeling.141--148.",
+                "DOI": "10.1145/2021164.2021190",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-40",
+                "unstructured": "Gerard Medioni and Yoshio Yasumoto. 1986. Corner detection and curve representation using cubic B-splines. InRobotics and Automation. Proceedings. 1986 IEEE International Conference on, Vol. 3. IEEE, 764--769."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-41",
+                "unstructured": "Ravish Mehra, Qingnan Zhou, Jeremy Long, Alla Sheffer, Amy Gooch, and Niloy J. Mitra. 2009. Abstraction of Man-Made Shapes.ACM TOG28, 5 (2009), 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-42",
+                "unstructured": "Kamal Nasrollahi and Thomas B. Moeslund. 2014. Super-resolution: A Comprehensive Survey.Mach. Vision Appl.25, 6 (Aug. 2014), 1423--1468.",
+                "DOI": "10.1007/s00138-014-0623-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-43",
+                "unstructured": "Alexandrina Orzan, Adrien Bousseau, Holger Winnem&#246;ller, Pascal Barla, Jo&#235;lle Thollot, and David Salesin. 2008. Diffusion Curves: A Vector Representation for Smooth-shaded Images.ACM TOG27, 3 (2008).",
+                "DOI": "10.1145/1360612.1360691",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-44",
+                "unstructured": "F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay. 2011. Scikit-learn: Machine Learning in Python.Journal of Machine Learning Research12 (2011), 2825--2830."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-45",
+                "unstructured": "Edward Rosten, Reid Porter, and Tom Drummond. 2010. Faster and better: A machine learning approach to corner detection.IEEE transactions on pattern analysis and machine intelligence32, 1 (2010), 105--119.",
+                "DOI": "10.1109/TPAMI.2008.275",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-46",
+                "unstructured": "S Rasoul Safavian and David Landgrebe. 1991. A survey of decision tree classifier methodology.IEEE transactions on systems, man, and cybernetics21, 3 (1991), 660--674."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-47",
+                "unstructured": "ScanFont. 2017. Font Lab, http://old.fontlab.eom/font-converter/scanfont//. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-48",
+                "unstructured": "Peter Selinger. 2003. Potrace: a polygon-based tracing algorithm. Inhttp://potrace.sourceforge.net."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-49",
+                "unstructured": "Jianbo Shi et al. 1994. Good features to track. InComputer Vision and Pattern Recognition, 1994. IEEE Conference on.IEEE, 593--600."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-50",
+                "unstructured": "Maxim Stepin. 2003. Hqx. http://web.archive.org/web/20070717064839/www.hiend3d.com/hq4x.html. (2003)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-51",
+                "unstructured": "Jian Sun, Lin Liang, Fang Wen, and Heung-Yeung Shum. 2007. Image Vectorization Using Optimized Gradient Meshes. InACM SIGGRAPH.Article 11.",
+                "DOI": "10.1145/1275808.1276391",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-52",
+                "unstructured": "Daniel S&#253;kora, Jan Buri&#225;nek, and Ji&#345;&#237; &#381;&#225;ra. 2005. Sketching Cartoons by Example. InProc. Sketch-Based Interfaces and Modeling.27--34."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-53",
+                "unstructured": "Vector Magic. 2017. Cedar Lake Ventures http://vectormagic.com/. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-54",
+                "unstructured": "J. Wagemans, J. H. Elder, M. Kubovy, S. E. Palmer, M. A. Peterson, M. Singh, and R von der Heydt. 2012. A Century of Gestalt Psychology in Visual Perception I. Perceptual Grouping and Figure-Ground Organization.Psychological Bulletin138, 6 (2012), 1172--1217.",
+                "DOI": "10.1037/a0029333",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-55",
+                "unstructured": "C. Wang, J. Zhu, Y. Guo, and W. Wang. 2017. Video Vectorization via Tetrahedral Remeshing.IEEE TIP26, 4 (April 2017), 1833--1844.",
+                "DOI": "10.1109/TIP.2017.2666742",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-56",
+                "unstructured": "Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, and Thomas Huang. 2015. Deep networks for image super-resolution with sparse prior. InIEEE ICCV.370--378.",
+                "DOI": "10.1109/ICCV.2015.50",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-57",
+                "unstructured": "M. Weber and B. Herzog. 2004. Autotrace. http://autotrace.sourceforge.net. (2004)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-58",
+                "unstructured": "Tian Xia, Binbin Liao, and Yizhou Yu. 2009. Patch-based Image Vectorization with Automatic Curvilinear Feature Alignment.ACM TOG28, 5 (2009).",
+                "DOI": "10.1145/1618452.1618461",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-59",
+                "unstructured": "Chih-Yuan Yang, Chao Ma, and Ming-Hsuan Yang. 2014. Single-Image Super-Resolution: A Benchmark. InECCV, David Fleet, Tomas Pajdla, Bernt Schiele, and Tinne Tuytelaars (Eds.). Springer International Publishing, 372--386.",
+                "DOI": "10.1007/978-3-319-10593-2_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-60",
+                "unstructured": "M. Yang, H. Chao, C. Zhang, J. Guo, L. Yuan, and J. Sun. 2016. Effective Clipart Image Vectorization through Direct Optimization of Bezigons.IEEE TVCG22, 2 (2016), 1063--1075.",
+                "DOI": "10.1109/TVCG.2015.2440273",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-61",
+                "unstructured": "Kwang Moo Yi, Eduard Trulls, Vincent Lepetit, and Pascal Fua. 2016. Lift: Learned invariant feature transform. InEuropean Conference on Computer Vision.Springer. 467--483.",
+                "DOI": "10.1007/978-3-319-46466-4_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201312-62",
+                "unstructured": "Song-Hai Zhang, Tao Chen, Yi-Fei Zhang, Shi-Min Hu, and Ralph R. Martin. 2009. Vectorizing Cartoon Animations.IEEE TVCG15, 4 (2009), 618--629."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201312&ftid=1991785&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:55Z",
+            "timestamp": 1571673355000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201312",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

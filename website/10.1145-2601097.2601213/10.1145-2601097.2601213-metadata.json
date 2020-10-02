@@ -1,0 +1,356 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410026
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Austrian Science Fund (FWF)",
+                "award": [
+                    "P23735-N13, I706-N26"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601213",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "Form-finding with polyhedral meshes made simple"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Chengcheng",
+                "family": "Tang",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Xiang",
+                "family": "Sun",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Alexandra",
+                "family": "Gomes",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Johannes",
+                "family": "Wallner",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Helmut",
+                "family": "Pottmann",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601213-1",
+                "unstructured": "Block, P., and Ochsendorf, J. 2007. Thrust network analysis: A new methodology for three-dimensional equilibrium.J. Int. Assoc. Shell and Spatial Structures 48, 3, 167--173."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-2",
+                "unstructured": "Block, P. 2009.Thrust Network Analysis: Exploring Three-dimensional Equilibrium. PhD thesis, M.I.T."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-3",
+                "unstructured": "Bouaziz, S., Schwartzburg, Y., Weise, T., and Pauly, M. 2012. Shape-up: Shaping discrete geometry with projections.Comp. Graph. Forum 31, 1657--1667. Proc. SGP.",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-4",
+                "unstructured": "de Goes, F., Alliez, P., Owhadi, H., and Desbrun, M. 2013. On the equilibrium of simplicial masonry structures.ACM Trans. Graph. 32, 4, #93, 1--10. Proc. SIGGRAPH.",
+                "DOI": "10.1145/2461912.2461932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-5",
+                "unstructured": "Deng, B., Bouaziz, S., Deuss, M., Zhang, J., Schwartzburg, Y., and Pauly, M. 2013. Exploring local modifications for constrained meshes.Comp. Graph. Forum 32, 2, 11--20. Proc. Eurographics.",
+                "DOI": "10.1111/cgf.12021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-6",
+                "unstructured": "Deng, B., Bouaziz, S., Deuss, M., Kaspar, A., Schwartzburg, Y., and Pauly, M. 2014. Interactive design exploration for constrained meshes.Computer-Aided Design. to appear.",
+                "DOI": "10.1016/j.cad.2014.01.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-7",
+                "unstructured": "Fraternali, F. 2010. A thrust network approach to the equilibrium problem of unreinforced masonry vaults via polyhedral stress functions.Mechanics Res. Comm. 37, 2, 198--204.",
+                "DOI": "10.1016/j.mechrescom.2009.12.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-8",
+                "unstructured": "Glymph, J., Shelden, D., Ceccato, C., Mussel, J., and Schober, H. 2004. A parametric strategy for free-form glass structures using quadrilateral planar facets.Automation in Construction 13, 2, 187--202.",
+                "DOI": "10.1016/j.autcon.2003.09.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-9",
+                "unstructured": "Gr&#252;ndig, L., Moncrieff, E., Singer, P., and Str&#246;bel, D. 2000. A history of the principal developments and applications of the force density method in Germany 1970--1999. In4th Int. Coll. Computation of Shell &#38; Spatial Structures."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-10",
+                "unstructured": "Heyman, J. 1998.Structural Analysis: A Historical Approach. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511529580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-11",
+                "unstructured": "Kaspar, A., and Deng, B. 2013. Realtime deformation of constrained meshes using GPU. InSymposium on GPU Computing and Applications. to appear.",
+                "DOI": "10.1007/978-981-287-134-3_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-12",
+                "unstructured": "Kotnik, T., and Weinstock, M. 2012. Material, form and force.Architectural Design 82, 104--111.",
+                "DOI": "10.1002/ad.1386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-13",
+                "unstructured": "Linkwitz, K., and Schek, H.-J. 1971. Einige Bemerkungen zur Berechnung von vorgespannten Seilnetzkonstruktionen.Ingenieur-Archiv 40, 145--158.",
+                "DOI": "10.1007/BF00532146",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-14",
+                "unstructured": "Liu, Y., Pottmann, H., Wallner, J., Yang, Y.-L., and Wang, W. 2006. Geometric modeling with conical meshes and developable surfaces.ACM Trans. Graph. 25, 3, 681--689. Proc. SIGGRAPH.",
+                "DOI": "10.1145/1141911.1141941",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-15",
+                "unstructured": "Liu, Y., Wang, W., L&#233;vy, B., Sun, F., Yan, D.-M., Lu, L., and Yang, C. 2009. On centroidal Voronoi tessellation -- energy smoothness and fast computation.ACM Trans. Graph. 28, 4, #101, 1--17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-16",
+                "unstructured": "Liu, Y., Xu, W., Wang, J., Zhu, L., Guo, B., Chen, F., and Wang, G. 2011. General planar quadrilateral mesh design using conjugate direction field.ACM Trans. Graph. 30, 6, #140, 1--10. Proc. SIGGRAPH Asia.",
+                "DOI": "10.1145/2070781.2024174",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-17",
+                "unstructured": "Liu, Y., Pan, H., Snyder, J., Wang, W., and Guo, B. 2013. Computing self-supporting surfaces by regular triangulation.ACM Trans. Graph. 32, 4, #92, 1--10. Proc. SIGGRAPH.",
+                "DOI": "10.1145/2461912.2461927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-18",
+                "unstructured": "Panozzo, D., Block, P., and Sorkine-Hornung, O. 2013. Designing unreinforced masonry models.ACM Trans. Graph. 32, 4, #91, 1--12. Proc. SIGGRAPH.",
+                "DOI": "10.1145/2461912.2461958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-19",
+                "unstructured": "Peng, C.-H., Barton, M., Jiang, C., and Wonka, P. 2014. Exploring quadrangulations.ACM Trans. Graph. 33, 1, #12, 1--12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-20",
+                "unstructured": "Poranne, R., Chen, R., and Gotsman, C., 2013. On linear spaces of polyhedral meshes. ArXiv:1303.4110."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-21",
+                "unstructured": "Poranne, R., Ovreiu, E., and Gotsman, C. 2013. Interactive planarization and optimization of 3D meshes.Comp. Graph. Forum 32, 1, 152--163."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-22",
+                "unstructured": "Pottmann, H., Huang, Q.-X., Yang, Y.-L., and Hu, S.-M. 2006. Geometry and convergence analysis of algorithms for registration of 3D shapes.Int. J. Computer Vision 67, 3, 277--296.",
+                "DOI": "10.1007/s11263-006-5167-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-23",
+                "unstructured": "Pottmann, H., Liu, Y., Wallner, J., Bobenko, A., and Wang, W. 2007. Geometry of multi-layer freeform structures for architecture.ACM Trans. Graph. 26, 3, #65, 1--11. Proc. SIGGRAPH.",
+                "DOI": "10.1145/1276377.1276458",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-24",
+                "unstructured": "Schiftner, A., and Balzer, J. 2010. Statics-sensitive layout of planar quadrilateral meshes. InAdvances in Architectural Geometry 2010. Springer, 221--236.",
+                "DOI": "10.1007/978-3-7091-0309-8_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-25",
+                "unstructured": "Schiftner, A., Leduc, N., Bompas, P., Baldassini, N., and Eigensatz, M. 2012. Architectural geometry from research to practice --- the Eiffel Tower Pavilions. InAdvances in Architectural Geometry 2012. Springer, 213--228."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-26",
+                "unstructured": "Takayama, K., Panozzo, D., Sorkine-Hornung, A., and Sorkine-Hornung, O. 2013. Sketch-based generation and editing of quad meshes.ACM Trans. Graph. 32, 4, #97, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-27",
+                "unstructured": "Umetani, N., Igarashi, T., and Mitra, N. J. 2012. Guided exploration of physically valid shapes for furniture design.ACM Trans. Graph. 31, 4, #86, 1--11. Proc. SIGGRAPH.",
+                "DOI": "10.1145/2185520.2335437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-28",
+                "unstructured": "Vaxman, A. 2012. Modeling polyhedral meshes with affine maps.Comp. Graph. Forum 31, 1647--1656. Proc. SGP.",
+                "DOI": "10.1111/j.1467-8659.2012.03170.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-29",
+                "unstructured": "Vouga, E., H&#246;binger, M., Wallner, J., and Pottmann, H. 2012. Design of self-supporting surfaces.ACM Trans. Graph. 31, 4, #87, 1--11. Proc. SIGGRAPH.",
+                "DOI": "10.1145/2185520.2335438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-30",
+                "unstructured": "Yang, Y., Yang, Y., Pottmann, H., and Mitra, N. 2011. Shape space exploration of constrained meshes.ACM Trans. Graph. 30, 6, #124, 1--11. Proc. SIGGRAPH Asia.",
+                "DOI": "10.1145/2070781.2024158",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601213-31",
+                "unstructured": "Zadravec, M., Schiftner, A., and Wallner, J. 2010. Designing quad-dominant meshes with planar faces.Comp. Graph. Forum 29, 5, 1671--1679. Proc. SGP.",
+                "DOI": "10.1111/j.1467-8659.2010.01776.x",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601213&amp;ftid=1488878&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:04Z",
+            "timestamp": 1565663704000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601213",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

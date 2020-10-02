@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813587
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "NSFC",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61602311, 61528208"
+                ]
+            },
+            {
+                "name": "973 Program",
+                "award": [
+                    "2015CB352501"
+                ]
+            },
+            {
+                "name": "Guangdong Science and Technology Program",
+                "award": [
+                    "2015A030312015"
+                ]
+            },
+            {
+                "name": "NSERC Canada",
+                "award": [
+                    "611370, 611649, 2015-05407"
+                ]
+            },
+            {
+                "name": "Shenzhen Science and Technology Program",
+                "award": [
+                    "JCYJ20170302153208613, JCYJ20151015151249564"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201287",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Predictive and generative neural networks for object functionality"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ruizhen",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Zihao",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwen",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Oliver",
+                "family": "Van Kaick",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carleton University"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201287-1",
+                "unstructured": "Yuri Boykov and Vladimir Kolmogorov. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision. IEEE transactions on pattern analysis and machine intelligence 26, 9 (2004), 1124--1137.",
+                "DOI": "10.1109/TPAMI.2004.60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-2",
+                "unstructured": "Haoqiang Fan, Hao Su, and Leonidas Guibas. 2017. A Point Set Generation Network for 3D Object Reconstruction from a Single Image. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 2463--2471.",
+                "DOI": "10.1109/CVPR.2017.264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-3",
+                "unstructured": "Matthew Fisher, Daniel Ritchie, Manolis Savva, Thomas Funkhouser, and Pat Hanrahan. 2012. Example-based synthesis of 3D object arrangements. ACM Trans. on Graphics 31, 6 (2012), 135:1--11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-4",
+                "unstructured": "Qiang Fu, Xiaowu Chen, Xiaotian Wang, Sijia Wen, Bin Zhou, and Hongbo Fu. 2017. Adaptive Synthesis of Indoor Scenes via Activity-associated Object Relation Graphs. ACM Trans. on Graphics 36, 6 (2017), 201:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-5",
+                "unstructured": "Rohit Girdhar, David F. Fouhey, Mikel Rodriguez, and Abhinav Gupta. 2016. Learning a Predictable and Generative Vector Representation for Objects. In Proc. Euro. Conf. on Computer Vision, Vol. 6. 484--499.",
+                "DOI": "10.1007/978-3-319-46466-4_29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-6",
+                "unstructured": "Helmut Grabner, Juergen Gall, and Luc J. Van Gool. 2011. What makes a chair a chair?. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 1529--1536.",
+                "DOI": "10.1109/CVPR.2011.5995327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-7",
+                "unstructured": "Michelle R. Greene, Christopher Baldassano, Diane M. Beck, and Fei-Fei Li. 2016. Visual Scenes Are Categorized by Function. Journal of Experimental Psychology: General 145, 1 (2016), 82--94.",
+                "DOI": "10.1037/xge0000129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-8",
+                "unstructured": "Paul Guerrero, Niloy J. Mitra, and Peter Wonka. 2016. RAID: A Relation-augmented Image Descriptor. ACM Trans. on Graphics 35, 4 (2016), 46:1--12.",
+                "DOI": "10.1145/2897824.2925939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-9",
+                "unstructured": "X. Han, Z. Li, H. Huang, E. Kalogerakis, and Y. Yu. 2017. High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference. In Proc. Int. Conf. on Computer Vision. 85--93.",
+                "DOI": "10.1109/ICCV.2017.19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-10",
+                "unstructured": "Ruizhen Hu, Wenchao Li, Oliver van Kaick, Ariel Shamir, Hao Zhang, and Hui Huang. 2017. Learning to Predict Part Mobility from a Single Static Snapshot. ACM Trans. on Graphics 36, 6 (2017), 227:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-11",
+                "unstructured": "Ruizhen Hu, Oliver van Kaick, Bojian Wu, Hui Huang, Ariel Shamir, and Hao Zhang. 2016. Learning How Objects Function via Co-Analysis of Interactions. ACM Trans. on Graphics 35, 4 (2016), 47:1--12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-12",
+                "unstructured": "Ruizhen Hu, Chenyang Zhu, Oliver van Kaick, Ligang Liu, Ariel Shamir, and Hao Zhang. 2015. Interaction Context (ICON): Towards a Geometric Functionality Descriptor. ACM Trans. on Graphics 34, 4 (2015), 83:1--12.",
+                "DOI": "10.1145/2766914",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-13",
+                "unstructured": "Max Jaderberg, Karen Simonyan, Andrew Zisserman, and koray kavukcuoglu. 2015. Spatial Transformer Networks. In NIPS. 2017--2025."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-14",
+                "unstructured": "Yun Jiang, Hema Koppula, and Ashutosh Saxena. 2013. Hallucinated Humans As the Hidden Context for Labeling 3D Scenes. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 2993--3000.",
+                "DOI": "10.1109/CVPR.2013.385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-15",
+                "unstructured": "Vladimir G. Kim, Siddhartha Chaudhuri, Leonidas Guibas, and Thomas Funkhouser. 2014. Shape2Pose: Human-Centric Shape Analysis. ACM Trans. on Graphics 33, 4 (2014), 120:1--12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-16",
+                "unstructured": "Jun Li, Kai Xu, Siddhartha Chaudhuri, Ersin Yumer, Hao Zhang, and Leonidas Guibas. 2017. GRASS: Generative Recursive Autoencoders for Shape Structures. ACM Trans. on Graphics 36, 4 (2017), 52:1--14.",
+                "DOI": "10.1145/3072959.3073637",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-17",
+                "unstructured": "Zhaoliang Lun, Evangelos Kalogerakis, and Alla Sheffer. 2015. Elements of Style: Learning Perceptual Shape Style Similarity. ACM Trans. on Graphics 34, 4 (2015), 84:1--14.",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-18",
+                "unstructured": "Rui Ma, Honghua Li, Changqing Zou, Zicheng Liao, Xin Tong, and Hao Zhang. 2016. Action-Driven 3D Indoor Scene Evolution. ACM Trans. on Graphics 35, 6 (2016), 173:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-19",
+                "unstructured": "Jonathan Masci, Davide Boscaini, Michael M. Bronstein, and Pierre Vandergheynst. 2015. Geodesic Convolutional Neural Networks on Riemannian Manifolds. In IEEE Workshop on 3D Representation and Recognition. 832--840.",
+                "DOI": "10.1109/ICCVW.2015.112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-20",
+                "unstructured": "Niloy Mitra, Michael Wand, Hao Zhang, Daniel Cohen-Or, and Martin Bokeloh. 2013. Structure-aware shape processing. In Eurographics State-of-the-art Report (STAR). 175--197.",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-21",
+                "unstructured": "Michael Pechuk, Octavian Soldea, and Ehud Rivlin. 2008. Learning function-based object classification from 3D imagery. Computer Vision and Image Understanding 110, 2 (2008), 173--191.",
+                "DOI": "10.1016/j.cviu.2007.06.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-22",
+                "unstructured": "S&#246;ren Pirk, Vojtech Krs, Kaimo Hu, Suren Deepak Rajasekaran, Hao Kang, Bedrich Benes, Yusuke Yoshiyasu, and Leonidas J. Guibas. 2017. Understanding and Exploiting Object Interaction Landscapes. ACM Trans. on Graphics 36, 3 (2017), 31:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-23",
+                "unstructured": "Charles R. Qi, Li Yi, Hao Su, and Leonidas J. Guibas. 2017. PointNet+ + : Deep Hierarchical Feature Learning on Point Sets in a Metric Space. In NIPS. 5105--5114."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-24",
+                "unstructured": "Manolis Savva, Angel X. Chang, Pat Hanrahan, Matthew Fisher, and Matthias Nie&#223;ner. 2014. SceneGrok: Inferring Action Maps in 3D Environments. ACM Trans. on Graphics 33, 6 (2014), 212:1--10.",
+                "DOI": "10.1145/2661229.2661230",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-25",
+                "unstructured": "Manolis Savva, Angel X. Chang, Pat Hanrahan, Matthew Fisher, and Matthias Nie&#223;ner. 2016. PiGraphs: Learning Interaction Snapshots from Observations. ACM Trans. on Graphics 35, 4 (2016), 139:1--12.",
+                "DOI": "10.1145/2992138.2992147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-26",
+                "unstructured": "Louise Stark and Kevin Bowyer. 1991. Achieving Generalized Object Recognition through Reasoning about Association of Function to Structure. IEEE Trans. Pattern Analysis &#38; Machine Intelligence 13, 10 (1991), 1097--1104.",
+                "DOI": "10.1109/34.99242",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-27",
+                "unstructured": "Minhyuk Sung, Hao Su, Vladimir G. Kim, Siddhartha Chaudhuri, and Leonidas Guibas. 2017. ComplementMe: Weakly-supervised Component Suggestions for 3D Modeling. ACM Trans. on Graphics 36, 6 (2017), 226:1--12.",
+                "DOI": "10.1145/3130800.3130821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-28",
+                "unstructured": "Hanqing Wang, Wei Liang, and Lap-Fai Yu. 2017. Transferring Objects: Joint Inference of Container and Human Pose. In Proc. Int. Conf. on Computer Vision. 2952--2960.",
+                "DOI": "10.1109/ICCV.2017.319",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-29",
+                "unstructured": "Jiang Wang, Yang Song, Thomas Leung, Chuck Rosenberg, Jingbin Wang, James Philbin, Bo Chen, and Ying Wu. 2014. Learning Fine-Grained Image Similarity with Deep Ranking. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 1386--1393.",
+                "DOI": "10.1109/CVPR.2014.180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-30",
+                "unstructured": "Yanzhen Wang, Kai Xu, Jun Li, Hao Zhang, Ariel Shamir, Ligang Liu, Zhiquan Cheng, and Yueshan Xiong. 2011. Symmetry Hierarchy of Man-Made Objects. Computer Graphics Forum (Proc. of Eurographics) 30, 2 (2011), 287--296."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-31",
+                "unstructured": "Jiajun Wu, Chengkai Zhang, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum. 2016. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. In NIPS. 82--90."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-32",
+                "unstructured": "Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang, and J. Xiao. 2015. 3D ShapeNets: A Deep Representation for Volumetric Shapes. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 1912--1920."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-33",
+                "unstructured": "Xi Zhao, Ruizhen Hu, Paul Guerrero, Niloy Mitra, and Taku Komura. 2016. Relationship templates for creating scene variations. ACM Trans. on Graphics 35, 6 (2016), 207:1--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-34",
+                "unstructured": "Xi Zhao, He Wang, and Taku Komura. 2014. Indexing 3D Scenes Using the Interaction Bisector Surface. ACM Trans. on Graphics 33, 3 (2014), 22:1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-35",
+                "unstructured": "Youyi Zheng, Daniel Cohen-Or, and Niloy J. Mitra. 2013. Smart Variations: Functional Substructures for Part Compatibility. Computer Graphics Forum (Proc. of Eurographics) 32, 2pt2 (2013), 195--204."
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-36",
+                "unstructured": "Yuke Zhu, Alireza Fathi, and Li Fei-Fei. 2014. Reasoning About Object Affordances in a Knowledge Base Representation. In Proc. Euro. Conf. on Computer Vision, Vol. 2. 408--424.",
+                "DOI": "10.1007/978-3-319-10605-2_27",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201287-37",
+                "unstructured": "Yixin Zhu, Yibiao Zhao, and Song-Chun Zhu. 2015. Understanding tools: Task-oriented object modeling, learning and recognition. In Proc. IEEE Conf. on Computer Vision &#38; Pattern Recognition. 2855--2864.",
+                "DOI": "10.1109/CVPR.2015.7298903",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201287&ftid=1991763&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T17:48:09Z",
+            "timestamp": 1533059289000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201287",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "Timestamp": "12/5/2019 13:47:03",
+    "Title": "tempoGAN: a temporally coherent, volumetric GAN for super-resolution fluid flow",
+    "DOI": "10.1145/3197517.3201304",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 6,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://arxiv.org/abs/1801.09710",
+    "code URL": "https://github.com/thunil/tempoGAN",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1801.09710.pdf",
+    "License type": "Apache License 2.0",
+    "Build mechanism": "CMakeLists, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "https://ge.in.tum.de/download/data/tempoGAN_model2d.zip ; https://ge.in.tum.de/download/data/tempoGAN_model3d.zip",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation",
+    "Authors": "Academia",
+    "ACM 1": "Neural networks",
+    "ACM 2": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Complex CUDA/cudNN/tensorflow/manta infrastructure but well documented. Training data can be reproduced and pre-trained model can be easily reused.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 50,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "CUDA / cudnn / tensorflow-gpu  / imagio / keras / scipy / numpy / mantaflow",
+    "Project URL": "https://ge.in.tum.de/publications/tempogan/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "You",
+            "family": "Xie",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich"
+                }
+            ]
+        },
+        {
+            "given": "Erik",
+            "family": "Franz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich"
+                }
+            ]
+        },
+        {
+            "given": "Mengyu",
+            "family": "Chu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich"
+                }
+            ]
+        },
+        {
+            "given": "Nils",
+            "family": "Thuerey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technical University of Munich"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

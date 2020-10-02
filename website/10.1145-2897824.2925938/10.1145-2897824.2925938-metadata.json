@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:21Z",
+            "timestamp": 1574815941184
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1319573,DBI-1356388,CCF-1054779."
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925938",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Erosion thickness on medial axes of 3D shapes"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yajie",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Washington Univ. in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Kyle",
+                "family": "Sykes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "Erin",
+                "family": "Chambers",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Letscher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington Univ. in St. Louis"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925938-1",
+                "unstructured": "Amenta, N., and Kolluri, R. K. 2001. The medial axis of a union of balls.Comput. Geom. 20, 1-2, 25--37."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-2",
+                "unstructured": "Amenta, N., Choi, S., and Kolluri, R. K. 2001. The power crust. InSMA '01: Proceedings of the sixth ACM symposium on Solid modeling and applications, 249--266."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-3",
+                "unstructured": "Arcelli, C., and di Baja, G. S. 1993. Euclidean skeleton via centre-of-maximal-disc extraction.Image Vision Comput. 11, 3, 163--173."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-4",
+                "unstructured": "Attali, D., and Montanvert, A. 1996. Modeling noise for a better simplification of skeletons. InProceedings 1996 International Conference on Image Processing, Lausanne, Switzerland, September 16-19, 1996, 13--16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-5",
+                "unstructured": "Attali, D., di Baja, G. S., and Thiel, E. 1995. Pruning discrete and semiocontinuous skeletons. InImage Analysis and Processing, 8th International Conference, ICIAP '95, San Remo, Italy, September 13-15, 1995, Proceedings, 488--493."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-6",
+                "unstructured": "Bertrand, G. 1995. A parallel thinning algorithm for medial surfaces.Pattern Recogn. Lett. 16, 9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-7",
+                "unstructured": "Blum, H. 1967. A transformation for extracting new descriptors of form.Models for the Perception of Speech and Visual Form, 362--80."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-8",
+                "unstructured": "Blum, H. 1973. Biological shape and visual science (part i).Journal of Theoretical Biology 38, 2, 205--287."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-9",
+                "unstructured": "Brandt, J., and Algazi, V. 1992. Continuous skeleton computation by voronoi diagram.CVGIP: Image Understanding 55, 3, 329--338."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-10",
+                "unstructured": "Chaussard, J., Couprie, M., and Talbot, H. 2009. A discrete lambda-medial axis. InDGCI, vol. 5810, 421--433."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-11",
+                "unstructured": "Chazal, F., and Lieutier, A. 2004. Stability and homotopy of a subset of the medial axis. InProceedings of the Ninth ACM Symposium on Solid Modeling and Applications, SM '04, 243--248."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-12",
+                "unstructured": "Chazal, F., and Soufflet, R. 2003. Stability and finiteness properties of medial axis and skeleton.Journal of Dynamical and Control Systems 10, 2, 149--170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-13",
+                "unstructured": "Choi, S. W., and Seidel, H.-P. 2001. Hyperbolic hausdorff distance for medial axis transform.Graph. Models 63, 5 (Sept.), 369--384."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-14",
+                "unstructured": "Cornea, N. D., and Min, P. 2007. Curve-skeleton properties, applications, and algorithms.IEEE Transactions on Visualization and Computer Graphics 13, 3, 530--548. Member-Silver, Deborah.",
+                "DOI": "10.1109/TVCG.2007.1002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-15",
+                "unstructured": "Crane, K., Weischedel, C., and Wardetzky, M. 2013. Geodesics in heat: A new approach to computing distance based on heat flow.ACM Trans. Graph. 32, 5 (Oct.), 152:1--152:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-16",
+                "unstructured": "Culver, T., Keyser, J., and Manocha, D. 2004. Exact computation of the medial axis of a polyhedron.Computer Aided Geometric Design 21, 1, 65--98."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-17",
+                "unstructured": "Dey, T. K., and Sun, J. 2006. Defining and computing curve-skeletons with medial geodesic function. InSGP '06: Proceedings of the fourth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 143--152."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-18",
+                "unstructured": "Dey, T. K., and Zhao, W. 2004. Approximate medial axis as a voronoi subcomplex.Computer-Aided Design 36, 2, 195--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-19",
+                "unstructured": "Dill, A. R., Levine, M. D., and Noble, P. B. 1987. Multiple resolution skeletons.IEEE Trans. Pattern Anal. Mach. Intell. 9, 4, 495--504."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-20",
+                "unstructured": "Fletcher, P. T., Lu, C., Pizer, S. M., and Joshi, S. C. 2004. Principal geodesic analysis for the study of nonlinear statistics of shape.IEEE Trans. Med. Imaging 23, 8, 995--1005."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-21",
+                "unstructured": "Foskey, M., Lin, M. C., and Manocha, D. 2003. Efficient computation of A simplified medial axis.J. Comput. Inf. Sci. Eng. 3, 4, 274--284."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-22",
+                "unstructured": "Giblin, P. J., and Kimia, B. B. 2004. A formal classification of 3d medial axis points and their local geometry.IEEE Trans. Pattern Anal. Mach. Intell. 26, 2, 238--251."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-23",
+                "unstructured": "Giesen, J., Miklos, B., Pauly, M., and Wormser, C. 2009. The scale axis transform. InProceedings of the Twenty-fifth Annual Symposium on Computational Geometry, SCG '09, 106--115.",
+                "DOI": "10.1145/1542362.1542388",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-24",
+                "unstructured": "Golland, P., Eric, W., and Grimson, L. 2000. Fixed topology skeletons. InComputer Vision and Pattern Recognition, 2000. Proceedings. IEEE Conference on, vol. 1, 10--17 vol. 1.",
+                "DOI": "10.1109/CVPR.2000.855792",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-25",
+                "unstructured": "Ho, S.-B., and Dyer, C. R. 1986. Shape smoothing using medial axis properties.IEEE Transactions on Pattern Analysis and Machine Intelligence 8, 4, 512--520."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-26",
+                "unstructured": "Lanthier, M., Maheshwari, A., and Sack, J.-R. 1997. Approximating weighted shortest paths on polyhedral surfaces. InProceedings of the Thirteenth Annual Symposium on Computational Geometry, SCG '97, 485--486."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-27",
+                "unstructured": "Li, P., Wang, B., Sun, F., Guo, X., Zhang, C., and Wang, W. 2015. Q-mat: Computing medial axis transform by quadratic error minimization.ACM Trans. Graph. 35, 1 (Dec.), 8:1--8:16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-28",
+                "unstructured": "Lieutier, A. 2003. Any open bounded subset of rn has the same homotopy type than its medial axis. InProceedings of the Eighth ACM Symposium on Solid Modeling and Applications, SM '03, 65--75.",
+                "DOI": "10.1145/781606.781620",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-29",
+                "unstructured": "Liu, L., Chambers, E. W., Letscher, D., and Ju, T. 2010. A simple and robust thinning algorithm on cell complexes.Comput. Graph. Forum 29, 7, 2253--2260."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-30",
+                "unstructured": "Liu, L., Chambers, E. W., Letscher, D., and Ju, T. 2011. Extended grassfire transform on medial axes of 2d shapes.Computer-Aided Design 43, 11, 1496--1505."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-31",
+                "unstructured": "Miklos, B., Giesen, J., and Pauly, M. 2010. Discrete scale axis representations for 3d geometry.ACM Trans. Graph. 29, 4 (July), 101:1--101:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-32",
+                "unstructured": "Niblack, W., Gibbons, P., and Capson, D. 1992. Generating connected skeletons for exact and approximate reconstruction. InComputer Vision and Pattern Recognition, 1992. Proceedings CVPR '92., 1992 IEEE Computer Society Conference on, 826--828."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-33",
+                "unstructured": "Ogniewicz, R., and Ilg, M. 1992. Voronoi skeletons: theory and applications. InComputer Vision and Pattern Recognition, 1992. Proceedings CVPR '92., 1992 IEEE Computer Society Conference on, 63--69."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-34",
+                "unstructured": "Ogniewicz, R. L., and K&#252;bler, O. 1995. Hierarchic voronoi skeletons.Pattern Recognition 28, 3, 343--359."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-35",
+                "unstructured": "Pizer, S. M., Oliver, W. R., and Bloomberg, S. H. 1987. Hierarchical shape description via the multiresolution symmetric axis transform.IEEE Trans. Pattern Anal. Mach. Intell. 9, 4, 505--511."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-36",
+                "unstructured": "Pizer, S. M., Fletcher, P. T., Joshi, S. C., Thall, A., Chen, J. Z., Fridman, Y., Fritsch, D. S., Gash, A. G., Glotzer, J. M., Jiroutek, M. R., Lu, C., Muller, K. E., Tracton, G., Yushkevich, P. A., and Chaney, E. L. 2003. Deformable m-reps for 3d medical image segmentation.International Journal of Computer Vision 55, 2-3, 85--106."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-37",
+                "unstructured": "Pizer, S. M., Gerig, G., Joshi, S. C., and Aylward, S. R. 2003. Multiscale medial shape-based analysis of image objects.Proceedings of the IEEE 91, 10, 1670--1679."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-38",
+                "unstructured": "Reniers, D., van Wijk, J., and Telea, A. 2008. Computing multiscale curve and surface skeletons of genus 0 shapes using a global importance measure.IEEE Transactions on Visualization and Computer Graphics 14, 2, 355--368."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-39",
+                "unstructured": "Shaked, D., and Bruckstein, A. M. 1998. Pruning medial axes.Comput. Vis. Image Underst. 69, 2, 156--169."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-40",
+                "unstructured": "Siddiqi, K., and Pizer, S. M. 2008.Medial Representations. Springer.",
+                "DOI": "10.1007/978-1-4020-8658-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-41",
+                "unstructured": "Siddiqi, K., Bouix, S., Tannenbaum, A., and Zucker, S. W. 2002. Hamilton-jacobi skeletons.International Journal of Computer Vision 48, 3 (July), 215--231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-42",
+                "unstructured": "Styner, M., Gerig, G., Joshi, S. C., and Pizer, S. M. 2003. Automatic and robust computation of 3d medial models incorporating object variability.International Journal of Computer Vision 55, 2-3, 107--122."
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-43",
+                "unstructured": "Sud, A., Foskey, M., and Manocha, D. 2005. Homotopy-preserving medial axis simplification. InSPM '05: Proceedings of the 2005 ACM symposium on Solid and physical modeling, ACM, New York, NY, USA, 39--50.",
+                "DOI": "10.1145/1060244.1060250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-44",
+                "unstructured": "Tagliasacchi, A., Delame, T., Spagnuolo, M., Amenta, N., and Telea, A. 2016. 3d skeletons: A state-of-the-art report. InEurographics.",
+                "DOI": "10.1111/cgf.12865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925938-45",
+                "unstructured": "Tam, R. C., and Heidrich, W. 2003. Shape simplification based on the medial axis transform. In14th IEEE Visualization 2003 Conference (VIS 2003), 19-24 October 2003, Seattle, WA, USA, 481--488."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925938&amp;ftid=1755864&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:36:29Z",
+            "timestamp": 1568162189000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925938",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

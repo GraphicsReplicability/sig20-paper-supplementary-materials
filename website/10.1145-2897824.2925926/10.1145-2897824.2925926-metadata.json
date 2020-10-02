@@ -1,0 +1,314 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410117
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Max Planck Center for Visual Computing and Communication",
+                "award": []
+            },
+            {
+                "name": "Science Foundation",
+                "award": [
+                    "1869/15, 2102/15"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925926",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Bounded distortion harmonic shape interpolation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Edward",
+                "family": "Chien",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Bar Ilan University, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Renjie",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Ofir",
+                "family": "Weber",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Bar Ilan University, Israel"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925926-1",
+                "unstructured": "Ahlfors, L. 1979.Complex analysis, vol. 7. McGraw-Hill Education."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-2",
+                "unstructured": "Aigerman, N., and Lipman, Y. 2013. Injective and bounded distortion mappings in 3D.ACM Transactions on Graphics (TOG) 32, 4, 106."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-3",
+                "unstructured": "Alexa, M., Cohen-Or, D., and Levin, D. 2000. As-rigid-as-possible shape interpolation. InProceedings of the 27th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 157--164.",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-4",
+                "unstructured": "Alexa, M. 2002. Recent advances in mesh morphing. InComputer graphics forum, vol. 21, Wiley Online Library, 173--198.",
+                "DOI": "10.1111/1467-8659.00575",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-5",
+                "unstructured": "Baxter, W., Barla, P., and Anjyo, K. 2008. Rigid shape interpolation using normal equations. InProceedings of the 6th international symposium on Non-photorealistic animation and rendering, ACM, 59--64.",
+                "DOI": "10.1145/1377980.1377993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-6",
+                "unstructured": "Bell, S. R. 1992.The Cauchy transform, potential theory and conformal mapping, vol. 7. CRC press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-7",
+                "unstructured": "Chen, R., and Weber, O. 2015. Bounded distortion harmonic mappings in the plane.ACM Transactions on Graphics (TOG) 34, 4, 73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-8",
+                "unstructured": "Chen, R., Weber, O., Keren, D., and Ben-Chen, M. 2013. Planar shape interpolation with bounded distortion.ACM Transactions on Graphics (TOG) 32, 4, 108."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-9",
+                "unstructured": "Choi, J., and Szymczak, A. 2003. On coherent rotation angles for as-rigid-as-possible shape interpolation. InProceedings of the 15th Canadian Conference on Computational Geometry, 111--114."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-10",
+                "unstructured": "Duren, P. 2004.Harmonic mappings in the plane. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511546600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-11",
+                "unstructured": "Kircher, S., and Garland, M. 2008. Free-form motion processing.ACM Transactions on Graphics (TOG) 27, 2, 12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-12",
+                "unstructured": "Kn&#246;ppel, F., Crane, K., Pinkall, U., and Schr&#246;der, P. 2013. Globally optimal direction fields.ACM Transactions on Graphics (TOG) 32, 4, 59."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-13",
+                "unstructured": "Kovalsky, S. Z., Aigerman, N., Basri, R., and Lipman, Y. 2014. Controlling singular values with semidefinite programming.ACM Transactions on Graphics (TOG), 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-14",
+                "unstructured": "Kovalsky, S. Z., Aigerman, N., Basri, R., and Lipman, Y. 2015. Large-scale bounded distortion mappings.ACM Transactions on Graphics (TOG) 34, 6, 191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-15",
+                "unstructured": "Levi, Z., and Weber, O. 2016. On the convexity and feasibility of the bounded distortion harmonic mapping problem.ACM TOG 35, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-16",
+                "unstructured": "Levi, Z., and Zorin, D. 2014. Strict minimizers for geometric optimization.ACM Transactions on Graphics (TOG) 33, 6, 185."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-17",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Transactions on Graphics (TOG) 31, 4, 108."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-18",
+                "unstructured": "Poranne, R., and Lipman, Y. 2014. Provably good planar mappings.ACM Transactions on Graphics (TOG) 33, 4, 76."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-19",
+                "unstructured": "Sch&#252;ller, C., Kavan, L., Panozzo, D., and Sorkine-Hornung, O. 2013. Locally injective mappings. InComputer Graphics Forum, vol. 32, Wiley Online Library, 125--135.",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-20",
+                "unstructured": "Surazhsky, V., and Gotsman, C. 2001. Controllable morphing of compatible planar triangulations.ACM Transactions on Graphics 20, 4, 203--231."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-21",
+                "unstructured": "Surazhsky, V., and Gotsman, C. 2003. Intrinsic morphing of compatible triangulations.International Journal of Shape Modeling 9, 02, 191--201."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-22",
+                "unstructured": "Tutte, W. 1963. How to draw a graph.Proc. London Math. Soc 13, 3, 743--768."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-23",
+                "unstructured": "Weber, O., and Gotsman, C. 2010. Controllable conformal maps for shape deformation and interpolation.ACM Transactions on Graphics (TOG) 29, 4, 78."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-24",
+                "unstructured": "Weber, O., and Zorin, D. 2014. Locally injective parametrization with arbitrary fixed boundaries.ACM Transactions on Graphics (TOG) 33, 4, 75."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-25",
+                "unstructured": "Weber, O., Sorkine, O., Lipman, Y., and Gotsman, C. 2007. Context-aware skeletal shape deformation. InComputer Graphics Forum, vol. 26, Wiley Online Library, 265--274.",
+                "DOI": "10.1111/j.1467-8659.2007.01048.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-26",
+                "unstructured": "Weber, O., Ben-Chen, M., and Gotsman, C. 2009. Complex barycentric coordinates with applications to planar shape deformation.Computer Graphics Forum 28, 2, 587--597."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-27",
+                "unstructured": "Weber, O., Myles, A., and Zorin, D. 2012. Computing extremal quasiconformal maps.Computer Graphics Forum 31, 5, 1679--1689."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-28",
+                "unstructured": "Wolberg, G. 1998. Image morphing: a survey.The visual computer 14, 8, 360--372."
+            },
+            {
+                "key": "key-10.1145/2897824.2925926-29",
+                "unstructured": "Xu, D., Zhang, H., Wang, Q., and Bao, H. 2006. Poisson shape interpolation.Graphical models 68, 3, 268--281."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925926&amp;ftid=1755886&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:06Z",
+            "timestamp": 1568162766000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925926",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

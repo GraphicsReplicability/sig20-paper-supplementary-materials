@@ -1,0 +1,442 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:00:39Z",
+            "timestamp": 1574816439582
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1514268"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925867",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "PiGraphs"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Manolis",
+                "family": "Savva",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Angel X.",
+                "family": "Chang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "Fisher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Nie\u00dfner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925867-1",
+                "unstructured": "Bai, Y., Siu, K., and Liu, C. K. 2012. Synthesis of concurrent object manipulation tasks.ACM Trans. Graph. 31, 6, 156."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-2",
+                "unstructured": "Bohg, J., Morales, A., Asfour, T., and Kragic, D. 2013. Data-driven grasp synthesis---a survey.",
+                "DOI": "10.1109/TRO.2013.2289018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-3",
+                "unstructured": "Chang, A. X., Savva, M., and Manning, C. D. 2014. Learning spatial knowledge for text to 3D scene generation. InEmpirical Methods in Natural Language Processing (EMNLP).",
+                "DOI": "10.3115/v1/D14-1217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-4",
+                "unstructured": "Coyne, B., and Sproat, R. 2001. WordsEye: an automatic text-to-scene conversion system. InProceedings of the 28th annual conference on Computer graphics and interactive techniques.",
+                "DOI": "10.1145/383259.383316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-5",
+                "unstructured": "De la Torre, F., Hodgins, J., Montano, J., Valcarcel, S., and Macey, J. 2009. Guide to the Carnegie Mellon university multimodal activity (CMU-MMAC) database.Robotics Institute, Carnegie Mellon University."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-6",
+                "unstructured": "Delaitre, V., Fouhey, D. F., Laptev, I., Sivic, J., Gupta, A., and Efros, A. A. 2012. Scene semantics from long-term observation of people. InECCV.",
+                "DOI": "10.1007/978-3-642-33783-3_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-7",
+                "unstructured": "Felzenszwalb, P. F., and Huttenlocher, D. P. 2004. Efficient graph-based image segmentation.IJCV.",
+                "DOI": "10.1023/B:VISI.0000022288.19776.77",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-8",
+                "unstructured": "Fisher, M., Ritchie, D., Savva, M., Funkhouser, T., and Hanrahan, P. 2012. Example-based synthesis of 3D object arrangements. InACM TOG.",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-9",
+                "unstructured": "Fisher, M., Savva, M., Li, Y., Hanrahan, P., and Niessner, M. 2015. Activity-centric scene synthesis for functional 3D scene modeling.ACM Transactions on Graphics (TOG) 34, 6, 179."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-10",
+                "unstructured": "Fouhey, D. F., Delaitre, V., Gupta, A., Efros, A. A., Laptev, I., and Sivic, J. 2012. People watching: Human actions as a cue for single view geometry. InECCV.",
+                "DOI": "10.1007/978-3-642-33715-4_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-11",
+                "unstructured": "Gibson, J. 1977. The concept of affordances.Perceiving, acting, and knowing."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-12",
+                "unstructured": "Grabner, H., Gall, J., and Van Gool, L. 2011. What makes a chair a chair? InCVPR.",
+                "DOI": "10.1109/CVPR.2011.5995327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-13",
+                "unstructured": "Grochow, K., Martin, S. L., Hertzmann, A., and Popovi&#263;, Z. 2004. Style-based inverse kinematics. InACM Transactions on Graphics (TOG), vol. 23, ACM, 522--531.",
+                "DOI": "10.1145/1186562.1015755",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-14",
+                "unstructured": "Guo, S., Southern, R., Chang, J., Greer, D., and Zhang, J. J. 2014. Adaptive motion synthesis for virtual characters: a survey.The Visual Computer, 1--16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-15",
+                "unstructured": "Gupta, A., Satkin, S., Efros, A. A., and Hebert, M. 2011. From 3D scene geometry to human workspace. InCVPR.",
+                "DOI": "10.1109/CVPR.2011.5995448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-16",
+                "unstructured": "Hu, R., Zhu, C., van Kaick, O., Liu, L., Shamir, A., and Zhang, H. 2015. Interaction context (icon): Towards a geometric functionality descriptor.ACM Trans. Graph. 34, 4 (July), 83:1--83:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-17",
+                "unstructured": "Huang, H., Kalogerakis, E., and Marlin, B. 2015. Analysis and synthesis of 3D shape families via deep-learned generative models of surfaces.Computer Graphics Forum 34, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-18",
+                "unstructured": "Jiang, Y., and Saxena, A. 2013. Infinite latent conditional random fields for modeling environments through humans. InRSS.",
+                "DOI": "10.15607/RSS.2013.IX.034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-19",
+                "unstructured": "Jiang, Y., Lim, M., and Saxena, A. 2012. Learning object arrangements in 3D scenes using human context.arXiv preprint arXiv:1206.6462."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-20",
+                "unstructured": "Jiang, Y., Koppula, H., and Saxena, A. 2013. Hallucinated humans as the hidden context for labeling 3D scenes. InCVPR.",
+                "DOI": "10.1109/CVPR.2013.385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-21",
+                "unstructured": "Kallmann, M., and Thalmann, D. 1999.Modeling objects for interaction tasks. Springer.",
+                "DOI": "10.1007/978-3-7091-6375-7_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-22",
+                "unstructured": "Kalogerakis, E., Chaudhuri, S., Koller, D., and Koltun, V. 2012. A probabilistic model of component-based shape synthesis.ACM Transactions on Graphics 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-23",
+                "unstructured": "Kang, C., and Lee, S.-H. 2014. Environment-adaptive contact poses for virtual characters. InComputer Graphics Forum, vol. 33, Wiley Online Library, 1--10.",
+                "DOI": "10.1111/cgf.12468",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-24",
+                "unstructured": "Kim, V. G., Chaudhuri, S., Guibas, L., and Funkhouser, T. 2014. Shape2Pose: Human-centric shape analysis.ACM TOG.",
+                "DOI": "10.1145/2601097.2601117",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-25",
+                "unstructured": "Koppula, H. S., and Saxena, A. 2013. Anticipating human activities using object affordances for reactive robotic response.RSS.",
+                "DOI": "10.15607/RSS.2013.IX.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-26",
+                "unstructured": "Koppula, H., Gupta, R., and Saxena, A. 2013. Learning human activities and object affordances from RGB-D videos.IJRR.",
+                "DOI": "10.1177/0278364913478446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-27",
+                "unstructured": "Lee, K. H., Choi, M. G., and Lee, J. 2006. Motion patches: building blocks for virtual environments annotated with motion data. InACM Transactions on Graphics (TOG), vol. 25, ACM, 898--906.",
+                "DOI": "10.1145/1141911.1141972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-28",
+                "unstructured": "Manning, C. D., Surdeanu, M., Bauer, J., Finkel, J., Bethard, S. J., and McClosky, D. 2014. The Stanford CoreNLP natural language processing toolkit. InAssociation for Computational Linguistics (ACL): System Demonstrations.",
+                "DOI": "10.3115/v1/P14-5010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-29",
+                "unstructured": "Mardia, K. V., and Jupp, P. E. 2009.Directional statistics, vol. 494. John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-30",
+                "unstructured": "Min, J., and Chai, J. 2012. Motion graphs++: a compact generative model for semantic motion analysis and synthesis.ACM Transactions on Graphics (TOG) 31, 6, 153."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-31",
+                "unstructured": "Niessner, M., Zollh&#246;fer, M., Izadi, S., and Stamminger, M. 2013. Real-time 3D reconstruction at scale using voxel hashing.ACM TOG.",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-32",
+                "unstructured": "Ofli, F., Chaudhry, R., Kurillo, G., Vidal, R., and Bajcsy, R. 2013. Berkeley MHAD: A comprehensive multi-modal human action database. InApplications of Computer Vision (WACV), 2013 IEEE Workshop on, IEEE, 53--60."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-33",
+                "unstructured": "Savva, M., Chang, A. X., Hanrahan, P., Fisher, M., and Niessner, M. 2014. SceneGrok: Inferring action maps in 3D environments.ACM TOG.",
+                "DOI": "10.1145/2661229.2661230",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-34",
+                "unstructured": "Shapiro, A. 2011. Building a character animation system. InMotion in Games. Springer, 98--109.",
+                "DOI": "10.1007/978-3-642-25090-3_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-35",
+                "unstructured": "Shotton, J., Sharp, T., Kipman, A., Fitzgibbon, A., Finocchio, M., Blake, A., Cook, M., and Moore, R. 2013. Real-time human pose recognition in parts from single depth images.CACM.",
+                "DOI": "10.1007/978-3-642-28661-2_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-36",
+                "unstructured": "Sra, S. 2012. A short note on parameter approximation for von Mises-Fisher distributions: and a fast implementation ofIs(x).Computational Statistics 27, 1, 177--190."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-37",
+                "unstructured": "Stark, M., Lies, P., Zillich, M., Wyatt, J., and Schiele, B. 2008. Functional object class detection based on learned affordance cues. InComputer Vision Systems.",
+                "DOI": "10.1007/978-3-540-79547-6_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-38",
+                "unstructured": "Tenorth, M., Bandouch, J., and Beetz, M. 2009. The TUM kitchen data set of everyday manipulation activities for motion tracking and action recognition. InComputer Vision Workshops (ICCV Workshops), 2009 IEEE 12th International Conference on, IEEE, 1089--1096.",
+                "DOI": "10.1109/ICCVW.2009.5457583",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-39",
+                "unstructured": "Wei, P., Zhao, Y., Zheng, N., and Zhu, S.-C. 2013. Modeling 4D human-object interactions for event and object recognition. InICCV.",
+                "DOI": "10.1109/ICCV.2013.406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-40",
+                "unstructured": "Wei, P., Zheng, N., Zhao, Y., and Zhu, S.-C. 2013. Concurrent action detection with structural prediction. InICCV.",
+                "DOI": "10.1109/ICCV.2013.389",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-41",
+                "unstructured": "Xu, K., Ma, R., Zhang, H., Zhu, C., Shamir, A., Cohen-Or, D., and Huang, H. 2014. Organizing heterogeneous scene collection through contextual focal points.ACM TOG.",
+                "DOI": "10.1145/2601097.2601109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-42",
+                "unstructured": "Yu, L.-F., Yeung, S. K., Tang, C.-K., Terzopoulos, D., Chan, T. F., and Osher, S. 2011. Make it home: automatic optimization of furniture arrangement.ACM Transactions on Graphics 30, 4, 86."
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-43",
+                "unstructured": "Yumer, M. E., Chaudhuri, S., Hodgins, J. K., and Kara, L. B. 2015. Semantic shape editing using deformation handles.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2015) 34.",
+                "DOI": "10.1145/2766908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925867-44",
+                "unstructured": "Zheng, B., Zhao, Y., Yu, J. C., Ikeuchi, K., and Zhu, S.-C. 2014. Detecting potential falling objects by inferring human action and natural disturbance. InICRA.",
+                "DOI": "10.1109/ICRA.2014.6907351",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925867&amp;ftid=1755917&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:28Z",
+            "timestamp": 1568162968000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "learning interaction snapshots from observations"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925867",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

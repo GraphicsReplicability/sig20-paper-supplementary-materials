@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:59Z",
+            "timestamp": 1574815979357
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "638176"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "13-19483, CMMI-11-29917"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RGPIN-04360-2014"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925899",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Surface-only liquids"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Fang",
+                "family": "Da",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Hahn",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher",
+                "family": "Batty",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Waterloo"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Wojtan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925899-1",
+                "unstructured": "Abraham, R., Marsden, J. E., and Ratiu, T. 1988.Manifolds, Tensor Analysis, and Applications.Springer.",
+                "DOI": "10.1007/978-1-4612-1029-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-2",
+                "unstructured": "Angelidis, A., and Neyret, F. 2005. Simulation of smoke based on vortex filament primitives. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 87--96."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-3",
+                "unstructured": "Atkinson, K. E. 1997. The numerical solution of boundary integral equations. InThe State of the Art in Numerical Analysis, pp. 223--259."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-4",
+                "unstructured": "Batty, C., Bertails, F., and Bridson, R. 2007. A fast variational framework for accurate solid-fluid coupling.ACM Trans. Graph. 26, 3, 100."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-5",
+                "unstructured": "Batty, C., Xenos, S., and Houston, B. 2010. Tetrahedral embedded boundary methods for accurate and flexible adaptive fluids. InComputer Graphics Forum, vol. 29, Wiley Online Library, 695--704.",
+                "DOI": "10.1111/j.1467-8659.2009.01639.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-6",
+                "unstructured": "Batty, C., Uribe, A., Audoly, B., and Grinspun, E. 2012. Discrete viscous sheets.ACM Trans. Graph. 31, 4, 113."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-7",
+                "unstructured": "Bojsen-Hansen, M., and Wojtan, C. 2013. Liquid surface tracking with error compensation.ACM Trans. Graph. 32, 4, 68."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-8",
+                "unstructured": "Brochu, T., Batty, C., and Bridson, R. 2010. Matching fluid simulation elements to surface geometry and topology.ACM Trans. Graph. 29, 4, 47."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-9",
+                "unstructured": "Brochu, T., Keeler, T., and Bridson, R. 2012. Linear-time smoke animation with vortex sheet meshes. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 87--95."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-10",
+                "unstructured": "Brochu, T. 2006.Fluid animation with explicit surface meshes and boundary-only dynamics.Master's thesis, University of British Columbia."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-11",
+                "unstructured": "Bush, J. W., and Hasha, A. E. 2004. On the collision of laminar jets: fluid chains and fishbones.Journal of fluid mechanics 511, 285--310."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-12",
+                "unstructured": "Chen, C., Golberg, M., and Schaback, R. 2003. Recent developments in the dual reciprocity method using compactly supported radial basis functions.Transformation of Domain Effects to the Boundary (YF Rashed and CA Brebbia, eds), WITPress, Southampton, Boston, 138--225."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-13",
+                "unstructured": "Chentanez, N., Feldman, B. E., Labelle, F., O'Brien, J. F., and Shewchuk, J. R. 2007. Liquid simulation on lattice-based tetrahedral meshes. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer animation, 219--228."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-14",
+                "unstructured": "Clausen, P., Wicke, M., Shewchuk, J. R., and O'brien, J. F. 2013. Simulating liquids and solid-liquid interactions with Lagrangian meshes.ACM Trans. Graph. 32, 2, 17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-15",
+                "unstructured": "Cohen-Steiner, D., and Morvan, J.-M. 2003. Restricted Delaunay triangulations and normal cycle. InProceedings of the nineteenth annual Symposium on Computational Geometry, ACM, 312--321.",
+                "DOI": "10.1145/777792.777839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-16",
+                "unstructured": "Da, F., Batty, C., and Grinspun, E. 2014. Multimaterial mesh-based surface tracking.ACM Trans. Graph. 33, 4, 112:1--112:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-17",
+                "unstructured": "Da, F., Batty, C., Wojtan, C., and Grinspun, E. 2015. Double bubbles sans toil and trouble: discrete circulation-preserving vortex sheets for soap films and foams.ACM Trans. Graph. 34, 4, 149."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-18",
+                "unstructured": "Davidson, M. R. 2000. Boundary integral prediction of the spreading of an inviscid drop impacting on a solid surface.Chemical Engineering Science 55, 6, 1159--1170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-19",
+                "unstructured": "Duffy, M. G. 1982. Quadrature over a pyramid or cube of integrands with a singularity at a vertex.SIAM journal on Numerical Analysis 19, 6, 1260--1262."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-20",
+                "unstructured": "Enright, D., Fedkiw, R., Ferziger, J., and Mitchell, I. 2002. A hybrid particle level set method for improved interface capturing.Journal of Computational Physics 183, 1, 83--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-21",
+                "unstructured": "Fedkiw, R. P., Aslam, T., Merriman, B., and Osher, S. 1999. A non-oscillatory Eulerian approach to interfaces in multi-material flows (the ghost fluid method).Journal of Computational Physics 152, 2, 457--492."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-22",
+                "unstructured": "Florez, W., and Power, H. 2001. Comparison between continuous and discontinuous boundary elements in the multidomain dual reciprocity method for the solution of the two-dimensional Navier--Stokes equations.Engineering analysis with boundary elements 25, 1, 57--69."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-23",
+                "unstructured": "Foster, N., and Fedkiw, R. 2001. Practical animation of liquids. InProceedings of SIGGRAPH 01, Annual Conference Series, 23--30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-24",
+                "unstructured": "Foster, N., and Metaxas, D. 1996. Realistic animation of liquids.Graphical models and image processing 58, 5, 471--483."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-25",
+                "unstructured": "Greengard, L., and Rokhlin, V. 1987. A fast algorithm for particle simulations.Journal of Computational Physics 73, 2, 325--348."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-26",
+                "unstructured": "Hahn, D., and Wojtan, C. 2015. High-resolution brittle fracture simulation with boundary elements.ACM Trans. Graph. 34, 4, 151."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-27",
+                "unstructured": "Hartmann, F. 2012.Introduction to boundary elements: theory and applications.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-28",
+                "unstructured": "Hong, J.-M., and Kim, C.-H. 2005. Discontinuous fluids. InACM Trans. Graph., vol. 24, ACM, 915--920.",
+                "DOI": "10.1145/1186822.1073283",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-29",
+                "unstructured": "Ihmsen, M., Cornelis, J., Solenthaler, B., Horvath, C., and Teschner, M. 2014. Implicit incompressible SPH.Visualization and Computer Graphics, IEEE Transactions on 20, 3, 426--435."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-30",
+                "unstructured": "Ihmsen, M., Orthmann, J., Solenthaler, B., Kolb, A., and Teschner, M. 2014. SPH Fluids in Computer Graphics.Eurographics 2014 - State of the Art Reports."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-31",
+                "unstructured": "James, D. L., and Pai, D. K. 1999. ArtDefo: accurate real time deformable objects. InProceedings of SIGGRAPH 99, Annual Conference Series, 65--72.",
+                "DOI": "10.1145/311535.311542",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-32",
+                "unstructured": "Keeler, T., and Bridson, R. 2014. Ocean waves animation using boundary integral equations and explicit mesh tracking. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 11--19."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-33",
+                "unstructured": "Ladyzhenskaya, O. A. 1963.The mathematical theory of viscous incompressible flow.Gordon and Breach New York."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-34",
+                "unstructured": "Manti&#269;, V. 1993. A new formula for the C-matrix in the Somigliana identity.Journal of Elasticity 33, 3, 191--201."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-35",
+                "unstructured": "Misztal, M. K., Bridson, R., Erleben, K., B&#230;rentzen, J. A., and Anton, F. 2010. Optimization-based fluid simulation on unstructured meshes. InVRIPHYS, 11--20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-36",
+                "unstructured": "Narain, R., Samii, A., and O'Brien, J. F. 2012. Adaptive anisotropic remeshing for cloth simulation.ACM Trans. Graph. 31, 6, 152."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-37",
+                "unstructured": "Osher, S., and Sethian, J. A. 1988. Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations.Journal of Computational Physics 79, 1, 12--49."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-38",
+                "unstructured": "Pan, K.-L., Chou, P.-C., and Tseng, Y.-J. 2009. Binary droplet collision at high Weber number.Phys. Rev. E 80(Sep), 036301."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-39",
+                "unstructured": "Park, S. I., and Kim, M. J. 2005. Vortex fluid for gaseous phenomena. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 261--270."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-40",
+                "unstructured": "Pfaff, T., Thuerey, N., and Gross, M. 2012. Lagrangian vortex sheets for animating fluids.ACM Trans. Graph. 31, 4, 112."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-41",
+                "unstructured": "Phillips, H. B. 1933.Vector analysis. Wiley New York."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-42",
+                "unstructured": "Power, H., and Partridge, P. W. 1994. The use of Stokes' fundamental solution for the boundary only element formulation of the three-dimensional Navier-Stokes equations for moderate Reynolds numbers.International journal for numerical methods in engineering 37, 11, 1825--1840."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-43",
+                "unstructured": "Quan, S., Lou, J., and Schmidt, D. P. 2009. Modeling merging and breakup in the moving mesh interface tracking method for multiphase flow simulations.Journal of Computational Physics 228, 7, 2660--2675."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-44",
+                "unstructured": "Sauter, S. A., and Schwab, C. 2011.Boundary element methods. Springer.",
+                "DOI": "10.1007/978-3-540-68093-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-45",
+                "unstructured": "Schroeder, C., Zheng, W., and Fedkiw, R. 2012. Semi-implicit surface tension formulation with a Lagrangian surface mesh on an Eulerian simulation grid.Journal of Computational Physics 231, 4, 2092--2115."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-46",
+                "unstructured": "Selle, A., Rasmussen, N., and Fedkiw, R. 2005. A vortex particle method for smoke, water and explosions. InACM Trans. Graph., vol. 24, ACM, 910--914.",
+                "DOI": "10.1145/1186822.1073282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-47",
+                "unstructured": "Stam, J. 1999. Stable fluids. InProceedings of SIGGRAPH 99, Annual Conference Series, ACM Press/Addison-Wesley Publishing Co., 121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-48",
+                "unstructured": "Stock, M. J. 2006.A regularized inviscid vortex sheet method for three dimensional flows with density interfaces. PhD thesis, Worcester Polytechnic Institute."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-49",
+                "unstructured": "Th&#252;rey, N., Wojtan, C., Gross, M., and Turk, G. 2010. A multiscale approach to mesh-based surface tension flows. InACM Trans. Graph., vol. 29, ACM, 48.",
+                "DOI": "10.1145/1833349.1778785",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-50",
+                "unstructured": "Wang, H., Mucha, P. J., and Turk, G. 2005. Water drops on surfaces. InACM Trans. Graph., vol. 24, ACM, 921--929.",
+                "DOI": "10.1145/1186822.1073284",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-51",
+                "unstructured": "Weissmann, S., and Pinkall, U. 2010. Filament-based smoke with vortex shedding and variational reconnection.ACM Trans. Graph. 29, 4, 115."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-52",
+                "unstructured": "Wojtan, C., M&#252;ller-Fischer, M., and Brochu, T. 2011. Liquid simulation with mesh-based surface tracking. InACM SIGGRAPH 2011 Courses, ACM, 8.",
+                "DOI": "10.1145/2037636.2037644",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-53",
+                "unstructured": "Xue, M., X&#252;, H., Liu, Y., and Yue, D. K. 2001. Computations of fully nonlinear three-dimensional wave--wave and wave--body interactions. Part 1. Dynamics of steep three-dimensional waves.Journal of Fluid Mechanics 438, 11--39."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-54",
+                "unstructured": "Zhang, X., and Bridson, R. 2014. A PPPM fast summation method for fluids and beyond.ACM Trans. Graph. 33, 6, 206."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-55",
+                "unstructured": "Zhang, Y., Wang, H., Wang, S., Tong, Y., and Zhou, K. 2012. A deformable surface model for real-time water drop animation.Visualization and Computer Graphics, IEEE Transactions on 18, 8, 1281--1289."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-56",
+                "unstructured": "Zhang, X., Bridson, R., and Greif, C. 2015. Restoring the missing vorticity in advection-projection fluid solvers.ACM Trans. Graph. 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-57",
+                "unstructured": "Zhu, B., Quigley, E., Cong, M., Solomon, J., and Fedkiw, R. 2014. Codimensional surface tension flow on simplicial complexes.ACM Trans. Graph. 33, 4, 111."
+            },
+            {
+                "key": "key-10.1145/2897824.2925899-58",
+                "unstructured": "Zhu, Y., Bridson, R., and Greif, C. 2015. Simulating rigid body fracture with surface meshes.ACM Trans. Graph. 34, 4, 150."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925899&amp;ftid=1755859&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:44:24Z",
+            "timestamp": 1568162664000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925899",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

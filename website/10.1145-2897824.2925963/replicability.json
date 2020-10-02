@@ -1,0 +1,78 @@
+{
+    "Timestamp": "1/20/2020 12:00:07",
+    "Title": "Generalized Non-Reflecting Boundaries for Fluid Re-Simulation",
+    "DOI": "10.1145/2897824.2925963",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "C/C++, Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_GNRBfFRS/2016_Bojsen-Hansen_GNRBfFRS.zip",
+    "code URL  2": "",
+    "PDF URL": "http://pub.ist.ac.at/group_wojtan/projects/2016_Bojsen-Hansen_GNRBfFRS/2016_Bojsen-Hansen_GNRBfFRS.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Makefile",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Volumetric models",
+    "ACM 2": "Modeling and simulation",
+    "ACM 3": "Partial differential equations",
+    "ACM 4": "Discretization",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "To compile with Houdini 18.0.287, I needed to do the following changes in SIM_PMLAdvect.cpp: change \nUT_VoxelProbeCubeF srcProbe --> UT_VoxelProbeCube<fpreal32> srcProbe; (l278 and l358)\nand\nsrcProbe.setPlusArray(src->field()); --> srcProbe.setConstPlusArray(src->field()); (l283 and l363)",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 6,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "houdini",
+    "Project URL": "http://alas.dk/publications/2016/GNRBfFRS/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Morten",
+            "family": "Bojsen-Hansen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        },
+        {
+            "given": "Chris",
+            "family": "Wojtan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,368 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813559
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "0643822"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61372168, 61172104, 61331018, 61372184"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601162",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "Inverse procedural modeling of facade layouts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Fuzhang",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Dong-Ming",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Weiming",
+                "family": "Dong",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xiaopeng",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601162-1",
+                "unstructured": "Aliaga, D. G., Rosen, P. A., and Bekins, D. R. 2007. Style grammars for interactive visualization of architecture.IEEE Trans. on Vis. and Comp. Graph. 13, 4, 786--797."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-2",
+                "unstructured": "Bao, F., Schwarz, M., and Wonka, P. 2013. Procedural facade variations from a single layout.ACM Trans. Graph. 32, 1, 8:1--8:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-3",
+                "unstructured": "Becker, S. 2009. Generation and application of rules for quality dependent facade reconstruction.ISPRS Journal of Photogrammetry and Remote Sensing 64, 6, 640--653.",
+                "DOI": "10.1016/j.isprsjprs.2009.06.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-4",
+                "unstructured": "Bekins, D. R., and Aliaga, D. G. 2005. Build-by-number: Rear-ranging the real world to visualize novel architectural spaces. InProceedings of 16th IEEE Visualization, 143--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-5",
+                "unstructured": "Bokeloh, M., Wand, M., and Seidel, H.-P. 2010. A connection between partial symmetry and inverse procedural modeling.ACM TOG (SIGGRAPH) 29, 104:1--104:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-6",
+                "unstructured": "Carrascosa, R., Coste, F., Gall&#233;, M., and Infante-Lopez, G. 2010. Choosing word occurrences for the smallest grammar problem. InProceedings of the 4th international conference on Language and Automata Theory and Applications, 154--165.",
+                "DOI": "10.1007/978-3-642-13089-2_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-7",
+                "unstructured": "Carrascosa, R., Coste, F., Gall&#233;, M., and Infante-Lopez, G. 2012. Searching for smallest grammars on large sequences and application to DNA.Journal of Discrete Algorithms 11, 62--72."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-8",
+                "unstructured": "Charikar, M., Lehman, E., Liu, D., Panigrahy, R., Prabhakaran, M., Sahai, A., and Shelat, A. 2005. The smallest grammar problem.IEEE Transactions on Information Theory 51, 7, 2554--2576.",
+                "DOI": "10.1109/TIT.2005.850116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-9",
+                "unstructured": "de Marcken, C. G. 1996.Unsupervised Language Acquisition. PhD thesis, MIT, Cambridge, MA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-10",
+                "unstructured": "Hohmann, B., Krispel, U., Havemann, S., and Fellner, D. 2009. Cityfit - high-quality urban reconstructions by fitting shape grammars to images and derived textured point clouds. InProceedings of the 3rd ISPRS International Workshop 3D-ARCH 2009: \"3D Virtual Reconstruction and Visualization of Complex Architectures\"."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-11",
+                "unstructured": "Lefebvre, S., Hornus, S., and Lasram, A. 2010. By-example synthesis of architectural textures.ACM TOG (SIGGRAPH) 29, 4, 84:1--84:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-12",
+                "unstructured": "Lin, J., Cohen-Or, D., Zhang, H., Liang, C., Sharf, A., Deussen, O., and Chen, B. 2011. Structure-preserving retargeting of irregular 3D architecture.ACM TOG (SIGGRAPH Asia) 30, 6, 183:1--183:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-13",
+                "unstructured": "Lipp, M., Wonka, P., and Wimmer, M. 2008. Interactive visual editing of grammars for procedural architecture.ACM TOG (SIGGRAPH) 27, 3, 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-14",
+                "unstructured": "Martinovic, A., and Van Gool, L. 2013. Bayesian grammar learning for inverse procedural modeling. InComputer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on, 201--208."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-15",
+                "unstructured": "Mathias, M., Martinovic, A., Weissenberg, J., and Gool, L. V. 2011. Procedural 3D building reconstruction using shape grammars and detectors. InProc. of 3DIMPVT, 304--311."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-16",
+                "unstructured": "M&#252;ller, P., Wonka, P., Haegler, S., Ulmer, A., and Gool, L. V. 2006. Procedural modeling of buildings.ACM TOG (SIGGRAPH) 25, 3, 614--623."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-17",
+                "unstructured": "M&#252;ller, P., Zeng, G., Wonka, P., and Gool, L. V. 2007. Image-based procedural modeling of facades.ACM TOG (SIGGRAPH) 26, 3, 85:1--85:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-18",
+                "unstructured": "Musialski, P., Wimmer, M., and Wonka, P. 2012. Interactive coherence-based fa&#231;ade modeling.Computer Graphics Forum (Proc. of Eurographics) 31, 2, 661--670."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-19",
+                "unstructured": "Musialski, P., Wonka, P., Aliaga, D. G., Wimmer, M., van Gool, L., and Purgathofer, W. 2013. A survey of urban reconstruction.Computer Graphics Forum 32, 6, 146--177.",
+                "DOI": "10.1111/cgf.12077",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-20",
+                "unstructured": "Patow, G. 2012. User-friendly graph editing for procedural modeling of buildings.IEEE Computer Graphics and Applications 32, 2, 66--75.",
+                "DOI": "10.1109/MCG.2010.104",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-21",
+                "unstructured": "Powell, W. B. 2011.Approximate Dynamic Programming: Solving the curses of dimensionality, 2nd ed. John Wiley and Sons.",
+                "DOI": "10.1002/9781118029176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-22",
+                "unstructured": "Prusinkiewicz, P., and Lindenmayer, A. 1990.The Algorithmic Beauty of Plants. Springer-Verlag, New York.",
+                "DOI": "10.1007/978-1-4613-8476-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-23",
+                "unstructured": "Riemenschneider, H., Krispel, U., Thaller, W., Donoser, M., Havemann, S., Fellner, D., and Bischof, H. 2012. Irregular lattices for complex shape grammar facade parsing. InCVPR, 1640--1647."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-24",
+                "unstructured": "Ripperda, N., and Brenner, C. 2009. Application of a formal grammar to facade reconstruction in semiautomatic and automatic environments. InProc. of 12th AGILE Conf. on GIScience."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-25",
+                "unstructured": "Simon, L., Teboul, O., Koutsourakis, P., and Paragios, N. 2011. Random exploration of the procedural space for single-view 3D modeling of buildings.International Journal of Computer Vision 93, 253--271.",
+                "DOI": "10.1007/s11263-010-0370-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-26",
+                "unstructured": "Talton, J. O., Yang, L., Kumar, R., Lim, M., Goodman, N. D., and Mech, R. 2012. Learning design patterns with bayesian grammar induction. InUIST, 63--74."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-27",
+                "unstructured": "Teboul, O., Kokkinos, I., Simon, L., Koutsourakis, P., and Paragios, N. 2011. Shape grammar parsing via reinforcement learning. InCVPR, 2273--2280."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-28",
+                "unstructured": "Teboul, O., Kokkinos, I., Simon, L., Koutsourakis, P., and Paragios, N. 2013. Parsing facades with shape grammars and reinforcement learning.IEEE PAMI 35, 7, 1744--1756.",
+                "DOI": "10.1109/TPAMI.2012.252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-29",
+                "unstructured": "Toshev, A., Mordohai, P., and Taskar, B. 2010. Detecting and parsing architecture at city scale from range data. InCVPR, 398--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-30",
+                "unstructured": "Vanegas, C. A., Aliaga, D. G., and Benevs, B. 2010. Building reconstruction using manhattan-world grammars. InCVPR, 358--365."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-31",
+                "unstructured": "&#352;t'ava, O., Bene&#353;, B., M&#283;ch, R., Aliaga, D. G., and Kri&#353;tof, P. 2010. Inverse procedural modeling by automatic generation of 1-systems.Computer Graphics Forum 29, 2, 665--674."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-32",
+                "unstructured": "Watson, B., and Wonka, P. 2008. Procedural methods for urban modeling.IEEE Computer Graphics and Applications 28, 3, 16--17.",
+                "DOI": "10.1109/MCG.2008.57",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-33",
+                "unstructured": "Weissenberg, J., Riemenschneider, H., Prasad, M., and Van Gool, L. 2013. Is there a procedural logic to architecture? InCVPR, 185--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-34",
+                "unstructured": "Wonka, P., Wimmer, M., Sillion, F., and Ribarsky, W. 2003. Instant architecture.ACM TOG (SIGGRAPH) 22, 3, 669--677.",
+                "DOI": "10.1145/882262.882324",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-35",
+                "unstructured": "Yeh, Y.-T., Breeden, K., Yang, L., Fisher, M., and Hanrahan, P. 2013. Synthesis of tiled patterns using factor graphs.ACM Trans. Graph. 32, 1, 3:1--3:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-36",
+                "unstructured": "Zhang, H., Xu, K., Jiang, W., Lin, J., Cohen-Or, D., and Chen, B. 2013. Layered analysis of irregular facades via symmetry maximization.ACM TOG (SIGGRAPH) 32, 4, 121:1--121:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601162-37",
+                "unstructured": "Zhao, P., Yang, L., Zhang, H., and Quan, L. 2012. Per-pixel translational symmetry detection, optimization, and segmentation. InCVPR, 526--533."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601162&amp;ftid=1488929&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601162",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

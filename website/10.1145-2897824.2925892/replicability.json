@@ -1,0 +1,116 @@
+{
+    "Timestamp": "1/20/2020 12:01:27",
+    "Title": "Rigel: Flexible Multi-Rate Image Processing Hardware",
+    "DOI": "10.1145/2897824.2925892",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/jameshegarty/rigel",
+    "code URL  2": "",
+    "PDF URL": "http://graphics.stanford.edu/papers/rigel/rigel.pdf",
+    "License type": "MIT",
+    "Build mechanism": "None",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 2,
+    "Feedbacks [Interface user-friendly (5=easy)]": 2,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Image processing",
+    "ACM 2": "Hardware description languages and compilation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I was able to run the software and the examples, but no demo due to terra (optional dependency) failure. The examples of the paper might be in the demo but I was unable to check.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 33,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "luajit/verilato(opt)/terra(opt)",
+    "Project URL": "http://graphics.stanford.edu/papers/rigel/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "James",
+            "family": "Hegarty",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Ross",
+            "family": "Daly",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Zachary",
+            "family": "DeVito",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan",
+            "family": "Ragan-Kelley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Mark",
+            "family": "Horowitz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Pat",
+            "family": "Hanrahan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

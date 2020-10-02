@@ -1,0 +1,78 @@
+{
+    "Timestamp": "1/9/2020 15:28:54",
+    "Title": "Learning three-dimensional flow for interactive aerodynamic design",
+    "DOI": "10.1145/3197517.3201325",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://pub.ist.ac.at/~bbickel/downloads/2018_sigg_Learning3DAerodynamics.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Gaussian processes",
+    "ACM 2": "Real-time simulation",
+    "ACM 3": "Physical simulation",
+    "ACM 4": "Engineering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 19,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://visualcomputing.ist.ac.at/publications/2018/LearningFlow/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Nobuyuki",
+            "family": "Umetani",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Autodesk Research, Toronto, Canada"
+                }
+            ]
+        },
+        {
+            "given": "Bernd",
+            "family": "Bickel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IST Austria, Vienna, Austria"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 35.95,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=36&types=mmmttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=46495292"
+}

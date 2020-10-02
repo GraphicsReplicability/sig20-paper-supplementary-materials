@@ -1,0 +1,296 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:44Z",
+            "timestamp": 1574815964170
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925980",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Generating dynamically feasible trajectories for quadrotor cameras"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Mike",
+                "family": "Roberts",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925980-1",
+                "unstructured": "3D Robotics, 2015. Solo. http://3drobotics.com/solo."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-2",
+                "unstructured": "APM, 2015. APM Autopilot Suite. http://ardupilot.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-3",
+                "unstructured": "Betts, J. T. 1998. A survey of numerical methods for trajectory optimization.Journal of Guidance, Control, and Dynamics 21, 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-4",
+                "unstructured": "Bouktir, Y., Haddad, M., and Chettibi, T. 2008. A prototype of an autonomous controller for a quadrotor UAV. InMediterranean Conference on Control and Automation 2008."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-5",
+                "unstructured": "Boyd, S., 2008. Convex optimization II (course notes for Stanford EE364b). http://stanford.edu/class/ee364b."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-6",
+                "unstructured": "Bry, A., Richter, C., Bachrach, A., and Roy, N. 2015. Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments.International Journal of Robotics Research 34, 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-7",
+                "unstructured": "Cowling, I. D., Yakimenko, O. A., Whidborne, J. F., and Cooke, A. K. 2007. A prototype of an autonomous controller for a quadrotor UAV. InEuropean Conference on Control (ECC) 2007.",
+                "DOI": "10.23919/ECC.2007.7068316",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-8",
+                "unstructured": "Dahl, O., and Nielsen, L. 1990. Torque-limited path following by on-line trajectory time scaling.Transactions on Robotics and Automation 6, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-9",
+                "unstructured": "Deits, R., and Tedrake, R. 2015. Efficient mixed-integer planning for UAVs in cluttered environments. InInternational Conference on Robotics and Automation (ICRA) 2015.",
+                "DOI": "10.1109/ICRA.2015.7138978",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-10",
+                "unstructured": "DJI, 2015. DJI Go. http://www.dji.com/product/goapp."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-11",
+                "unstructured": "DJI, 2015. DJI Ground Station. http://www.dji.com/product/pc-ground-station."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-12",
+                "unstructured": "Fang, A. C., and Pollard, N. S. 2003. Efficient synthesis of physically valid human motion.Transactions on Graphics (Proc. SIGGRAPH 2003) 22, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-13",
+                "unstructured": "Faulwasser, T., Hagenmeyer, V., and Findeisenc, R. 2014. Constrained reachability and trajectory generation for flat systems.Automatica 50, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-14",
+                "unstructured": "Gebhardt, C., Hepp, B., Nageli, T., Stevsic, S., and Hilliges, O. 2016. Airways: Optimization-based planning of quadrotor trajectories according to high-level user goals.Transactions on Computer-Human Interaction (Proc. CHI 2016).",
+                "DOI": "10.1145/2858036.2858353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-15",
+                "unstructured": "Geijtenbeek, T., and Pronost, N. 2012. Interactive character animation using simulated physics: A state-of-the-art review.Computer Graphics Forum 31, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-16",
+                "unstructured": "Gill, P. E., Murray, W., and Saunders, M. A. 2002. SNOPT: An SQP algorithm for large-scale constrained optimization.SIAM Journal on Optimization 12, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-17",
+                "unstructured": "Joubert, N., Roberts, M., Truong, A., Berthouzoz, F., and Hanrahan, P. 2015. An interactive tool for designing quadrotor camera shots.Transactions on Graphics (Proc. SIGGRAPH Asia 2015) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-18",
+                "unstructured": "Kondak, K., Krieger, K., Albu-Schaeffer, A., Schwarzbach, M., Laiacker, M., Maza, I., Rodriguez-Castano, A., and Ollero, A. 2013. Closed-loop behavior of an autonomous helicopter equipped with a robotic arm for aerial manipulation tasks.International Journal of Advanced Robotic Systems 10, 145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-19",
+                "unstructured": "Lipp, T., and Boyd, S. 2014. Minimum-time speed optimisation over a fixed path.International Journal of Control 87, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-20",
+                "unstructured": "McCann, J., Pollard, N. S., and Srinivasa, S. 2006. Physics-based motion retiming. In SCA 2006."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-21",
+                "unstructured": "Meier, L., Tanskanen, P., Heng, L., Lee, G. H., Fraun-dorfer, F., and Pollefeys, M. 2012. PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision.Autonomous Robots 33, 1--2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-22",
+                "unstructured": "Mellinger, D., and Kumar, V. 2011. Minimum snap trajectory generation and control for quadrotors. InInternational Conference on Robotics and Automation (ICRA) 2011.",
+                "DOI": "10.1109/ICRA.2011.5980409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-23",
+                "unstructured": "Safonova, A., Hodgins, J. K., and Pollard, N. S. 2004. Synthesizing physically realistic human motion in low-dimensional, behavior-specific spaces.Transactions on Graphics (Proc. SIGGRAPH 2004) 23, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-24",
+                "unstructured": "Shin, K. G., and McKay, N. D. 1985. Minimum-time control of robotic manipulators with geometric path constraints.Transactions on Automatic Control 30, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-25",
+                "unstructured": "Slotine, J.-J. E., and Yang, H. S. 1989. Improving the efficiency of time-optimal path-following algorithms.Transactions on Robotics and Automation 5, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-26",
+                "unstructured": "SymPy, 2014. SymPy: Python library for symbolic mathematics. http://www.sympy.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-27",
+                "unstructured": "Tedrake, R., 2016. Underactuated robotics: Algorithms for walking, running, swimming, flying, and manipulation (course notes for MIT 6.832). http://underactuated.mit.edu."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-28",
+                "unstructured": "Van Loock, W., Pipeleers, G., and Swevers, J. 2013. Time-optimal quadrotor flight. InEuropean Control Conference (ECC) 2013.",
+                "DOI": "10.23919/ECC.2013.6669253",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-29",
+                "unstructured": "Verscheure, D., Demeulenaere, B., Swevers, J., Schutter, J. D., and Diehl, M. 2009. Time-optimal path tracking for robots: A convex optimization approach.Transactions on Automatic Control 54, 10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925980-30",
+                "unstructured": "Witkins, A., and Kass, M. 1988. Spacetime constraints. InSIGGRAPH 1988.",
+                "DOI": "10.1145/54852.378507",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925980&amp;ftid=1755851&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:41:57Z",
+            "timestamp": 1568162517000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925980",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

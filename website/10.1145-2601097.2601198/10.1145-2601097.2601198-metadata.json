@@ -1,0 +1,358 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228388
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601198",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 55,
+        "title": [
+            "Automatic editing of footage from multiple social cameras"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ido",
+                "family": "Arev",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Hyun Soo",
+                "family": "Park",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jessica",
+                "family": "Hodgins",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601198-1",
+                "unstructured": "Agarwal, S., Furukawa, Y., Snavely, N., Simon, I., Curless, B., Seitz, S. M., and Szeliski, R. 2011. Building rome in a day.Communications of the ACM.",
+                "DOI": "10.1145/2001269.2001293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-2",
+                "unstructured": "Ballan, L., Brostow, G. J., Puwein, J., and Pollefeys, M. 2010. Unstructured video-based rendering: interactive exploration of casually captured videos.ACM Transactions on Graphics.",
+                "DOI": "10.1145/1778765.1778824",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-3",
+                "unstructured": "Bao, X., and Choudhury, R. R. 2010. Movi: Mobile phone based video highlights via collaborative sensing. InProceedings of the International Conference on Mobile systems, Applications, and Services.",
+                "DOI": "10.1145/1814433.1814468",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-4",
+                "unstructured": "Barbieri, M., Agnihotri, L., and Dimitrova, N. 2003. Video summarization: methods and landscape. InProceedings of the SPIE Internet Multimedia Management Systems.",
+                "DOI": "10.1117/12.515733",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-5",
+                "unstructured": "Berthouzoz, F., Li, W., and Agrawala, M. 2012. Tools for placing cuts and transitions in interview video.ACM Transactions on Graphics.",
+                "DOI": "10.1145/2185520.2185563",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-6",
+                "unstructured": "Cricri, F., Curcio, I. D. D., Mate, S., Dabov, K., and Gabbouj, M. 2012. Sensor-based analysis of user generated video for multi-camera video remixing. InAdvances in Multimedia Modeling.",
+                "DOI": "10.1155/2012/292064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-7",
+                "unstructured": "Dale, K., Shechtman, E., Avidan, S., and Pfister, H. 2012. Multi-video browsing and summarization. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Workshop on Large-Scale Video Search and Mining.",
+                "DOI": "10.1109/CVPRW.2012.6239253",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-8",
+                "unstructured": "Dmytryk, E. 1984.On Film Editing: An Introduction to the Art of Film Construction. Focal Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-9",
+                "unstructured": "Fathi, A., Hodgins, J., and Rehg, J. 2012. Social interactions: A first-person perspective. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2012.6247805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-10",
+                "unstructured": "Gleicher, M. L., and Liu, F. 2007. Re-cinematography: Improving the camera dynamics of casual video. InProceedings of the ACM International Conference on Multimedia.",
+                "DOI": "10.1145/1291233.1291246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-11",
+                "unstructured": "Hata, T., Hirose, T., and Tanaka, K. 2000. Skimming multiple perspective video using tempo-spatial importance measures. InProceedings of Visual Database Systems.",
+                "DOI": "10.1007/978-0-387-35504-7_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-12",
+                "unstructured": "He, L.-w., Cohen, M. F., and Salesin, D. H. 1996. The virtual cinematographer: A paradigm for automatic real-time camera control and directing.ACM Transactions on Graphics.",
+                "DOI": "10.1145/237170.237259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-13",
+                "unstructured": "Heck, R., Wallick, M., and Gleicher, M. 2007. Virtual videography.ACM Transactions on Multimedia Computing, Communications, and Applications.",
+                "DOI": "10.1145/1198302.1198306",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-14",
+                "unstructured": "Jain, P., Manweiler, J., Acharya, A., and Beaty, K. 2013. Focus: Clustering crowdsourced videos by line-of-sight. InProceedings of the International Conference on Embedded Networked Sensor Systems.",
+                "DOI": "10.1145/2517351.2517356",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-15",
+                "unstructured": "Kim, K., Grundmann, M., Shamir, A., Matthews, I., Hodgins, J., and Essa, I. 2010. Motion field to predict play evolution in dynamic sport scenes. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2010.5540128",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-16",
+                "unstructured": "Kumar, K., Prasad, S., Banwral, S., and Semwa, V. 2010. Sports video summarization using priority curve algorithm.International Journal on Computer Science and Engineering."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-17",
+                "unstructured": "Lee, Y. J., Ghosh, J., and Grauman, K. 2012. Discovering important people and objects for egocentric video summarization. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-18",
+                "unstructured": "Lepetit, V., Moreno-Noguer, F., and Fua, P. 2009. EPnP: An accurate O(n) solution to the PnP problem.International Journal of Computer Vision.",
+                "DOI": "10.1007/s11263-008-0152-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-19",
+                "unstructured": "Lu, Z., and Grauman, K. 2013. Story-driven summarization for egocentric video. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2013.350",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-20",
+                "unstructured": "Machnicki, E. 2002. Virtual director: Automating a webcast. InProceedings of the SPIE Multimedia Computing and Networking."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-21",
+                "unstructured": "Money, A., and Agius, H. 2008. Video summarisation: A conceptual framework and survey of the state of the art.Journal of Visual Communications and Image Representation.",
+                "DOI": "10.1016/j.jvcir.2007.04.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-22",
+                "unstructured": "Park, H. S., Jain, E., and Sheikh, Y. 2012. 3D social saliency from head-mounted cameras. InAdvances in Neural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-23",
+                "unstructured": "Ponto, K., Kohlmann, J., and Gleicher, M. 2012. Effective replays and summarization of virtual experiences.IEEE Transactions on Visualization and Computer Graphics.",
+                "DOI": "10.1109/TVCG.2012.41",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-24",
+                "unstructured": "Pundik, D., and Moses, Y. 2010. Video synchronization using temporal signals from epipolar lines. InProceedings of the European Conference on Computer Vision.",
+                "DOI": "10.1007/978-3-642-15558-1_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-25",
+                "unstructured": "Rui, Y., He, L., Gupta, A., and Liu, Q. 2001. Building an intelligent camera management system. InProceedings of the ACM International Conference on Multimedia.",
+                "DOI": "10.1145/500141.500145",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-26",
+                "unstructured": "Shrestha, P., de With, P. H., Weda, H., Barbieri, M., and Aarts, E. H. 2010. Automatic mashup generation from multiple-camera concert recordings. InProceedings of the ACM International Conference on Multimedia.",
+                "DOI": "10.1145/1873951.1874023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-27",
+                "unstructured": "Snavely, N., Seitz, S. M., and Szeliski, R. 2006. Photo tourism: exploring photo collections in 3D.ACM Transactions on Graphics.",
+                "DOI": "10.1145/1141911.1141964",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-28",
+                "unstructured": "Sumec, S. 2006. Multi camera automatic video editing.Computer Vision and Graphics.",
+                "DOI": "10.1007/1-4020-4179-9_137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-29",
+                "unstructured": "Takemae, Y., Otsuka, K., and Mukawa, N. 2004. Impact of video editing based on participants' gaze in multiparty conversation. InACM CHI Extended Abstracts on Human Factors in Computing Systems.",
+                "DOI": "10.1145/985921.986057",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-30",
+                "unstructured": "Taskiran, C., and Delp, E. 2005. Video summarization.Digital Image Sequence Processing, Compression, and Analysis."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-31",
+                "unstructured": "Truong, B., and Venkatesh, S. 2007. Video abstraction: A systematic review and classification.ACM Transactions on Multimedia Computing, Communications, and Applications.",
+                "DOI": "10.1145/1198302.1198305",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-32",
+                "unstructured": "Wardrip-Fruin, N., and Harrigan, P. 2004.First person: New media as story, performance, and game. MIT Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601198-33",
+                "unstructured": "Zsombori, V., Frantzis, M., Guimaraes, R. L., Ursu, M. F., Cesar, P., Kegel, I., Craigie, R., and Bulterman, D. C. 2011. Automatic generation of video narratives from shared UGC. InProceedings of the ACM Conference on Hypertext and Hypermedia.",
+                "DOI": "10.1145/1995966.1996009",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601198&amp;ftid=1488889&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:15Z",
+            "timestamp": 1565663715000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601198",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

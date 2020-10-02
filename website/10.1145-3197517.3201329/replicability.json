@@ -1,0 +1,156 @@
+{
+    "Timestamp": "12/5/2019 19:10:05",
+    "Title": "Synthetic depth-of-field with a single-camera mobile phone",
+    "DOI": "10.1145/3197517.3201329",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution, On the author(s) repository (dropbox, github, drive, iCloud)",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "https://arxiv.org/abs/1806.04171",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://graphics.stanford.edu/papers/portrait/wadhwa-portrait-sig18.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Image processing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 22,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Neal",
+            "family": "Wadhwa",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Marc",
+            "family": "Levoy",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Rahul",
+            "family": "Garg",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "David E.",
+            "family": "Jacobs",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Bryan E.",
+            "family": "Feldman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Nori",
+            "family": "Kanazawa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "Carroll",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Yair",
+            "family": "Movshovitz-Attias",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan T.",
+            "family": "Barron",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        },
+        {
+            "given": "Yael",
+            "family": "Pritch",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 99.28,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=100&types=brtttttg",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=43645525"
+}

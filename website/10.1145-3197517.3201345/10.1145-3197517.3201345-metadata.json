@@ -1,0 +1,436 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410048
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201345",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "An extended partitioned method for conservative solid-fluid coupling"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Muzaffer",
+                "family": "Akbay",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Nobles",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Victor",
+                "family": "Zordan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Clemson University"
+                    }
+                ]
+            },
+            {
+                "given": "Tamar",
+                "family": "Shinar",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201345-1",
+                "unstructured": "Nadir Akinci, Jens Cornelis, Gizem Akinci, and Matthias Teschner. 2013. Coupling elastic solids with smoothed particle hydrodynamics fluids.Computer Animation and Virtual Worlds24, 3--4 (2013), 195--203."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-2",
+                "unstructured": "Nadir Akinci, Markus Ihmsen, Gizem Akinci, Barbara Solenthaler, and Matthias Teschner. 2012. Versatile Rigid-fluid Coupling for Incompressible SPH.ACM Trans. Graph.31, 4, Article 62 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-3",
+                "unstructured": "Jeffrey W Banks, William D Henshaw, and Donald W Schwendeman. 2014. An analysis of a new stable partitioned algorithm for FSI problems. Part I: Incompressible flow and elastic solids.J. Comput. Phys.269 (2014), 108--137."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-4",
+                "unstructured": "Jernej Barbi&#269;, Marco da Silva, and Jovan Popovi&#263;. 2009. Deformable object animation using reduced optimal control.ACM Transactions on Graphics (TOG)28, 3 (2009), 53."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-5",
+                "unstructured": "Christopher Batty, Florence Bertails, and Robert Bridson. 2007. A Fast Variational Framework for Accurate Solid-fluid Coupling.ACM Trans. Graph.26, 3, Article 100 (July 2007).",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-6",
+                "unstructured": "M. Becker, H. Tessendorf, and M. Teschner. 2009. Direct Forcing for Lagrangian Rigid-Fluid Coupling.IEEE Transactions on Visualization and Computer Graphics15, 3 (May 2009), 493--503.",
+                "DOI": "10.1109/TVCG.2008.107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-7",
+                "unstructured": "Jan Bender. 2017. SPlisHSPlasH Library. (2017). https://github.com/InteractiveComputerGraphics"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-8",
+                "unstructured": "Jan Bender and Dan Koschier. 2017. Divergence-Free SPH for Incompressible and Viscous Fluids.IEEE Transactions on Visualization and Computer Graphics23, 3 (March 2017), 1193--1206.",
+                "DOI": "10.1109/TVCG.2016.2578335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-9",
+                "unstructured": "Mark Carlson, Peter J. Mucha, and Greg Turk. 2004. Rigid Fluid: Animating the Interplay Between Rigid Bodies and Fluid.ACM Trans. Graph.23, 3 (Aug. 2004), 377--384.",
+                "DOI": "10.1145/1015706.1015733",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-10",
+                "unstructured": "Paola Causin, Jean-Fr&#233;d&#233;ric Gerbeau, and Fabio Nobile. 2005. Added-mass effect in the design of partitioned algorithms for fluid-structure problems.Computer methods in applied mechanics and engineering194, 42 (2005), 4506--4527.",
+                "DOI": "10.1016/j.cma.2004.12.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-11",
+                "unstructured": "Nuttapong Chentanez, Tolga G. Goktekin, Bryan E. Feldman, and James F. O'Brien. 2006. Simultaneous Coupling of Fluids and Deformable Bodies. InProceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '06).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 83--89. http://dl.acm.org/citation.cfm?id=1218064.1218075",
+                "DOI": "10.1145/1179849.1179930",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-12",
+                "unstructured": "Alexandre Joel Chorin. 1967. A numerical method for solving incompressible viscous flow problems.Journal of computational physics2, 1 (1967), 12--26.",
+                "DOI": "10.1016/0021-9991(67)90037-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-13",
+                "unstructured": "Joris Degroote. 2013. Partitioned Simulation of Fluid-Structure Interaction.Archives of Computational Methods in Engineering20, 3 (2013), 185--238.",
+                "DOI": "10.1007/s11831-013-9085-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-14",
+                "unstructured": "Joris Degroote, Klaus-J&#252;rgen Bathe, and Jan Vierendeels. 2009. Performance of a new partitioned procedure versus a monolithic procedure in fluid-structure interaction.Computers &#38; Structures87, 11 (2009), 793--801.",
+                "DOI": "10.1016/j.compstruc.2008.11.013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-15",
+                "unstructured": "Joris Degroote, Peter Bruggeman, Robby Haelterman, and Jan Vierendeels. 2008. Stability of a coupling technique for partitioned solvers in FSI applications.Computers &#38; Structures86, 23 (2008), 2224--2234.",
+                "DOI": "10.1016/j.compstruc.2008.05.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-16",
+                "unstructured": "Joris Degroote, Robby Haelterman, Sebastiaan Annerel, Peter Bruggeman, and Jan Vierendeels. 2010. Performance of partitioned procedures in fluid-structure interaction.Computers &#38; structures88, 7 (2010), 446--457.",
+                "DOI": "10.1016/j.compstruc.2009.12.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-17",
+                "unstructured": "Crispin Deul, Patrick Charrier, and Jan Bender. 2016. Position-based Rigid-body Dynamics.Comput. Animat. Virtual Worlds27, 2 (March 2016), 103--112.",
+                "DOI": "10.1002/cav.1614",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-18",
+                "unstructured": "Jean-Fr&#233;d&#233;ric Gerbeau and Marina Vidrascu. 2003. A quasi-Newton algorithm based on a reduced model for fluid-structure interaction problems in blood flows.ESAIM: Mathematical Modelling and Numerical Analysis37, 4 (2003), 631--647.",
+                "DOI": "10.1051/m2an:2003049",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-19",
+                "unstructured": "Eran Guendelman, Andrew Selle, Frank Losasso, and Ronald Fedkiw. 2005. Coupling Water and Smoke to Thin Deformable and Rigid Shells.ACM Trans. Graph.24, 3 (July 2005), 973--981.",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-20",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#238;t Jacob, and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-21",
+                "unstructured": "R Haelterman, Alfred EJ Bogaers, K Scheufele, B Uekermann, and M Mehl. 2016. Improving the performance of the partitioned QN-ILS procedure for fluid-structure interaction problems: Filtering.Computers &#38; Structures171 (2016), 9--17.",
+                "DOI": "10.1016/j.compstruc.2016.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-22",
+                "unstructured": "Xiaowei He, Ning Liu, Guoping Wang, Fengjun Zhang, Sheng Li, Songdong Shao, and Hongan Wang. 2012. Staggered meshless solid-fluid coupling.ACM Transactions on Graphics (TOG)31, 6 (2012), 149."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-23",
+                "unstructured": "Gene Hou, Jin Wang, and Anita Layton. 2012. Numerical Methods for Fluid-Structure Interaction - A Review.Communications in Computational Physics12, 2 (2012), 337&#226;&#258;&#350;377."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-24",
+                "unstructured": "Markus Ihmsen, Jens Cornelis, Barbara Solenthaler, Christopher Horvath, and Matthias Teschner. 2014. Implicit incompressible SPH.IEEE Transactions on Visualization and Computer Graphics20, 3 (2014), 426--435.",
+                "DOI": "10.1109/TVCG.2013.105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-25",
+                "unstructured": "Richard Keiser, Bart Adams, Dominique Gasser, Paolo Bazzi, Philip Dutr&#233;, and Markus Gross. 2005. A unified lagrangian approach to solid-fluid animation. InPoint-Based Graphics, 2005. Eurographics/IEEE VGTC Symposium Proceedings.IEEE, 125--148.",
+                "DOI": "10.1109/PBG.2005.194073",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-26",
+                "unstructured": "Bryan M. Klingner, Bryan E. Feldman, Nuttapong Chentanez, and James F. O'Brien. 2006. Fluid Animation with Dynamic Meshes.ACM Trans. Graph.25, 3 (July 2006), 820--825.",
+                "DOI": "10.1145/1141911.1141961",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-27",
+                "unstructured": "Ulrich K&#252;ttler, Christiane F&#246;rster, and Wolfgang A Wall. 2006. A solution for the incompressibility dilemma in partitioned fluid-structure interaction with pure Dirichlet fluid domains.Computational Mechanics38, 4 (2006), 417--429.",
+                "DOI": "10.1007/s00466-006-0066-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-28",
+                "unstructured": "Ulrich K&#252;ttler and Wolfgang A. Wall. 2008. Fixed-point fluid-structure interaction solvers with dynamic relaxation.Computational Mechanics43, 1 (2008), 61--72.",
+                "DOI": "10.1007/s00466-008-0255-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-29",
+                "unstructured": "Patrick Le Tallec and Jean Mouro. 2001. Fluid structure interaction with large structural displacements.Computer Methods in Applied Mechanics and Engineering190, 24 (2001), 3039--3067.",
+                "DOI": "10.1016/S0045-7825(00)00381-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-30",
+                "unstructured": "Wenlong Lu, Ning Jin, and Ronald Fedkiw. 2016. Two-way coupling of fluids to reduced deformable bodies. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation.Eurographics Association, 67--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-31",
+                "unstructured": "Matthias M&#252;ller, Simon Schirm, Matthias Teschner, Bruno Heidelberger, and Markus Gross. 2004. Interaction of Fluids with Deformable Solids: Research Articles.Comput. Animat. Virtual Worlds15, 3--4 (July 2004), 159--171.",
+                "DOI": "10.1002/cav.18",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-32",
+                "unstructured": "Rahul Narain, Abhinav Golas, and Ming C Lin. 2010. Free-flowing granular materials with two-way solid coupling.ACM Transactions on Graphics (TOG)29, 6 (2010), 173."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-33",
+                "unstructured": "Seungtaik Oh, Younghee Kim, and Byung-Seok Roh. 2009. Impulse-based Rigid Body Interaction in SPH.Comput. Animat. Virtual Worlds20, 2-3 (June 2009), 215--224."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-34",
+                "unstructured": "Karthik Raveendran, Chris Wojtan, and Greg Turk. 2011. Hybrid smoothed particle hydrodynamics. InProceedings of the 2011 ACM SIGGRAPH/Eurographics symposium on computer animation.ACM, 33--42.",
+                "DOI": "10.1145/2019406.2019411",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-35",
+                "unstructured": "Avi Robinson-Mosher, Craig Schroeder, and Ronald Fedkiw. 2011. A symmetric positive definite formulation for monolithic fluid structure interaction.J. Comput. Phys.230, 4 (2011), 1547--1566.",
+                "DOI": "10.1016/j.jcp.2010.11.021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-36",
+                "unstructured": "Avi Robinson-Mosher, Tamar Shinar, Jon Gretarsson, Jonathan Su, and Ronald Fedkiw. 2008. Two-way Coupling of Fluids to Rigid and Deformable Solids and Shells.ACM Trans. Graph.27, 3, Article 46 (Aug. 2008), 9 pages.",
+                "DOI": "10.1145/1399504.1360645",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-37",
+                "unstructured": "X Shao, Z Zhou, Nadia Magnenat-Thalmann, and W Wu. 2015. Stable and Fast Fluid-Solid Coupling for Incompressible SPH. InComputer Graphics Forum, Vol. 34. Wiley Online Library, 191--204."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-38",
+                "unstructured": "Barbara Solenthaler, J&#252;rg Schl&#228;fli, and Renato Pajarola. 2007. A unified particle model for fluid-solid interactions.Computer Animation and Virtual Worlds18, 1 (2007), 69--82.",
+                "DOI": "10.1002/cav.162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-39",
+                "unstructured": "Alexey Stomakhin, Craig Schroeder, Chenfanfu Jiang, Lawrence Chai, Joseph Teran, and Andrew Selle. 2014. Augmented MPM for Phase-change and Varied Materials.ACM Trans. Graph.33, 4, Article 138 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-40",
+                "unstructured": "Yun Teng, David I. W. Levin, and Theodore Kim. 2016. Eulerian Solid-fluid Coupling.ACM Trans. Graph.35, 6, Article 200 (Nov. 2016), 8 pages.",
+                "DOI": "10.1145/2980179.2980229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-41",
+                "unstructured": "Adrien Treuille, Andrew Lewis, and Zoran Popovi&#263;. 2006. Model Reduction for Real-time Fluids.ACM Trans. Graph.25, 3 (July 2006), 826--834.",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-42",
+                "unstructured": "Jan Vierendeels. 2006.Implicit Coupling of Partitioned Fluid-Structure Interaction Solvers using Reduced-Order Models.Springer Berlin Heidelberg, Berlin, Heidelberg, 1--18.",
+                "DOI": "10.1007/3-540-34596-5_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-43",
+                "unstructured": "Jan Vierendeels, Joris Degroote, Sebastiaan Annerel, and Robby Haelterman. 2011. Stability issues in partitioned FSI calculations. InFluid Structure Interaction II.Springer, 83--102.",
+                "DOI": "10.1007/978-3-642-14206-2_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-44",
+                "unstructured": "Jan Vierendeels, Lieve Lanoye, Joris Degroote, and Pascal Verdonck. 2007. Implicit coupling of partitioned fluid-structure interaction problems with reduced order models.Computers &#38; structures85, 11 (2007), 970--976.",
+                "DOI": "10.1016/j.compstruc.2006.11.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-45",
+                "unstructured": "Andrew Witkin. 1997. Physically based modeling: principles and practice constrained dynamics.Computer graphics(1997)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201345-46",
+                "unstructured": "Omar Zarifi and Christopher Batty. 2017. A positive-definite cut-cell method for strong two-way coupling between fluids and deformable bodies. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation.ACM, 7.",
+                "DOI": "10.1145/3099564.3099572",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201345&ftid=1991627&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:50:49Z",
+            "timestamp": 1571673049000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201345",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

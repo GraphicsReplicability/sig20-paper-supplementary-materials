@@ -1,0 +1,296 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:53Z",
+            "timestamp": 1575507233483
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001729",
+                "name": "Stiftelsen f\u00f6r\u00a0Strategisk Forskning",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "RIT10-0033"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601221",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Compact precomputed voxelized shadows"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Erik",
+                "family": "Sintorn",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Viktor",
+                "family": "K\u00e4mpe",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ola",
+                "family": "Olsson",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ulf",
+                "family": "Assarsson",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601221-1",
+                "unstructured": "Aila, T., and Laine, S. 2004. Alias-free shadow maps. InProc. EG Symposium on Rendering 2004, EGSR'04, 161--166."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-2",
+                "unstructured": "Annen, T., Mertens, T., Bekaert, P., Seidel, H.-P., and Kautz, J. 2007. Convolution shadow maps. InProc. EG Symposium on Rendering 2007, EGSR'07, 51--60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-3",
+                "unstructured": "Annen, T., Mertens, T., Seidel, H.-P., Flerackers, E., and Kautz, J. 2008. Exponential shadow maps. InProc. of Graph. Interface 2008, Canadian Information Proc. Soc., GI '08, 155--161."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-4",
+                "unstructured": "Arvo, J., and Hirvikorpi, M. 2005. Compressed shadow maps.Vis. Comput. 21, 3 (Apr.), 125--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-5",
+                "unstructured": "Bunnel, M., and Pellacini, F. 2004. Shadow map antialiasing. InGPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics, R. Fernando, Ed. Pearson Higher Education."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-6",
+                "unstructured": "Crow, F. C. 1977. Shadow algorithms for computer graphics.SIGGRAPH Comput. Graph. 11(July), 242--248.",
+                "DOI": "10.1145/965141.563901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-7",
+                "unstructured": "Donnelly, W., and Lauritzen, A. 2006. Variance shadow maps. InProceedings of the 2006 Symposium on Interactive 3D Graphics and Games, ACM, I3D '06, 161--165."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-8",
+                "unstructured": "Eisemann, E., Schwarz, M., Assarsson, U., and Wimmer, M. 2011.Real-Time Shadows. A. K. Peters.",
+                "DOI": "10.1201/b11030",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-9",
+                "unstructured": "Engel, W. 2006. Cascaded shadow maps. InShaderX5: Advanced Rendering Techniques, T. Forsyth, Ed., Shaderx series. Charles River Media, Inc."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-10",
+                "unstructured": "Everitt, C., 2001. Interactive order-independent transparency. Published online at http://www.nvidia.com/object/Interactive_Order_Transparency.html."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-11",
+                "unstructured": "Giegl, M., and Wimmer, M. 2007. Fitted virtual shadow maps. InProceedings of Graphics Interface 2007, ACM, GI '07, 159--168."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-12",
+                "unstructured": "Green, C. 2007. Improved alpha-tested magnification for vector textures and special effects. InACM SIGGRAPH 2007 Courses, ACM, SIGGRAPH '07, 9--18."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-13",
+                "unstructured": "Hasselgren, J., and Akenine-M&#246;ller, T. 2006. Efficient depth buffer compression. InProc. 21st ACM SIGGRAPH/EG Symp. on Graphics Hardware, ACM, GH '06, 103--110."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-14",
+                "unstructured": "Heidmann, T. 1991. Real shadows, real time.Iris Universe 18, 28--31. Silicon Graphics, Inc."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-15",
+                "unstructured": "Johnson, G. S., Lee, J., Burns, C. A., and Mark, W. R. 2005. The irregular z-buffer: Hardware acceleration for irregular data structures.ACM Trans. Graph. 24, 4 (Oct.), 1462--1482."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-16",
+                "unstructured": "K&#228;mpe, V., Sintorn, E., and Assarsson, U. 2013. High resolution sparse voxel dags.ACM Trans. Graph. 32, 4 (July), 101:1--101:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-17",
+                "unstructured": "Lefebvre, S., and Hoppe, H. 2007. Compressed random-access trees for spatially coherent data. InProceedings of the 18th Eurographics Conference on Rendering Techniques, Eurographics Association, EGSR'07, 339--349."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-18",
+                "unstructured": "Lefohn, A. E., Sengupta, S., and Owens, J. D. 2007. Resolution-matched shadow maps.ACM Trans. Graph. 26, 4 (Oct.).",
+                "DOI": "10.1145/1289603.1289611",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-19",
+                "unstructured": "Lloyd, D. B., Tuft, D., Yoon, S.-e., and Manocha, D. 2006. Warping and partitioning for low error shadow maps. InProceedings of the 17th Eurographics Conference on Rendering Techniques, Eurographics Association, EGSR'06, 215--226."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-20",
+                "unstructured": "Ramamoorthi, R. 2009. Precomputation-based rendering.Found. Trends. Comput. Graph. Vis. 3, 4 (Apr.), 281--369."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-21",
+                "unstructured": "Rasmusson, J., Str&#246;m, J., Wennersten, P., Doggett, M., and Akenine-M&#246;ller, T. 2010. Texture compression of light maps using smooth profile functions. InProceedings of the Conference on High Performance Graphics, HPG '10, 143--152."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-22",
+                "unstructured": "Sintorn, E., Eisemann, E., and Assarsson, U. 2008. Sample based visibility for soft shadows using alias-free shadow maps. InProc. of 19th EG Conf. on Rendering, Eurographics Association, EGSR'08, 1285--1292."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-23",
+                "unstructured": "Sintorn, E., Olsson, O., and Assarsson, U. 2011. An efficient alias-free shadow algorithm for opaque and transparent objects using per-triangle shadow volumes.ACM Trans. Graph. 30, 6 (Dec.), 153:1--153:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-24",
+                "unstructured": "Williams, L. 1978. Casting curved shadows on curved surfaces.SIGGRAPH Comput. Graph. 12(August), 270--274.",
+                "DOI": "10.1145/965139.807402",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-25",
+                "unstructured": "Woo, A., and Poulin, P. 2012.Shadow Algorithms Data Miner. Taylor &#38; Francis.",
+                "DOI": "10.1201/b11901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-26",
+                "unstructured": "Zhang, F., Sun, H., and Nyman, O. 2005. Parallel-split shadow maps on programmable GPUs. InGPU Gems 3, Addison-Wesley, H. Nguyen, Ed."
+            },
+            {
+                "key": "key-10.1145/2601097.2601221-27",
+                "unstructured": "Zhang, F., Sun, H., Xu, L., and Lun, L. K. 2006. Parallel-split shadow maps for large-scale virtual environments. InProc. Virtual Reality Continuum and Its Applications, ACM, VRCIA '06, 311--318."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601221&amp;ftid=1488959&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601221",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    17
+                ]
+            ],
+            "date-time": "2020-01-17T05:04:49Z",
+            "timestamp": 1579237489536
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201334",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Fluid directed rigid body control using deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Pingchuan",
+                "family": "Ma",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Yunsheng",
+                "family": "Tian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Zherong",
+                "family": "Pan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            },
+            {
+                "given": "Bo",
+                "family": "Ren",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Dinesh",
+                "family": "Manocha",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Maryland at College Park"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201334-1",
+                "unstructured": "Nadir Akinci, Markus Ihmsen, Gizem Akinci, Barbara Solenthaler, and Matthias Teschner. 2012. Versatile Rigid-fluid Coupling for Incompressible SPH.ACM Trans. Graph.31, 4, Article 62 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-2",
+                "unstructured": "Christopher Batty, Florence Bertails, and Robert Bridson. 2007. A Fast Variational Framework for Accurate Solid-fluid Coupling.ACM Trans. Graph.26, 3, Article 100 (July 2007).",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-3",
+                "unstructured": "Markus Becker and Matthias Teschner. 2007. Weakly Compressible SPH for Free Surface Flows. InProceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '07).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 209--217."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-4",
+                "unstructured": "Markus Becker, Hendrik Tessendorf, and Matthias Teschner. 2009. Direct Forcing for Lagrangian Rigid-Fluid Coupling.IEEE Transactions on Visualization and Computer Graphics15, 3 (May 2009), 493--503.",
+                "DOI": "10.1109/TVCG.2008.107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-5",
+                "unstructured": "Boris Bonev, Lukas Prantl, and Nils Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks.arXivto appear (Apr 2017), 14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-6",
+                "unstructured": "Nuttapong Chentanez and Matthias M&#252;ller. 2011. Real-time Eulerian Water Simulation Using a Restricted Tall Cell Grid. InACM SIGGRAPH 2011 Papers (SIGGRAPH '11).ACM, New York, NY, USA, Article 82, 10 pages.",
+                "DOI": "10.1145/1964921.1964977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-7",
+                "unstructured": "Marc Claesen and Bart De Moor. 2015. Hyperparameter Search in Machine Learning.arXiv preprint arXiv:1502.02127(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-8",
+                "unstructured": "Douglas Enright, Stephen Marschner, and Ronald Fedkiw. 2002. Animation and Rendering of Complex Water Surfaces.ACM Trans. Graph.21, 3 (July 2002), 736--744.",
+                "DOI": "10.1145/566654.566645",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-9",
+                "unstructured": "Isabelle Fantoni and Rogelio Lozano. 2001.Non-Linear Control for Underactuated Mechanical Systems.Springer-Verlag New York, Inc., Secaucus, NJ, USA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-10",
+                "unstructured": "Raanan Fattal and Dani Lischinski. 2004. Target-driven Smoke Animation.ACM Trans. Graph.23, 3 (Aug. 2004), 441--448.",
+                "DOI": "10.1145/1015706.1015743",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-11",
+                "unstructured": "Paul Glasserman and David D. Yao. 1992. Some Guidelines and Guarantees for Common Random Numbers.Manage. Sci.38, 6 (June 1992), 884--908.",
+                "DOI": "10.1287/mnsc.38.6.884",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-12",
+                "unstructured": "Nikolaus Hansen and Andreas Ostermeier. 2001. Completely Derandomized Self-Adaptation in Evolution Strategies.Evol. Comput.9, 2 (June 2001), 159--195.",
+                "DOI": "10.1162/106365601750190398",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-13",
+                "unstructured": "Sham Kakade. 2001. A Natural Policy Gradient. InAdvances in Neural Information Processing Systems 14 (NIPS 2001), Thomas G. Dietterich, Suzanna Becker, and Zoubin Ghahramani (Eds.). MIT Press, 1531--1538."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-14",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-15",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. 2012. ImageNet Classification with Deep Convolutional Neural Networks. InProceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1 (NIPS'12).Curran Associates Inc., USA, 1097--1105."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-16",
+                "unstructured": "Alexander Kurganov and Guergana Petrova. 2007. A Second-Order Well-Balanced Positivity Preserving Central-Upwind Scheme for the Saint-Venant System.Commun. Math. Sci.5, 1 (03 2007), 133--160. https://projecteuclid.org:443/euclid.cms/1175797625",
+                "DOI": "10.4310/CMS.2007.v5.n1.a6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-17",
+                "unstructured": "Anita T. Layton and Michiel van de Panne. 2002. A numerically efficient and stable algorithm for animating water waves.The Visual Computer18, 1 (01 Feb 2002), 41--53.",
+                "DOI": "10.1007/s003710100131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-18",
+                "unstructured": "Sergey Levine, Chelsea Finn, Trevor Darrell, and Pieter Abbeel. 2016. End-to-end Training of Deep Visuomotor Policies.J. Mach. Learn. Res.17, 1 (Jan. 2016), 1334--1373."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-19",
+                "unstructured": "Libin Liu and Jessica Hodgins. 2017. Learning to Schedule Control Fragments for Physics-Based Characters Using Deep Q-Learning.ACM Trans. Graph.36, 3, Article 29 (June 2017), 14 pages.",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-20",
+                "unstructured": "Frank Losasso, Jerry Talton, Nipun Kwatra, and Ronald Fedkiw. 2008. Two-Way Coupled SPH and Particle Level Set Fluid Simulation.IEEE Transactions on Visualization and Computer Graphics14, 4 (July 2008), 797--804.",
+                "DOI": "10.1109/TVCG.2008.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-21",
+                "unstructured": "Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch. 2017. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments. InAdvances in Neural Information Processing Systems 30 (NIPS 2017).6382--6393."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-22",
+                "unstructured": "Jonathan Masci, Ueli Meier, Dan Cire&#351;an, and J&#252;rgen Schmidhuber. 2011.Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction.Springer Berlin Heidelberg, Berlin, Heidelberg, 52--59.",
+                "DOI": "10.1007/978-3-642-21735-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-23",
+                "unstructured": "Antoine McNamara, Adrien Treuille, Zoran Popovi&#263;, and Jos Stam. 2004. Fluid Control Using the Adjoint Method.ACM Trans. Graph.23, 3 (Aug. 2004), 449--456.",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-24",
+                "unstructured": "Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. 2016. Asynchronous Methods for Deep Reinforcement Learning. InProceedings of The 33rd International Conference on Machine Learning (Proceedings of Machine Learning Research), Maria Fiorina Balcan and Kilian Q. Weinberger (Eds.), Vol. 48. PMLR, New York, New York, USA, 1928--1937."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-25",
+                "unstructured": "Patrick Mullen, Keenan Crane, Dmitry Pavlov, Yiying Tong, and Mathieu Desbrun. 2009. Energy-preserving Integrators for Fluid Animation.ACM Trans. Graph.28, 3, Article 38 (July 2009), 8 pages.",
+                "DOI": "10.1145/1576246.1531344",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-26",
+                "unstructured": "J. Nocedal and S. J. Wright. 2006.Numerical Optimization(2nd ed.). Springer, New York."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-27",
+                "unstructured": "Zherong Pan, Jin Huang, Yiying Tong, Changxi Zheng, and Hujun Bao. 2013. Interactive Localized Liquid Motion Editing.ACM Trans. Graph.32, 6, Article 184 (Nov. 2013), 10 pages.",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-28",
+                "unstructured": "Zherong Pan and Dinesh Manocha. 2017. Efficient Solver for Spacetime Control of Smoke.ACM Trans. Graph.36, 5, Article 162 (July 2017), 13 pages.",
+                "DOI": "10.1145/3016963",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-29",
+                "unstructured": "Xue Bin Peng, Glen Berseth, Kangkang Yin, and Michiel Van De Panne. 2017. DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning.ACM Trans. Graph.36, 4, Article 41 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-30",
+                "unstructured": "Jovan Popovi&#263;, Steven M. Seitz, and Michael Erdmann. 2003. Motion Sketching for Control of Rigid-body Simulations.ACM Trans. Graph.22, 4 (Oct. 2003), 1034--1054.",
+                "DOI": "10.1145/944020.944025",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-31",
+                "unstructured": "Jovan Popovi&#263;, Steven M. Seitz, Michael Erdmann, Zoran Popovi&#263;, and Andrew Witkin. 2000. Interactive Manipulation of Rigid Body Simulations. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 209--217.",
+                "DOI": "10.1145/344779.344880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-32",
+                "unstructured": "Karthik Raveendran, Chris Wojtan, Nils Thuerey, and Greg Turk. 2014. Blending Liquids.ACM Trans. Graph.33, 4, Article 137 (July 2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601126",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-33",
+                "unstructured": "Avi Robinson-Mosher, Tamar Shinar, Jon Gretarsson, Jonathan Su, and Ronald Fedkiw. 2008. Two-way Coupling of Fluids to Rigid and Deformable Solids and Shells. InACM SIGGRAPH 2008 Papers (SIGGRAPH '08).ACM, New York, NY, USA, Article 46, 9 pages.",
+                "DOI": "10.1145/1399504.1360645",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-34",
+                "unstructured": "John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. 2015a. Trust Region Policy Optimization. InProceedings of the 32nd International Conference on Machine Learning (Proceedings of Machine Learning Research), Francis Bach and David Blei (Eds.), Vol. 37. PMLR, Lille, France, 1889--1897."
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-35",
+                "unstructured": "John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation. (2015). arXiv:arXiv:1506.02438"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-36",
+                "unstructured": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. 2017. Proximal Policy Optimization Algorithms. (2017). arXiv:arXiv:1707.06347"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-37",
+                "unstructured": "Lin Shi and Yizhou Yu. 2005. Taming Liquids for Rapidly Changing Targets. InProceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '05).ACM, New York, NY, USA, 229--236.",
+                "DOI": "10.1145/1073368.1073401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-38",
+                "unstructured": "Nils Thuerey. 2016. Interpolations of Smoke and Liquid Simulations.ACM Trans. Graph.36, 1, Article 3 (Sept. 2016), 16 pages.",
+                "DOI": "10.1145/2956233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-39",
+                "unstructured": "J. Tompson, K. Schlachter, P. Sprechmann, and K. Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks.ArXiv e-prints(July 2016). arXiv:cs.CV/1607.03597"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-40",
+                "unstructured": "Adrien Treuille, Antoine McNamara, Zoran Popovi&#263;, and Jos Stam. 2003. Keyframe Control of Smoke Simulations.ACM Trans. Graph.22, 3 (July 2003), 716--723.",
+                "DOI": "10.1145/882262.882337",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-41",
+                "unstructured": "Christopher D. Twigg and Doug L. James. 2007. Many-worlds Browsing for Control of Multibody Dynamics.ACM Trans. Graph.26, 3, Article 14 (July 2007).",
+                "DOI": "10.1145/1276377.1276395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-42",
+                "unstructured": "Christopher D. Twigg and Doug L. James. 2008. Backward Steps in Rigid Body Simulation.ACM Trans. Graph.27, 3, Article 25 (Aug. 2008), 10 pages.",
+                "DOI": "10.1145/1399504.1360624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-43",
+                "unstructured": "Jack M. Wang, Samuel R. Hamner, Scott L. Delp, and Vladlen Koltun. 2012. Optimizing Locomotion Controllers Using Biologically-based Actuators and Objectives.ACM Trans. Graph.31, 4, Article 25 (July 2012), 11 pages.",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-44",
+                "unstructured": "Jungdam Won, Jongho Park, Kwanyu Kim, and Jehee Lee. 2017. How to Train Your Dragon: Example-guided Control of Flapping Flight.ACM Trans. Graph.36, 6, Article 198 (Nov. 2017), 13 pages.",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-45",
+                "unstructured": "KangKang Yin, Kevin Loken, and Michiel van de Panne. 2007. SIMBICON: Simple Biped Locomotion Control. InACM SIGGRAPH 2007 Papers (SIGGRAPH '07).ACM, New York, NY, USA, Article 105.",
+                "DOI": "10.1145/1275808.1276509",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-46",
+                "unstructured": "Matthew D. Zeiler, Dilip Krishnan, Graham W. Taylor, and Rob Fergus. 2010.Deconvolutional networks.2528--2535.",
+                "DOI": "10.1109/CVPR.2010.5539957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-47",
+                "unstructured": "Bo Zhu, Wenlong Lu, Matthew Cong, Byungmoon Kim, and Ronald Fedkiw. 2013. A New Grid Structure for Domain Extension.ACM Trans. Graph.32, 4, Article 63 (July 2013), 12 pages.",
+                "DOI": "10.1145/2461912.2461999",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201334-48",
+                "unstructured": "Yongning Zhu and Robert Bridson. 2005. Animating Sand As a Fluid.ACM Trans. Graph.24, 3 (July 2005), 965--972.",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201334&ftid=1991653&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:52:14Z",
+            "timestamp": 1571673134000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201334",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

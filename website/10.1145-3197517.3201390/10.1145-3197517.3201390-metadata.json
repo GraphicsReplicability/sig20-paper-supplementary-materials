@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:59Z",
+            "timestamp": 1574859839205
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Swiss National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "UFO 200021L_153644"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201390",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Optimizing for aesthetically pleasing qadrotor camera motion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Christoph",
+                "family": "Gebhardt",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich"
+                    }
+                ]
+            },
+            {
+                "given": "Stefan",
+                "family": "Stev\u0161i\u0107",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich"
+                    }
+                ]
+            },
+            {
+                "given": "Otmar",
+                "family": "Hilliges",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201390-1",
+                "unstructured": "3D Robotics. 2015. 3DR Solo. (2015). Retrieved September 13, 2016 from http://3drobotics.com/solo"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-2",
+                "unstructured": "A. Pedro Aguiar, Joao P. Hespanha, and Petar V. Kokotovic. 2008. Performance limitations in reference tracking and path following for nonlinear systems.Automatica44, 3 (2008), 598 -- 610.",
+                "DOI": "10.1016/j.automatica.2007.06.030",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-3",
+                "unstructured": "APM. 2016. APM Autopilot Suite. (2016). Retrieved September 13, 2016 from http://ardupilot.com"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-4",
+                "unstructured": "Daniel Arijon. 1976. Grammar of the film language. (1976)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-5",
+                "unstructured": "Ty Audronis. 2014. How to Get Cinematic Drone Shots. (2014). Retrieved August 29, 2017 from https://www.videomaker.com/article/c6/17123-how-to-get-cinematic-drone-shots"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-6",
+                "unstructured": "Sivakumar Balasubramanian, Alejandro Melendez-Calderon, Agnes Roby-Brami, and Etienne Burdet. 2015. On the analysis of movement smoothness.Journal of neuroengineering and rehabilitation12, 1 (2015), 112."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-7",
+                "unstructured": "John T. Betts. 2009.Practical Methods for Optimal Control and Estimation Using Nonlinear Programming(2nd ed.). Cambridge University Press, New York, NY, USA.",
+                "DOI": "10.1137/1.9780898718577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-8",
+                "unstructured": "Shaw Bronner and James Shippen. 2015. Biomechanical metrics of aesthetic perception in dance.Experimental Brain Research233, 12 (01 Dec 2015), 3565--3581.",
+                "DOI": "10.1007/s00221-015-4424-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-9",
+                "unstructured": "Adam Bry, Charles Richter, Abraham Bachrach, and Nicholas Roy. 2015. Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments.The International Journal of Robotics Research34, 7 (2015), 969--1002.",
+                "DOI": "10.1177/0278364914558129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-10",
+                "unstructured": "Marc Christie, Patrick Olivier, and Jean-Marie Normand. 2008. Camera Control in Computer Graphics.Computer Graphics Forum27, 8 (Dec. 2008), 2197--2218.",
+                "DOI": "10.1111/j.1467-8659.2008.01181.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-11",
+                "unstructured": "DJI. 2016. PC Ground Station. (2016). Retrieved September 13, 2016 from http://www.dji.com/pc-ground-station"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-12",
+                "unstructured": "Alexander Domahidi and Juan Jerez. 2017. FORCES Pro: code generation for embedded optimization. (2017). Retrieved September 4, 2017 from https://www.embotech.com/FORCES-Pro"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-13",
+                "unstructured": "Steven M. Drucker and David Zeltzer. 1994. Intelligent Camera Control in a Virtual Environment. InIn Proceedings of Graphics Interface '94.190--199."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-14",
+                "unstructured": "T. Faulwasser, B. Kern, and R. Findeisen. 2009. Model predictive path-following for constrained nonlinear systems. InProceedings of the 48h IEEE Conference on Decision and Control (CDC).8642--8647.",
+                "DOI": "10.1109/CDC.2009.5399744",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-15",
+                "unstructured": "F. N. Fritsch and R. E. Carlson. 1980. Monotone Piecewise Cubic Interpolation.SIAM J. Numer. Anal.17, 2 (1980), 238--246. arXiv:https://doi.org/10.1137/0717021",
+                "DOI": "10.1137/0717021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-16",
+                "unstructured": "Q. Galvane, J. Fleureau, F. L. Tariolle, and P. Guillotel. 2016. Automated Cinematography with Unmanned Aerial Vehicles. InProceedings of the Eurographics Workshop on Intelligent Cinematography and Editing (WICED '16).Eurographics Association, Goslar Germany, Germany, 23--30."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-17",
+                "unstructured": "Christoph Gebhardt, Benjamin Hepp, Tobias N&#228;geli, Stefan Stev&#353;i&#263;, and Otmar Hilliges. 2016. Airways: Optimization-Based Planning of Quadrotor Trajectories According to High-Level User Goals. InProceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16).ACM, New York, NY, USA, 2508--2519.",
+                "DOI": "10.1145/2858036.2858353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-18",
+                "unstructured": "Christoph Gebhardt and Otmar Hilliges. 2018. WYFIWYG: Investigating Effective User Support in Aerial Videography. (2018). arXiv:1801.05972"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-19",
+                "unstructured": "T. Geijtenbeek and N. Pronost. 2012. Interactive Character Animation Using Simulated Physics: A State-of-the-Art Review.Computer Graphics Forum31, 8 (2012), 2492--2515.",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-20",
+                "unstructured": "John Hennessy. 2015. 13 Powerful Tips to Improve Your Aerial Cinematography. (2015). Retrieved August 29, 2017 from https://skytango.com/13-powerful-tips-to-improve-your-aerial-cinematography/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-21",
+                "unstructured": "Neville Hogan. 1984. Adaptive control of mechanical impedance by coactivation of antagonist muscles.IEEE Trans. Automat. Control29, 8 (1984), 681--690.",
+                "DOI": "10.1109/TAC.1984.1103644",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-22",
+                "unstructured": "Niels Joubert, Dan B Goldman, Floraine Berthouzoz, Mike Roberts, James A Landay, Pat Hanrahan, et al. 2016. Towards a Drone Cinematographer: Guiding Quadrotor Cameras using Visual Composition Principles. (2016). arXiv:1610.01691"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-23",
+                "unstructured": "Niels Joubert, Mike Roberts, Anh Truong, Floraine Berthouzoz, and Pat Hanrahan. 2015. An Interactive Tool for Designing Quadrotor Camera Shots.ACM Trans. Graph.34, 6, Article 238, 11 pages.",
+                "DOI": "10.1145/2816795.2818106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-24",
+                "unstructured": "Denise Lam, Chris Manzie, and Malcolm C. Good. 2013. Multi-axis model predictive contouring control.Internat. J. Control86, 8 (2013), 1410--1424.",
+                "DOI": "10.1080/00207179.2013.770170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-25",
+                "unstructured": "Tsai-Yen Li and Chung-Chiang Cheng. 2008.Real-Time Camera Planning for Navigation in Virtual Environments.Springer Berlin Heidelberg, Berlin, Heidelberg, 118--129."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-26",
+                "unstructured": "Alexander Liniger, Alexander Domahidi, and Manfred Morari. 2014. Optimization-based autonomous racing of 1:43 scale RC cars.Optimal Control Applications and Methods(2014).",
+                "DOI": "10.1002/oca.2123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-27",
+                "unstructured": "Christophe Lino and Marc Christie. 2012. Efficient Composition for Virtual Camera Control. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '12).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 65--70."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-28",
+                "unstructured": "Christophe Lino and Marc Christie. 2015. Intuitive and Efficient Camera Control with the Toric Space.ACM Trans. Graph.34, 4, Article 82 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-29",
+                "unstructured": "Christophe Lino, Marc Christie, Roberto Ranon, and William Bares. 2011. The Director's Lens: An Intelligent Assistant for Virtual Cinematography. InProceedings of the 19th ACM International Conference on Multimedia (MM '11).ACM, New York, NY, USA, 323--332.",
+                "DOI": "10.1145/2072298.2072341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-30",
+                "unstructured": "C. Karen Liu, Aaron Hertzmann, and Zoran Popovi&#263;. 2006. Composition of Complex Optimal Multi-character Motions. InProceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '06).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 215--222. http://dl.acm.org/citation.cfm?id=1218064.1218093"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-31",
+                "unstructured": "James McCann, Nancy S Pollard, and Siddhartha Srinivasa. 2006. Physics-based motion retiming. InProceedings of the 2006 ACM SIGGRAPH/Eurographics symposium on Computer animation.Eurographics Association, 205--214."
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-32",
+                "unstructured": "D. Mellinger and V. Kumar. 2011. Minimum snap trajectory generation and control for quadrotors. In2011 IEEE International Conference on Robotics and Automation.2520--2525.",
+                "DOI": "10.1109/ICRA.2011.5980409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-33",
+                "unstructured": "D Mellinger, N Michael, and V Kumar. 2012. Trajectory Generation and Control for Precise Aggressive Maneuvers with Quadrotors.The International Journal of Robotics Research31, 5 (2012), 664--674.",
+                "DOI": "10.1177/0278364911434236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-34",
+                "unstructured": "H. Michalska and D. Q. Mayne. 1993. Robust receding horizon control of constrained nonlinear systems.IEEE Trans. Automat. Control38, 11 (Nov 1993), 1623--1633.",
+                "DOI": "10.1109/9.262032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-35",
+                "unstructured": "M.W. Mueller and R. D'Andrea. 2013. A model predictive controller for quadrocopter state interception. InProceedings of the European Control Conference (ECC), 2013.1383--1389. http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6669415",
+                "DOI": "10.23919/ECC.2013.6669415",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-36",
+                "unstructured": "T. Naegeli, J. Alonso-Mora, A. Domahidi, D. Rus, and O. Hilliges. 2017. Real-time Motion Planning for Aerial Videography with Dynamic Obstacle Avoidance and Viewpoint Optimization.IEEE Robotics and Automation LettersPP, 99 (2017), 1--1.",
+                "DOI": "10.1109/LRA.2017.2665693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-37",
+                "unstructured": "Tobias N&#228;geli, Lukas Meier, Alexander Domahidi, Javier Alonso-Mora, and Otmar Hilliges. 2017. Real-time Planning for Automated Multi-view Drone Cinematography.ACM Trans. Graph.36, 4, Article 132 (July 2017), 10 pages.",
+                "DOI": "10.1145/3072959.3073712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-38",
+                "unstructured": "Mike Roberts and Pat Hanrahan. 2016. Generating Dynamically Feasible Trajectories for Quadrotor Cameras.ACM Trans. Graph.35, 4, Article 61 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925980",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-39",
+                "unstructured": "VC Technology. 2016. Litchi Tool. (2016). Retrieved September 13, 2016 from https://flylitchi.com/",
+                "DOI": "10.1016/S1350-4789(16)30074-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-40",
+                "unstructured": "Andrew Witkin and Michael Kass. 1988. Spacetime Constraints. InProceedings of the 15th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '88).ACM, New York, NY, USA, 159--168.",
+                "DOI": "10.1145/54852.378507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201390-41",
+                "unstructured": "I-Cheng Yeh, Chao-Hung Lin, Hung-Jen Chien, and Tong-Yee Lee. 2011. Efficient camera path planning algorithm for human motion overview.Computer Animation and Virtual Worlds22, 2-3 (2011), 239--250."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201390&ftid=1991704&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:51:41Z",
+            "timestamp": 1571673101000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201390",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

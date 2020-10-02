@@ -1,0 +1,518 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410107
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004830",
+                "name": "Siemens",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004405",
+                "name": "Toyota",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Intel Science and Technology Center for Agile Design",
+                "award": []
+            },
+            {
+                "name": "SK Hynix",
+                "award": []
+            },
+            {
+                "name": "NSF/Intel Partnership on Computer Assisted Programming for Heterogeneous Architectures",
+                "award": [
+                    "CCF-1723445"
+                ]
+            },
+            {
+                "name": "ADEPT Lab industrial sponsors",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201383",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Differentiable programming for image processing and deep learning in halide"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Tzu-Mao",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Micha\u00ebl",
+                "family": "Gharbi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Adams",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook AI Research"
+                    }
+                ]
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UC Berkeley & Google"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201383-1",
+                "unstructured": "Mart&#237;n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Man&#233;, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi&#233;gas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-2",
+                "unstructured": "Jonathan T Barron and Ben Poole. 2016. The fast bilateral solver. InEuropean Conference on Computer Vision.Springer, 617--632."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-3",
+                "unstructured": "James Bergstra, Olivier Breuleux, Fr&#233;d&#233;ric Bastien, Pascal Lamblin, Razvan Pascanu, Guillaume Desjardins, Joseph Turian, David Warde-Farley, and Yoshua Bengio. 2010. Theano: a CPU and GPU Math Expression Compiler. InProceedings of the Python for Scientific Computing Conference (SciPy)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-4",
+                "unstructured": "Christian Bischof, Alan Carle, George Corliss, and Andreas Griewank. 1992. ADIFOR: Automatic Differentiation in a Source Translator Environment. InPapers from the International Symposium on Symbolic and Algebraic Computation (ISSAC '92).294--302.",
+                "DOI": "10.1145/143242.143335",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-5",
+                "unstructured": "Vladimir Bychkovsky, Sylvain Paris, Eric Chan, and Fr&#233;do Durand. 2011. Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs. InThe Twenty-Fourth IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2011.5995413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-6",
+                "unstructured": "Jiawen Chen, Sylvain Paris, and Fr&#233;do Durand. 2007. Real-time Edge-aware Image Processing with the Bilateral Grid.ACM Trans. Graph. (Proceedings of SIGGRAPH)26, 3, Article 103 (July 2007).",
+                "DOI": "10.1145/1276377.1276506",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-7",
+                "unstructured": "Sharan Chetlur, Cliff Woolley, Philippe Vandermersch, Jonathan Cohen, John Tran, Bryan Catanzaro, and Evan Shelhamer. 2014. cuDNN: Efficient Primitives for Deep Learning.arXiv preprint arXiv:1410.0759(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-8",
+                "unstructured": "J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei. 2009. ImageNet: A Large-Scale Hierarchical Image Database. InCVPR09.",
+                "DOI": "10.1109/CVPR.2009.5206848",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-9",
+                "unstructured": "Zachary Devito, Michael Mara, Michael Zollh&#246;fer, Gilbert Bernstein, Jonathan Ragan-Kelley, Christian Theobalt, Pat Hanrahan, Matthew Fisher, and Matthias Niessner. 2017. Opt: A Domain Specific Language for Non-Linear Least Squares Optimization in Graphics and Imaging.ACM Trans. Graph.36, 5, Article 171 (Oct. 2017), 27 pages.",
+                "DOI": "10.1145/3132188",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-10",
+                "unstructured": "Martin A. Fischler and Robert C. Bolles. 1981. Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography.Commun. ACM24, 6 (June 1981), 381--395.",
+                "DOI": "10.1145/358669.358692",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-11",
+                "unstructured": "Horacio E. Fortunato and Manuel M. Oliveira. 2014. Fast high-quality non-blind deconvolution using sparse adaptive priors.The Visual Computer30, 6--8 (2014), 661--671."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-12",
+                "unstructured": "Leon A Gatys, Alexanders Ecker, and Matthias Bethge. 2016. Image style transfer using convolutional neural networks. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.2414--2423.",
+                "DOI": "10.1109/CVPR.2016.265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-13",
+                "unstructured": "Micha&#235;l Gharbi, Gaurav Chaurasia, Sylvain Paris, and Fr&#233;do Durand. 2016. Deep Joint Demosaicking and Denoising.ACM Trans. Graph. (Proceedings of SIGGRAPH Asia)35, 6, Article 191 (Nov. 2016), 12 pages.",
+                "DOI": "10.1145/2980179.2982399",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-14",
+                "unstructured": "Micha&#235;l Gharbi, Jiawen Chen, Jonathan T Barron, Samuel W Hasinoff, and Fr&#233;do Durand. 2017. Deep bilateral learning for real-time image enhancement.ACM Trans. Graph. (Proceedings of SIGGRAPH)36, 4 (2017), 118."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-15",
+                "unstructured": "Mark Girolami and Ben Calderhead. 2011. Riemann manifold langevin and hamiltonian monte carlo methods.Journal of the Royal Statistical Society: Series B (Statistical Methodology)73, 2 (2011), 123--214."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-16",
+                "unstructured": "Andreas Griewank, David Juedes, and Jean Utke. 1996. Algorithm 755: ADOL-C: A Package for the Automatic Differentiation of Algorithms Written in C/C++.ACM Trans. Math. Softw.22, 2 (June 1996), 131--167.",
+                "DOI": "10.1145/229473.229474",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-17",
+                "unstructured": "Andreas Griewank and Shawn Reese. 1991. On the Calculation of Jacobian Matrices by the Markowitz Rule. InAutomatic Differentiation of Algorithms: Theory Implementation, and Application, Andreas Griewank and George F. Corliss (Eds.). 126--135."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-18",
+                "unstructured": "Andreas Griewank and Andrea Walther. 2008.Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation(second ed.). Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9780898717761",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-19",
+                "unstructured": "Brian Guenter. 2007. Efficient Symbolic Differentiation for Graphics Applications.ACM Trans. Graph. (Proceedings of SIGGRAPH)26, 3 (July 2007).",
+                "DOI": "10.1145/1276377.1276512",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-20",
+                "unstructured": "Laurent Hascoet and Val&#233;rie Pascual. 2013. The Tapenade Automatic Differentiation Tool: Principles, Model, and Specification.ACM Trans. Math. Softw.39, 3, Article 20 (May 2013), 43 pages.",
+                "DOI": "10.1145/2450153.2450158",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-21",
+                "unstructured": "Felix Heide, Steven Diamond, Matthias Niessner, Jonathan Ragan-Kelley, Wolfgang Heidrich, and Gordon Wetzstein. 2016. ProxImaL: Efficient Image Optimization Using Proximal Algorithms.ACM Trans. Graph. (Proceedings of SIGGRAPH)35, 4, Article 84 (July 2016), 15 pages.",
+                "DOI": "10.1145/2897824.2925875",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-22",
+                "unstructured": "Felix Heide, Markus Steinberger, Yun-Ta Tsai, Mushfiqur Rouf, Dawid Paj&#261;k, Dikpal Reddy, Orazio Gallo, Jing Liu, Wolfgang Heidrich, Karen Egiazarian, Jan Kautz, and Kari Pulli. 2014. FlexISP: A Flexible Camera Image Processing Framework.ACM Trans. Graph. (Proceedings of SIGGRAPH)33, 6, Article 231 (Nov. 2014), 13 pages.",
+                "DOI": "10.1145/2661229.2661260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-23",
+                "unstructured": "Keigo Hirakawa and Thomas W Parks. 2005. Adaptive homogeneity-directed demosaicing algorithm.IEEE Trans. Image Processing14, 3 (2005), 360--369.",
+                "DOI": "10.1109/TIP.2004.838691",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-24",
+                "unstructured": "Robin J. Hogan. 2014. Fast Reverse-Mode Automatic Differentiation Using Expression Templates in C++.ACM Trans. Math. Softw.40, 4, Article 26 (July 2014), 16 pages.",
+                "DOI": "10.1145/2560359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-25",
+                "unstructured": "Berthold KP Horn and Brian G Schunck. 1981. Determining optical flow.Artificial intelligence17, 1--3 (1981), 185--203."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-26",
+                "unstructured": "Satoshi Iizuka, Edgar Simo-Serra, and Hiroshi Ishikawa. 2016. Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification.ACM Transactions on Graphics (TOG)35, 4 (2016), 110.",
+                "DOI": "10.1145/2897824.2925974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-27",
+                "unstructured": "E. Ilg, N. Mayer, T. Saikia, M. Keuper, A. Dosovitskiy, and T. Brox. 2017. FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. InIEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2017.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-28",
+                "unstructured": "Max Jaderberg, Karen Simonyan, Andrew Zisserman, et al. 2015. Spatial transformer networks. InAdvances in Neural Information Processing Systems.2017--2025."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-29",
+                "unstructured": "Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross Girshick, Sergio Guadarrama, and Trevor Darrell. 2014. Caffe: Convolutional Architecture for Fast Feature Embedding. InProceedings of the 22Nd ACM International Conference on Multimedia (MM '14).675--678."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-30",
+                "unstructured": "Diederik Kingma and Jimmy Ba. 2014. Adam: A method for stochastic optimization.arXiv preprint arXiv:1412.6980(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-31",
+                "unstructured": "Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, and Jiri Matas. 2017. DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks.arXiv preprint arXiv:1711.07064(2017).",
+                "DOI": "10.1109/CVPR.2018.00854",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-32",
+                "unstructured": "Leslie Lamport. 1975. The Hyperplane Method for an Array Computer. InProceedings of the Sagamore Computer Conference on Parallel Processing.113--131.",
+                "DOI": "10.1007/3-540-07135-0_114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-33",
+                "unstructured": "Gunther Lange. 1957. Gauss type photographic objective containing two outer collective and two inner dispersive members. U.S. Patent 2,799,207 A."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-34",
+                "unstructured": "Seppo Linnainmaa. 1970.The representation of the cumulative rounding error of an algorithm as a Taylor expansion of the local rounding errors.Master's thesis. Univ. Helsinki."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-35",
+                "unstructured": "David G. Lowe. 2004. Distinctive Image Features from Scale-Invariant Keypoints.Int. J. Comput. Vision60, 2 (Nov. 2004), 91--110.",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-36",
+                "unstructured": "Fujun Luan, Sylvain Paris, Eli Shechtman, and Kavita Bala. 2017. Deep Photo Style Transfer.arXiv preprint arXiv:1703.07511(2017).",
+                "DOI": "10.1109/CVPR.2017.740",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-37",
+                "unstructured": "Ravi Teja Mullapudi, Andrew Adams, Dillon Sharlet, Jonathan Ragan-Kelley, and Kayvon Fatahalian. 2016. Automatically Scheduling Halide Image Processing Pipelines.ACM Trans. Graph. (Proceedings of SIGGRAPH)35, 4, Article 83 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925952",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-38",
+                "unstructured": "Ravi Teja Mullapudi, Vinay Vasista, and Uday Bondhugula. 2015. PolyMage: Automatic Optimization for Image Processing Pipelines.SIGARCH Comput. Archit. News43, 1 (March 2015), 429--443.",
+                "DOI": "10.1145/2786763.2694364",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-39",
+                "unstructured": "Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-40",
+                "unstructured": "Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, and Fr&#233;do Durand. 2012. Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines.ACM Trans. Graph. (Proceedings of SIGGRAPH)31, 4, Article 32 (July 2012), 12 pages.",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-41",
+                "unstructured": "Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Fr&#233;do Durand, and Saman Amarasinghe. 2013. Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines.SIGPLAN Not.48, 6 (June 2013), 519--530.",
+                "DOI": "10.1145/2499370.2462176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-42",
+                "unstructured": "S. Roth and M.J. Black. 2005. Fields of Experts: A framework for learning image priors. InIEEE Conf. on Computer Vision and Pattern Recognition, Vol. 2. 860--867.",
+                "DOI": "10.1109/CVPR.2005.160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-43",
+                "unstructured": "Leonid I Rudin, Stanley Osher, and Emad Fatemi. 1992. Nonlinear total variation based noise removal algorithms.Physica D: Nonlinear Phenomena60, 1--4 (1992), 259--268."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-44",
+                "unstructured": "D. E. Rumelhart, G. E. Hinton, and R. J. Williams. 1986. Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Vol. 1. Chapter Learning Internal Representations by Error Propagation, 318--362."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-45",
+                "unstructured": "Patricia Suriana, Andrew Adams, and Shoaib Kamil. 2017. Parallel Associative Reductions in Halide. InProceedings of the 2017 International Symposium on Code Generation and Optimization (CGO '17).",
+                "DOI": "10.1109/CGO.2017.7863747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-46",
+                "unstructured": "Dmitry Ulyanov, Andrea Vedaldi, and Victor Lempitsky. 2017. Deep Image Prior.arXiv preprint arXiv:1711.10925(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-47",
+                "unstructured": "Yu. M. Volin and G. M. Ostrovskii. 1985. Automatic computation of derivatives with the use of the multilevel differentiating technique --- I: Algorithmic basis.Computers and Mathematics with Applications11 (1985), 1099--1114.",
+                "DOI": "10.1016/0898-1221(85)90188-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-48",
+                "unstructured": "Paul J Werbos. 1982. Applications of advances in nonlinear sensitivity analysis. InSystem modeling and optimization.Springer, 762--770."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-49",
+                "unstructured": "Alexander B Wiltschko, Bart van Merri&#195;&#324;nboer, and Dan Moldovan. 2017. Tangent: automatic differentiation using source code transformation in Python."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-50",
+                "unstructured": "Li Xu, Jimmy Ren, Qiong Yan, Renjie Liao, and Jiaya Jia. 2015. Deep edge-aware filters. InProceedings of the 32nd International Conference on Machine Learning (ICML-15).1669--1678."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-51",
+                "unstructured": "Yuting Yang, Sam Prestwood, and Connelly Barnes. 2016. VizGen: Accelerating Visual Computing Prototypes in Dynamic Languages.ACM Trans. Graph. (Proceedings of SIGGRAPH Asia)35, 6, Article 206 (Nov. 2016), 13 pages.",
+                "DOI": "10.1145/2980179.2982403",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-52",
+                "unstructured": "Dong Yu, Adam Eversole, Mike Seltzer, Kaisheng Yao, Oleksii Kuchaiev, Yu Zhang, Frank Seide, Zhiheng Huang, Brian Guenter, Huaming Wang, Jasha Droppo, Geoffrey Zweig, Chris Rossbach, Jie Gao, Andreas Stolcke, Jon Currey, Malcolm Slaney, Guoguo Chen, Amit Agarwal, Chris Basoglu, Marko Padmilac, Alexey Kamenev, Vladimir Ivanov, Scott Cypher, Hari Parthasarathi, Bhaskar Mitra, Baolin Peng, and Xuedong Huang. 2014.An Introduction to Computational Networks and the Computational Network Toolkit.Technical Report."
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-53",
+                "unstructured": "Kai Zhang, Wangmeng Zuo, Yunjin Chen, Deyu Meng, and Lei Zhang. 2017. Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising.IEEE Transactions on Image Processing(2017).",
+                "DOI": "10.1109/TIP.2017.2662206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-54",
+                "unstructured": "Richard Zhang, Phillip Isola, and Alexei A Efros. 2016. Colorful image colorization. InEuropean Conference on Computer Vision.Springer, 649--666.",
+                "DOI": "10.1007/978-3-319-46487-9_40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201383-55",
+                "unstructured": "Barbara Zitova and Jan Flusser. 2003. Image registration methods: a survey.Image and vision computing21, 11 (2003), 977--1000.",
+                "DOI": "10.1016/S0262-8856(03)00137-9",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201383&ftid=1991788&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:18Z",
+            "timestamp": 1571673498000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201383",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

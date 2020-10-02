@@ -1,0 +1,86 @@
+{
+    "Timestamp": "1/9/2020 14:08:11",
+    "Title": "Point convolutional neural networks by extension operators",
+    "DOI": "10.1145/3197517.3201301",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "https://arxiv.org/abs/1803.10091",
+    "code URL": "https://github.com/matanatz/pcnn",
+    "code URL  2": "",
+    "PDF URL": "https://arxiv.org/pdf/1803.10091.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 4,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data",
+    "License for the data (if any)": "ModelNet40: All CAD models are downloaded from the Internet and the original authors hold the copyright of the CAD models. The label of the data was obtained by us via Amazon Mechanical Turk service and it is provided freely. This dataset is provided for the convenience of academic research only.",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 3,
+    "Feedbacks [Interface user-friendly (5=easy)]": 2,
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Neural networks",
+    "ACM 2": "Shape analysis",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I needed to install tensorflow and pyhocon manually. No trained models are given and I wasn't able to generate the models from the (provided) training data (timeout, 250 epoch required and the train.py refused to consider my GPU and thus did the training on CPU). \n\nAfter a single epoch, the evaluation script fails (version issue of the provider package?): \n\nAttributeError: module 'provider' has no attribute 'ClassificationProvider'",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 60,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow / pyhocon / h5py",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Matan",
+            "family": "Atzmon",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Haggai",
+            "family": "Maron",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        },
+        {
+            "given": "Yaron",
+            "family": "Lipman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Weizmann Institute of Science"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

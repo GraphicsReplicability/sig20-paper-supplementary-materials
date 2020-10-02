@@ -1,0 +1,296 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:59Z",
+            "timestamp": 1575507239804
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004063",
+                "name": "Knut och Alice Wallenbergs Stiftelse",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601222",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Dynamic ray stream traversal"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Rasmus",
+                "family": "Barringer",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Tomas",
+                "family": "Akenine-M\u00f6ller",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601222-1",
+                "unstructured": "&#193;fra, A. T., and Szirmay-Kalos, L. 2013. Stackless Multi-BVH Traversal for CPU, MIC and GPU Ray Tracing.Computer Graphics Forum, 33, 1, 129--140."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-2",
+                "unstructured": "Barringer, R., and Akenine-M&#246;ller, T. 2013. Dynamic Stackless Binary Tree Traversal.Journal of Computer Graphics Techniques, 2, 1 (March), 38--49."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-3",
+                "unstructured": "Benthin, C., Wald, I., Woop, S., Ernst, M., and Mark, W. 2012. Combining Single and Packet-Ray Tracing for Arbitrary Ray Distributions on the Intel MIC Architecture.IEEE Transactions on Visualization and Computer Graphics, 18, 9, 1438--1448.",
+                "DOI": "10.1109/TVCG.2011.277",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-4",
+                "unstructured": "Boulos, S., Wald, I., and Benthin, C. 2008. Adaptive Ray Packet Reordering. InSymposium on Interactive Ray Tracing, 131--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-5",
+                "unstructured": "Dammertz, H., Hanika, J., and Keller, A. 2008. Shallow Bounding Volume Hierarchies for Fast SIMD Ray Tracing of Incoherent Rays.Computer Graphics Forum, 27, 4, 1225--1233.",
+                "DOI": "10.1111/j.1467-8659.2008.01261.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-6",
+                "unstructured": "Eisenacher, C., Nichols, G., Selle, A., and Burley, B. 2013. Sorted Deferred Shading for Production Path Tracing.Computer Graphics Forum, 32, 4, 125--132.",
+                "DOI": "10.1111/cgf.12158",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-7",
+                "unstructured": "Ernst, M., and Greiner, G. 2008. Multi Bounding Volume Hierarchies. InIEEE Interactive Ray Tracing, 35--40."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-8",
+                "unstructured": "Garanzha, K., and Loop, C. 2010. Fast Ray Sorting and Breadth-First Packet Traversal for GPU Ray Tracing.Computer Graphics Forum, 29, 2, 289--298.",
+                "DOI": "10.1111/j.1467-8659.2009.01598.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-9",
+                "unstructured": "Gribble, C. P., and Ramani, K. 2008. Coherent Ray Tracing via Stream Filtering. InSymposium on Interactive Ray Tracing, 59--66."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-10",
+                "unstructured": "Hanrahan, P. 1986. Using Caches and Breadth-First Search to Speed Up Ray Tracing. InGraphics Interface, 56--61."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-11",
+                "unstructured": "Hapala, M., Davidovic, T., Wald, I., Havran, V., and Slusallek, P. 2011. Efficient Stackless BVH Traversal for Ray Tracing. In27th Spring Conference of Computer Graphics, 29--34."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-12",
+                "unstructured": "Hennessey, J. L., and Pattersson, D. A. 2011.Computer Architecture: A Quantitative Approach, 5th ed. Morgan Kaufmann."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-13",
+                "unstructured": "Hughes, D. M., and Lim, I. S. 2009. Kd-Jump: a Path-Preserving Stackless Traversal for Faster Isosurface Raytracing on GPUs.IEEE Transactions on Visualization and Computer Graphics, 15, 6, 1555--1562.",
+                "DOI": "10.1109/TVCG.2009.161",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-14",
+                "unstructured": "Ize, T., and Hansen, C. 2011. RTSAH Traversal Order for Occlusion Rays.Computer Graphics Forum, 30, 2, 297--305.",
+                "DOI": "10.1111/j.1467-8659.2011.01861.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-15",
+                "unstructured": "Kajiya, J. T. 1986. The Rendering Equation.Computer Graphics (Proceedings of ACM SIGGRAPH 86), 20, 4, 143--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-16",
+                "unstructured": "Laine, S., Karras, T., and Aila, T. 2013. Megakernels Considered Harmful: Wavefront Path Tracing on GPUs. InHigh Performance Graphics, 137--143."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-17",
+                "unstructured": "Laine, S. 2010. Restart Trail for Stackless BVH Traversal. InHigh Performance Graphics, 107--111."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-18",
+                "unstructured": "M&#246;ller, T., and Trumbore, B. 1997. Fast, Minimum Storage Ray-triangle Intersection.Journal of Graphics Tools, 2, 1, 21--28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-19",
+                "unstructured": "Mora, B. 2011. Naive Ray-tracing: A Divide-and-conquer Approach.ACM Transactions on Graphics, 30, 5, 117:1--117:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-20",
+                "unstructured": "Pharr, M., and Mark, W. 2012. ispc: A SPMD Compiler for High-Performance CPU Programming. InInnovative Parallel Computing (InPar), 1--13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-21",
+                "unstructured": "Ramani, K., Gribble, C. P., and Davis, A. 2009. Stream-Ray: A Stream Filtering Architecture for Coherent Ray Tracing. In14th International Conference on Architectural Support for Programming Languages and Operating Systems, 325--336.",
+                "DOI": "10.1145/1508244.1508282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-22",
+                "unstructured": "Tsakok, J. A. 2009. Faster Incoherent Rays: Multi-BVH Ray Stream Tracing. InHigh Performance Graphics, 151--158."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-23",
+                "unstructured": "Wald, I., Slusallek, P., Benthin, C., and Wagner, M. 2001. Interactive Rendering with Coherent Ray Tracing.Computer Graphics Forum, 20, 3, 153--164.",
+                "DOI": "10.1111/1467-8659.00508",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-24",
+                "unstructured": "Wald, I., Gribble, C. P., Boulos, S., and Kensler, A. 2007. SIMD Ray Stream Tracing - SIMD Ray Traversal with Generalized Ray Packets and On-the-fly Re-Ordering. Tech. Rep. UUSCI-2007-012."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-25",
+                "unstructured": "Wald, I., Benthin, C., and Boulos, S. 2008. Getting Rid of Packets - Efficient SIMD Single-Ray Traversal using Multi-Branching BVHs. InIEEE Symposium on Interactive Ray Tracing, 49--57."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-26",
+                "unstructured": "Wald, I. 2007. On Fast Construction of SAH-based Bounding Volume Hierarchies. InIEEE Symposium on Interactive Ray Tracing, 33--40."
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-27",
+                "unstructured": "Whitted, T. 1980. An Improved Illumination Model for Shaded Display.Communications of the ACM, 23, 6, 343--349.",
+                "DOI": "10.1145/358876.358882",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601222-28",
+                "unstructured": "Woop, S., Feng, L., Wald, I., and Benthin, C. 2013. Embree Ray Tracing Kernels for CPUs and the Xeon Phi Architecture. InACM SIGGRAPH 2013 Talks.",
+                "DOI": "10.1145/2504459.2504515",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601222&amp;ftid=1488960&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601222",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

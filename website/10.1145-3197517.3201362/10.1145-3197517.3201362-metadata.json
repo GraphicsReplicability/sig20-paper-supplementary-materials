@@ -1,0 +1,426 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    1
+                ]
+            ],
+            "date-time": "2020-01-01T03:03:18Z",
+            "timestamp": 1577847798064
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011199",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "291763"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201362",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Deep convolutional priors for indoor scene synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kai",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Manolis",
+                "family": "Savva",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Angel X.",
+                "family": "Chang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Ritchie",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201362-1",
+                "unstructured": "Andrej Karpathy. 2015. char-rnn. https://github.com/karpathy/char-rnn. (2015). Accessed: 2018-01-20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-2",
+                "unstructured": "Angel X Chang, Manolis Savva, and Christopher D Manning. 2014. Learning Spatial Knowledge for Text to 3D Scene Generation. InEmpirical Methods in Natural Language Processing (EMNLP).",
+                "DOI": "10.3115/v1/D14-1217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-3",
+                "unstructured": "Kang Chen, Yukun Lai, Yu-Xin Wu, Ralph Robert Martin, and Shi-Min Hu. 2014. Automatic semantic modeling of indoor scenes from low-quality RGB-D data using contextual information.ACM Transactions on Graphics33, 6 (2014).",
+                "DOI": "10.1145/2661229.2661239",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-4",
+                "unstructured": "Kang Chen, Kun Xu, Yizhou Yu, Tian-Yi Wang, and Shi-Min Hu. 2015. Magic Decorator: Automatic Material Suggestion for Indoor Digital Scenes. InSIGGRAPH Asia 2015.",
+                "DOI": "10.1145/2816795.2818096",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-5",
+                "unstructured": "B. Efron and R. Tibshirani. 1986. Bootstrap Methods for Standard Errors, Confidence Intervals, and Other Measures of Statistical Accuracy.Statist. Sci.1, 1 (02 1986), 54--75."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-6",
+                "unstructured": "Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua B. Tenenbaum. 2017. Learning to Infer Graphics Programs from Hand-Drawn Images.CoRRarXiv:1707.09627 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-7",
+                "unstructured": "S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa, David Szepesvari, Koray Kavukcuoglu, and Geoffrey E. Hinton. 2016. Attend, Infer, Repeat: Fast Scene Understanding with Generative Models. InNIPS 2016."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-8",
+                "unstructured": "Matthew Fisher, Daniel Ritchie, Manolis Savva, Thomas Funkhouser, and Pat Hanrahan. 2012. Example-based Synthesis of 3D Object Arrangements. InSIGGRAPH Asia 2012.",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-9",
+                "unstructured": "Matthew Fisher, Manolis Savva, Yangyan Li, Pat Hanrahan, and Matthias Nie&#223;ner. 2015. Activity-centric Scene Synthesis for Functional 3D Scene Modeling. (2015).",
+                "DOI": "10.1145/2816795.2818057",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-10",
+                "unstructured": "Qiang Fu, Xiaowu Chen, Xiaotian Wang, Sijia Wen, Bin Zhou, and Hongbo Fu. 2017. Adaptive Synthesis of Indoor Scenes via Activity-associated Object Relation Graphs. InSIGGRAPH Asia 2017.",
+                "DOI": "10.1145/3130800.3130805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-11",
+                "unstructured": "Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. Generative Adversarial Nets. InNIPS 2014."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-12",
+                "unstructured": "Karol Gregor, Ivo Danihelka, Alex Graves, and Daan Wierstra. 2015. DRAW: A Recurrent Neural Network For Image Generation. InICML 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-13",
+                "unstructured": "David Ha and Douglas Eck. 2017. A Neural Representation of Sketch Drawings.CoRRarXiv:1704.03477 (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-14",
+                "unstructured": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. Deep Residual Learning for Image Recognition. InCVPR 2016.",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-15",
+                "unstructured": "Paul Henderson and Vittorio Ferrari. 2017. A Generative Model of 3D Object Layouts in Apartments.CoRRarXiv:1711.10939 (2017). H. Huang, E. Kalogerakis, S. Chaudhuri, D. Ceylan, V. Kim, and E. Yumer. 2017. Learning Local Shape Descriptors with View-based Convolutional Neural Networks.ACM Transactions on Graphics(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-16",
+                "unstructured": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. 2017. Image-to-image Translation with Conditional Adversarial Networks. InCVPR 2017.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-17",
+                "unstructured": "Evangelos Kalogerakis, Melinos Averkiou, Subhransu Maji, and Siddhartha Chaudhuri. 2017. 3D Shape Segmentation with Projective Convolutional Networks. InCVPR 2017.",
+                "DOI": "10.1109/CVPR.2017.702",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-18",
+                "unstructured": "Z. Sadeghipour Kermani, Z. Liao, P. Tan, and H. Zhang. 2016. Learning 3D Scene Synthesis from Annotated RGB-D Images. InEurographics Symposium on Geometry Processing.",
+                "DOI": "10.1111/cgf.12976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-19",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2015. Adam: A Method for Stochastic Optimization. InICLR 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-20",
+                "unstructured": "Diederik P. Kingma and Max Welling. 2014. Auto-Encoding Variational Bayes. InICLR 2014."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-21",
+                "unstructured": "Jun Li, Kai Xu, Siddhartha Chaudhuri, Ersin Yumer, Hao Zhang, and Leonidas Guibas. 2017. GRASS: Generative Recursive Autoencoders for Shape Structures. InSIGGRAPH 2017.",
+                "DOI": "10.1145/3072959.3073637",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-22",
+                "unstructured": "Yuan Liang, Song-Hai Zhang, and Ralph Robert Martin. 2017. Automatic Data-Driven Room Design Generation. InNext Generation Computer Animation Techniques: Third International Workshop (AniNex 2017), Jiana Chang, Jian Jun Zhang, Nadia Magnenat Thalmann, Shi-Min Hu, Ruofeng Tong, and Wencheng Wang (Eds.).",
+                "DOI": "10.1007/978-3-319-69487-0_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-23",
+                "unstructured": "Isaak Lim, Anne Gehre, and Leif Kobbelt. 2016. Identifying Style of 3D Shapes using Deep Metric Learning. InEurographics Symposium on Geometry Processing.",
+                "DOI": "10.1111/cgf.12977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-24",
+                "unstructured": "Tianqiang Liu, Aaron Hertzmann, Wilmot Li, and Thomas Funkhouser. 2015. Style Compatibility for 3D Furniture Models. InSIGGRAPH 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-25",
+                "unstructured": "Paul Merrell, Eric Schkufza, Zeyang Li, Maneesh Agrawala, and Vladlen Koltun. 2011. Interactive Furniture Layout Using Interior Design Guidelines. InSIGGRAPH 2011.",
+                "DOI": "10.1145/1964921.1964982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-26",
+                "unstructured": "Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space.CoRRarXiv:1301.3781 (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-27",
+                "unstructured": "Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-28",
+                "unstructured": "Xue Bin Peng, Glen Berseth, Kangkang Yin, and Michiel Van De Panne. 2017. DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning. InSIGGRAPH 2017.",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-29",
+                "unstructured": "Planner5d. 2017. Home Design Software and Interior Design Tool ONLINE for home and floor plans in 2D and 3D. https://planner5d.com. (2017). Accessed: 2017-10-20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-30",
+                "unstructured": "Siyuan Qi, Yixin Zhu, Siyuan Huang, Chenfanfu Jiang, and Song-Chun Zhu. 2018. Human-centric Indoor Scene Synthesis Using Stochastic Grammar. InConference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-31",
+                "unstructured": "Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. 2015. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. InNIPS 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-32",
+                "unstructured": "Daniel Ritchie, Anna Thomas, Pat Hanrahan, and Noah D. Goodman. 2016. Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks. InNIPS 2016."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-33",
+                "unstructured": "Manolis Savva, Angel X. Chang, Pat Hanrahan, Matthew Fisher, and Matthias Nie&#223;ner. 2014. SceneGrok: Inferring Action Maps in 3D Environments. InSIGGRAPH Asia 2014."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-34",
+                "unstructured": "Gopal Sharma, Rishabh Goyal, Difan Liu, Evangelos Kalogerakis, and Subhransu Maji. 2017. CSGNet: Neural Shape Parser for Constructive Solid Geometry.CoRRarXiv:1712.08290 (2017).",
+                "DOI": "10.1109/CVPR.2018.00578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-35",
+                "unstructured": "Shuran Song, Fisher Yu, Andy Zeng, Angel X Chang, Manolis Savva, and Thomas Funkhouser. 2017. Semantic Scene Completion from a Single Depth Image.CVPR 2017.",
+                "DOI": "10.1109/CVPR.2017.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-36",
+                "unstructured": "Hang Su, Subhransu Maji, Evangelos Kalogerakis, and Erik G. Learned-Miller. 2015. Multi-view convolutional neural networks for 3d shape recognition. InICCV 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-37",
+                "unstructured": "Minhyuk Sung, Hao Su, Vladimir G. Kim, Siddhartha Chaudhuri, and Leonidas J. Guibas. 2017. ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling. InSIGGRAPH Asia 2017.",
+                "DOI": "10.1145/3130800.3130821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-38",
+                "unstructured": "Benigno Uria, Marc-Alexandre Cote, Karol Gregor, Iain Murray, and Hugo Larochelle. 2016. Neural Autoregressive Distribution Estimation.CoRRarXiv:1605.02226 (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-39",
+                "unstructured": "Aaron Van Den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, and Koray Kavukcuoglu. 2016. Wavenet: A generative model for raw audio.arXiv preprint arXiv:1609.03499(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-40",
+                "unstructured": "Aaron van den Oord, Nal Kalchbrenner, Lasse Espeholt, Oriol Vinyals, Alex Graves, et al. 2016. Conditional image generation with pixelcnn decoders. InAdvances in Neural Information Processing Systems.4790--4798."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-41",
+                "unstructured": "Kun Xu, Kang Chen, Hongbo Fu, Wei-Lun Sun, and Shi-Min Hu. 2013. Sketch2Scene: Sketch-based Co-retrieval and Co-placement of 3D Models. InSIGGRAPH 2013.",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-42",
+                "unstructured": "Ken Xu, James Stewart, and Eugene Fiume. 2002. Constraint-based automatic placement for scene composition. InGraphics Interface, Vol. 2. 25--34."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-43",
+                "unstructured": "Yi-Ting Yeh, Lingfeng Yang, Matthew Watson, Noah D. Goodman, and Pat Hanrahan. 2012. Synthesizing Open Worlds with Constraints Using Locally Annealed Reversible Jump MCMC. InSIGGRAPH 2012.",
+                "DOI": "10.1145/2185520.2185552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-44",
+                "unstructured": "Lap-Fai Yu, Sai-Kit Yeung, Chi-Keung Tang, Demetri Terzopoulos, Tony F. Chan, and Stanley J. Osher. 2011. Make It Home: Automatic Optimization of Furniture Arrangement. InSIGGRAPH 2011."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-45",
+                "unstructured": "Richard Zhang, Phillip Isola, and Alexei A Efros. 2016. Colorful Image Colorization. InECCV 2016.",
+                "DOI": "10.1007/978-3-319-46487-9_40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-46",
+                "unstructured": "Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A Efros, Oliver Wang, and Eli Shechtman. 2017. Toward multimodal image-to-image translation. InAdvances in Neural Information Processing Systems.465--476."
+            },
+            {
+                "key": "key-10.1145/3197517.3201362-47",
+                "unstructured": "C. Zou, E. Yumer, J. Yang, D. Ceylan, and D. Hoiem. 2017. 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks. InICCV 2017.",
+                "DOI": "10.1109/ICCV.2017.103",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201362&ftid=1991589&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:49:18Z",
+            "timestamp": 1571672958000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201362",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

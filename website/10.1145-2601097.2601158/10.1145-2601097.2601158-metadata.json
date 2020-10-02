@@ -1,0 +1,402 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    14
+                ]
+            ],
+            "date-time": "2020-01-14T21:23:25Z",
+            "timestamp": 1579037005795
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1284/12"
+                ]
+            },
+            {
+                "name": "I-CORE program of the Israel PBC and ISF",
+                "award": [
+                    "4/11"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601158",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 37,
+        "title": [
+            "Lifted bijections for low distortion surface mappings"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Noam",
+                "family": "Aigerman",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601158-1",
+                "unstructured": "Allen, B., Curless, B., and Popovi&#263;, Z. 2003. The space of all body shapes: reconstruction and parameterization from range scans.ACM Transactions on Graphics (proc. SIGGRAPH).",
+                "DOI": "10.1145/1201775.882311",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-2",
+                "unstructured": "Andersen, E. D., and Andersen, K. D. 1999.The MOSEK interior point optimization for linear programming: an implementation of the homogeneous algorithm. Kluwer Academic Publishers, 197--232."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-3",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Pang, H., and Davis, J. 2004. The correlated correspondence algorithm for unsupervised registration of nonrigid surfaces.Proc. of the Neural Information Processing Systems."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-4",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. Scape: Shape completion and animation of people.ACM Trans. Graph. 24, 3 (July), 408--416."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-5",
+                "unstructured": "Besl, P., and McKay, N. 1992. A method for registration of 3-d shapes.IEEE Trans. on Pattern Analysis and Machine Intelligence (PAMI).",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-6",
+                "unstructured": "Boyd, S. P., and Vandenberghe, L. 2004.Convex optimization. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-7",
+                "unstructured": "Bradley, D., Popa, T., Sheffer, A., Heidrich, W., and Boubekeur, T. 2008. Markerless garment capture.ACM Trans. Graph. 27, 3 (Aug.), 99:1--99:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-8",
+                "unstructured": "Bronstein, A. M., Bronstein, M. M., and Kimmel, R. 2006. Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching.Proc. National Academy of Sciences (PNAS).",
+                "DOI": "10.1073/pnas.0508601103",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-9",
+                "unstructured": "Brown, B. J., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3-d scans.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-10",
+                "unstructured": "Chui, H., and Rangarajan, A. 2003. A new point matching algorithm for non-rigid registration.Computer Vision and Image Understanding 89, 2--3, 114--141.",
+                "DOI": "10.1016/S1077-3142(03)00009-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-11",
+                "unstructured": "Floater, M. S., and Hormann, K. 2005. Surface parameterization: a tutorial and survey. InAdvances in multiresolution for geometric modelling. Springer, 157--186.",
+                "DOI": "10.1007/3-540-26808-1_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-12",
+                "unstructured": "Floater, M. 2003. One-to-one piecewise linear mappings over triangulations.Mathematics of Computation 72, 242, 685--696.",
+                "DOI": "10.1090/S0025-5718-02-01466-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-13",
+                "unstructured": "Floater, M. S. 2003. Mean value coordinates.Computer Aided Geometric Design 20, 1, 19--27.",
+                "DOI": "10.1016/S0167-8396(03)00002-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-14",
+                "unstructured": "Giorgi, D., Biasotti, S., and Paraboschi, L. 2007. SHREC: SHape REtrieval Contest: Watertight models track. http://watertight.ge.imati.cnr.it/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-15",
+                "unstructured": "Gu, X., Gortler, S. J., and Hoppe, H. 2002. Geometry images.ACM Trans. Graph. 21, 3 (July), 355--361."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-16",
+                "unstructured": "Gu, X., Wang, Y., Chan, T. F., Thompson, P. M., and Yau, S.-T. 2004. Genus zero surface conformal mapping and its application to brain surface mapping.Medical Imaging, IEEE Transactions on 23, 8, 949--958."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-17",
+                "unstructured": "Hormann, K., and Greiner, G. 2000. MIPS: An efficient global parametrization method. InCurve and Surface Design: Saint-Malo 1999, P.-J. Laurent, P. Sablonni&#232;re, and L. L. Schumaker, Eds., Innovations in Applied Mathematics. Vanderbilt University Press, Nashville, TN, 153--162."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-18",
+                "unstructured": "Hormann, K., L&#233;vy, B., and Sheffer, A. 2007. Mesh parameterization: Theory and practice video files associated with this course are available from the citation page. InACM SIGGRAPH 2007 Courses, ACM, New York, NY, USA, SIGGRAPH '07."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-19",
+                "unstructured": "Huang, Q., Adams, B., Wicke, M., and Guibas, L. J. 2008. Non-rigid registration under isometric deformations.Computer Graphics Forum (Proc. SGP 2008).",
+                "DOI": "10.1111/j.1467-8659.2008.01285.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-20",
+                "unstructured": "Jain, V., Zhang, H., and van Kaick, O. 2007. Non-rigid spectral correspondence of triangle meshes.International Journal on Shape Modeling 13, 1, 101--124.",
+                "DOI": "10.1142/S0218654307000968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-21",
+                "unstructured": "Kim, V. G., Lipman, Y., and Funkhouser, T. 2011. Blended intrinsic maps.ACM Trans. Graph. 30, 4 (July), 79:1--79:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-22",
+                "unstructured": "Kraevoy, V., and Sheffer, A. 2004. Cross-parameterization and compatible remeshing of 3d models.ACM Trans. Graph. 23, 3 (Aug.), 861--869."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-23",
+                "unstructured": "Lee, A. W. F., Dobkin, D., Sweldens, W., and Schr&#246;der, P. 1999. Multiresolution mesh morphing. InProceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, SIGGRAPH '99, 343--350."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-24",
+                "unstructured": "Li, H., Sumner, R. W., and Pauly, M. 2008. Global correspondence optimization for non-rigid registration of depth scans.Computer Graphics Forum 27, 5, 1421--1430.",
+                "DOI": "10.1111/j.1467-8659.2008.01282.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-25",
+                "unstructured": "Lin, J. L., Chuang, J. H., Lin, C. C., and Chen, C. C. 2003. Consistent parametrization by quinary subdivision for remeshing and mesh metamorphosis. InProceedings of the 1st International Conference on Computer Graphics and Interactive Techniques in Australasia and South East Asia, ACM, New York, NY, USA, GRAPHITE '03, 151--158."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-26",
+                "unstructured": "Lipman, Y., and Funkhouser, T. 2009. Mobius voting for surface correspondence.ACM Trans. Graph. 28, 3 (July), 72:1--72:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-27",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Trans. Graph. 31, 4 (July), 108:1--108:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-28",
+                "unstructured": "L&#246;fberg, J. 2004. Yalmip: A toolbox for modeling and optimization in MATLAB. InProceedings of the CACSD Conference."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-29",
+                "unstructured": "Marx, M. L. 1974. Extensions of normal immersions ofS&#60;sup&#62;1&#60;/sup&#62; intoR&#60;sup&#62;2&#60;/sup&#62;.Transactions of the American Mathematical Society 187, 309--326."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-30",
+                "unstructured": "M&#233;moli, F., and Sapiro, G. 2005. A theoretical and computational framework for isometry invariant recognition of point cloud data.Foundations of Computational Mathematics 5, 3, 313--347."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-31",
+                "unstructured": "Michikawa, T., Kanai, T., Fujita, M., and Chiyokura, H. 2001. Multiresolution interpolation meshes. InComputer Graphics and Applications, 2001. Proceedings. Ninth Pacific Conference on, 60--69."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-32",
+                "unstructured": "Ovsjanikov, M., M&#233;rigot, Q., M&#233;moli, F., and Guibas, L. 2010. One point isometric matching with the heat kernel. InComputer Graphics Forum (Proc. of SGP).",
+                "DOI": "10.1111/j.1467-8659.2010.01764.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-33",
+                "unstructured": "Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., and Guibas, L. 2012. Functional maps: A flexible representation of maps between shapes.ACM Trans. Graph. 31, 4 (July), 30:1--30:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-34",
+                "unstructured": "Ovsjanikov, M., Ben-Chen, M., Chazal, F., and Guibas, L. J. 2013. Analysis and visualization of maps between shapes.Comput. Graph. Forum 32, 6, 135--145.",
+                "DOI": "10.1111/cgf.12076",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-35",
+                "unstructured": "Panozzo, D., Baran, I., Diamanti, O., and Sorkine-Hornung, O. 2013. Weighted averages on surfaces.ACM Trans. Graph. 32, 4 (July), 60:1--60:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-36",
+                "unstructured": "Pauly, M., Mitra, N. J., Giesen, J., Gross, M., and Guibas, L. 2005. Example-based 3d scan completion. InSymposium on Geometry Processing, 23--32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-37",
+                "unstructured": "Praun, E., Sweldens, W., and Schr&#246;der, P. 2001. Consistent mesh parameterizations. InProceedings of the 28th annual conference on Computer graphics and interactive techniques, ACM, 179--184."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-38",
+                "unstructured": "Sander, P. V., Snyder, J., Gortler, S. J., and Hoppe, H. 2001. Texture mapping progressive meshes. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '01, 409--416."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-39",
+                "unstructured": "Schreiner, J., Asirvatham, A., Praun, E., and Hoppe, H. 2004. Inter-surface mapping.ACM Trans. Graph. 23, 3 (Aug.), 870--877."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-40",
+                "unstructured": "Sheffer, A., Praun, E., and Rose, K. 2006. Mesh parameterization methods and their applications.Found. Trends. Comput. Graph. Vis. 2, 2 (Jan.), 105--171."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-41",
+                "unstructured": "Solomon, J., Nguyen, A., Butscher, A., Ben-Chen, M., and Guibas, L. 2012. Soft maps between surfaces.Comp. Graph. Forum 31, 5 (Aug.), 1617--1626."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-42",
+                "unstructured": "Sorkine, O., Cohen-Or, D., Goldenthal, R., and Lischinski, D. 2002. Bounded-distortion piecewise mesh parameterization. InProceedings of the Conference on Visualization '02, IEEE Computer Society, Washington, DC, USA, VIS '02, 355--362."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-43",
+                "unstructured": "Surazhsky, V., Surazhsky, T., Kirsanov, D., Gortler, S. J., and Hoppe, H. 2005. Fast exact and approximate geodesics on meshes.ACM Trans. Graph. 24, 3 (July), 553--560."
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-44",
+                "unstructured": "Tevs, A., Bokeloh, M., M. Wand, Schilling, A., and Seidel, H.-P. 2009. Isometric registration of ambiguous and partial data.In: Proc. IEEE Conference on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2009.5206775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-45",
+                "unstructured": "van Kaick, O., Zhang, H., Hamarneh, G., and Cohen-Or, D. 2011. A survey on shape correspondence.Computer Graphics Forum 30, 6, 1681--1707.",
+                "DOI": "10.1111/j.1467-8659.2011.01884.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601158-46",
+                "unstructured": "Zeng, W., Luo, F., Yau, S.-T., and Gu, X. D. 2009. Surface quasi-conformal mapping by solving beltrami equations. InMathematics of Surfaces XIII. Springer Berlin Heidelberg, 391--408.",
+                "DOI": "10.1007/978-3-642-03596-8_23",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601158&amp;ftid=1488877&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:55Z",
+            "timestamp": 1565663695000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601158",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

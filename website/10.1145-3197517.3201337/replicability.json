@@ -1,0 +1,107 @@
+{
+    "Timestamp": "1/7/2020 12:37:58",
+    "Title": "Fast winding numbers for soups and clouds",
+    "DOI": "10.1145/3197517.3201337",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform, as a module/component of an existing opensource library/software",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/GavinBarill/fast-winding-number-soups",
+    "code URL  2": "https://github.com/libigl/libigl",
+    "PDF URL": "http://www.dgp.toronto.edu/projects/fast-winding-numbers/fast-winding-numbers-for-soups-and-clouds-siggraph-2018-barill-et-al.pdf",
+    "License type": "Mozilla Public License",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 2,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation",
+    "Authors": "Academia",
+    "ACM 1": "Mesh models",
+    "ACM 2": "Point-based models",
+    "ACM 3": "Volumetric models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Mac OS",
+    "General comments": "The program outputs  a \".dmat\" (libigl dense matrix format) and there is no explanation. The 717 tutorial in libigl (dev branch)  provides an example of the fast triangule soup approach.\n\n\n-- Additionnal test on windows --\nTested on Windows, for both clouds and soups: CMakeFile not useful (insists on building dependencies for which I already downloaded precompiled binaries - for soups). Relatively easy to make a new Visual Studio solution (minor things to take care: _CRT_SECURE_NO_WARNINGS and _USE_MATH_DEFINES), and install several dependencies (glad, glfw, ...). Data from the paper not provided, but some examples are given. For the libIGL tutorial, it was easy to build but it was not documented that the fast winding number code was in the dev branch (not the master) and that the corresponding tutorial is tutorial 717 and not 702 (which also provides supports for winding numbers).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 8,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "libigl",
+    "Project URL": "http://www.dgp.toronto.edu/projects/fast-winding-numbers/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 3,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Gavin",
+            "family": "Barill",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Toronto, Canada"
+                }
+            ]
+        },
+        {
+            "given": "Neil G.",
+            "family": "Dickson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Side Effects Software Inc., Canada"
+                }
+            ]
+        },
+        {
+            "given": "Ryan",
+            "family": "Schmidt",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Gradientspace, Canada"
+                }
+            ]
+        },
+        {
+            "given": "David I. W.",
+            "family": "Levin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto, Canada"
+                }
+            ]
+        },
+        {
+            "given": "Alec",
+            "family": "Jacobson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto, Canada"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

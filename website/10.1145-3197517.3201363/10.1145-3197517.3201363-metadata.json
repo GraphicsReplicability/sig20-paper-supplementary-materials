@@ -1,0 +1,414 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:55Z",
+            "timestamp": 1574859835546
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001691",
+                "name": "Japan Society for the Promotion of Science",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "15H05308"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001459",
+                "name": "Ministry of Education - Singapore",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "MOE2016-T2-2-154"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001381",
+                "name": "National Research Foundation Singapore",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "NRF2015VSGAA3DCM001-014"
+                ]
+            },
+            {
+                "name": "Singapore, National Heritage Board",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201363",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Gradient-domain volumetric photon density estimation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Adrien",
+                "family": "Gruson",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo and JFLI CNRS UMI"
+                    }
+                ]
+            },
+            {
+                "given": "Binh-Son",
+                "family": "Hua",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo and Singapore University of Technology and Design"
+                    }
+                ]
+            },
+            {
+                "given": "Nicolas",
+                "family": "Vibert",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "McGill University"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Nowrouzezahrai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "McGill University"
+                    }
+                ]
+            },
+            {
+                "given": "Toshiya",
+                "family": "Hachisuka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201363-1",
+                "unstructured": "Pablo Bauszat, Victor Petitjean, and Elmar Eisemann. 2017. Gradient-Domain Path Reusing.ACM Transactions on Graphics (Proc. of SIGGRAPH Asia)(2017).",
+                "DOI": "10.1145/3130800.3130886",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-2",
+                "unstructured": "Pravin Bhat, Brian Curless, Michael Cohen, and C. Lawrence Zitnick. 2008. Fourier Analysis of the 2D Screened Poisson Equation for Gradient Domain Problems. InThe European Conference on Computer Vision (ECCV).",
+                "DOI": "10.1007/978-3-540-88688-4_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-3",
+                "unstructured": "Benedikt Bitterli and Wojciech Jarosz. 2017. Beyond Points and Beams: Higher-Dimensional Photon Samples for Volumetric Light Transport.ACM Transactions on Graphics (Proc. of SIGGRAPH)(2017).",
+                "DOI": "10.1145/3072959.3073698",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-4",
+                "unstructured": "Eva Cerezo, Frederic Perez-Cazorla, Xavier Pueyo, Francisco Seron, and Fran&#231;ois Sillion. 2005. A Survey on Participating Media Rendering Techniques.The Visual Computer(2005).",
+                "DOI": "10.1007/s00371-005-0287-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-5",
+                "unstructured": "Subrahmanyan Chandrasekhar. 2013.Radiative Transfer.Courier Corporation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-6",
+                "unstructured": "Carsten Dachsbacher, Jaroslav K&#345;iv&#225;nek, Milo&#353; Ha&#353;an, Adam Arbree, Bruce Walter, and Jan Nov&#225;k. 2014. Scalable Realistic Rendering with Many-Light Methods.Computer Graphics Forum(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-7",
+                "unstructured": "Iliyan Georgiev, Jaroslav Krivanek, Toshiya Hachisuka, Derek Nowrouzezahrai, and Wojciech Jarosz. 2013. Joint importance sampling of low-order volumetric scattering.ACM Transactions on Graphics(2013).",
+                "DOI": "10.1145/2508363.2508411",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-8",
+                "unstructured": "Toshiya Hachisuka, Iliyan Georgiev, Wojciech Jarosz, Jaroslav K&#345;iv&#225;nek, and Derek Nowrouzezahrai. 2017. Extended Path Integral Formulation for Volumetric Transport. InProc. of EGSR (Experimental Ideas &#38; Implementations)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-9",
+                "unstructured": "Toshiya Hachisuka and Henrik Wann Jensen. 2009. Stochastic progressive photon mapping.ACM Transactions on Graphics(2009).",
+                "DOI": "10.1145/1661412.1618487",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-10",
+                "unstructured": "Toshiya Hachisuka, Jacopo Pantaleoni, and Henrik Wann Jensen. 2012. A path space extension for robust light transport simulation.ACM Transactions on Graphics(2012).",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-11",
+                "unstructured": "Milo&#353; Ha&#353;an, Jaroslav K&#345;iv&#225;nek, Bruce Walter, and Kavita Bala. 2009. Virtual Spherical Lights for Many-light Rendering of Glossy Scenes.ACM Transactions on Graphics(2009)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-12",
+                "unstructured": "Louis G Henyey and Jesse Leonard Greenstein. 1941. Diffuse radiation in the galaxy.The Astrophysical Journal93 (1941).",
+                "DOI": "10.1086/144246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-13",
+                "unstructured": "Binh-Son Hua, Adrien Gruson, Derek Nowrouzezahrai, and Toshiya Hachisuka. 2017. Gradient-Domain Photon Density Estimation.Computer Graphics Forum(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-14",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba Renderer. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-15",
+                "unstructured": "Wenzel Jakob. 2013.Light Transport on Path-Space Manifolds.Ph.D. Dissertation. Cornell University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-16",
+                "unstructured": "Wenzel Jakob and Steve Marschner. 2012. Manifold exploration: a Markov chain Monte Carlo technique for rendering scenes with difficult specular transport.ACM Transactions on Graphics(2012).",
+                "DOI": "10.1145/2185520.2335409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-17",
+                "unstructured": "Wojciech Jarosz, Derek Nowrouzezahrai, Iman Sadeghi, and Henrik Wann Jensen. 2011a. A Comprehensive Theory of Volumetric Radiance Estimation Using Photon Points and Beams.ACM Transactions on Graphics(2011).",
+                "DOI": "10.1145/1899404.1899409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-18",
+                "unstructured": "Wojciech Jarosz, Derek Nowrouzezahrai, Robert Thomas, Peter-Pike Sloan, and Matthias Zwicker. 2011b. Progressive photon beams.ACM Transactions on Graphics(2011).",
+                "DOI": "10.1145/2070752.2024215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-19",
+                "unstructured": "Wojciech Jarosz, Matthias Zwicker, and Henrik Wann Jensen. 2008. The Beam Radiance Estimate for Volumetric Photon Mapping.Computer Graphics Forum(2008).",
+                "DOI": "10.1145/1401132.1401137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-20",
+                "unstructured": "Henrik Wann Jensen. 2001.Realistic image synthesis using photon mapping.",
+                "DOI": "10.1201/b10685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-21",
+                "unstructured": "Henrik Wann Jensen and Per H Christensen. 1998. Efficient simulation of light transport in scenes with participating media using photon maps. InSIGGRAPH.",
+                "DOI": "10.1145/280814.280925",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-22",
+                "unstructured": "James T. Kajiya. 1986. The Rendering Equation.ACM Transactions on Graphics(1986).",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-23",
+                "unstructured": "Markus Kettunen, Marco Manzi, Miika Aittala, Jaakko Lehtinen, Fr&#233;do Durand, and Matthias Zwicker. 2015. Gradient-domain path tracing.ACM Transactions on Graphics(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-24",
+                "unstructured": "Claude Knaus and Matthias Zwicker. 2011. Progressive photon mapping: A probabilistic approach.ACM Transactions on Graphics(2011).",
+                "DOI": "10.1145/1966394.1966404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-25",
+                "unstructured": "Jaroslav K&#345;iv&#225;nek, Iliyan Georgiev, Toshiya Hachisuka, Petr V&#233;voda, Martin &#352;ik, Derek Nowrouzezahrai, and Wojciech Jarosz. 2014. Unifying points, beams, and paths in volumetric light transport simulation.ACM Transactions on Graphics(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-26",
+                "unstructured": "Christopher Kulla and Marcos Fajardo. 2012. Importance Sampling Techniques for Path Tracing in Participating Media.Computer Graphics Forum(2012).",
+                "DOI": "10.1111/j.1467-8659.2012.03148.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-27",
+                "unstructured": "Eric P Lafortune and Yves D Willems. 1996. Rendering participating media with bidirectional path tracing. InRendering Techniques.",
+                "DOI": "10.1007/978-3-7091-7484-5_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-28",
+                "unstructured": "Jaakko Lehtinen, Tero Karras, Samuli Laine, Miika Aittala, Fr&#233;do Durand, and Timo Aila. 2013. Gradient-domain metropolis light transport.ACM Transactions on Graphics(2013).",
+                "DOI": "10.1145/2461912.2461943",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-29",
+                "unstructured": "Marco Manzi, Markus Kettunen, Miika Aittala, Jaakko Lehtinen, Fr&#233;do Durand, and Matthias Zwicker. 2015. Gradient-domain bidirectional path tracing.Eurographics Symposium on Rendering(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-30",
+                "unstructured": "Marco Manzi, Markus Kettunen, Fr&#233;do Durand, Matthias Zwicker, and Jaakko Lehtinen. 2016a. Temporal gradient-domain path tracing.ACM Transactions on Graphics(2016).",
+                "DOI": "10.1145/2980179.2980256",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-31",
+                "unstructured": "M. Manzi, D. Vicini, and M. Zwicker. 2016b. Regularizing Image Reconstruction for Gradient-Domain Rendering with Feature Patches.Computer Graphics Forum(2016).",
+                "DOI": "10.1111/cgf.12829",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-32",
+                "unstructured": "Tomas M&#246;ller and Ben Trumbore. 1997. Fast, Minimum Storage Ray-triangle Intersection.Journal of Graphics Tools(1997)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-33",
+                "unstructured": "Jan Nov&#225;k, Derek Nowrouzezahrai, Carsten Dachsbacher, and Wojciech Jarosz. 2012a. Progressive virtual beam lights. InComputer Graphics Forum.",
+                "DOI": "10.1111/j.1467-8659.2012.03136.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-34",
+                "unstructured": "Jan Nov&#225;k, Derek Nowrouzezahrai, Carsten Dachsbacher, and Wojciech Jarosz. 2012b. Virtual ray lights for rendering scenes with participating media.ACM Transactions on Graphics(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-35",
+                "unstructured": "Fabrice Rousselle, Wojciech Jarosz, and Jan Nov&#225;k. 2016. Image-space Control Variates for Rendering.ACM Transactions on Graphics(2016).",
+                "DOI": "10.1145/2980179.2982443",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201363-36",
+                "unstructured": "Weilun Sun, Xin Sun, Nathan A Carr, Derek Nowrouzezahrai, and Ravi Ramamoorthi. 2017. Gradient-Domain Vertex Connection and Merging. (2017)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201363&ftid=1991765&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:51:00Z",
+            "timestamp": 1571673060000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201363",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

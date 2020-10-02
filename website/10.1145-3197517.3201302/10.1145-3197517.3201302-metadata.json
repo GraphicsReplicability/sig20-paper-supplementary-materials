@@ -1,0 +1,402 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:14Z",
+            "timestamp": 1574859854333
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201302",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Robust solving of optical motion capture data by denoising"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Daniel",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Ubisoft La Forge, Ubisoft, Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201302-1",
+                "unstructured": "Ijaz Akhter, Tomas Simon, Sohaib Khan, Iain Matthews, and Yaser Sheikh. 2012. Bilinear spatiotemporal basis models.ACM Transactions on Graphics31, 2 (April 2012), 17:1--17:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-2",
+                "unstructured": "Andreas Aristidou, Daniel Cohen-Or, Jessica K. Hodgins, and Ariel Shamir. 2018. Self-similarity Analysis for Motion Capture Cleaning.Comput. Graph. Forum37, 2 (2018).",
+                "DOI": "10.1111/cgf.13362",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-3",
+                "unstructured": "Andreas Aristidou and Joan Lasenby. 2013. Real-time marker prediction and CoR estimation in optical motion capture.The Visual Computer29, 1 (01 Jan 2013), 7--26.",
+                "DOI": "10.1007/s00371-011-0671-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-4",
+                "unstructured": "Autodesk. 2016. MotionBuilder HumanIK. https://knowledge.autodesk.com/support/motionbuilder/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/MotionBuilder/files/GUID-44608A05-8D2F-4C2F-BDA6-E3945F36C872-htm.html. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-5",
+                "unstructured": "Steve Bako, Thijs Vogels, Brian Mcwilliams, Mark Meyer, Jan Nov&#225;K, Alex Harvill, Pradeep Sen, Tony Derose, and Fabrice Rousselle. 2017. Kernel-predicting Convolutional Networks for Denoising Monte Carlo Renderings.ACM Trans. Graph.36, 4, Article 97 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-6",
+                "unstructured": "Jan Baumann, Bj&#246;rn Kr&#252;ger, Arno Zinke, and Andreas Weber. 2011. Data-Driven Completion of Motion Capture Data. InWorkshop in Virtual Reality interactions and Physical Simulation \"VRIPHYS\" (2011), Jan Bender, Kenny Erleben, and Eric Galin (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-7",
+                "unstructured": "Paul J. Besl and Neil D. McKay. 1992. A Method for Registration of 3-D Shapes.IEEE Trans. Pattern Anal. Mach. Intell.14, 2 (Feb. 1992), 239--256.",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-8",
+                "unstructured": "M. Burke and J. Lasenby. 2016. Estimating missing marker positions using low dimensional Kaiman smoothing.Journal of Biomechanics49, 9 (2016), 1854 -- 1858.",
+                "DOI": "10.1016/j.jbiomech.2016.04.016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-9",
+                "unstructured": "Samuel Buss. 2004. Introduction to inverse kinematics with Jacobian transpose, pseudoinverse and damped least squares methods. 17 (05 2004)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-10",
+                "unstructured": "Jinxiang Chai and Jessica K. Hodgins. 2005. Performance Animation from Low-dimensional Control Signals. InACM SIGGRAPH 2005 Papers (SIGGRAPH '05).ACM, New York, NY, USA, 686--696.",
+                "DOI": "10.1145/1186822.1073248",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-11",
+                "unstructured": "Chakravarty R. Alla Chaitanya, Anton S. Kaplanyan, Christoph Schied, Marco Salvi, Aaron Lefohn, Derek Nowrouzezahrai, and Timo Aila. 2017. Interactive Reconstruction of Monte Carlo Image Sequences Using a Recurrent Denoising Au-toencoder.ACM Trans. Graph.36, 4, Article 98 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073601",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-12",
+                "unstructured": "Junyoung Chung, &#199;aglar G&#252;l&#231;ehre, KyungHyun Cho, and Yoshua Bengio. 2014. Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.CoRRabs/1412.3555 (2014). arXiv:1412.3555 http://arxiv.org/abs/1412.3555"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-13",
+                "unstructured": "CMU. 2013a. BVH Conversion of Carnegie-Mellon Mocap Database. https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/cmu-bvh-conversion/. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-14",
+                "unstructured": "CMU. 2013b. Carnegie-Mellon Mocap Database, http://mocap.cs.cmu.edu/. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-15",
+                "unstructured": "Klaus Dorfm&#252;ller-Ulhaas. 2005. Robust Optical User Motion Tracking Using a Kaiman Filter."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-16",
+                "unstructured": "Yinfu Feng, Ming-Ming Ji, Jun Xiao, Xiaosong Yang, Jian J Zhang, Yueting Zhuang, and Xuelong Li. 2014a. Mining Spatial-Temporal Patterns and Structural Sparsity for Human Motion Data Denoising. 45 (12 2014).",
+                "DOI": "10.1109/TCYB.2014.2381659",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-17",
+                "unstructured": "Yinfu Feng, Jun Xiao, Yueting Zhuang, Xiaosong Yang, Jian J. Zhang, and Rong Song. 2014b. Exploiting temporal stability and low-rank structure for motion capture data refinement.Information Sciences277, Supplement C (2014), 777 -- 793."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-18",
+                "unstructured": "Tamar Flash and Neville Hogans. 1985. The Coordination of Arm Movements: An Experimentally Confirmed Mathematical Model.Journal of neuroscience5 (1985), 1688--1703.",
+                "DOI": "10.1523/JNEUROSCI.05-07-01688.1985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-19",
+                "unstructured": "Katerina Fragkiadaki, Sergey Levine, and Jitendra Malik. 2015. Recurrent Network Models for Kinematic Tracking.CoRRabs/1508.00271 (2015). arXiv:1508.00271 http://arxiv.org/abs/1508.00271"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-20",
+                "unstructured": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2015. Deep Residual Learning for Image Recognition.CoRRabs/1512.03385 (2015). arXiv:1512.03385 http://arxiv.org/abs/1512.03385"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-21",
+                "unstructured": "Daniel Holden, Jun Saito, and Taku Komura. 2016. A Deep Learning Framework for Character Motion Synthesis and Editing.ACM Trans. Graph.35, 4, Article 138 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-22",
+                "unstructured": "Daniel Holden, Jun Saito, Taku Komura, and Thomas Joyce. 2015. Learning Motion Manifolds with Convolutional Autoencoders. InSIGGRAPH Asia 2015 Technical Briefs (SA '15).ACM, New York, NY, USA, Article 18, 4 pages.",
+                "DOI": "10.1145/2820903.2820918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-23",
+                "unstructured": "Hengyuan Hu, Lisheng Gao, and Quanbin Ma. 2016. Deep Restricted Boltzmann Networks.CoRRabs/1611.07917 (2016). arXiv:1611.07917 http://arxiv.org/abs/1611.07917"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-24",
+                "unstructured": "Alexander G. Ororbia II, C. Lee Giles, and David Reitter. 2015. Online Semi-Supervised Learning with Deep Hybrid Boltzmann Machines and Denoising Autoencoders.CoRRabs/1511.06964 (2015). arXiv:1511.06964 http://arxiv.org/abs/1511.06964"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-25",
+                "unstructured": "Ladislav Kavan, Steven Collins, Ji&#345;&#237; &#381;&#225;ra, and Carol O'Sullivan. 2008. Geometric Skinning with Approximate Dual Quaternion Blending.ACM Trans. Graph.27, 4, Article 105 (Nov. 2008), 23 pages.",
+                "DOI": "10.1145/1409625.1409627",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-26",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014). arXiv:1412.6980 http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-27",
+                "unstructured": "G&#252;nter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter. 2017. Self-Normalizing Neural Networks.CoRRabs/1706.02515 (2017). arXiv:1706.02515 http://arxiv.org/abs/1706.02515"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-28",
+                "unstructured": "Yann LeCun, L&#233;on Bottou, Genevieve B. Orr, and Klaus-Robert M&#252;ller. 1998. Efficient BackProp. InNeural Networks: Tricks of the Trade, This Book is an Outgrowth of a 1996 NIPS Workshop.Springer-Verlag, London, UK, UK, 9--50. http://dl.acm.org/citation.cfm?id=645754.668382",
+                "DOI": "10.1007/3-540-49430-8_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-29",
+                "unstructured": "Lei Li, James Mccann, Nancy Pollard, Christos Faloutsos, Lei Li, James Mccann, Nancy Pollard, and Christos Faloutsos. 2010. Bolero: A principled technique for including bone length constraints in motion capture occlusion filling. InIn Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-30",
+                "unstructured": "Guodong Liu and Leonard McMillan. 2006. Estimation of Missing Markers in Human Motion Capture.Vis. Comput.22, 9 (Sept. 2006), 721--728.",
+                "DOI": "10.1007/s00371-006-0080-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-31",
+                "unstructured": "Xin Liu, Yiu-ming Cheung, Shu-Juan Peng, Zhen Cui, Bineng Zhong, and Ji-Xiang Du. 2014. Automatic motion capture data denoising via filtered subspace clustering and low rank matrix approximation. 105 (12 2014), 350--362."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-32",
+                "unstructured": "Utkarsh Mall, G. Roshan Lai, Siddhartha Chaudhuri, and Parag Chaudhuri. 2017. A Deep Recurrent Framework for Cleaning Motion Capture Data.CoRRabs/1712.03380 (2017). arXiv:1712.03380 http://arxiv.org/abs/1712.03380"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-33",
+                "unstructured": "Sang Il Park and Jessica K. Hodgins. 2006. Capturing and Animating Skin Deformation in Human Motion. InACM SIGGRAPH 2006 Papers (SIGGRAPH '06).ACM, New York, NY, USA, 881--889.",
+                "DOI": "10.1145/1179352.1141970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-34",
+                "unstructured": "Sashank J. Reddi, Satyen Kale, and Sanjiv Kumar. 2018. On the Convergence of Adam and Beyond. InInternational Conference on Learning Representations.https://openreview.net/forum?id=ryQu7f-RZ"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-35",
+                "unstructured": "Maurice Ringer and Joan Lasenby. 2002.Multiple Hypothesis Tracking for Automatic Optical Motion Capture.Springer Berlin Heidelberg, Berlin, Heidelberg, 524--536.",
+                "DOI": "10.1007/3-540-47969-4_35",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-36",
+                "unstructured": "Ruslan Salakhutdinov and Geoffrey Hinton. 2009. Deep Boltzmann Machines. InProceedings of the Twelth International Conference on Artificial Intelligence and Statistics (Proceedings of Machine Learning Research), David van Dyk and Max Welling (Eds.), Vol. 5. PMLR, Hilton Clearwater Beach Resort, Clearwater Beach, Florida USA, 448--455. http://proceedings.mlr.press/v5/salakhutdinov09a.html"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-37",
+                "unstructured": "Abraham. Savitzky and Marcel J. E. Golay. 1964. Smoothing and Differentiation of Data by Simplified Least Squares Procedures.Analytical Chemistry36, 8 (1964), 1627--1639."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-38",
+                "unstructured": "arXiv:http://dx.doi.org/10.1021/ac60214a047",
+                "DOI": "10.1021/ac60214a047",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-39",
+                "unstructured": "Alexander Sorkine-Hornung, Sandip Sar-Dessai, and Leif Kobbelt. 2005. Self-calibrating optical motion tracking for articulated bodies.IEEE Proceedings. VR 2005. Virtual Reality 2005.(2005), 75--82."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-40",
+                "unstructured": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. 2014. Dropout: A Simple Way to Prevent Neural Networks from Overfitting.Journal of Machine Learning Research15 (2014), 1929--1958. http://jmlr.org/papers/v15/srivastava14a.html"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-41",
+                "unstructured": "Jochen Tautges, Arno Zinke, Bj&#246;rn Kr&#252;ger, Jan Baumann, Andreas Weber, Thomas Helten, Meinard M&#252;ller, Hans-Peter Seidel, and Bernd Eberhardt. 2011. Motion Reconstruction Using Sparse Accelerometer Data.ACM Trans. Graph.30, 3, Article 18 (May 2011), 12 pages.",
+                "DOI": "10.1145/1966394.1966397",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-42",
+                "unstructured": "Graham W. Taylor, Geoffrey E Hinton, and Sam T. Roweis. 2007. Modeling Human Motion Using Binary Latent Variables. InAdvances in Neural Information Processing Systems 19, B. Sch&#246;lkopf, J. C. Platt, and T. Hoffman (Eds.). MIT Press, 1345--1352. http://papers.nips.cc/paper/3078-modeling-human-motion-using-binary-latent-variables.pdf"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-43",
+                "unstructured": "Theano Development Team. 2016. Theano: A Python framework for fast computation of mathematical expressions.arXiv e-printsabs/1605.02688 (May 2016). http://arxiv.org/abs/1605.02688"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-44",
+                "unstructured": "Alex Varghese, Kiran Vaidhya, Subramaniam Thirunavukkarasu, Chandrasekharan Kesavdas, and Ganapathy Krishnamurthi. 2016. Semi-supervised Learning using Denoising Autoencoders for Brain Lesion Detection and Segmentation.CoRRabs/1611.08664 (2016). arXiv:1611.08664 http://arxiv.org/abs/1611.08664"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-45",
+                "unstructured": "Vicon. 2018. Vicon Software, https://www.vicon.com/products/software/. (2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-46",
+                "unstructured": "Pascal Vincent, Hugo Larochelle, Isabelle Lajoie, Yoshua Bengio, and Pierre-Antoine Manzagol. 2010. Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion.J. Mach. Learn. Res.11 (Dec. 2010), 3371--3408. http://dl.acm.org/citation.cfm?id=1756006.1953039"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-47",
+                "unstructured": "Jun Xiao, Yinfu Feng, Mingming Ji, Xiaosong Yang, Jian J. Zhang, and Yueting Zhuang. 2015. Sparse Motion Bases Selection for Human Motion Denoising.Signal Process.110, C (May 2015), 108--122.",
+                "DOI": "10.1016/j.sigpro.2014.08.017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-48",
+                "unstructured": "Zhidong Xiao, Hammadi Nait-Charif, and Jian J. Zhang. 2008.Automatic Estimation of Skeletal Motion from Optical Motion Capture Data.Springer Berlin Heidelberg, Berlin, Heidelberg, 144--153.",
+                "DOI": "10.1007/978-3-540-89220-5_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-49",
+                "unstructured": "Junyuan Xie, Linli Xu, and Enhong Chen. 2012. Image Denoising and Inpainting with Deep Neural Networks. InAdvances in Neural Information Processing Systems 25, F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger (Eds.). Curran Associates, Inc., 341--349. http://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf",
+                "DOI": "10.1007/978-3-642-34481-7_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-50",
+                "unstructured": "Raymond A. Yeh, Chen Chen, Teck-Yian Lim, Alexander G. Schwing, Mark Hasegawa-Johnson, and Minh N. Do. 2017. Semantic Image Inpainting with Deep Generative Models.2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(2017), 6882--6890.",
+                "DOI": "10.1109/CVPR.2017.728",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201302-51",
+                "unstructured": "Victor Brian Zordan and Nicholas C. Van Der Horst. 2003. Mapping Optical Motion Capture Data to Skeletal Motion Using a Physical Model. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 245--250. http://dl.acm.org/citation.cfm?id=846276.846311"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201302&ftid=1991694&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T16:00:15Z",
+            "timestamp": 1571673615000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201302",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

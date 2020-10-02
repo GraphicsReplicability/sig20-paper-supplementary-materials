@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:18Z",
+            "timestamp": 1574815998971
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "638176"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925963",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-7",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Generalized non-reflecting boundaries for fluid re-simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Morten",
+                "family": "Bojsen-Hansen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Wojtan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925963-1",
+                "unstructured": "B&#233;cache, E., Fauqueux, S., and Joly, P. 2003. Stability of Perfectly Matched Layers, Group Velocities and Anisotropic Waves. InJ. Comput. Phys.188.2, pp. 399--433. issn: 0021-9991."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-2",
+                "unstructured": "Berenger, J.-P. 1994. A Perfectly Matched Layer for the Absorption of Electromagnetic Waves. InJ. Comput. Phys.114.2, pp. 185--200. issn: 0021-9991."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-3",
+                "unstructured": "Bhat, K. S., Seitz, S. M., Hodgins, J. K., and Khosla, P. K. 2004. Flow-based Video Synthesis and Editing. InACM Transactions on Graphics (SIGGRAPH)23.3, pp. 360--363."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-4",
+                "unstructured": "Bridson, R. 2008.Fluid simulation for computer graphics. CRC Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-5",
+                "unstructured": "Fedkiw, R., Stam, J., and Jensen, H. W. 2001. Visual simulation of smoke. InProceedings of the 28th annual conference on Computer graphics and interactive techniques. ACM, pp. 15--22.",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-6",
+                "unstructured": "Hagstrom, T., Goodrich, J., Nazarov, I., and Dodson, C. 2005. High-order methods and boundary conditions for simulating subsonic flows. InProceedings of the 11th AIAA/CEAS Aeroacoustics Conference.",
+                "DOI": "10.2514/6.2005-2869",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-7",
+                "unstructured": "Hu, F. Q. 2001. A Stable, Perfectly Matched Layer for Linearized Euler Equations in Unsplit Physical Variables. InJ. Comput. Phys.173.2, pp. 455--480. issn: 0021-9991."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-8",
+                "unstructured": "Hu, F. Q. 2006. On the construction of PML absorbing boundary condition for the non-linear Euler equations. InAIAA paper798, p. 2006.",
+                "DOI": "10.2514/6.2006-798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-9",
+                "unstructured": "Hu, F. Q., Li, X., and Lin, D. 2008. Absorbing boundary conditions for nonlinear Euler and Navier--Stokes equations based on the perfectly matched layer technique. InJournal of Computational Physics227.9, pp. 4398--4424."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-10",
+                "unstructured": "Hu, F., Hussaini, M., and Manthey, J. 1996. Low-Dissipation and Low-Dispersion Runge-Kutta Schemes for Computational Acoustics. InJ. Comput. Phys.124.1, pp. 177--191. issn: 0021-9991."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-11",
+                "unstructured": "Kim, T. and Delaney, J. 2013. Subspace fluid re-simulation. InACM Transactions on Graphics (SIGGRAPH)32.4, 62:1--62:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-12",
+                "unstructured": "McNamara, A., Treuille, A., Popovi&#263;, Z., and Stam, J. 2004. Fluid Control Using the Adjoint Method. InACM Transactions on Graphics (SIGGRAPH)23.3, pp. 449--456."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-13",
+                "unstructured": "Museth, K. 2013. VDB: High-Resolution Sparse Volumes With Dynamic Topology. InACM Transactions on Graphics (to appear)32.3.",
+                "DOI": "10.1145/2487228.2487235",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-14",
+                "unstructured": "Nielsen, M. B. and Bridson, R. 2011. Guide Shapes for High Resolution Naturalistic Liquid Simulation. InACM Transactions on Graphics (SIGGRAPH)30.4, 83:1--83:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-15",
+                "unstructured": "Osher, S. and Fedkiw, R. 2006.Level set methods and dynamic implicit surfaces. Vol. 153. Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-16",
+                "unstructured": "Pan, Z., Huang, J., Tong, Y., Zheng, C., and Bao, H. 2013. Interactive Localized Liquid Motion Editing. InACM Transactions on Graphics (SIGGRAPH Asia)32.6.",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-17",
+                "unstructured": "Pighin, F., Cohen, J. M., and Shah, M. 2004. Modeling and editing flows using advected radial basis functions. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), pp. 223--232.",
+                "DOI": "10.1145/1028523.1028552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-18",
+                "unstructured": "Raveendran, K., Wojtan, C., Th&#252;rey, N., and Turk, G. 2014. Blending Liquids. InACM Transactions on Graphics (SIGGRAPH)33.4, 137:1--137:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-19",
+                "unstructured": "Shi, L. and Yu, Y. 2005. Taming Liquids for Rapidly Changing Targets. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), pp. 229--236.",
+                "DOI": "10.1145/1073368.1073401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-20",
+                "unstructured": "Side Effects Software. 2016.Houdini. http://sidefx.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-21",
+                "unstructured": "S&#246;derstr&#246;m, A., Karlsson, M., and Museth, K. 2010. A PML-based Nonreflective Boundary for Free Surface Fluid Animation. InACM Transactions on Graphics (TOG)29.5, 136:1--136:17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-22",
+                "unstructured": "S&#246;derstr&#246;m, A. and Museth, K. 2009. Non-reflective Boundary Conditions for Incompressible Free Surface Fluids. InSIGGRAPH 2009: Talks. SIGGRAPH '09. New Orleans, Louisiana: ACM, 4:1--4:1. isbn: 978-1-60558-834-6.",
+                "DOI": "10.1145/1597990.1597994",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-23",
+                "unstructured": "Srinivasan, R. and Malkawi, A. 2007. Adaptive Localization Method: An Approach to Real Time Airflow Simulation and Immersive Visualization. InProceedings of the International Conference on Computer Graphics and Vision (GraphiCon)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-24",
+                "unstructured": "Stam, J. 1999. Stable fluids. InProceedings of the 26th annual conference on Computer graphics and interactive techniques. ACM Press/Addison-Wesley Publishing Co., pp. 121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925963-25",
+                "unstructured": "Th&#252;rey, N., Keiser, R., Ruede, U., and Pauly, M. 2006. Detail-Preserving Fluid Control. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), pp. 7--12."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925963&amp;ftid=1755834&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:49Z",
+            "timestamp": 1568162749000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925963",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

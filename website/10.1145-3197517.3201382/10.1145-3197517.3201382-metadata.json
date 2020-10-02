@@ -1,0 +1,550 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:48Z",
+            "timestamp": 1574859828156
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201382",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "An empirical rig for jaw animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Gaspard",
+                "family": "Zoss",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Bradley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pascal",
+                "family": "B\u00e9rard",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research, ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Thabo",
+                "family": "Beeler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201382-1",
+                "unstructured": "Sameer Agarwal, Keir Mierle, and Others. 2016. Ceres Solver. http://ceres-solver.org. (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-2",
+                "unstructured": "M Oliver Ahlers, Olaf Bernhardt, Holger A Jakstat, Bernd Kordass, Jens C Turp, Hans-Jurgen Schindler, and Alfons Hugger. 2015. Motion analysis of the mandible: guidelines for standardized analysis of computer-assisted recording of condylar movements.International journal of computerized dentistry18, 3 (2015), 201--223."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-3",
+                "unstructured": "Eiichi Bando, Keisuke Nishigawa, Masanori Nakano, Hisahiro Takeuchi, Shuji Shigemoto, Kazuo Okura, Toyoko Satsuma, and Takeshi Yamamoto. 2009. Current status of researches on jaw movement and occlusion for clinical application.Japanese Dental Science Review45, 2 (2009), 83--97.",
+                "DOI": "10.1016/j.jdsr.2009.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-4",
+                "unstructured": "Thabo Beeler, Bernd Bickel, Paul Beardsley, Bob Sumner, and Markus Gross. 2010. High-quality single-shot capture of facial geometry.ACM Transactions on Graphics29, 4 (2010), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-5",
+                "unstructured": "Thabo Beeler, Bernd Bickel, Gioacchino Noris, Paul Beardsley, Steve Marschner, Robert W. Sumner, and Markus Gross. 2012. Coupled 3D Reconstruction of Sparse Facial Hair and Skin.ACM Trans. Graph.31, 4, Article 117 (2012), 117:1--117:10 pages.",
+                "DOI": "10.1145/2185520.2185613",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-6",
+                "unstructured": "Thabo Beeler and Derek Bradley. 2014. Rigid stabilization of facial expressions.ACM Transactions on Graphics33, 4 (2014), 1--9.",
+                "DOI": "10.1145/2601097.2601182",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-7",
+                "unstructured": "Thabo Beeler, Fabian Hahn, Derek Bradley, Bernd Bickel, Paul Beardsley, Craig Gotsman, Robert W. Sumner, and Markus Gross. 2011. High-quality passive facial performance capture using anchor frames.ACM Transactions on Graphics(2011), 1.",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-8",
+                "unstructured": "Pascal B&#233;rard, Derek Bradley, Markus Gross, and Thabo Beeler. 2016. Lightweight eye capture using a parametric model.ACM Transactions on Graphics35, 4 (2016), 1--12.",
+                "DOI": "10.1145/2897824.2925962",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-9",
+                "unstructured": "Pascal B&#233;rard, Derek Bradley, Maurizio Nitti, Thabo Beeler, and Markus Gross. 2014. High-quality Capture of Eyes.ACM Trans. Graph.33, 6 (2014), 223:1--223:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-10",
+                "unstructured": "Amit Bermano, Thabo Beeler, Yeara Kozlov, Derek Bradley, Bernd Bickel, and Markus Gross. 2015. Detailed spatio-temporal reconstruction of eyelids.ACM Transactions on Graphics34, 4 (2015).",
+                "DOI": "10.1145/2766924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-11",
+                "unstructured": "Enrique Bermejo, Carmen Campomanes-&#193;lvarez, Andrea Valsecchi, Oscar Ib&#225;&#241;ez, Sergio Damas, and Oscar Cord&#243;n. 2017. Genetic algorithms for skull-face overlay including mandible articulation.Information Sciences420 (2017), 200--217.",
+                "DOI": "10.1016/j.ins.2017.08.029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-12",
+                "unstructured": "Volker Blanz and Thomas Vetter. 1999. A morphable model for the synthesis of 3D faces.Proceedings of the 26th annual conference on Computer graphics and interactive techniques - SIGGRAPH '99(1999), 187--194."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-13",
+                "unstructured": "Mario Botsch and Olga Sorkine. 2008. On linear variational surface deformation methods.IEEE transactions on visualization and computer graphics14, 1 (2008), 213--230.",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-14",
+                "unstructured": "Sofien Bouaziz, Yangang Wang, and Mark Pauly. 2013. Online modeling for realtime facial animation.ACM Trans. Graphics (Proc. SIGGRAPH)32, 4, Article 40 (2013), 40:1--40:10 pages.",
+                "DOI": "10.1145/2461912.2461976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-15",
+                "unstructured": "D. Bradley, W. Heidrich, T. Popa, and A. Sheffer. 2010. High Resolution Passive Facial Performance Capture.ACM Trans. Graphics (Proc. SIGGRAPH)29, Article 41 (2010), 41:1--41:10 pages. Issue 4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-16",
+                "unstructured": "Chen Cao, Derek Bradley, Kun Zhou, and Thabo Beeler. 2015. Real-time high-fidelity facial performance capture.ACM Transactions on Graphics34, 4 (2015), 46:1--46:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-17",
+                "unstructured": "Chen Cao, Qiming Hou, and Kun Zhou. 2014. Displaced Dynamic Expression Regression for Real-time Facial Tracking and Animation.ACM Trans. Graph.33, 4, Article 43 (2014), 43:1--43:10 pages.",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-18",
+                "unstructured": "Cao Chen, Yanlin Weng, Shun Zhou, Yiying Tong, and Kun Zhou. 2014. FaceWarehouse: a 3D Facial Expression Database for Visual Computing.IEEE TVCG20, 3 (2014), 413--425.",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-19",
+                "unstructured": "Matthew Cong, Michael Bao, Jane L. E, Kiran S. Bhat, and Ronald Fedkiw. 2015. Fully Automatic Generation of Anatomical Face Simulation Models. InProc. SCA.175--183.",
+                "DOI": "10.1145/2786784.2786786",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-20",
+                "unstructured": "Matthew Cong, Kiran S. Bhat, and Ronald Fedkiw. 2016. Art-directed Muscle Simulation for High-end Facial Animation. InProc. SCA.119--127."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-21",
+                "unstructured": "B. Daumas, W. L. Xu, and J. Bronlund. 2005. Jaw mechanism modeling and simulation.Mechanism and Machine Theory40, 7 (2005), 821--833.",
+                "DOI": "10.1016/j.mechmachtheory.2004.12.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-22",
+                "unstructured": "S. De Greef, P. Claes, D. Vandermeulen, W. Mollemans, P. Suetens, and G. Willems. 2006. Large-scale in-vivo Caucasian facial soft tissue thickness database for craniofacial reconstruction.Forensic Science International159, 1 (2006).",
+                "DOI": "10.1016/j.forsciint.2006.02.034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-23",
+                "unstructured": "Virgilio F. Ferrario, Chiarella Sforza, Nicola Lovecchio, and Fabrizio Mian. 2005. Quantification of translational and gliding components in human temporomandibular joint during mouth opening.Archives of Oral Biology50, 5 (2005), 507--515.",
+                "DOI": "10.1016/j.archoralbio.2004.10.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-24",
+                "unstructured": "Graham Fyffe, Tim Hawkins, Chris Watts, Wan-Chun Ma, and Paul Debevec. 2011. Comprehensive Facial Performance Capture. InEurographics.",
+                "DOI": "10.1111/j.1467-8659.2011.01888.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-25",
+                "unstructured": "Graham Fyffe, Andrew Jones, Oleg Alexander, Ryosuke Ichikari, and Paul Debevec. 2014. Driving High-Resolution Facial Scans with Video Performance Capture.ACM Trans. Graph.34, 1, Article 8 (2014), 8:1--8:14 pages",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-26",
+                "unstructured": "G. Fyffe, K. Nagano, L. Huynh, S. Saito, J. Busch, A. Jones, H. Li, and P. Debevec. 2017. Multi-View Stereo on Consistent Face Topology.Comput. Graph. Forum36, 2 (2017), 295--309.",
+                "DOI": "10.1111/cgf.13127",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-27",
+                "unstructured": "Pablo Garrido, Levi Valgaerts, Chenglei Wu, and Christian Theobalt. 2013. Reconstructing Detailed Dynamic Face Geometry from Monocular Video. InACM Trans. Graph. (Proceedings of SIGGRAPH Asia 2013), Vol. 32. 158:1--158:10.",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-28",
+                "unstructured": "Pablo Garrido, Michael Zollhoefer, Dan Casas, Levi Valgaerts, Kiran Varanasi, Patrick Perez, and Christian Theobalt. 2016a. Reconstruction of Personalized 3D Face Rigs from Monocular Video. 35, 3 (2016), 28:1--28:15."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-29",
+                "unstructured": "P. Garrido, M. Zollh&#246;fer, C. Wu, D. Bradley, P. Perez, T. Beeler, and C. Theobalt. 2016b. Corrective 3D Reconstruction of Lips from Monocular Video.ACM Transactions on Graphics (TOG)35, 6 (2016).",
+                "DOI": "10.1145/2980179.2982419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-30",
+                "unstructured": "S. Garrido-Jurado, R. Mu&#241;oz-Salinas, F.J. Madrid-Cuevas, and M.J. Mar&#237;n-Jim&#233;nez. 2014. Automatic generation and detection of highly reliable fiducial markers under occlusion.Pattern Recognition47, 6 (2014), 2280--2292.",
+                "DOI": "10.1016/j.patcog.2014.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-31",
+                "unstructured": "S. Garrido-Jurado, R. Mu&#241;oz-Salinas, F. J. Madrid-Cuevas, and R. Medina-Carnicer. 2016. Generation of fiducial marker dictionaries using Mixed Integer Linear Programming.Pattern Recognition51, October (2016), 481--491.",
+                "DOI": "10.1016/j.patcog.2015.09.023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-32",
+                "unstructured": "S. Garrido-Jurado, R. Mu&#241;oz Salinas, F.J. Madrid-Cuevas, and M.J. Mar&#237;n-Jim&#233;nez. 2014. Automatic generation and detection of highly reliable fiducial markers under occlusion.Pattern Recognition47, 6 (2014), 2280 -- 2292.",
+                "DOI": "10.1016/j.patcog.2014.01.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-33",
+                "unstructured": "John C Gower. 1975. Generalized procrustes analysis.Psychometrika40, 1 (1975), 33--51."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-34",
+                "unstructured": "Pei-Lun Hsieh, Chongyang Ma, Jihun Yu, and Hao Li. 2015. Unconstrained Realtime Facial Performance Capture. InComputer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2015.7298776",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-35",
+                "unstructured": "Alexandru-Eugen Ichim, Petr Kadle&#269;ek, Ladislav Kavan, and Mark Pauly. 2017. Phace: Physics-based Face Modeling and Animation.ACM Transactions on Graphics36, 4 (2017), 1--14.",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-36",
+                "unstructured": "Alexandru-Eugen Ichim, Ladislav Kavan, Merlin Nimier-David, and Mark Pauly. 2016. Building and Animating User-Specific Volumetric Face Rigs.Ladislav Kavan and Chris Wojtan(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-37",
+                "unstructured": "K K&#228;hler, J Haber, and H Seidel. 2003. Reanimating the Dead : Reconstruction of Expressive Faces from Skull Data.ACM/SIGGRAPH Computer Graphics Proceedings22, July (2003), 554--567.",
+                "DOI": "10.1145/1201775.882307",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-38",
+                "unstructured": "Tero Karras, Timo Aila, Samuli Laine, Antti Herva, and Jaakko Lehtinen. 2017. Audio-driven Facial Animation by Joint End-to-end Learning of Pose and Emotion.ACM Trans. Graph.36, 4, Article 94 (2017), 94:1--94:12 pages.",
+                "DOI": "10.1145/3072959.3073658",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-39",
+                "unstructured": "F. J. Knap, B. L. Richardson, and J. Bogstad. 1970. Study of Mandibular Motion in Six Degrees of Freedom.Journal of Dental Research49, 2 (1970), 289--292.",
+                "DOI": "10.1177/00220345700490021501",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-40",
+                "unstructured": "Yeara Kozlov, Derek Bradley, Moritz B&#228;cher, Bernhard Thomaszewski, Thabo Beeler, and Markus Gross. 2017. Enriching Facial Blendshape Rigs with Physical Simulation.Comput. Graph. Forum36, 2 (2017), 75--84.",
+                "DOI": "10.1111/cgf.13108",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-41",
+                "unstructured": "Rafael Laboissi&#232;re, David J. Ostry, and Anatol G. Feldman. 1996. The control of multi-muscle systems: Human jaw and hyoid movements.Biological Cybernetics74, 4 (1996), 373--384.",
+                "DOI": "10.1007/BF00194930",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-42",
+                "unstructured": "Samuli Laine, Tero Karras, Timo Aila, Antti Herva, Shunsuke Saito, Ronald Yu, Hao Li, and Jaakko Lehtinen. 2017. Production-level Facial Performance Capture Using Deep Convolutional Neural Networks. InProc. SCA.10:1--10:10.",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-43",
+                "unstructured": "Jeremy J. Lemoine, James J. Xia, Clark R. Andersen, Jaime Gateno, William Buford Jr., and Michael A.K. Liebschner. 2007. Geometry-Based Algorithm for the Prediction of Nonpathologic Mandibular Movement.Journal of Oral and Maxillofacial Surgery65, 12 (2007), 2411--2417.",
+                "DOI": "10.1016/j.joms.2007.05.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-44",
+                "unstructured": "J.P. Lewis, Ken Anjyo, Taehyun Rhee, Mengjie Zhang, Fred Pighin, and Zhigang Deng. 2014. Practice and Theory of Blendshape Facial Models. InEurographics State of The Art Reports."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-45",
+                "unstructured": "Hao Li, Jihun Yu, Yuting Ye, and Chris Bregler. 2013. Realtime facial animation with on-the-fly correctives.ACM Trans. Graphics (Proc. SIGGRAPH)32, 4, Article 42 (2013), 42:1--42:10 pages.",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-46",
+                "unstructured": "Ran Luo, Qiang Fang, Jianguo Wei, Weiwei Xu, and Yin Yang. 2017. Acoustic VR of Human Tongue: Real-time Speech-driven Visual Tongue System. InIEEE VR.",
+                "DOI": "10.1109/VR.2017.7892238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-47",
+                "unstructured": "Andrea Mapelli, Domenico Galante, Nicola Lovecchio, Chiarella Sforza, and Virgilio F. Ferrario. 2009. Translation and rotation movements of the mandible during mouth opening and closing.Clinical Anatomy22, 3 (2009), 311--318.",
+                "DOI": "10.1002/ca.20756",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-48",
+                "unstructured": "Jeffrey P. Okeson. 2013. Mechanics Of Mandibular Movement. InManagement of Temporomandibular Disorders And Occlusion."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-49",
+                "unstructured": "Ver&#243;nica Orvalho, Pedro Bastos, Frederic Parke, Bruno Oliveira, and Xenxo Alvarez. 2012. A Facial Rigging Survey. InEurographics State of The Art Reports."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-50",
+                "unstructured": "David J. Ostry, Eric Vatikiotis-Bateson, and Paul L. Gribble. 1997. An Examination of the Degrees of Freedom of Human Jaw Motion in Speech and Mastication.Journal of Speech, Language, and Hearing Research Volume40 (1997), 1341--1351.",
+                "DOI": "10.1044/jslhr.4006.1341",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-51",
+                "unstructured": "U. Posselt. 1952.Studies in the Mobility of the Human Mandible.Acta Odontologica Scandinavica. https://books.google.ch/books?id=1MBpAAAAMAAJ"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-52",
+                "unstructured": "Ulf Posselt and Odont. D. 1958. Range of movement of the mandible.The Journal of the American Dental Association56, 1 (1958), 10--13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-53",
+                "unstructured": "Fuhao Shi, Hsiang-Tao Wu, Xin Tong, and Jinxiang Chai. 2014. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos.ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2014)33 (2014). Issue 6.",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-54",
+                "unstructured": "Eftychios Sifakis, Igor Neverov, and Ronald Fedkiw. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data.ACM Transactions on Graphics24, 3 (2005), 417."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-55",
+                "unstructured": "Supasorn Suwajanakorn, Ira Kemelmacher-Shlizerman, and Steven M. Seitz. 2014. Total Moving Face Reconstruction. InECCV.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-56",
+                "unstructured": "Ayush Tewari, Michael Zoll&#246;fer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Perez, and Christian Theobalt. 2017. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. InProc. of IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-57",
+                "unstructured": "Justus Thies, Michael Zollh&#246;fer, Matthias Nie&#223;ner, Levi Valgaerts, Marc Stamminger, and Christian Theobalt. 2015. Real-time Expression Transfer for Facial Reenactment.ACM Trans. Graph.34, 6, Article 183 (2015), 183:1--183:14 pages.",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-58",
+                "unstructured": "J. Thies, M. Zollh&#246;fer, M. Stamminger, C. Theobalt, and M. Nie&#223;ner. 2016. Face2Face: Real-time Face Capture and Reenactment of RGB Videos. InProc. of IEEE CVPR.",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-59",
+                "unstructured": "Levi Valgaerts, Chenglei Wu, Andr&#233;s Bruhn, Hans-Peter Seidel, and Christian Theobalt. 2012. Lightweight Binocular Facial Performance Capture under Uncontrolled Lighting. InACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2012), Vol. 31. 187:1--187:11.",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-60",
+                "unstructured": "E. Vatikiotis-Bateson and D.J. Ostry. 1999. Analysis and modeling of 3D jaw motion in speech and mastication.IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)2 (1999), 442--447."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-61",
+                "unstructured": "Eric Vatikiotis-Bateson and David J. Ostry. 1995. An analysis of the dimensionality of jaw motion in speech.Journal of Phonetics23, 1-2 (1995), 101--117."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-62",
+                "unstructured": "Marta B. Villamil and Luciana P. Nedel. 2005. A model to simulate the mastication motion at the temporomandibular joint.Proceedings of SPIE5746, February 2014 (2005), 303--313."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-63",
+                "unstructured": "Marta B. Villamil, Luciana P. Nedel, Carla M D S Freitas, and Benoit Macq. 2012. Simulation of the human TMJ behavior based on interdependent joints topology.Computer Methods and Programs in Biomedicine105, 3 (2012), 217--232.",
+                "DOI": "10.1016/j.cmpb.2011.09.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-64",
+                "unstructured": "Daniel Vlasic, Matthew Brand, Hanspeter Pfister, and Jovan Popovi&#263;. 2005. Face Transfer with Multilinear Models.ACM Transactions on Graphics24, 3 (2005), 426--433.",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-65",
+                "unstructured": "Thibaut Weise, Sofien Bouaziz, Hao Li, and Mark Pauly. 2011. Realtime Performance-Based Facial Animation.ACM Trans. Graphics (Proc. SIGGRAPH)30, 4 (2011), 77:1--77:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-66",
+                "unstructured": "Chenglei Wu, Derek Bradley, Pablo Garrido, Michael Zollh&#246;fer, Christian Theobalt, Markus Gross, and Thabo Beeler. 2016a. Model-based teeth reconstruction.ACM Transactions on Graphics35, 6 (2016), 1--13.",
+                "DOI": "10.1145/2980179.2980233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-67",
+                "unstructured": "Chenglei Wu, Derek Bradley, Markus Gross, and Thabo Beeler. 2016b. Ananatomically-constrained local deformation model for monocular face capture.ACM Transactions on Graphics35, 4 (2016), 1--12.",
+                "DOI": "10.1145/3072959.3034185",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201382-68",
+                "unstructured": "Po-Chen Wu, Robert Wang, Kenrick Kin, Christopher Twigg, Shangchen Han, Ming-Hsuan Yang, and Shao-Yi Chien. 2017. DodecaPen: Accurate 6DoF Tracking of a Passive Stylus.ACM Symposium on User Interface Software and Technology(2017), 365--374.",
+                "DOI": "10.1145/3126594.3126664",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201382&ftid=1991674&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:46:49Z",
+            "timestamp": 1571672809000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201382",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

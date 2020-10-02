@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:53Z",
+            "timestamp": 1575507233575
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1111415, IIS-1116296"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601148",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Modeling and optimizing eye vergence response to stereoscopic cuts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Krzysztof",
+                "family": "Templin",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mohamed M.",
+                "family": "Hefeeda",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601148-1",
+                "unstructured": "Alvarez, T. L., Semmlow, J. L., and Pedrono, C. 2005. Divergence eye movements are dependent on initial stimulus position.Vis. Res. 45, 14, 1847--55.",
+                "DOI": "10.1016/j.visres.2005.01.017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-2",
+                "unstructured": "Bernhard, M., Dellmour, C., Hecher, M., Stavrakis, E., and Wimmer, M. 2014. The effects of fast disparity adjustments in gaze-controlled stereoscopic applications. InProc. ETRA. To appear.",
+                "DOI": "10.1145/2578153.2578169",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-3",
+                "unstructured": "Campbell, F. W., and Westheimer, G. 1959. Factors influencing accommodation responses of the human eye.J. Opt. Soc. Am. 49, 6, 568--71.",
+                "DOI": "10.1364/JOSA.49.000568",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-4",
+                "unstructured": "Carmi, R., and Itti, L. 2006. Visual causes versus correlates of attentional selection in dynamic scenes.Vis. Res. 46, 26, 4333--45.",
+                "DOI": "10.1016/j.visres.2006.08.019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-5",
+                "unstructured": "Cutting, J., Brunick, K., Delong, J., Iricinschi, C., and Candan, A. 2011. Quicker, faster, darker: Changes in hollywood film over 75 years.i-PERCEPTION 2, 6, 569--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-6",
+                "unstructured": "Du, S.-P., Masia, B., Hu, S.-M., and Gutierrez, D. 2013. A metric of visual comfort for stereoscopic motion.ACM Trans. Graph. 32, 6, 222."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-7",
+                "unstructured": "Eadie, A. S., Gray, L. S., Carlin, P., and Mon-Williams, M. 2000. Modelling adaptation effects in vergence and accommodation after exposure to a simulated virtual reality stimulus.Ophthalmic Physiol. Opt. 20, 3, 242--51.",
+                "DOI": "10.1016/S0275-5408(99)00057-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-8",
+                "unstructured": "Erkelens, C. J., Van der Steen, J., Steinman, R. M., and Collewijn, H. 1989. Ocular vergence under natural conditions. II. Gaze-shifts between real targets differing in distance and direction. InProc. of the Royal. Soc., 441--6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-9",
+                "unstructured": "Finke, R. 1989.Principles of Mental Imagery. MIT Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-10",
+                "unstructured": "Heinzle, S., Greisen, P., Gallup, D., Chen, C., Saner, D., Smolic, A., Burg, A., Matusik, W., and Gross, M. H. 2011. Computational stereo camera system with programmable control loop.ACM Trans. Graph. 30, 4, 94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-11",
+                "unstructured": "Hoffman, D., Girshick, A., Akeley, K., and Banks, M. 2008. Vergence-accommodation conflicts hinder visual performance and cause visual fatigue.J. Vision 8, 3, 1--30.",
+                "DOI": "10.1167/8.3.33",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-12",
+                "unstructured": "Hung, G. K., Ciuffreda, K. J., Semmlow, J. L., and Hor, J.-L. 1994. Vergence eye movements under natural viewing conditions.Invest. Ophthalmol. Vis. Sci. 35, 3486--92."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-13",
+                "unstructured": "Hung, G. K. 1992. Adaptation model of accommodation and vergence.Ophthalmic Physiol. Opt. 12, 3, 319--26.",
+                "DOI": "10.1111/j.1475-1313.1992.tb00404.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-14",
+                "unstructured": "Hung, G. K. 1998. Dynamic model of the vergence eye movement system: Simulations using Matlab/Simulink.Computer Methods and Programs in Biomedicine 55, 1, 59--68.",
+                "DOI": "10.1016/S0169-2607(97)00048-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-15",
+                "unstructured": "Hung, G. K. 2001.Models of oculomotor control. World Scientific Publishing, Singapore.",
+                "DOI": "10.1142/4652",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-16",
+                "unstructured": "Koppal, S. J., Zitnick, C. L., Cohen, M., Kang, S. B., Ressler, B., and Colburn, A. 2011. A viewer-centric editor for 3d movies.IEEE Comput. Graph. Appl. Mag. 31, 1, 20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-17",
+                "unstructured": "Krishnan, V., Farazian, F., and Stark, L. 1973. An analysis of latencies and prediction in the fusional vergence system.Am. J. Optometry and Arch. Am. Academy of Optometry 50, 933--9.",
+                "DOI": "10.1097/00006324-197312000-00001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-18",
+                "unstructured": "Krishnan, V., Farazian, F., and Stark, L. 1977. Dynamic measures of vergence accommodation.American Journal of Optometrics and Physiological Optics 54, 470--3.",
+                "DOI": "10.1097/00006324-197707000-00007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-19",
+                "unstructured": "Lambooij, M., IJsselsteijn, W., Fortuin, M., and Heynderickx, I. 2009. Visual discomfort and visual fatigue of stereoscopic displays: A review.J. Imaging Sci. Technol. 53, 3, 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-20",
+                "unstructured": "Lambooij, M., IJsselsteijn, W., and Heynderickx, I. 2011. Visual discomfort of 3D TV: Assessment methods and modeling.Displays 32, 4, 209--18. Visual Image Safety.",
+                "DOI": "10.1016/j.displa.2011.05.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-21",
+                "unstructured": "Lang, M., Hornung, A., Wang, O., Poulakos, S., Smolic, A., and Gross, M. 2010. Nonlinear disparity mapping for stereoscopic 3D.ACM Trans. Graph. 29, 4, 75."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-22",
+                "unstructured": "Liu, C., Yuen, J., and Torralba, A. 2011. Sift flow: Dense correspondence across scenes and its applications.Pattern Analysis and Machine Intelligence, IEEE Transactions on 33, 5, 978--94."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-23",
+                "unstructured": "Meesters, L., IJsselsteijn, W., and Seuntiens, P. 2004. A survey of perceptual evaluations and requirements of three-dimensional tv.Circuits and Systems for Video Technology, IEEE Transactions on 14, 3, 381--91."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-24",
+                "unstructured": "Mendiburu, B. 2009.3D Movie Making: Stereoscopic Digital Cinema from Script to Screen. Focal Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-25",
+                "unstructured": "Mital, P., Smith, T., Hill, R., and Henderson, J. 2011. Clustering of gaze during dynamic scene viewing is predicted by motion.Cognitive Computation 3, 1, 5--24."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-26",
+                "unstructured": "Okuyama, F. 1998. Human visual accommodation and vergence eye movement while viewing stereoscopic display and actual target. InProc. IEEE Eng. Med. Biol. Society, vol. 2, 552--5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-27",
+                "unstructured": "Oskam, T., Hornung, A., Bowles, H., Mitchell, K., and Gross, M. H. 2011. Oscam-optimized stereoscopic camera control for interactive 3d.ACM Trans. Graph. 30, 6, 189."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-28",
+                "unstructured": "Owens, C., 2013. Invited talk. 2nd Toronto International Stereoscopic 3D Conference."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-29",
+                "unstructured": "Rushton, S. K., and Riddell, P. M. 1999. Developing visual systems and exposure to virtual reality and stereo displays: some concerns and speculations about the demands on accommodation and vergence.Applied Ergonomics 30, 1, 69--78.",
+                "DOI": "10.1016/S0003-6870(98)00044-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-30",
+                "unstructured": "Schor, C. M. 1979. The relationship between fusional vergence eye movements and fixation disparity.Vis. Res. 19, 12, 1359--67.",
+                "DOI": "10.1016/0042-6989(79)90208-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-31",
+                "unstructured": "Schor, C. M. 1992. The relationship between fusional vergence eye movements and fixation disparity.Optometry and Vision Science 69, 4, 258--69.",
+                "DOI": "10.1097/00006324-199204000-00002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-32",
+                "unstructured": "Schor, C. 1999. The influence of interactions between accommodation and convergence on the lag of accommodation.Ophthalmic Physiol. Opt. 19, 2, 134--50.",
+                "DOI": "10.1046/j.1475-1313.1999.00409.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-33",
+                "unstructured": "Semmlow, J., and Wetzel, P. 1979. Dynamic contributions of the components of binocular vergence.JOSA 69, 639--45.",
+                "DOI": "10.1364/JOSA.69.000639",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-34",
+                "unstructured": "Semmlow, J., Hung, G., and Ciuffreda, K. 1986. Quantitative assessment of disparity vergence components.Invest. Ophthalmol. Vis. Sci. 27, 558--64."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-35",
+                "unstructured": "Shibata, T., Kim, J., Hoffman, D. M., and Banks, M. S. 2011. The zone of comfort: Predicting visual discomfort with stereo displays.J. Vision 11, 8, 11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-36",
+                "unstructured": "Tam, W. J., Speranza, F., V&#225;zquez, C., Renaud, R., and Hur, N. 2012. Visual comfort: stereoscopic objects moving in the horizontal and mid-sagittal planes. InProc. SPIE, A. J. Woods, N. S. Holliman, and G. E. Favalora, Eds., 8288:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-37",
+                "unstructured": "Ukai, K., and Kato, Y. 2002. The use of video refraction to measure the dynamic properties of the near triad in observers of a 3-d display.Ophthalmic Physiol. Opt. 22, 5, 385--8.",
+                "DOI": "10.1046/j.1475-1313.2002.00061.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-38",
+                "unstructured": "Wang, H. X., Freeman, J., Merriam, E. P., Hasson, U., and Heeger, D. J. 2012. Temporal eye movement strategies during naturalistic viewing.J. Vision 12, 1, 16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-39",
+                "unstructured": "Watson, A. B., and Pelli, D. G. 1983. QUEST: a Bayesian adaptive psychometric method.Perception and Psychophysics 33, 2, 113--20.",
+                "DOI": "10.3758/BF03202828",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-40",
+                "unstructured": "Yano, S., Emoto, M., and Mitsuhashi, T. 2004. Two factors in visual fatigue caused by stereoscopic HDTV images.Displays 25, 4 (Nov.), 141--50."
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-41",
+                "unstructured": "Zilly, F., Kluger, J., and Kauff, P. 2011. Production rules for stereo acquisition.Proc. IEEE 99, 4, 590--606.",
+                "DOI": "10.1109/JPROC.2010.2095810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601148-42",
+                "unstructured": "Zwicker, M., Matusik, W., Durand, F., Pfister, H., and Forlines, C. 2006. Antialiasing for automultiscopic 3D displays. InProc. EGSR, 73--82."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601148&amp;ftid=1488954&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601148",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

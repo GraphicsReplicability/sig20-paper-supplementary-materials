@@ -1,0 +1,366 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:19Z",
+            "timestamp": 1574815999569
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "638176"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925902",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Fast approximations for boundary element based brittle fracture simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "David",
+                "family": "Hahn",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Wojtan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925902-1",
+                "unstructured": "Aliabadi, M. 1997. Boundary element formulations in fracture mechanics.Applied Mechanics Reviews 50, 2, 83--96."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-2",
+                "unstructured": "Baker, M., Zafar, N. B., Carlson, M., Coumans, E., Criswell, B., Harada, T., and Knight, P. 2011. Destruction and dynamics for film and game production. InACM SIGGRAPH2011 Courses."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-3",
+                "unstructured": "Bao, Z., Hong, J.-M., Teran, J., and Fedkiw, R. 2007. Fracturing rigid materials.IEEE TVCG 13, 370--378."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-4",
+                "unstructured": "Bender, J., Erleben, K., Trinkle, J., and Coumans, E. 2012. Interactive simulation of rigid body dynamics in computer graphics. InEUROGRAPHICS 2012 State of the Art Reports."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-5",
+                "unstructured": "Chadwick, J. N., Zheng, C., and James, D. L. 2012. Precomputed acceleration noise for improved rigid-body sound.ACM Trans. Graph. 31, 4, 103:1--103:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-6",
+                "unstructured": "Chen, Z., Yao, M., Feng, R., and Wang, H. 2014. Physics-inspired adaptive fracture refinement.ACM Trans. Graph. 33, 113:1--113:7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-7",
+                "unstructured": "Coumans, E. 2015. Bullet physics simulation. InACM SIGGRAPH 2015 Courses.",
+                "DOI": "10.1145/2776880.2792704",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-8",
+                "unstructured": "Elek, P., and Jaramaz, S. 2008. Fragment size distribution in dynamic fragmentation: Geometric probability approach.FME Transactions 36, 2, 59--65."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-9",
+                "unstructured": "Frangi, A., Novati, G., Springhetti, R., and Rovizzi, M. 2002. 3D fracture analysis by the symmetric Galerkin BEM.Computational Mechanics 28, 3-4, 220--232."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-10",
+                "unstructured": "Glondu, L., Muguercia, L., Marchal, M., Bosch, C., Rushmeier, H., Dumont, G., and Drettakis, G. 2012. Example-based fractured appearance.Computer Graphics Forum 31, 4, 1547--1556."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-11",
+                "unstructured": "Glondu, L., Marchal, M., and Dumont, G. 2013. Realtime simulation of brittle fracture using modal analysis.IEEE TVCG 19, 201--209."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-12",
+                "unstructured": "Gravouil, A., Mo&#235;s, N., and Belytschko, T. 2002. Non-planar 3D crack growth by the extended finite element and level sets -- part II: level set update.INT J NUMER METH ENG 53, 11, 2569--2586."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-13",
+                "unstructured": "Gross, D., and Seelig, T. 2011.Fracture Mechanics, 2nd ed. Springer.",
+                "DOI": "10.1007/978-3-642-19240-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-14",
+                "unstructured": "Hahn, D., and Wojtan, C. 2015. High-resolution brittle fracture simulation with boundary elements.ACM Trans. Graph. 34, 4, 151:1--151:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-15",
+                "unstructured": "Hertz, H. 1881. &#220;ber die Ber&#252;hrung fester elastischer K&#246;rper.J. reine und angewandte Math. 92, 156--171."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-16",
+                "unstructured": "Hirota, K., Tanoue, Y., and Kaneko, T. 2000. Simulation of three-dimensional cracks.The Visual Computer 16, 371--378."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-17",
+                "unstructured": "Iben, H. N., and O'Brien, J. F. 2006. Generating surface crack patterns. InProc. ACM SIGGRAPH/Eurographics SCA 2006, 177--185."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-18",
+                "unstructured": "Ingraffea, A. R., and Wawrzynek, P. A. 2003.Finite Element Methods for Linear Elastic Fracture Mechanics, Chapter 3.1 in Comprehensive Structural Integrity. Elsevier Science Ltd.",
+                "DOI": "10.1016/B0-08-043749-4/03007-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-19",
+                "unstructured": "James, D. L., and Pai, D. K. 1999. Artdefo: Accurate real time deformable objects. InSIGGRAPH 99, Annual Conference Series, 65--72."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-20",
+                "unstructured": "Kaufmann, P., Martin, S., Botsch, M., Grinspun, E., and Gross, M. 2009. Enrichment textures for detailed cutting of shells.ACM Trans. Graph. 28, 50:1--50:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-21",
+                "unstructured": "Keeler, T., and Bridson, R. 2014. Ocean waves animation using boundary integral equations and explicit mesh tracking. InProc. ACM SIGGRAPH/Eurographics SCA 2014, 11--19."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-22",
+                "unstructured": "Kielhorn, L. 2009.A time-domain symmetric Galerkin BEM for viscoelastodynamics.Verl. der Techn. Univ. Graz."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-23",
+                "unstructured": "Koschier, D., Lipponer, S., and Bender, J. 2014. Adaptive tetrahedral meshes for brittle fracture simulation. InProc. ACM SIGGRAPH/Eurographics SCA 2014, 57--66."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-24",
+                "unstructured": "Levine, J. A., Bargteil, A. W., Corsi, C., Tessendorf, J., and Geist, R. 2014. A peridynamic perspective on spring-mass fracture. InProc. ACM SIGGRAPH/Eurographics SCA 2014, 47--55."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-25",
+                "unstructured": "Mamou, K., and Ghorbel, F. 2009. A simple and efficient approach for 3D mesh approximate convex decomposition. In16th IEEE Int. Conf. Image Processing (ICIP), 3501--3504."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-26",
+                "unstructured": "Mayboroda, S., and Mitrea, M. 2006.Integral Methods in Science and Engineering: Theoretical and Practical Aspects. Birkh&#228;user Boston, ch. The Poisson Problem for the Lam&#233; System on Low-dimensional Lipschitz Domains, 137--160."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-27",
+                "unstructured": "Messner, M., and Schanz, M. 2010. An accelerated symmetric time-domain boundary element formulation for elasticity.Engineering Analysis with Boundary Elements 34, 11, 944--955."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-28",
+                "unstructured": "Mo&#235;s, N., Gravouil, A., and Belytschko, T. 2002. Non-planar 3D crack growth by the extended finite element and level sets -- part I: mechanical model.INT J NUMER METH ENG 53, 11, 2549--2568."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-29",
+                "unstructured": "Molino, N., Bao, Z., and Fedkiw, R. 2004. A virtual node algorithm for changing mesh topology during simulation.ACM Trans. Graph. 23, 385--392."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-30",
+                "unstructured": "Mousavi, S. E., Grinspun, E., and Sukumar, N. 2011. Higher-order extended finite elements with harmonic enrichment functions for complex crack problems.INT J NUMER METH ENG 86, 4-5, 560--574."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-31",
+                "unstructured": "M&#252;ller, M., McMillan, L., Dorsey, J., and Jagnow, R. 2001. Proc. real-time simulation of deformation and fracture of stiff materials. InEurographic Workshop on Computer Animation and Simulation, 113--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-32",
+                "unstructured": "M&#252;ller, M., Chentanez, N., and Kim, T.-Y. 2013. Real time dynamic fracture with volumetric approximate convex decompositions.ACM Trans. Graph. 32, 115:1--115:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-33",
+                "unstructured": "Norton, A., Turk, G., Bacon, B., Gerth, J., and Sweeney, P. 1991. Animation of fracture by physical modeling.The Visual Computer 7, 210--219."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-34",
+                "unstructured": "O'Brien, J. F., and Hodgins, J. K. 1999. Graphical modeling and animation of brittle fracture. InSIGGRAPH 99, Annual Conference Series, 137--146."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-35",
+                "unstructured": "O'Brien, J. F., Bargteil, A. W., and Hodgins, J. K. 2002. Graphical modeling and animation of ductile fracture.ACM Trans. Graph. 21, 291--294."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-36",
+                "unstructured": "Parker, E. G., and O'Brien, J. F. 2009. Real-time deformation and fracture in a game environment. InProc. ACM SIGGRAPH/Eurographics SCA 2009, 165--175."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-37",
+                "unstructured": "Patricio, M., and Mattheij, R. 2007. Crack propagation analysis.CASA-report 0723."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-38",
+                "unstructured": "Pauly, M., Keiser, R., Adams, B., Dutr&#233;, P., Gross, M., and Guibas, L. J. 2005. Meshless animation of fracturing solids.ACM Trans. Graph. 24, 957--964."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-39",
+                "unstructured": "Popov, V. 2010.Contact Mechanics and Friction. Physical Principles and Applications. Springer.",
+                "DOI": "10.1007/978-3-642-10803-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-40",
+                "unstructured": "Schvartzman, S. C., and Otaduy, M. A. 2014. Fracture animation based on high-dimensional voronoi diagrams. InProc. 18th ACM SIGGRAPH i3D '14, 15--22."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-41",
+                "unstructured": "Smith, J., Witkin, A., and Baraff, D. 2001. Fast and controllable simulation of the shattering of brittle objects.Computer Graphics Forum 20, 81--91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-42",
+                "unstructured": "Stomakhin, A., Schroeder, C., Chai, L., Teran, J., and Selle, A. 2013. A material point method for snow simulation.ACM Trans. Graph. 32, 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-43",
+                "unstructured": "Su, J., Schroeder, C., and Fedkiw, R. 2009. Energy stability and fracture for frame rate rigid body simulations. InProc. ACM SIGGRAPH/Eurographics SCA 2009, 155--164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-44",
+                "unstructured": "Terzopoulos, D., and Fleischer, K. 1988. Modeling inelastic deformation: Viscolelasticity, plasticity, fracture.SIGGRAPH Comput. Graph. 22, 269--278."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-45",
+                "unstructured": "Zheng, C., and James, D. L. 2010. Rigid-body fracture sound with precomputed soundbanks.ACM Trans. Graph. 29, 69:1--69:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925902-46",
+                "unstructured": "Zhu, Y., Bridson, R., and Greif, C. 2015. Simulating rigid body fracture with surface meshes.ACM Trans. Graph. 34, 4, 150:1--150:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925902&amp;ftid=1755841&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:12Z",
+            "timestamp": 1568162772000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925902",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

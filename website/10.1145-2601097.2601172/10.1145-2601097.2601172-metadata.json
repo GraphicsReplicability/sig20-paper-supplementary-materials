@@ -1,0 +1,320 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227101
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "EU FP7",
+                "award": [
+                    "323567, 290227"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601172",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Continuous projection for fastL1reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Reinhold",
+                "family": "Preiner",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Oliver",
+                "family": "Mattausch",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Murat",
+                "family": "Arikan",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Renato",
+                "family": "Pajarola",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Michael",
+                "family": "Wimmer",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601172-1",
+                "unstructured": "Alexa, M., Behr, J., Cohen-Or, D., Fleishman, S., Levin, D., and Silva, C. T. 2003. Computing and rendering point set surfaces.IEEE Transactions on Visualization and Computer Graphics 9, 1 (Jan.), 3--15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-2",
+                "unstructured": "Amenta, N., and Kil, Y. J. 2004. Defining point-set surfaces.ACM Trans. Graph. 23, 3 (Aug.), 264--270."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-3",
+                "unstructured": "Avron, H., Sharf, A., Greif, C., and Cohen-Or, D. 2010. L1-sparse reconstruction of sharp point set surfaces.ACM Trans. Graph. 29, 5 (Nov.), 135:1--135:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-4",
+                "unstructured": "Banerjee, A., Dhillon, I. S., Ghosh, J., and Sra, S. 2005. Clustering on the unit hypersphere using von mises-fisher distributions.J. Mach. Learn. Res. 6(Dec.), 1345--1382."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-5",
+                "unstructured": "Berger, M., Levine, J. A., Nonato, L. G., Taubin, G., and Silva, C. T. 2013. A benchmark for surface reconstruction.ACM Trans. Graph. 32, 2 (Apr.), 20:1--20:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-6",
+                "unstructured": "Boulch, A., and Marlet, R. 2012. Fast and robust normal estimation for point clouds with sharp features.Computer Graphics Forum 31, 5, 1765--1774.",
+                "DOI": "10.1111/j.1467-8659.2012.03181.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-7",
+                "unstructured": "Brown, B. J., and Rusinkiewicz, S. 2007. Global non-rigid alignment of 3-d scans.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-8",
+                "unstructured": "Carr, J. C., Beatson, R. K., Cherrie, J. B., Mitchell, T. J., Fright, W. R., McCallum, B. C., and Evans, T. R. 2001. Reconstruction and representation of 3d objects with radial basis functions. InProceedings of Conference on Computer graphics and interactive techniques, ACM, SIGGRAPH '01, 67--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-9",
+                "unstructured": "Dempster, A. P., Laird, N. M., and Rubin, D. B. 1977. Maximum likelihood from incomplete data via the em algorithm.Journal of the Royal Statistical Society Series B 39, 1, 1--38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-10",
+                "unstructured": "Dey, T. K., and Sun, J. 2006. Normal and feature approximations from noisy point clouds. InProceedings of Conference on Foundations of Software Technology and Theoretical Computer Science, vol. 4337 ofLecture Notes in Computer Science, 21--32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-11",
+                "unstructured": "Fleishman, S., Cohen-Or, D., and Silva, C. T. 2005. Robust moving least-squares fitting with sharp features.ACM Trans. Graph. 24, 3 (July), 544--552."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-12",
+                "unstructured": "Garcia, V., Nielsen, F., and Nock, R. 2010. Hierarchical Gaussian mixture model. InIEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).",
+                "DOI": "10.1109/ICASSP.2010.5495750",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-13",
+                "unstructured": "Hartley, R., Aftab, K., and Trumpf, J. 2011. L1 rotation averaging using the weiszfeld algorithm. InProceedings of IEEE Conference on Computer Vision and Pattern Recognition, CVPR '11, 3041--3048."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-14",
+                "unstructured": "Hoppe, H., DeRose, T., Duchamp, T., McDonald, J., and Stuetzle, W. 1992. Surface reconstruction from unorganized points. InProceedings of the 19th annual conference on Computer graphics and interactive techniques, ACM, SIGGRAPH '92, 71--78."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-15",
+                "unstructured": "Huang, H., Li, D., Zhang, H., Ascher, U., and Cohen-Or, D. 2009. Consolidation of unorganized point clouds for surface reconstruction.ACM Trans. Graph. 28, 5 (Dec.), 176:1--176:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-16",
+                "unstructured": "Izadi, S., Kim, D., Hilliges, O., Molyneaux, D., Newcombe, R., Kohli, P., Shotton, J., Hodges, S., Freeman, D., Davison, A., and Fitzgibbon, A. 2011. Kinect-fusion: real-time 3d reconstruction and interaction using a moving depth camera. InProceedings of Symposium on User Interface Software and Technology, ACM, UIST '11, 559--568."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-17",
+                "unstructured": "Jakob, W., Regg, C., and Jarosz, W. 2011. Progressive expectation--maximization for hierarchical volumetric photon mapping.Computer Graphics Forum 30, 4 (June).",
+                "DOI": "10.1111/j.1467-8659.2011.01988.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-18",
+                "unstructured": "Kalogerakis, E., Simari, P., Nowrouzezahrai, D., and Singh, K. 2007. Robust statistical estimation of curvature on discretized surfaces. InProceedings of the Eurographics Symposium on Geometry Processing, SGP '07, 13--22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-19",
+                "unstructured": "Kazhdan, M., and Hoppe, H. 2013. Screened poisson surface reconstruction.ACM Trans. Graph. 32, 3 (July), 29:1--29:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-20",
+                "unstructured": "Kazhdan, M., Bolitho, M., and Hoppe, H. 2006. Poisson surface reconstruction. InEurographics Symposium on Geometry Processing, SGP '06, 61--70."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-21",
+                "unstructured": "Li, B., Schnabel, R., Klein, R., Cheng, Z., Dang, G., and Shiyao, J. 2010. Robust normal estimation for point clouds with sharp features.Computers &#38; Graphics 34, 2 (Apr.), 94--106."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-22",
+                "unstructured": "Liao, B., Xiao, C., Jin, L., and Fu, H. 2013. Efficient feature-preserving local projection operator for geometry reconstruction.Computer-Aided Design 45, 5, 861--874.",
+                "DOI": "10.1016/j.cad.2013.02.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-23",
+                "unstructured": "Lipman, Y., Cohen-Or, D., Levin, D., and Tal-Ezer, H. 2007. Parameterization-free projection for geometry reconstruction.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-24",
+                "unstructured": "Mardia, K., and Jupp, P. 2009.Directional Statistics. Wiley Series in Probability and Statistics. Wiley."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-25",
+                "unstructured": "Oztireli, C., Guennebaud, G., and Gross, M. 2009. Feature preserving point set surfaces based on non-linear kernel regression.Computer Graphics Forum 28, 2.",
+                "DOI": "10.1111/j.1467-8659.2009.01388.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-26",
+                "unstructured": "Petersen, K. B., and Pedersen, M. S., 2012. The matrix cookbook, nov. Version 20121115."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-27",
+                "unstructured": "Preiner, R., Jeschke, S., and Wimmer, M. 2012. Auto Splats: Dynamic point cloud visualization on the GPU. InProceedings of Eurographics Symposium on Parallel Graphics and Visualization, 139--148."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-28",
+                "unstructured": "Vasconcelos, N. 1998. Learning mixture hierarchies. InProceedings of Advances in Neural Information Processing Systems, MIT Press, NIPS'98, 606--612."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-29",
+                "unstructured": "Walter, B., Bala, K., Kulkarni, M., and Pingali, K. 2008. Fast agglomerative clustering for rendering. InIEEE Symposium on Interactive Ray Tracing, 81--86."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-30",
+                "unstructured": "Zheng, Q., Sharf, A., Wan, G., Li, Y., Mitra, N. J., Cohen-Or, D., and Chen, B. 2010. Non-local scan consolidation for 3d urban scenes.ACM Trans. Graph. 29(July), 94:1--94:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601172-31",
+                "unstructured": "Zhou, K., Hou, Q., Wang, R., and Guo, B. 2008. Real-time kd-tree construction on graphics hardware.ACM Trans. Graph. 27, 5 (Dec.), 126:1--126:11."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601172&amp;ftid=1488856&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:07:58Z",
+            "timestamp": 1498151278000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601172",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

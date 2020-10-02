@@ -1,0 +1,74 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Binary continuous image decomposition for multi-view display <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Gou <span class="family">Koutaki</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925949">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://dl.acm.org/doi/pdf/10.1145/2897824.2925949?download=true">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://navi.cs.kumamoto-u.ac.jp/~koutaki/projects/BCID/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://navi.cs.kumamoto-u.ac.jp/~koutaki/projects/BCID/Supplementaly.zip">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://navi.cs.kumamoto-u.ac.jp/~koutaki/projects/BCID/winbin.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925949-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925949-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Virtual Reality</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: None</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   8</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>Although no makefiles nor build instructions are given, it is quite straightforward to compile -- in my case creating a Visual Studio 2017 solution, putting all files, and setting include an library paths for FFTW and OpenCV. Requires OpenCV libraries are opencv_imgproc412.lib;opencv_highgui412.lib;opencv_imgcodecs412.lib;opencv_core412.lib.
+To prevent a (known) opencv issue relating to 'ACCESS_MASK' being an ambiguous symbol in winnt.h, I had to #include <Windows.h> at the very first line of main.cpp.
+To activate OpenMP, in addition to addin openmp support in the visual studio configurations, you need to specify the preprocessor definition _OPENMP.
+In addition to the code, a compiled version (for Windows) is also provided. Both the code and the provided executable produce the same result on the given examples (those of Fig 8 and 6), and they correspond to the results shown in the paper. The archive containing the compiled files also contain batch files which are useful to see which parameters were used to produce the results (number of bits, iterations, etc.).
+Additional instructions on the hardware side are provided in a pdf document in the same folder as the code in supplementary materials.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,5,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

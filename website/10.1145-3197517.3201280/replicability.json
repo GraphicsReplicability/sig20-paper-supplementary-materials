@@ -1,0 +1,76 @@
+{
+    "Timestamp": "1/13/2020 16:32:28",
+    "Title": "Dynamic kelvinlets: secondary motions based on fundamental solutions of elastodynamics",
+    "DOI": "10.1145/3197517.3201280",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "http://graphics.pixar.com/library/DynaKelvinlets/code.zip",
+    "code URL  2": "",
+    "PDF URL": "https://graphics.pixar.com/library/DynaKelvinlets/paper.pdf",
+    "License type": "Pixar license permission granted for non-commercial use",
+    "Build mechanism": "Makefile, CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Procedural animation",
+    "ACM 2": "Physical simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The output format is .obj mesh files, can be read by many open source software. The authors provide a viewer as a  houdini plugin that can be used with the non-commercial version of houdini and runs smoothly. I was able to reproduce grid deformations similar to the ones in the paper, but not on meshes.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 5,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://graphics.pixar.com/library/DynaKelvinlets/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Fernando",
+            "family": "De Goes",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Pixar Animation Studios"
+                }
+            ]
+        },
+        {
+            "given": "Doug L.",
+            "family": "James",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Pixar Animation Studios and Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

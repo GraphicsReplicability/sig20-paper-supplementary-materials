@@ -1,0 +1,108 @@
+{
+    "Timestamp": "1/20/2020 12:15:19",
+    "Title": "Stereo magnification: learning view synthesis using multiplane images",
+    "DOI": "10.1145/3197517.3201323",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), CONTRIBUTING or explicitly mentions how to contribute to the code",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.09817",
+    "code URL": "https://github.com/google/stereo-magnification",
+    "code URL  2": "",
+    "PDF URL": "https://people.eecs.berkeley.edu/~tinghuiz/papers/siggraph18_mpi_lowres.pdf",
+    "License type": "Apache",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "Data: Creative Commons Attribution 4.0 International License.",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Neural networks",
+    "ACM 3": "Image-based rendering",
+    "ACM 4": "Virtual reality",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Needed to adapt a little to make it work with python3.6 and tensorflow (imports/print syntax corrections).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 43,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow",
+    "Project URL": "https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Tinghui",
+            "family": "Zhou",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Richard",
+            "family": "Tucker",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        },
+        {
+            "given": "John",
+            "family": "Flynn",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        },
+        {
+            "given": "Graham",
+            "family": "Fyffe",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        },
+        {
+            "given": "Noah",
+            "family": "Snavely",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Google"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

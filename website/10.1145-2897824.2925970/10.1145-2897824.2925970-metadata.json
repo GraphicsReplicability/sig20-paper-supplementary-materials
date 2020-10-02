@@ -1,0 +1,442 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:01:30Z",
+            "timestamp": 1574816490029
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Korea government (MSIP)",
+                "award": [
+                    "2014R1A2A1A01002871"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925970",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "SketchiMo"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Byungkuk",
+                "family": "Choi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Roger Blanco",
+                "family": "i Ribera",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "J. P.",
+                "family": "Lewis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weta Digital"
+                    }
+                ]
+            },
+            {
+                "given": "Yeongho",
+                "family": "Seol",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weta Digital"
+                    }
+                ]
+            },
+            {
+                "given": "Seokpyo",
+                "family": "Hong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Haegwang",
+                "family": "Eom",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Sunjin",
+                "family": "Jung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Junyong",
+                "family": "Noh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925970-1",
+                "unstructured": "Annett, M., Anderson, F., Bischof, W. F., and Gupta, A. 2014. The pen is mightier: Understanding stylus behaviour while inking on tablets. InProceedings of GI '14, 193--200."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-2",
+                "unstructured": "Assa, J., Caspi, Y., and Cohen-Or, D. 2005. Action synopsis: Pose selection and illustration.ACM Trans. Graph. 24, 3 (July), 667--676."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-3",
+                "unstructured": "Autodesk. Maya, MotionBuilder products. www.autodesk.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-4",
+                "unstructured": "Autodesk. Mudbox. www.autodesk.com/mudbox."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-5",
+                "unstructured": "Blender Foundation. Blender. www.blender.org."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-6",
+                "unstructured": "Boros&#225;n, P., Jin, M., DeCarlo, D., Gingold, Y., and Nealen, A. 2012. Rigmesh: Automatic rigging for part-based shape modeling and deformation.ACM Trans. Graph. 31, 6 (Nov.), 198:1--198:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-7",
+                "unstructured": "Brand, M., and Hertzmann, A. 2000. Style machines. InProceedings of SIGGRAPH '00, 183--192."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-8",
+                "unstructured": "Choi, M. G., Yang, K., Igarashi, T., Mitani, J., and Lee, J. 2012. Retrieval and visualization of human motion data via stick figures.Comput. Graph. Forum 31, 7pt1 (Sept.), 2057--2065."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-9",
+                "unstructured": "Coleman, P., Bibliowicz, J., Singh, K., and Gleicher, M. 2008. Staggered poses: A character motion representation for detail-preserving editing of pose and coordinated timing. InProceedings of SCA '08, 137--146."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-10",
+                "unstructured": "De Paoli, C., and Singh, K. 2015. Secondskin: Sketch-based construction of layered 3d models.ACM Trans. Graph. 34, 4 (July), 126:1--126:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-11",
+                "unstructured": "Gleicher, M. 1997. Motion editing with spacetime constraints. InProceedings of I3D '97, 139--148."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-12",
+                "unstructured": "Gleicher, M. 1998. Retargetting motion to new characters. InProceedings of SIGGRAPH '98, 33--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-13",
+                "unstructured": "Gleicher, M. 2001. Motion path editing. InProceedings of I3D '01, 195--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-14",
+                "unstructured": "Grochow, K., Martin, S. L., Hertzmann, A., and Popovi&#263;, Z. 2004. Style-based inverse kinematics.ACM Trans. Graph. 23, 3 (Aug.), 522--531."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-15",
+                "unstructured": "Guay, M., Cani, M.-P., and Ronfard, R. 2013. The line of action: An intuitive interface for expressive character posing.ACM Trans. Graph. 32, 6 (Nov.), 205:1--205:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-16",
+                "unstructured": "Guay, M., Ronfard, R., Gleicher, M., and Cani, M.-P. 2015. Adding dynamics to sketch-based character animations. InProceedings of SBIM '15, 27--34."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-17",
+                "unstructured": "Guay, M., Ronfard, R., Gleicher, M., and Cani, M.-P. 2015. Space-time sketching of character animation.ACM Trans. Graph. 34, 4 (July), 118:1--118:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-18",
+                "unstructured": "Hahn, F., Mutzel, F., Coros, S., Thomaszewski, B., Nitti, M., Gross, M., and Sumner, R. W. 2015. Sketch abstractions for character posing. InProceedings of SCA '15, 185--191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-19",
+                "unstructured": "Ho, E. S. L., Komura, T., and Tai, C.-L. 2010. Spatial relationship preserving character motion adaptation.ACM Trans. Graph. 29, 4 (July), 33:1--33:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-20",
+                "unstructured": "Hsu, E., Pulli, K., and Popovi&#263;, J. 2005. Style translation for human motion.ACM Trans. Graph. 24, 3 (July), 1082--1089."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-21",
+                "unstructured": "Hsu, E., da Silva, M., and Popovi&#263;, J. 2007. Guided time warping for motion editing. InProceedings of SCA '07, 45--52."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-22",
+                "unstructured": "Igarashi, T., Matsuoka, S., and Tanaka, H. 1999. Teddy: A sketching interface for 3d freeform design. InProceedings of SIGGRAPH '99, 409--416."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-23",
+                "unstructured": "Johnson, S. G., 2010. The nlopt nonlinear-optimization package. http://ab-initio.mit.edu/nlopt."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-24",
+                "unstructured": "Kho, Y., and Garland, M. 2005. Sketching mesh deformations.ACM Trans. Graph. 24, 3 (July), 934--934."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-25",
+                "unstructured": "Kim, M., Hyun, K., Kim, J., and Lee, J. 2009. Synchronized multi-character motion editing.ACM Trans. Graph. 28, 3 (July), 79:1--79:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-26",
+                "unstructured": "Lasseter, J. 1987. Principles of traditional animation applied to 3d computer animation.Comput. Graph. 21, 4 (Aug.), 35--44."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-27",
+                "unstructured": "Le Callennec, B., and Boulic, R. 2006. Robust kinematic constraint detection for motion data. InProceedings of SCA '06, 281--290."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-28",
+                "unstructured": "Lee, J., and Shin, S. Y. 1999. A hierarchical approach to interactive motion editing for human-like figures. InProceedings of SIGGRAPH '99, 39--48."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-29",
+                "unstructured": "Lee, J. 2008. Representing rotations and orientations in geometric computing.IEEE Comput. Graph. Appl. 28, 2 (Mar.), 75--83."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-30",
+                "unstructured": "Levi, Z., and Gotsman, C. 2013. ArtiSketch: A system for articulated sketch modeling.Comput. Graph. Forum 32, 2pt2 (May), 235--244."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-31",
+                "unstructured": "Lin, J., Igarashi, T., Mitani, J., and Saul, G. 2010. A sketching interface for sitting-pose design. InProceedings of SBIM '10, 111--118."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-32",
+                "unstructured": "McLaughlin, T., Cutler, L., and Coleman, D. 2011. Character rigging, deformations, and simulations in film and game production. InSIGGRAPH '11 Courses, 5:1--5:18."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-33",
+                "unstructured": "Mukai, T., and Kuriyama, S. 2009. Pose-timeline for propagating motion edits. InProceedings of SCA '09, 113--122."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-34",
+                "unstructured": "Nealen, A., Sorkine, O., Alexa, M., and Cohen-Or, D. 2005. A sketch-based interface for detail-preserving mesh editing.ACM Trans. Graph. 24, 3 (July), 1142--1147."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-35",
+                "unstructured": "Neff, M., and Fiume, E. 2003. Aesthetic edits for character animation. InProceedings of SCA '03, 239--244."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-36",
+                "unstructured": "Nocedal, J., and Wright, S. 2006.Numerical optimization.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-37",
+                "unstructured": "&#214;ztireli, A. C., Baran, I., Popa, T., Dalstein, B., Sumner, R. W., and Gross, M. 2013. Differential blending for expressive sketch-based posing. InProceedings of SCA '13, 155--164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-38",
+                "unstructured": "Pixologic. Zbrush. www.pixologic.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-39",
+                "unstructured": "Popovi&#263;, Z., and Witkin, A. 1999. Physically based motion transformation. InProceedings of SIGGRAPH '99, 11--20."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-40",
+                "unstructured": "Popovi&#263;, J., Seitz, S. M., and Erdmann, M. 2003. Motion sketching for control of rigid-body simulations.ACM Trans. Graph. 22, 4 (Oct.), 1034--1054."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-41",
+                "unstructured": "Rose, C., Cohen, M. F., and Bodenheimer, B. 1998. Verbs and adverbs: Multidimensional motion interpolation.IEEE Comput. Graph. Appl. 18, 5 (Sept.), 32--40."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-42",
+                "unstructured": "Schmid, J., Senn, M. S., Gross, M., and Sumner, R. W. 2011. Overcoat: An implicit canvas for 3d painting.ACM Trans. Graph. 30, 4 (July), 28:1--28:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-43",
+                "unstructured": "Shapiro, A., Cao, Y., and Faloutsos, P. 2006. Style components. InProceedings of GI '06, 33--39."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-44",
+                "unstructured": "Takayama, K., Panozzo, D., Sorkine-Hornung, A., and Sorkine-Hornung, O. 2013. Sketch-based generation and editing of quad meshes.ACM Trans. Graph. 32, 4 (July), 97:1--97:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-45",
+                "unstructured": "Tassa, Y., Erez, T., and Todorov, E. 2012. Synthesis and stabilization of complex behaviors through online trajectory optimization.Intelligent Robots and Systems(Oct.), 4906--4913."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-46",
+                "unstructured": "Terra, S. C. L., and Metoyer, R. A. 2004. Performance timing for keyframe animation. InProceedings of SCA '04, 253--258."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-47",
+                "unstructured": "Thorne, M., Burke, D., and van de Panne, M. 2004. Motion doodles: An interface for sketching character motion.ACM Trans. Graph. 23, 3 (Aug.), 424--431."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-48",
+                "unstructured": "Wang, J., Drucker, S. M., Agrawala, M., and Cohen, M. F. 2006. The cartoon animation filter.ACM Trans. Graph. 25, 3 (July), 1169--1173."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-49",
+                "unstructured": "Wei, X., and Chai, J. 2011. Intuitive interactive human-character posing with millions of example poses.IEEE Comput. Graph. Appl. 31, 4 (July), 78--88."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-50",
+                "unstructured": "Witkin, A., and Popovic, Z. 1995. Motion warping. InProceedings of SIGGRAPH '95, 105--108."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-51",
+                "unstructured": "Yoo, I., Vanek, J., Nizovtseva, M., Adamo-Villani, N., and Benes, B. 2014. Sketching human character animations by composing sequences from large motion database.Vis. Comput. 30, 2 (Feb.), 213--227."
+            },
+            {
+                "key": "key-10.1145/2897824.2925970-52",
+                "unstructured": "Yoo, I., Massih, M. A., Ziamtsov, I., Hassan, R., and Benes, B. 2015. Motion retiming by using bilateral time control surfaces.Computers &#38; Graphics 47, 59--67."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925970&amp;ftid=1755923&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2016,
+                    12,
+                    7
+                ]
+            ],
+            "date-time": "2016-12-07T05:06:59Z",
+            "timestamp": 1481087219000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "sketch-based motion editing for articulated characters"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925970",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

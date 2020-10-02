@@ -1,0 +1,366 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:01:35Z",
+            "timestamp": 1574816495092
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003725",
+                "name": "National Research Foundation of Korea",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2011-0018340"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925869",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Shadow theatre"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jungdam",
+                "family": "Won",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Jehee",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925869-1",
+                "unstructured": "Agarwal, A., and Triggs, B. 2004. 3d human pose from silhouettes by relevance vector regression. InComputer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings of the 2004 IEEE Computer Society Conference on, vol. 2, II-882--II-888 Vol. 2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-2",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. Scape: Shape completion and animation of people.ACM Transactions on Graphics, 408--416."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-3",
+                "unstructured": "Appel, A. 1968. Some techniques for shading machine renderings of solids. InProceedings of the April 30--May 2, 1968, Spring Joint Computer Conference, AFIPS '68 (Spring), 37--45.",
+                "DOI": "10.1145/1468075.1468082",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-4",
+                "unstructured": "Attraction. Attraction official website. http://www.attraction.hu/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-5",
+                "unstructured": "Bermano, A., Baran, I., Alexa, M., and Matusk, W. 2012. Shadowpix: Multiple images from self shadowing.Comp. Graph. Forum, 593--602."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-6",
+                "unstructured": "Crow, F. C. 1977. Shadow algorithms for computer graphics. InProceedings of the 4th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '77, 242--248.",
+                "DOI": "10.1145/563858.563901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-7",
+                "unstructured": "Davis, J., Agrawala, M., Chuang, E., Popovi&#263;, Z., and Salesin, D. 2003. A sketching interface for articulated figure animation. InProceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '03, 320--328."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-8",
+                "unstructured": "Ek, C., Torr, P., and Lawrence, N. 2008. Gaussian process latent variable models for human pose estimation. InMachine Learning for Multimodal Interaction, vol. 4892. 132--143.",
+                "DOI": "10.1007/978-3-540-78155-4_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-9",
+                "unstructured": "Fireflies. Fireflies official website. http://fireflies.com.ua/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-10",
+                "unstructured": "Gal, R., Sorkine, O., Popa, T., Sheffer, A., and Cohen-Or, D. 2007. 3d collage: Expressive non-realistic modeling. InProceedings of the 5th International Symposium on Non-photorealistic Animation and Rendering, NPAR '07, 7--14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-11",
+                "unstructured": "Goral, C. M., Torrance, K. E., Greenberg, D. P., and Battaile, B. 1984. Modeling the interaction of light between diffuse surfaces. InProceedings of the 11th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '84, 213--222.",
+                "DOI": "10.1145/964965.808601",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-12",
+                "unstructured": "Guan, P., Weiss, A., Balan, A., and Black, M. J. 2009. Estimating human shape and pose from a single image. InInt. Conf. on Computer Vision, ICCV, 1381--1388."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-13",
+                "unstructured": "Guay, M., Cani, M.-P., and Ronfard, R. 2013. The line of action: An intuitive interface for expressive character posing.ACM Transactions on Graphics 32, 205:1--205:8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-14",
+                "unstructured": "Hansen, N., and Ostermeier, A. 1996. Adapting arbitrary normal mutation distributions in evolution strategies: the covariance matrix adaptation. In Proceedings of IEEE InternationalConference on Evolutionary Computation, 312--317.",
+                "DOI": "10.1109/ICEC.1996.542381",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-15",
+                "unstructured": "Hausner, A. 2001. Simulating decorative mosaics. InProceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '01, 573--580.",
+                "DOI": "10.1145/383259.383327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-16",
+                "unstructured": "Igarashi, T., Moscovich, T., and Hughes, J. F. 2005. As-rigid-as-possible shape manipulation. SIGGRAPH '05, 1134--1141.",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-17",
+                "unstructured": "Jain, E., Sheikh, Y., and Hodgins, J. 2009. Leveraging the talent of hand animators to create three-dimensional animation. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '09, 93--102.",
+                "DOI": "10.1145/1599470.1599483",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-18",
+                "unstructured": "Jensen, H. W. 1996. Global illumination using photon maps. InProceedings of the Eurographics Workshop on Rendering Techniques '96, 21--30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-19",
+                "unstructured": "Kim, J., and Pellacini, F. 2002. Jigsaw image mosaics. InProceedings of the 29th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '02, 657--664.",
+                "DOI": "10.1145/566570.566633",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-20",
+                "unstructured": "Kim, M., Hwang, Y., Hyun, K., and Lee, J. 2012. Tiling motion patches. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '12, 117--126."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-21",
+                "unstructured": "Kry, P. G., James, D. L., and Pai, D. K. 2002. Eigenskin: Real time large deformation character skinning in hardware. InProceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA '02, 153--159."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-22",
+                "unstructured": "Lee, J., Chai, J., Reitsma, P. S. A., Hodgins, J. K., and Pollard, N. S. 2002. Interactive control of avatars animated with human motion data.ACM Transactions on Graphics (SIGGRAPH 2002) 21, 3, 491--500."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-23",
+                "unstructured": "Lee, S.-H., Sifakis, E., and Terzopoulos, D. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Transactions on Graphics 28, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-24",
+                "unstructured": "Lee, J. 2000.A Hierarchical Approach to Motion Analysis and Synthesis for Articulated Figures.PhD thesis, Department of Computer Science, Korea Advanced Institute of Science and Technology."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-25",
+                "unstructured": "Lin, J., Igarashi, T., Mitani, J., Liao, M., and He, Y. 2012. A sketching interface for sitting pose design in the virtual environment.IEEE Transactions on Visualization and Computer Graphics 18.",
+                "DOI": "10.1109/TVCG.2012.61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-26",
+                "unstructured": "Loper, M., Mahmood, N., Romero, J., Pons-Moll, G., and Black, M. J. 2015. SMPL: A skinned multi-person linear model.ACM Transactions on Graphics (SIGGRAPH Asia 2015) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-27",
+                "unstructured": "Magicplay. Magicplay official website. http://www.magicplay.co.kr/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-28",
+                "unstructured": "Mattausch, O., Igarashi, T., and Wimmer, M. 2013. Freeform shadow boundary editing. 175--184.",
+                "DOI": "10.1111/cgf.12037",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-29",
+                "unstructured": "Mitra, N. J., and Pauly, M. 2009. Shadow art.ACM Transactions on Graphics 28, 5."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-30",
+                "unstructured": "OGRE. Object-oriented graphics rendering engine. http://www.ogre3d.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-31",
+                "unstructured": "Pellacini, F., Tole, P., and Greenberg, D. P. 2002. A user interface for interactive cinematic shadow design. InProceedings of the 29th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '02, 563--566.",
+                "DOI": "10.1145/566570.566617",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-32",
+                "unstructured": "Poppe, R., and Poel, M. 2006. Comparison of silhouette shape descriptors for example-based human pose recovery. InAutomatic Face and Gesture Recognition, 2006. FGR 2006. 7th International Conference on, 541--546."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-33",
+                "unstructured": "Poppe, R. 2007. Evaluating example-based pose estimation: Experiments on the humaneva sets. InCVPR 2nd Workshop on Evaluation of Articulated Human Motion and Pose Estimation (EHuM2),."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-34",
+                "unstructured": "Ramakrishna, V., Kanade, T., and Sheikh, Y. 2012. Reconstructing 3d human pose from 2d image landmarks. InProceedings of the 12th European Conference on Computer Vision-Volume Part IV, 573--586."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-35",
+                "unstructured": "Shotton, J., Sharp, T., Kipman, A., Fitzgibbon, A., Finocchio, M., Blake, A., Cook, M., and Moore, R. 2013. Real-time human pose recognition in parts from single depth images.Commun. ACM 56, 116--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-36",
+                "unstructured": "SilhouetteSquad. Silhouette Squad official website. https://www.talentcult.com/SilhouetteSquad/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-37",
+                "unstructured": "Sminchisescu, C., and Telea, A. 2002. Human pose estimation from silhouettes, a consistent approach using distance level sets. InIn WSCG International Conference on Computer Graphics, Visualization and Computer Vision."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-38",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProceedings of the Fifth Eurographics Symposium on Geometry Processing, SGP '07, 109--116."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-39",
+                "unstructured": "Wei, X., and Chai, J. 2011. Intuitive interactive human-character posing with millions of example poses.IEEE Comput. Graph. Appl. 31, 78--88."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-40",
+                "unstructured": "Whitted, T. 1980. An improved illumination model for shaded display.Commun. ACM 23, 343--349."
+            },
+            {
+                "key": "key-10.1145/2897824.2925869-41",
+                "unstructured": "Williams, L. 1978. Casting curved shadows on curved surfaces. InProceedings of the 5th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH '78, 270--274.",
+                "DOI": "10.1145/800248.807402",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925869&amp;ftid=1755938&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:49:31Z",
+            "timestamp": 1568162971000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "discovering human motion from a sequence of silhouettes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925869",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

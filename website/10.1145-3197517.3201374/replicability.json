@@ -1,0 +1,97 @@
+{
+    "Timestamp": "1/19/2020 22:08:17",
+    "Title": "A high-performance software graphics pipeline architecture for the GPU",
+    "DOI": "10.1145/3197517.3201374",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "as a module/component of an existing opensource library/software",
+    "Main languages": "C/C++, Shader language",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/GPUPeople/cuRE",
+    "code URL  2": "",
+    "PDF URL": "https://www.markussteinberger.net/papers/cuRE.pdf",
+    "License type": "MIT",
+    "Build mechanism": "IDE Project (VS,..), Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Massively parallel algorithms",
+    "ACM 2": "Rasterization",
+    "ACM 3": "Graphics processors",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "To compile the software, a number of steps need to be performed:\n\n- In dependencies/image_tools/source/dds.cpp (line 11) and pfm.cpp (line 10) change \n#include <core/utils/io> to #include \"io.h\"\n\n- In pfm.cpp, line 32: change read(data(img) + w * (h - 1 - j), file, w); to read(file, data(img) + w * (h - 1 - j), w);\n- In dds.cpp, line 77: change return read(buffer, file, width * pixel_size); to return read(file, buffer, width * pixel_size);\n- In dds.cpp, line 83: change read(buffer + y * width * pixel_size, file, width * pixel_size); to read(file, buffer + y * width * pixel_size, width * pixel_size);\n- In dds.cpp, line 97: change read<char, 4>(magic_num, file); to  read<char, 4>(file, magic_num);\n\n- In dependencies/config_tools/include/configfile/Stream.h (line 15), Database.h (line 11), log.h (line 12), change\n#include <core/interface> to #include \"../../../core_tools/include/core/interface.h\"\n- in configfile.cpp, line 11: \nchange #include <core/utils/memory> to #include \"../../../core_tools/include/core/utils/memory.h\"\n- In source/cure/materials/OceanMaterial.cpp and source/cure/Geometry.cpp\nchange #include <core/utils/memory> to #include \"../build/dependencies/core_tools/include/core/utils/memory.h\"\n\n- In the library paths of cuREREnderer, add the path to CUPTI, which was for me:\nC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.2\\extras\\CUPTI\\lib64\n\n- In cure.vcxproj, cudaraster.vcxproj and freepipe.vcxproj, edit \n<Import Project=\"$(VCTargetsPath)\\BuildCustomizations\\CUDA 10.0.props\" />\nto your actual CUDA props path ; mine is:\n<Import Project=\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.2\\extras\\visual_studio_integration\\MSBuildExtensions\\CUDA 10.2.props\" />\nand same thing for the corresponding .targets.\n\nAfter that, the software compiles fine with Visual Studio and runs fine with my NVIDIA GeForce RTX 2080.\n\nHowever it has been tested with a Quadro M1000M (under Linux) and only the OpenGL renderer worked (probably the graphics card is not supported). There were no error message indicating why the different plugins could be loaded.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "CUDA",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Michael",
+            "family": "Kenzel",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graz University of Technology, Austria"
+                }
+            ]
+        },
+        {
+            "given": "Bernhard",
+            "family": "Kerbl",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Graz University of Technology, Austria"
+                }
+            ]
+        },
+        {
+            "given": "Dieter",
+            "family": "Schmalstieg",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Graz University of Technology, Austria"
+                }
+            ]
+        },
+        {
+            "given": "Markus",
+            "family": "Steinberger",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Graz University of Technology, Austria and Max Planck Institute for Informatics, Germany"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

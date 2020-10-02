@@ -1,0 +1,137 @@
+{
+    "Timestamp": "12/30/2019 2:58:08",
+    "Title": "An Interaction-Aware, Perceptual Model for Non-Linear Elastic Objects",
+    "DOI": "10.1145/2897824.2925885",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://cfg.mit.edu/sites/cfg.mit.edu/files/An-interaction-Aware-Perceptual-Model-for-Non-Linear-Elastic-Objects-Paper_0.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Physical simulation",
+    "ACM 2": "Perception",
+    "ACM 3": "User studies",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://pdf.mmci.uni-saarland.de/projects/ComplianceModel/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "Neither code nor experimental data is available. The corresponding experiment involves 20 subject performing 78 trials on various 3d printed blocks.",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Michal",
+            "family": "Piovar\u010di",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Saarland University, MMCI and Comenius University"
+                }
+            ]
+        },
+        {
+            "given": "David I. W.",
+            "family": "Levin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Disney Research"
+                }
+            ]
+        },
+        {
+            "given": "Jason",
+            "family": "Rebello",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard Unive"
+                }
+            ]
+        },
+        {
+            "given": "Desai",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Roman",
+            "family": "\u010eurikovi\u010d",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Comenius University"
+                }
+            ]
+        },
+        {
+            "given": "Hanspeter",
+            "family": "Pfister",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard Unive"
+                }
+            ]
+        },
+        {
+            "given": "Wojciech",
+            "family": "Matusik",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        },
+        {
+            "given": "Piotr",
+            "family": "Didyk",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Saarland University, MMCI and MPI Informatik"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

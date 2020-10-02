@@ -1,0 +1,264 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:49Z",
+            "timestamp": 1575507229103
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC",
+                "award": [
+                    "ShapeForge (StG-2012-307877)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601153",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 61,
+        "title": [
+            "Bridging the gap"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "J\u00e9r\u00e9mie",
+                "family": "Dumas",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Jean",
+                "family": "Hergel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601153-1",
+                "unstructured": "Alexander, P., Allen, S., and Dutta, D. 1998. Part orientation and build cost determination in layered manufacturing.Computer-Aided Design 30, 5, 343--356.",
+                "DOI": "10.1016/S0010-4485(97)00083-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-2",
+                "unstructured": "Allaire, G. 2006.Conception optimale de structures. Springer. ISBN 3-540-36710-1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-3",
+                "unstructured": "Allen, S., and Dutta, D. 1995. Determination and evaluation of support structures in layered manufacturing."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-4",
+                "unstructured": "Allison, J. W., Chen, T. P., Cohen, A. L., Smalley, D. R., Snead, D. E., and Vorgitch, T. J., 1988. Boolean layer comparison slice. US Patent 5854748, 3D Systems Inc."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-5",
+                "unstructured": "Chalasani, K., Jones, L., and Roscoe, L. 1995. Support generation for fused deposition modeling. InSolid Freeform Fabrication Symposium, 229--241."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-6",
+                "unstructured": "Cheng, W., Fuh, J., Nee, A., Wong, Y., Loh, H., and Miyazawa, T. 1995. Multi-objective optimization of part- building orientation in stereolithography.Rapid Prototyping Journal 1, 12--23.",
+                "DOI": "10.1108/13552549510104429",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-7",
+                "unstructured": "Eggers, G., and Renap, K., 2007. Method and apparatus for automatic support generation for an object made by means of a rapid prototype production method. US Patent 20100228369, Materialize."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-8",
+                "unstructured": "Frank, D., and Fadel, G. 1995. Expert system-based selection of the preferred direction of build for rapid prototyping processes.Journal of Intelligent Manufacturing 6, 5, 339--345.",
+                "DOI": "10.1007/BF00124677",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-9",
+                "unstructured": "Heide, E., 2011. Method for generating and building support structures with deposition-based digital manufacturing systems, 07. US Patent 20110178621 A1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-10",
+                "unstructured": "Huang, X., Ye, C., Mo, J., and Liu, H. 2009. Slice data based support generation algorithm for fused deposition modeling.Tsinghua Science and Technology 14, S1, 223--228.",
+                "DOI": "10.1016/S1007-0214(09)70096-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-11",
+                "unstructured": "Huang, X., Ye, C., Wu, S., Guo, K., and Mo, J. 2009. Sloping wall structure support generation for fused deposition modeling.The International Journal of Advanced Manufacturing Technology 42, 11--12, 1074--1081.",
+                "DOI": "10.1007/s00170-008-1675-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-12",
+                "unstructured": "Kritchman, E., Gothait, H., and Miller, G., 2008. System and method for printing and supporting three dimensional objects, 04. US Patent 7364686."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-13",
+                "unstructured": "Majhi, J., Janardan, R., Smid, M., and Gupta, P. 1999. On some geometric optimization problems in layered manufacturing.Computational Geometry 12, 34, 219--239.",
+                "DOI": "10.1016/S0925-7721(99)00002-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-14",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing shapes for 3D fabrication.ACM Transactions on Graphics 32, 4, to appear.",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-15",
+                "unstructured": "Smith, J., Hodgins, J. K., Oppenheim, I., and Witkin, A. 2002. Creating models of truss structures with optimization.ACM Transactions on Graphics 21, 1.",
+                "DOI": "10.1145/566654.566580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-16",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N. A., and Mech, R. 2012. Stress relief: improving structural strength of 3d printable objects.ACM Transactions on Graphics 31, 4, 48."
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-17",
+                "unstructured": "Strano, G., Hao, L., Everson, R., and Evans, K. 2013. A new approach to the design and optimisation of support structures in additive manufacturing.The International Journal of Advanced Manufacturing Technology 66, 9--12, 1247--1254.",
+                "DOI": "10.1007/s00170-012-4403-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601153-18",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3d objects with skin-frame structures.ACM Transactions on Graphics 32, 5.",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601153&amp;ftid=1488906&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:19Z",
+            "timestamp": 1565663719000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "automated steady scaffoldings for 3D printing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601153",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808454
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "N00014-12-1-0259"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601205",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 57,
+        "title": [
+            "Image completion using planar structure guidance"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jia-Bin",
+                "family": "Huang",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Sing Bing",
+                "family": "Kang",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Narendra",
+                "family": "Ahuja",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Johannes",
+                "family": "Kopf",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601205-1",
+                "unstructured": "Aiger, D., Cohen-Or, D., and Mitra, N. J. 2012. Repetition maximization based texture rectification.Computer Graphics Forum (EUROGRAPHICS) 31, 2pt2, 439--448.",
+                "DOI": "10.1111/j.1467-8659.2012.03023.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-2",
+                "unstructured": "Ballester, C., Bertalmio, M., Caselles, V., Sapiro, G., and Verdera, J. 2001. Filling-in by joint interpolation of vector fields and gray levels.IEEE TIP 10, 8, 1200--1211."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-3",
+                "unstructured": "Barinova, O., Konushin, V., Yakubenko, A., Lee, K., Lim, H., and Konushin, A. 2008. Fast automatic single-view 3-d reconstruction of urban scenes. InECCV.",
+                "DOI": "10.1007/978-3-540-88688-4_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-4",
+                "unstructured": "Barnes, C., Shechtman, E., Finkelstein, A., and Goldman, D. 2009. PatchMatch: a randomized correspondence algorithm for structural image editing.ACM Trans. on Graphics (Proc. of Siggraph) 28, 3, 24."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-5",
+                "unstructured": "Bertalmio, M., Sapiro, G., Caselles, V., and Ballester, C. 2000. Image inpainting.ACM Trans. on Graphics (Proc. of Siggraph) 19, 3, 417--424."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-6",
+                "unstructured": "Bertalmio, M., Vese, L., Sapiro, G., and Osher, S. 2003. Simultaneous structure and texture image inpainting.IEEE TIP 12, 8, 882--889."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-7",
+                "unstructured": "Chum, O., and Matas, J. 2010. Planar affine rectification from change of scale. InACCV."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-8",
+                "unstructured": "Comaniciu, D., and Meer, P. 2002. Mean Shift: A robust approach toward feature space analysis.IEEE TPAMI 24, 5, 603--619.",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-9",
+                "unstructured": "Criminisi, A., P&#233;rez, P., and Toyama, K. 2004. Region filling and object removal by exemplar-based image inpainting.IEEE TIP 13, 9, 1200--1212."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-10",
+                "unstructured": "Darabi, S., Shechtman, E., Barnes, C., Goldman, D. B., and Sen, P. 2012. Image Melding: Combining Inconsistent Images using Patch-based Synthesis.ACM Trans. on Graphics (Proc. of Siggraph) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-11",
+                "unstructured": "Efros, A. A., and Freeman, W. T. 2001. Image quilting for texture synthesis and transfer.ACM Trans. on Graphics (Proc. of Siggraph) 20, 3, 341--346."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-12",
+                "unstructured": "Efros, A. A., and Leung, T. K. 1999. Texture synthesis by non-parametric sampling. InICCV.",
+                "DOI": "10.1109/ICCV.1999.790383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-13",
+                "unstructured": "Hartley, R. I., and Zisserman, A. 2004.Multiple View Geometry in Computer Vision, second ed. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511811685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-14",
+                "unstructured": "Hays, J., and Efros, A. A. 2007. Scene completion using millions of photographs.ACM Trans. on Graphics (Proc. of Siggraph) 26, 3, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-15",
+                "unstructured": "He, K., and Sun, J. 2012. Statistics of patch offsets for image completion. InECCV.",
+                "DOI": "10.1007/978-3-642-33709-3_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-16",
+                "unstructured": "Hertzmann, A., Jacobs, C. E., Oliver, N., Curless, B., and Salesin, D. H. 2001. Image analogies.ACM Trans. on Graphics (Proc. of Siggraph) 20, 3, 327--340."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-17",
+                "unstructured": "Huang, H., K. Yin, Gong, M., Lischinski, D., Cohen-Or, D., Ascher, U., and Chen, B. 2013. Mind the gap: Tele-registration for structure-driven image completion.ACM Trans. on Graphics (Proc. of Siggraph Asia) 32, 174:1--174:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-18",
+                "unstructured": "Huang, J.-B., Kopf, J., Ahuja, N., and Kang, S. B. 2013. Transformation guided image completion. InICCP.",
+                "DOI": "10.1109/ICCPhot.2013.6528313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-19",
+                "unstructured": "Jia, J., and Tang, C. 2003. Image repairing: Robust image synthesis by adaptive nd tensor voting. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-20",
+                "unstructured": "Komodakis, N., and Tziritas, G. 2007. Image completion using efficient belief propagation via priority scheduling and dynamic pruning.IEEE TIP 16, 11, 2649--2661."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-21",
+                "unstructured": "Kopf, J., Kienzle, W., Drucker, S., and Kang, S. B. 2012. Quality prediction for image completion.ACM Trans. on Graphics (Proc. of Siggraph Asia) 31, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-22",
+                "unstructured": "Kwatra, V., Essa, I., Bobick, A., and Kwatra, N. 2005. Texture optimization for example-based synthesis.ACM Trans. on Graphics (Proc. of Siggraph) 24, 3, 795--802."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-23",
+                "unstructured": "Liu, Y., Lin, W.-C., and Hays, J. 2004. Near-regular texture analysis and manipulation.ACM Trans. on Graphics (Proc. of Siggraph) 23, 3, 368--376."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-24",
+                "unstructured": "Liu, Y., Hel-Or, H., and Kaplan, C. 2010.Computational symmetry in computer vision and computer graphics. Now Publishers."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-25",
+                "unstructured": "Lowe, D. G. 2004. Distinctive image features from scale-invariant keypoints.International Journal of Computer Vision 60, 2, 91--110.",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-26",
+                "unstructured": "Mansfield, A., Prasad, M., Rother, C., Sharp, T., Kohli, P., and Van Gool, L. 2011. Transforming image completion. InBMVC.",
+                "DOI": "10.5244/C.25.121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-27",
+                "unstructured": "Pavi&#263;, D., Sch&#246;nefeld, V., and Kobbelt, L. 2006. Interactive image completion with perspective correction.The Visual Computer 22, 9, 671--681."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-28",
+                "unstructured": "Pritch, Y., Kav-Venaki, E., and Peleg, S. 2009. Shift-map image editing. InICCV.",
+                "DOI": "10.1109/ICCV.2009.5459159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-29",
+                "unstructured": "Sun, J., Yuan, L., Jia, J., and Shum, H. 2005. Image completion with structure propagation.ACM Trans. on Graphics (Proc. of Siggraph) 24, 3, 861--868."
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-30",
+                "unstructured": "Wexler, Y., Shechtman, E., and Irani, M. 2007. Space-time completion of video.IEEE TPAMI 29, 3, 463--476.",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-31",
+                "unstructured": "Whyte, O., Sivic, J., and Zisserman, A. 2009. Get out of my picture! internet-based inpainting. InBMVC.",
+                "DOI": "10.5244/C.23.116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-32",
+                "unstructured": "Zhang, Z., Ganesh, A., Liang, X., and Ma, Y. 2012. TILT: transform invariant low-rank textures.International Journal of Computer Vision 99, 1, 1--24.",
+                "DOI": "10.1007/s11263-012-0515-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601205-33",
+                "unstructured": "Zhang, Y., Xiao, J., Hays, J., and Tan, P. 2013. FrameBreak: Dramatic image extrapolation by guided shift-maps. InCVPR.",
+                "DOI": "10.1109/CVPR.2013.155",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601205&amp;ftid=1488938&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:46Z",
+            "timestamp": 1565663746000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601205",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

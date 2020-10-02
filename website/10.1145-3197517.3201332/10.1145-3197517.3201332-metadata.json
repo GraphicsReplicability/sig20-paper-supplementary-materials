@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813683
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201332",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Neural best-buddies"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kfir",
+                "family": "Aberman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Jing",
+                "family": "Liao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research Asia"
+                    }
+                ]
+            },
+            {
+                "given": "Mingyi",
+                "family": "Shi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University and Peking University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201332-1",
+                "unstructured": "Connelly Barnes, Eli Shechtman, Adam Finkelstein, and Dan B Goldman. 2009. Patch-Match: A randomized correspondence algorithm for structural image editing.ACM Transactions on Graphics (TOG)28, 3 (2009), Article no. 24."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-2",
+                "unstructured": "Connelly Barnes, Eli Shechtman, Dan B Goldman, and Adam Finkelstein. 2010. The generalized patchmatch correspondence algorithm. InProc. ECCV.Springer, 29--43."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-3",
+                "unstructured": "Herbert Bay, Tinne Tuytelaars, and Luc Van Gool. 2006. Surf: Speeded up robust features.Computer vision-ECCV 2006(2006), 404--417."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-4",
+                "unstructured": "Peter N Belhumeur, David W Jacobs, David J Kriegman, and Neeraj Kumar. 2013. Localizing parts of faces using a consensus of exemplars.IEEE Transactions on Pattern Analysis and Machine Intelligence35, 12 (2013), 2930--2940."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-5",
+                "unstructured": "Martin Benning, Michael M&#246;ller, Raz Z Nossek, Martin Burger, Daniel Cremers, Guy Gilboa, and Carola-Bibiane Sch&#246;nlieb. 2017. Nonlinear Spectral Image Fusion. InInternational Conference on Scale Space and Variational Methods in Computer Vision.Springer, 41--53.",
+                "DOI": "10.1007/978-3-319-58771-4_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-6",
+                "unstructured": "Martin Bichsel. 1996. Automatic interpolation and recognition of face images by morphing. InProc. Second International Conference on Automatic Face and Gesture Recognition.IEEE, 128--135.",
+                "DOI": "10.1109/AFGR.1996.557254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-7",
+                "unstructured": "Dmitri Bitouk, Neeraj Kumar, Samreen Dhillon, Peter Belhumeur, and Shree K Nayar. 2008. Face swapping: automatically replacing faces in photographs.ACM Transactions on Graphics (TOG)27, 3 (2008), 39.",
+                "DOI": "10.1145/1399504.1360638",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-8",
+                "unstructured": "Christopher B Choy, JunYoung Gwak, Silvio Savarese, and Manmohan Chandraker. 2016. Universal correspondence network. InAdvances in Neural Information Processing Systems.2414--2422."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-9",
+                "unstructured": "Tali Dekel, Shaul Oron, Michael Rubinstein, Shai Avidan, and William T Freeman. 2015. Best-buddies similarity for robust template matching. InProc. CVPR.IEEE, 2021--2029.",
+                "DOI": "10.1109/CVPR.2015.7298813",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-10",
+                "unstructured": "Philipp Fischer, Alexey Dosovitskiy, and Thomas Brox. 2014. Descriptor matching with convolutional neural networks: a comparison to sift.arXiv preprint arXiv:1405.5769(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-11",
+                "unstructured": "Leon A Gatys, Alexander S Ecker, and Matthias Bethge. 2015. A neural algorithm of artistic style.arXiv preprint arXiv:1508.06576(2015)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-12",
+                "unstructured": "Georgia Gkioxari, Bharath Hariharan, Ross Girshick, and Jitendra Malik. 2014. Using k-poselets for detecting people and localizing their keypoints. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.3582--3589.",
+                "DOI": "10.1109/CVPR.2014.458",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-13",
+                "unstructured": "Yoav HaCohen, Eli Shechtman, Dan B Goldman, and Dani Lischinski. 2011. Non-rigid dense correspondence with applications for image enhancement.ACM transactions on graphics (TOG)30, 4 (2011), 70."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-14",
+                "unstructured": "Bumsub Ham, Minsu Cho, Cordelia Schmid, and Jean Ponce. 2016. Proposal flow. InProc. CVPR.IEEE, 3475--3484.",
+                "DOI": "10.1109/CVPR.2016.378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-15",
+                "unstructured": "Chris Harris and Mike Stephens. 1988. A combined corner and edge detector.. InProc. Alvey Vision Conference, Vol. 15. Manchester, UK, 10--5244.",
+                "DOI": "10.5244/C.2.23",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-16",
+                "unstructured": "Hui Huang, Kangxue Yin, Minglun Gong, Dani Lischinski, Daniel Cohen-Or, Uri M Ascher, and Baoquan Chen. 2013. \"Mind the gap\": tele-registration for structure-driven image completion.ACM Trans. Graph.32, 6 (2013), 174--1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-17",
+                "unstructured": "Xun Huang and Serge Belongie. 2017. Arbitrary style transfer in real-time with adaptive instance normalization.arXiv preprint arXiv:1703.06868(2017).",
+                "DOI": "10.1109/ICCV.2017.167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-18",
+                "unstructured": "Justin Johnson, Alexandre Alahi, and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. InProc. ECCV.Springer, 694--711.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-19",
+                "unstructured": "Seungryong Kim, Dongbo Min, Bumsub Ham, Sangryul Jeon, Stephen Lin, and Kwanghoon Sohn. 2017. FCSS: Fully convolutional self-similarity for dense semantic correspondence.arXiv preprint arXiv:1702.00926(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-20",
+                "unstructured": "Iryna Korshunova, Wenzhe Shi, Joni Dambre, and Lucas Theis. 2016. Fast face-swap using convolutional neural networks.arXiv preprint arXiv:1611.09577(2016).",
+                "DOI": "10.1109/ICCV.2017.397",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-21",
+                "unstructured": "Marek Kowalski, Jacek Naruniec, and Tomasz Trzcinski. 2017. Deep Alignment Network: A convolutional neural network for robust face alignment.arXiv preprint arXiv:1706.01789(2017).",
+                "DOI": "10.1109/CVPRW.2017.254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-22",
+                "unstructured": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in neural information processing systems.1097--1105."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-23",
+                "unstructured": "Ting-ting Li, Bo Jiang, Zheng-zheng Tu, Bin Luo, and Jin Tang. 2015. Image matching using mutual k-nearest neighbor graph. InInternational Conference of Young Computer Scientists, Engineers and Educators.Springer, 276--283.",
+                "DOI": "10.1007/978-3-662-46248-5_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-24",
+                "unstructured": "Jing Liao, Rodolfo S Lima, Diego Nehab, Hugues Hoppe, Pedro V Sander, and Jinhui Yu. 2014. Automating image morphing using structural similarity on a halfway domain.ACM Transactions on Graphics (TOG)33, 5 (2014), 168."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-25",
+                "unstructured": "Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, and Sing Bing Kang. 2017. Visual Attribute Transfer Through Deep Image Analogy.ACM Trans. Graph.36, 4, Article 120 (July 2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073683",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-26",
+                "unstructured": "Tony Lindeberg. 2015. Image matching using generalized scale-space interest points.Journal of Mathematical Imaging and Vision52, 1 (2015), 3--36.",
+                "DOI": "10.1007/s10851-014-0541-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-27",
+                "unstructured": "Ce Liu, Jenny Yuen, and Antonio Torralba. 2011. Sift flow: Dense correspondence across scenes and its applications.IEEE Transactions on Pattern Analysis and Machine Intelligence33, 5 (2011), 978--994.",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-28",
+                "unstructured": "Jonathan L Long, Ning Zhang, and Trevor Darrell. 2014. Do convnets learn correspondence?. InAdvances in Neural Information Processing Systems.1601--1609."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-29",
+                "unstructured": "David G Lowe. 2004. Distinctive image features from scale-invariant keypoints.International Journal of Computer Vision60, 2 (2004), 91--110.",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-30",
+                "unstructured": "Aravindh Mahendran and Andrea Vedaldi. 2015. Understanding deep image representations by inverting them. InProceedings of the IEEE conference on computer vision and pattern recognition.5188--5196.",
+                "DOI": "10.1109/CVPR.2015.7299155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-31",
+                "unstructured": "Aude Oliva, Antonio Torralba, and Philippe G Schyns. 2006. Hybrid images. InACM Transactions on Graphics (TOG), Vol. 25. ACM, 527--532."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-32",
+                "unstructured": "Patrick P&#233;rez, Michel Gangnet, and Andrew Blake. 2003. Poisson image editing. InACM Transactions on graphics (TOG), Vol. 22. ACM, 313--318.",
+                "DOI": "10.1145/1201775.882269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-33",
+                "unstructured": "Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li Fei-Fei. 2015. ImageNet large scale visual recognition challenge.International Journal of Computer Vision115, 3 (Dec 2015), 211--252.",
+                "DOI": "10.1007/s11263-015-0816-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-34",
+                "unstructured": "Scott Schaefer, Travis McPhail, and Joe Warren. 2006. Image deformation using moving least squares.ACM transactions on graphics (TOG)25, 3 (2006), 533--540."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-35",
+                "unstructured": "Eli Shechtman, Alex Rav-Acha, Michal Irani, and Steve Seitz. 2010. Regenerative morphing. InComputer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on.IEEE, 615--622.",
+                "DOI": "10.1109/CVPR.2010.5540159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-36",
+                "unstructured": "Edgar Simo-Serra, Eduard Trulls, Luis Ferraz, Iasonas Kokkinos, Pascal Fua, and Francesc Moreno-Noguer. 2015. Discriminative learning of deep convolutional feature point descriptors. InProc. ICCV.IEEE, 118--126.",
+                "DOI": "10.1109/ICCV.2015.22",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-37",
+                "unstructured": "Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman. 2014. Learning local feature descriptors using convex optimisation.IEEE Transactions on Pattern Analysis and Machine Intelligence36, 8 (2014), 1573--1585.",
+                "DOI": "10.1109/TPAMI.2014.2301163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-38",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition.arXiv preprint arXiv:1409.1556(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-39",
+                "unstructured": "Itamar Talmi, Roey Mechrez, and Lihi Zelnik-Manor. 2017. Template Matching with Deformable Diversity Similarity. InProc. CVPR.IEEE.",
+                "DOI": "10.1109/CVPR.2017.144",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-40",
+                "unstructured": "Engin Tola, Vincent Lepetit, and Pascal Fua. 2010. Daisy: An efficient dense descriptor applied to wide-baseline stereo.IEEE transactions on pattern analysis and machine intelligence32, 5 (2010), 815--830.",
+                "DOI": "10.1109/TPAMI.2009.77",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-41",
+                "unstructured": "Nikolai Ufer and Bjorn Ommer. 2017. Deep semantic feature matching. InProc. CVPR.IEEE, 5929--5938.",
+                "DOI": "10.1109/CVPR.2017.628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-42",
+                "unstructured": "Zhou Wang, Alan C Bovik, Hamid R Sheikh, and Eero P Simoncelli. 2004. Image quality assessment: from error visibility to structural similarity.IEEE Transactions on Image Processing13, 4 (2004), 600--612.",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-43",
+                "unstructured": "Philippe Weinzaepfel, Jerome Revaud, Zaid Harchaoui, and Cordelia Schmid. 2013. DeepFlow: Large displacement optical flow with deep matching. InProc. ICCV.1385--1392.",
+                "DOI": "10.1109/ICCV.2013.175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-44",
+                "unstructured": "George Wolberg. 1998. Image morphing: a survey.The Visual Computer14, 8 (1998), 360--372.",
+                "DOI": "10.1007/s003710050148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-45",
+                "unstructured": "Yu Xiang, Roozbeh Mottaghi, and Silvio Savarese. 2014. Beyond pascal: A benchmark for 3d object detection in the wild. InProc. WACV.IEEE, 75--82.",
+                "DOI": "10.1109/WACV.2014.6836101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-46",
+                "unstructured": "Hongsheng Yang, Wen-Yan Lin, and Jiangbo Lu. 2014. Daisy filter flow: A generalized discrete approach to dense correspondences. InProc. CVPR.3406--3413.",
+                "DOI": "10.1109/CVPR.2014.435",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-47",
+                "unstructured": "Jason Yosinski, Jeff Clune, Anh Mai Nguyen, Thomas J. Fuchs, and Hod Lipson. 2015. Understanding Neural Networks Through Deep Visualization.CoRRabs/1506.06579 (2015). arXiv: 1506.06579 http://arxiv.org/abs/1506.06579"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-48",
+                "unstructured": "Matthew D. Zeiler and Rob Fergus. 2013. Visualizing and Understanding Convolutional Networks.CoRRabs/1311.2901 (2013). arXiv:1311.2901 http://arxiv.org/abs/1311.2901"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-49",
+                "unstructured": "Tinghui Zhou, Yong Jae Lee, Stella X Yu, and Alyosha A Efros. 2015. Flowweb: Joint image set alignment by weaving consistent, pixel-wise correspondences. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.1191--1200."
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-50",
+                "unstructured": "Tinghui Zhou, Philipp Krahenbuhl, Mathieu Aubry, Qixing Huang, and Alexei A Efros. 2016. Learning dense correspondence via 3d-guided cycle consistency. InProc. CVPR.117--126.",
+                "DOI": "10.1109/CVPR.2016.20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201332-51",
+                "unstructured": "Shizhan Zhu, Cheng Li, Chen Change Loy, and Xiaoou Tang. 2015. Face alignment by coarse-to-fine shape searching. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition.4998--5006.",
+                "DOI": "10.1109/CVPR.2015.7299134",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201332&ftid=1991588&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:48:32Z",
+            "timestamp": 1571672912000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "sparse cross-domain correspondence"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201332",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

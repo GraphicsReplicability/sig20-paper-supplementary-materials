@@ -1,0 +1,322 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228532
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601208",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "VideoSnapping"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Oliver",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Christopher",
+                "family": "Schroers",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Henning",
+                "family": "Zimmer",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Alexander",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601208-1",
+                "unstructured": "Agarwala, A., Zheng, K. C., Pal, C., Agrawala, M., Cohen, M. F., Curless, B., Salesin, D., and Szeliski, R. 2005. Panoramic video textures.ACM Trans. Graph. 24, 3, 821--827.",
+                "DOI": "10.1145/1073204.1073268",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-2",
+                "unstructured": "Baker, S., and Matthews, I. 2004. Lucas-kanade 20 years on: A unifying framework.IJCV 56, 3, 221--255.",
+                "DOI": "10.1023/B:VISI.0000011205.11775.fd",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-3",
+                "unstructured": "Baker, S., Scharstein, D., Lewis, J. P., Roth, S., Black, M. J., and Szeliski, R. 2011. A database and evaluation methodology for optical flow.IJCV 92, 1, 1--31.",
+                "DOI": "10.1007/s11263-010-0390-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-4",
+                "unstructured": "Bloom, V., Makris, D., and Argyriou, V. 2012. G3d: A gaming action dataset and real time action recognition evaluation framework. InCVPR Workshops, 7--12.",
+                "DOI": "10.1109/CVPRW.2012.6239175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-5",
+                "unstructured": "Bryan, N. J., Smaragdis, P., and Mysore, G. J. 2012. Clustering and synchronizing multi-camera video via landmark cross-correlation. InICASSP, 2389--2392."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-6",
+                "unstructured": "Caspi, Y., and Irani, M. 2002. Spatio-temporal alignment of sequences.IEEE TPAMI 24, 11, 1409--1424.",
+                "DOI": "10.1109/TPAMI.2002.1046148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-7",
+                "unstructured": "Diego, F., Ponsa, D., Serrat, J., and L&#243;pez, A. M. 2011. Video alignment for change detection.IEEE Transactions on Image Processing 20, 7, 1858--1869."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-8",
+                "unstructured": "Diego, F., Serrat, J., and L&#243;pez, A. M. 2013. Joint spatio-temporal alignment of sequences.IEEE Transactions on Multimedia 15, 6, 1377--1387."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-9",
+                "unstructured": "Dijkstra, E. W. 1959. A note on two problems in connexion with graphs.Numerische Mathematik 1, 269--271.",
+                "DOI": "10.1007/BF01386390",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-10",
+                "unstructured": "Evangelidis, G. D., and Bauckhage, C. 2013. Efficient subframe video alignment using short descriptors.IEEE TPAMI 35, 10, 2371--2386.",
+                "DOI": "10.1109/TPAMI.2013.56",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-11",
+                "unstructured": "Jiang, Y.-G., Ngo, C.-W., and Yang, J. 2007. Towards optimal bag-of-features for object categorization and semantic video retrieval. InCIVR, 494--501."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-12",
+                "unstructured": "Kang, S. B., Uyttendaele, M., Winder, S. A. J., and Szeliski, R. 2003. High dynamic range video.ACM Trans. Graph. 22, 3, 319--325.",
+                "DOI": "10.1145/882262.882270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-13",
+                "unstructured": "Li, R., and Chellappa, R. 2010. Aligning spatio-temporal signals on a special manifold. InECCV (5), 547--560."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-14",
+                "unstructured": "Liu, C., Yuen, J., and Torralba, A. 2011. Sift flow: Dense correspondence across scenes and its applications.IEEE TPAMI 33, 5, 978--994.",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-15",
+                "unstructured": "Lowe, D. G. 1999. Object recognition from local scale-invariant features. InICCV, 1150--1157."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-16",
+                "unstructured": "Ngo, C.-W., Ma, Y.-F., and Zhang, H. 2005. Video summarization and scene detection by graph modeling.IEEE Trans. Circuits Syst. Video Techn. 15, 2, 296--305.",
+                "DOI": "10.1109/TCSVT.2004.841694",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-17",
+                "unstructured": "P&#225;dua, F. L. C., Carceroni, R. L., Santos, G. A. M. R., and Kutulakos, K. N. 2010. Linear sequence-to-sequence alignment.IEEE TPAMI 32, 2, 304--320."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-18",
+                "unstructured": "Prim, R. C. 1957. Shortest connection networks and some generalizations.Bell system technical journal 36, 6, 1389--1401.",
+                "DOI": "10.1002/j.1538-7305.1957.tb01515.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-19",
+                "unstructured": "Rao, C., Gritai, A., Shah, M., and Syeda-Mahmood, T. F. 2003. View-invariant alignment and matching of video sequences. InICCV, 939--945."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-20",
+                "unstructured": "R&#252;egg, J., Wang, O., Smolic, A., and Gross, M. H. 2013. Ducttake: Spatiotemporal video compositing.Comput. Graph. Forum 32, 2, 51--61."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-21",
+                "unstructured": "Sand, P., and Teller, S. J. 2004. Video matching.ACM Trans. Graph. 23, 3, 592--599.",
+                "DOI": "10.1145/1015706.1015765",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-22",
+                "unstructured": "Scharstein, D., and Szeliski, R. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms.IJCV 47, 1--3, 7--42."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-23",
+                "unstructured": "Shrestha, P., Barbieri, M., and Weda, H. 2007. Synchronization of multi-camera video recordings based on audio. InACM Multimedia, 545--548."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-24",
+                "unstructured": "Summa, B., Tierny, J., and Pascucci, V. 2012. Panorama weaving: fast and flexible seam processing.ACM Trans. Graph. 31, 4, 83."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-25",
+                "unstructured": "Ukrainitz, Y., and Irani, M. 2006. Aligning sequences and actions by maximizing space-time correlations. InECCV (3), 538--550."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-26",
+                "unstructured": "Vedaldi, A., and Fulkerson, B., 2008. VLFeat: An open and portable library of computer vision algorithms."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-27",
+                "unstructured": "Y&#252;cer, K., Jacobson, A., Hornung, A., and Sorkine, O. 2012. Transfusive image manipulation.ACM Trans. Graph. 31, 6, 176."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-28",
+                "unstructured": "Zhou, F., and la Torre, F. D. 2009. Canonical time warping for alignment of human behavior. InNIPS, 2286--2294."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-29",
+                "unstructured": "Zhou, F., and la Torre, F. D. 2012. Generalized time warping for multi-modal alignment of human motion. InCVPR, 1282--1289."
+            },
+            {
+                "key": "key-10.1145/2601097.2601208-30",
+                "unstructured": "Zimmer, H., Bruhn, A., and Weickert, J. 2011. Optic flow in harmony.IJCV 93, 3, 368--388.",
+                "DOI": "10.1007/s11263-011-0422-6",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601208&amp;ftid=1488885&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:57Z",
+            "timestamp": 1565663697000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "interactive synchronization of multiple videos"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601208",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    26
+                ]
+            ],
+            "date-time": "2019-12-26T15:03:12Z",
+            "timestamp": 1577372592559
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1703957"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201351",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Rendering specular microgeometry with wave optics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ling-Qi",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Milo\u0161",
+                "family": "Ha\u0161an",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk"
+                    }
+                ]
+            },
+            {
+                "given": "Bruce",
+                "family": "Walter",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201351-1",
+                "unstructured": "P. Beckmann and A. Spizzichino. 1968.The Scattering of Electromagnetic Waves from Rough Surfaces.Books on Demand. http://books.google.com/books?id=nn92AAAACAAJ"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-2",
+                "unstructured": "Laurent Belcour and Pascal Barla. 2017. A Practical Extension to Microfacet Theory for the Modeling of Varying Iridescence.ACM Trans. Graph.36, 4, Article 65 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073620",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-3",
+                "unstructured": "Carles Bosch, Xavier Pueyo, St&#233;phane M&#233;rillou, and Djamchid Ghazanfarpour. 2004. A Physically-Based Model for Rendering Realistic Scratches. InComputer Graphics Forum, Vol. 23. Wiley Online Library, 361--370.",
+                "DOI": "10.1111/j.1467-8659.2004.00767.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-4",
+                "unstructured": "Brent Burley. 2012. Physically-Based Shading at Disney.Technical Report(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-5",
+                "unstructured": "Samuel D Butler, Stephen E Nauyoks, and Michael A Marciniak. 2015. Comparison of microfacet BRDF model to modified Beckmann-Kirchhoff BRDF model for rough and smooth surfaces.Optics Express23, 22 (2015), 29100--29112."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-6",
+                "unstructured": "R. L. Cook and K. E. Torrance. 1982. A Reflectance Model for Computer Graphics.ACM Trans. Graph.1, 1 (1982), 7--24.",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-7",
+                "unstructured": "Tom Cuypers, Tom Haber, Philippe Bekaert, Se Baek Oh, and Ramesh Raskar. 2012. Reflectance Model for Diffraction.ACM Trans. Graph.31, 5 (2012), 122:1--122:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-8",
+                "unstructured": "Daljit Singh Dhillon, Jeremie Teyssier, Michael Single, Michel Milinkovitch Iarsolav Gaponenko, and Matthias Zwicker. 2014. Interactive Diffraction from Biological Nanostructures.Computer Graphics Forum33, 8 (2014), 177--188.",
+                "DOI": "10.1111/cgf.12425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-9",
+                "unstructured": "Zhao Dong, Bruce Walter, Steve Marschner, and Donald P. Greenberg. 2015. Predicting Appearance from Measured Microgeometry of Metal Surfaces.ACM Trans. Graph.35, 1, Article 9 (2015), 13 pages.",
+                "DOI": "10.1145/2815618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-10",
+                "unstructured": "James Harvey. 1979. Fourier treatment of near-field scalar diffraction theory.American Journal of Physics47, 11 (1979), 974--980.",
+                "DOI": "10.1119/1.11600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-11",
+                "unstructured": "James E. Harvey and Richard N. Pfisterer. 2016. Evolution of the transfer function characterization of surface scatter phenomena.Proc. SPIE9961 (2016), 9961 -- 9961 - 17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-12",
+                "unstructured": "Xiao D. He, Kenneth E. Torrance, Fran&#231;ois X. Sillion, and Donald P. Greenberg. 1991. A Comprehensive Physical Model for Light Reflection.SIGGRAPH Comput. Graph.25, 4 (1991), 175--186.",
+                "DOI": "10.1145/127719.122738",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-13",
+                "unstructured": "Nicolas Holzschuch and Romain Pacanowski. 2017. A Two-scale Microfacet Reflectance Model Combining Reflection and Diffraction.ACM Trans. Graph.36, 4, Article 66 (2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-14",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-15",
+                "unstructured": "Wenzel Jakob, Milo&#353; Ha&#353;an, Ling-Qi Yan, Jason Lawrence, Ravi Ramamoorthi, and Steve Marschner. 2014. Discrete Stochastic Microfacet Models.ACM Trans. Graph.33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601186",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-16",
+                "unstructured": "Andrey Krywonos. 2006.Predicting Surface Scatter Using A Linear Systems Formulation Of Non-paraxial Scalar Diffraction.PhD. Dissertation. University of Central Florida."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-17",
+                "unstructured": "Ann M Lanari, Samuel D Butler, Michael Marciniak, and Mark F Spencer. 2017. Wave optics simulation of statistically rough surface scatter. InEarth Observing Systems XXII, Vol. 10402. International Society for Optics and Photonics, 1040215."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-18",
+                "unstructured": "Anat Levin, Daniel Glasner, Ying Xiong, Fr&#233;do Durand, William Freeman, Wojciech Matusik, and Todd Zickler. 2013. Fabricating BRDFs at High Spatial Resolution Using Wave Optics.ACM Trans. Graph.32, 4 (2013), 144:1--144:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-19",
+                "unstructured": "L. Mandel and E. Wolf. 1995.Optical Coherence and Quantum Optics.Cambridge University Press. http://books.google.com/books?id=FeBix14iM70C",
+                "DOI": "10.1017/CBO9781139644105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-20",
+                "unstructured": "Heylal Mashaal, Alex Goldstein, Daniel Feuermann, and Jeffrey M. Gordon. 2012. First direct measurement of the spatial coherence of sunlight.Opt. Lett.37, 17 (2012), 3516--3518.",
+                "DOI": "10.1364/OL.37.003516",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-21",
+                "unstructured": "St&#233;phane M&#233;rillou, Jean-Michel Dischler, and Djamchid Ghazanfarpour. 2001. Surface scratches: measuring, modeling and rendering.The Visual Computer17, 1 (2001), 30--45.",
+                "DOI": "10.1007/s003710000093",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-22",
+                "unstructured": "J.A. Ogilvy. 1991.Theory of wave scattering from random rough surfaces.A. Hilger.",
+                "DOI": "10.1121/1.401410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-23",
+                "unstructured": "Boris Raymond, Gael Guennebaud, and Pascal Barla. 2016. Multi-Scale Rendering of Scratched Materials using a Structured SV-BRDF Model.ACM Transactions on Graphics(July 2016).",
+                "DOI": "10.1145/2897824.2925945",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-24",
+                "unstructured": "Jos Stam. 1999. Diffraction Shaders. InSIGGRAPH 99.New York, NY, USA, 101--110.",
+                "DOI": "10.1145/311535.311546",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-25",
+                "unstructured": "Antoine Toisoul and Abhijeet Ghosh. 2017. Practical Acquisition and Rendering of Diffraction Effects in Surface Reflectance.ACM Trans. Graph.36, 5, Article 166 (July 2017), 16 pages.",
+                "DOI": "10.1145/3012001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-26",
+                "unstructured": "Zdravko Velinov, Sebastian Werner, and Matthias B. Hullin. 2018. Real-Time Rendering of Wave-Optical Effects on Scratched Surfaces.Computer Graphics Forum 37 (2) (Proc. EUROGRAPHICS)37, 2 (2018).",
+                "DOI": "10.1111/cgf.13347",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-27",
+                "unstructured": "Bruce Walter, Stephen R. Marschner, Hongsong Li, and Kenneth E. Torrance. 2007. Microfacet Models for Refraction Through Rough Surfaces(EGSR 07).195--206."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-28",
+                "unstructured": "Sebastian Werner, Zdravko Velinov, Wenzel Jakob, and Matthias B. Hullin. 2017. Scratch Iridescence: Wave-optical Rendering of Diffractive Surface Structure.ACM Trans. Graph.36, 6, Article 207 (2017), 14 pages.",
+                "DOI": "10.1145/3130800.3130840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-29",
+                "unstructured": "Stephen H Westin, Hongsong Li, and Kenneth E Torrance. 2004. A comparison of four brdf models. InEurographics Symposium on Rendering, pags.1--10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-30",
+                "unstructured": "Ling-Qi Yan, Milo&#353; Ha&#353;an, Wenzel Jakob, Jason Lawrence, Steve Marschner, and Ravi Ramamoorthi. 2014. Rendering Glints on High-resolution Normal-mapped Specular Surfaces.ACM Trans. Graph.33, 4, Article 116 (2014), 9 pages.",
+                "DOI": "10.1145/2601097.2601155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201351-31",
+                "unstructured": "Ling-Qi Yan, Milo&#353; Ha&#353;an, Steve Marschner, and Ravi Ramamoorthi. 2016. Position-normal Distributions for Efficient Rendering of Specular Micro structure.ACM Trans. Graph.35, 4, Article 56 (2016), 9 pages.",
+                "DOI": "10.1145/2897824.2925915",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201351&ftid=1991650&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:49:36Z",
+            "timestamp": 1571672976000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201351",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

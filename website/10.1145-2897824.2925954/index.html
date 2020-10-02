@@ -1,0 +1,85 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Patsorn <span class="family">Sangkloy</span></li>
+<li> Nathan <span class="family">Burnell</span></li>
+<li> Cusuh <span class="family">Ham</span></li>
+<li> James <span class="family">Hays</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925954">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://sketchy.eye.gatech.edu/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/janesjanes/sketchy">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925954-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925954-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 4</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   186</li>
+<li><span class="family">Reviewer</span>: 4</li>
+</ul><h2>Comments</h2><pre>The github repsitory provides two scripts, which both require to download the" sketch and photos"dataset (https://goo.gl/SNpMmK):
+- Retrieval_Example.ipynb, which demonstrates how to retrieve images from a sketch. I had to flatten the content of the directory "256x256/photo/tx_00000000000" to be able to load in the photo database (8th code block in jupyter notebook).
+- Compute_Sketchy_score.ipynb, which compute the network matching accuracy. I tried to flatten the directory "256x256/sketch/tx_00000000000", and replace the use of the file test_img_list.txt (which is not provided) by test_img_list = os.listdir(photo_paths). Unfortunatly, even with this change, I couldn't run the script, and I couldn't find a way to format the data as required by the last code block. No instruction is given on how to modify or adapt file loading and directory structure.
+
+Bug fixes (for both scripts):
+ - scripts use python2 syntax for the print function (ie. without parenthesis). Can be adapted to python3 by using parenthesis.
+ - scripts attempt to load LSHForest from sklearn.neighbors, which is deprecated and not provided by modern sklearn packages. Replace 
+from sklearn.neighbors import NearestNeighbors,LSHForest
+by 
+from sklearn.neighbors import NearestNeighbors
+
+I have tested both scripts using caffe_cpu (see 4th code block in both scripts: caffe.set_mode_cpu()).
+
+The provided scripts does not demonstrate how to retrieve sketches from an image. The broken script does not demonstrate a functionality of the approach but rather its performances, and so its failure does not impact the replicability of the approach.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,3,5,4]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

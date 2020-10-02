@@ -1,0 +1,185 @@
+{
+    "Timestamp": "1/1/2020 4:01:45",
+    "Title": "Fusion4D: Real-time Performance Capture of Challenging Scenes",
+    "DOI": "10.1145/2897824.2925969",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://www.samehkhamis.com/dou-siggraph2016.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Private Companies",
+    "ACM 1": "Motion capture",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 196,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Animation",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Mingsong",
+            "family": "Dou",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan",
+            "family": "Taylor",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Pushmeet",
+            "family": "Kohli",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Vladimir",
+            "family": "Tankovich",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Shahram",
+            "family": "Izadi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Sameh",
+            "family": "Khamis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Yury",
+            "family": "Degtyarev",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Philip",
+            "family": "Davidson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Sean Ryan",
+            "family": "Fanello",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Adarsh",
+            "family": "Kowdle",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Sergio Orts",
+            "family": "Escolano",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "Christoph",
+            "family": "Rhemann",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        },
+        {
+            "given": "David",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 3.9,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=4&types=tttttttf",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=9653839"
+}

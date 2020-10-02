@@ -1,0 +1,360 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:58Z",
+            "timestamp": 1574859838913
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "European Research Council (ERC)",
+                "award": [
+                    "715767"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201325",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Learning three-dimensional flow for interactive aerodynamic design"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nobuyuki",
+                "family": "Umetani",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Autodesk Research, Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria, Vienna, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201325-1",
+                "unstructured": "Pierre Baqu&#233;, Edoardo Remelli, Fran&#231;ois Fleuret, and Pascal Fua. 2018. Geodesic Convolutional Shape Optimization.CoRRabs/1802.04016 (2018). arXiv:1802.04016 http://arxiv.org/abs/1802.04016"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-2",
+                "unstructured": "B. Bonev, L. Prantl, and N. Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks and Optical Flow.ArXiv e-prints(April 2017). arXiv:cs.GR/1704.07854"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-3",
+                "unstructured": "R. Buchheim, R. Unger, P. Jousserandot, E. Mercker, F. K. Schenkel, Y. Nishimura, and D. J. Wilsden. 1983. Comparison Tests Between Major European and North American Automotive Wind Tunnels. InSAE Technical Paper.SAE International.",
+                "DOI": "10.4271/830301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-4",
+                "unstructured": "A. X. Chang, T. Funkhouser, L. Guibas, P. Hanrahan, Q. Huang, Z. Li, S. Savarese, M. Savva, S. Song, H. Su, J. Xiao, L. Yi, and F. Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository.ArXiv e-prints(Dec. 2015). arXiv:cs.GR/1512.03012"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-5",
+                "unstructured": "Mengyu Chu and Nils Thuerey. 2017. Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors.Transaction on Graphics (SIGGRAPH)36(4) (Apr 2017), 14.",
+                "DOI": "10.1145/3072959.3073643",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-6",
+                "unstructured": "Jonathan M Cohen, Sarah Tariq, and Simon Green. 2010. Interactive fluid-particle simulation using translating Eulerian grids. InProceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games.ACM, 15--22."
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-7",
+                "unstructured": "Tyler De Witt, Christian Lessig, and Eugene Fiume. 2012. Fluid Simulation Using Laplacian Eigenfunctions.ACM Trans. Graph.31, 1, Article 10 (Feb. 2012), 11 pages.",
+                "DOI": "10.1145/2077341.2077351",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-8",
+                "unstructured": "Xianzhong Fang, Weiwei Xu, Hujun Bao, and Jin Huang. 2016. All-hex Meshing Using Closed-form Induced Polycube.ACM Trans. Graph.35, 4, Article 124 (July 2016), 9 pages.",
+                "DOI": "10.1145/2897824.2925957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-9",
+                "unstructured": "Michael S. Floater. 2003. Mean Value Coordinates.Comput. Aided Geom. Des.20, 1 (March 2003), 19--27.",
+                "DOI": "10.1016/S0167-8396(03)00002-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-10",
+                "unstructured": "Igor Guskov, Kiril Vidim&#269;e, Wim Sweldens, and Peter Schr&#246;der. 2000. Normal Meshes. InProceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '00).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 95--102.",
+                "DOI": "10.1145/344779.344831",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-11",
+                "unstructured": "Kurt Hornik. 1991. Approximation Capabilities of Multilayer Feedforward Networks.Neural Netw.4, 2 (March 1991), 251--257.",
+                "DOI": "10.1016/0893-6080(91)90009-T",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-12",
+                "unstructured": "Jin Huang, Tengfei Jiang, Zeyun Shi, Yiying Tong, Hujun Bao, and Mathieu Desbrun. 2014. &#8467;1Basedd Construction of Polycube Maps from Complex Shapes.ACM Trans. Graph.33, 3, Article 25 (June 2014), 11 pages.",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-13",
+                "unstructured": "Hucho. 1998.Aerodynamics of road vehicles: from fluid mechanics to vehicle engineering.Society of Automotive Engineers, Warrendale, PA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-14",
+                "unstructured": "Tao Ju, Scott Schaefer, and Joe Warren. 2005. Mean Value Coordinates for Closed Triangular Meshes.ACM Trans. Graph.24, 3 (July 2005), 561--566.",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-15",
+                "unstructured": "Theodore Kim and John Delaney. 2013. Subspace Fluid Re-simulation.ACM Trans. Graph.32, 4, Article 62 (July 2013), 9 pages.",
+                "DOI": "10.1145/2461912.2461987",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-16",
+                "unstructured": "L'ubor Ladick&#253;, SoHyeon Jeong, Barbara Solenthaler, Marc Pollefeys, and Markus Gross. 2015. Data-driven Fluid Simulations Using Regression Forests.ACM Trans. Graph.34, 6, Article 199 (Oct. 2015), 9 pages.",
+                "DOI": "10.1145/2816795.2818129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-17",
+                "unstructured": "Tobias Martin, Nobuyuki Umetani, and Bernd Bickel. 2015. OmniAD: Data-driven Omni-directional Aerodynamics.ACM Trans. Graph.34, 4, Article 113 (July 2015), 12 pages.",
+                "DOI": "10.1145/2766919",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-18",
+                "unstructured": "Mojang. 2009. Minecraft. (2009)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-19",
+                "unstructured": "Charles Ruizhongtai Qi, Hao Su, Kaichun Mo, and Leonidas J. Guibas. 2016. PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.CoRRabs/1612.00593 (2016). arXiv:1612.00593 http://arxiv.org/abs/1612.00593"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-20",
+                "unstructured": "Carl Edward Rasmussen and Christopher K. I. Williams. 2005.Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning).The MIT Press.",
+                "DOI": "10.7551/mitpress/3206.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-21",
+                "unstructured": "Adriana Schulz, Jie Xu, Bo Zhu, Changxi Zheng, Eitan Grinspun, and Wojciech Matusik. 2017. Interactive Design Space Exploration and Optimization for CAD Models.ACM Trans. Graph.36, 4, Article 157 (July 2017), 14 pages.",
+                "DOI": "10.1145/3072959.3073688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-22",
+                "unstructured": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. 2014. Dropout: A Simple Way to Prevent Neural Networks from Overfitting.Journal of Machine Learning Research15 (2014), 1929--1958. http://jmlr.org/papers/v15/srivastava14a.html"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-23",
+                "unstructured": "Matt Stanton, Ben Humberston, Brandon Kase, James F. O'Brien, Kayvon Fatahalian, and Adrien Treuille. 2014. Self-refining Games Using Player Analytics.ACM Trans. Graph.33, 4, Article 73 (July 2014), 9 pages.",
+                "DOI": "10.1145/2601097.2601196",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-24",
+                "unstructured": "Matt Stanton, Yu Sheng, Martin Wicke, Federico Perazzi, Amos Yuen, Srinivasa Narasimhan, and Adrien Treuille. 2013. Non-polynomial Galerkin Projection on Deforming Meshes.ACM Trans. Graph.32, 4, Article 86 (July 2013), 14 pages.",
+                "DOI": "10.1145/2461912.2462006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-25",
+                "unstructured": "Hang Su, Subhransu Maji, Evangelos Kalogerakis, and Erik Learned-Miller. 2015. Multiview Convolutional Neural Networks for 3D Shape Recognition. InProceedings of the 2015 IEEE International Conference on Computer Vision (ICCV) (ICCV '15).IEEE Computer Society, Washington, DC, USA, 945--953."
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-26",
+                "unstructured": "Marco Tarini, Kai Hormann, Paolo Cignoni, and Claudio Montani. 2004. PolyCube-Maps.ACM Trans. Graph.23, 3 (Aug. 2004), 853--860.",
+                "DOI": "10.1145/1015706.1015810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-27",
+                "unstructured": "Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, and Ken Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks.CoRRabs/1607.03597 (2016). arXiv:1607.03597 http://arxiv.org/abs/1607.03597"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-28",
+                "unstructured": "Adrien Treuille, Andrew Lewis, and Zoran Popovi&#263;. 2006. Model Reduction for Real-time Fluids.ACM Trans. Graph.25, 3 (July 2006), 826--834.",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-29",
+                "unstructured": "K. Um, X. Hu, and N. Thuerey. 2017. Liquid Splash Modeling with Neural Networks.ArXiv e-prints(April 2017). arXiv:cs.GR/1704.04456"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-30",
+                "unstructured": "Nobuyuki Umetani. 2017. Exploring Generative 3D Shapes Using Autoencoder Networks. InSIGGRAPH Asia 2017 Technical Briefs (SA '17).ACM, New York, NY, USA, Article 24, 4 pages.",
+                "DOI": "10.1145/3145749.3145758",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-31",
+                "unstructured": "Nobuyuki Umetani, Yuki Koyama, Ryan Schmidt, and Takeo Igarashi. 2014. Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes.ACM Trans. Graph.33, 4, Article 65 (July 2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601129",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-32",
+                "unstructured": "Peng-Shuai Wang, Yang Liu, Yu-Xiao Guo, Chun-Yu Sun, and Xin Tong. 2017. O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis.ACM Trans. Graph.36, 4, Article 72 (July 2017), 11 pages.",
+                "DOI": "10.1145/3072959.3073608",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-33",
+                "unstructured": "Martin Wicke, Matt Stanton, and Adrien Treuille. 2009. Modular Bases for Fluid Dynamics.ACM Trans. Graph.28, 3, Article 39 (July 2009), 8 pages.",
+                "DOI": "10.1145/1576246.1531345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-34",
+                "unstructured": "Zhirong Wu, Shuran Song, Aditya Khosla, Xiaoou Tang, and Jianxiong Xiao. 2014. 3D ShapeNets for 2.5D Object Recognition and Next-Best-View Prediction.CoRRabs/1406.5670 (2014). http://arxiv.org/abs/1406.5670"
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-35",
+                "unstructured": "Kai Xu, Vladimir G Kim, Qixing Huang, Niloy Mitra, and Evangelos Kalogerakis. 2016. Data-driven shape analysis and processing. InSIGGRAPH ASIA 2016 Courses.ACM, 4."
+            },
+            {
+                "key": "key-10.1145/3197517.3201325-36",
+                "unstructured": "Olek C Zienkiewicz, Robert L Taylor, and P. Nithiarasu. 2013.The Finite Element Method for Fluid Dynamics, Seventh Edition(7 ed.). Butterworth-Heinemann. http://amazon.com/o/ASIN/1856176355/"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201325&ftid=1991594&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:51:37Z",
+            "timestamp": 1571673097000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201325",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

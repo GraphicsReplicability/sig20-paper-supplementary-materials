@@ -1,0 +1,328 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:32Z",
+            "timestamp": 1575507212568
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "ERC",
+                "award": []
+            },
+            {
+                "name": "GRAND",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601169",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Vector graphics complexes"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Boris",
+                "family": "Dalstein",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "R\u00e9mi",
+                "family": "Ronfard",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Michiel",
+                "family": "van de Panne",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601169-1",
+                "unstructured": "Adobe Systems Inc., 2013. Adobe Illustrator: Help and tutorials."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-2",
+                "unstructured": "Asente, P., Schuster, M., and Pettit, T. 2007. Dynamic planar map illustration.ACM Trans. Graph. 26, 3 (July), 30:1--30:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-3",
+                "unstructured": "Baudelaire, P., and Gangnet, M. 1989. Planar maps: An interaction paradigm for graphic design. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA, CHI '89, 313--318."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-4",
+                "unstructured": "Dalstein, B., Ronfard, R., and van de Panne, M. 2014. Point-curve-surface complex: A cell decomposition for non-manifold two-dimensional topological spaces. Tech. rep., University of British Columbia."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-5",
+                "unstructured": "De Floriani, L., Morando, F., and Puppo, E. 2003. Representation of non-manifold objects through decomposition into nearly manifold parts. InProceedings of the Eighth ACM Symposium on Solid Modeling and Applications, ACM, New York, NY, USA, SMA '03, 304--309."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-6",
+                "unstructured": "De Floriani, L., Hui, A., Panozzo, D., and Canino, D. 2010. A dimension-independent data structure for simplicial complexes. InProceedings of the 19th International Meshing Roundtable, Springer Berlin Heidelberg, 403--420.",
+                "DOI": "10.1007/978-3-642-15414-0_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-7",
+                "unstructured": "Durand, F. 2002. An invitation to discuss computer depiction. InProceedings of the 2nd International Symposium on Non-photorealistic Animation and Rendering, ACM, New York, NY, USA, NPAR '02, 111--124."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-8",
+                "unstructured": "Edelsbrunner, H., and Harer, J. 2010.Computational Topology: An Introduction. Applied mathematics. American Mathematical Society.",
+                "DOI": "10.1090/mbk/069",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-9",
+                "unstructured": "Eisemann, E., Paris, S., and Durand, F. 2009. A visibility algorithm for converting 3D meshes into editable 2D vector graphics.ACM Trans. Graph. 28, 3 (July), 83:1--83:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-10",
+                "unstructured": "Granados, M., Hachenberger, P., Hert, S., Kettner, L., Mehlhorn, K., and Seel, M. 2003. Boolean operations on 3D selective Nef complexes: Data structure, algorithms, and implementation. InAlgorithms - ESA 2003, vol. 2832 ofLecture Notes in Computer Science. Springer Berlin Heidelberg, 654--666."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-11",
+                "unstructured": "Guibas, L., and Stolfi, J. 1985. Primitives for the manipulation of general subdivisions and the computation of Voronoi.ACM Trans. Graph. 4, 2 (Apr.), 74--123."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-12",
+                "unstructured": "Gursoz, E. L., Choi, Y., and Pinz, F. B. 1990. Vertex-based representation of non-manifold boundaries. InGeometric Modeling for Product Engineering, Eselvier, Amsterdam, 107--130."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-13",
+                "unstructured": "Gursoz, E. L., Choi, Y., and Pinz, F. B. 1991. Boolean set operations on non-manifold boundary representation objects.Comput. Aided Des. 23, 1 (Feb.), 33--39."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-14",
+                "unstructured": "Hoffman, D. D. 2000.Visual Intelligence: How We Create what We See. Norton."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-15",
+                "unstructured": "Igarashi, T., and Mitani, J. 2010. Apparent layer operations for the manipulation of deformable objects.ACM Trans. Graph. 29, 4 (July), 110:1--110:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-16",
+                "unstructured": "Inkscape, 2013. http://www.inkscape.org/en/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-17",
+                "unstructured": "Karsch, K., and Hart, J. C. 2011. Snaxels on a plane. InProceedings of the 9th ACM SIGGRAPH/Eurographics Symposium on Non-Photorealistic Animation and Rendering, ACM, New York, NY, USA, NPAR '11, 35--42."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-18",
+                "unstructured": "Koenderink, J., and Doorn, A. 2008. The structure of visual spaces.Journal of Mathematical Imaging and Vision 31, 2--3, 171--187.",
+                "DOI": "10.1007/s10851-008-0076-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-19",
+                "unstructured": "Lee, S. H., and Lee, K. 2001. Partial entity structure: A compact non-manifold boundary representation based on partial topological entities. InProceedings of the Sixth ACM Symposium on Solid Modeling and Applications, ACM, New York, NY, USA, SMA '01, 159--170."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-20",
+                "unstructured": "Lienhardt, P. 1994. N-dimensional generalized combinatorial maps and cellular quasi-manifolds.International Journal of Computational Geometry &#38; Applications 04, 03, 275--324."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-21",
+                "unstructured": "Marcheix, D., and Gueorguieva, S. 1995. Topological operators for non-manifold modeling.Proceedings of the Third International Conference in Central Europe on Computer Graphics and Visualisation '95 1(Feb.), 173--186."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-22",
+                "unstructured": "McCann, J., and Pollard, N. 2009. Local layering.ACM Trans. Graph. 28, 3 (July), 84:1--84:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-23",
+                "unstructured": "Nef, W. 1978.Beitr&#228;ge zur Theorie der Polyeder: mit Anwendungen in der Computergraphik. Beitr&#228;ge zur Mathematik, Informatik und Nachrichtentechnik. Lang."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-24",
+                "unstructured": "Noris, G., Hornung, A., Sumner, R. W., Simmons, M., and Gross, M. 2013. Topology-driven vectorization of clean line drawings.ACM Trans. Graph. 32, 1 (Feb.), 4:1--4:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-25",
+                "unstructured": "Pesco, S., Tavares, G., and Lopes, H. 2004. A stratification approach for modeling two-dimensional cell complexes.Computers &#38; Graphics 28, 2, 235--247.",
+                "DOI": "10.1016/j.cag.2003.12.009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-26",
+                "unstructured": "Porter, T., and Duff, T. 1984. Compositing digital images.SIGGRAPH Comput. Graph. 18, 3 (Jan.), 253--259."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-27",
+                "unstructured": "Rossignac, J., and O'Connor, M. 1989. SGC: A dimension-independent model for pointsets with internal structures and incomplete boundaries. InGeometric Modeling for Product Engineering, Proceedings of the IFIP Workshop on CAD/CAM, IBM T.J. Watson Research Center, 145--180."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-28",
+                "unstructured": "Rossignac, J. 1997. Structured topological complexes: A feature-based API for non-manifold topologies. InProceedings of the Fourth ACM Symposium on Solid Modeling and Applications, ACM, New York, NY, USA, SMA '97, 1--9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-29",
+                "unstructured": "Shreiner, D., Woo, M., Neider, J., and Davis, T. 2004. Tesselators and quadrics. InThe OpenGL Programming Guide, Fourth Edition. Addison-Wesley, ch. 11, 487--514."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-30",
+                "unstructured": "Silva, F. G. M., and Gomes, A. J. P. 2003. Adjacency and incidence framework: A data structure for efficient and fast management of multiresolution meshes. InProceedings of the 1st International Conference on Computer Graphics and Interactive Techniques in Australasia and South East Asia, ACM, New York, NY, USA, GRAPHITE '03, 159--166."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-31",
+                "unstructured": "SVG Working Group, 2011. Scalable Vector Graphics (SVG) 1.1 (Second Edition). http://www.w3.org/TR/SVG11/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-32",
+                "unstructured": "Takayama, K., Panozzo, D., Sorkine-Hornung, A., and Sorkine-Hornung, O. 2013. Sketch-based generation and editing of quad meshes.ACM Trans. Graph. 32, 4 (July), 97:1--97:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-33",
+                "unstructured": "Weiler, K. 1985. Edge-based data structures for solid modeling in curved-surface environments.Computer Graphics and Applications, IEEE 5, 1 (Jan), 21--40."
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-34",
+                "unstructured": "Whited, B., Noris, G., Simmons, M., Sumner, R. W., Gross, M., and Rossignac, J. 2010. BetweenIT: An interactive tool for tight inbetweening.Computer Graphics Forum 29, 2, 605--614.",
+                "DOI": "10.1111/j.1467-8659.2009.01630.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601169-35",
+                "unstructured": "Wiley, K., and Williams, L. R. 2006. Representation of interwoven surfaces in 2 1/2 D drawing. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA, CHI '06, 65--74."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601169&amp;ftid=1488942&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:48Z",
+            "timestamp": 1565663748000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601169",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

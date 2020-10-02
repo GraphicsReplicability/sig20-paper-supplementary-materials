@@ -1,0 +1,96 @@
+{
+    "Timestamp": "12/18/2019 10:19:40",
+    "Title": "Scanner: efficient video analysis at scale",
+    "DOI": "10.1145/3197517.3201394",
+    "PDF availability (beside dl.acm)": "On an open archive arXiv or similar open archive, On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++, Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 5,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), CONTRIBUTING or explicitly mentions how to contribute to the code, AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "https://arxiv.org/abs/1805.07339",
+    "code URL": "https://github.com/scanner-research/scanner",
+    "code URL  2": "",
+    "PDF URL": "http://graphics.stanford.edu/papers/scanner/poms18_scanner.pdf",
+    "License type": "Apache License 2.0",
+    "Build mechanism": "Makefile, CMakeLists, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Cannot answer",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation",
+    "Authors": "Academia",
+    "ACM 1": "Image manipulation",
+    "ACM 2": "Graphics systems and interfaces",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I used the docker setting, it worked well (cpu). Was not able to install from source because of a problem with hwang (installed by deps.sh although optional dependency). A jupyter notebook extremely detailed is provided and helps understand the code, so it would be very easy to adapt. I did not reproduce all the results in the paper (grayscale conversion worked well with docker).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 14,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow/caffe/opencv/eigen3/ffmpeg/boost/openpose/halide/storehouse/hwang/pybind/grpc/protobuf/libpqxx/cuda/cudnn",
+    "Project URL": "http://scanner.run/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Alex",
+            "family": "Poms",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University"
+                }
+            ]
+        },
+        {
+            "given": "Will",
+            "family": "Crichton",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Pat",
+            "family": "Hanrahan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Kayvon",
+            "family": "Fatahalian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 4,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=4&types=tttttttt",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=42155836"
+}

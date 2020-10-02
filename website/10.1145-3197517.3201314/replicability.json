@@ -1,0 +1,85 @@
+{
+    "Timestamp": "1/22/2020 21:02:18",
+    "Title": "StrokeAggregator: consolidating raw sketches into artist-intended curve drawings",
+    "DOI": "10.1145/3197517.3201314",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Python, Cannot answer",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/strokeaggregator_binary.zip",
+    "code URL  2": "",
+    "PDF URL": "https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf",
+    "License type": "University of British Columbia Evaluation Software License",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 3,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Image manipulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "For this paper, the authors provided precompiled executables implementing their approach with command line interface. On top of these tools, a graphical user interface is defined in Python to load the the input drawing, set the algorithm parameters, call the precompiled binaries, and display and save the results.\n\nThe precompiled binaries worked directly.\n\nI had a few difficulties to handle the dependencies of the python script. First, PyQt4 urls given in README.txt are wrong (correct url can be found here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4). Also, the documentation does not mention to install sip before PyQt4, while it seems to be a mandatory step (pip install sip).\n\nOnce this is all fixed, the program runs smoothly and all the results can be reproduced.\nThe application processes SCAP files, and converters (scap_to_svg and svg_to_scap) are provided. Core algorithms are provided as binaries, yet the software can be adapted in other context as long as the drawings can be stored as svg files.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 7,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "sip / pyqt4",
+    "Project URL": "https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Binary",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Chenxi",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "given": "Enrique",
+            "family": "Rosales",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia and Universidad Panamericana"
+                }
+            ]
+        },
+        {
+            "given": "Alla",
+            "family": "Sheffer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

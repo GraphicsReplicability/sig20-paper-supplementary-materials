@@ -1,0 +1,386 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:43Z",
+            "timestamp": 1578582223010
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201368",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Skaterbots"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Moritz",
+                "family": "Geilinger",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Ruta",
+                "family": "Desai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            },
+            {
+                "given": "Stelian",
+                "family": "Coros",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201368-1",
+                "unstructured": "Moritz B&#228;cher, Bernd Bickel, Doug L. James, and Hanspeter Pfister. 2012. Fabricating Articulated Characters from Skinned Meshes.ACM Trans. Graph.31, 4, Article 47 (July 2012), 9 pages.",
+                "DOI": "10.1145/2185520.2335398",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-2",
+                "unstructured": "Moritz B&#228;cher, Benjamin Hepp, Fabrizio Pece, Paul G. Kry, Bernd Bickel, Bernhard Thomaszewski, and Otmar Hilliges. 2016. DefSense: Computational Design of Customized Deformable Input Devices. InProceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16).ACM, New York, NY, USA, 3806--3816.",
+                "DOI": "10.1145/2858036.2858354",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-3",
+                "unstructured": "Moritz B&#228;cher, Emily Whiting, Bernd Bickel, and Olga Sorkine-Hornung. 2014. Spin-it: optimizing moment of inertia for spinnable objects.ACM Transactions on Graphics (TOG)33, 4 (2014), 96.",
+                "DOI": "10.1145/2601097.2601157",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-4",
+                "unstructured": "James M. Bern, Kai-Hung Chang, and Stelian Coros. 2017. Interactive Design of Animated Plushies.ACM Trans. Graph.36, 4, Article 80 (July 2017), 11 pages.",
+                "DOI": "10.1145/3072959.3073700",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-5",
+                "unstructured": "Gaurav Bharaj, Stelian Coros, Bernhard Thomaszewski, James Tompkin, Bernd Bickel, and Hanspeter Pfister. 2015. Computational Design of Walking Automata. InProceedings of the 14th ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA '15).ACM, New York, NY, USA, 93--100.",
+                "DOI": "10.1145/2786784.2786803",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-6",
+                "unstructured": "BostonDynamics. 2017. Handle, https://www.bostondynamics.com/handle."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-7",
+                "unstructured": "Jacques Cal&#236;, Dan A. Calian, Cristina Amati, Rebecca Kleinberger, Anthony Steed, Jan Kautz, and Tim Weyrich. 2012. 3D-printing of Non-assembly, Articulated Models.ACM Trans. Graph.31, 6, Article 130 (Nov. 2012), 8 pages.",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-8",
+                "unstructured": "Duygu Ceylan, Wilmot Li, Niloy J Mitra, Maneesh Agrawala, and Mark Pauly. 2013. Designing and fabricating mechanical automata from mocap sequences.ACM Transactions on Graphics (TOG)32, 6 (2013), 186."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-9",
+                "unstructured": "Stelian Coros, Bernhard Thomaszewski, Gioacchino Noris, Shinjiro Sueda, Moira Forberg, Robert W Sumner, Wojciech Matusik, and Bernd Bickel. 2013. Computational design of mechanical characters.ACM Transactions on Graphics (TOG)32, 4 (2013), 83."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-10",
+                "unstructured": "Hongkai Dai, Andres Valenzuela, and Russ Tedrake. 2014. Whole-body motion planning with centroidal dynamics and full kinematics. InHumanoids.",
+                "DOI": "10.1109/HUMANOIDS.2014.7041375",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-11",
+                "unstructured": "R. Desai, Y. Yuan, and S. Coros. 2017. Computational Abstractions for Interactive Design of Robotic Devices. InProc. of the IEEE International Conference on Robotics and Automation (ICRA).",
+                "DOI": "10.1109/ICRA.2017.7989143",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-12",
+                "unstructured": "Tao Du, Adriana Schulz, Bo Zhu, Bernd Bickel, and Wojciech Matusik. 2016. Computational Multicopter Design.ACM Trans. Graph.35, 6, Article 227 (Nov. 2016), 10 pages.",
+                "DOI": "10.1145/2980179.2982427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-13",
+                "unstructured": "G. Endo and S. Hirose. 2008. Study on Roller-Walker - Adaptation of characteristics of the propulsion by a leg trajectory -. In2008 IEEE/RSJ International Conference on Intelligent Robots and Systems.1532--1537.",
+                "DOI": "10.1109/IROS.2008.4650823",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-14",
+                "unstructured": "Sean Follmer, Valkyrie Savage, Jingy Li, and Bjoern Hartmann. 2015. Makers' Marks: Physical Markup for Designing and Fabricating Functional Objects. InUIST'15 Proceedings of the 28th annual ACM symposium on User interface software and technology."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-15",
+                "unstructured": "Sehoon Ha, Stelian Coros, Alex Alspach, Joohyung Kim, and Katsu Yamane. 2017. Joint Optimization of Robot Design and Motion Parameters using the Implicit Function Theorem. InRobotics: Science and Systems.RSS.",
+                "DOI": "10.15607/RSS.2017.XIII.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-16",
+                "unstructured": "Kyunglyul Hyun, Kyungho Lee, and Jehee Lee. 2016. Motion Grammars for Character Animation. InProceedings of the 37th Annual Conference of the European Association for Computer Graphics (EG '16).Eurographics Association, Goslar Germany, Germany, 103--113.",
+                "DOI": "10.1111/cgf.12815",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-17",
+                "unstructured": "Lucas Kovar, Michael Gleicher, and Fr&#233;d&#233;ric Pighin. 2002. Motion Graphs. InProceedings of the 29th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '02).ACM, New York, NY, USA, 473--482.",
+                "DOI": "10.1145/566570.566605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-18",
+                "unstructured": "Lin Lu, Andrei Sharf, Haisen Zhao, Yuan Wei, Qingnan Fan, Xuelin Chen, Yann Savoye, Changhe Tu, Daniel Cohen-Or, and Baoquan Chen. 2014. Build-to-last: strength to weight 3D printed objects.ACM Transactions on Graphics (TOG)33, 4 (2014), 97.",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-19",
+                "unstructured": "Vittorio Megaro, Bernhard Thomaszewski, Maurizio Nitti, Otmar Hilliges, Markus Gross, and Stelian Coros. 2015. Interactive Design of 3D-printable Robotic Creatures.ACM Trans. Graph.34, 6, Article 216 (Oct. 2015), 9 pages.",
+                "DOI": "10.1145/2816795.2818137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-20",
+                "unstructured": "Vittorio Megaro, Jonas Zehnder, Moritz B&#228;cher, Stelian Coros, Markus Gross, and Bernhard Thomaszewski. 2017. A Computational Design Tool for Compliant Mechanisms.ACM Trans. Graph.36, 4, Article 82 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073636",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-21",
+                "unstructured": "Przemyslaw Musialski, Thomas Auzinger, Michael Birsak, Michael Wimmer, Leif Kobbelt, and TU Wien. 2015. Reduced-order shape optimization using offset surfaces.ACM Transactions on Graphics (TOG)34, 4 (2015), 102."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-22",
+                "unstructured": "ODE. 2007. Open Dynamics Engine, http://www.ode.org/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-23",
+                "unstructured": "David E. Orin, Ambarish Goswami, and Sung-Hee Lee. 2013. Centroidal Dynamics of a Humanoid Robot.Auton. Robots35, 2-3 (Oct. 2013), 161--176."
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-24",
+                "unstructured": "Jes&#250;s P&#233;rez, Miguel A. Otaduy, and Bernhard Thomaszewski. 2017. Computational Design and Automated Fabrication of Kirchhoff-plateau Surfaces.ACM Trans. Graph.36, 4, Article 62 (July 2017), 12 pages.",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-25",
+                "unstructured": "Romain Pr&#233;vost, Emily Whiting, Sylvain Lefebvre, and Olga Sorkine-Hornung. 2013. Make it stand: balancing shapes for 3D fabrication.ACM Transactions on Graphics (TOG)32, 4 (2013), 81.",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-26",
+                "unstructured": "Adriana Schulz, Cynthia Sung, Andrew Spielberg, Wei Zhao, Robin Cheng, Eitan Grinspun, Daniela Rus, and Wojciech Matusik. 2017. Interactive robogami: An end-to-end system for design of robots with ground locomotion.The International Journal of Robotics Research36, 10 (2017), 1131--1147. arXiv:https://doi.org/10.1177/0278364917723465",
+                "DOI": "10.1177/0278364917723465",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-27",
+                "unstructured": "J. A. Smith, I. Sharf, and M. Trentini. 2006. PAW: a hybrid wheeled-leg robot. InProceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.4043--4048.",
+                "DOI": "10.1109/ROBOT.2006.1642323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-28",
+                "unstructured": "Peng Song, Xiaofei Wang, Xiao Tang, Chi-Wing Fu, Hongfei Xu, Ligang Liu, and Niloy J. Mitra. 2017. Computational Design of Wind-up Toys.ACM Trans. Graph.36, 6, Article 238 (Nov. 2017), 13 pages.",
+                "DOI": "10.1145/3130800.3130808",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-29",
+                "unstructured": "Ondrej Stava, Juraj Vanek, Bedrich Benes, Nathan Carr, and Radom&#237;r M&#283;ch. 2012. Stress relief: improving structural strength of 3D printable objects.ACM Transactions on Graphics (TOG)31, 4 (2012), 48.",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-30",
+                "unstructured": "Nobuyuki Umentani, Takeo Igarashi, and Niloy J. Mitra. 2015. Guided Exploration of Physically Valid Shapes for Furniture Design.Commun. ACM58, 9 (Aug. 2015), 116--124.",
+                "DOI": "10.1145/2801945",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-31",
+                "unstructured": "Francisca Gil Ureta, Chelsea Tymms, and Denis Zorin. 2016. Interactive Modeling of Mechanical Objects. InProceedings of the Symposium on Geometry Processing (SGP '16).Eurographics Association, Goslar Germany, Germany, 145--155.",
+                "DOI": "10.1111/cgf.12971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-32",
+                "unstructured": "Nicolas Villar, James Scott, Steve Hodges, Kerry Hammil, and Colin Miller. 2012. . NET gadgeteer: a platform for custom devices. InPervasive Computing.Springer, 216--233.",
+                "DOI": "10.1007/978-3-642-31205-2_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-33",
+                "unstructured": "Christian Weichel, Manfred Lau, and Hans Gellersen. 2013. Enclosed: a component-centric interface for designing prototype enclosures. InProceedings of the 7th International Conference on Tangible, Embedded and Embodied Interaction.ACM, 215--218.",
+                "DOI": "10.1145/2460625.2460659",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201368-34",
+                "unstructured": "Ran Zhang, Thomas Auzinger, Duygu Ceylan, Wilmot Li, and Bernd Bickel. 2017. Functionality-aware Retargeting of Mechanisms to 3D Shapes.ACM Trans. Graph.36, 4, Article 81 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073710",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201368&ftid=1991721&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:59:35Z",
+            "timestamp": 1571673575000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "optimization-based design and motion synthesis for robotic creatures with legs and wheels"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201368",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

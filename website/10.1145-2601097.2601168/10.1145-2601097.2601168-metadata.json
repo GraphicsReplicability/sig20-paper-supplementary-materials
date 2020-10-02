@@ -1,0 +1,408 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228919
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61202147, 61025012, 61332015, U1035004"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "European FP7",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601168",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 91,
+        "title": [
+            "Build-to-last"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Lin",
+                "family": "Lu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Andrei",
+                "family": "Sharf",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yuan",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Qingnan",
+                "family": "Fan",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xuelin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yann",
+                "family": "Savoye",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601168-1",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating articulated characters from skinned meshes.ACM Trans. Graph. 31, 4 (July), 47:1--47:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-2",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M. H., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM Trans. Graph. 29, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-3",
+                "unstructured": "Bickel, B., Kaufmann, P., Skouras, M., Thomaszewski, B., Bradley, D., Beeler, T., Jackson, P., Marschner, S., Matusik, W., and Gross, M. 2012. Physical face cloning.ACM Trans. Graph. 31, 4 (July), 118:1--118:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-4",
+                "unstructured": "Bronstein, A., Bronstein, M., and Kimmel, R. 2008.Numerical Geometry of Non-Rigid Shapes, 1 ed. Springer Publishing Company, Incorporated.",
+                "DOI": "10.1007/978-0-387-73301-2_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-5",
+                "unstructured": "Cal&#236;, J., Calian, D. A., Amati, C., Kleinberger, R., Steed, A., Kautz, J., and Weyrich, T. 2012. 3D-printing of non-assembly, articulated models.ACM Trans. Graph. 31, 6 (Nov.), 130:1--130:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-6",
+                "unstructured": "Ceylan, D., Li, W., Mitra, N. J., Agrawala, M., and Pauly, M. 2013. Designing and fabricating mechanical automata from mocap sequences.ACM Trans. Graph. 32, 6, 186."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-7",
+                "unstructured": "Chen, D., Levin, D. I. W., Didyk, P., Sitthi-Amorn, P., and Matusik, W. 2013. Spec2fab: A reducer-tuner model for translating specifications to 3D prints.ACM Trans. Graph. 32, 4, 135:1--135:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-8",
+                "unstructured": "Coros, S., Thomaszewski, B., Noris, G., Sueda, S., Forberg, M., Sumner, R. W., Matusik, W., and Bickel, B. 2013. Computational design of mechanical characters.ACM Trans. Graph. 32, 4 (July), 83:1--83:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-9",
+                "unstructured": "Crapo, H., and Whiteley, W. 1993. The geometry of rigid structures.Encyclopedia of Math., Cambridge University Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-10",
+                "unstructured": "Crapo, H. 1979. Structural rigidity.Structural Topology 1, 26--45."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-11",
+                "unstructured": "Du, Q., Faber, V., and Gunzburger, M. 1999. Centroidal voronoi tessellations: Applications and algorithms.SIAM Review 41, 4, 637--676.",
+                "DOI": "10.1137/S0036144599352836",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-12",
+                "unstructured": "Haftka, R. T., and Grandhi, R. V. 1986. Structural shape optimization - a survey.Computer Methods in Applied Mechanics and Engineering 57, 1, 91--106.",
+                "DOI": "10.1016/0045-7825(86)90072-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-13",
+                "unstructured": "Hollister, S. 2005. Porous scaffold design for tissue engineering.Nat. Mater. 4, 7, 518--524.",
+                "DOI": "10.1038/nmat1421",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-14",
+                "unstructured": "Khoda, A., Ozbolat, I. T., and Koc, B. 2013. Designing heterogeneous porous tissue scaffolds for additive manufacturing processes.Computer-Aided Design 45, 12, 1507--1523.",
+                "DOI": "10.1016/j.cad.2013.07.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-15",
+                "unstructured": "Kindinger, J. 2001. Lightweight structural core.ASM Handbook 21, 180--183."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-16",
+                "unstructured": "Kou, X., and Tan, S. 2010. A simple and effective geometric representation for irregular porous structure modeling.Computer-Aided Design 42, 10, 930--941.",
+                "DOI": "10.1016/j.cad.2010.06.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-17",
+                "unstructured": "Li, X., Guo, X., Wang, H., He, Y., Gu, X., and Qin, H. 2007. Harmonic volumetric mapping for solid modeling applications. InProceedings of the 2007 ACM Symposium on Solid and Physical Modeling, ACM, New York, NY, USA, SPM '07, 109--120."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-18",
+                "unstructured": "Li, H., Vouga, E., Gudym, A., Luo, L., Barron, J. T., and Gusev, G. 2013. 3D self-portraits.ACM Trans. Graph. 32, 6 (November).",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-19",
+                "unstructured": "Lloyd, S. P. 1982. Least squares quantization in PCM.IEEE Transactions on Information Theory 28, 2, 129--136.",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-20",
+                "unstructured": "Patzak, B., and Rypl, D. 2012. Object-oriented, parallel finite element framework with dynamic load balancing.Adv. Eng. Softw., 35--50.",
+                "DOI": "10.1016/j.advengsoft.2011.12.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-21",
+                "unstructured": "Pottmann, H. 2012. Freeform architecture and fabrication-aware design.Computers &#38; Graphics 36, 5 (Aug.).",
+                "DOI": "10.1016/j.cag.2012.04.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-22",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make it stand: balancing shapes for 3D fabrication.ACM Trans. Graph. 32, 4 (July), 81:1--81:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-23",
+                "unstructured": "Rivers, A., Moyer, I. E., and Durand, F. 2012. Position-correcting tools for 2d digital fabrication.ACM Trans. Graph. 31, 4 (July), 88:1--88:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-24",
+                "unstructured": "Rosenberg, I. 1980. Structural rigidity i: Foundations and rigidity criteria. InCombinatorics 79 Part I, M. Deza and I. Rosenberg, Eds., vol. 8 ofAnnals of Discrete Mathematics. Elsevier, 143--161."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-25",
+                "unstructured": "Schroeder, C., Regli, W. C., Shokoufandeh, A., and Sun, W. 2005. Computer-aided design of porous artifacts.Computer-Aided Design 37, 3, 339--353.",
+                "DOI": "10.1016/j.cad.2004.03.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-26",
+                "unstructured": "Si, H., 2007. Tetgen. a quality tetrahedral mesh generator."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-27",
+                "unstructured": "Skouras, M., Thomaszewski, B., Bickel, B., and Gross, M. 2012. Computational design of rubber balloons.Comp. Graph. Forum 31, 2pt4 (May), 835--844."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-28",
+                "unstructured": "Skouras, M., Thomaszewski, B., Coros, S., Bickel, B., and Gross, M. 2013. Computational design of actuated deformable characters.ACM Trans. Graph. 32, 4 (July), 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-29",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: improving structural strength of 3D printable objects.ACM Trans. Graph. 31, 4 (July), 48:1--48:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-30",
+                "unstructured": "Telea, A., and Jalba, A. 2011. Voxel-based assessment of printability of 3D shapes. InProceedings of the 10th international conference on Mathematical morphology and its applications to image and signal processing, Springer-Verlag, ISMM'11, 393--404."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-31",
+                "unstructured": "Umetani, N., and Schmidt, R. 2013. Cross-sectional structural analysis for 3d printing optimization. InSIGGRAPH Asia 2013 Technical Briefs, ACM, New York, NY, USA, SA '13, 5:1--5:4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-32",
+                "unstructured": "Vidim&#269;e, K., Wang, S.-P., Ragan-Kelley, J., and Matusik, W. 2013. Openfab: a programmable pipeline for multi-material fabrication.ACM Trans. Graph. 32, 4 (July), 136:1--136:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-33",
+                "unstructured": "Voronoi, G. 1908. Nouvelles applications des param&#232;tres continus &#224; la th&#233;orie des formes quadratiques. deuxi&#232;me m&#233;moire. recherches sur les p arall&#233;llo&#232;dres primitifs.Journal f&#252;r die reine und angewandte Mathematik (Crelles Journal) 1908, 134 (Jan.), 198--287."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-34",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3D objects with skin-frame structures.ACM Trans. Graph. 32, 5.",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-35",
+                "unstructured": "Wicke, M., Botsch, M., and Gross, M. 2007. A finite element method on convex polyhedra.Comp. Graph. Forum 26, 3, 355--364."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-36",
+                "unstructured": "Wilson, S. 1990. A new face of aerospace honeycomb.Materials &#38; Design 11, 6, 323--326.",
+                "DOI": "10.1016/0261-3069(90)90016-D",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-37",
+                "unstructured": "Yan, D.-M., Wang, W., L&#233;vy, B., and Liu, Y. 2013. Efficient computation of clipped voronoi diagram for mesh generation.Computer-Aided Design 45, 4, 843--852. Geometric Modeling and Processing 2010."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-38",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case structural analysis.ACM Trans. Graph. 32, 4 (July), 137:1--137:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601168-39",
+                "unstructured": "Zhu, L., Xu, W., Snyder, J., Liu, Y., Wang, G., and Guo, B. 2012. Motion-guided mechanical toy modeling.ACM Trans. Graph. 31, 6 (Nov.), 127:1--127:10."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601168&amp;ftid=1488905&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:16Z",
+            "timestamp": 1565663716000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "strength to weight 3D printed objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601168",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

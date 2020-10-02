@@ -1,0 +1,278 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    6
+                ]
+            ],
+            "date-time": "2020-01-06T21:23:13Z",
+            "timestamp": 1578345793858
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1319567"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601141",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 52,
+        "title": [
+            "Pinlight displays"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Andrew",
+                "family": "Maimone",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Douglas",
+                "family": "Lanman",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kishore",
+                "family": "Rathinavel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kurtis",
+                "family": "Keller",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Henry",
+                "family": "Fuchs",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601141-1",
+                "unstructured": "Beno&#234;t-Pasanau, C., Goudail, F., Chavel, P., Cano, J.-P., and Ballet, J. 2010. Minimization of diffraction peaks of spatial light modulators using Voronoi diagrams.Opt. Express 18, 14, 15223--15235."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-2",
+                "unstructured": "Brown, M., Majumder, A., and Yang, R. 2005. Camera-based calibration techniques for seamless multiprojector displays.Visualization and Computer Graphics, IEEE Transactions on 11, 2 (March), 193--206."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-3",
+                "unstructured": "Cakmakci, O., Thompson, K., Vallee, P., Cote, J., and Rolland, J. P. 2010. Design of a free-form single-element head-worn display.Proc. SPIE 7618, Emerging Liquid Crystal Technologies V, 761803-761803-6.",
+                "DOI": "10.1117/12.840716",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-4",
+                "unstructured": "Chaing, H.-C., Ho, T.-Y., and Sheu, C.-R., 2005. Structure for reducing the diffraction effect in periodic electrode arrangements and liquid crystal device including the same. US Patent. US 6977705."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-5",
+                "unstructured": "Cheng, D., Wang, Y., Hua, H., and Sasian, J. 2011. Design of a wide-angle, lightweight head-mounted display using free-form optics tiling.Opt. Lett. 36, 11 (Jun), 2098--2100."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-6",
+                "unstructured": "Hagood, N., Barton, R., Brosnihan, T., Fijol, J., Gandhi, J., Halfman, M., Payne, R., and Steyn, J. L. 2007. 35.51: Late-news paper: A direct-view mems display for mobile applications.SID Symposium Digest of Technical Papers 38, 1, 1278--1281.",
+                "DOI": "10.1889/1.2785545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-7",
+                "unstructured": "Hiura, S., Mohan, A., and Raskar, R. 2010. Krill-eye: Superposition compound eye for wide-angle imaging via grin lenses.IPSJ Transactions on Computer Vision and Applications, 186--199."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-8",
+                "unstructured": "Jurik, J., Jones, A., Bolas, M., and Debevec, P. 2011. Prototyping a light field display involving direct observation of a video projector array. InIEEE International Workshop on Projector-Camera Systems (PROCAMS).",
+                "DOI": "10.1109/CVPRW.2011.5981693",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-9",
+                "unstructured": "Kress, B., and Starner, T. 2013. A review of head-mounted displays (HMD) technologies and applications for consumer electronics. InProc. SPIE, vol. 8720."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-10",
+                "unstructured": "Lanman, D., and Luebke, D. 2013. Near-eye light field displays.ACM Trans. Graph. 32, 6 (Nov.), 220:1--220:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-11",
+                "unstructured": "Levola, T. 2006. Diffractive optics for virtual displays. InJournal of the Society for Information Display.",
+                "DOI": "10.1889/1.2206112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-12",
+                "unstructured": "Maimone, A., and Fuchs, H. 2013. Computational augmented reality eyeglasses. InMixed and Augmented Reality (ISMAR), 2013 IEEE International Symposium on, 29--38."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-13",
+                "unstructured": "Mohan, A., Woo, G., Hiura, S., Smithwick, Q., and Raskar, R. 2009. Bokode: Imperceptible visual tags for camera based interaction from a distance. InACM SIGGRAPH 2009 Papers, ACM, New York, NY, USA, SIGGRAPH '09, 98:1--98:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-14",
+                "unstructured": "Pamplona, V. F., Mohan, A., Oliveira, M. M., and Raskar, R. 2010. Netra: Interactive display for estimating refractive errors and focal range. InACM SIGGRAPH 2010 Papers, ACM, New York, NY, USA, SIGGRAPH '10, 77:1--77:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-15",
+                "unstructured": "Pamplona, V. F., Passos, E. B., Zizka, J., Oliveira, M. M., Lawson, E., Clua, E., and Raskar, R. 2011. Catra: Interactive measuring and modeling of cataracts. InACM SIGGRAPH 2011 Papers, ACM, New York, NY, USA, SIGGRAPH '11, 47:1--47:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-16",
+                "unstructured": "Son, J.-Y., Saveljev, V. V., Kim, D.-S., Kwon, Y.-M., and Kim, S.-H. 2007. Three-dimensional imaging system based on a light-emitting diode array.Optical Engineering 46, 10, 103205-103205-4.",
+                "DOI": "10.1117/1.2780150",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-17",
+                "unstructured": "&#346;wirski, L., Bulling, A., and Dodgson, N. A. 2012. Robust real-time pupil tracking in highly off-axis images. InProceedings of ETRA.",
+                "DOI": "10.1145/2168556.2168585",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601141-18",
+                "unstructured": "Travis, A., Large, T., Emerton, N., and Bathiche, S. 2013. Wedge optics in flat panel displays.Proceedings of the IEEE 101, 1, 45--60.",
+                "DOI": "10.1109/JPROC.2011.2176689",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601141&amp;ftid=1488897&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:08Z",
+            "timestamp": 1565663708000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "wide field of view augmented reality eyeglasses using defocused point light sources"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601141",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

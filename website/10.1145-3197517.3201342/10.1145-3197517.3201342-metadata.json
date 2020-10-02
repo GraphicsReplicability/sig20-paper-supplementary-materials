@@ -1,0 +1,428 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    6
+                ]
+            ],
+            "date-time": "2020-01-06T09:44:17Z",
+            "timestamp": 1578303857101
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201342",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Support-free volume printing by multi-axis motion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Chengkai",
+                "family": "Dai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            },
+            {
+                "given": "Charlie C. L.",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            },
+            {
+                "given": "Chenming",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA, France"
+                    }
+                ]
+            },
+            {
+                "given": "Guoxin",
+                "family": "Fang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Delft University of Technology, The Netherlands"
+                    }
+                ]
+            },
+            {
+                "given": "Yong-Jin",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University, China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201342-1",
+                "unstructured": "Debapriya Chakraborty, B. Aneesh Reddy, and A. Roy Choudhury. 2008. Extruder Path Generation for Curved Layer Fused Deposition Modeling.Computer-Aided Design40, 2 (2008), 235--243.",
+                "DOI": "10.1016/j.cad.2007.10.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-2",
+                "unstructured": "J&#233;r&#233;mie Dumas, Jean Hergel, and Sylvain Lefebvre. 2014. Bridging the Gap: Automated Steady Scaffoldings for 3D Printing.ACM Trans. Graph.33, 4, Article 98 (2014), 98:1--98:10 pages.",
+                "DOI": "10.1145/2601097.2601153",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-3",
+                "unstructured": "Gershon Elber. 1994. Accessibility in 5-Axis Milling Environment.Computer-Aided Design26, 11 (1994), 796--802.",
+                "DOI": "10.1016/0010-4485(94)90093-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-4",
+                "unstructured": "Ben Ezair, Saul Fuhrmann, and Gershon Elber. 2018. Volumetric Covering Print-Paths for Additive Manufacturing of 3D Models.Computer-Aided Design100 (2018), 1--13.",
+                "DOI": "10.1016/j.cad.2018.02.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-5",
+                "unstructured": "Wei Gao, Yunbo Zhang, Diogo C. Nazzetta, Karthik Ramani, and Raymond J. Cipra. 2015a. RevoMaker: Enabling Multi-directional and Functionally-embedded 3D Printing using a Rotational Cuboidal Platform. InProceedings of the 28th Annual ACM Symposium on User Interface Software &#38; Technology (UIST '15).ACM, New York, NY, USA, 437--446.",
+                "DOI": "10.1145/2807442.2807476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-6",
+                "unstructured": "Wei Gao, Yunbo Zhang, Devarajan Ramanujan, Karthik Ramani, Yong Chen, Christopher B. Williams, Charlie C. L. Wang, Yung C. Shin, Song Zhang, and Pablo D. Zavattieri. 2015b. The Status, Challenges, and Future of Additive Manufacturing in Engineering.Computer-Aided Design69 (2015), 65--89.",
+                "DOI": "10.1016/j.cad.2015.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-7",
+                "unstructured": "Ian Gibson, David W. Rosen, and Brent Stucker. 2015.Additive Manufacturing Technologies: 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing.Springer.",
+                "DOI": "10.1007/978-1-4939-2113-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-8",
+                "unstructured": "S. Gottschalk, M. C. Lin, and D. Manocha. 1996. OBBTree: A Hierarchical Structure for Rapid Interference Detection. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '96).ACM, New York, NY, USA, 171--180.",
+                "DOI": "10.1145/237170.237244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-9",
+                "unstructured": "Philipp Herholz, Wojciech Matusik, and Marc Alexa. 2015. Approximating Free-form Geometry with Height Fields for Manufacturing.Comput. Graph. Forum34, 2 (May 2015), 239--251.",
+                "DOI": "10.1111/cgf.12556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-10",
+                "unstructured": "Kailun Hu, Shuo Jin, and Charlie C. L. Wang. 2015. Support Slimming for Single Material Based Additive Manufacturing.Computer-Aided Design65 (2015), 1--10.",
+                "DOI": "10.1016/j.cad.2015.03.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-11",
+                "unstructured": "Ruizhen Hu, Honghua Li, Hao Zhang, and Daniel Cohen-Or. 2014. Approximate Pyramidal Shape Decomposition.ACM Trans. Graph.33, 6, Article 213 (Nov. 2014), 12 pages.",
+                "DOI": "10.1145/2661229.2661244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-12",
+                "unstructured": "Yijiang Huang, Juyong Zhang, Xin Hu, Guoxian Song, Zhongyuan Liu, Lei Yu, and LigangLiu. 2016. FrameFab: Robotic Fabrication of Frame Shapes.ACM Trans. Graph.35, 6, Article 224 (2016), 224:1--224:11 pages.",
+                "DOI": "10.1145/2980179.2982401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-13",
+                "unstructured": "Oleg Ilushin, Gershon Elber, Dan Halperin, Ron Wein, and Myung-Soo Kim. 2005. Precise Global Collision Detection in Multi-Axis NC-Machining.Computer-Aided Design37, 9 (2005), 909--920.",
+                "DOI": "10.1016/j.cad.2004.09.018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-14",
+                "unstructured": "Tao Ju, Frank Losasso, Scott Schaefer, and Joe Warren. 2002. Dual Contouring of Hermite Data.ACM Trans. Graph.21, 3 (July 2002), 339--346.",
+                "DOI": "10.1145/566654.566586",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-15",
+                "unstructured": "Steven Keating and Neri Oxman. 2013. Compound Fabrication: A Multi-Functional Robotic Platform for Digital Design and Fabrication.Robot. Comput.-Integr. Manuf.29, 6 (2013), 439--448.",
+                "DOI": "10.1016/j.rcim.2013.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-16",
+                "unstructured": "Yong-Joon Kim, Gershon Elber, Michael Barto&#328;, and Helmut Pottmann. 2015. Precise Gouging-free Tool Orientations for 5-axis CNC Machining.Computer-Aided Design58 (Jan. 2015), 220--229.",
+                "DOI": "10.1016/j.cad.2014.08.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-17",
+                "unstructured": "C. J. Kruit. 2013. A Novel Additive Manufacturing Approach Using a Multiple Degrees of Freedom Robotic Arm. Master Thesis of TU Delft. (2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-18",
+                "unstructured": "Ligang Liu, Ariel Shamir, Charlie Wang, and Emily Whiting. 2014. 3D Printing Oriented Design: Geometry and Optimization. InSIGGRAPH Asia 2014 Courses.Article 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-19",
+                "unstructured": "Min Liu, Yu-Shen Liu, and Karthik Ramani. 2009. Computing Global Visibility Maps for Regions on the Boundaries of Polyhedra Using Minkowski Sums.Computer-Aided Design41, 9 (2009), 668--680.",
+                "DOI": "10.1016/j.cad.2009.03.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-20",
+                "unstructured": "Thomas Llewellyn-Jones, Allen Robert, and Trask Richard. 2016. Curved Layer Fused Filament Fabrication Using Automated Tool-Path Generation.3D Printing and Additive Manufacturing3 (2016), 236--243."
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-21",
+                "unstructured": "William E. Lorensen and Harvey E. Cline. 1987. Marching Cubes: A High Resolution 3D Surface Construction Algorithm.SIGGRAPH Comput. Graph.21, 4 (Aug. 1987), 163--169.",
+                "DOI": "10.1145/37402.37422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-22",
+                "unstructured": "Linjie Luo, Ilya Baran, Szymon Rusinkiewicz, and Wojciech Matusik. 2012. Chopper: Partitioning Models into 3D-printable Parts.ACM Trans. Graph.31, 6, Article 129 (2012), 9 pages.",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-23",
+                "unstructured": "George Marsh. 2011. Automating Aerospace Composites Production with Fibre Placement.Reinforced Plastics55, 3 (2011), 32--37.",
+                "DOI": "10.1016/S0034-3617(11)70075-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-24",
+                "unstructured": "Stefanie Mueller, Sangha Im, Serafima Gurevich, Alexander Teibrich, Lisa Pfisterer, Fran&#231;ois Guimbreti&#232;re, and Patrick Baudisch. 2014. WirePrint: 3D Printed Previews for Fast Prototyping. InProceedings of the 27th Annual ACM Symposium on User Interface Software and Technology.273--280.",
+                "DOI": "10.1145/2642918.2647359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-25",
+                "unstructured": "Jia Pan, Sachin Chitta, and Dinesh Manocha. 2012. FCL: A General Purpose Library for Collision and Proximity Queries. In2012 IEEE International Conference on Robotics and Automation.3859--3866.",
+                "DOI": "10.1109/ICRA.2012.6225337",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-26",
+                "unstructured": "Yayue Pan, Chi Zhou, Yong Chen, and Jouni Partanen. 2014. Multitool and Multi-Axis Computer Numerically Controlled Accumulation for Fabricating Conformal Features on Curved Surfaces.ASME Journal Manuf. Sci. Eng.136, 3 (2014).",
+                "DOI": "10.1115/1.4026898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-27",
+                "unstructured": "Huaishu Peng, Rundong Wu, Steve Marschner, and Fran&#231;ois Guimbreti&#232;re. 2016. On-The-Fly Print: Incremental Printing While Modelling. InProceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16).ACM, New York, NY, USA, 887--896.",
+                "DOI": "10.1145/2858036.2858106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-28",
+                "unstructured": "Ariel Shamir, Bernd Bickel, and Wojciech Matusik. 2016. Computational Tools for 3D Printing. InACM SIGGRAPH 2016 Courses (SIGGRAPH '16).Article 9, 9:1--9:34 pages."
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-29",
+                "unstructured": "Hai-Chuan Song, Nicolas Ray, Dmitry Sokolov, and Sylvain Lefebvre. 2017. Anti-Aliasing for Fused Filament Deposition.Computer-Aided Design89 (2017), 25--34.",
+                "DOI": "10.1016/j.cad.2017.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-30",
+                "unstructured": "Peng Song, Bailin Deng, Ziqi Wang, Zhichao Dong, Wei Li, Chi-Wing Fu, and Ligang Liu. 2016. CofiFab: Coarse-to-fine Fabrication of Large 3D Objects.ACM Trans. Graph.35, 4, Article 45 (July 2016), 11 pages.",
+                "DOI": "10.1145/2897824.2925876",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-31",
+                "unstructured": "Xuan Song, Yayue Pan, and Yong Chen. 2015. Development of a Low-Cost Parallel Kinematic Machine for Multidirectional Additive Manufacturing.ASME Journal Manuf Sci. Eng.137, 2 (2015).",
+                "DOI": "10.1115/1.4028897",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-32",
+                "unstructured": "Helm Volker, Willmann Jan, Thoma Andreas, Piskorec Luka, Hack Norman, Gramazio Fabio, and Kohler Matthias. 2015. Iridescence Print: Robotically Printed Lightweight Mesh Structures.3D Printing and Additive Manufacturing2, 3 (2015), 117--122."
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-33",
+                "unstructured": "Nan Wang and Kai Tang. 2007. Automatic Generation of Gouge-Free and Angular-Velocity-Compliant Five-Axis Toolpath.Computer-Aided Design39, 10 (2007), 841 -- 852.",
+                "DOI": "10.1016/j.cad.2007.04.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-34",
+                "unstructured": "Chenming Wu, Chengkai Dai, Guoxin Fang, Yong-Jin Liu, and Charlie C. L. Wang. 2017. RoboFDM: A Robotic System for Support-Free Fabrication Using FDM. In2017 IEEE International Conference on Robotics and Automation (ICRA).1175--1180.",
+                "DOI": "10.1109/ICRA.2017.7989140",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-35",
+                "unstructured": "Rundong Wu, Huaishu Peng, Fran&#231;ois Guimbreti&#232;re, and Steve Marschner. 2016. Printing Arbitrary Meshes with a 5DOF Wireframe Printer.ACM Trans. Graph.35, 4, Article 101 (2016), 101:1--101:9 pages.",
+                "DOI": "10.1145/2897824.2925966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-36",
+                "unstructured": "Chunxu Xu, Tuanfeng Y. Wang, Yong-Jin Liu, Ligang Liu, and Ying He. 2015. Fast Wavefront Propagation (FWP) for Computing Exact Geodesic Distances on Meshes.IEEE Trans. Vis. Comp. Graph.21, 7 (2015), 822--834.",
+                "DOI": "10.1109/TVCG.2015.2407404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-37",
+                "unstructured": "Xiaoting Zhang, Ka-Chun Chan, Charlie C. L. Wang, Kwok-Chuen Wong, and Shekhar-Madhukar Kumta. 2015. Computing Stable Contact Interface for Customized Surgical Jigs. In2015 IEEE International Conference on Robotics and Automation (ICRA).6160--6166.",
+                "DOI": "10.1109/ICRA.2015.7140064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-38",
+                "unstructured": "Haisen Zhao, Fanglin Gu, Qi-Xing Huang, Jorge Garcia, Yong Chen, Changhe Tu, Bedrich Benes, Hao Zhang, Daniel Cohen-Or, and Baoquan Chen. 2016. Connected Fermat Spirals for Layered Fabrication.ACM Trans. Graph.35, 4, Article 100 (July 2016), 10 pages.",
+                "DOI": "10.1145/2897824.2925958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201342-39",
+                "unstructured": "Qingnan Zhou, Eitan Grinspun, Denis Zorin, and Alec Jacobson. 2016. Mesh Arrangements for Solid Geometry.ACM Trans. Graph.35, 4, Article 39 (July 2016), 15 pages.",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201342&ftid=1991662&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:23Z",
+            "timestamp": 1571673443000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201342",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

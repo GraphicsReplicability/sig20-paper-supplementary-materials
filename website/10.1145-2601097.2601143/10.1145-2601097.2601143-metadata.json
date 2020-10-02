@@ -1,0 +1,322 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227763
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601143",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 51,
+        "title": [
+            "Computational design of linkage-based characters"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Stelian",
+                "family": "Coros",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Damien",
+                "family": "Gauge",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Vittorio",
+                "family": "Megaro",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601143-1",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating articulated characters from skinned meshes. InProc. of ACM SIGGRAPH '12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-2",
+                "unstructured": "Bedini, S. A. 1964. The role of automata in the history of technology.Technology and Culture 5, 1, 24--42.",
+                "DOI": "10.2307/3101120",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-3",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.Proc. of ACM SIGGRAPH '10.",
+                "DOI": "10.1145/1833349.1778800",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-4",
+                "unstructured": "Bickel, B., Kaufmann, P., Skouras, M., Thomaszewski, B., Bradley, D., Beeler, T., Jackson, P., Marschner, S., Matusik, W., and Gross, M. 2012. Physical face cloning. InProc. of ACM SIGGRAPH '12.",
+                "DOI": "10.1145/2185520.2335469",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-5",
+                "unstructured": "Burmester, L. 1888.Lehrbuch der Kinematik. Arthur Felix, Leipzig."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-6",
+                "unstructured": "Cal&#236;, J., Calian, D., Amati, C., Kleinberger, R., Steed, A., Kautz, J., and Weyrich, T. 2012. 3D-printing of non-assembly, articulated models. InProc. of ACM SIGGRAPH Asia '12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-7",
+                "unstructured": "Ceylan, D., Li, W., Mitra, N. J., Agrawala, M., and Pauly, M. 2013. Designing and fabricating mechanical automata from mocap sequences. InProc. of ACM SIGGRAPH Asia '13.",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-8",
+                "unstructured": "Chase, A., 2014. Chase studio, http://www.andrewchase.com/. Accessed on April 6, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-9",
+                "unstructured": "Coros, S., Thomaszewski, B., Noris, G., Sueda, S., Forberg, M., Sumner, R. W., Matusik, W., and Bickel, B. 2013. Computational design of mechanical characters. InProc. of ACM SIGGRAPH '13.",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-10",
+                "unstructured": "Dong, Y., Wang, J., Pellacini, F., Tong, X., and Guo, B. 2010. Fabricating spatially-varying subsurface scattering. InProc. of ACM SIGGRAPH '10.",
+                "DOI": "10.1145/1833349.1778799",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-11",
+                "unstructured": "Freudenstein, F. 1954.Design of Four-link Mechanisms. Ph. D. Thesis, Columbia University, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-12",
+                "unstructured": "Gergaut, W., 2011. Mechanische figuren, https://www.youtube.com/watch?v=rgcaxj55ngw. Accessed on April 6, 2014."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-13",
+                "unstructured": "Hasan, M., Fuchs, M., Matusik, W., Pfister, H., and Rusinkiewicz, S. 2010. Physical reproduction of materials with specified subsurface scattering. InProc. of ACM SIGGRAPH '10.",
+                "DOI": "10.1145/1833349.1778798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-14",
+                "unstructured": "Igarashi, Y., Igarashi, T., and Mitani, J. 2012. Beady: Interactive beadwork design and construction. InProc. of ACM SIGGRAPH '12.",
+                "DOI": "10.1145/2077378.2077400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-15",
+                "unstructured": "Kaufman, R. E., and Maurer, W. G. 1971. Interactive linkage synthesis on a small computer. InProceedings of the 1971 26th Annual Conference, ACM '71, 376--387."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-16",
+                "unstructured": "King, H. C. 1998. Planar Linkages and Algebraic Sets. Tech. Rep. math. AG/9807023, Jul."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-17",
+                "unstructured": "Lau, M., Ohgawara, A., Mitani, J., and Igarashi, T. 2011. Converting 3D furniture models to fabricatable parts and connectors. InProc. of ACM SIGGRAPH '11.",
+                "DOI": "10.1145/1964921.1964980",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-18",
+                "unstructured": "Mori, Y., and Igarashi, T. 2007. Plushie: An interactive design system for plush toys. InProc. of ACM SIGGRAPH '07.",
+                "DOI": "10.1145/1275808.1276433",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-19",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing shapes for 3D fabrication. InProc. of ACM SIGGRAPH '13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-20",
+                "unstructured": "Skouras, M., Thomaszewski, B., Bickel, B., and Gross, M. 2012. Computational design of rubber balloons. InProc. of Eurographics '12.",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-21",
+                "unstructured": "Skouras, M., Thomaszewski, B., Coros, S., Bickel, B., and Gross, M. 2013. Computational design of actuated deformable characters. InProc. of ACM SIGGRAPH '13.",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-22",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: improving structural strength of 3d printable objects. InProc. of ACM SIGGRAPH '12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-23",
+                "unstructured": "Umetani, N., Igarashi, T., and Mitra, N. J. 2012. Guided exploration of physically valid shapes for furniture design. InProc. of ACM SIGGRAPH '12.",
+                "DOI": "10.1145/2185520.2335437",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-24",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3d objects with skin-frame structures. InProc. of ACM SIGGRAPH Asia '13.",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-25",
+                "unstructured": "Weyrich, T., Peers, P., Matusik, W., and Rusinkiewicz, S. 2009. Fabricating microgeometry for custom surface reflectance. InProc. of ACM SIGGRAPH '09.",
+                "DOI": "10.1145/1576246.1531338",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-26",
+                "unstructured": "Zhou, Q., Panetta, J., and Zorin, D. 2013. Worst-case structural analysis. InProc. of ACM SIGGRAPH '13.",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601143-27",
+                "unstructured": "Zhu, L., Xu, W., Snyder, J., Liu, Y., Wang, G., and Guo, B. 2012. Motion-guided mechanical toy modeling. InProc. of ACM SIGGRAPH Asia '12.",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601143&amp;ftid=1488872&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:03Z",
+            "timestamp": 1565663703000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601143",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

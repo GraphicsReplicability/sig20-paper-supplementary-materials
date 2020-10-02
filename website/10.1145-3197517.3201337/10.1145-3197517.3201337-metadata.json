@@ -1,0 +1,544 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:44Z",
+            "timestamp": 1574859824479
+        },
+        "reference-count": 64,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RGPIN2017-05235, RGPAS-2017-507938, RGPIN-2017-05524, RGPAS-2017-507909"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001804",
+                "name": "The Canada Research Chairs Program",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100007224",
+                "name": "Connaught Fund",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "NR2016-17"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201337",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Fast winding numbers for soups and clouds"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Gavin",
+                "family": "Barill",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Neil G.",
+                "family": "Dickson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Side Effects Software Inc., Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Ryan",
+                "family": "Schmidt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Gradientspace, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201337-1",
+                "unstructured": "M Alexa, Johannes Behr, D Cohen-Or, Shachar Fleishman, David Levin, and Cl&#225;udio T Silva. 2001. Point Set Surfaces.IEEE Visualization(2001), 21--537."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-2",
+                "unstructured": "Nina Amenta and Yong Joo Kil. 2004. Denning point-set surfaces.ACM Trans. Graph.(2004).",
+                "DOI": "10.1145/1186562.1015713",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-3",
+                "unstructured": "James L. Andrews. 2013.User-Guided Inverse 3D Modeling.Ph.D. Dissertation. UC Berkeley."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-4",
+                "unstructured": "J. Andreas Baerentzen and Henrik Aanaes. 2005. Signed Distance Computation Using the Angle Weighted Pseudonormal.IEEE TVCG(2005).",
+                "DOI": "10.1109/TVCG.2005.49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-5",
+                "unstructured": "J. Barnes and P. Hut. 1986. A hierarchical O(N log N) force-calculation algorithm.Nature(1986).",
+                "DOI": "10.1038/324446a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-6",
+                "unstructured": "Mikhail Belkin, Jian Sun, and Yusu Wang. 2009. Constructing Laplace Operator from Point Clouds in Rd. InProceedings of the Twentieth Annual ACM-SIAM Symposium on Discrete Algorithms (SODA '09).Society for Industrial and Applied Mathematics, Philadelphia, PA, USA, 1031--1040. http://dl.acm.org/citation.cfm?id=1496770.1496882",
+                "DOI": "10.1137/1.9781611973068.112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-7",
+                "unstructured": "Matthew Berger, Andrea Tagliasacchi, Lee M. Seversky, Pierre Alliez, Ga&#235;l Guennebaud, Joshua A. Levine, Andrei Sharf, and Claudio T. Silva. 2017. A Survey of Surface Reconstruction from Point Clouds.Comput. Graph. Forum(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-8",
+                "unstructured": "Guy E Blelloch and Girija J Narlikar. 1994. A practical comparison of N-body algorithms.Parallel Algorithms(1994)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-9",
+                "unstructured": "Dobrina Boltcheva and Bruno L&#233;vy. 2017. Surface reconstruction by computing restricted Voronoi cells in parallel.Computer-Aided Design(2017).",
+                "DOI": "10.1016/j.cad.2017.05.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-10",
+                "unstructured": "Pavel Borodin, Gabriel Zachmann, and Reinhard Klein. 2004. Consistent Normal Orientation for Polygonal Meshes. InComputer Graphics International 2004 (CGI 2004).18--25.",
+                "DOI": "10.1109/CGI.2004.1309188",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-11",
+                "unstructured": "Fatih Calakli and Gabriel Taubin. 2011. SSD - Smooth Signed Distance Surface Reconstruction.Comput. Graph. Forum30, 7 (2011), 1993--2002.",
+                "DOI": "10.1111/j.1467-8659.2011.02058.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-12",
+                "unstructured": "St&#233;phane Calderon and Tamy Boubekeur. 2014. Point morphology.ACM Transactions on Graphics(2014).",
+                "DOI": "10.1145/2601097.2601130",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-13",
+                "unstructured": "Jonathan C Carr, Richard K Beatson, Jon B Cherrie, Tim J Mitchell, W Richard Fright, Bruce C McCallum, and Tim R Evans. 2001. Reconstruction and representation of 3D objects with radial basis functions.Siggraph(2001), 67--76."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-14",
+                "unstructured": "F. Cazals and M. Pouget. 2003. Estimating differential quantities using polynomial fitting of osculating jets. InProc. SGP.177--187."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-15",
+                "unstructured": "Angel X. Chang, Thomas A. Funkhouser, Leonidas J. Guibas, Pat Hanrahan, Qi-Xing Huang, Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, and Fisher Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository.CoRR(2015). arXiv:1512.03012"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-16",
+                "unstructured": "Paolo Cignoni, Massimiliano Corsini, and Guido Ranzuglia. 2008. MeshLab: an Open-Source 3D Mesh Processing System.ERCIM News73 (April 2008), 45--46. http://vcg.isti.cnr.it/Publications/2008/CCR08"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-17",
+                "unstructured": "Paolo Cignoni, Paola Marino, Claudio Montani, Enrico Puppo, and Roberto Scopigno. 1997. Speeding Up Isosurface Extraction Using Interval Trees.IEEE Trans. Vis. Comput. Graph.(1997).",
+                "DOI": "10.1109/2945.597798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-18",
+                "unstructured": "Fang Da, David Hahn, Christopher Batty, Chris Wojtan, and Eitan Grinspun. 2016. Surface-only liquids.ACM Transactions on Graphics(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-19",
+                "unstructured": "Martin de Lasa. 2018. Autodesk, personal communication. (2018)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-20",
+                "unstructured": "Olivier Dionne and Martin de Lasa. 2013. Voxelization using generalized winding numbers. (2013). https://vimeo.com/72468198"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-21",
+                "unstructured": "Olivier Dionne and Martin de Lasa. 2014. Geodesic Binding for Degenerate Character Geometry Using Sparse Voxelization.IEEE Trans. Vis. Comput. Graph.(2014).",
+                "DOI": "10.1109/TVCG.2014.2321563",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-22",
+                "unstructured": "Lawrence C. Evans. 1997.Partial Differential Equations(1 ed.). 37 pages.",
+                "DOI": "10.1007/978-1-4899-2846-7_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-23",
+                "unstructured": "Oleg Fryazinov, Alexander A Pasko, and Valery Adzhiev. 2011. BSP-fields - An exact representation of polygonal objects by differentiable scalar fields based on binary space partitioning.Computer-Aided Design(2011).",
+                "DOI": "10.1016/j.cad.2010.11.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-24",
+                "unstructured": "Simon Fuhrmann and Michael Goesele. 2014. Floating Scale Surface Reconstruction.ACM Trans. Graph.33, 4, Article 46 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601163",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-25",
+                "unstructured": "Leslie Greengard and Zydrunas Gimbutas. 2017. fmmlib3d: Fast Multipole Method (FMM) library in R3. (2017). https://github.com/zgimbutas/fmmlib3d Version 1.2.1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-26",
+                "unstructured": "L. Greengard and V. Rokhlin. 1997. A Fast Algorithm for Particle Simulations.J. Comput. Phys.135, 2 (1997), 280 -- 292.",
+                "DOI": "10.1006/jcph.1997.5706",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-27",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#238;t Jacob, et al. 2010. Eigen v3. (2010). http://eigen.tuxfamily.org."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-28",
+                "unstructured": "A Ichim, P Kadlecek, L Kavan, and M Pauly. 2017. Phace: Physics-based Face Modeling and Animation.ACM Trans. Graph.(2017).",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-29",
+                "unstructured": "Peter Ilbery, Luke Kendall, Cyril Concolato, and Michael McCosker. 2013. Biharmonic Diffusion Curve Images from Boundary Elements.ACM Trans. Graph.(2013).",
+                "DOI": "10.1145/2508363.2508426",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-30",
+                "unstructured": "Alec Jacobson. 2016. Boolean Operations using Generalized Winding Numbers.CoRRabs/1601.07953 (2016). arXiv:1601.07953 http://arxiv.org/abs/1601.07953"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-31",
+                "unstructured": "Alec Jacobson, Ladislav Kavan, and Olga Sorkine-Hornung. 2013. Robust Inside-Outside Segmentation using Generalized Winding Numbers.ACM Transactions on Graphics (proceedings of ACM SIGGRAPH)32, 4 (2013), 33:1--33:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-32",
+                "unstructured": "Alec Jacobson, Daniele Panozzo, et al. 2017. libigl: A simple C++ geometry processing library. (2017). http://libigl.github.io/libigl/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-33",
+                "unstructured": "Chiyu Jian and Philip Marcus. 2017. Hierarchical Detail Enhancing Mesh-Based Shape Generation with 3D Generative Adversarial Network.CoRR(2017). arXiv:1709.07581"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-34",
+                "unstructured": "Michael Kazhdan, Matthew Bolitho, and Hugues Hoppe. 2006. Poisson surface reconstruction. InProc. SGP.61--70."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-35",
+                "unstructured": "Michael Kazhdan and Hugues Hoppe. 2013. Screened poisson surface reconstruction.ACM Transactions on Graphics (TOG)32, 3 (2013), 29."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-36",
+                "unstructured": "Binh Huy Le and Zhigang Deng. 2017. Interactive cage generation for mesh deformation.I3D(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-37",
+                "unstructured": "William E Lorensen and Harvey E Cline. 1987. Marching cubes - A high resolution 3D surface construction algorithm.Siggraph(1987), 163--169."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-38",
+                "unstructured": "Wenjia Lu, Zuoqiang Shi, Bin Wang, and Jian Sun. 2017. Gauss Surface Reconstruction. InGeometric Modeling and Processing."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-39",
+                "unstructured": "Geoffrey Marchal. 2015. Head St Batist-decimated. (May 2015). https://sketchfab.com/models/3d3115c7db08466abbbb0dcaac2c962e"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-40",
+                "unstructured": "A.L.F Meister. 1769. Generalia de genesi figurarum planarum et inde pendentibus earum ajfectionibus.Novi Comm. Soc. Reg. Scient. Gotting.(1769), 144--180+9 plates."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-41",
+                "unstructured": "Christian Mostegel, Rudolf Prettenthaler, Friedrich Fraundorfer, and Horst Bischof. 2017. Scalable Surface Reconstruction from Point Clouds with Extreme Scale and Density Diversity.CVPR(2017).",
+                "DOI": "10.1109/CVPR.2017.268",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-42",
+                "unstructured": "T. M. Murali and Thomas A. Funkhouser. 1997. Consistent Solid and Boundary Representations from Arbitrary Polygonal Data. InProceedings of the 1997 Symposium on Interactive 3D Graphics (I3D '97).ACM, New York, NY, USA, 155--ff.",
+                "DOI": "10.1145/253284.253326",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-43",
+                "unstructured": "Rahul Narain. 2013. The harmonicity of the generalized winding number. (2013). http://r-to-the-n.tumblr.com/post/52752267384/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-44",
+                "unstructured": "Fakir S. Nooruddin and Greg Turk. 2003. Simplification and Repair of Polygonal Models Using Volumetric Techniques.IEEE Transactions on Visualization and Computer Graphics9, 2 (April 2003), 191--205.",
+                "DOI": "10.1109/TVCG.2003.1196006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-45",
+                "unstructured": "Yutaka Ohtake, Alexander Belyaev, Marc Alexa, Greg Turk, and Hans-Peter Seidel. 2003. Multi-Level Partition of Unity Implicits.ACM Trans. Graph.(2003).",
+                "DOI": "10.1145/1201775.882293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-46",
+                "unstructured": "Yutaka Ohtake, Alexander Belyaev, and Hans-Peter Seidel. 2004. Ridge-Valley Lines on Meshes via Implicit Surface Fitting.ACM Trans. Graph.(2004).",
+                "DOI": "10.1145/1186562.1015768",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-47",
+                "unstructured": "Alexandrina Orzan, Adrien Bousseau, Holger Winnem&#246;ller, Pascal Barla, Jo&#235;lle Thollot, and David Salesin. 2008. Diffusion curves - a vector representation for smooth-shaded images.ACM Trans. Graph.(2008)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-48",
+                "unstructured": "Mathieu Sanchez, Oleg Fryazinov, and Alexander Pasko. 2012. Efficient Evaluation of Continuous Signed Distance to a Polygonal Mesh. InProc. SCCG.",
+                "DOI": "10.1145/2448531.2448544",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-49",
+                "unstructured": "L. M. Seversky and L. Yin. 2012. A Global Parity Measure for Incomplete Point Cloud Data.Comput. Graph. Forum31, 7ptl (Sept. 2012), 2097--2106.",
+                "DOI": "10.1111/j.1467-8659.2012.03202.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-50",
+                "unstructured": "Shy Shalom, Ariel Shamir, Hao Zhang 0002, and D Cohen-Or. 2010. Cone carving for surface reconstruction.ACM Trans. Graph.(2010).",
+                "DOI": "10.1145/1866158.1866176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-51",
+                "unstructured": "C Shen, J.F. O'Brien, and J.R. Shewchuk. 2004. Interpolating and approximating implicit surfaces from polygon soup. 23, 3 (2004), 896--904."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-52",
+                "unstructured": "Jonathan Richard Shewchuk. 1996. Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator. InApplied Computational Geometry: Towards Geometric Engineering.Lecture Notes in Computer Science, Vol. 1148. Springer-Verlag, 203--222.",
+                "DOI": "10.1007/BFb0014497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-53",
+                "unstructured": "Timothy Sun, Papoj Thamjaroenporn, and Changxi Zheng. 2014. Fast multipole representation of diffusion curves and points.ACM Transactions on Graphics(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-54",
+                "unstructured": "Xin Sun, Guofu Xie, Yue Dong, Stephen Lin, W Xu, Wencheng Wang, Xin Tong, and Baining Guo. 2012. Diffusion curve textures for resolution independent texture mapping.ACM Transactions on Graphics (TOG)(2012).",
+                "DOI": "10.1145/2185520.2185570",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-55",
+                "unstructured": "Kenshi Takayama, Alec Jacobson, Ladislav Kavan, and Olga Sorkine-Hornung. 2014. A Simple Method for Correcting Facet Orientations in Polygon Meshes Based on Ray Casting.Journal of Computer Graphics Techniques(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-56",
+                "unstructured": "Jasper van de Gronde. 2010.A High Quality Solver for Diffusion Curves.PhD. Dissertation. University of Groningen."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-57",
+                "unstructured": "A van Oosterom and J Strackee. 1983. The Solid Angle of a Plane Triangle.IEEE Trans. Biomedical Engineering30, 2 (1983).",
+                "DOI": "10.1109/TBME.1983.325207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-58",
+                "unstructured": "He Wang, Kirill A. Sidorov, Peter Sandilands, and Taku Komura. 2013. Harmonic Parameterization by Electrostatics.ACM Trans. Graph.(2013).",
+                "DOI": "10.1145/2503177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-59",
+                "unstructured": "G Wyvill, C McPheeters, and B Wyvill. 1986. Data structure for soft objects.The Visual Computer(1986).",
+                "DOI": "10.1007/978-4-431-68036-9_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-60",
+                "unstructured": "Hongyi Xu and Jernej Barbi&#269;. 2014. Signed Distance Fields for Polygon Soup Meshes.Graphics Interface 2014(2014)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-61",
+                "unstructured": "Lyubomir Zagorchev and A Ardeshir Goshtasby. 2012. A Curvature-Adaptive Implicit Surface Reconstruction for Irregularly Spaced Points.IEEE Trans. Vis. Comput. Graph.(2012).",
+                "DOI": "10.1109/TVCG.2011.276",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-62",
+                "unstructured": "Xinxin Zhang and Robert Bridson. 2014. A PPPM fast summation method for fluids and beyond.ACM Transactions on Graphics(2014).",
+                "DOI": "10.1145/2661229.2661261",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-63",
+                "unstructured": "Kaichi Zhou, Eugene Zhang, Jir&#237; Bittner, and Peter Wonka. 2008. Visibility-driven Mesh Analysis and Visualization through Graph Cuts.IEEE Transactions on Visualization and Computer Graphics14 (2008).",
+                "DOI": "10.1109/TVCG.2008.176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201337-64",
+                "unstructured": "Qingnan Zhou and Alec Jacobson. 2016. Thingi10K: A Dataset of 10, 000 3D-Printing Models.CoRRabs/1605.04797 (2016). arXiv:1605.04797 http://arxiv.org/abs/1605.04797"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201337&ftid=1991579&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:44:51Z",
+            "timestamp": 1571672691000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 64,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201337",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

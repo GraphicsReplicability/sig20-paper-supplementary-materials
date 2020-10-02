@@ -1,0 +1,442 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:10Z",
+            "timestamp": 1574859850510
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003407",
+                "name": "Ministero dell'Istruzione, dell'Universit\u00e0 e della Ricerca",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2015B8TRFM DSURF"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "727188 EMOTIVE, 715767 MATERIALIZABLE"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201381",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Metamolds"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Alderighi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Pisa and ISTI - CNR"
+                    }
+                ]
+            },
+            {
+                "given": "Luigi",
+                "family": "Malomo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI - CNR"
+                    }
+                ]
+            },
+            {
+                "given": "Daniela",
+                "family": "Giorgi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI - CNR"
+                    }
+                ]
+            },
+            {
+                "given": "Nico",
+                "family": "Pietroni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Technology Sidney and ISTI - CNR"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Paolo",
+                "family": "Cignoni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI - CNR"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201381-1",
+                "unstructured": "Marco Attene. 2015. Shapes In a Box: Disassembling 3D Objects for Efficient Packing and Fabrication.Comput. Graph. Forum34, 8 (Dec. 2015), 64--76.",
+                "DOI": "10.1111/cgf.12608",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-2",
+                "unstructured": "V. Babaei, J. Ramos, Y. Lu, G. Webster, and W. Matusik. 2017. FabSquare: Fabricating Photopolymer Objects by Mold 3D Printing and UV Curing.IEEE Computer Graphics and Applications37, 3 (May 2017), 34--42.",
+                "DOI": "10.1109/MCG.2017.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-3",
+                "unstructured": "Amit H. Bermano, Thomas Funkhouser, and Szymon Rusinkiewicz. 2017. State of the Art in Methods and Representations for Fabrication-Aware Design.Comput. Graph. Forum36, 2 (May 2017), 509--535.",
+                "DOI": "10.1111/cgf.13146",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-4",
+                "unstructured": "S. Biasotti, D. Giorgi, M. Spagnuolo, and B. Falcidieno. 2008. Reeb Graphs for Shape Analysis and Applications.Theor. Comput. Sci.392, 1--3 (Feb. 2008), 5--22."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-5",
+                "unstructured": "Yuri Boykov, Olga Veksler, and Ramin Zabih. 2001. Fast Approximate Energy Minimization via Graph Cuts.IEEE Trans. Pattern Anal. Mach. Intell.23, 11 (Nov. 2001), 1222--1239.",
+                "DOI": "10.1109/34.969114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-6",
+                "unstructured": "Tim Bruckner, Zach Oat, and Ruben Procopio. 2010.Pop sculpture.Watson-Guptill Publications."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-7",
+                "unstructured": "Vicent Caselles, Ron Kimmel, and Guillermo Sapiro. 1997. Geodesic Active Contours.Int. J. Comput. Vision22, 1 (Feb. 1997), 61--79.",
+                "DOI": "10.1023/A:1007979827043",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-8",
+                "unstructured": "Pritam Chakraborty and N. Venkata Reddy. 2009. Automatic determination of parting directions, parting lines and surfaces for two-piece permanent molds.Journal of Materials Processing Technology209, 5 (2009), 2464 -- 2476.",
+                "DOI": "10.1016/j.jmatprotec.2008.05.051",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-9",
+                "unstructured": "Xiaobai Chen, Aleksey Golovinskiy, and Thomas Funkhouser. 2009. A Benchmark for 3D Mesh Segmentation.ACM Trans. Graph.28, 3, Article 73 (July 2009), 12 pages.",
+                "DOI": "10.1145/1531326.1531379",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-10",
+                "unstructured": "Xuelin Chen, Hao Zhang, Jinjie Lin, Ruizhen Hu, Lin Lu, Qixing Huang, Bedrich Benes, Daniel Cohen-Or, and Baoquan Chen. 2015. Dapper: Decompose-and-pack for 3D Printing.ACM Trans. Graph.34, 6, Article 213 (Oct. 2015), 12 pages.",
+                "DOI": "10.1145/2816795.2818087",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-11",
+                "unstructured": "Ernest P De Garmo, J Temple Black, and Ronald A Kohser. 2011.DeGarmo's materials and processes in manufacturing.John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-12",
+                "unstructured": "Andrew Delong, Anton Osokin, Hossam N. Isack, and Yuri Boykov. 2012. Fast Approximate Energy Minimization with Label Costs.Int. J. Comput. Vision96, 1 (Jan. 2012), 1--27.",
+                "DOI": "10.1007/s11263-011-0437-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-13",
+                "unstructured": "Tamal K. Dey, Fengtao Fan, and Yusu Wang. 2013. An Efficient Computation of Handle and Tunnel Loops via Reeb Graphs.ACM Trans. Graph.32, 4, Article 32 (July 2013), 10 pages.",
+                "DOI": "10.1145/2461912.2462017",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-14",
+                "unstructured": "Gurobi Optimization, Inc. 2016. Gurobi Optimizer Reference Manual. (2016). http://www.gurobi.com"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-15",
+                "unstructured": "Philipp Herholz, Wojciech Matusik, and Marc Alexa. 2015. Approximating Free-form Geometry with Height Fields for Manufacturing.Comput. Graph. Forum34, 2 (May 2015), 239--251.",
+                "DOI": "10.1111/cgf.12556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-16",
+                "unstructured": "Ruizhen Hu, Honghua Li, Hao Zhang, and Daniel Cohen-Or. 2014. Approximate Pyramidal Shape Decomposition.ACM Trans. Graph.33, 6, Article 213 (Nov. 2014), 12 pages.",
+                "DOI": "10.1145/2661229.2661244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-17",
+                "unstructured": "Alec Jacobson. 2017. Generalized Matryoshka: Computational Design of Nesting Objects.Comput. Graph. Forum36, 5 (Aug. 2017), 27--35.",
+                "DOI": "10.1111/cgf.13242",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-18",
+                "unstructured": "Evangelos Kalogerakis, Aaron Hertzmann, and Karan Singh. 2010. Learning 3D Mesh Segmentation and Labeling.ACM Trans. Graph.29, 4, Article 102 (July 2010), 12 pages.",
+                "DOI": "10.1145/1833351.1778839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-19",
+                "unstructured": "Michael Kazhdan and Hugues Hoppe. 2013. Screened Poisson Surface Reconstruction.ACM Trans. Graph.32, 3, Article 29 (July 2013), 13 pages.",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-20",
+                "unstructured": "Benjamin Keinert, Matthias Innmann, Michael S&#228;nger, and Marc Stamminger. 2015. Spherical Fibonacci Mapping.ACM Trans. Graph.34, 6, Article 193 (Oct. 2015), 7 pages.",
+                "DOI": "10.1145/2816795.2818131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-21",
+                "unstructured": "Alan C. Lin and Nguyen Huu Quang. 2014. Automatic generation of mold-piece regions and parting curves for complex CAD models in multi-piece mold design.Computer-Aided Design57 (2014), 15 -- 28.",
+                "DOI": "10.1016/j.cad.2014.06.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-22",
+                "unstructured": "O. Litany, E. Rodol&#224;, A. M. Bronstein, M. M. Bronstein, and D. Cremers. 2016. Non-Rigid Puzzles.Comput. Graph. Forum35, 5 (Aug. 2016), 135--143.",
+                "DOI": "10.1111/cgf.12970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-23",
+                "unstructured": "Ligang Liu, Ariel Shamir, Charlie Wang, and Emily Whitening. 2014. 3D Printing Oriented Design: Geometry and Optimization. InSIGGRAPH Asia 2014 Courses (SA '14).ACM, New York, NY, USA, Article 1.",
+                "DOI": "10.1145/2659467.2675050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-24",
+                "unstructured": "Linjie Luo, Ilya Baran, Szymon Rusinkiewicz, and Wojciech Matusik. 2012. Chopper: Partitioning Models into 3D-printable Parts.ACM Trans. Graph.31, 6, Article 129 (Nov. 2012), 9 pages.",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-25",
+                "unstructured": "Luigi Malomo, Nico Pietroni, Bernd Bickel, and Paolo Cignoni. 2016. FlexMolds: Automatic Design of Flexible Shells for Molding.ACM Trans. Graph.35, 6, Article 223 (Nov. 2016), 12 pages.",
+                "DOI": "10.1145/2980179.2982397",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-26",
+                "unstructured": "M. Mortara, G. Patan&#232;, M. Spagnuolo, B. Falcidieno, and J. Rossignac. 2004. Plumber: A Method for a Multi-scale Decomposition of 3D Shapes into Tubular Primitives and Bodies. InProc. of the 9th ACM Symposium on Solid Modeling and Applications (SM '04).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 339--344."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-27",
+                "unstructured": "Daniele Panozzo, Enrico Puppo, Marco Tarini, and Olga Sorkine-Hornung. 2014. Frame Fields: Anisotropic and Non-orthogonal Cross Fields.ACM Trans. Graph.33, 4, Article 134 (July 2014), 11 pages.",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-28",
+                "unstructured": "Guodong Rong and Tiow-Seng Tan. 2006. Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform. InProceedings of the 2006 Symposium on Interactive 3D Graphics and Games (I3D '06).ACM, New York, NY, USA, 109--116.",
+                "DOI": "10.1145/1111411.1111431",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-29",
+                "unstructured": "Ariel Shamir. 2008. A survey on Mesh Segmentation Techniques.Computer Graphics Forum(2008).",
+                "DOI": "10.1111/j.1467-8659.2007.01103.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-30",
+                "unstructured": "L. Shapira, S. Shalom, A. Shamir, D. Cohen-Or, and H. Zhang. 2010. Contextual Part Analogies in 3D Objects.Int. J. Comput. Vision89, 2--3 (Sept. 2010), 309--326."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-31",
+                "unstructured": "Oana Sidi, Oliver van Kaick, Yanir Kleiman, Hao Zhang, and Daniel Cohen-Or. 2011. Unsupervised Co-segmentation of a Set of Shapes via Descriptor-space Spectral Clustering.ACM Trans. Graph.30, 6, Article 126 (Dec. 2011), 10 pages.",
+                "DOI": "10.1145/2024156.2024160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-32",
+                "unstructured": "Robert W. Sumner and Jovan Popovi&#263;. 2004. Deformation Transfer for Triangle Meshes.ACM Trans. Graph.23, 3 (Aug. 2004), 399--405.",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-33",
+                "unstructured": "Nobuyuki Umetani, Bernd Bickel, and Wojciech Matusik. 2015. Computational Tools for 3D Printing. InACM SIGGRAPH 2015 Courses (SIGGRAPH '15).ACM, New York, NY, USA, Article 9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-34",
+                "unstructured": "J. Vanek, J. A. Garcia Galicia, B. Benes, R. M&#378;ch, N. Carr, O. Stava, and G. S. Miller. 2014. PackMerger: A 3D Print Volume Optimizer.Comput. Graph. Forum33, 6 (Sept. 2014), 322--332.",
+                "DOI": "10.1111/cgf.12353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-35",
+                "unstructured": "Somlak Wannarumon. 2011. Reviews of Computer-Aided Technologies for Jewelry Design and Casting.Naresuan University Engineering Journal6, 1 (2011), 45--56."
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-36",
+                "unstructured": "Chunjie Zhang, Xionghui Zhou, and Congxin Li. 2010. Feature extraction from freeform molded parts for moldability analysis.The International Journal of Advanced Manufacturing Technology48, 1 (01 Apr 2010), 273--282.",
+                "DOI": "10.1007/s00170-009-2273-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-37",
+                "unstructured": "Eugene Zhang, Konstantin Mischaikow, and Greg Turk. 2005. Feature-based Surface Parameterization and Texture Mapping.ACM Trans. Graph.24, 1 (Jan. 2005), 1--27.",
+                "DOI": "10.1145/1037957.1037958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-38",
+                "unstructured": "Qingnan Zhou, Eitan Grinspun, Denis Zorin, and Alec Jacobson. 2016. Mesh Arrangements for Solid Geometry.ACM Trans. Graph.35, 4, Article 39 (July 2016), 15 pages.",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201381-39",
+                "unstructured": "Song Chun Zhu and Alan Yuille. 1996. Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multiband Image Segmentation.IEEE Trans. Pattern Anal. Mach. Intell.18, 9 (Sept. 1996), 884--900.",
+                "DOI": "10.1109/34.537343",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201381&ftid=1991608&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:57:33Z",
+            "timestamp": 1571673453000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "computational design of silicone molds"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201381",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

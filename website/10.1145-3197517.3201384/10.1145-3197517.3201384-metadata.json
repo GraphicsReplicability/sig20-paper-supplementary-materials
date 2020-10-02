@@ -1,0 +1,356 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:03Z",
+            "timestamp": 1574859843783
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201384",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Instant 3D photography"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Peter",
+                "family": "Hedman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Kopf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201384-1",
+                "unstructured": "Sameer Agarwal, Keir Mierle, and Others. 2017. Ceres Solver, http://ceres-solver.org. (2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-2",
+                "unstructured": "Robert Anderson, David Gallup, Jonathan T. Barron, Janne Kontkanen, Noah Snavely, Carlos Hernandez Esteban, Sameer Agarwal, and Steven M. Seitz. 2016. Jump: Virtual Reality Video.ACM Transactions on Graphics35, 6 (2016).",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-3",
+                "unstructured": "Nicholas Ayache. 1989.Vision St&#233;r&#233;oscopique et Perception Multisensorielle: Application &#224; la robotique mobile.Inter-Editions (MASSON). https://hal.inria.fr/inria-00615192"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-4",
+                "unstructured": "Jonathan T. Barron, Andrew Adams, YiChang Shih, and Carlos Hern&#225;ndez. 2015. Fast Bilateral-Space Stereo for Synthetic Defocus.Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(2015), 4466--4474."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-5",
+                "unstructured": "Angela Dai, Angel X. Chang, Manolis Savva, Maciej Halber, Thomas Funkhouser, and Matthias Nie&#223;ner. 2017a. ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes.Proc. Computer Vision and Pattern Recognition (CVPR), IEEE(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-6",
+                "unstructured": "Angela Dai, Matthias Nie&#223;ner, Michael Zoll&#246;fer, Shahram Izadi, and Christian Theobalt. 2017b. BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration.ACM Transactions on Graphics 2017 (TOG)36, 3 (2017), Article no. 24."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-7",
+                "unstructured": "Abe Davis, Marc Levoy, and Fredo Durand. 2012. Unstructured Light Fields.Computer Graphics Forum (Proc. EUROGRAPHICS 2012)31, 2pt1 (2012), 305--314."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-8",
+                "unstructured": "Facebook. 2016. Facebook Surround 360. https://facebook360.fb.com/facebook-surround-360/. (2016). Accessed: 2016-12-26."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-9",
+                "unstructured": "Cl&#233;ment Godard, Oisin Mac Aodha, and Gabriel J. Brostow. 2017. Unsupervised Monocular Depth Estimation with Left-Right Consistency.CVPR(2017).",
+                "DOI": "10.1109/CVPR.2017.699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-10",
+                "unstructured": "Steven J. Gortler, Radek Grzeszczuk, Richard Szeliski, and Michael F. Cohen. 1996. The Lumigraph.Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques(1996), 43--54."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-11",
+                "unstructured": "Hyowon Ha, Sunghoon Im, Jaesik Park, Hae-Gon Jeon, and In So Kweon. 2016. High-quality Depth from Uncalibrated Small Motion Clip.Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-12",
+                "unstructured": "Kaiming He, Jian Sun, and Xiaoou Tang. 2010. Guided Image Filtering.Proceedings of the 11th European Conference on Computer Vision (ECCV)(2010), 1--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-13",
+                "unstructured": "Peter Hedman, Suhib Alsisan, Richard Szeliski, and Johannes Kopf. 2017. Casual 3D Photography.ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017)36, 6 (2017), Article no. 234."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-14",
+                "unstructured": "Aasma Hosni, Christoph Rhemann Rhemann, Michael Bleyer, Carsten Rother, and Margrit Gelautz. 2013. Fast Cost-Volume Filtering for Visual Correspondence and Beyond.IEEE Trans. Pattern Anal. Mach. Intell.35, 2 (2013), 504--511.",
+                "DOI": "10.1109/TPAMI.2012.156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-15",
+                "unstructured": "Jingwei Huang, Zhili Chen, Duygu Ceylan, and Hailin Jin. 2017. 6-DOF VR Videos with a Single 360-Camera.IEEE VR 2017(2017).",
+                "DOI": "10.1109/VR.2017.7892229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-16",
+                "unstructured": "Sunghoon Im, Hyowon Ha, Fran&#231;ois Rameau, Hae-Gon Jeon, Gyeongmin Choe, and In So Kweon. 2016. All-Around Depth from Small Motion with a Spherical Panoramic Camera.European Conference on Computer Vision (ECCV '16)(2016), 156--172."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-17",
+                "unstructured": "Hiroshi Ishiguro, Masashi Yamamoto, and Saburo Tsuji. 1990. Omni-directional stereo for making global map.Third International Conference on Computer Vision(1990), 540--547."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-18",
+                "unstructured": "Shahram Izadi, David Kim, Otmar Hilliges, David Molyneaux, Richard Newcombe, Pushmeet Kohli, Jamie Shotton, Steve Hodges, Dustin Freeman, Andrew Davison, and Andrew Fitzgibbon. 2011. KinectFusion: Real-time 3D Reconstruction and Interaction Using a Moving Depth Camera.Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology(2011), 559--568."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-19",
+                "unstructured": "Robert Konrad, Donald G. Dansereau, Aniq Masood, and Gordon Wetzstein. 2017. SpinVR: Towards Live-streaming 3D Virtual Reality Video.ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017)36, 6 (2017), article no. 209."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-20",
+                "unstructured": "Jungjin Lee, Bumki Kim, Kyehyun Kim, Younghui Kim, and Junyong Noli. 2016. Rich360: Optimized Spherical Representation from Structured Panoramic Camera Arrays.ACM Transactions on Graphics35, 4 (2016), article no. 63.",
+                "DOI": "10.1145/2897824.2925983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-21",
+                "unstructured": "Marc Levoy and Pat Hanrahan. 1996. Light Field Rendering.Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques(1996), 31--42."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-22",
+                "unstructured": "Kaimo Lin, Nianjuan Jiang, Loong-Fah Cheong, Minh N. Do, and Jiangbo Lu. 2016. SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching.14th European Conference on Computer Vision (ECCV)(2016), 370--385."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-23",
+                "unstructured": "Marius Muja and David G. Lowe. 2009. Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration.International Conference on Computer Vision Theory and Application VISSAPP'09)(2009), 331--340."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-24",
+                "unstructured": "Shmuel Peleg and Moshe Ben-Ezra. 1999. Stereo panorama with a single camera.IEEE Conference on Computer Vision and Pattern Recognition (CVPR 1999)(1999), 395--401."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-25",
+                "unstructured": "Shmuel Peleg, Moshe Ben-Ezra, and Yael Pritch. 2001. Omnistereo: panoramic stereo imaging.IEEE Transactions on Pattern Analysis and Machine Intelligence23, 3 (2001), 279--290.",
+                "DOI": "10.1109/34.910880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-26",
+                "unstructured": "F. Perazzi, A. Sorkine-Hornung, H. Zimmer, P. Kaufmann, O. Wang, S. Watson, and M. Gross. 2015. Panoramic Video from Unstructured Camera Arrays.Computer Graphics Forum34, 2 (2015), 57--68.",
+                "DOI": "10.1111/cgf.12541",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-27",
+                "unstructured": "Realities. 2017. realities.io | Go Places, http://realities.io/. (2017). Accessed: 2017-1-12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-28",
+                "unstructured": "Erik Reinhard, Michael Ashikhmin, Bruce Gooch, and Peter Shirley. 2001. Color Transfer Between Images.IEEE Comput. Graph. Appl.21, 5 (2001), 34--41.",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-29",
+                "unstructured": "Christian Richardt, Yael Pritch, Henning Zimmer, and Alexander Sorkine-Hornung. 2013. Megastereo: Constructing High-Resolution Stereo Panoramas.IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2013)(2013), 1256--1263.",
+                "DOI": "10.1109/CVPR.2013.166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-30",
+                "unstructured": "Johannes Lutz Sch&#246;nberger and Jan-Michael Frahm. 2016. Structure-from-Motion Revisited.IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-31",
+                "unstructured": "Steven M Seitz, Brian Curless, James Diebel, Daniel Scharstein, and Richard Szeliski. 2006. A comparison and evaluation of multi-view stereo reconstruction algorithms.2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)1 (2006), 519--528."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-32",
+                "unstructured": "Jianbo Shi and Carlo Tomasi. 1994. Good Features to Track.1994 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'94)(1994), 593 -- 600."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-33",
+                "unstructured": "Richard Szeliski. 2010.Computer Vision: Algorithms and Applications(1st ed.). Springer-Verlag New York, Inc., New York, NY, USA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-34",
+                "unstructured": "Engin Tola, Vincent Lepetit, and Pascal Fua. 2010. DAISY: An Efficient Dense Descriptor Applied to Wide-Baseline Stereo.IEEE Trans. Pattern Anal. Mach. Intell.32, 5 (2010), 815--830.",
+                "DOI": "10.1109/TPAMI.2009.77",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-35",
+                "unstructured": "Valve. 2016. Valve Developer Community: Advanced Outdoors Photogrammetry. https://developer.valvesoftware.com/wiki/Destinations/Advanced_Outdoors_Photogrammetry. (2016). Accessed: 2016-11-3."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-36",
+                "unstructured": "Thomas Whelan, Stefan Leutenegger, Renato Salas Moreno, Ben Glocker, and Andrew Davison. 2015. ElasticFusion: Dense SLAM Without A Pose Graph.Proceedings of Robotics: Science and Systems(2015).",
+                "DOI": "10.15607/RSS.2015.XI.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-37",
+                "unstructured": "Julio Zaragoza, Tat-Jun Chin, Michael S. Brown, and David Suter. 2013. As-Projective-As-Possible Image Stitching with Moving DLT.Proceedings of the 2013 IEEE Conference on Computer Vision and Pattern Recognition(2013), 2339--2346.",
+                "DOI": "10.1109/CVPR.2013.303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-38",
+                "unstructured": "Fan Zhang and Feng Liu. 2014. Parallax-Tolerant Image Stitching.Proceedings of the 2014 IEEE Conference on Computer Vision and Pattern Recognition(2014), 3262--3269.",
+                "DOI": "10.1109/CVPR.2014.423",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-39",
+                "unstructured": "Fan Zhang and Feng Liu. 2015. Casual Stereoscopic Panorama Stitching.IEEE Conference on Computer Vision and Pattern Recognition (CVPR '15)(2015), 2002--2010."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-40",
+                "unstructured": "Ke Colin Zheng, Sing Bing Kang, Michael F. Cohen, and Richard Szeliski. 2007. Layered Depth Panoramas.IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2007)(2007), 1--8."
+            },
+            {
+                "key": "key-10.1145/3197517.3201384-41",
+                "unstructured": "Qian-Yi Zhou and Vladlen Koltun. 2014. Simultaneous Localization and Calibration: Self-Calibration of Consumer Depth Cameras.2014 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(2014), 454--460.",
+                "DOI": "10.1109/CVPR.2014.65",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201384&ftid=1991782&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:53:07Z",
+            "timestamp": 1571673187000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201384",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

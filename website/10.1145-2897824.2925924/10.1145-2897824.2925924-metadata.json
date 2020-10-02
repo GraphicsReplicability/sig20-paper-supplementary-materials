@@ -1,0 +1,242 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T01:00:09Z",
+            "timestamp": 1574816409151
+        },
+        "reference-count": 15,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925924",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "G1non-uniform Catmull-Clark surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xin",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "USTC"
+                    }
+                ]
+            },
+            {
+                "given": "G. Thomas",
+                "family": "Finnigan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk, Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Thomas W.",
+                "family": "Sederberg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brigham Young University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925924-1",
+                "unstructured": "Ball, A. A., and Storry, D. J. 1988. Conditions for tangent plane continuity over recursively generated b-spline surfaces.ACM Transactions on Graphics (TOG) 7, 2, 83--102."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-2",
+                "unstructured": "Bazilevs, Y., Calo, V. M., Cottrell, J. A., Evans, J. A., Hughes, T. J. R., Lipton, S., Scott, M. A., and Sederberg, T. W. 2010. Isogeometric analysis using T-splines.Computer Methods in Applied Mechanics and Engineering 199, 5-8, 229--263."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-3",
+                "unstructured": "Cashman, T. J., Augsd&#246;rfer, U. H., Dodgson, N. A., and Sabin, M. A. 2009. NURBS with Extraordinary Points: High-degree, Non-uniform, Rational Subdivision Schemes.ACM Transactions on Graphics 28, 3, 1--9.",
+                "DOI": "10.1145/1576246.1531352",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-4",
+                "unstructured": "Cashman, T. J. 2010. NURBS-compatible subdivision surfaces. Tech. rep., University of Cambridge."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-5",
+                "unstructured": "Floater, M. S. 2015. The inverse of a rational bilinear mapping.Computer Aided Geometric Design 33, 46--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-6",
+                "unstructured": "Kovacs, D., Bisceglio, J., and Zorin, D. 2015. Dyadic T-mesh subdivision.ACM Transactions on Graphics (TOG) 34, 4, 143."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-7",
+                "unstructured": "M&#252;ller, K., Reusche, L., and Fellner, D. 2006. Extended subdivision surfaces: Building a bridge between NURBS and Catmull-Clark surfaces.ACM Transactions on Graphics (TOG)25, 2, 268--292."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-8",
+                "unstructured": "M&#252;ller, K., F&#252;nfzig, C., Reusche, L., Hansford, D., Farin, G., and Hagen, H. 2010. Dinus: Double insertion, nonuniform, stationary subdivision surfaces.ACM Transactions on Graphics (TOG) 29, 3, 1--21."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-9",
+                "unstructured": "Peters, J., and Reif, U. 2008.Subdivision surfaces. Springer.",
+                "DOI": "10.1007/978-3-540-76406-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-10",
+                "unstructured": "Peters, J. 2000. Patching Catmull-Clark meshes. InProceedings of the 27th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 255--258.",
+                "DOI": "10.1145/344779.344908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-11",
+                "unstructured": "Reif, U. 1995. A unified approach to subdivision algorithms near extraordinary vertices.Computer Aided Geometry Design 12, 153--174."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-12",
+                "unstructured": "Sederberg, T. W., Zheng, J., Sewell, D., and Sabin, M. 1998. Non-uniform recursive subdivision surfaces. InProceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '98, ACM, 387--394.",
+                "DOI": "10.1145/280814.280942",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-13",
+                "unstructured": "Sederberg, T. W., Zheng, J., Bakenov, A., and Nasri, A. 2003. T-splines and T-NURCCSs.ACM Transactions on Graphics 22 (3), 477--484."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-14",
+                "unstructured": "Sederberg, T. W., Zheng, J., and Song, X. 2003. Knot intervals and multi-degree splines.Computer Aided Geometric Design 20, 7, 455--468."
+            },
+            {
+                "key": "key-10.1145/2897824.2925924-15",
+                "unstructured": "T-Splines for Rhino3D Plugin Developers, 2016. Implementation of extraordinary points. Private conversation."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925924&amp;ftid=1755845&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:58Z",
+            "timestamp": 1568162938000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 15,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925924",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

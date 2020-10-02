@@ -1,0 +1,432 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813551
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006602",
+                "name": "Air Force Research Laboratory",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "FA8650-12-C-7212"
+                ]
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "1149853"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601101",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 68,
+        "title": [
+            "Transient attributes for high-level understanding and editing of outdoor scenes"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Pierre-Yves",
+                "family": "Laffont",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Zhile",
+                "family": "Ren",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Xiaofeng",
+                "family": "Tao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Chao",
+                "family": "Qian",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "James",
+                "family": "Hays",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601101-1",
+                "unstructured": "An, X., and Pellacini, F. 2010. User-controllable color transfer.Comput. Graph. Forum 29, 2.",
+                "DOI": "10.1111/j.1467-8659.2009.01595.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-2",
+                "unstructured": "Bell, S., Upchurch, P., Snavely, N., and Bala, K. 2013. Opensurfaces: A richly annotated catalog of surface appearance.ACM Trans. Graph. (proc. SIGGRAPH) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-3",
+                "unstructured": "Berthouzoz, F., Li, W., Dontcheva, M., and Agrawala, M. 2011. A framework for content-adaptive photo manipulation macros.ACM Trans. Graph. 30, 5.",
+                "DOI": "10.1145/2019627.2019639",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-4",
+                "unstructured": "Bonneel, N., Sunkavalli, K., Paris, S., and Pfister, H. 2013. Example-based video color grading.ACM Trans. Graph. (proc. SIGGRAPH) 32.",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-5",
+                "unstructured": "Bychkovsky, V., Paris, S., Chan, E., and Durand, F. 2011. Learning photographic global tonal adjustment with a database of input / output image pairs. InCVPR.",
+                "DOI": "10.1109/CVPR.2011.5995413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-6",
+                "unstructured": "Caicedo, J. C., Kapoor, A., and Kang, S. B. 2011. Collaborative personalization of image enhancement. InCVPR.",
+                "DOI": "10.1109/CVPR.2011.5995439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-7",
+                "unstructured": "Chen, J., Paris, S., and Durand, F. 2007. Real-time edge-aware image processing with the bilateral grid.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-8",
+                "unstructured": "Cheng, M.-M., Zheng, S., Lin, W.-Y., Vineet, V., Sturgess, P., Crook, N., Mitra, N., and Torr, P. 2014. Imagespirit: Verbal guided image parsing.ACM Trans. Graph..",
+                "DOI": "10.1145/2682628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-9",
+                "unstructured": "Comaniciu, D., and Meer, P. 2002. Mean shift: a robust approach toward feature space analysis.IEEE Trans. PAMI 24.",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-10",
+                "unstructured": "Cusano, C., Gasparini, F., and Schettini, R. 2012. Color transfer using semantic image annotation. InSPIE, vol. 8299."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-11",
+                "unstructured": "Dale, K., Johnson, M. K., Sunkavalli, K., Matusik, W., and Pfister, H. 2009. Image restoration using online photo collections. InICCV.",
+                "DOI": "10.1109/ICCV.2009.5459473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-12",
+                "unstructured": "Dhar, S., Ordonez, V., and Berg, T. L. 2011. High level describable attributes for predicting aesthetics and interestingness. InCVPR.",
+                "DOI": "10.1109/CVPR.2011.5995467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-13",
+                "unstructured": "Eitz, M., Hays, J., and Alexa, M. 2012. How do humans sketch objects?ACM Trans. Graph. (proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-14",
+                "unstructured": "Farhadi, A., Endres, I., Hoiem, D., and Forsyth, D. 2009. Describing objects by their attributes. InCVPR.",
+                "DOI": "10.1109/CVPR.2009.5206772",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-15",
+                "unstructured": "Fattal, R. 2008. Single image dehazing.ACM Trans. Graph. (proc. SIGGRAPH) 27, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-16",
+                "unstructured": "Ferrari, V., and Zisserman, A. 2007. Learning visual attributes. InNIPS."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-17",
+                "unstructured": "Garg, R., Du, H., Seitz, S. M., and Snavely, N. 2009. The dimensionality of scene appearance. InICCV.",
+                "DOI": "10.1109/ICCV.2009.5459424",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-18",
+                "unstructured": "Hertzmann, A., Jacobs, C. E., Oliver, N., Curless, B., and Salesin, D. H. 2001. Image analogies. InSIGGRAPH.",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-19",
+                "unstructured": "Hoiem, D., Efros, A. A., and Hebert, M. 2007. Recovering surface layout from an image.Int. J. Comput. Vision 75, 1.",
+                "DOI": "10.1007/s11263-006-0031-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-20",
+                "unstructured": "Jacobs, N., Roman, N., and Pless, R. 2007. Consistent temporal variations in many outdoor scenes. InCVPR.",
+                "DOI": "10.1109/CVPR.2007.383258",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-21",
+                "unstructured": "Johnson, M. K., Dale, K., Avidan, S., Pfister, H., Freeman, W. T., and Matusik, W. 2011. Cg2real: Improving the realism of computer generated images using a large collection of photographs.IEEE Trans. Vis. Comput. Graph. 17, 9.",
+                "DOI": "10.1109/TVCG.2010.233",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-22",
+                "unstructured": "Kang, S. B., Kapoor, A., and Lischinski, D. 2010. Personalization of image enhancement. InCVPR.",
+                "DOI": "10.1109/CVPR.2010.5539850",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-23",
+                "unstructured": "Kopf, J., Cohen, M. F., Lischinski, D., and Uyttendaele, M. 2007. Joint bilateral upsampling.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-24",
+                "unstructured": "Kovashka, A., Parikh, D., and Grauman, K. 2012. Whittle-search: Image search with relative attribute feedback. InCVPR.",
+                "DOI": "10.1109/CVPR.2012.6248026",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-25",
+                "unstructured": "Kumar, N., Berg, A., Belhumeur, P., and Nayar, S. 2011. Describable visual attributes for face verification and image search.IEEE Trans. PAMI 33, 10.",
+                "DOI": "10.1109/TPAMI.2011.48",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-26",
+                "unstructured": "Laffont, P.-Y., Bousseau, A., Paris, S., Durand, F., and Drettakis, G. 2012. Coherent intrinsic images from photo collections.ACM Trans. Graph. (proc. SIGGRAPH Asia) 31, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-27",
+                "unstructured": "Lalonde, J.-F., Hoiem, D., Efros, A. A., Rother, C., Winn, J., and Criminisi, A. 2007. Photo clip art.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-28",
+                "unstructured": "Lalonde, J.-F., Efros, A., and Narasimhan, S. 2009. Web-cam clip art: Appearance and illuminant transfer from time-lapse sequences.ACM Trans. Graph. (proc. SIGGRAPH Asia) 28, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-29",
+                "unstructured": "Liu, Q., Ihler, A., and Steyvers, M. 2013. Scoring workers in crowdsourcing: how many control questions are enough? InNIPS."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-30",
+                "unstructured": "Matusik, W., Pfister, H., Brand, M., and McMillan, L. 2003. A data-driven reflectance model.ACM Trans. Graph. (proc. SIGGRAPH) 22, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-31",
+                "unstructured": "Murphy, K. P. 2012.Machine Learning: A Probabilistic Perspective. The MIT Press."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-32",
+                "unstructured": "Narasimhan, S., Wang, C., and Nayar, S. 2002. All the images of an outdoor scene. InECCV.",
+                "DOI": "10.1007/3-540-47977-5_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-33",
+                "unstructured": "Parikh, D., and Grauman, K. 2011. Relative attributes. InICCV.",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-34",
+                "unstructured": "Patterson, G., and Hays, J. 2012. Sun attribute database: Discovering, annotating, and recognizing scene attributes. InCVPR.",
+                "DOI": "10.1109/CVPR.2012.6247998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-35",
+                "unstructured": "Perronnin, F., S&#225;nchez, J., and Mensink, T. 2010. Improving the fisher kernel for large-scale image classification. InECCV.",
+                "DOI": "10.1007/978-3-642-15561-1_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-36",
+                "unstructured": "Piti&#233;, F., Kokaram, A., and Dahyot, R. 2005. N-Dimensional Probability Density Function Transfer and its Application to Colour Transfer. InICCV.",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-37",
+                "unstructured": "Pouli, T., and Reinhard, E. 2011. Progressive color transfer for images of arbitrary dynamic range.Computers &#38; Graphics 35.",
+                "DOI": "10.1016/j.cag.2010.11.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-38",
+                "unstructured": "Reinhard, E., Ashikhmin, M., Gooch, B., and Shirley, P. 2001. Color transfer between images.IEEE Comput. Graph. Appl. 21, 5.",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-39",
+                "unstructured": "Scholkopf, B., Smola, A., Williamson, R., and Bartlett, P. 2000. New support vector algorithms.Neural Computation 12.",
+                "DOI": "10.1162/089976600300015565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-40",
+                "unstructured": "Shih, Y., Paris, S., Durand, F., and Freeman, W. T. 2013. Data-driven hallucination of different times of day from a single outdoor photo.ACM Trans. Graph. (proc. SIGGRAPH Asia) 32, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-41",
+                "unstructured": "Snavely, N., Seitz, S. M., and Szeliski, R. 2006. Photo tourism: exploring photo collections in 3D.ACM Trans. Graph. (proc. SIGGRAPH) 25, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-42",
+                "unstructured": "Sunkavalli, K., Matusik, W., Pfister, H., and Rusinkiewicz, S. 2007. Factored time-lapse video.ACM Trans. Graph. (proc. SIGGRAPH) 26, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-43",
+                "unstructured": "Tao, L., Yuan, L., and Sun, J. 2009. Skyfinder: Attribute-based sky image search.ACM Trans. Graph. (proc. SIGGRAPH) 28, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-44",
+                "unstructured": "Wu, F., Dong, W., Kong, Y., Mei, X., Paul, J.-C., and Zhang, X. 2013. Content-Based Colour Transfer.Comput. Graph. Forum 32, 1.",
+                "DOI": "10.1111/cgf.12008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-45",
+                "unstructured": "Xiao, J., Hays, J., Ehinger, K. A., Oliva, A., and Torralba, A. 2010. Sun database: Large-scale scene recognition from abbey to zoo. InCVPR.",
+                "DOI": "10.1109/CVPR.2010.5539970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601101-46",
+                "unstructured": "Yu, Y., and Malik, J. 1998. Recovering photometric properties of architectural scenes from photographs. InSIGGRAPH.",
+                "DOI": "10.1145/280814.280874",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601101&amp;ftid=1488958&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:36:05Z",
+            "timestamp": 1565663765000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601101",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

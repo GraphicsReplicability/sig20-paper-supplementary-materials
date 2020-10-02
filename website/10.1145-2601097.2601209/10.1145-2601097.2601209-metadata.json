@@ -1,0 +1,410 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813511
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601209",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 49,
+        "title": [
+            "3D object manipulation in a single photograph using stock 3D models"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Natasha",
+                "family": "Kholgade",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Tomas",
+                "family": "Simon",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Alexei",
+                "family": "Efros",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601209-1",
+                "unstructured": "Aubry, M., Maturana, D., Efros, A., Russell, B., and Sivic, J. 2014. Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models. InProc. CVPR.",
+                "DOI": "10.1109/CVPR.2014.487",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-2",
+                "unstructured": "Avidan, S., and Shamir, A. 2007. Seam carving for content-aware image resizing. InProc. ACM SIGGRAPH.",
+                "DOI": "10.1145/1275808.1276390",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-3",
+                "unstructured": "Barnes, C., Shechtman, E., Finkelstein, A., and Goldman, D. B. 2009. Patchmatch: a randomized correspondence algorithm for structural image editing. InProc. ACM SIGGRAPH, 24:1--24:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-4",
+                "unstructured": "Barrett, W. A., and Cheney, A. S. 2002. Object-based image editing. InProc. ACM SIGGRAPH, 777--784."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-5",
+                "unstructured": "Barron, J. T. 2012. Shape, albedo, and illumination from a single image of an unknown object. InCVPR, 334--341."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-6",
+                "unstructured": "Blanz, V., and Vetter, T. 1999. A morphable model for the synthesis of 3d faces. InProc. ACM SIGGRAPH, 187--194."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-7",
+                "unstructured": "Bokeloh, M., Wand, M., Koltun, V., and Seidel, H.-P. 2011. Pattern-aware shape deformation using sliding dockers.ACM Trans. Graph. 30, 6 (Dec.), 123:1--123:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-8",
+                "unstructured": "Chen, J., Paris, S., Wang, J., Matusik, W., Cohen, M., and Durand, F. 2011. The video mesh: A data structure for image-based three-dimensional video editing. InICCP, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-9",
+                "unstructured": "Chen, T., Zhu, Z., Shamir, A., Hu, S.-M., and Cohen-Or, D. 2013. 3-sweep: Extracting editable objects from a single photo.ACM Trans. Graph. 32, 6, to appear.",
+                "DOI": "10.1145/2508363.2508378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-10",
+                "unstructured": "Debevec, P. E., Taylor, C. J., and Malik, J. 1996. Modeling and rendering architecture from photographs: a hybrid geometry- and image-based approach. InProc. ACM SIGGRAPH, 11--20."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-11",
+                "unstructured": "Debevec, P. 1998. Rendering synthetic objects into real scenes: bridging traditional and image-based graphics with global illumination and high dynamic range photography. InProc. ACM SIGGRAPH, 189--198.",
+                "DOI": "10.1145/280814.280864",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-12",
+                "unstructured": "Durand, F. 2002. An invitation to discuss computer depiction. InProc. ACM NPAR, 111--124."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-13",
+                "unstructured": "Fang, H., and Hart, J. C. 2004. Textureshop: texture synthesis as a photograph editing tool.Proc. ACM SIGGRAPH, 354--359."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-14",
+                "unstructured": "Fisher, R. 1953. Dispersion on a sphere. InProceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, vol. 217, 295--305.",
+                "DOI": "10.1098/rspa.1953.0064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-15",
+                "unstructured": "Gal, R., and Cohen-Or, D. 2006. Salient geometric features for partial shape matching and similarity.ACM Trans. Graph. 25, 1 (Jan.), 130--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-16",
+                "unstructured": "Gal, R., Wexler, Y., Ofek, E., Hoppe, H., and Cohen-Or, D. 2010. Seamless montage for texturing models.Comput. Graph. Forum 29, 2, 479--486.",
+                "DOI": "10.1111/j.1467-8659.2009.01617.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-17",
+                "unstructured": "Goldberg, C., Chen, T., Zhang, F.-L., Shamir, A., and Hu, S.-M. 2012. Data-driven object manipulation in images.Computer Graphics Forum 31, 2pt1, 265--274.",
+                "DOI": "10.1111/j.1467-8659.2012.03005.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-18",
+                "unstructured": "Haber, T., Fuchs, C., Bekaert, P., Seidel, H.-P., Goesele, M., and Lensch, H. P. A. 2009. Relighting objects from image collections. InCVPR, IEEE, 627--634."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-19",
+                "unstructured": "Hara, K., Nishino, K., and Ikeuchi, K. 2008. Mixture of spherical distributions for single-view relighting.IEEE Trans. Pattern Anal. Mach. Intell. 30, 1, 25--35.",
+                "DOI": "10.1109/TPAMI.2007.1164",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-20",
+                "unstructured": "Hong, W., Yang, A. Y., Huang, K., and Ma, Y. 2004. On symmetry and multiple-view geometry: Structure, pose, and calibration from a single image.IJCV 60, 3 (Dec.), 241--265."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-21",
+                "unstructured": "Karsch, K., Hedau, V., Forsyth, D., and Hoiem, D. 2011. Rendering synthetic objects into legacy photographs. InProc. ACM SIGGRAPH Asia, 157:1--157:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-22",
+                "unstructured": "Khan, E. A., Reinhard, E., Fleming, R. W., and B&#252;lthoff, H. H. 2006. Image-based material editing. InProc. ACM SIGGRAPH, 654--663."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-23",
+                "unstructured": "Kim, V. G., Lipman, Y., and Funkhouser, T. 2012. Symmetry-guided texture synthesis and manipulation.ACM Trans. Graph. 31, 3 (June), 22:1--22:14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-24",
+                "unstructured": "Kolmogorov, V. 2006. Convergent tree-reweighted message passing for energy minimization.IEEE TPAMI 28, 10 (Oct.), 1568--1583."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-25",
+                "unstructured": "Kopf, J., Neubert, B., Chen, B., Cohen, M., Cohen-Or, D., Deussen, O., Uyttendaele, M., and Lischinski, D. 2008. Deep photo: model-based photograph enhancement and viewing. InProc. ACM SIGGRAPH Asia, 116:1--116:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-26",
+                "unstructured": "Kraevoy, V., Sheffer, A., and Gotsman, C. 2003. Match-maker: constructing constrained texture maps.ACM Trans. Graph. 22, 3 (July), 326--333."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-27",
+                "unstructured": "Kraevoy, V., Sheffer, A., and van de Panne, M. 2009. Modeling from contour drawings. InProceedings of the 6th Eurographics Symposium on Sketch-Based Interfaces and Modeling, ACM, New York, NY, USA, SBIM '09, 37--44."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-28",
+                "unstructured": "Kwatra, V., Schodl, A., Essa, I., Turk, G., and Bobick, A. 2003. Graphcut textures: Image and video synthesis using graph cuts.ACM Trans. Graph. 22, 3 (July), 277--286."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-29",
+                "unstructured": "Lalonde, J.-F., Hoiem, D., Efros, A. A., Rother, C., Winn, J., and Criminisi, A. 2007. Photo clip art.Proc. ACM SIGGRAPH 26, 3 (August), 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-30",
+                "unstructured": "Land, E. H., John, and Mccann, J. 1971. Lightness and retinex theory.Journal of the Optical Society of America, 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-31",
+                "unstructured": "Lepetit, V., Moreno-Noguer, F., and Fua, P. 2009. Epnp: An accurate o(n) solution to the pnp problem.Int. J. Comput. Vision 81, 155--166.",
+                "DOI": "10.1007/s11263-008-0152-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-32",
+                "unstructured": "Lim, J., Piriavash, H., and Torralba, A. 2013. Parsing ikea objects: Fine pose estimation. InICCV.",
+                "DOI": "10.1109/ICCV.2013.372",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-33",
+                "unstructured": "Mei, X., Ling, H., and Jacobs, D. 2009. Sparse representation of cast shadows vial1-regularized least squares. InICCV."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-34",
+                "unstructured": "Mitra, N. J., and Pauly, M. 2008. Symmetry for architectural design. InAdvances in Architectural Geometry, 13--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-35",
+                "unstructured": "Mitra, N. J., Guibas, L. J., and Pauly, M. 2006. Partial and approximate symmetry detection for 3d geometry. InProc. ACM SIGGRAPH, 560--568."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-36",
+                "unstructured": "Nealen, A., Sorkine, O., Alexa, M., and Cohen-Or, D. 2005. A sketch-based interface for detail-preserving mesh editing.ACM Trans. Graph. 24, 3 (July), 1142--1147."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-37",
+                "unstructured": "Ng, R., Ramamoorthi, R., and Hanrahan, P. 2003. All-frequency shadows using non-linear wavelet lighting approximation. InProc. ACM SIGGRAPH, 376--381."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-38",
+                "unstructured": "Oh, B. M., Chen, M., Dorsey, J., and Durand, F. 2001. Image-based modeling and photo editing. InProc. ACM SIGGRAPH, 433--442."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-39",
+                "unstructured": "Okabe, T., Sato, I., and Sato, Y. 2004. Spherical harmonics vs. haar wavelets: Basis for recovering illumination from cast shadows. InCVPR, 50--57.",
+                "DOI": "10.1109/CVPR.2004.1315013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-40",
+                "unstructured": "Panagopoulos, A., Samaras, D., and Paragios, N. 2009. Robust shadow and illumination estimation using a mixture model. InCVPR, 651--658."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-41",
+                "unstructured": "Pauly, M., Mitra, N. J., Giesen, J., Gross, M., and Guibas, L. J. 2005. Example-based 3d scan completion. InProc. SGP."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-42",
+                "unstructured": "Prasad, M., Zisserman, A., and Fitzgibbon, A. W. 2006. Single view reconstruction of curved surfaces. InCVPR."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-43",
+                "unstructured": "Ramamoorthi, R., and Hanrahan, P. 2001. On the relationship between radiance and irradiance: determining the illumination from images of a convex lambertian object.J. Opt. Soc. Am. A 18, 10, 2448--2459.",
+                "DOI": "10.1364/JOSAA.18.002448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-44",
+                "unstructured": "Romeiro, F., and Zickler, T. 2010. Blind reflectometry. InECCV, 45--58."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-45",
+                "unstructured": "Simpson, J., 2003. Oxford English Dictionary Online, 2nd edition. http://www.oed.com/, July."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-46",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProc. SGP, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-47",
+                "unstructured": "Terzopoulos, D., Witkin, A., and Kass, M. 1987. Symmetry-seeking models and 3d object reconstruction.International Journal of Computer Vision 1, 211--221.",
+                "DOI": "10.1007/BF00127821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-48",
+                "unstructured": "Tzur, Y., and Tal, A. 2009. Flexistickers: photogrammetric texture mapping using casual images.ACM Trans. Graph. 28, 3 (July), 45:1--45:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-49",
+                "unstructured": "Xu, K., Zheng, H., Zhang, H., Cohen-Or, D., Liu, L., and Xiong, Y. 2011. Photo-inspired model-driven 3d object modeling.ACM Transactions on Graphics 30, 4.",
+                "DOI": "10.1145/2010324.1964975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-50",
+                "unstructured": "Zheng, Y., Chen, X., Cheng, M.-M., Zhou, K., Hu, S.-M., and Mitra, N. J. 2012. Interactive images: cuboid proxies for smart image manipulation.ACM Trans. Graph. 31, 4 (July), 99:1--99:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601209-51",
+                "unstructured": "Zou, H., and Hastie, T. 2005. Regularization and variable selection via the elastic net.Journal of the Royal Statistical Society, Series B 67, 301--320.",
+                "DOI": "10.1111/j.1467-9868.2005.00503.x",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601209&amp;ftid=1488936&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:42Z",
+            "timestamp": 1565663742000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601209",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

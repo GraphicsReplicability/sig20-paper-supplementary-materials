@@ -1,0 +1,418 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849044
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007543",
+                "name": "Grantov\u00e1 Agentura, Univerzita Karlova",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "SVV-2017-260452, 1172416"
+                ]
+            },
+            {
+                "name": "Grantov\u00e1 Agentura esk\u00e9 Republiky",
+                "award": [
+                    "16-18964S"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201340",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Bayesian online regression for adaptive direct illumination sampling"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Petr",
+                "family": "V\u00e9voda",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Charles University"
+                    }
+                ]
+            },
+            {
+                "given": "Ivo",
+                "family": "Kondapaneni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University, Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201340-1",
+                "unstructured": "Niels Billen, Bj&#246;rn Engelen, Ares Lagae, and Philip Dutre. 2013. Probabilistic Visibility Evaluation for Direct Illumination.Computer Graphics Forum32, 4 (2013), 39--47.",
+                "DOI": "10.1111/cgf.12149",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-2",
+                "unstructured": "Christopher M. Bishop. 2006.Pattern Recognition and Machine Learning.Springer-Verlag New York Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-3",
+                "unstructured": "Malik Boughida and Tamy Boubekeur. 2017. Bayesian collaborative denoising for Monte Carlo rendering.Computer Graphics Forum36, 4 (2017), 137--153.",
+                "DOI": "10.1111/cgf.13231",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-4",
+                "unstructured": "Jonathan Brouillat, Christian Bouville, Brad Loos, Charles Hansen, and Kadi Bouatouch. 2009. A Bayesian Monte Carlo approach to global illumination.Computer Graphics Forum28, 8 (2009), 2315--2329.",
+                "DOI": "10.1111/j.1467-8659.2009.01537.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-5",
+                "unstructured": "Brian C. Budge, John C. Anderson, and Kenneth I. Joy. 2008. Caustic forecasting: Unbiased estimation of caustic lighting for global illumination.Computer Graphics Forum27, 7 (2008), 1963--1970.",
+                "DOI": "10.1111/j.1467-8659.2008.01345.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-6",
+                "unstructured": "Norbert Bus, Nabil H. Mustafa, and Venceslas Biri. 2015. IlluminationCut.Computer Graphics Forum (Proceedings of Eurographics 2015)34, 2 (2015), 561--573."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-7",
+                "unstructured": "Olivier Capp&#233;, Randal Douc, Arnaud Guillin, Jean-Michel Marin, and Christian P. Robert. 2008. Adaptive importance sampling in general mixture classes.Statistics and Computing18, 4 (2008), 447--459. arXiv:0710.4242",
+                "DOI": "10.1007/s11222-008-9059-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-8",
+                "unstructured": "Olivier Capp&#233;, Arnaud Guillin, Jean-Michel Marin, and Christian P. Robert. 2004. Population Monte Carlo.Journal of Computational and Graphical Statistics13, 4 (2004), 907--929.",
+                "DOI": "10.1198/106186004X12803",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-9",
+                "unstructured": "Petrik Clarberg and Tomas Akenine-M&#246;ller. 2008. Exploiting visibility correlation in direct illumination.Computer Graphics Forum27, 4 (2008), 1125--1136.",
+                "DOI": "10.1111/j.1467-8659.2008.01250.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-10",
+                "unstructured": "Jean-Marie Cornuet, Jean-Michel Marin, Antonietta Mira, and Christian P. Robert. 2009. Adaptive Multiple Importance Sampling.Scandinavian Journal of Statistics39, 4 (2009), 798--812.",
+                "DOI": "10.1111/j.1467-9469.2011.00756.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-11",
+                "unstructured": "Michael Donikian, Bruce Walter, Kavita Bala, Sebastian Fernandez, and Donald P. Greenberg. 2006. Accurate direct illumination using iterative adaptive sampling.IEEE Transactions on Visualization and Computer Graphics12, 3 (2006), 353--363.",
+                "DOI": "10.1109/TVCG.2006.41",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-12",
+                "unstructured": "Randal Douc and Arnaud Guillin. 2007. Minimum variance importance sampling via population Monte Carlo.ESAPM: Probability and Statistics11 (2007), 427--447."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-13",
+                "unstructured": "Shaohua Fan, Yu-Chi Lai, Stephen Chenney, and Charles Dyer. 2007.Population Monte Carlo Sampler for Rendering.Technical Report 1613. Department of Computer Sciences, University of Wisconsin-Madison."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-14",
+                "unstructured": "Sebastian Fernandez, Kavita Bala, and Donald P. Greenberg. 2002. Local Illumination Environments for Direct Lighting Acceleration.Proceedings of the 13th Eurographics workshop on Rendering(2002), 7--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-15",
+                "unstructured": "Manuel N. Gamito. 2016. Solid Angle Sampling of Disk and Cylinder Lights.Comput. Graph. Forum35, 4 (July 2016), 25--36.",
+                "DOI": "10.1111/cgf.12946",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-16",
+                "unstructured": "Iliyan Georgiev, Jaroslav K&#345;iv&#225;nek, Stefan Popov, and Philipp Slusallek. 2012. Importance Caching for Complex Illumination.Computer Graphics Forum31 (2012).",
+                "DOI": "10.1111/j.1467-8659.2012.03049.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-17",
+                "unstructured": "David Hart, Philip Dutr&#233;, and Donald P. Greenberg. 1999. Direct illumination with lazy visibility evaluation.SIGGRAPH '99(1999), 147--154.",
+                "DOI": "10.1145/311535.311551",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-18",
+                "unstructured": "Heinrich Hey and Werner Purgathofer. 2002. Importance sampling with hemispherical particle footprints.Proceedings of the 18th spring conference on Computer graphics - SCCG '02(2002), 107."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-19",
+                "unstructured": "Henrik Wann Jensen. 1995. Importance driven path tracing using the photon map.Rendering Techniques95 (1995), 326--335.",
+                "DOI": "10.1007/978-3-7091-9430-0_31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-20",
+                "unstructured": "Henrik Wann Jensen and Niels J&#248;rgen Christensen. 1995. Efficiently rendering shadows using the photon map.Compugraphics '95(1995), 285--291."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-21",
+                "unstructured": "Malvin H. Kalos and Paula A. Whitlock. 1986.Monte Carlo Methods.Wiley-Interscience.",
+                "DOI": "10.1002/9783527617395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-22",
+                "unstructured": "Eric P. Lafortune and Yves D. Willems. 1995. A 5D Tree to Reduce the Variance of Monte Carlo Ray Tracing. (1995), 11--20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-23",
+                "unstructured": "Yu-Chi Lai, Shao Hua Fan, Stephen Chenney, and Charcle Dyer. 2007. Photorealistic Image Rendering with Population Monte Carlo Energy Redistribution. InProceedings of Eurographics Symposium on Rendering (EGSR'07)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-24",
+                "unstructured": "Marc Lebrun, Antoni Buades, and Jean-Michel Morel. 2013. A Nonlocal Bayesian Image Denoising Algorithm.SIAM Journal on Imaging Sciences6, 3 (2013), 1665--1688.",
+                "DOI": "10.1137/120874989",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-25",
+                "unstructured": "Ricardo Marques, Christian Bouville, Micka&#235;l Ribardiere, Lu&#237;s Paulo Santos, and Kadi Bouatouch. 2013. A spherical gaussian framework for Bayesian Monte Carlo rendering of glossy surfaces.IEEE Trans. Vis. Comput. Graph.19, 10 (2013), 1619--1632.",
+                "DOI": "10.1109/TVCG.2013.79",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-26",
+                "unstructured": "Luca Martino, V&#237;ctor Elvira, David Luengo, and Jukka Corander. 2015. An Adaptive Population Importance Sampler: Learning from Uncertainty.IEEE Transactions on Signal Processing63, 16 (2015), 4422--4437.",
+                "DOI": "10.1109/TSP.2015.2440215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-27",
+                "unstructured": "Thomas M&#252;ller, Markus Gross, and Jan Nov&#225;k. 2017. Practical Path Guiding for Efficient Light-Transport Simulation.Eurographics Symposium on Rendering36, 4 (2017).",
+                "DOI": "10.1111/cgf.13227",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-28",
+                "unstructured": "Art Owen and Yi Zhou. 2000. Safe and Effective Importance Sampling.J. Amer. Statist. Assoc.95, 449 (2000), 135--143.",
+                "DOI": "10.1080/01621459.2000.10473909",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-29",
+                "unstructured": "Jacopo Pantaleoni and Eric Heitz. 2017. Notes on optimal approximations for importance sampling. 2, 5 (2017). arXiv:1707.08358"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-30",
+                "unstructured": "Eric Paquette, Pierre Poulin, and George Drettakis. 1998. A light hierarchy for fast rendering of scenes with many lights.Computer Graphics Forum17, 3 (1998), 63--74.",
+                "DOI": "10.1111/1467-8659.00254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-31",
+                "unstructured": "Vincent Pegoraro, Carson Brownlee, Peter S. Shirley, and Steven G. Parker. 2008. Towards interactive global illumination effects via sequential Monte Carlo adaptation.IEEE/EG Symposium on Interactive Ray Tracing 2008(2008), 107--114."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-32",
+                "unstructured": "Matt Pharr, Wenzel Jakob, and Greg Humphreys. 2016.Physically Based Rendering, From Theory to Implementation(3rd ed.). Morgan Kaufmann Publishers Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-33",
+                "unstructured": "Stefan Popov, Iliyan Georgiev, Philipp Slusallek, and Carsten Dachsbacher. 2013. Adaptive quantization visibility caching.Computer Graphics Forum32, 2 (2013), 399--408.",
+                "DOI": "10.1111/cgf.12060",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-34",
+                "unstructured": "Carl Edward Rasmussen and Zoubin Ghahramani. 2003. Bayesian Monte Carlo.Advances in Neural Information Processing Systems 151 (2003), 489--496."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-35",
+                "unstructured": "Fabrice Rousselle, Wojciech Jarosz, and Jan Nov&#225;k. 2016. Image-space Control Variates for Rendering.ACM Transactions on Graphics35, 6 (2016).",
+                "DOI": "10.1145/2980179.2982443",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-36",
+                "unstructured": "Peter Shirley, Changyaw Wang, and Kurt Zimmerman. 1996. Monte Carlo techniques for direct lighting calculations.ACM Transactions on Graphics15, 1 (1996), 1--36.",
+                "DOI": "10.1145/226150.226151",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-37",
+                "unstructured": "Eric Veach. 1997. Robust Monte Carlo Methods for Light Transport Simulation.Dissertation at the Department of Computer Science of Stanford University(1997)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-38",
+                "unstructured": "Ji&#345;&#237; Vorba, Ond&#345;ej Karl&#237;k, Martin &#352;ik, Tobias Ritschel, and Jaroslav K&#345;iv&#225;nek. 2014. On-line Learning of Parametric Mixture Models for Light Transport Simulation.ACM Trans. Graph.33, 4 (2014), 101:1--101:11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-39",
+                "unstructured": "Ingo Wald and Carsten Benthin. 2003. Interactive Global Illumination in Complex and Highly Occluded Environments.Eurograhics Symposium on Rendering(2003), 1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-40",
+                "unstructured": "Bruce Walter, Adam Arbree, Kavita Bala, and Donald P. Greenberg. 2006. Multidimensional lightcuts.ACM Transactions on Graphics25, 3 (2006), 1081."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-41",
+                "unstructured": "Bruce Walter, Sebastian Fernandez, Adam Arbree, Kavita Bala, Michael Donikian, and Donald P Greenberg. 2005. Lightcuts: a scalable approach to illumination.ACM Transactions on Graphics24, 3 (2005), 1098--1107.",
+                "DOI": "10.1145/1073204.1073318",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-42",
+                "unstructured": "Rui Wang and Oskar Akerlund. 2009. Bidirectional Importance Sampling for Unstructured Direct Illumination.Computer Graphics Forum28, 2 (2009), 269--278.",
+                "DOI": "10.1111/j.1467-8659.2009.01366.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-43",
+                "unstructured": "Gregory J. Ward. 1994. Adaptive Shadow Testing for Ray Tracing.Proceedings of the Second Eurographics Workshop on Rendering(1994), 11--20."
+            },
+            {
+                "key": "key-10.1145/3197517.3201340-44",
+                "unstructured": "Yu Ting Wu and Yung Yu Chuang. 2013. VisibilityCluster: Average directional visibility for many-light rendering.IEEE Trans. Vis. Comput. Graph.19, 9 (2013), 1566--1578.",
+                "DOI": "10.1109/TVCG.2013.21",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201340&ftid=1991713&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:24Z",
+            "timestamp": 1571673384000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201340",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

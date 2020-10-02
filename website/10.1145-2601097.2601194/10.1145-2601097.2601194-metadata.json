@@ -1,0 +1,362 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813610
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601194",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Robust hair capture using simulated examples"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Liwen",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Chongyang",
+                "family": "Ma",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Linjie",
+                "family": "Luo",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hao",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601194-1",
+                "unstructured": "Beeler, T., Bickel, B., Noris, G., Marschner, S., Beardsley, P., Sumner, R. W., and Gross, M. 2012. Coupled 3D reconstruction of sparse facial hair and skin.ACM Trans. Graph. 31, 117:1--117:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-2",
+                "unstructured": "Bergou, M., Wardetzky, M., Robinson, S., Audoly, B., and Grinspun, E. 2008. Discrete elastic rods.ACM Trans. Graph. 27, 3, 63:1--63:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-3",
+                "unstructured": "Bertails, F., Audoly, B., Querleux, B., Leroy, F., Leveque, J.-L., and Cani, M.-P. 2005. Predicting natural hair shapes by solving the statics of flexible rods. InEurographics (short papers), 81--84."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-4",
+                "unstructured": "Bertails, F., Audoly, B., Cani, M.-P., Querleux, B., Leroy, F., and L&#233;v&#234;que, J.-L. 2006. Super-helices for predicting the dynamics of natural hair.ACM Trans. Graph. 25, 3, 1180--1187."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-5",
+                "unstructured": "Besl, P., and McKay, N. D. 1992. A method for registration of 3-d shapes.IEEE Trans. on PAMI 14, 2, 239--256.",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-6",
+                "unstructured": "Bradley, D., Nowrouzezahrai, D., and Beardsley, P. 2013. Image-based reconstruction and synthesis of dense foliage.ACM Trans. Graph. 32, 4, 74:1--74:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-7",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Yu, Y., Guo, B., and Zhou, K. 2012. Single-view hair modeling for portrait manipulation.ACM Trans. Graph. 31, 4, 116:1--116:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-8",
+                "unstructured": "Chai, M., Wang, L., Weng, Y., Jin, X., and Zhou, K. 2013. Dynamic hair manipulation in images and videos.ACM Trans. Graph. 32, 4, 75:1--75:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-9",
+                "unstructured": "Choe, B., and Ko, H.-S. 2005. A statistical wisp model and pseudophysical approaches for interactive hairstyle generation.TVCG 11, 2, 160--170."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-10",
+                "unstructured": "Comaniciu, D., and Meer, P. 2002. Mean shift: a robust approach toward feature space analysis.IEEE Trans. on PAMI 24, 5, 603--619.",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-11",
+                "unstructured": "Daviet, G., Bertails-Descoubes, F., and Boissieux, L. 2011. A hybrid iterative solver for robustly capturing coulomb friction in hair dynamics.ACM Trans. Graph. 30, 6, 139:1--139:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-12",
+                "unstructured": "Derouet-Jourdan, A., Bertails-Descoubes, F., and Thollot, J. 2013. Floating tangents for approximating spatial curves with G&#60;sup&#62;1&#60;/sup&#62; piecewise helices.Computer Aided Geometric Design 30, 5, 490--520.",
+                "DOI": "10.1016/j.cagd.2013.02.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-13",
+                "unstructured": "Echevarria, J. I., Bradley, D., Gutierrez, D., and Beeler, T. 2014. Capturing and stylizing hair for 3D fabrication.ACM Trans. Graph. 33, 4.",
+                "DOI": "10.1145/2601097.2601133",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-14",
+                "unstructured": "Fischler, M. A., and Bolles, R. C. 1981. Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography.Commun. ACM 24, 6, 381--395.",
+                "DOI": "10.1145/358669.358692",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-15",
+                "unstructured": "Fu, H., Wei, Y., Tai, C.-L., and Quan, L. 2007. Sketching hairstyles. InSBIM '07, 31--36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-16",
+                "unstructured": "Furukawa, Y., and Ponce, J. 2010. Accurate, dense, and robust multiview stereopsis.IEEE Trans. PAMI 32, 1362--1376.",
+                "DOI": "10.1109/TPAMI.2009.161",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-17",
+                "unstructured": "Hadap, S., and Magnenat-Thalmann, N. 2000. Interactive hair styler based on fluid flow. InEurographics Workshop on Computer Animation and Simulation 2000, Springer, 87--99."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-18",
+                "unstructured": "Hadap, S., and Magnenat-Thalmann, N. 2001. Modeling dynamic hair as a continuum.Computer Graphics Forum 20, 3, 329--338.",
+                "DOI": "10.1111/1467-8659.00525",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-19",
+                "unstructured": "Jakob, W., Moon, J. T., and Marschner, S. 2009. Capturing hair assemblies fiber by fiber.ACM Trans. Graph. 28, 5, 164:1--164:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-20",
+                "unstructured": "Kim, T.-Y., and Neumann, U. 2002. Interactive multiresolution hair modeling and editing.ACM Trans. Graph. 21, 3, 620--629.",
+                "DOI": "10.1145/566654.566627",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-21",
+                "unstructured": "Lay Herrera, T., Zinke, A., and Weber, A. 2012. Lighting hair from the inside: A thermal approach to hair reconstruction.ACM Trans. Graph. 31, 6, 146:1--146:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-22",
+                "unstructured": "Li, G., Liu, L., Zheng, H., and Mitra, N. J. 2010. Analysis, reconstruction and manipulation using arterial snakes.ACM Trans. Graph. 29, 5, 152:1--152:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-23",
+                "unstructured": "Li, H., Yu, J., Ye, Y., and Bregler, C. 2013. Realtime facial animation with on-the-fly correctives.ACM Trans. Graph. 32, 4, 42:1--42:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-24",
+                "unstructured": "Livny, Y., Yan, F., Olson, M., Chen, B., Zhang, H., and El-sana, J. 2010. Automatic reconstruction of tree skeletal structures from point clouds.ACM Trans. Graph. 29, 6, 151:1--151:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-25",
+                "unstructured": "Luo, L., Li, H., Paris, S., Weise, T., Pauly, M., and Rusinkiewicz, S. 2012. Multi-view hair capture using orientation fields. InCVPR, 1490--1497."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-26",
+                "unstructured": "Luo, L., Li, H., and Rusinkiewicz, S. 2013. Structure-aware hair capture.ACM Trans. Graph. 32, 4, 76:1--76:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-27",
+                "unstructured": "Luo, L., Zhang, C., Zhang, Z., and Rusinkiewicz, S. 2013. Wide-baseline hair capture using strand-based refinement. InCVPR, 265--272."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-28",
+                "unstructured": "Mitra, N. J., Guibas, L. J., and Pauly, M. 2006. Partial and approximate symmetry detection for 3D geometry.ACM Trans. Graph. 25, 3, 560--568.",
+                "DOI": "10.1145/1141911.1141924",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-29",
+                "unstructured": "Nan, L., Sharf, A., Zhang, H., Cohen-Or, D., and Chen, B. 2010. SmartBoxes for interactive urban reconstruction.ACM Trans. Graph. 29, 4, 93:1--93:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-30",
+                "unstructured": "Paris, S., Brice&#241;o, H. M., and Sillion, F. X. 2004. Capture of hair geometry from multiple images.ACM Trans. Graph. 23, 3, 712--719."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-31",
+                "unstructured": "Paris, S., Chang, W., Kozhushnyan, O. I., Jarosz, W., Matusik, W., Zwicker, M., and Durand, F. 2008. Hair photobooth: Geometric and photometric acquisition of real hairstyles.ACM Trans. Graph. 27, 3, 30:1--30:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-32",
+                "unstructured": "Rother, C., Kolmogorov, V., and Blake, A. 2004. Grabcut: Interactive foreground extraction using iterated graph cuts.ACM Trans. Graph. 23, 3, 309--314.",
+                "DOI": "10.1145/1015706.1015720",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-33",
+                "unstructured": "Selle, A., Lentine, M., and Fedkiw, R. 2008. A mass spring model for hair simulation.ACM Trans. Graph. 27, 3, 64:1--64:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-34",
+                "unstructured": "Shao, T., Xu, W., Zhou, K., Wang, J., Li, D., and Guo, B. 2012. An interactive approach to semantic modeling of indoor scenes with an rgbd camera.ACM Trans. Graph. 31, 6, 136:1--136:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-35",
+                "unstructured": "Shen, C.-H., Fu, H., Chen, K., and Hu, S.-M. 2012. Structure recovery by part assembly.ACM Trans. Graph. 31, 6, 180:1--180:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-36",
+                "unstructured": "Wang, L., Yu, Y., Zhou, K., and Guo, B. 2009. Example-based hair geometry synthesis.ACM Trans. Graph. 28, 3, 56:1--56:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-37",
+                "unstructured": "Ward, K., Lin, M. C., Lee, J., Fisher, S., and Macri, D. 2003. Modeling hair using level-of-detail representations. InProc. CASA, 41--47."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-38",
+                "unstructured": "Ward, K., Bertails, F., yong Kim, T., Marschner, S. R., paule Cani, M., and Lin, M. C. 2006. A survey on hair modeling: Styling, simulation, and rendering.TVCG 13, 2, 213--234."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-39",
+                "unstructured": "Wei, Y., Ofek, E., Quan, L., and Shum, H.-Y. 2005. Modeling hair from multiple views.ACM Trans. Graph. 24, 3, 816--820.",
+                "DOI": "10.1145/1073204.1073267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-40",
+                "unstructured": "Wither, J., Bertails, F., and Cani, M.-P. 2007. Realistic hair from a sketch. InSMI '07, 33--42."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-41",
+                "unstructured": "Xu, K., Zheng, H., Zhang, H., Cohen-Or, D., Liu, L., and Xiong, Y. 2011. Photo-inspired model-driven 3D object modeling.ACM Trans. Graph. 30, 4, 80:1--80:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-42",
+                "unstructured": "Yu, Y. 2001. Modeling realistic virtual hairstyles. InPacific Graphics'01, 295--304."
+            },
+            {
+                "key": "key-10.1145/2601097.2601194-43",
+                "unstructured": "Yuksel, C., Schaefer, S., and Keyser, J. 2009. Hair meshes.ACM Trans. Graph. 28, 5, 166:1--166:7."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601194&amp;ftid=1488935&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601194",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

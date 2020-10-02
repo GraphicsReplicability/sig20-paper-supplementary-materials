@@ -1,0 +1,382 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:32Z",
+            "timestamp": 1575507212568
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Otto Monsted Foundation",
+                "award": [
+                    "13-70-0688"
+                ]
+            },
+            {
+                "name": "GRAND",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601226",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Interactive shape modeling using a skeleton-mesh co-representation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "J. Andreas",
+                "family": "B\u00e6rentzen",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Rinat",
+                "family": "Abdrashitov",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Karan",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601226-1",
+                "unstructured": "Andrews, J., Jin, H., and S&#233;quin, C. 2012. Interactive inverse 3d modeling.Computer-Aided Design and Applications 9, 6, 881--900."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-2",
+                "unstructured": "Attene, M., Biasotti, S., and Spagnuolo, M. 2003. Shape understanding by contour-driven retiling.The Visual Computer 19, 2, 127--138."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-3",
+                "unstructured": "Bae, S.-H., Balakrishnan, R., and Singh, K. 2008. Ilovesketch: as-natural-as-possible sketching system for creating 3d curve models. InProceedings of the 21st annual ACM symposium on User interface software and technology, ACM, 151--160."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-4",
+                "unstructured": "B&#230;rentzen, J. A., Misztal, M. K., and We&#322;nicka, K. 2012. Converting skeletal structures to quad dominant meshes.Computers &#38; Graphics 36, 5, 555--561."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-5",
+                "unstructured": "Banchoff, T. F. 1970. Critical points and curvature for embedded polyhedral surfaces.The American Mathematical Monthly 77, 5, 475--485.",
+                "DOI": "10.2307/2317380",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-6",
+                "unstructured": "Baran, I., and Popovi&#263;, J. 2007. Automatic rigging and animation of 3d characters.ACM Transactions on Graphics 26, 3, 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-7",
+                "unstructured": "Bessmeltsev, M., Wang, C., Sheffer, A., and Singh, K. 2012. Design-driven quadrangulation of closed 3d curves.ACM Trans. Graph. 31, 6 (Nov.), 178:1--178:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-8",
+                "unstructured": "Biasotti, S., Falcidieno, B., and Spagnuolo, M. 2000. Extended reeb graphs for surface understanding and description. InDiscrete Geometry for Computer Imagery, G. Borgefors, I. Nystr&#246;m, and G. Baja, Eds., vol. 1953 ofLecture Notes in Computer Science. Springer Berlin Heidelberg, 185--197."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-9",
+                "unstructured": "Biasotti, S., Giorgi, D., Spagnuolo, M., and Falcidieno, B. 2008. Reeb graphs for shape analysis and applications.Theoretical Computer Science 392, 1, 5--22.",
+                "DOI": "10.1016/j.tcs.2007.10.018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-10",
+                "unstructured": "Bloomenthal, J., and Wyvill, B., Eds. 1997.Introduction to Implicit Surfaces. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-11",
+                "unstructured": "Bommes, D., Lempfer, T., and Kobbelt, L. 2011. Global structure optimization of quadrilateral meshes.Computer Graphics Forum 30, 2, 375--384.",
+                "DOI": "10.1111/j.1467-8659.2011.01868.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-12",
+                "unstructured": "Bommes, D., L&#233;vy, B., Pietroni, N., Puppo, E., Silva, C., and Zorin, D. 2013. Quad-mesh generation and processing: A survey.Computer Graphics Forum 32, 6, 51--76."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-13",
+                "unstructured": "Boros&#225;n, P., Jin, M., DeCarlo, D., Gingold, Y., and Nealen, A. 2012. Rigmesh: automatic rigging for part-based shape modeling and deformation.ACM Transactions on Graphics (TOG) 31, 6, 198:1--198:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-14",
+                "unstructured": "Catmull, E., and Clark, J. 1978. Recursively generated b-spline surfaces on arbitrary topological meshes.Computer-aided design 10, 6, 350--355.",
+                "DOI": "10.1016/0010-4485(78)90110-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-15",
+                "unstructured": "Chaudhuri, S., Kalogerakis, E., Giguere, S., and Funkhouser, T. 2013. AttribIt: Content creation with semantic attributes. InProc. UIST, ACM.",
+                "DOI": "10.1145/2501988.2502008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-16",
+                "unstructured": "Daniels, J., Silva, C. T., Shepherd, J., and Cohen, E. 2008. Quadrilateral mesh simplification.ACM Transactions on Graphics 27, 5, 148:1--148:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-17",
+                "unstructured": "Dong, S., Kircher, S., and Garland, M. 2005. Harmonic functions for quadrilateral remeshing of arbitrary manifolds.Computer aided geometric design 22, 5, 392--423.",
+                "DOI": "10.1016/j.cagd.2005.04.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-18",
+                "unstructured": "Floater, M. S. 2003. Mean value coordinates.Computer Aided Geometric Design 20, 1, 19--27.",
+                "DOI": "10.1016/S0167-8396(03)00002-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-19",
+                "unstructured": "Galyean, T. A., and Hughes, J. F. 1991. Sculpting: An interactive volumetric modeling technique.Computer Graphics 25, 4 (jul), 267--274."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-20",
+                "unstructured": "Gebal, K., B&#230;rentzen, J. A., Aan&#230;s, H., and Larsen, R. 2009. Shape analysis using the auto diffusion function.Computer Graphics Forum 28, 5, 1405--1413."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-21",
+                "unstructured": "Igarashi, T., Matsuoka, S., and Tanaka, H. 2007. Teddy: a sketching interface for 3d freeform design. InACM SIGGRAPH 2007 courses, ACM, 21."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-22",
+                "unstructured": "Isenburg, M., Gumhold, S., and Gotsman, C. 2001. Connectivity shapes. InProceedings of the conference on Visualization'01, IEEE Computer Society, 135--142."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-23",
+                "unstructured": "Ji, Z., Liu, L., and Wang, Y. 2010. B-mesh: A modeling system for base meshes of 3d articulated shapes.Computer Graphics Forum 29, 7, 2169--2177.",
+                "DOI": "10.1111/j.1467-8659.2010.01805.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-24",
+                "unstructured": "Kettner, L. 1998. Designing a data structure for polyhedral surfaces. InProceedings 14th Annual Symposium on Computational Geometry, ACM, 146--154."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-25",
+                "unstructured": "Krishnamurthy, V., and Levoy, M. 1996. Fitting smooth surfaces to dense polygon meshes. InProceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques, ACM, New York, NY, USA, SIGGRAPH '96, ACM, 313--324."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-26",
+                "unstructured": "Melv&#230;r, E. L., and Reimers, M. 2012. Geodesic polar coordinates on polygonal meshes.Computer Graphics Forum 31, 8, 2423--2435."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-27",
+                "unstructured": "Milnor, J. W. 1963.Morse Theory. Princeton university press.",
+                "DOI": "10.1515/9781400881802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-28",
+                "unstructured": "Myles, A., and Peters, J. 2009. Bi-3 c 2 polar subdivision.ACM Transactions on Graphics 28, 3, 1--12.",
+                "DOI": "10.1145/1531326.1531354",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-29",
+                "unstructured": "Ni, X., Garland, M., and Hart, J. C. 2004. Fair morse functions for extracting the topological structure of a surface mesh.ACM Transactions on Graphics 23, 3, 613--622.",
+                "DOI": "10.1145/1015706.1015769",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-30",
+                "unstructured": "Pinkall, U., and Polthier, K. 1993. Computing discrete minimal surfaces and their conjugates.Experimental mathematics 2, 1, 15--36."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-31",
+                "unstructured": "Pixologic, 2010. Zbrush."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-32",
+                "unstructured": "Schmidt, R., and Singh, K. 2010. Meshmixer: An interface for rapid mesh composition. InACM SIGGRAPH 2010 Talks.",
+                "DOI": "10.1145/1837026.1837034",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-33",
+                "unstructured": "Singh, K., and Fiume, E. 1998. Wires: A geometric deformation technique. InProceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '98), ACM, 405--414."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-34",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProceedings of the Fifth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SGP '07, Eurographics, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-35",
+                "unstructured": "Srinivasan, V., Mandal, E., and Akleman, E. 2005. Solidifying wireframes. InProceedings of the 2004 bridges conference on mathematical connections in art, music, and science. Banf, Alberta, Canada."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-36",
+                "unstructured": "St&#227;nculescu, L., Chaine, R., Cani, M.-P., and Singh, K. 2013. Sculpting multi-dimensional nested structures.Computers &#38; Graphics 37, 6, 753--763."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-37",
+                "unstructured": "Sun, Q., Lin, J., Fu, C.-W., Kaijima, S., and He, Y. 2013. A multi-touch interface for fast architectural sketching and massing. InProceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM, 247--256."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-38",
+                "unstructured": "Takayama, K., Schmidt, R., Singh, K., Igarashi, T., Boubekeur, T., and Sorkine, O. 2011. Geobrush: Interactive mesh geometry cloning.Computer Graphics Forum (proceedings of Eurographics) 30, 2, 613--622.",
+                "DOI": "10.1111/j.1467-8659.2011.01883.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-39",
+                "unstructured": "Takayama, K., Panozzo, D., Sorkine-Hornung, A., and Sorkine-Hornung, O. 2013. Sketch-based generation and editing of quad meshes.ACM Trans. Graph. 32, 4 (July), 97:1--97:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-40",
+                "unstructured": "Thiery, J.-M., Guy, E., and Boubekeur, T. 2013. Sphere-meshes: Shape approximation using spherical quadric error metrics.ACM Transaction on Graphics (Proc. SIGGRAPH Asia 2013) 32, 6, 178:1--178:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-41",
+                "unstructured": "Vaillant, R., Barthe, L., Guennebaud, G., Cani, M.-P., Rohmer, D., Wyvill, B., Gourmel, O., and Paulin, M. 2013. Implicit skinning: Real-time skin deformation with contact modeling.ACM Trans. Graph. 32, 4 (July), 125:1--125:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-42",
+                "unstructured": "Warren, J., and Schaefer, S. 2004. A factored approach to subdivision surfaces.Computer Graphics and Applications, IEEE 24, 3, 74--81.",
+                "DOI": "10.1109/MCG.2004.1297015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601226-43",
+                "unstructured": "Zanni, C., Bernhardt, A., Quiblier, M., and Cani, M.-P. 2013. Scale-invariant integral surfaces.Computer Graphics Forum 32, 8, 219--232.",
+                "DOI": "10.1111/cgf.12199",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601226&amp;ftid=1488941&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:45Z",
+            "timestamp": 1565663745000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601226",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813685
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002920",
+                "name": "Research Grants Council, University Grants Committee",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CUHK 14200915"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61272293"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925872",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Globally optimal toon tracking"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Haichao",
+                "family": "Zhu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Xueting",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Tien-Tsin",
+                "family": "Wong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Pheng-Ann",
+                "family": "Heng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925872-1",
+                "unstructured": "Adelson, E. H., and Bergen, J. R. 1985. Spatiotemporal energy models for the perception of motion.Journal of the Optical Society of America A 2, 2, 284--299."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-2",
+                "unstructured": "Baker, S., Scharstein, D., Lewis, J. P., Roth, S., Black, M. J., and Szeliski, R. 2011. A database and evaluation methodology for optical flow.International Journal of Computer Vision 92, 1, 1--31."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-3",
+                "unstructured": "Berclaz, J., Fleuret, F., T&#252;retken, E., and Fua, P. 2011. Multiple object tracking using k-shortest paths optimization.IEEE Transactions on Pattern Analysis and Machine Intelligence 33, 9, 1806--1819."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-4",
+                "unstructured": "Bregler, C., Loeb, L., Chuang, E., and Deshpande, H. 2002. Turning to the masters: motion capturing cartoons. InACM Transactions on Graphics, vol. 21, ACM, 399--407.",
+                "DOI": "10.1145/566570.566595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-5",
+                "unstructured": "Butt, A. A., and Collins, R. T. 2013. Multi-target tracking by lagrangian relaxation to min-cost network flow. InProceedings of IEEE Conference on Computer Vision and Pattern Recognition, 1846--1853."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-6",
+                "unstructured": "Horn, B. K. P., and Schunck, B. G. 1981. Determining optical flow. InProceedings of International Society for Optics and Photonics Technical Symposium East, 319--331."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-7",
+                "unstructured": "Kort, A. 2002. Computer aided inbetweening. InProceedings of International Symposium on Non-Photorealistic Animation and Rendering, 125--132."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-8",
+                "unstructured": "Ling, H., and Jacobs, D. W. 2007. Shape classification using the inner-distance.IEEE Transactions on Pattern Analysis and Machine Intelligence 29, 2, 286--299."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-9",
+                "unstructured": "Liu, X., Mao, X., Yang, X., Zhang, L., and Wong, T.-T. 2013. Stereoscopizing cel animations.ACM Transactions on Graphics 32, 6, 223."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-10",
+                "unstructured": "Lucas, B. D., and Kanade, T. 1981. An iterative image registration technique with an application to stereo vision. InProceedings of International Joint Conference on Artificial Intelligence, vol. 81, 674--679."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-11",
+                "unstructured": "Madeira, J. S., Stork, A., and Gross, M. H. 1996. An approach to computer-supported cartooning.The Visual Computer 12, 1, 1--17."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-12",
+                "unstructured": "Noris, G., S&#253;kora, D., Coros, S., Whited, B., Simmons, M., Hornung, A., Gross, M., and Sumner, R. 2011. Temporal noise control for sketchy animation. InProceedings of International Symposium on Non-photorealistic Animation and Rendering, 93--98."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-13",
+                "unstructured": "Park, C., Woehl, T. J., Evans, J. E., and Browning, N. D. 2015. Minimum cost multi-way data association for optimizing multitarget tracking of interacting objects.IEEE Transactions on Pattern Analysis and Machine Intelligence 37, 3, 611--624."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-14",
+                "unstructured": "Pellegrini, S., Ess, A., and Gool, L. V. 2010. Improving data association by joint modeling of pedestrian trajectories and groupings. InProceedings of European Conference on Computer Vision, Springer, 452--465.",
+                "DOI": "10.1007/978-3-642-15549-9_33",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-15",
+                "unstructured": "Qiu, J., Seah, H. S., Tian, F., Wu, Z., and Chen, Q. 2005. Feature-and region-based auto painting for 2d animation.The Visual Computer 21, 11, 928--944."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-16",
+                "unstructured": "Shitrit, H. B., Berclaz, J., Fleuret, F., and Fua, P. 2014. Multi-commodity network flow for tracking multiple people.IEEE Transactions on Pattern Analysis and Machine Intelligence 36, 8, 1614--1627."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-17",
+                "unstructured": "Smeulders, A. W. M., Chu, D. M., Cucchiara, R., Calderara, S., Dehghan, A., and Shah, M. 2014. Visual tracking: an experimental survey.IEEE Transactions on Pattern Analysis and Machine Intelligence 36, 7, 1442--1468."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-18",
+                "unstructured": "Song, Z., Yu, J., Zhou, C., and Wang, M. 2013. Automatic cartoon matching in computer-assisted animation production.Neurocomputing 120, 397--403."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-19",
+                "unstructured": "Sykora, D., Buri&#225;nek, J., and &#381;&#225;ra, J. 2005. Colorization of black-and-white cartoons.Image and Vision Computing 23, 9, 767--782."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-20",
+                "unstructured": "Sykora, D., Dingliana, J., and Collins, S. 2009. As-rigid-as-possible image registration for hand-drawn cartoon animations. InProceedings of International Symposium on Non-Photorealistic Animation and Rendering, 25--33."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-21",
+                "unstructured": "Sykora, D., Ben-Chen, M., &#268;ad&#237;k, M., Whited, B., and Simmons, M. 2011. Textoons: practical texture mapping for hand-drawn cartoon animations. In Proceedings of International Symposium on Non-Photorealistic Animation and Rendering, 75--84.",
+                "DOI": "10.1145/2024676.2024689",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-22",
+                "unstructured": "Werner, R. 1965. Autocorrelation: a principle for the evaluation of sensory information by the central nervous system.Sensory Communication 303, 318."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-23",
+                "unstructured": "Whited, B., Noris, G., Simmons, M., Sumner, R., Gross, M., and Rossignac, J. 2010. Betweenit: An interactive tool for tight inbetweening.Computer Graphics Forum 29, 2, 605--614."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-24",
+                "unstructured": "Xing, J., Wei, L.-Y., Shiratori, T., and Yatani, K. 2015. Autocomplete hand-drawn animations.ACM Transactions on Graphics 34, 6, 169."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-25",
+                "unstructured": "Xu, L., Jia, J., and Matsushita, Y. 2012. Motion detail preserving optical flow estimation.IEEE Transactions on Pattern Analysis and Machine Intelligence 34, 9, 1744--1757."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-26",
+                "unstructured": "Yen, J. Y. 1971. Finding the k shortest loopless paths in a network.Management Science 17, 11, 712--716."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-27",
+                "unstructured": "Zhang, S.-H., Chen, T., Zhang, Y.-F., Hu, S.-M., and Martin, R. R. 2009. Vectorizing cartoon animations.IEEE Transactions on Visualization and Computer Graphics 15, 4, 618--629."
+            },
+            {
+                "key": "key-10.1145/2897824.2925872-28",
+                "unstructured": "Zhang, L., Huang, H., and Fu, H. 2012. Excol: an extract-and-complete layering approach to cartoon animation reusing.IEEE Transactions on Visualization and Computer Graphics 18, 7, 1156--1169."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925872&amp;ftid=1755866&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T18:12:26Z",
+            "timestamp": 1498327946000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925872",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

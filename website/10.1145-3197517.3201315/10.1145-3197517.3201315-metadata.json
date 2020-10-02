@@ -1,0 +1,476 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410106
+        },
+        "reference-count": 57,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201315",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Learning basketball dribbling skills using trajectory optimization and deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Libin",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "DeepMotion Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Jessica",
+                "family": "Hodgins",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201315-1",
+                "unstructured": "Mazen Al Borno, Martin de Lasa, and Aaron Hertzmann. 2013. Trajectory Optimization for Full-Body Movements with Complex Contacts.IEEE Trans. Visual. Comput. Graph.19, 8 (Aug 2013), 1405--1414.",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-2",
+                "unstructured": "Sheldon Andrews and Paul G. Kry. 2013. Goal directed multi-finger manipulation: Control policies and analysis.Comput. Graph.37, 7 (2013), 830 -- 839.",
+                "DOI": "10.1016/j.cag.2013.04.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-3",
+                "unstructured": "Yunfei Bai, Kristin Siu, and C. Karen Liu. 2012. Synthesis of Concurrent Object Manipulation Tasks.ACM Trans. Graph.31, 6, Article 156 (Nov. 2012), 9 pages.",
+                "DOI": "10.1145/2366145.2366175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-4",
+                "unstructured": "Georg B&#228;tz, Kwang-Kyu Lee, Dirk Wollherr, and Martin Buss. 2009. Robot basketball: A comparison of ball dribbling with visual and force/torque feedback. In2009 IEEE International Conference on Robotics and Automation.514--519.",
+                "DOI": "10.1109/ROBOT.2009.5152413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-5",
+                "unstructured": "Georg B&#228;tz, Uwe Mettin, Alexander Schmidts, Michael Scheint, Dirk Wollherr, and Anton S. Shiriaev. 2010. Ball dribbling with an underactuated continuous-time control phase: Theory &#38; experiments. In2010 IEEE/RSJ International Conference on Intelligent Robots and Systems.2890--2895.",
+                "DOI": "10.1109/IROS.2010.5654307",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-6",
+                "unstructured": "Stelian Coros, Philippe Beaudoin, and Michiel van de Panne. 2009. Robust Task-based Control Policies for Physics-based Characters.ACM Trans. Graph.28, 5, Article 170 (Dec. 2009), 9 pages.",
+                "DOI": "10.1145/1661412.1618516",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-7",
+                "unstructured": "Stelian Coros, Philippe Beaudoin, and Michiel van de Panne. 2010. Generalized Biped Walking Control.ACM Trans. Graph.29, 4, Article 130 (July 2010), 9 pages.",
+                "DOI": "10.1145/1833349.1781156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-8",
+                "unstructured": "Kai Ding, Libin Liu, Michiel van de Panne, and KangKang Yin. 2015. Learning Reduced-order Feedback Policies for Motion Skills. InProceedings of the 14th ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '15).ACM, 83--92.",
+                "DOI": "10.1145/2786784.2786802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-9",
+                "unstructured": "Ga&#235;l Guennebaud, Beno&#239;t Jacob, and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-10",
+                "unstructured": "Sehoon Ha, Yuting Ye, and C. Karen Liu. 2012. Falling and Landing Motion Control for Character Animation.ACM Trans. Graph.31, 6, Article 155 (Nov. 2012), 9 pages.",
+                "DOI": "10.1145/2366145.2366174",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-11",
+                "unstructured": "Sami Haddadin, Kai Krieger, and Alin Albu-Sch&#228;ffer. 2011. Exploiting elastic energy storage for cyclic manipulation: Modeling, stability, and observations for dribbling. In2011 50th IEEE Conference on Decision and Control and European Control Conference.690--697."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-12",
+                "unstructured": "Nikolaus Hansen. 2006. The CMA Evolution Strategy: A Comparing Review. InTowards a New Evolutionary Computation.Studies in Fuzziness and Soft Computing, Vol. 192. Springer Berlin Heidelberg, 75--102.",
+                "DOI": "10.1007/3-540-32494-1_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-13",
+                "unstructured": "Matthew J. Hausknecht and Peter Stone. 2015. Deep Reinforcement Learning in Parameterized Action Space.CoRRabs/1511.04143 (2015). http://arxiv.org/abs/1511.04143"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-14",
+                "unstructured": "Jessica K. Hodgins, Wayne L. Wooten, David C. Brogan, and James F. O'Brien. 1995. Animating Human Athletics. InProceedings of SIGGRAPH.71--78.",
+                "DOI": "10.1145/218380.218414",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-15",
+                "unstructured": "Sumit Jain and C. Karen Liu. 2009. Interactive Synthesis of Human-object Interaction. InProceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '09).47--53.",
+                "DOI": "10.1145/1599470.1599476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-16",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization.CoRRabs/1412.6980 (2014). http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-17",
+                "unstructured": "Paul G. Kry and Dinesh K. Pai. 2006. Interaction Capture and Synthesis.ACM Trans. Graph.25, 3 (July 2006), 872--880.",
+                "DOI": "10.1145/1141911.1141969",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-18",
+                "unstructured": "Taesoo Kwon and Jessica K. Hodgins. 2017. Momentum-Mapped Inverted Pendulum Models for Controlling Dynamic Human Motions.ACM Trans. Graph.36, 1, Article 10 (Jan. 2017), 14 pages.",
+                "DOI": "10.1145/2983616",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-19",
+                "unstructured": "Yoonsang Lee, Sungeun Kim, and Jehee Lee. 2010a. Data-driven Biped Control.ACM Trans. Graph.29, 4, Article 129 (July 2010), 8 pages.",
+                "DOI": "10.1145/1833349.1781155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-20",
+                "unstructured": "Yongjoon Lee, Kevin Wampler, Gilbert Bernstein, Jovan Popovi&#263;, and Zoran Popovi&#263;. 2010b. Motion Fields for Interactive Character Locomotion.ACM Trans. Graph.29, 6, Article 138 (Dec. 2010), 8 pages.",
+                "DOI": "10.1145/1882262.1866160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-21",
+                "unstructured": "Sergey Levine and Vladlen Koltun. 2013. Guided Policy Search. InProceedings of the 30th International Conference on Machine Learning, Vol. 28(3). 1--9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-22",
+                "unstructured": "Sergey Levine and Vladlen Koltun. 2014. Learning Complex Neural Network Policies with Trajectory Optimization. InProceedings of the 31st International Conference on Machine Learning, Vol. 32(2). 829--837."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-23",
+                "unstructured": "Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. 2015. Continuous control with deep reinforcement learning.CoRRabs/1509.02971 (2015). http://arxiv.org/abs/1509.02971"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-24",
+                "unstructured": "C. Karen Liu. 2009. Dextrous Manipulation from a Grasping Pose.ACM Trans. Graph.28, 3, Article 59 (July 2009), 6 pages.",
+                "DOI": "10.1145/1531326.1531365",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-25",
+                "unstructured": "C. Karen Liu, Aaron Hertzmann, and Zoran Popovi&#263;. 2006. Composition of Complex Optimal Multi-character Motions. InProceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '06).215--222."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-26",
+                "unstructured": "Libin Liu and Jessica Hodgins. 2017. Learning to Schedule Control Fragments for Physics-Based Characters Using Deep Q-Learning.ACM Trans. Graph.36, 3, Article 29 (June 2017), 14 pages.",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-27",
+                "unstructured": "Libin Liu, Michiel van de Panne, and KangKang Yin. 2016. Guided Learning of Control Graphs for Physics-Based Characters.ACM Trans. Graph.35, 3, Article 29 (May 2016), 14 pages.",
+                "DOI": "10.1145/2893476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-28",
+                "unstructured": "Libin Liu, KangKang Yin, Bin Wang, and Baining Guo. 2013. Simulation and Control of Skeleton-driven Soft Body Characters.ACM Trans. Graph.32, 6 (2013), Article 215.",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-29",
+                "unstructured": "Adriano Macchietto, Victor Zordan, and Christian R. Shelton. 2009. Momentum control for balance.ACM Trans. Graph.28, 3 (2009).",
+                "DOI": "10.1145/1531326.1531386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-30",
+                "unstructured": "James McCann and Nancy Pollard. 2007. Responsive Characters from Motion Fragments.ACM Trans. Graph.26, 3, Article 6 (July 2007).",
+                "DOI": "10.1145/1276377.1276385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-31",
+                "unstructured": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and Demis Hassabis. 2015b. Human-level control through deep reinforcement learning.Nature518, 7540 (26 Feb 2015), 529--533. Letter.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-32",
+                "unstructured": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, and et al. 2015a. Human-level control through deep reinforcement learning.Nature518, 7540 (26 Feb 2015), 529--533. Letter.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-33",
+                "unstructured": "Igor Mordatch, Martin de Lasa, and Aaron Hertzmann. 2010. Robust Physics-based Locomotion Using Low-dimensional Planning.ACM Trans. Graph.29, 4, Article 71 (July 2010), 8 pages.",
+                "DOI": "10.1145/1833349.1778808",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-34",
+                "unstructured": "Igor Mordatch, Kendall Lowrey, Galen Andrew, Zoran Popovic, and Emanuel V. Todorov. 2015. Interactive Control of Diverse Complex Characters with Neural Networks. InAdvances in Neural Information Processing Systems 28.3114--3122."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-35",
+                "unstructured": "Igor Mordatch, Zoran Popovi&#263;, and Emanuel Todorov. 2012a. Contact-invariant Optimization for Hand Manipulation. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '12).137--144."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-36",
+                "unstructured": "Igor Mordatch, Emanuel Todorov, and Zoran Popovi&#263;. 2012b. Discovery of Complex Behaviors Through Contact-invariant Optimization.ACM Trans. Graph.31, 4, Article 43 (July 2012), 8 pages.",
+                "DOI": "10.1145/2185520.2335394",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-37",
+                "unstructured": "Uldarico Muico, Yongjoon Lee, Jovan Popovi&#263;, and Zoran Popovi&#263;. 2009. Contact-aware nonlinear control of dynamic characters.ACM Trans. Graph.28, 3 (2009).",
+                "DOI": "10.1145/1531326.1531387",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-38",
+                "unstructured": "Xue Bin Peng, Glen Berseth, Kangkang Yin, and Michiel Van De Panne. 2017. DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning.ACM Trans. Graph.36, 4, Article 41 (July 2017), 13 pages.",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-39",
+                "unstructured": "Xue Bin Peng and Michiel van de Panne. 2017. Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter?. InProceedings of the ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA '17).Article 12, 13 pages.",
+                "DOI": "10.1145/3099564.3099567",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-40",
+                "unstructured": "Nancy S. Pollard and Victor Brian Zordan. 2005. Physically Based Grasping Control from Example. InProceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '05).311--318.",
+                "DOI": "10.1145/1073368.1073413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-41",
+                "unstructured": "Philipp Reist and Raffaello D'Andrea. 2012. Design and Analysis of a Blind Juggling Robot.IEEE Trans. Robot.28, 6 (Dec 2012), 1228--1243.",
+                "DOI": "10.1109/TRO.2012.2205493",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-42",
+                "unstructured": "Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, and Ilya Sutskever. 2017. Evolution Strategies as a Scalable Alternative to Reinforcement Learning.ArXiv e-prints(March 2017). arXiv:stat.ML/1703.03864"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-43",
+                "unstructured": "John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. 2015a. Trust Region Policy Optimization. InThe 32nd International Conference on Machine Learning.1889--1897."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-44",
+                "unstructured": "John Schulman, Philipp Moritz, Sergey Levine, Michael I. Jordan, and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation.CoRRabs/1506.02438 (2015). http://arxiv.org/abs/1506.02438"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-45",
+                "unstructured": "David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. 2014. Deterministic Policy Gradient Algorithms. InThe 31st International Conference on Machine Learning.387--395."
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-46",
+                "unstructured": "Jie Tan, Yuting Gu, C. Karen Liu, and Greg Turk. 2014. Learning Bicycle Stunts.ACM Trans. Graph.33, 4, Article 50 (July 2014), 12 pages.",
+                "DOI": "10.1145/2601097.2601121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-47",
+                "unstructured": "Jie Tan, Yuting Gu, Greg Turk, and C. Karen Liu. 2011. Articulated Swimming Creatures.ACM Trans. Graph.30, 4, Article 58 (July 2011), 12 pages.",
+                "DOI": "10.1145/1964921.1964953",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-48",
+                "unstructured": "Theano Development Team. 2016. Theano: A Python framework for fast computation of mathematical expressions.arXiv e-printsabs/1605.02688 (May 2016). http://arxiv.org/abs/1605.02688"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-49",
+                "unstructured": "Adrien Treuille, Yongjoon Lee, and Zoran Popovi&#263;. 2007. Near-optimal Character Animation with Continuous Control.ACM Trans. Graph.26, 3, Article 7 (July 2007).",
+                "DOI": "10.1145/1276377.1276386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-50",
+                "unstructured": "Hado van Hasselt. 2012.Reinforcement Learning in Continuous State and Action Spaces.Springer, Berlin, Heidelberg, 207--251.",
+                "DOI": "10.1007/978-3-642-27645-3_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-51",
+                "unstructured": "Kevin Wampler and Zoran Popovi&#263;. 2009. Optimal gait and form for animal locomotion.ACM Trans. Graph.28, 3 (2009), Article 60.",
+                "DOI": "10.1145/1531326.1531366",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-52",
+                "unstructured": "Jack M. Wang, David J. Fleet, and Aaron Hertzmann. 2010. Optimizing Walking Controllers for Uncertain Inputs and Environments.ACM Trans. Graph.29, 4, Article 73 (July 2010), 8 pages.",
+                "DOI": "10.1145/1833349.1778810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-53",
+                "unstructured": "Nkenge Wheatland, Yingying Wang, Huaguang Song, Michael Neff, Victor Zordan, and Sophie J&#246;rg. 2015. State of the Art in Hand and Finger Modeling and Animation.Comput. Graph. Forum34, 2 (May 2015), 735--760.",
+                "DOI": "10.1111/cgf.12595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-54",
+                "unstructured": "Yuting Ye and C. Karen Liu. 2012. Synthesis of detailed hand manipulations using contact sampling.ACM Trans. Graph.31, 4 (2012), Article 41.",
+                "DOI": "10.1145/2185520.2185537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-55",
+                "unstructured": "KangKang Yin, Kevin Loken, and Michiel van de Panne. 2007. SIMBICON: Simple Biped Locomotion Control.ACM Trans. Graph.26, 3 (2007), Article 105.",
+                "DOI": "10.1145/1275808.1276509",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-56",
+                "unstructured": "Wenping Zhao, Jianjie Zhang, Jianyuan Min, and Jinxiang Chai. 2013. Robust Realtime Physics-based Motion Control for Human Grasping.ACM Trans. Graph.32, 6, Article 207 (Nov. 2013), 12 pages.",
+                "DOI": "10.1145/2508363.2508412",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201315-57",
+                "unstructured": "Victor Zordan, David Brown, Adriano Macchietto, and KangKang Yin. 2014. Control of Rotational Dynamics for Ground and Aerial Behavior.IEEE Trans. Visual. Comput. Graph.20, 10 (Oct 2014), 1356--1366.",
+                "DOI": "10.1109/TVCG.2014.2330610",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201315&ftid=1991612&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:31Z",
+            "timestamp": 1571673511000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 57,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201315",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

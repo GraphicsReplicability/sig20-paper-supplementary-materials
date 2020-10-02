@@ -1,0 +1,350 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:48Z",
+            "timestamp": 1574815968845
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925879",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Emulating displays with continuously varying frame rates"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Krzysztof",
+                "family": "Templin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University, MMCI and MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925879-1",
+                "unstructured": "Agrawal, A., Veeraraghavan, A., and Raskar, R. 2010. Reinterpretable imager: Towards variable post-capture space, angle and time resolution in photography.Computer Graphics Forum 29, 2, 763--772."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-2",
+                "unstructured": "Brostow, G. J., and Essa, I. 2001. Image-based motion blur for stop motion animation. InProc ACM SIGGRAPH, 561--566."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-3",
+                "unstructured": "Brownlow, K. 1980. Silent films: What was the right speed?Sight and Sound, Summer, 164--167."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-4",
+                "unstructured": "Brox, T., Bruhn, A., Papenberg, N., and Weickert, J. 2004. High accuracy optical flow estimation based on a theory for warping. InEuropean Conference on Computer Vision (ECCV), vol. 3024 ofLecture Notes in Computer Science, 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-5",
+                "unstructured": "Chai, J.-X., Tong, X., Chan, S.-C., and Shum, H.-Y. 2000. Plenoptic sampling. InProc ACM SIGGRAPH, 307--318."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-6",
+                "unstructured": "Daly, S., Xu, N., Crenshaw, J., and Zunjarrao, V. J. 2014. A psychophysical study exploring judder using fundamental signals and complex imagery. InSMPTE Annual Technical Conference.",
+                "DOI": "10.5594/M001593",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-7",
+                "unstructured": "Daly, S. 1998. Engineering observations from spatiovelocity and spatiotemporal visual models. InHuman Vision and Electronic Imaging III, SPIE Vol. 3299, 180--191."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-8",
+                "unstructured": "Davis, J., Hsieh, Y.-H., and Lee, H.-C. 2015. Humans perceive flicker artifacts at 500 Hz.Scientific Reports 5.",
+                "DOI": "10.1038/srep07861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-9",
+                "unstructured": "de Lange, H. 1958. Research into the dynamic nature of the human fovea - Cortex systems with intermittent and modulated light. I. Attenuation characteristics with white and colored light.J. Opt. Soc. Am. 48, 11, 777--783."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-10",
+                "unstructured": "Didyk, P., Eisemann, E., Ritschel, T., Myszkowski, K., and Seidel, H.-P. 2010. Perceptually-motivated real-time temporal upsampling of 3D content for high-refresh-rate displays.Computer Graphics Forum (Proc. Eurographics 2010) 29, 2, 713--722."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-11",
+                "unstructured": "Disney Research, 2015.Lucid Dreams of Gabriel. http://www.disneyresearch.com/luciddreamsofgabriel/flowTime.html."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-12",
+                "unstructured": "Feng, X.-F. 2006. LCD motion blur analysis, perception, and reduction using synchronized backlight flashing. InHuman Vision and Electronic Imaging XI, SPIE Vol. 6057, M1--14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-13",
+                "unstructured": "Fuchs, M., Chen, T., Wang, O., Raskar, R., Seidel, H.-P., and Lensch, H. P. 2010. Real-time temporal shaping of high-speed video streams.Computers &#38; Graphics 34, 575--584."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-14",
+                "unstructured": "Gupta, M., Agrawal, A., Veeraraghavan, A., and Narasimhan, S. G. 2010. Flexible voxels for motion-aware videography. In Computer Vision -- ECCV 2010, K. Daniilidis, P. Maragos, and N. Paragios, Eds., vol. 6311 ofLecture Notes in Computer Science. 100--114.",
+                "DOI": "10.1007/978-3-642-15549-9_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-15",
+                "unstructured": "Hoffman, D. M., Karasev, V. I., and Banks, M. S. 2011. Temporal presentation protocols in stereoscopic displays: Flicker visibility, perceived motion, and perceived depth.J Soc Inf Disp 19, 3, 271--297."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-16",
+                "unstructured": "Hummel, R., Ed. 2002.American Cinematographer Manual (8th Edition). ASC Holding Corp."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-17",
+                "unstructured": "Kalloniatis, M., and Luu, C. 2009. Temporal resolution.http://webvision.med.utah.edu/temporal.html."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-18",
+                "unstructured": "M&#228;kel&#228;, P., Rovamo, J., and Whitaker, D. 1994. Effects of luminance and external temporal noise on flicker sensitivity as a function of stimulus size at various eccentricities.Vision Research 34, 15, 1981--91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-19",
+                "unstructured": "Navarro, F., Castillo, S., Ser&#243;n, F. J., and Gutierrez, D. 2011. Perceptual considerations for motion blur rendering.ACM Trans. Appl. Percept. 8, 3, 20:1--20:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-20",
+                "unstructured": "Quesnel, D., Lantin, M., Goldman, A., and Arden, S., 2013. An exploration into the creation of variable frame rate (VFR) stereoscopic 3D narrative productions. Emily Carr University of Art and Design. http://research.ecuad.ca/s3dcentre/projects/hfr-high-frame-rate-research/, accessed Apr 27, 2015."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-21",
+                "unstructured": "Raskar, R., Agrawal, A., and Tumblin, J. 2006. Coded exposure photography: Motion deblurring using fluttered shutter.ACM Trans. Graph. 25, 3, 795--804."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-22",
+                "unstructured": "Richards, D. 2014. 120 fps as a universal production format for motion pictures. InSMPTE Annual Conference Abstracts. http://edas.info/p17109, accessed Jan 6, 2015."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-23",
+                "unstructured": "Salt, B. 2009.Film Style and Technology: History and Analysis. Starword."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-24",
+                "unstructured": "Samuelson, D. 2014. The mathematics of cinematography. InHands-on Manual for Cinematographers. CRC Press.",
+                "DOI": "10.4324/9780080507880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-25",
+                "unstructured": "Stengel, M., Bauszat, P., Eisemann, M., Eisemann, E., and Magnor, M. 2015. Temporal video filtering and exposure control for perceptual motion blur.Visualization and Computer Graphics, IEEE Transactions on 21, 2, 1--11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-26",
+                "unstructured": "Stich, T., Linz, C., Wallraven, C., Cunningham, D., and Magnor, M. 2008. Perception-motivated interpolation of image sequences. InProc. APGV, 97--106."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-27",
+                "unstructured": "Stump, D. 2014. Frame rates and aspect ratios. InDigital Cinematography: Fundamentals, Tools, Techniques, and Workflows. Focal Press, Burlington, MA.",
+                "DOI": "10.4324/9780240817927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-28",
+                "unstructured": "Sung, K., Pearce, A., and Wang, C. 2002. Spatial-temporal antialiasing.IEEE Transactions on Visualization and Computer Graphics 8, 2, 144--153."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-29",
+                "unstructured": "Taguchi, Y., Agrawal, A., and Tuzel, O. 2012. Motion-aware structured light using spatio-temporal decodable patterns. InComputer Vision -- ECCV 2012, A. Fitzgibbon, S. Lazebnik, P. Perona, Y. Sato, and C. Schmid, Eds., vol. 7576 ofLecture Notes in Computer Science. 832--845.",
+                "DOI": "10.1007/978-3-642-33715-4_60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-30",
+                "unstructured": "Tambe, S., Veeraraghavan, A., and Agrawal, A. 2013. Towards motion aware light field video for dynamic scenes. InComputer Vision (ICCV), 2013 IEEE International Conference on, 1009--1016."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-31",
+                "unstructured": "Telleen, J., Sullivan, A., Yee, J., Wang, O., Gunawardane, P., Collins, I., and Davis, J. 2007. Synthetic shutter speed imaging.Comput. Graph. Forum 26, 3, 591--598."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-32",
+                "unstructured": "Tessive, 2014. Time Filter, Time Shaper. http://tessive.com."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-33",
+                "unstructured": "Trumbull, D. H., and Jackson, B., 2013. Method and apparatus for photographing and projecting moving images. US Patent US8363117 B2."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-34",
+                "unstructured": "Vangorp, P., Chaurasia, G., Laffont, P.-Y., Fleming, R., and Drettakis, G. 2011. Perception of visual artifacts in image-based rendering of fa&#231;ades.Computer Graphics Forum (Proc. of the EGSR) 30, 4, 1241--1250."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-35",
+                "unstructured": "Watson, A. B. 2013. High frame rates and human vision: A view through the window of visibility.SMPTE Motion Imaging Journal 122, 2, 18--32."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-36",
+                "unstructured": "Westerink, J. H., and Teunissen, K. 1995. Perceived sharpness in complex moving images.Displays 16, 2, 89--97."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-37",
+                "unstructured": "Wilcox, L. M., Allison, R. S., Helliker, J., Dunk, B., and Anthony, R. C. 2015. Evidence that viewers prefer higher frame-rate film.ACM Trans. Appl. Percept. 12, 4, 15:1--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925879-38",
+                "unstructured": "Zwicker, M., Matusik, W., Durand, F., Pfister, H., and Forlines, C. 2006. Antialiasing for automultiscopic 3D displays. InProc. EGSR, 73--82."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925879&amp;ftid=1755947&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:42:58Z",
+            "timestamp": 1568162578000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925879",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

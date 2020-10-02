@@ -1,0 +1,106 @@
+{
+    "Timestamp": "1/6/2020 9:23:46",
+    "Title": "Surface-Only Liquids",
+    "DOI": "10.1145/2897824.2925899",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 3,
+    "Build info / instructions": "LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned, None",
+    "arXiv (page URL)": "",
+    "code URL": "http://www.cs.columbia.edu/cg/surfaceliquids/code/Droplet3D.zip",
+    "code URL  2": "",
+    "PDF URL": "http://www.cs.columbia.edu/cg/surfaceliquids/droplets.pdf",
+    "License type": "FreeBSD",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Physical simulation",
+    "ACM 2": "Continuous simulation",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "had to modify the CMakeLists. Added two lines: find_package(glfw3 REQUIRED)\nset (DEFAULT_LIBRARIES ${DEFAULT_LIBRARIES} glfw) to link against glfw. I run a simulation using the file provided in assets/droplet3d: with command line: Droplet3D crownsplash.txt for example. The simulation runs, a wireframe mesh is displayed. However the renderings are very far from the ones in the paper.\nFor crownsplash I had the following error: [MeshIO::load] Error: file init/crownsplash.rec not found.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 17,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Eigen/GLFW3",
+    "Project URL": "http://www.cs.columbia.edu/cg/surfaceliquids/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Animation",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Fang",
+            "family": "Da",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia University"
+                }
+            ]
+        },
+        {
+            "given": "David",
+            "family": "Hahn",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        },
+        {
+            "given": "Christopher",
+            "family": "Batty",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Waterloo"
+                }
+            ]
+        },
+        {
+            "given": "Chris",
+            "family": "Wojtan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IST Austria"
+                }
+            ]
+        },
+        {
+            "given": "Eitan",
+            "family": "Grinspun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,336 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:03:42Z",
+            "timestamp": 1578582222981
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601218",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Online motion synthesis using sequential Monte Carlo"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Perttu",
+                "family": "H\u00e4m\u00e4l\u00e4inen",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Sebastian",
+                "family": "Eriksson",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Esa",
+                "family": "Tanskanen",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ville",
+                "family": "Kyrki",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jaakko",
+                "family": "Lehtinen",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601218-1",
+                "unstructured": "Al Borno, M., de Lasa, M., and Hertzmann, A. 2013. Trajectory optimization for full-body movements with complex contacts.IEEE Transactions on Visualization and Computer Graphics 19, 8, 1405--1414.",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-2",
+                "unstructured": "Arulampalam, M., Maskell, S., Gordon, N., and Clapp, T. 2002. A tutorial on particle filters for online nonlinear/non-gaussian bayesian tracking.IEEE Transactions on Signal Processing 50, 2, 174--188.",
+                "DOI": "10.1109/78.978374",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-3",
+                "unstructured": "Cohen, M. F. 1992. Interactive spacetime control for animation. InProc. SIGGRAPH '92, ACM, New York, NY, USA, 293--302."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-4",
+                "unstructured": "Da Silva, M., Abe, Y., and Popovi&#263;, J. 2008. Simulation of human motion data using short-horizon model-predictive control.Computer Graphics Forum 27, 2, 371--380."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-5",
+                "unstructured": "da Silva, M., Durand, F., and Popovi&#263;, J. 2009. Linear bellman combination for control of character animation. InProc. SIGGRAPH 2009, ACM, New York, NY, USA, 82:1--82:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-6",
+                "unstructured": "de Villiers, J. P., Godsill, S. J., and Singh, S. S. 2011. Particle predictive control.Journal of Statistical Planning and Inference 141, 5 (May), 1753--1763."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-7",
+                "unstructured": "Deutscher, J., Blake, A., and Reid, I. 2000. Articulated body motion capture by annealed particle filtering. InIEEE Conference on Computer Vision and Pattern Recognition, 2000. Proceedings, vol. 2, 126--133 vol. 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-8",
+                "unstructured": "Doucet, A., and Johansen, A. M. 2009. A tutorial on particle filtering and smoothing: Fifteen years later.Handbook of Nonlinear Filtering 12, 656--704."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-9",
+                "unstructured": "Erez, T., Lowrey, K., Tassa, Y., Kumar, V., Kolev, S., and Todorov, E. 2013. An integrated system for real-time model-predictive control of humanoid robots. InProc. IEEE/RAS International Conference on Humanoid Robots (HUMANOIDS), HUMANOIDS.",
+                "DOI": "10.1109/HUMANOIDS.2013.7029990",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-10",
+                "unstructured": "Fang, A. C., and Pollard, N. S. 2003. Efficient synthesis of physically valid human motion.ACM Trans. Graph. 22, 3, 417--426.",
+                "DOI": "10.1145/882262.882286",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-11",
+                "unstructured": "Geijtenbeek, T., Pronost, N., Egges, A., and Overmars, M. H. 2011. Interactive character animation using simulated physics.Eurographics-State of the Art Reports 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-12",
+                "unstructured": "Geijtenbeek, T., van de Panne, M., and van der Stappen, A. F. 2013. Flexible muscle-based locomotion for bipedal creatures.ACM Trans. Graph. 32, 6 (Nov.), 206:1--206:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-13",
+                "unstructured": "Heck, R., and Gleicher, M. 2007. Parametric motion graphs. InProceedings of the 2007 symposium on Interactive 3D graphics and games, ACM, New York, NY, USA, I3D '07, 129--136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-14",
+                "unstructured": "H&#228;m&#228;l&#228;inen, P., Aila, T., Takala, T., and Alander, J. 2006. Mutated kd-tree importance sampling. InProc. SCAI 2006, 39--45."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-15",
+                "unstructured": "Ihler, A. T., Sudderth, E. B., Freeman, W. T., and Willsky, A. S. 2003. Efficient multiscale sampling from products of gaussian mixtures.Advances in Neural Information Processing Systems 16, 1--8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-16",
+                "unstructured": "Jain, S., Ye, Y., and Liu, C. K. 2009. Optimization-based interactive motion synthesis.ACM Trans. Graph. 28, 1 (Feb.), 10:1--10:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-17",
+                "unstructured": "Kajiya, J. T. 1986. The rendering equation. InProc. SIGGRAPH '86, ACM, New York, NY, USA, 143--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-18",
+                "unstructured": "Kantas, N., Maciejowski, J. M., and Lecchini-Visintini, A. 2009. Sequential monte carlo for model predictive control. InNonlinear Model Predictive Control, L. Magni, D. M. Raimondo, and F. Allg&#246;wer, Eds., no. 384 in Lecture Notes in Control and Information Sciences. Springer Berlin Heidelberg, Jan., 263--273."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-19",
+                "unstructured": "Lasseter, J. 1987. Principles of traditional animation applied to 3D computer animation. InProc. SIGGRAPH '87, ACM, New York, NY, USA, 35--44."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-20",
+                "unstructured": "Liu, L., Yin, K., van de Panne, M., Shao, T., and Xu, W. 2010. Sampling-based contact-rich motion control.ACM Trans. Graph. 29, 4, 128:1--128:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-21",
+                "unstructured": "Mordatch, I., Todorov, E., and Popovi&#263;, Z. 2012. Discovery of complex behaviors through contact-invariant optimization.ACM Trans. Graph. 31, 4 (July), 43:1--43:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-22",
+                "unstructured": "Muico, U., Lee, Y., Popovi&#263;, J., and Popovi&#263;, Z. 2009. Contact-aware nonlinear control of dynamic characters.ACM Trans. Graph. 28, 3, 81:1--81:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-23",
+                "unstructured": "Muja, M., and Lowe, D. G. 2009. Fast approximate nearest neighbors with automatic algorithm configuration. InProc. VISAPP (1), 331--340."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-24",
+                "unstructured": "Ngo, J. T., and Marks, J. 1993. Spacetime constraints revisited. InProc. SIGGRAPH '93, ACM, New York, NY, USA, 343--350."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-25",
+                "unstructured": "Pejsa, T., and Pandzic, I. 2010. State of the art in example-based motion synthesis for virtual characters in interactive applications.Computer Graphics Forum 29, 1, 202--226.",
+                "DOI": "10.1111/j.1467-8659.2009.01591.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-26",
+                "unstructured": "Reil, T., and Husbands, P. 2002. Evolution of central pattern generators for bipedal walking in a real-time physics environment.IEEE Transactions on Evolutionary Computation 6, 2, 159--168.",
+                "DOI": "10.1109/4235.996015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-27",
+                "unstructured": "Rudoy, D., and Wolfe, P. 2006. Monte carlo methods for multimodal distributions. InProc. Fortieth Asilomar Conference on Signals, Systems and Computers, 2006. ACSSC '06, 2019--2023."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-28",
+                "unstructured": "Safonova, A., Hodgins, J. K., and Pollard, N. S. 2004. Synthesizing physically realistic human motion in low-dimensional, behavior-specific spaces.ACM Trans. Graph. 23, 3, 514--521.",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-29",
+                "unstructured": "Schmidt, J., Fritsch, J., and Kwolek, B. 2006. Kernel particle filter for real-time 3D body tracking in monocular color images. InProc. 7th International Conference on Automatic Face and Gesture Recognition, 2006. FGR 2006, 567--572."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-30",
+                "unstructured": "Sims, K. 1994. Evolving virtual creatures. InProc. SIGGRAPH '94, ACM, New York, NY, USA, 15--22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-31",
+                "unstructured": "Stahl, D., and Hauth, J. 2011. PF-MPC: particle filter-model predictive control.Syst Control Lett 60, 8, 632--643.",
+                "DOI": "10.1016/j.sysconle.2011.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-32",
+                "unstructured": "Tassa, Y., Erez, T., and Todorov, E. 2012. Synthesis and stabilization of complex behaviors through online trajectory optimization. InProc. 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, IROS'12, 4906--4913."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-33",
+                "unstructured": "Thrun, S., Fox, D., and Burgard, W. 2000. Monte carlo localization with mixture proposal distribution. InProc. AAAI/IAAI, 859--865."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-34",
+                "unstructured": "Van Welbergen, H., Van Basten, B. J. H., Egges, A., Ruttkay, Z. M., and Overmars, M. H. 2010. Real time animation of virtual humans: A trade-off between naturalness and control.Computer Graphics Forum 29, 8, 2530--2554.",
+                "DOI": "10.1111/j.1467-8659.2010.01822.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-35",
+                "unstructured": "Wampler, K., and Popovi&#263;, Z. 2009. Optimal gait and form for animal locomotion. InACM Trans. Graph., vol. 28, 60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601218-36",
+                "unstructured": "Witkin, A., and Kass, M. 1988. Spacetime constraints. InProc. SIGGRAPH '88, ACM, New York, NY, USA, 159--168."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601218&amp;ftid=1488859&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:37Z",
+            "timestamp": 1565663677000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601218",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

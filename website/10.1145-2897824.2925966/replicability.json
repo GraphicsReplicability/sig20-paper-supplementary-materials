@@ -1,0 +1,95 @@
+{
+    "Timestamp": "12/31/2019 18:45:28",
+    "Title": "Printing Arbitrary Meshes with a 5DOF Wireframe Printer",
+    "DOI": "10.1145/2897824.2925966",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution, Other (web, research gate, semantic scholar,...)",
+    "Is the code or software publicly available ?": "No but pseudo-code in the PDF",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "http://www.cs.cornell.edu/projects/wireprint/download/arbitrary.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 42,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://www.cs.cornell.edu/projects/wireprint/",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": 3,
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Rundong",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Huaishu",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Fran\u00e7ois",
+            "family": "Guimbreti\u00e8re",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Steve",
+            "family": "Marschner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 3,
+    "Altmetric badge": "https://badges.altmetric.com/?size=64&score=3&types=aaaaaaaa",
+    "Altmetric url": "http://www.altmetric.com/details.php?citation_id=49739017"
+}

@@ -1,0 +1,346 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228495
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NIH 1R21HD075048-01A1",
+                "award": []
+            },
+            {
+                "name": "NSF IIS-0914965",
+                "award": []
+            },
+            {
+                "name": "NSFC",
+                "award": [
+                    "61328204"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601161",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 34,
+        "title": [
+            "Robust and accurate skeletal rigging from mesh sequences"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Binh Huy",
+                "family": "Le",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Zhigang",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601161-1",
+                "unstructured": "Ali-Hamadi, D., Liu, T., Gilles, B., Kavan, L., Faure, F., Palombi, O., and Cani, M.-P. 2013. Anatomy transfer.ACM Trans. Graph. 32, 6 (Nov.), 188:1--188:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-2",
+                "unstructured": "Anguelov, D., Koller, D., Pang, H.-C., Srinivasan, P., and Thrun, S. 2004. Recovering articulated object models from 3D range data. InUAI'04: Proc. of Conf. on Uncertainty in Artificial Intelligence, 18--26."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-3",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. 2005. Scape: Shape completion and animation of people.ACM Trans. Graph. 24, 3 (July), 408--416."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-4",
+                "unstructured": "Au, O. K.-C., Tai, C.-L., Chu, H.-K., Cohen-Or, D., and Lee, T.-Y. 2008. Skeleton extraction by mesh contraction.ACM Trans. Graph. 27, 3 (Aug.), 44:1--44:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-5",
+                "unstructured": "Baran, I., and Popovi&#263;, J. 2007. Automatic rigging and animation of 3d characters.ACM Trans. Graph. 26, 3 (July).",
+                "DOI": "10.1145/1276377.1276467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-6",
+                "unstructured": "Brice&#241;o, H. M., Sander, P. V., McMillan, L., Gortler, S., and Hoppe, H. 2003. Geometry videos: A new representation for 3D animations. InSCA'03: Proc. of Symp. on Computer Animation, 136--146."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-7",
+                "unstructured": "de Aguiar, E., Theobalt, C., Thrun, S., and Seidel, H.-P. 2008. Automatic conversion of mesh animations into skeleton-based animations.Comput. Graph. Forum 27, 2 (4), 389--397."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-8",
+                "unstructured": "de Aguiar, E., Stoll, C., Theobalt, C., Ahmed, N., Seidel, H.-P., and Thrun, S. 2008. Performance capture from sparse multi-view video.ACM Trans. Graph. 27, 3 (Aug.), 98:1--98:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-9",
+                "unstructured": "Hahn, F., Martin, S., Thomaszewski, B., Sumner, R., Coros, S., and Gross, M. 2012. Rig-space physics.ACM Trans. Graph. 31, 4 (July), 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-10",
+                "unstructured": "Hasler, N., Thorm&#228;hlen, T., Rosenhahn, B., and Seidel, H.-P. 2010. Learning skeletons for shape and pose. InI3D'10: Proc. of Symp. on Interactive 3D Graphics and Games, 23--30."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-11",
+                "unstructured": "Huang, H., Wu, S., Cohen-Or, D., Gong, M., Zhang, H., Li, G., and Chen, B. 2013. L1-medial skeleton of point cloud.ACM Trans. Graph. 32, 4 (July), 65:1--65:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-12",
+                "unstructured": "Jacobson, A., and Sorkine, O. 2011. Stretchable and twistable bones for skeletal shape deformation.ACM Trans. Graph. 30, 6 (Dec.), 165:1--165:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-13",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. Graph. 30, 4 (July), 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-14",
+                "unstructured": "James, D. L., and Twigg, C. D. 2005. Skinning mesh animations.ACM Trans. Graph. 24, 3 (July), 399--407."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-15",
+                "unstructured": "Kabsch, W. 1978. A discussion of the solution for the best rotation to relate two sets of vectors.Acta Crystallographica Section A 34, 827--828.",
+                "DOI": "10.1107/S0567739478001680",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-16",
+                "unstructured": "Kavan, L., and Sorkine, O. 2012. Elasticity-inspired deformers for character articulation.ACM Trans. Graph. 31, 6 (Nov.), 196:1--196:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-17",
+                "unstructured": "Kavan, L., Collins, S., &#381;&#225;ra, J., and O'Sullivan, C. 2008. Geometric skinning with approximate dual quaternion blending.ACM Trans. Graph. 27, 4 (Nov.), 105:1--105:23."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-18",
+                "unstructured": "Kavan, L., Sloan, P.-P., and O'Sullivan, C. 2010. Fast and efficient skinning of animated meshes.Comput. Graph. Forum 29, 2, 327--336.",
+                "DOI": "10.1111/j.1467-8659.2009.01602.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-19",
+                "unstructured": "Kim, B.-U., Feng, W.-W., and Yu, Y. 2010. Real-time data driven deformation with affine bones.Vis. Comput. 26, 6--8 (June), 487--495."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-20",
+                "unstructured": "Kirk, A. G., O'Brien, J. F., and Forsyth, D. A. 2005. Skeletal parameter estimation from optical motion capture data. InIEEE CVPR, 782--788."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-21",
+                "unstructured": "Kruskal, J. B. 1956. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem.Proceedings of the American Mathematical Society 7, 1 (Feb.), 48--50."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-22",
+                "unstructured": "Landreneau, E., and Schaefer, S. 2010. Poisson-based weight reduction of animated meshes.Comput. Graph. Forum 29, 6, 1945--1954.",
+                "DOI": "10.1111/j.1467-8659.2010.01661.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-23",
+                "unstructured": "Le, B. H., and Deng, Z. 2012. Smooth skinning decomposition with rigid bones.ACM Trans. Graph. 31, 6 (Nov.), 199:1--199:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-24",
+                "unstructured": "Le, B. H., and Deng, Z. 2013. Two-layer sparse compression of dense-weight blend skinning.ACM Trans. Graph. 32, 4 (July), 124:1--124:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-25",
+                "unstructured": "Lee, S.-H., Sifakis, E., and Terzopoulos, D. 2009. Comprehensive biomechanical modeling and simulation of the upper body.ACM Trans. Graph. 28, 4 (Sept.), 99:1--99:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-26",
+                "unstructured": "Linde, Y., Buzo, A., and Gray, R. 1980. An algorithm for vector quantizer design.IEEE Trans. on Communication 28, 1, 84--95.",
+                "DOI": "10.1109/TCOM.1980.1094577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-27",
+                "unstructured": "Liu, L., Yin, K., Wang, B., and Guo, B. 2013. Simulation and control of skeleton-driven soft body characters.ACM Trans. Graph. 32, 6 (Nov.), 215:1--215:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-28",
+                "unstructured": "Livny, Y., Yan, F., Olson, M., Chen, B., Zhang, H., and El-Sana, J. 2010. Automatic reconstruction of tree skeletal structures from point clouds.ACM Trans. Graph. 29, 6 (Dec.), 151:1--151:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-29",
+                "unstructured": "McAdams, A., Zhu, Y., Selle, A., Empey, M., Tamstorf, R., Teran, J., and Sifakis, E. 2011. Efficient elasticity for character skinning with contact and collisions.ACM Trans. Graph. 30, 4 (July), 37:1--37:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-30",
+                "unstructured": "Merry, B., Marais, P., and Gain, J. 2006. Animation space: A truly linear framework for character animation.ACM Trans. Graph. 25, 4 (Oct.), 1400--1423."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-31",
+                "unstructured": "Mohr, A., and Gleicher, M. 2003. Building efficient, accurate character skins from examples.ACM Trans. Graph. 22, 3 (July), 562--568."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-32",
+                "unstructured": "Park, S. I., and Hodgins, J. K. 2006. Capturing and animating skin deformation in human motion.ACM Trans. Graph. 25, 3 (July), 881--889."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-33",
+                "unstructured": "Schaefer, S., and Yuksel, C. 2007. Example-based skeleton extraction. InSGP'07: Proc. of Symp. on Geometry Processing, 153--162."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-34",
+                "unstructured": "Stoll, C., Gall, J., de Aguiar, E., Thrun, S., and Theobalt, C. 2010. Video-based reconstruction of animatable human characters.ACM Trans. Graph. 29, 6 (Dec.), 139:1--139:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-35",
+                "unstructured": "Sumner, R. W., and Popovi&#263;, J. 2004. Deformation transfer for triangle meshes.ACM Trans. Graph. 23, 3 (Aug.), 399--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-36",
+                "unstructured": "Tagliasacchi, A., Zhang, H., and Cohen-Or, D. 2009. Curve skeleton extraction from incomplete point cloud.ACM Trans. Graph. 28, 3 (July), 71:1--71:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-37",
+                "unstructured": "Utah, 2013. The utah 3D animation repository."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-38",
+                "unstructured": "Vaillant, R., Barthe, L., Guennebaud, G., Cani, M.-P., Rohmer, D., Wyvill, B., Gourmel, O., and Paulin, M. 2013. Implicit skinning: Real-time skin deformation with contact modeling.ACM Trans. Graph. 32, 4 (July), 125:1--125:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-39",
+                "unstructured": "Vlasic, D., Baran, I., Matusik, W., and Popovi&#263;, J. 2008. Articulated mesh animation from multi-view silhouettes.ACM Trans. Graph. 27, 3 (Aug.), 97:1--97:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-40",
+                "unstructured": "Vlasic, D., Peers, P., Baran, I., Debevec, P., Popovi&#263;, J., Rusinkiewicz, S., and Matusik, W. 2009. Dynamic shape capture using multi-view photometric stereo.ACM Trans. Graph. 28, 5 (Dec.), 174:1--174:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601161-41",
+                "unstructured": "Wang, X. C., and Phillips, C. 2002. Multi-weight enveloping: least-squares approximation techniques for skin animation. InSCA'02: Proc. of Symp. on Computer animation, 129--138."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601161&amp;ftid=1488892&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:05Z",
+            "timestamp": 1565663705000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601161",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

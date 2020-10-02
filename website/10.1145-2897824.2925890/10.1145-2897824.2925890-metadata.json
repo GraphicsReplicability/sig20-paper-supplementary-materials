@@ -1,0 +1,444 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:52:50Z",
+            "timestamp": 1574815970340
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1320635, CNS-1229185, CCF-1533564"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925890",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Bijective maps from simplicial foliations"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Marcel",
+                "family": "Campen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Cl\u00e1udio T.",
+                "family": "Silva",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925890-1",
+                "unstructured": "Adiprasito, K. A., and Benedetti, B. 2012. Subdivisions, shellability, and collapsibility of products.arXiv:1202.6606."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-2",
+                "unstructured": "Adiprasito, K. A., and Izmestiev, I. 2015. Derived subdivisions make every PL sphere polytopal.Israel Journal of Mathematics 208, 1, 443--450."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-3",
+                "unstructured": "Aigerman, N., and Lipman, Y. 2013. Injective and bounded distortion mappings in 3D.ACM Trans. Graph. 32, 4, 106:1--106:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-4",
+                "unstructured": "Aigerman, N., and Lipman, Y. 2015. Orbifold tutte embeddings.ACM Trans. Graph. 34, 6, 190:1--190:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-5",
+                "unstructured": "Aigerman, N., Poranne, R., and Lipman, Y. 2015. Seamless surface mappings.ACM Trans. Graph. 34, 4, 72:1--72:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-6",
+                "unstructured": "Alexa, M., Cohen-Or, D., and Levin, D. 2000. As-rigid-as-possible shape interpolation. InProc. SIGGRAPH '00, 157--164."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-7",
+                "unstructured": "Alexander, J. W. 1924. On the subdivision of 3-space by a polyhedron.Proc. Nat. Acad. Sci. of the USA 10, 1, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-8",
+                "unstructured": "Bommes, D., Campen, M., Ebke, H.-C., Alliez, P., and Kobbelt, L. 2013. Integer-grid maps for reliable quad meshing. InProc. SIGGRAPH 2013, 98:1--98:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-9",
+                "unstructured": "Choquet, G. 1945. Sur un type de transformation analytique g&#233;n&#233;ralisant la repr&#233;sentation conforme et d&#233;fini au moyen de fonctions harmoniques.Bulletin des Sciences Math&#233;matiques 69, 156--165."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-10",
+                "unstructured": "Colin de Verdi&#232;re, E., Pocchiola, M., and Vegter, G. 2003. Tutte's barycenter method applied to isotopies.Computational Geometry 26, 1, 81--97."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-11",
+                "unstructured": "de Fraysseix, H., de Mendez, P. O., and Rosenstiehl, P. 1995. Bipolar orientations revisited.Discrete Applied Mathematics 56, 2-3, 157--179."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-12",
+                "unstructured": "Degener, P., Meseth, J., and Klein, R. 2003. An adaptable surface parameterization method.Int. Meshing Roundtable 3, 201--213."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-13",
+                "unstructured": "Dey, T. K., Edelsbrunner, H., and Guha, S. 1999. Computational topology. InAdvances in Discrete and Computational Geometry, 109--143."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-14",
+                "unstructured": "Fiedler, M. 1975. A property of eigenvectors of nonnegative symmetric matrices and its application to graph theory.Czechoslovak Mathematical Journal 25, 4, 619--633."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-15",
+                "unstructured": "Filippov, A. F. 1988.Differential equations with discontinuous righthand sides. Mathematics and its Applications. Kluwer Academic Publ, Dordrecht.",
+                "DOI": "10.1007/978-94-015-7793-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-16",
+                "unstructured": "Floater, M. S., and Pham-Trong, V. 2006. Convex combination maps over triangulations, tilings, and tetrahedral meshes.Advances in Computational Mathematics 25, 4, 347--356."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-17",
+                "unstructured": "Floater, M. S. 1997. Parametrization and smooth approximation of surface triangulations.Computer Aided Geometric Design 14, 3, 231--250."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-18",
+                "unstructured": "Floater, M. S. 2003. One-to-one piecewise linear mappings over triangulations.Math. Comput. 72, 242, 685--696."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-19",
+                "unstructured": "Fu, X.-M., Liu, Y., and Guo, B. 2015. Computing locally injective mappings by advanced MIPS.ACM Trans. Graph. 34, 20 4, 71:1--71:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-20",
+                "unstructured": "Furch, R. 1924. Zur Grundlegung der kombinatorischen Topologie. InAbhandlungen aus dem mathematischen Seminar der Universit&#228;t Hamburg, vol. 3, Springer, 69--88.",
+                "DOI": "10.1007/BF02954617",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-21",
+                "unstructured": "Gergen, J. J. 1930. Mapping of a general type of three dimensional region on a sphere.American Journal of Mathematics 52, 2, 197--224."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-22",
+                "unstructured": "Gergen, J. J. 1931. Note on the green function of a star-shaped three dimensional region.American Journal of Mathematics 53, 4, 746--752."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-23",
+                "unstructured": "Goodrick, R. E. 1968. Non-simplicially collapsible triangulations ofIn. InMathematical Proceedings of the Cambridge Philosophical Society, vol. 64, Cambridge Univ Press, 31--36."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-24",
+                "unstructured": "Gotsman, C., Gu, X., and Sheffer, A. 2003. Fundamentals of spherical parameterization for 3D meshes. InProc. SIGGRAPH 2003, 358--363."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-25",
+                "unstructured": "Granlund, T., et al. 2015.GNU MP: The GNU Multiple Precision Arithmetic Library, 6.1.0 ed. http://gmplib.org/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-26",
+                "unstructured": "Groff, R. E. 2003.Piecewise linear homeomorphisms for approximation of invertible maps. PhD thesis, The University of Michigan."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-27",
+                "unstructured": "Hormann, K., and Greiner, G. 2000. MIPS: An efficient global parametrization method. InCurve and Surface Design 1999, Innovations in Applied Mathematics. 153--162."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-28",
+                "unstructured": "Huynh, L., and Gingold, Y. I. 2015. Bijective deformations in Rnvia integral curve coordinates.CoRR abs/1505.00073."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-29",
+                "unstructured": "Jin, Y., Huang, J., and Tong, R. 2014. Remeshing-assisted optimization for locally injective mappings.Computer Graphics Forum 33, 5, 269--279."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-30",
+                "unstructured": "Jin, Y., Qian, G.-P., Zhao, J.-Y., Chang, J., Tong, R.-F., and Zhang, J. 2015. Stretch-minimizing volumetric parameterization.J. Comp. Sci. and Tech. 30, 3, 553--564."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-31",
+                "unstructured": "King, S. 2004. How to make a triangulation ofS3polytopal.Trans. Am. Math. Soc. 356, 11, 4519--4542."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-32",
+                "unstructured": "Kneser, H. 1926. L&#246;sung der Aufgabe 41.Jahresbericht der Deutschen Mathematiker-Vereinigung 35, 123--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-33",
+                "unstructured": "Kovalsky, S. Z., Aigerman, N., Basri, R., and Lipman, Y. 2014. Controlling singular values with semidefinite programming.ACM Transactions on Graphics 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-34",
+                "unstructured": "Laugesen, R. S. 1996. Injectivity can fail for higher-dimensional harmonic extensions.Complex Variables Theory Appl. 28, 4, 357--369."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-35",
+                "unstructured": "Lempel, A., Even, S., and Cederbaum, I. 1967. An algorithm for planarity testing of graphs. InTheory of Graphs. Gordon and Breach, 215--232."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-36",
+                "unstructured": "Li, X., Guo, X., Wang, H., He, Y., Gu, X., and Qin, H. 2007. Harmonic volumetric mapping for solid modeling applications. InProc. SPM '07, 109--120."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-37",
+                "unstructured": "Lin, J., Xia, J., Gao, X., Liao, M., He, Y., and Gu, X. 2015. Interior structure transfer via harmonic 1-forms.Multimedia Tools and Applications 74, 1, 139--158."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-38",
+                "unstructured": "Lipman, Y. 2012. Bounded distortion mapping spaces for triangular meshes.ACM Trans. Graph. 31, 4, 108:1--108:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-39",
+                "unstructured": "Liu, H., and Liao, G. 1996. A note on harmonic maps.Applied Mathematics Letters 9, 4, 95--97."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-40",
+                "unstructured": "Mani, P., and Bruggesser, H. 1971. Shellable decompositions of cells and spheres.Mathematica Scandinavica 29, 197--205."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-41",
+                "unstructured": "Moerdijk, I., and Mr&#269;un, J. 2003.Introduction to Foliations and Lie Groupoids.Cambridge Studies in Advanced Mathematics. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511615450",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-42",
+                "unstructured": "Moise, E. E. 1952. Affine structures in 3-manifolds: V. The triangulation theorem and Hauptvermutung.Annals of Mathematics, 96--114."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-43",
+                "unstructured": "Myles, A., Pietroni, N., and Zorin, D. 2014. Robust field-aligned global parametrization.ACM Trans. Graph. 33, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-44",
+                "unstructured": "Nguyen, T., and J&#252;ttler, B. 2010. Parameterization of contractible domains using sequences of harmonic maps. InCurves and Surfaces, vol. 6920 of LNCS, 501--514."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-45",
+                "unstructured": "Pachner, U. 1991. PL homeomorphic manifolds are equivalent by elementary shellings.Europ. J. Comb. 12, 2, 129--145."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-46",
+                "unstructured": "Ray, N., and Sokolov, D. 2014. Robust polylines tracing for n-symmetry direction field on triangulated surfaces.ACM Trans. Graph. 33, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-47",
+                "unstructured": "Rudin, M. E. 1958. An unshellable triangulation of a tetrahedron.Bulletin of the American Mathematical Society 64, 3, 90--91."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-48",
+                "unstructured": "Saba, S., Yavneh, I., Gotsman, C., and Sheffer, A. 2005. Practical spherical embedding of manifold triangle meshes.Int. Conf. on Shape Modeling and Applications, 258--267."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-49",
+                "unstructured": "Schneider, T., and Hormann, K. 2015. Smooth bijective maps between arbitrary planar polygons.Computer Aided Geometric Design 35, 243--254."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-50",
+                "unstructured": "Sch&#252;ller, C., Kavan, L., Panozzo, D., and Sorkine-Hornung, O. 2013. Locally injective mappings. InProc. SGP '13, 125--135."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-51",
+                "unstructured": "Smith, J., and Schaefer, S. 2015. Bijective parameterization with free boundaries.ACM Trans. Graph. 34, 4, 70:1--70:9."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-52",
+                "unstructured": "Stoddart, A., et al. 1964. The shape of level surfaces of harmonic functions in three dimensions.The Michigan Mathematical Journal 11, 3, 225--229."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-53",
+                "unstructured": "Tutte, W. T. 1963. How to draw a graph.Proc. Lond. Math. Soc. 13, 743--767."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-54",
+                "unstructured": "Wang, Y., Gu, X., and Yau, S.-T. 2004. Volumetric harmonic map.Communications in Information &#38; Systems 3, 3, 191--202."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-55",
+                "unstructured": "Weber, O., and Zorin, D. 2014. Locally injective parametrization with arbitrary fixed boundaries.ACM Trans. Graph. 33, 4, 75:1--75:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-56",
+                "unstructured": "Weinkauf, T., Theisel, H., Hege, H.-C., and Seidel, H.-P. 2004. Topological construction and visualization of higher order 3D vector fields.Computer Graphics Forum 23, 3, 469--478."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-57",
+                "unstructured": "Wu, J., Song, J., and Zhang, W. 2014. An efficient and accurate method to compute the Fiedler vector based on Householder deflation and inverse power iteration.J. Computational Applied Mathematics 269, 101--108."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-58",
+                "unstructured": "Xia, J., He, Y., Han, S., Fu, C.-W., Luo, F., and Gu, X. 2010. Parameterization of star-shaped volumes using Green's functions. InAdvances in Geometric Modeling and Processing, vol. 6130 of LNCS. 219--235.",
+                "DOI": "10.1007/978-3-642-13411-1_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-59",
+                "unstructured": "Xia, J., He, Y., Yin, X., Han, S., and Gu, X. 2010. Direct-product volumetric parameterization of handlebodies via harmonic fields. InProc. SMI 2010, 3--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-60",
+                "unstructured": "Yap, C. K. 1997. Robust geometric computation. InHandbook of Discrete and Computational Geometry, chapter 35. CRC Press LLC, Boca Raton, FL, 653--668."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-61",
+                "unstructured": "Zeng, W., Li, X., Yau, S.-T., and Gu, X. 2007. Conformal spherical parametrization for high genus surfaces.Communications in Information &#38; Systems 7, 3, 273--286."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-62",
+                "unstructured": "Zhang, E., Mischaikow, K., and Turk, G. 2006. Vector field design on surfaces.ACM Trans. Graph. 25, 4, 1294--1326."
+            },
+            {
+                "key": "key-10.1145/2897824.2925890-63",
+                "unstructured": "Ziegler, G. M. 1998. Shelling polyhedral 3-balls and 4-polytopes.Discrete &#38; Computational Geometry 19, 2, 159--174."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925890&amp;ftid=1755926&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:43:45Z",
+            "timestamp": 1568162625000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925890",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

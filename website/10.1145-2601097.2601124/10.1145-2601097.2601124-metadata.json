@@ -1,0 +1,426 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227326
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Grant-in-Aid for Scientific Research in Japan",
+                "award": [
+                    "25700011, 24700182"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601124",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Flower modeling via X-ray computed tomography"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Takashi",
+                "family": "Ijiri",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Shin",
+                "family": "Yoshizawa",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hideo",
+                "family": "Yokota",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Takeo",
+                "family": "Igarashi",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601124-1",
+                "unstructured": "Abeysinghe, S., and Ju, T. 2009. Interactive skeletonization of intensity volumes.The Vis. Comput. 25, 5--7, 627--6354.",
+                "DOI": "10.1007/s00371-009-0325-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-2",
+                "unstructured": "Adams, R., and Bischof, L. 1994. Seeded region growing.IEEE Trans. PAML 16, 6, 641--647.",
+                "DOI": "10.1109/34.295913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-3",
+                "unstructured": "Amenta, N., Bern, M., and Kamvysselis, M. 1998. A new voronoi-based surface reconstruction algorithm. InProc. SIGGRAPH '98. 415--421.",
+                "DOI": "10.1145/280814.280947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-4",
+                "unstructured": "Anastacio, F., Prusinkiewicz, P., and Sousa, M. 2009. Sketch-based parameterization of L-systems using illustration-inspired construction lines and depth modulation.Comput. Graph. 33, 4, 440--451.",
+                "DOI": "10.1016/j.cag.2009.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-5",
+                "unstructured": "Bessmeltsev, M., Wang, C., Sheffer, A., and Singh, K. 2012. Design-driven quadrangulation of closed 3D curves.ACM Trans. Graph. 31, 5.",
+                "DOI": "10.1145/2366145.2366197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-6",
+                "unstructured": "Blum, H. 1967. A Transformation for Extracting New Descriptors of Shape. InModels for the Perception of Speech and Visual Form, W. Wathen-Dunn, Ed. MIT Press, Cambridge, 362--380."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-7",
+                "unstructured": "Boykov, Y., and Jolly, M.-P. 2001. Interactive graph cuts for optimal boundary &#38; region segmentation of objects in N-D images. InProc. ICCV, vol. 1, 105--112."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-8",
+                "unstructured": "Bradley, D., Nowrouzezahrai, D., and Beardsley, P. 2013. Image-based reconstruction and synthesis of dense foliage.ACM Trans. Graph. 32, 4, 74:1--74:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-9",
+                "unstructured": "Caselles, V., Kimmel, R., and Sapiro, G. 1997. Geodesic active contours.IJCV 22, 1, 61--79.",
+                "DOI": "10.1023/A:1007979827043",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-10",
+                "unstructured": "Cohen, L., and Cohen, I. 1993. Finite element methods for active contour models and balloons for 2D and 3D images.IEEE Trans. PAMI 15, 1131--1147.",
+                "DOI": "10.1109/34.244675",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-11",
+                "unstructured": "Dijkstra, E. 1959. A note on two problems in connexion with graphs.Numer. Math. 1, 269--271.",
+                "DOI": "10.1007/BF01386390",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-12",
+                "unstructured": "Eckstein, I., Pons, J.-P., Tong, Y., Kuo, J., and Desbrun, M. 2007. Generalized surface flows for mesh processing. InProc. SGP, 183--192."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-13",
+                "unstructured": "Glimn-Lacy, J., and Kaufman, P. 2006.Botany Illustrated: Introduction to Plants, Major Groups, Flowering Plant Families. Springer."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-14",
+                "unstructured": "Gregson, J., Krimerman, M., Hullin, M., and Heidrich, W. 2012. Stochastic tomography and its applications in 3D imaging of mixing fluids.ACM Trans. Graph. 31, 4.",
+                "DOI": "10.1145/2185520.2185548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-15",
+                "unstructured": "Huang, H., Wu, S., Cohen-Or, D., Gong, M., Zhang, H., Li, G., and Chen, B. 2013. L1-medial skeleton of point cloud.ACM Trans. Graph. 32, 65:1--65:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-16",
+                "unstructured": "Ijiri, T., Owada, S., Okabe, M., and Igarashi, T. 2005. Floral diagrams and inflorescences: Interactive flower modeling using botanical structural constraints.ACM Trans. Graph. 24, 3, 720--726.",
+                "DOI": "10.1145/1073204.1073253",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-17",
+                "unstructured": "Ijiri, T., Yoshizawa, S., Sato, Y., Ito, M., and Yokota, H. 2013. Bilateral Hermite radial basis functions for contour-based volume segmentation.Comput. Graph. Forum 32, 2, 123--132.",
+                "DOI": "10.1111/cgf.12032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-18",
+                "unstructured": "Ijiri, T., 2014. Flower CT volume and surface model library. www.riken.jp/brict/Ijiri/flowerctlib/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-19",
+                "unstructured": "Kass, M., Witkin, A., and Terzopoulos, D. 1988. Snakes: Active contour models.IJCV 1, 4, 321--331.",
+                "DOI": "10.1007/BF00133570",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-20",
+                "unstructured": "Kazhdan, M., and Hoppe, H. 2013. Screened poisson surface reconstruction.ACM Trans. Graph. 32, 3, 29:1--29:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-21",
+                "unstructured": "Kobbelt, L., Campagna, S., Vorsatz, J., and Seidel, H.-P. 1998. Interactive multi-resolution modeling on arbitrary meshes. InProc. ACM SIGGRAPH'98, 105--114."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-22",
+                "unstructured": "Li, Y., Fan, X., Mitra, N., Chamovitz, D., Cohen-Or, D., and Chen, B. 2013. Analyzing growing plants from 4D point cloud data.ACM Trans. Graph. 32, 6, 157:1--157:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-23",
+                "unstructured": "Lindenmayer, A. 1968. Mathematical models for cellular interaction in development: Parts I and II.J. Theor. Bio. 18.",
+                "DOI": "10.1016/0022-5193(68)90080-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-24",
+                "unstructured": "Lintermann, B., and Deussen, O. 1999. Interactive modeling of plants.IEEE Comput. Graph Appl. 19, 1, 56--65.",
+                "DOI": "10.1109/38.736469",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-25",
+                "unstructured": "Longay, S., Runions, A., Boudon, F., and Prusinkiewicz, P. 2012. Treesketch: Interactive procedural modeling of trees on a tablet. InProc. SBIM, 107--120."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-26",
+                "unstructured": "Lorensen, W., and Cline, H. 1987. Marching cubes: A high resolution 3D surface construction algorithm.Comput. Graph. 21, 4, 163--169.",
+                "DOI": "10.1145/37402.37422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-27",
+                "unstructured": "Moreton, H. P., and S&#233;quin, C. H. 1992. Functional optimization for fair surface design.Comput. Graph. 26, 2, 167--176."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-28",
+                "unstructured": "M&#283;ch, R., and Prusinkiewicz, P. 1996. Visual models of plants interacting with their environment. InProc. SIGGAPH '96, 397--410."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-29",
+                "unstructured": "Nealen, A., Igarashi, T., Sorkine, O., and Alexa, M. 2007. Fibermesh: Designing freeform surfaces with 3D curves.ACM Trans. Graph. 26, 3, 41:1--41:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-30",
+                "unstructured": "Ohtake, Y., and Belyaev, A. 2001. Mesh optimization for polygonized isosurfaces.Comput. Graph. Forum 20, 3, 368--376.",
+                "DOI": "10.1111/1467-8659.00529",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-31",
+                "unstructured": "Okabe, M., Owada, S., and Igarashi, T. 2005. Interactive design of botanical trees using freehand sketches and example-based editing.Comput. Graph. Forum 24, 3, 487--496.",
+                "DOI": "10.1111/j.1467-8659.2005.00874.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-32",
+                "unstructured": "Osher, S., and Sethian, J. 1988. Fronts propagating with curvature dependent speed: Algorithms based on Hamilton-Jacobi formulations.J. Comput. Phy. 79, 1, 12--49.",
+                "DOI": "10.1016/0021-9991(88)90002-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-33",
+                "unstructured": "Palubicki, W., Horel, K., Longay, S., Runions, A., Lane, B., M&#283;ch, R., and Prusinkiewicz, P. 2009. Self-organizing tree models for image synthesis.ACM Trans. Graph. 28, 3, 58:1--58:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-34",
+                "unstructured": "Prusinkiewicz, P., and Lindenmayer, A. 1990.The Algorithmic Beauty of Plants. Springer-Verlag New York, Inc.",
+                "DOI": "10.1007/978-1-4613-8476-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-35",
+                "unstructured": "Prusinkiewicz, P., James, M., and M&#283;ch, R. 1994. Synthetic topiary. InProc. SIGGRAPH '94, 351--358."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-36",
+                "unstructured": "Prusinkiewicz, P., M&#252;ndermann, L., Karwowski, R., and Lane, B. 2001. The use of positional information in the modeling of plants. InProc. SIGGRAPH '01, 289--300.",
+                "DOI": "10.1145/383259.383291",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-37",
+                "unstructured": "Quan, L., Tan, P., Zeng, G., Yuan, L., Wang, J., and Kang, S. 2006. Image-based plant modeling.ACM Trans. Graph. 25, 3, 599--604.",
+                "DOI": "10.1145/1141911.1141929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-38",
+                "unstructured": "Reche-Martinez, A., Martin, I., and Drettakis, G. 2004. Volumetric reconstruction and interactive rendering of trees from photographs.ACM Trans. Graph. 23, 3, 720--727.",
+                "DOI": "10.1145/1015706.1015785",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-39",
+                "unstructured": "Sauvola, J., and Pietik&#228;inen, M. 2000. Adaptive document image binarization.Pattern Recognit. 33, 225--236."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-40",
+                "unstructured": "Sethian, J. 1999.Level Set Methods and Fast Marching Methods. Cambridge University Press.",
+                "DOI": "10.1137/S0036144598347059",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-41",
+                "unstructured": "Sharf, A., Lewiner, T., Shamir, A., Kobbelt, L., and Cohen-Or, D. 2006. Competing fronts for coarse-to-fine surface reconstruction.Comput. Graph. Forum 25, 3, 389--398.",
+                "DOI": "10.1111/j.1467-8659.2006.00958.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-42",
+                "unstructured": "Sochen, N., Kimmel, R., and Malladi, R. 1998. A general framework for low level vision.IEEE Trans. Image Proc. 7, 3, 310--318.",
+                "DOI": "10.1109/83.661181",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-43",
+                "unstructured": "Stuppy, W., Maisano, J., Colbert, M., Rudall, P., and Rowe, T. 2003. Three-dimensional analysis of plant structure using high-resolution X-ray computed tomography.Trends Plant Sci. 8, 1, 2--6.",
+                "DOI": "10.1016/S1360-1385(02)00004-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-44",
+                "unstructured": "S&#252;ssmuth, J., and Greiner, G. 2007. Ridge based curve and surface reconstruction. InProc. SGP, 243--251."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-45",
+                "unstructured": "Tan, P., Fang, T., Xiao, J., Zhao, P., and Quan, L. 2008. Single image tree modeling.ACM Trans. Graph. 27, 5, 108:1--108:7."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-46",
+                "unstructured": "Trifonov, B., Bradley, D., and Heidrich, W. 2006. Tomographic reconstruction of transparent objects. InProc. EGSR, 51--60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-47",
+                "unstructured": "Wood, Z., Schr&#246;der, P., Breen, D., and Desbrun, M. 2000. Semi-regular mesh extraction from volumes. InProc. IEEE Vis, 275--282."
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-48",
+                "unstructured": "Zhang, C., Ye, M., Fu, B., and Yang, R. 2014. Data-driven flower petal modeling with botany priors. InProc. CVPR (to appear).",
+                "DOI": "10.1109/CVPR.2014.87",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601124-49",
+                "unstructured": "Zhao, S., Jakob, W., Marschner, S., and Bala, K. 2011. Building volumetric appearance models of fabric using micro CT imaging.ACM Trans. Graph. 30, 4, 44:1--44:10."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601124&amp;ftid=1488857&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:33Z",
+            "timestamp": 1565663673000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601124",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

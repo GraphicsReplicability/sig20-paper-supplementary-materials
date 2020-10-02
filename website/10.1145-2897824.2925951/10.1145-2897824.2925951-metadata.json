@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:57:54Z",
+            "timestamp": 1574816274062
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Research Award"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001665",
+                "name": "Agence Nationale de la Recherche",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "13-CORD-0003"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CBET 1250232, IIS 1302172"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925951",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "Interactive sketching of urban procedural models"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Gen",
+                "family": "Nishida",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Ignacio",
+                "family": "Garcia-Dorado",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel G.",
+                "family": "Aliaga",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Bedrich",
+                "family": "Benes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925951-1",
+                "unstructured": "Abdel-Hamid, O., Mohamed, A.-R., Jiang, H., Deng, L., Penn, G., and Yu, D. 2014. Convolutional neural networks for speech recognition.IEEE/ACM Trans. Audio, Speech and Lang. Proc. 22, 10, 1533--1545."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-2",
+                "unstructured": "Akinlar, C., and Topal, C. 2011. Edlines: Real-time line segment detection by edge drawing (ed). InICIP, 2837--2840.",
+                "DOI": "10.1109/ICIP.2011.6116138",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-3",
+                "unstructured": "Anastacio, F., Prusinkiewicz, P., and Sousa, M. C. 2009. Sketch-based parameterization of l-systems using illustration-inspired construction lines and depth modulation.Comp. &#38; Graph. 33, 4, 440--451."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-4",
+                "unstructured": "Applegate, C. S., Laycock, S. D., and Day, A. 2012. A sketch-based system for highway design with user-specified regions of influence.Comp. &#38; Graph. 36, 6, 685--695."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-5",
+                "unstructured": "Bae, S., Balakrishnan, R., and Singh, K. 2008. Ilovesketch: as-natural-as-possible sketching system for creating 3d curve models. InUser Interface Software and Technology.",
+                "DOI": "10.1145/1449715.1449740",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-6",
+                "unstructured": "Bell, S., and Bala, K. 2015. Learning visual similarity for product design with convolutional neural networks.ACM Trans. Graph. 34, 4, 98:1--98:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-7",
+                "unstructured": "Chen, G., Esch, G., Wonka, P., M&#252;ller, P., and Zhang, E. 2008. Interactive procedural street modeling.ACM Trans. Graph. 27, 3, 103:1--103:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-8",
+                "unstructured": "Chen, X., Kang, S. B., Xu, Y.-Q., Dorsey, J., and Shum, H.-Y. 2008. Sketching reality: Realistic interpretation of architectural designs.ACM Trans. Graph. 27, 2, 11:1--11:15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-9",
+                "unstructured": "Eigen, D., Puhrsch, C., and Fergus, R. 2014. Depth map prediction from a single image using a multi-scale deep network. InNeural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-10",
+                "unstructured": "Eissen, K., and Steur, R. 2009.Sketching: Drawing Techniques for Product Designers. BIS Publishers."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-11",
+                "unstructured": "Eitz, M., Richter, R., Boubekeur, T., Hildebrand, K., and Alexa, M. 2012. Sketch-based shape retrieval.ACM Trans. Graph. 31, 4, 31:1--31:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-12",
+                "unstructured": "Emilien, A., Vimont, U., Cani, M.-P., Poulin, P., and Benes, B. 2015. Worldbrush: Interactive example-based synthesis of procedural virtual worlds.ACM Trans. Graph. 34, 4, 106:1--106:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-13",
+                "unstructured": "Igarashi, T., Matsuoka, S., and Tanaka, H. 1999. Teddy: a sketching interface for 3d freeform design. InProc. of Siggraph, 409--416."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-14",
+                "unstructured": "Ijiri, T., Owada, S., and Igarashi, T. 2006. The sketch l-system: Global control of tree modeling using free-form strokes. InSmart Graphics, Springer, 138--146."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-15",
+                "unstructured": "Jampani, V., Nowozin, S., Loper, M., and Gehler, P. V. 2015. The informed sampler: A discriminative approach to bayesian inference in generative computer vision models.Computer Vision and Image Understanding 136, 32--44."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-16",
+                "unstructured": "Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R., Guadarrama, S., and Darrell, T. 2014. Caffe: Convolutional architecture for fast feature embedding.arXiv preprint arXiv:1408.5093.",
+                "DOI": "10.1145/2647868.2654889",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-17",
+                "unstructured": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. 2012. Imagenet classification with deep convolutional neural networks. InAdvances in neural information processing systems, 1097--1105."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-18",
+                "unstructured": "Lecun, Y., Bottou, L., Bengio, Y., and Haffner, P. 1998. Gradient-based learning applied to document recognition.Proceedings of the IEEE 86, 11, 2278--2324."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-19",
+                "unstructured": "Lipp, M., Wonka, P., and Wimmer, M. 2008. Interactive visual editing of grammars for procedural architecture.ACM Trans. Graph. 27, 3, 102:1--102:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-20",
+                "unstructured": "Lipson, H., and Shpitalni, M. 1996. Optimization-based reconstruction of a 3d object from a single freehand line drawing.Computer-Aided Design 28, 651--663."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-21",
+                "unstructured": "Lipson, H., and Shpitalni, M. 2000. Conceptual design and analysis by sketching.Artif. Intell. Eng. Des. Anal. Manuf. 14, 5, 391--401."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-22",
+                "unstructured": "Longay, S., Runions, A., Boudon, F., and Prusinkiewicz, P. 2012. Treesketch: Interactive procedural modeling of trees on a tablet. InSBIM, Eurographics Association, 107--120."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-23",
+                "unstructured": "Loomis, A., and Ross, A. 2014.I'd Love to Draw.Titan Books."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-24",
+                "unstructured": "M&#252;ller, P., Wonka, P., Haegler, S., Ulmer, A., and Van Gool, L. 2006. Procedural modeling of buildings.ACM Trans. Graph. 25, 3, 614--623."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-25",
+                "unstructured": "Olsen, L., Samavati, F. F., Sousa, M. C., and Jorge, J. A. 2009. Sketch-based modeling: A survey.Comp. &#38; Graph. 33, 1, 85--103."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-26",
+                "unstructured": "Parish, Y. I., and M&#252;ller, P. 2001. Procedural modeling of cities. InComp. graphics and interactive techniques, ACM, 301--308.",
+                "DOI": "10.1145/383259.383292",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-27",
+                "unstructured": "Pfister, T., Charles, J., and Zisserman, A. 2015. Flowing convnets for human pose estimation in videos. InICCV.",
+                "DOI": "10.1109/ICCV.2015.222",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-28",
+                "unstructured": "Prusinkiewicz, P., and Lindenmayer, A. 2012.The algorithmic beauty of plants.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-29",
+                "unstructured": "Ritchie, D., Mildenhall, B., Goodman, N. D., and Hanrahan, P. 2015. Controlling procedural modeling programs with stochastically-ordered sequential monte carlo.ACM Trans. Graph. 34, 4, 105:1--105:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-30",
+                "unstructured": "Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z., Karpathy, A., Khosla, A., Bernstein, M., Berg, A. C., and Fei-Fei, L. 2015. ImageNet Large Scale Visual Recognition Challenge.IJCV 115, 3, 211--252."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-31",
+                "unstructured": "Schmidt, R., Khan, A., Singh, K., and Kurtenbach, G. 2009. Analytic drawing of 3d scaffolds.ACM Trans. Graph. 28, 5, 149:1--149:10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-32",
+                "unstructured": "Shtof, A., Agathos, A., Gingold, Y., Shamir, A., and Cohen-Or, D. 2013. Geosemantic snapping for sketch-based modeling.Comp. Graph. Forum 32, 2, 245--253."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-33",
+                "unstructured": "Smelik, R., Tutenel, T., de Kraker, K. J., and Bidarra, R. 2010. Interactive creation of virtual worlds using procedural sketching. InProceedings of eurographics."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-34",
+                "unstructured": "Smelik, R. M., Tutenel, T., Bidarra, R., and Benes, B. 2014. A survey on procedural modelling for virtual worlds. InComp. Graph. Forum, vol. 33, 31--50."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-35",
+                "unstructured": "Smith, A. R. 1984. Plants, fractals, and formal languages.SIGGRAPH Comput. Graph. 18, 3, 1--10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-36",
+                "unstructured": "Stava, O., Pirk, S., Kratt, J., Chen, B., Mch, R., Deussen, O., and Benes, B. 2014. Inverse procedural modelling of trees.Comp. Graph. Forum 33, 6, 118--131."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-37",
+                "unstructured": "Su, H., Qi, C. R., Li, Y., and Guibas, L. J. 2015. Render for cnn: Viewpoint estimation in images using cnns trained with rendered 3d model views. InICCV.",
+                "DOI": "10.1109/ICCV.2015.308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-38",
+                "unstructured": "Talton, J. O., Lou, Y., Lesser, S., Duke, J., M&#283;ch, R., and Koltun, V. 2011. Metropolis procedural modeling.ACM Trans. Graph. 30, 2, 11:1--11:14."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-39",
+                "unstructured": "Vanegas, C. A., Aliaga, D. G., Wonka, P., M&#252;ller, P., Waddell, P., and Watson, B. 2010. Modelling the appearance and behaviour of urban spaces.Comp. Graph. Forum 29, 1, 25--42."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-40",
+                "unstructured": "Vanegas, C. A., Garcia-Dorado, I., Aliaga, D. G., Benes, B., and Waddell, P. 2012. Inverse design of urban procedural models.ACM Trans. Graph. 31, 6, 168:1--168:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-41",
+                "unstructured": "Wang, F., Kang, L., and Li, Y. 2015. Sketch-based 3d shape retrieval using convolutional neural networks.arXiv preprint arXiv:1504.03504."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-42",
+                "unstructured": "Wonka, P., Wimmer, M., Sillion, F., and Ribarsky, W. 2003. Instant architecture.ACM Trans. Graph. 22, 3, 669--677."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-43",
+                "unstructured": "Xie, X., Xu, K., Mitra, N. J., Cohen-Or, D., Gong, W., Su, Q., and Chen, B. 2013. Sketch-to-design: Context-based part assembly.Comp. Graph. Forum 32, 8, 233--245."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-44",
+                "unstructured": "Xu, B., Chang, W., Sheffer, A., Bousseau, A., Mccrae, J., and Singh, K. 2014. True2form: 3d curve networks from 2d sketches via selective regularization.ACM Trans. on Graph. 33, 4, 131:1--131:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-45",
+                "unstructured": "Xue, T., Liu, J., and Tang, X. 2012. Example-based 3d object reconstruction from line drawings. InCVPR, IEEE, 302--309."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-46",
+                "unstructured": "Zeleznik, R. C., Herndon, K. P., and Hughes, J. F. 1996. Sketch: An interface for sketching 3d scenes. InComputer Graphics, Proceedings of Siggraph 1996, 163--170."
+            },
+            {
+                "key": "key-10.1145/2897824.2925951-47",
+                "unstructured": "Zheng, Y., Liu, H., Dorsey, J., and Mitra, N. J. 2016. Smartcanvas; context-inferred interpretation of sketches for preparatory design studies.Comp. Graph. Forum.",
+                "DOI": "10.1111/cgf.12809",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925951&amp;ftid=1755876&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:48:48Z",
+            "timestamp": 1568162928000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925951",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

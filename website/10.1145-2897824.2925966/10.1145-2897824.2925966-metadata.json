@@ -1,0 +1,294 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:19Z",
+            "timestamp": 1574815999379
+        },
+        "reference-count": 22,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1422106 IIS-1513967 IIS-1011919"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925966",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Printing arbitrary meshes with a 5DOF wireframe printer"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Rundong",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Huaishu",
+                "family": "Peng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Fran\u00e7ois",
+                "family": "Guimbreti\u00e8re",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925966-1",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating articulated characters from skinned meshes.ACM Trans. Graph. (Proc. SIGGRAPH) 31, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-2",
+                "unstructured": "Bommes, D., Zimmer, H., and Kobbelt, L. 2009. Mixed-integer quadrangulation.ACM Trans. Graph. 28, 3."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-3",
+                "unstructured": "Bommes, D., Lvy, B., Pietroni, N., Puppo, E., Silva, C., Tarini, M., and Zorin, D. 2013. QuadMesh Generation and Processing: A Survey.Computer Graphics Forum.",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-4",
+                "unstructured": "Botsch, M., Pauly, M., Rossl, C., Bischoff, S., and Kobbelt, L. 2006. Geometric modeling based on triangle meshes. InACM SIGGRAPH 2006 Courses, SIGGRAPH '06.",
+                "DOI": "10.1145/1185657.1185839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-5",
+                "unstructured": "Cal&#236;, J., Calian, D. A., Amati, C., Kleinberger, R., Steed, A., Kautz, J., and Weyrich, T. 2012. 3D-printing of non-assembly, articulated models.ACM Trans. Graph. 31, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-6",
+                "unstructured": "Cura. Cura. https://ultimaker.com/en/products/cura-software. Accessed: 2015--12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-7",
+                "unstructured": "Dong, S., Kircher, S., and Garland, M. 2005. Harmonic functions for quadrilateral remeshing of arbitrary manifolds.Computer-Aided Geometric Design 22.",
+                "DOI": "10.1016/j.cagd.2005.04.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-8",
+                "unstructured": "Jakob, W., Tarini, M., Panozzo, D., and Sorkine-Hornung, O. 2015. Instant field-aligned meshes.ACM Trans. Graph. (Proc. of SIGGRAPH Asia) 34, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-9",
+                "unstructured": "Jun, C.-S., Cha, K., and Lee, Y.-S. 2003. Optimizing tool orientations for 5-axis machining by configuration-space search method.Computer-Aided Design 35, 6."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-10",
+                "unstructured": "K&#228;lberer, F., Nieser, M., and Polthier, K. 2007. Quadcover-surface parameterization using branched coverings. InComputer Graphics Forum, vol. 26."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-11",
+                "unstructured": "Lasemi, A., Xue, D., and Gu, P. 2010. Recent development in cnc machining of freeform surfaces: A state-of-the-art review.Computer-Aided Design 42, 7."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-12",
+                "unstructured": "Lee, K., and Jee, H. 2015. Slicing algorithms for multi-axis 3-d metal printing of overhangs.Journal of Mechanical Science and Technology 29, 12, 5139--5144."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-13",
+                "unstructured": "Mueller, S., Im, S., Gurevich, S., Teibrich, A., Pfisterer, L., Guimbreti&#232;re, F., and Baudisch, P. 2014. Wireprint: 3D printed previews for fast prototyping. InProc. UIST.",
+                "DOI": "10.1145/2642918.2647359",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-14",
+                "unstructured": "Pan, Y., Zhou, C., Chen, Y., and Partanen, J. 2014. Multi-tool and multi-axis computer numerically controlled accumulation for fabricating conformal features on curved sufaces.Journal of Manufacturing Science and Engineering.",
+                "DOI": "10.1115/1.4026898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-15",
+                "unstructured": "Panetta, J., Zhou, Q., Malomo, L., Pietroni, N., Cignoni, P., and Zorin, D. 2015. Elastic textures for additive fabrication.ACM Trans. Graph. (Proc. SIGGRAPH) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-16",
+                "unstructured": "Peng, H., Wu, R., Marschner, S., and Guimbreti&#232;re, F. 2016. On-the-fly print: Incremental printing while modeling.In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.",
+                "DOI": "10.1145/2858036.2858106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-17",
+                "unstructured": "P&#233;rez, J., Thomaszewski, B., Coros, S., Bickel, B., Canabal, J. A., Sumner, R., and Otaduy, M. A. 2015. Design and fabrication of flexible rod meshes.ACM Trans. Graph. (TOG) 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-18",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make It Stand: Balancing shapes for 3D fabrication.ACM Trans. Graph. (Proc. SIGGRAPH) 32, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-19",
+                "unstructured": "Schumacher, C., Bickel, B., Rys, J., Marschner, S., Daraio, C., and Gross, M. 2015. Microstructures to control elasticity in 3D printing.ACM Trans. Graph. 34, 4."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-20",
+                "unstructured": "Singh, P. 2004. A framework for reverse engineering using feature-based geometry reconstruction and multi-directional layered manufacturing."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-21",
+                "unstructured": "Slic3r. Slic3r. http://www.slic3r.org/. Accessed: 2015-12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925966-22",
+                "unstructured": "Wang, W., Wang, T. Y., Yang, Z., Liu, L., Tong, X., Tong, W., Deng, J., Chen, F., and Liu, X. 2013. Cost-effective printing of 3D objects with skin-frame structures.ACM Trans. Graph. (Proc. SIGGRAPH Aisa) 32, 5."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925966&amp;ftid=1755856&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:46:03Z",
+            "timestamp": 1568162763000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 22,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925966",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

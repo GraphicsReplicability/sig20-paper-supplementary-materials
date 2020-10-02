@@ -1,0 +1,490 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:13Z",
+            "timestamp": 1574859853574
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201366",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Mode-adaptive neural networks for quadruped motion control"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "He",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Sebastian",
+                "family": "Starke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Taku",
+                "family": "Komura",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Jun",
+                "family": "Saito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201366-1",
+                "unstructured": "Mart&#237;n Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, Manjunath Kudlur, Josh Levenberg, Rajat Monga, Sherry Moore, Derek G. Murray, Benoit Steiner, Paul Tucker, Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. 2016. TensorFlow: A System for Large-scale Machine Learning. InProceedings of the 12th USENIX Conference on Operating Systems Design and Implementation (OSDI'16).USENIX Association, Berkeley, CA, USA, 265--283. http://dl.acm.org/citation.cfm?id=3026877.3026899"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-2",
+                "unstructured": "Mazen Al Borno, Martin De Lasa, and Aaron Hertzmann. 2013. Trajectory optimization for full-body movements with complex contacts.IEEE Trans on Vis and Comp Graph19, 8 (2013), 1405--1414.",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-3",
+                "unstructured": "Okan Arikan and David A Forsyth. 2002. Interactive motion generation from examples.ACM Trans on Graph21, 3 (2002), 483--490."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-4",
+                "unstructured": "Emad Barsoum, John Kender, and Zicheng Liu. 2017. HP-GAN: Probabilistic 3D human motion prediction via GAN.CoRRabs/1711.09561 (2017). arXiv:1711.09561 http://arxiv.org/abs/1711.09561"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-5",
+                "unstructured": "Emmanuel Bengio, Pierre-Luc Bacon, Joelle Pineau, and Doina Precup. 2015. Conditional computation in neural networks for faster models.arXiv preprint arXiv:1511.06297(2015). https://arxiv.org/abs/1511.06297"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-6",
+                "unstructured": "Luca Bertinetto, Jo&#227;o F Henriques, Jack Valmadre, Philip Torr, and Andrea Vedaldi. 2016. Learning feed-forward one-shot learners. InProc. NIPS.523--531."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-7",
+                "unstructured": "Jinxiang Chai and Jessica K Hodgins. 2005. Performance Animation from Low-dimensional Control Signals.ACM Trans on Graph24, 3 (2005), 686--696.",
+                "DOI": "10.1145/1073204.1073248",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-8",
+                "unstructured": "Xiaobin Chang, Timothy M Hospedales, and Tao Xiang. 2018. Multi-level factorisation net for person re-identification.arXiv preprint arXiv:1803.09132(2018). https://arxiv.org/abs/1803.09132v2"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-9",
+                "unstructured": "Simon Clavet. 2016. Motion Matching and The Road to Next-Gen Animation. InProc. of GDC 2016."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-10",
+                "unstructured": "Djork-Arn&#233; Clevert, Thomas Unterthiner, and Sepp Hochreiter. 2015. Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs).CoRRabs/1511.07289 (2015). http://arxiv.org/abs/1511.07289"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-11",
+                "unstructured": "Stelian Coros, Andrej Karpathy, Ben Jones, Lionel Reveret, and Michiel Van De Panne. 2011. Locomotion skills for simulated quadrupeds.ACM Trans on Graph30, 4 (2011), 59."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-12",
+                "unstructured": "David Eigen, Marc' Aurelio Ranzato, and Ilya Sutskever. 2013. Learning factored representations in a deep mixture of experts.arXiv preprint arXiv:1312.4314(2013)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-13",
+                "unstructured": "Katerina Fragkiadaki, Sergey Levine, Panna Felsen, and Jitendra Malik. 2015. Recurrent network models for human dynamics. InProc. ICCV.4346--4354.",
+                "DOI": "10.1109/ICCV.2015.494",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-14",
+                "unstructured": "Keith Grochow, Steven L Martin, Aaron Hertzmann, and Zoran Popovi&#263;. 2004. Style-based inverse kinematics.ACM Trans on Graph23, 3 (2004), 522--531.",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-15",
+                "unstructured": "Chris Hecker, Bernd Raabe, Ryan W Enslow, John DeWeese, Jordan Maynard, and Kees van Prooijen. 2008. Real-time motion retargeting to highly varied user-created morphologies.ACM Trans on Graph27, 3 (2008), 27."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-16",
+                "unstructured": "Daniel Holden, Taku Komura, and Jun Saito. 2017. Phase-functioned neural networks for character control.ACM Trans on Graph36, 4 (2017), 42."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-17",
+                "unstructured": "Daniel Holden, Jun Saito, and Taku Komura. 2016. A deep learning framework for character motion synthesis and editing.ACM Trans on Graph35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925975",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-18",
+                "unstructured": "Daniel Holden, Jun Saito, Taku Komura, and Thomas Joyce. 2015. Learning Motion Manifolds with Convolutional Autoencoders. InSIGGRAPH Asia 2015 Technical Briefs.Article 18, 4 pages.",
+                "DOI": "10.1145/2820903.2820918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-19",
+                "unstructured": "Eugene Hsu, Kari Pulli, and Jovan Popovic. 2005. Style Translation for Human Motion.ACM Trans on Graph24, 3 (2005), 1082--1089.",
+                "DOI": "10.1145/1073204.1073315",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-20",
+                "unstructured": "Ting-Chieh Huang, Yi-Jheng Huang, and Wen-Chieh Lin. 2013. Real-time horse gait synthesis.Computer Animation and Virtual Worlds24, 2 (2013), 87--95.",
+                "DOI": "10.1002/cav.1469",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-21",
+                "unstructured": "Leslie Ikemoto, Okan Arikan, and David Forsyth. 2009. Generalizing motion edits with gaussian processes.ACM Trans on Graph28, 1 (2009), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-22",
+                "unstructured": "Robert A Jacobs, Michael I Jordan, Steven J Nowlan, and Geoffrey E Hinton. 1991. Adaptive mixtures of local experts.Neural Computation3, 1 (1991), 79--87."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-23",
+                "unstructured": "Michael I Jordan and Robert A Jacobs. 1994. Hierarchical mixtures of experts and the EM algorithm.Neural Computation6, 2 (1994), 181--214.",
+                "DOI": "10.1162/neco.1994.6.2.181",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-24",
+                "unstructured": "Ahmad Abdul Karim, Thibaut Gaudin, Alexandre Meyer, Axel Buendia, and Saida Bouakaz. 2013. Procedural locomotion of multilegged characters in dynamic environments.Computer Animation and Virtual Worlds24, 1 (2013), 3--15.",
+                "DOI": "10.1002/cav.1467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-25",
+                "unstructured": "Lucas Kovar and Michael Gleicher. 2004. Automated Extraction and Parameterization of Motions in Large Data Sets.ACM Trans on Graph23, 3 (2004), 559--568.",
+                "DOI": "10.1145/1015706.1015760",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-26",
+                "unstructured": "Lucas Kovar, Michael Gleicher, and Fr&#233;d&#233;ric Pighin. 2002. Motion graphs.ACM Trans on Graph21, 3 (2002), 473--482.",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-27",
+                "unstructured": "Paul G Kry, Lionel Rev&#233;ret, Fran&#231;ois Faure, and M-P Cani. 2009. Modal locomotion: Animating virtual characters with natural vibrations. InComputer Graphics Forum, Vol. 28. Wiley Online Library, 289--298."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-28",
+                "unstructured": "Manfred Lau and James J Kuffher. 2005. Behavior planning for character animation. InProc. SCA.271--280.",
+                "DOI": "10.1145/1073368.1073408",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-29",
+                "unstructured": "Jehee Lee, Jinxiang Chai, Paul SA Reitsma, Jessica K Hodgins, and Nancy S Pollard. 2002. Interactive control of avatars animated with human motion data.ACM Trans on Graph21, 3 (2002), 491--500."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-30",
+                "unstructured": "Yongjoon Lee, Kevin Wampler, Gilbert Bernstein, Jovan Popovi&#263;, and Zoran Popovi&#263;. 2010. Motion fields for interactive character locomotion.ACM Trans on Graph29, 6 (2010), 138."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-31",
+                "unstructured": "Sergey Levine and Jovan Popovi&#263;. 2012. Physically Plausible Simulation for Character Animation. InProc. SCA.221--230. http://dl.acm.org/citation.cfm?id=2422356.2422388"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-32",
+                "unstructured": "Sergey Levine, Jack M Wang, Alexis Haraux, Zoran Popovi&#263;, and Vladlen Koltun. 2012. Continuous character control with low-dimensional embeddings.ACM Trans on Graph31, 4 (2012), 28."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-33",
+                "unstructured": "Zimo Li, Yi Zhou, Shuangjiu Xiao, Chong He, and Hao Li. 2017. Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis.arXiv preprint arXiv:1707.05363(2017). https://arxiv.org/abs/1707.05363"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-34",
+                "unstructured": "C. Karen Liu, Aaron Hertzmann, and Zoran Popovi&#263;;. 2005. Learning physics-based motion style with nonlinear inverse optimization.ACM Trans on Graph24, 3 (2005), 1071--1081.",
+                "DOI": "10.1145/1073204.1073314",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-35",
+                "unstructured": "C. Karen Liu and Zoran Popovi&#263;. 2002. Synthesis of complex dynamic character motion from simple animations.ACM Trans on Graph21, 3 (2002), 408--416.",
+                "DOI": "10.1145/566654.566596",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-36",
+                "unstructured": "Libin Liu and Jessica Hodgins. 2017. Learning to schedule control fragments for physics-based characters using deep q-learning.ACM Trans on Graph36, 3 (2017), 29."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-37",
+                "unstructured": "Ilya Loshchilov and Frank Hutter. 2017. Fixing Weight Decay Regularization in Adam.CoRRabs/1711.05101 (2017). arXiv:1711.05101 http://arxiv.org/abs/1711.05101"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-38",
+                "unstructured": "Josh Merel, Yuval Tassa, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. 2017a. Learning human behaviors from motion capture by adversarial imitation.arXiv preprint arXiv:1707.02201(2017). https://arxiv.org/abs/1707.02201"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-39",
+                "unstructured": "Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, and Nicolas Heess. 2017b. Learning human behaviors from motion capture by adversarial imitation.CoRRabs/1707.02201 (2017). arXiv:1707.02201 http://arxiv.org/abs/1707.02201"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-40",
+                "unstructured": "Jianyuan Min and Jinxiang Chai. 2012. Motion graphs++: a compact generative model for semantic motion analysis and synthesis.ACM Trans on Graph31, 6 (2012), 153.",
+                "DOI": "10.1145/2366145.2366172",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-41",
+                "unstructured": "Tomohiko Mukai and Shigeru Kuriyama. 2005. Geostatistical motion interpolation.ACM Trans on Graph24, 3 (2005), 1062--1070.",
+                "DOI": "10.1145/1073204.1073313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-42",
+                "unstructured": "Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2015. Dynamic Terrain Traversal Skills Using Reinforcement Learning.ACM Trans on Graph34, 4, Article 80 (2015), 80:1--80:11 pages.",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-43",
+                "unstructured": "Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2016. Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning.ACM Trans on Graph35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925881",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-44",
+                "unstructured": "Marc H. Raibert and Jessica K. Hodgins. 1991. Animation of dynamic legged locomotion. InProceedings of the 18th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH 1991, Providence, RI, USA, April 27--30, 1991.349--358.",
+                "DOI": "10.1145/122718.122755",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-45",
+                "unstructured": "Sylvestre-Alvise Rebuffi, Hakan Bilen, and Andrea Vedaldi. 2017. Learning multiple visual domains with residual adapters.arXiv preprint arXiv:1705.08045(2017). https://arxiv.org/abs/1705.08045"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-46",
+                "unstructured": "Charles Rose, Michael F. Cohen, and Bobby Bodenheimer. 1998. Verbs and Adverbs: Multidimensional Motion Interpolation.IEEE Computer Graphics and Applications18, 5 (1998), 32--40.",
+                "DOI": "10.1109/38.708559",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-47",
+                "unstructured": "Alla Safonova and Jessica K Hodgins. 2007. Construction and optimal search of interpolated motion graphs.ACM Trans on Graph26, 3 (2007), 106."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-48",
+                "unstructured": "Alla Safonova, Jessica K Hodgins, and Nancy S Pollard. 2004. Synthesizing physically realistic human motion in low-dimensional, behavior-specific spaces.ACM Trans on Graph23, 3 (2004), 514--521.",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-49",
+                "unstructured": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc V Le, Geoffrey E. Hinton, and Jeff Dean. 2017. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.CoRRabs/1701.06538 (2017). arXiv:1701.06538 http://arxiv.org/abs/1701.06538"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-50",
+                "unstructured": "Jochen Tautges, Arno Zinke, Bj&#246;rn Kr&#252;ger, Jan Baumann, Andreas Weber, Thomas Helfen, Meinard M&#252;ller, Hans-Peter Seidel, and Bernd Eberhardt. 2011. Motion reconstruction using sparse accelerometer data.ACM Trans on Graph30, 3 (2011), 18."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-51",
+                "unstructured": "Graham W Taylor and Geoffrey E Hinton. 2009. Factored conditional restricted Boltzmann machines for modeling motion style. InProc. ICML.ACM, 1025--1032."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-52",
+                "unstructured": "Graham W Taylor, Geoffrey E Hinton, and Sam T Roweis. 2011. Two distributed-state models for generating high-dimensional time series.The Journal of Machine Learning Research12 (2011), 1025--1068."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-53",
+                "unstructured": "Michiel van de Panne. 1996. Parameterized gait synthesis.IEEE Computer Graphics and Applications16, 2 (1996), 40--49.",
+                "DOI": "10.1109/38.486679",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-54",
+                "unstructured": "Kevin Wampler and Zoran Popovi&#263;. 2009. Optimal gait and form for animal locomotion.ACM Trans on Graph28, 3 (2009), 60."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-55",
+                "unstructured": "Kevin Wampler, Zoran Popovi&#263;, and Jovan Popovi&#263;. 2014. Generalizing locomotion style to new animals with inverse optimal regression.ACM Trans on Graph33, 4 (2014), 49."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-56",
+                "unstructured": "J.M. Wang, D.J. Fleet, and A. Hertzmann. 2008. Gaussian Process Dynamical Models for Human Motion.Pattern Analysis and Machine Intelligence, IEEE Trans. on30, 2 (Feb 2008), 283--298. D0I",
+                "DOI": "10.1109/TPAMI.2007.1167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-57",
+                "unstructured": "Shihong Xia, Congyi Wang, Jinxiang Chai, and Jessica Hodgins. 2015. Realtime Style Transfer for Unlabeled Heterogeneous Human Motion.ACM Trans on Graph34, 4 (2015), 119:1--119:10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-58",
+                "unstructured": "Yuting Ye and C Karen Liu. 2012. Synthesis of detailed hand manipulations using contact sampling.ACM Trans on Graph31, 4 (2012), 41."
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-59",
+                "unstructured": "KangKang Yin, Kevin Loken, and Michiel Van de Panne. 2007. Simbicon: Simple biped locomotion control.ACM Trans on Graph26, 3 (2007), 105.",
+                "DOI": "10.1145/1275808.1276509",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201366-60",
+                "unstructured": "Seniha Esen Yuksel, Joseph N Wilson, and Paul D Gader. 2012. Twenty years of mixture of experts.IEEE Trans on Neural Networks and Learning Systems23, 8 (2012), 1177--1193.",
+                "DOI": "10.1109/TNNLS.2012.2200299",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201366&ftid=1991613&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:58:34Z",
+            "timestamp": 1571673514000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201366",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

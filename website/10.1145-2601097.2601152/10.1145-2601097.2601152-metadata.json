@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:28Z",
+            "timestamp": 1578723808454
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601152",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 104,
+        "title": [
+            "Unified particle physics for real-time applications"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Miles",
+                "family": "Macklin",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Matthias",
+                "family": "M\u00fcller",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Nuttapong",
+                "family": "Chentanez",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Tae-Yong",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601152-1",
+                "unstructured": "Akinci, N., Ihmsen, M., Akinci, G., Solenthaler, B., and Teschner, M. 2012. Versatile rigid-fluid coupling for incompressible sph.ACM Trans. Graph. 31, 4 (July), 62:1--62:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-2",
+                "unstructured": "Akinci, N., Akinci, G., and Teschner, M. 2013. Versatile surface tension and adhesion for sph fluids.ACM Trans. Graph. 32, 6 (Nov.), 182:1--182:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-3",
+                "unstructured": "Akinci, N., Cornelis, J., Akinci, G., and Teschner, M. 2013. Coupling elastic solids with smoothed particle hydrodynamics fluids.Computer Animation and Virtual Worlds.",
+                "DOI": "10.1002/cav.1499",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-4",
+                "unstructured": "Aldu&#225;n, I., and Otaduy, M. A. 2011. Sph granular flow with friction and cohesion. InProceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, ACM, New York, NY, USA, SCA '11, 25--32."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-5",
+                "unstructured": "Ascher, U. M., Chin, H., Petzold, L. R., and Reich, S. 1995. Stabilization of constrained mechanical systems with daes and invariant manifolds.Journal of Structural Mechanics 23, 2, 135--157."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-6",
+                "unstructured": "Bao, Z., Hong, J.-M., Teran, J., and Fedkiw, R. 2007. Fracturing rigid materials.Visualization and Computer Graphics, IEEE Transactions on 13, 2, 370--378."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-7",
+                "unstructured": "Becker, M., Ihmsen, M., and Teschner, M. 2009. Corotated sph for deformable solids. InProceedings of the Fifth Eurographics conference on Natural Phenomena, Eurographics Association, 27--34."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-8",
+                "unstructured": "Bell, N., Yu, Y., and Mucha, P. J. 2005. Particle-based simulation of granular materials. InProceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, ACM, New York, NY, USA, SCA '05, 77--86."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-9",
+                "unstructured": "Bender, J., M\"uller, M., Otaduy, M. A., Teschner, M., and Macklin, M. 2014. A survey on position-based simulation methods in computer graphics.Computer Graphics Forum, 1--25."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-10",
+                "unstructured": "Boyd, S. P., and Vandenberghe, L. 2004.Convex optimization. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-11",
+                "unstructured": "Bridson, R., Fedkiw, R., and Anderson, J. 2002. Robust treatment of collisions, contact and friction for cloth animation.ACM Trans. Graph. 21, 3 (July), 594--603."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-12",
+                "unstructured": "Brochu, T., Keeler, T., and Bridson, R. 2012. Linear-time smoke animation with vortex sheet meshes. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '12, 87--95."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-13",
+                "unstructured": "Carlson, M., Mucha, P. J., and Turk, G. 2004. Rigid fluid: animating the interplay between rigid bodies and fluid. InACM Transactions on Graphics (TOG), vol. 23, ACM, 377--384."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-14",
+                "unstructured": "Carlson, M. T. 2004.Rigid, melting, and flowing fluid. PhD thesis, Georgia Institute of Technology.",
+                "DOI": "10.1145/1186562.1015733",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-15",
+                "unstructured": "Clavet, S., Beaudoin, P., and Poulin, P. 2005. Particle-based viscoelastic fluid simulation. InProceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, ACM, New York, NY, USA, SCA '05, 219--228."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-16",
+                "unstructured": "Corbett, R. D. 2005.Point--Based Level Sets and Progress Towards Unorganised Particle Based Fluids. PhD thesis, The University of British Columbia."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-17",
+                "unstructured": "Faure, F. 1999. Interactive solid animation using linearized displacement constraints. InComputer Animation and Simulation98. Springer, 61--72.",
+                "DOI": "10.1007/978-3-7091-6375-7_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-18",
+                "unstructured": "Fedkiw, R., Stam, J., and Jensen, H. W. 2001. Visual simulation of smoke. InProceedings of the 28th annual conference on Computer graphics and interactive techniques, ACM, New York, NY, USA, SIGGRAPH '01, 15--22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-19",
+                "unstructured": "Gao, Y., Li, C.-F., Hu, S.-M., and Barsky, B. A. 2009. Simulating gaseous fluids with low and high speeds. InPacific Graphics 2009, vol. 28, 1845--1852."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-20",
+                "unstructured": "Gascuel, J.-D., and Gascuel, M.-P. 1994. Displacement constraints for interactive modeling and animation of articulated structures.The Visual Computer 10, 4, 191--204.",
+                "DOI": "10.1007/BF01901286",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-21",
+                "unstructured": "Goldenthal, R., Harmon, D., Fattal, R., Bercovier, M., and Grinspun, E. 2007. Efficient simulation of inextensible cloth. InACM Transactions on Graphics (TOG), vol. 26, ACM, 49."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-22",
+                "unstructured": "Green, S. 2008. Cuda particles.nVidia Whitepaper 2, 3.2, 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-23",
+                "unstructured": "Guendelman, E., Bridson, R., and Fedkiw, R. 2003. Non-convex rigid bodies with stacking.ACM Trans. Graph. 22, 3 (July), 871--878."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-24",
+                "unstructured": "Guendelman, E., Selle, A., Losasso, F., and Fedkiw, R. 2005. Coupling water and smoke to thin deformable and rigid shells. InACM Transactions on Graphics (TOG), vol. 24, ACM, 973--981."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-25",
+                "unstructured": "Harada, T. 2007. Real-Time Rigid Body Simulation on GPUs. InGPU Gems 3, H. Nguyen, Ed. Addison Wesley Professional, Aug., ch. 29."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-26",
+                "unstructured": "Ihmsen, M., Akinci, N., Akinci, G., and Teschner, M. 2012. Unified spray, foam and air bubbles for particle-based fluids.Vis. Comput. 28, 6--8 (June), 669--677."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-27",
+                "unstructured": "Ihmsen, M., Wahl, A., and Teschner, M. 2012. High-resolution simulation of granular material with sph. InWorkshop on Virtual Reality Interaction and Physical Simulation, The Eurographics Association, 53--60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-28",
+                "unstructured": "Jakobsen, T. 2001. Advanced character physics. InGame Developers Conference, 383--401."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-29",
+                "unstructured": "Keckeisen, M., Kimmerle, S., Thomaszewski, B., and Wacker, M. 2004. Modelling effects of wind fields in cloth animations."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-30",
+                "unstructured": "Kim, D., Lee, S. W., young Song, O., and Ko, H.-S. 2012. Baroclinic turbulence with varying density and temperature.IEEE Transactions on Visualization and Computer Graphics 18, 1488--1495."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-31",
+                "unstructured": "Kim, T.-Y., Chentanez, N., and M&#252;ller-Fischer, M. 2012. Long range attachments - a method to simulate inextensible clothing in computer games. InProceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '12, 305--310."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-32",
+                "unstructured": "Macklin, M., and M&#252;ller, M. 2013. Position based fluids.ACM Trans. Graph. 32, 4 (July), 104:1--104:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-33",
+                "unstructured": "Martin, S., Kaufmann, P., Botsch, M., Grinspun, E., and Gross, M. 2010. Unified simulation of elastic rods, shells, and solids. InACM SIGGRAPH 2010 Papers, ACM, New York, NY, USA, SIGGRAPH '10, 39:1--39:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-34",
+                "unstructured": "M&#252;ller, M., and Chentanez, N. 2011. Adding physics to animated characters with oriented particles. InWorkshop in Virtual Reality Interactions and Physical Simulation, The Eurographics Association, 83--91."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-35",
+                "unstructured": "M&#252;ller, M., and Chentanez, N. 2011. Solid simulation with oriented particles. InACM Transactions on Graphics (TOG), vol. 30, ACM, 92."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-36",
+                "unstructured": "M&#252;ller, M., Charypar, D., and Gross, M. 2003. Particle-based fluid simulation for interactive applications. InProceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '03, 154--159."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-37",
+                "unstructured": "M&#252;ller, M., Keiser, R., Nealen, A., Pauly, M., Gross, M., and Alexa, M. 2004. Point based animation of elastic, plastic and melting objects. InProceedings of the 2004 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, 141--151."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-38",
+                "unstructured": "M&#252;ller, M., Schirm, S., Teschner, M., Heidelberger, B., and Gross, M. 2004. Interaction of fluids with deformable solids. InJOURNAL OF COMPUTER ANIMATION AND VIRTUAL WORLDS (CAVW, 159--171."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-39",
+                "unstructured": "M&#252;ller, M., Heidelberger, B., Teschner, M., and Gross, M. 2005. Meshless deformations based on shape matching. InACM SIGGRAPH 2005 Papers, ACM, New York, NY, USA, SIGGRAPH '05, 471--478."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-40",
+                "unstructured": "M&#252;ller, M., Heidelberger, B., Hennix, M., and Ratcliff, J. 2007. Position based dynamics.J. Vis. Comun. Image Represent. 18, 2 (Apr.), 109--118."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-41",
+                "unstructured": "Park, S. I., and Kim, M. J. 2005. Vortex fluid for gaseous phenomena. InProceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, ACM, 261--270."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-42",
+                "unstructured": "Pfaff, T., Thuerey, N., and Gross, M. 2012. Lagrangian vortex sheets for animating fluids.ACM Trans. Graph. 31, 4 (July), 112:1--112:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-43",
+                "unstructured": "Rungjiratananon, W., Kanamori, Y., Metaaphanon, N., Bando, Y., Chen, B.-Y., and Nishita, T. 2011. Twisting, tearing and flicking effects in string animations. InMotion in Games. Springer, 192--203.",
+                "DOI": "10.1007/978-3-642-25090-3_17",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-44",
+                "unstructured": "Schechter, H., and Bridson, R. 2012. Ghost sph for animating water.ACM Transactions on Graphics (TOG) 31, 4, 61."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-45",
+                "unstructured": "Selle, A., Rasmussen, N., and Fedkiw, R. 2005. A vortex particle method for smoke, water and explosions.ACM Trans. Graph. 24, 3 (July), 910--914."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-46",
+                "unstructured": "Solenthaler, B., and Pajarola, R. 2008. Density contrast sph interfaces. InProceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '08, 211--218."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-47",
+                "unstructured": "Solenthaler, B., Schl&#228;fli, J., and Pajarola, R. 2007. A unified particle model for fluid--solid interactions: Research articles.Comput. Animat. Virtual Worlds 18, 1 (Feb.), 69--82."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-48",
+                "unstructured": "Stam, J., and Fiume, E. 1995. Depicting fire and other gaseous phenomena using diffusion processes. InProceedings of the 22nd annual conference on Computer graphics and interactive techniques, ACM, 129--136."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-49",
+                "unstructured": "Stam, J. 1999. Stable fluids. InProceedings of the 26th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 121--128."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-50",
+                "unstructured": "Stam, J. 2009. Nucleus: Towards a unified dynamics solver for computer graphics. InComputer-Aided Design and Computer Graphics, 2009. CAD/Graphics' 09. 11th IEEE International Conference on, IEEE, 1--11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-51",
+                "unstructured": "Tonge, R., Wyatt, B., and Nicholson, N. 2010. Physx gpu rigid bodies in batman: Arkham asylum.Game Programming Gems 8, 590--601."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-52",
+                "unstructured": "Tonge, R., Benevolenski, F., and Voroshilov, A. 2012. Mass splitting for jitter-free parallel rigid body simulation.ACM Trans. Graph. 31, 4 (July), 105:1--105:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-53",
+                "unstructured": "Weinstein, R., Teran, J., and Fedkiw, R. 2006. Dynamic simulation of articulated rigid bodies with contact and collision.Visualization and Computer Graphics, IEEE Transactions on 12, 3, 365--374."
+            },
+            {
+                "key": "key-10.1145/2601097.2601152-54",
+                "unstructured": "Zhu, Y., and Bridson, R. 2005. Animating sand as a fluid. InACM SIGGRAPH 2005 Papers, ACM, New York, NY, USA, SIGGRAPH '05, 965--972."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601152&amp;ftid=1488962&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:59Z",
+            "timestamp": 1565663759000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601152",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:49Z",
+            "timestamp": 1575507229358
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Max Planck Center for Visual Computing and Communication (MPCVCC)",
+                "award": []
+            },
+            {
+                "name": "DFG Research Center",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601156",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Animating deformable objects using sparse spacetime constraints"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Schulz",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Christoph",
+                "family": "von Tycowicz",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Klaus",
+                "family": "Hildebrandt",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601156-1",
+                "unstructured": "An, S. S., Kim, T., and James, D. L. 2008. Optimizing cubature for efficient integration of subspace deformations.ACM Trans. Graph. 27, 5, 165:1--165:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-2",
+                "unstructured": "Barbi&#269;, J., and James, D. L. 2005. Real-time subspace integration for St. Venant-Kirchhoff deformable models.ACM Trans. Graph. 24, 3, 982--990."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-3",
+                "unstructured": "Barbi&#269;, J., da Silva, M., and Popovi&#263;, J. 2009. Deformable object animation using reduced optimal control.ACM Trans. Graph. 28, 53:1--53:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-4",
+                "unstructured": "Barbi&#269;, J., Sin, F., and Grinspun, E. 2012. Interactive editing of deformable simulations.ACM Trans. Graph. 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-5",
+                "unstructured": "Bergou, M., Mathur, S., Wardetzky, M., and Grinspun, E. 2007. TRACKS: Toward Directable Thin Shells.ACM Trans. Graph. 26, 3, 50:1--50:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-6",
+                "unstructured": "Choi, M. G., and Ko, H.-S. 2005. Modal warping: Real-time simulation of large rotational deformation and manipulation.IEEE Trans. Vis. Comput. Graphics 11, 1, 91--101.",
+                "DOI": "10.1109/TVCG.2005.13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-7",
+                "unstructured": "Cohen, M. F. 1992. Interactive spacetime control for animation.Proc of ACM SIGGRAPH 26, 293--302."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-8",
+                "unstructured": "Coros, S., Martin, S., Thomaszewski, B., Schumacher, C., Sumner, R., and Gross, M. 2012. Deformable objects alive!ACM Trans. Graph. 31, 4, 69:1--69:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-9",
+                "unstructured": "Fang, A. C., and Pollard, N. S. 2003. Efficient synthesis of physically valid human motion.ACM Trans. Graph. 22, 3, 417--426.",
+                "DOI": "10.1145/882262.882286",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-10",
+                "unstructured": "Gleicher, M. 1997. Motion editing with spacetime constraints. InProc. of Symp. on Interactive 3D Graphics, 139--148."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-11",
+                "unstructured": "Heeren, B., Rumpf, M., Wardetzky, M., and Wirth, B. 2012. Time-discrete geodesics in the space of shells.Comp. Graph. Forum 31, 5, 1755--1764."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-12",
+                "unstructured": "Hildebrandt, K., Schulz, C., von Tycowicz, C., and Polthier, K. 2012. Interactive spacetime control of deformable objects.ACM Trans. Graph. 31, 4, 71:1--71:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-13",
+                "unstructured": "Huang, J., Tong, Y., Zhou, K., Bao, H., and Desbrun, M. 2011. Interactive shape interpolation through controllable dynamic deformation.IEEE Transactions on Visualization and Computer Graphics 17, 7, 983--992.",
+                "DOI": "10.1109/TVCG.2010.109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-14",
+                "unstructured": "Kass, M., and Anderson, J. 2008. Animating oscillatory motion with overlap: wiggly splines.ACM Trans. Graph. 27, 3, 28:1--28:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-15",
+                "unstructured": "Kilian, M., Mitra, N. J., and Pottmann, H. 2007. Geometric modeling in shape space.ACM Trans. Graph. 26, 3, 64:1--64:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-16",
+                "unstructured": "Kim, T., and James, D. L. 2009. Skipping steps in deformable simulation with online model reduction.ACM Trans. Graph. 28, 5, 123:1--123:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-17",
+                "unstructured": "Kim, J., and Pollard, N. S. 2011. Fast simulation of skeleton-driven deformable body characters.ACM Trans. Graph. 30, 5, 121:1--121:19."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-18",
+                "unstructured": "Kondo, R., Kanai, T., and Anjyo, K.-i. 2005. Directable animation of elastic objects. InSymp. Comp. Anim., 127--134."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-19",
+                "unstructured": "Krysl, P., Lall, S., and Marsden, J. E. 2001. Dimensional model reduction in non-linear finite element dynamics of solids and structures.Int. J. Numer. Meth. Eng. 51, 479--504.",
+                "DOI": "10.1002/nme.167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-20",
+                "unstructured": "Li, S., Huang, J., Desbrun, M., and Jin, X. 2013. Interactive elastic motion editing through spacetime position constraints.Computer Animation and Virtual Worlds 24, 3--4, 409--417.",
+                "DOI": "10.1002/cav.1521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-21",
+                "unstructured": "Martin, S., Thomaszewski, B., Grinspun, E., and Gross, M. 2011. Example-based elastic materials.ACM Trans. Graph. 30, 4, 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-22",
+                "unstructured": "McNamara, A., Treuille, A., Popovi&#263;, Z., and Stam, J. 2004. Fluid control using the adjoint method.ACM Trans. Graph. 23, 3, 449--456."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-23",
+                "unstructured": "M&#252;ller, M., Dorsey, J., McMillan, L., Jagnow, R., and Cutler, B. 2002. Stable real-time deformations. InProc. Symp. Comp. Anim., 49--54."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-24",
+                "unstructured": "Nickell, R. 1976. Nonlinear dynamics by mode superposition.Comput. Meth. Appl. Mech. Eng. 7, 1, 107--129.",
+                "DOI": "10.1016/0045-7825(76)90008-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-25",
+                "unstructured": "Pentland, A., and Williams, J. 1989. Good vibrations: modal dynamics for graphics and animation.Proc. of ACM SIGGRAPH 23, 207--214."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-26",
+                "unstructured": "Popovi&#263;, J., Seitz, S. M., and Erdmann, M. 2003. Motion sketching for control of rigid-body simulations.ACM Trans. Graph. 22, 4, 1034--1054."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-27",
+                "unstructured": "Safonova, A., Hodgins, J. K., and Pollard, N. S. 2004. Synthesizing physically realistic human motion in low-dimensional, behavior-specific spaces.ACM Trans. Graph. 23, 3, 514--521.",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-28",
+                "unstructured": "Schulz, C., von Tycowicz, C., Seidel, H.-P., and Hildebrandt, K., 2014. Proofs of two theorems concerning sparse spacetime constraints. http://arxiv.org/abs/1405.1902."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-29",
+                "unstructured": "Si, H., and G&#228;rtner, K. 2005. Meshing piecewise linear complexes by constrained Delaunay tetrahedralizations. InProceedings of the 14th International Meshing Roundtable. Springer, 147--163."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-30",
+                "unstructured": "Sifakis, E., and Barbi&#269;, J. 2012. FEM simulation of 3D deformable solids: A practitioner's guide to theory, discretization and model reduction. InSIGGRAPH Courses, 20:1--20:50.",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-31",
+                "unstructured": "Sulejmanpa&#353;i&#263;, A., and Popovi&#263;, J. 2005. Adaptation of performed ballistic motion.ACM Trans. Graph. 24, 1, 165--179."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-32",
+                "unstructured": "Sumner, R. W., Zwicker, M., Gotsman, C., and Popovi&#263;, J. 2005. Mesh-based inverse kinematics.ACM Trans. Graph. 24, 3, 488--495."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-33",
+                "unstructured": "Tan, J., Turk, G., and Liu, C. K. 2012. Soft body locomotion.ACM Trans. Graph. 31, 4, 26:1--26:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-34",
+                "unstructured": "Treuille, A., McNamara, A., Popovi&#263;, Z., and Stam, J. 2003. Keyframe control of smoke simulations.ACM Trans. Graph. 22, 3, 716--723."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-35",
+                "unstructured": "Valette, S., and Chassery, J.-M. 2004. Approximated centroidal Voronoi diagrams for uniform polygonal mesh coarsening.Computer Graphics Forum 23, 3, 381--389.",
+                "DOI": "10.1111/j.1467-8659.2004.00769.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-36",
+                "unstructured": "von Tycowicz, C., Schulz, C., Seidel, H.-P., and Hildebrandt, K. 2013. An efficient construction of reduced deformable objects.ACM Trans. Graph. 32, 6, 213:1--213:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-37",
+                "unstructured": "Wisniewski, K. 2010.Finite Rotation Shells. Springer.",
+                "DOI": "10.1007/978-90-481-8761-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-38",
+                "unstructured": "Witkin, A., and Kass, M. 1988. Spacetime constraints.Proc. of ACM SIGGRAPH 22, 159--168."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-39",
+                "unstructured": "Wojtan, C., Mucha, P. J., and Turk, G. 2006. Keyframe control of complex particle systems using the adjoint method. InProc. Symp. Comp. Anim., 15--23."
+            },
+            {
+                "key": "key-10.1145/2601097.2601156-40",
+                "unstructured": "Xu, D., Zhang, H., Wang, Q., and Bao, H. 2005. Poisson shape interpolation. InSymp. Solid and Phys. Model., 267--274."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601156&amp;ftid=1488917&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:25Z",
+            "timestamp": 1565663725000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601156",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

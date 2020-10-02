@@ -1,0 +1,105 @@
+{
+    "Timestamp": "1/8/2020 17:55:16",
+    "Title": "Stitch Meshing",
+    "DOI": "10.1145/3197517.3201360",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/kuiwuchn/stitchMeshing",
+    "code URL  2": "",
+    "PDF URL": "http://www.cs.utah.edu/~kwu/stitchmeshing/stitch_meshing_final.pdf",
+    "License type": "LGPL",
+    "Build mechanism": "CMakeLists",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 5,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Mesh geometry models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Very easy to build on Windows with VS2017, as most dependencies are shipped (except Gurobi, free for research purpose) and the CMakeList is well done. Trivial fix to the CMakeList : change gurobi75.lib to the latest version available (gurobi90.lib currently).\nThe software is also very nice and easy to play with. However, it only implements part (but most) of the paper (up to section 7 included ; no yarn generation).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 10,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Gurobi / nanogui / tbb / glfw / pcg32 / RPly",
+    "Project URL": "http://www.cs.utah.edu/~kwu/stitchmodeling#stitchmeshing",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 3,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Kui",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Utah"
+                }
+            ]
+        },
+        {
+            "given": "Xifeng",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Zachary",
+            "family": "Ferguson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Daniele",
+            "family": "Panozzo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Cem",
+            "family": "Yuksel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Utah"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

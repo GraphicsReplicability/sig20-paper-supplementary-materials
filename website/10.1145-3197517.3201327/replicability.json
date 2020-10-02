@@ -1,0 +1,76 @@
+{
+    "Timestamp": "1/22/2020 16:48:26",
+    "Title": "Immersion of self-intersecting solids and surfaces",
+    "DOI": "10.1145/3197517.3201327",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...), as a module/component of an existing opensource library/software",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), CONTRIBUTING or explicitly mentions how to contribute to the code",
+    "arXiv (page URL)": "",
+    "code URL": "http://run.usc.edu/vega/form.php?VegaFEM-v4.0.zip",
+    "code URL  2": "",
+    "PDF URL": "http://run.usc.edu/immersion/LiBarbic-SIGGRAPH2018.pdf",
+    "License type": "BSD",
+    "Build mechanism": "Makefile",
+    "Mandatory Software dependencies": "Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 2,
+    "Feedbacks [easy to configure/build (5=easy)]": 2,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": 4,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Physical simulation",
+    "ACM 2": "Volumetric models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "On Linux: multiple dependencies needed libmkl and pardiso for edit with ARAP. Was able to replicate a similar torus experiment. Many small examples already configured are provided in the example section of the code.\n\n-- Alternative test on windows --\nCould not compile on Windows despite the provided Visual Studio solution file. This is due to the very long list of dependencies and errors in the Visual Studio solution (some files do not exist like tribox2.cpp, some paths are hardcoded...). I assume it could be done with significant efforts.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 3,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "boost / glut / glew / CGAL / MKL / Eigen / libigl / Pardiso / glui / CORE / Cg / WxWidgets",
+    "Project URL": "http://run.usc.edu/immersion/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Yijing",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Southern California"
+                }
+            ]
+        },
+        {
+            "given": "Jernej",
+            "family": "Barbi\u010d",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Southern California"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

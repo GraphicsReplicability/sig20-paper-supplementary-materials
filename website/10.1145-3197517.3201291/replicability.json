@@ -1,0 +1,75 @@
+{
+    "Timestamp": "1/20/2020 12:13:32",
+    "Title": "Analytic spherical harmonic coefficients for polygonal area lights",
+    "DOI": "10.1145/3197517.3201291",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "link to a googledrive",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "https://drive.google.com/file/d/17qWANGV1cnKU39_Uz4RyBPPr64fl5yxO/view?usp=sharing",
+    "code URL  2": "",
+    "PDF URL": "https://cseweb.ucsd.edu/~viscomp/projects/ash/PaperData/ash.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Makefile",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 3,
+    "Feedbacks [easy to configure/build (5=easy)]": 3,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 3,
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "None",
+    "Authors": "Academia",
+    "ACM 1": "Rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I had to download SOIL from a github+fix includes. Pb of redefinition of symbols between glext and glew. Finally managed to compile but at execution I got a shader problem: extension `GL_EXT_gpu_shader4' unsupported in vertex shader. I was therefore unable to reproduce any result.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 2,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "SOIL/lopengl/glew/glfw/freeimage/assimp/glut/glu",
+    "Project URL": "https://cseweb.ucsd.edu/~viscomp/projects/ash/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Rendering",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 1,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Jingwen",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Ravi",
+            "family": "Ramamoorthi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

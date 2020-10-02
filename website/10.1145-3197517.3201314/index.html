@@ -1,0 +1,78 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">StrokeAggregator: consolidating raw sketches into artist-intended curve drawings <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Chenxi <span class="family">Liu</span></li>
+<li> Enrique <span class="family">Rosales</span></li>
+<li> Alla <span class="family">Sheffer</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201314">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/strokeaggregator_binary.zip">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201314-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201314-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Binary</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: University of British Columbia Evaluation Software License</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Closed source (e.g. commercial) software or libraries free for research purposes</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   10</li>
+<li><span class="family">Reviewer</span>: 4</li>
+</ul><h2>Comments</h2><pre>For this paper, the authors provided precompiled executables implementing their approach with command line interface. On top of these tools, a graphical user interface is defined in Python to load the the input drawing, set the algorithm parameters, call the precompiled binaries, and display and save the results.
+
+The precompiled binaries worked directly.
+
+I had a few difficulties to handle the dependencies of the python script. First, PyQt4 urls given in README.txt are wrong (correct url can be found here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4). Also, the documentation does not mention to install sip before PyQt4, while it seems to be a mandatory step (pip install sip).
+
+Once this is all fixed, the program runs smoothly and all the results can be reproduced.
+The application processes SCAP files, and converters (scap_to_svg and svg_to_scap) are provided. Core algorithms are provided as binaries, yet the software can be adapted in other context as long as the drawings can be stored as svg files.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [3,5,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

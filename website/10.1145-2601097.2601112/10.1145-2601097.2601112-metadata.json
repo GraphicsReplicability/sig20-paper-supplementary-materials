@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228708
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC",
+                "award": [
+                    "iModel (StG-2012-306877)"
+                ]
+            },
+            {
+                "name": "Intel Doctoral Fellowship",
+                "award": []
+            },
+            {
+                "name": "SNF",
+                "award": [
+                    "200021 137879"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601112",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 28,
+        "title": [
+            "Tangible and modular input device for character articulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Oliver",
+                "family": "Glauser",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "C\u00e9dric",
+                "family": "Pradalier",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Otmar",
+                "family": "Hilliges",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601112-1",
+                "unstructured": "Ando, Y., Takahashi, S., and Shibayama, E. 2002. A 3D animation system with superimposing cg on a physical armature.Proc. APCHI."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-2",
+                "unstructured": "B&#228;cher, M., Bickel, B., James, D. L., and Pfister, H. 2012. Fabricating articulated characters from skinned meshes.ACM Trans. Graph. 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-3",
+                "unstructured": "Baran, I., and Popovi&#263;, J. 2007. Automatic rigging and animation of 3D characters.ACM Trans. Graph. 26, 3, 72:1--72:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-4",
+                "unstructured": "Baran, I., Vlasic, D., Grinspun, E., and Popovi&#263;, J. 2009. Semantic deformation transfer.ACM Trans. Graph. 28, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-5",
+                "unstructured": "Barnes, C., Jacobs, D. E., Sanders, J., Goldman, D. B., Rusinkiewicz, S., Finkelstein, A., and Agrawala, M. 2008. Video puppetry: a performative interface for cutout animation.ACM Trans. Graph. 27, 5, 124."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-6",
+                "unstructured": "Bharaj, G., Thorm&#228;hlen, T., Seidel, H.-P., and Theobalt, C. 2012. Automatically rigging multi-component characters.Comput. Graph. Forum 30, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-7",
+                "unstructured": "Cal&#236;, J., Calian, D. A., Amati, C., Kleinberger, R., Steed, A., Kautz, J., and Weyrich, T. 2012. 3d-printing of non-assembly, articulated models.ACM Trans. Graph. 31, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-8",
+                "unstructured": "Celsys, Inc., 2013. QUMARION. http://www.clip-studio.com."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-9",
+                "unstructured": "Chen, J., Izadi, S., and Fitzgibbon, A. 2012. Kinetre: Animating the world with the human body. InProc. UIST, ACM Press, New York, New York, USA, 435."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-10",
+                "unstructured": "Dontcheva, M., Yngve, G., and Popovi&#263;, Z. 2003. Layered acting for character animation.ACM Trans. Graph. 22(July).",
+                "DOI": "10.1145/882262.882285",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-11",
+                "unstructured": "Esposito, C., Paley, W. B., and Ong, J. 1995. Of mice and monkeys: a specialized input device for virtual body animation. InProc. I3D.",
+                "DOI": "10.1145/199404.199424",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-12",
+                "unstructured": "Feng, T.-C., Gunawardane, P., Davis, J., and Jiang, B. 2008. Motion capture data retrieval using an artist's doll. InProc. ICPR, 1--4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-13",
+                "unstructured": "Held, R., Gupta, A., Curless, B., and Agrawala, M. 2012. 3d puppetry: A kinect-based interface for 3d animation. InProc. UIST, ACM, New York, NY, USA, 423--434."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-14",
+                "unstructured": "Ishigaki, S., White, T., Zordan, V. B., and Liu, C. K. 2009. Performance-based control interface for character animation.ACM Trans. Graph. 28, 3.",
+                "DOI": "10.1145/1531326.1531367",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-15",
+                "unstructured": "Ishii, H., and Ullmer, B. 1997. Tangible bits: Towards seamless interfaces between people, bits and atoms. InProc. CHI.",
+                "DOI": "10.1145/258549.258715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-16",
+                "unstructured": "Jacob, R. J. K., Sibert, L. E., McFarlane, D. C., and Mullen, Jr., M. P. 1994. Integrality and separability of input devices.ACM Trans. Comput.-Hum. Interact. 1, 1 (Mar.), 3--26."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-17",
+                "unstructured": "Jacobson, A., Baran, I., Popovi&#263;, J., and Sorkine, O. 2011. Bounded biharmonic weights for real-time deformation.ACM Trans. Graph. 30, 4, 78:1--78:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-18",
+                "unstructured": "Jacobson, A., Panozzo, D., et al., 2013. libigl: A simple C++ geometry processing library. http://igl.ethz.ch/projects/libigl/."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-19",
+                "unstructured": "Johnson, M. P., Wilson, A., Blumberg, B., Kline, C., and Bobick, A. 1999. Sympathetic interfaces. InProc. CHI.",
+                "DOI": "10.1145/302979.303028",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-20",
+                "unstructured": "Kabsch, W. 1976. A solution of the best rotation to relate two sets of vectors.Acta Crystallographica, 32, 922.",
+                "DOI": "10.1107/S0567739476001873",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-21",
+                "unstructured": "Knep, B., Hayes, C., Sayre, R., and Williams, T. 1995. Dinosaur input device. InProc. CHI, 304--309."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-22",
+                "unstructured": "Kuhn, H. W. 1955. The hungarian method for the assignment problem.Naval research logistics quarterly 2, 1--2, 83--97."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-23",
+                "unstructured": "Lin, J., Igarashi, T., Mitani, J., Liao, M., and He, Y. 2012. A sketching interface for sitting pose design in the virtual environment.IEEE TVCG 18, 11, 1979--1991."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-24",
+                "unstructured": "Melexis Sys., 2013. MLX90316 DataSheet."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-25",
+                "unstructured": "Oikonomidis, I., Kyriazis, N., and Argyros, A. A. 2012. Tracking the Articulated Motion of Two Strongly Interacting Hands. InIEEE CVPR.",
+                "DOI": "10.1109/CVPR.2012.6247885",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-26",
+                "unstructured": "Oore, S., Terzopoulos, D., and Hinton, G. 2002. A desktop input device and interface for interactive 3D character animation. InProc. Graphics Interface, 133--140."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-27",
+                "unstructured": "Raffle, H. S., Parkes, A. J., and Ishii, H. 2004. Topobo: a constructive assembly system with kinetic memory. InProc. CHI.",
+                "DOI": "10.1145/985692.985774",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-28",
+                "unstructured": "Romero, J., Kjellstrom, H., and Kragic, D. 2010. Hands in action: real-time 3D reconstruction of hands in interaction with objects. InIEEE ICRA, 458--463.",
+                "DOI": "10.1109/ROBOT.2010.5509753",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-29",
+                "unstructured": "Seol, Y., O'Sullivan, C., and Lee, J. 2013. Creature features: online motion puppetry for non-human characters. InProc. SCA.",
+                "DOI": "10.1145/2485895.2485903",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-30",
+                "unstructured": "Shim, B. 2010. Best student project prize talk: The wonder hospital.SIGGRAPH Computer Animation Festival."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-31",
+                "unstructured": "Shiratori, T., Mahler, M., Trezevant, W., and Hodgins, J. K. 2013. Expressing animated performances through puppeteering. In3DUI, IEEE, 59--66."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-32",
+                "unstructured": "Shneiderman, B. 1997. Direct manipulation for comprehensible, predictable and controllable user interfaces. InProc. IUI, 33--39.",
+                "DOI": "10.1145/238218.238281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-33",
+                "unstructured": "Shoemake, K. 1992. Arcball: A user interface for specifying three-dimensional orientation using a mouse. InProc. CGI."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-34",
+                "unstructured": "Shotton, J., Sharp, T., Kipman, A., Fitzgibbon, A., Finocchio, M., Blake, A., Cook, M., and Moore, R. 2013. Real-time human pose recognition in parts from single depth images.Commun. ACM 56, 1.",
+                "DOI": "10.1145/2398356.2398381",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-35",
+                "unstructured": "Sorkine, O., and Alexa, M. 2007. As-rigid-as-possible surface modeling. InProc. SGP, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-36",
+                "unstructured": "Sridhar, S., Oulasvirta, A., and Theobalt, C. 2013. Interactive markerless articulated hand motion tracking using rgb and depth data. InProc. ICCV.",
+                "DOI": "10.1109/ICCV.2013.305",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-37",
+                "unstructured": "Sumner, R., and Popovi&#263;, J. 2004. Deformation transfer for triangle meshes.ACM Trans. Graph. 23, 3, 399--405."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-38",
+                "unstructured": "Tagliasacchi, A., Alhashim, I., Olson, M., and Zhang, H. 2012. Mean curvature skeletons.Comput. Graph. Forum 31, 5.",
+                "DOI": "10.1111/j.1467-8659.2012.03178.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-39",
+                "unstructured": "Wang, R. Y., and Popovi&#263;, J. 2009. Real-time hand-tracking with a color glove.ACM Trans. Graph. 28, 3, 63:1--63:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-40",
+                "unstructured": "Weller, M. P., Do, E. Y.-L., and Gross, M. D. 2008. Posey: instrumenting a poseable hub and strut construction toy. InProc. TEI, 39--46."
+            },
+            {
+                "key": "key-10.1145/2601097.2601112-41",
+                "unstructured": "Yoshizaki, W., Sugiura, Y., Chiou, A. C., Hashimoto, S., Inami, M., Igarashi, T., Akazawa, Y., Kawachi, K., Kagami, S., and Mochimaru, M. 2011. An actuated physical puppet as an input device for controlling a digital manikin. InProc. CHI, 637--646."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601112&amp;ftid=1488890&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:06Z",
+            "timestamp": 1565663706000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601112",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

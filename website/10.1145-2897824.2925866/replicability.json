@@ -1,0 +1,116 @@
+{
+    "Timestamp": "1/21/2020 14:25:40",
+    "Title": "GazeStereo3D: Seamless Disparity Manipulations",
+    "DOI": "10.1145/2897824.2925866",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Cannot answer",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://resources.mpi-inf.mpg.de/GazeStereo3D/SeamlessRemappingDemo.zip",
+    "code URL  2": "",
+    "PDF URL": "http://resources.mpi-inf.mpg.de/GazeStereo3D/GazeStereo3D.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "None",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "N/A",
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia",
+    "ACM 1": "Perception",
+    "ACM 2": "Image processing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "It is a windows binary only. Not all results in the paper are provided, but the software works well for the examples provided. However I could not test on a polarized screen.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 18,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "http://resources.mpi-inf.mpg.de/GazeStereo3D/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Binary",
+    "Topic": "Virtual Reality",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Petr",
+            "family": "Kellnhofer",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL and MPI Informatik"
+                }
+            ]
+        },
+        {
+            "given": "Piotr",
+            "family": "Didyk",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MPI Informatik and Saarland University, MMCI"
+                }
+            ]
+        },
+        {
+            "given": "Karol",
+            "family": "Myszkowski",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MPI Informatik"
+                }
+            ]
+        },
+        {
+            "given": "Mohamed M.",
+            "family": "Hefeeda",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Qatar Computing Research Institute"
+                }
+            ]
+        },
+        {
+            "given": "Hans-Peter",
+            "family": "Seidel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MPI Informatik"
+                }
+            ]
+        },
+        {
+            "given": "Wojciech",
+            "family": "Matusik",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT CSAIL"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

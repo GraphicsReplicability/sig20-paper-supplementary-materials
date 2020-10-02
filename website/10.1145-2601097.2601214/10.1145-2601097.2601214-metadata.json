@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:53Z",
+            "timestamp": 1575507233371
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004063",
+                "name": "Knut och Alice Wallenbergs Stiftelse",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601214",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "AMFS"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Petrik",
+                "family": "Clarberg",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Robert",
+                "family": "Toth",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jon",
+                "family": "Hasselgren",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Jim",
+                "family": "Nilsson",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Tomas",
+                "family": "Akenine-M\u00f6ller",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601214-1",
+                "unstructured": "Akeley, K. 1993. RealityEngine Graphics. InProceedings of SIGGRAPH 93, ACM, 109--116."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-2",
+                "unstructured": "Akenine-M&#246;ller, T., Munkberg, J., and Hasselgren, J. 2007. Stochastic Rasterization using Time-Continuous Triangles. InGraphics Hardware, 7--16."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-3",
+                "unstructured": "Burley, B., and Lacewell, D. 2008. Ptex: Per-Face Texture Mapping for Production Rendering. InEurographics Symposium on Rendering, 1155--1164."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-4",
+                "unstructured": "Burns, C. A., Fatahalian, K., and Mark, W. R. 2010. A Lazy Object-Space Shading Architecture with Decoupled Sampling. InHigh Performance Graphics, 19--28."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-5",
+                "unstructured": "Catmull, E., and Clark, J. 1978. Recursively Generated B-Spline Surfaces on Arbitrary Topological Meshes.Computer-Aided Design, 10, 6, 350--355.",
+                "DOI": "10.1016/0010-4485(78)90110-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-6",
+                "unstructured": "Clarberg, P., Toth, R., and Munkberg, J. 2013. A Sort-Based Deferred Shading Architecture for Decoupled Sampling.ACM Transactions on Graphics, 32, 4, 141:1--141:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-7",
+                "unstructured": "Cook, R. L., Carpenter, L., and Catmull, E. 1987. The Reyes Image Rendering Architecture. InComputer Graphics (Proceedings of SIGGRAPH 87), ACM, vol. 21, 95--102."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-8",
+                "unstructured": "Doggett, M. 2012. Texture Caches.IEEE Micro, 32, 3, 136--141.",
+                "DOI": "10.1109/MM.2012.44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-9",
+                "unstructured": "Fatahalian, K., Boulos, S., Hegarty, J., Akeley, K., Mark, W. R., Moreton, H., and Hanrahan, P. 2010. Reducing Shading on GPUs using Quad-Fragment Merging.ACM Transactions on Graphics, 29, 4, 67:1--67:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-10",
+                "unstructured": "Gribel, C. J., Barringer, R., and Akenine-M&#246;ller, T. 2011. High-Quality Spatio-Temporal Rendering using Semi-Analytical Visibility.ACM Transactions on Graphics, 30, 4, 54:1--54:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-11",
+                "unstructured": "Gu, X., Gortler, S. J., and Hoppe, H. 2002. Geometry Images. InProceedings of SIGGRAPH 2002, ACM, 355--361."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-12",
+                "unstructured": "Guenter, B., Finch, M., Drucker, S., Tan, D., and Snyder, J. 2012. Foveated 3D Graphics.ACM Transactions on Graphics, 31, 6, 164:1--164:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-13",
+                "unstructured": "Hasselgren, J., and Akenine-M&#246;ller, T. 2007. PCU: The Programmable Culling Unit.ACM Transactions on Graphics, 26, 3, 92:1--92:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-14",
+                "unstructured": "Heckbert, P. S., and Moreton, H. P. 1991. Interpolation for Polygon Texture Mapping and Shading. InState of the Art in Computer Graphics: Visualization and Modeling, 101--111."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-15",
+                "unstructured": "Liktor, G., and Dachsbacher, C. 2012. Decoupled Deferred Shading for Hardware Rasterization. InSymposium on Interactive 3D Graphics and Games, 143--150."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-16",
+                "unstructured": "McGuire, M., Enderton, E., Shirley, P., and Luebke, D. 2010. Real-Time Stochastic Rasterization on Conventional GPU Architectures. InHigh Performance Graphics, 173--182."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-17",
+                "unstructured": "Munkberg, J., Clarberg, P., Hasselgren, J., Toth, R., Sugihara, M., and Akenine-M&#246;ller, T. 2011. Hierarchical Stochastic Motion Blur Rasterization. InHigh Performance Graphics, 107--118."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-18",
+                "unstructured": "Niessner, M., Loop, C., Meyer, M., and Derose, T. 2012. Feature-Adaptive GPU Rendering of Catmull-Clark Subdivision Surfaces.ACM Transactions on Graphics, 31, 1, 6:1--6:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-19",
+                "unstructured": "Pellacini, F. 2005. User-Configurable Automatic Shader Simplification.ACM Transactions on Graphics, 24, 3, 445--452.",
+                "DOI": "10.1145/1073204.1073212",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-20",
+                "unstructured": "Ragan-Kelley, J., Lehtinen, J., Chen, J., Doggett, M., and Durand, F. 2011. Decoupled Sampling for Graphics Pipelines.ACM Transactions on Graphics, 30, 3, 17:1--17:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-21",
+                "unstructured": "Sitthi-Amorn, P., Modly, N., Weimer, W., and Lawrence, J. 2011. Genetic Programming for Shader Simplification.ACM Transactions on Graphics, 30, 6, 152:1--152:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-22",
+                "unstructured": "Stoll, G., Mark, W. R., Djeu, P., Wang, R., and Elhassan, I. 2006. Razor: An Architecture for Dynamic Multiresolution Ray Tracing. Tech. Rep. TR-06-21, Dept. of Computer Science, University of Texas at Austin."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-23",
+                "unstructured": "Vaidyanathan, K., Toth, R., Salvi, M., Boulos, S., and Lefohn, A. 2012. Adaptive Image Space Shading for Motion and Defocus Blur. InHigh Performance Graphics, 13--21."
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-24",
+                "unstructured": "Wang, Z., Bovik, A., Sheikh, H., and Simoncelli, E. 2004. Image Quality Assessment: from Error Visibility to Structural Similarity.IEEE Transactions on Image Proc., 13, 4, 600--612.",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601214-25",
+                "unstructured": "Ward, G. J., Rubinstein, F. M., and Clear, R. D. 1988. A Ray Tracing Solution for Diffuse Interreflection. InComputer Graphics (Proceedings of SIGGRAPH 88), ACM, 85--92."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601214&amp;ftid=1488950&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "adaptive multi-frequency shading for future graphics processors"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601214",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

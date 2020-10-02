@@ -1,0 +1,95 @@
+{
+    "Timestamp": "12/20/2019 9:10:06",
+    "Title": "Deep image-based relighting from optimal sparse samples",
+    "DOI": "10.1145/3197517.3201313",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "None",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/zexiangxu/Deep-Relighting",
+    "code URL  2": "",
+    "PDF URL": "https://www.ics.uci.edu/~yug10/projects/megvii/ref/Xu%20-%202018%20-%20Deep%20Image-Based%20Relighting%20from%20Optimal%20Sparse%20Samples.pdf",
+    "License type": "Disclaimer:This software and related data are published for academic and non-commercial use only.",
+    "Build mechanism": "This software and related data are published for academic and non-commercial use only.",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": "N/A",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data",
+    "License for the data (if any)": "published for academic and non-commercial use only",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "N/A",
+    "Feedbacks [Interface user-friendly (5=easy)]": "N/A",
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Rendering",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "Unable to unzip the training data (320Go zip file) (64Go RAM computer).",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 20,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "tensorflow",
+    "Project URL": "http://cseweb.ucsd.edu/~viscomp/projects/SIG18Relighting/",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "True",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": "N/A",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 1,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Zexiang",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        },
+        {
+            "given": "Kalyan",
+            "family": "Sunkavalli",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Sunil",
+            "family": "Hadap",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Ravi",
+            "family": "Ramamoorthi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,442 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T00:53:18Z",
+            "timestamp": 1574815998982
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HCC-0905506, CAREER-1453101, DGE-1144153"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925904",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Toward animating water with complex acoustic bubbles"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925904-1",
+                "unstructured": "Ando, R., Thuerey, N., and Wojtan, C. 2015. A stream function solver for liquid simulations.ACM Transactions on Graphics (TOG) 34, 4, 53."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-2",
+                "unstructured": "Banerjee, P. K., and Butterfield, R. 1981.Boundary element methods in engineering science, vol. 17. McGraw-Hill London."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-3",
+                "unstructured": "Bigg, G. R., Jickells, T. D., Liss, P. S., and Osborn, T. J. 2003. The role of the oceans in climate.International Journal of Climatology 23, 10, 1127--1159."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-4",
+                "unstructured": "Boyd, L., and Bridson, R. 2012. MultiFLIP for energetic two-phase fluid simulation.ACM Transactions on Graphics (TOG) 31, 2, 16."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-5",
+                "unstructured": "Bragg, S. W. H. 1920.The World of Sound. G. Bell and Sons Ltd."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-6",
+                "unstructured": "Bridson, R. 2008.Fluid simulation for computer graphics. CRC Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-7",
+                "unstructured": "Busaryev, O., Dey, T. K., Wang, H., and Ren, Z. 2012. Animating bubble interactions in a liquid foam.ACM Transactions on Graphics (TOG) 31, 4, 63."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-8",
+                "unstructured": "Chicharro, R., and Vazquez, a. 2014. The acoustic signature of gas bubbles generated in a liquid cross-flow.Experimental Thermal and Fluid Science 55, 221--227."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-9",
+                "unstructured": "Czerski, H., and Deane, G. B. 2010. Contributions to the acoustic excitation of bubbles released from a nozzle.The Journal of the Acoustical Society of America 128, 5, 2625--2634."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-10",
+                "unstructured": "Czerski, H., and Deane, G. B. 2011. The effect of coupling on bubble fragmentation acoustics.The Journal of the Acoustical Society of America 129, 1, 74--84."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-11",
+                "unstructured": "Czerski, H. 2011. A candidate mechanism for exciting sound during bubble coalescence.The Journal of the Acoustical Society of America 129, 3, EL83--EL88."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-12",
+                "unstructured": "Da, F., Batty, C., Wojtan, C., and Grinspun, E. 2015. Double bubbles sans toil and trouble: discrete circulation-preserving vortex sheets for soap films and foams.ACM Transactions on Graphics (TOG) 34, 4, 149."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-13",
+                "unstructured": "Deane, G. B., and Czerski, H. 2008. A mechanism stimulating sound production from air bubbles released from a nozzle.The Journal of the Acoustical Society of America 123, 6, EL126--EL132."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-14",
+                "unstructured": "Deane, G. B., and Stokes, M. D. 2002. Scale dependence of bubble creation mechanisms in breaking waves.Nature 418, 6900, 839--844."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-15",
+                "unstructured": "Deane, G. B., and Stokes, M. D. 2010. Model calculations of the underwater noise of breaking waves and comparison with experiment.The Journal of the Acoustical Society of America 127, 6, 3394--3410."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-16",
+                "unstructured": "Deane, G. B. 2013. Determining the bubble cap film thickness of bursting bubbles from their acoustic emissions.The Journal of the Acoustical Society of America 133, February 2013, EL69--75."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-17",
+                "unstructured": "Ding, L., and Farmer, D. M. 1994. Observations of breaking surface wave statistics.Journal of Physical Oceanography 24, 6, 1368--1387."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-18",
+                "unstructured": "Enright, D., Marschner, S., and Fedkiw, R. 2002. Animation and rendering of complex water surfaces.ACM Transactions on Graphics (TOG) 21, 3, 736--744."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-19",
+                "unstructured": "Garland, M., and Heckbert, P. S. 1997. Surface simplification using quadric error metrics. InProceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques, ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, SIGGRAPH '97, 209--216.",
+                "DOI": "10.1145/258734.258849",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-20",
+                "unstructured": "Hager, W. W. 1989. Updating the inverse of a matrix.SIAM review 31, 2, 221--239."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-21",
+                "unstructured": "Hong, J.-M., and Kim, C.-H. 2003. Animation of bubbles in liquid. InComputer Graphics Forum, vol. 22, Wiley Online Library, 253--262.",
+                "DOI": "10.1111/1467-8659.00672",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-22",
+                "unstructured": "Hong, J.-M., and Kim, C.-H. 2005. Discontinuous fluids.ACM Transactions on Graphics (TOG) 24, 3, 915--920."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-23",
+                "unstructured": "Howe, M. S., and Hagen, N. A. A. 2011. On the impact noise of a drop falling on water.Journal of Sound and Vibration 330, 4, 625--635."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-24",
+                "unstructured": "Howe, M. S. 1998.Acoustics of Fluid-Structure Interatctions. Cambridge Press.",
+                "DOI": "10.1017/CBO9780511662898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-25",
+                "unstructured": "Howe, M. S. 2002.Theory of Vortex Sound. Cambridge Press.",
+                "DOI": "10.1017/CBO9780511755491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-26",
+                "unstructured": "Kim, B., Liu, Y., Llamas, I., Jiao, X., and Rossignac, J. 2007. Simulation of bubbles in foam with the volume control method. InACM Transactions on Graphics (TOG), vol. 26, ACM, 98.",
+                "DOI": "10.1145/1275808.1276500",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-27",
+                "unstructured": "Klusek, Z., and Lisimenka, A. 2013. Acoustic noise generation under plunging breaking waves.Oceanologia 55, 4, 809--836."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-28",
+                "unstructured": "Lamb, H. 1932.Hydrodynamics. Cambridge University Press."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-29",
+                "unstructured": "Leighton, T., Finfer, D., Grover, E., and White, P. 2007. An acoustical hypothesis for the spiral bubble nets of humpback whales and the implications for whale feeding.Acoustic Bulletin 22, 1, 17--21."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-30",
+                "unstructured": "Leighton, T. G. 1994.The Acoustic Bubble. Academic Press.",
+                "DOI": "10.1121/1.410082",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-31",
+                "unstructured": "Lewiner, T., Lopes, H., Vieira, A. W., and Tavares, G. 2003. Efficient implementation of marching cubes cases with topological guarantees.Journal of Graphics Tools 8, 2 (december), 1--15."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-32",
+                "unstructured": "Lhuissier, H., and Villermaux, E. 2012. Bursting bubble aerosols.Journal of Fluid Mechanics 696(4), 5--44."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-33",
+                "unstructured": "Longuet-Higgins, M. S. 1989. Monopole emission of sound by asymmetric bubble oscillations. Part 1. Normal modes.Journal of Fluid Mechanics 201, 525--541."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-34",
+                "unstructured": "Longuet-Higgins, M. S. 1989. Monopole emission of sound by asymmetric bubble oscillations. Part 2. An initial-value problem.Journal of Fluid Mechanics 201, 543--565."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-35",
+                "unstructured": "Longuet-Higgins, M. S. 1990. An analytical model of sound production by raindrops.Journal of Fluid Mechanics 214, 395--410."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-36",
+                "unstructured": "Longuet-Higgins, M. S. 1991. Resonance in nonlinear bubble oscillations.Journal of Fluid Mechanics 224, 531."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-37",
+                "unstructured": "Losasso, F., Shinar, T., Selle, A., and Fedkiw, R. 2006. Multiple interacting liquids. InACM Transactions on Graphics (TOG), vol. 25, ACM, 812--819.",
+                "DOI": "10.1145/1179352.1141960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-38",
+                "unstructured": "Means, S. L., and Heitmeyer, R. M. 2002. Surf-generated noise signatures: a comparison of plunging and spilling breakers.The Journal of the Acoustical Society of America 112, 2, 481--488."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-39",
+                "unstructured": "Medwin, H., and Beaky, M. M. 1989. Bubble sources of the Knudsen sea noise spectra.The Journal of the Acoustical Society of America 86, 3, 1124--1130."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-40",
+                "unstructured": "Minnaert, M. 1933. On musical air-bubbles and the sounds of running water.Philosophical Magazine 16, 104, 235--248."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-41",
+                "unstructured": "Moss, W., Yeh, H., Hong, J.-M., Lin, M. C., and Manocha, D. 2010. Sounding liquids: Automatic sound synthesis from fluid simulation.ACM Trans. Graph. 29, 3 (July), 21:1--21:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-42",
+                "unstructured": "Nystuen, J. A. 1986. Rainfall measurements using underwater ambient noise.The Journal of the Acoustical Society of America 79, 4, 972--982."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-43",
+                "unstructured": "Osher, S., and Fedkiw, R. 2006.Level set methods and dynamic implicit surfaces, vol. 153. Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-44",
+                "unstructured": "Popinet, S. 2003. Gerris: a tree-based adaptive solver for the incompressible euler equations in complex geometries.Journal of Computational Physics 190, 2, 572--600."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-45",
+                "unstructured": "Popinet, S. 2009. An accurate adaptive solver for surface-tension-driven interfacial flows.Journal of Computational Physics 228, 16, 5838--5866."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-46",
+                "unstructured": "Prosperetti, A. 1988. Bubble dynamics in oceanic ambient noise. InSea Surface Sound, B. Kerman, Ed., vol. 238 ofNATO ASI Series. Springer Netherlands, 151--171.",
+                "DOI": "10.1007/978-94-009-3017-9_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-47",
+                "unstructured": "Prosperetti, A. 1988. Bubble-related ambient noise in the ocean.The Journal of the Acoustical Society of America 84, 3, 1042--1054."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-48",
+                "unstructured": "Pumphery, H., Crum, L., and Bj&#248;rn&#248;, L. 1989. Underwater sound produced by individual drop impacts and rainfall.J. Acoust. Soc. Am. 85, 1518--1526."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-49",
+                "unstructured": "Pumphrey, H., and Ffowcs Williams, J. 1990. Bubbles as sources of ambient noise.IEEE Journal of Oceanic Engineering 15, 4, 268--274."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-50",
+                "unstructured": "Rayleigh, L. 1917. VIII. On the pressure developed in a liquid during the collapse of a spherical cavity.Philosophical Magazine Series 6 34, 200, 94--98."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-51",
+                "unstructured": "Smigaj, W., Arridge, S., Betcke, T., Phillips, J., and Schweiger, M. 2012. Solving boundary integral problems with bem++.ACM Transactions on Mathematical Software."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-52",
+                "unstructured": "Spiel, D. E. 1992. Acoustical measurements of air bubbles bursting at a water surface: Bursting bubbles as helmholtz resonators.Journal of Geophysical Research: Oceans (1978--2012) 97, C7, 11443--11452."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-53",
+                "unstructured": "Spratt, K. S., Lee, K. M., Wilson, P. S., and Wochner, M. S. 2015. On the resonance frequency of an ideal arbitrarily-shaped bubble.Proceedings of Meetings on Acoustics 20, 1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-54",
+                "unstructured": "Stam, J. 1999. Stable fluids. InProceedings of the 26th annual conference on Computer graphics and interactive techniques, ACM Press/Addison-Wesley Publishing Co., 121--128.",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-55",
+                "unstructured": "Strasberg, M. 1953. The pulsation frequency of nonspherical gas bubbles in liquids.The Journal of the Acoustical Society of America 25, 3, 536--537."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-56",
+                "unstructured": "van den Doel, K. 2005. Physically based models for liquid sounds.ACM Transactions on Applied Perception 2, 4 (Oct.), 534--546."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-57",
+                "unstructured": "Wilson, J. D., and Makris, N. C. 2008. Quantifying hurricane destructive power, wind speed, and air-sea material exchange with natural undersea sound.Geophysical Research Letters 35, 10."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-58",
+                "unstructured": "Zheng, C., and James, D. L. 2009. Harmonic fluids.ACM Trans. Graph. 28, 3 (Aug.), 37:1--37:12."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-59",
+                "unstructured": "Zheng, C., and James, D. L. 2010. Rigid-Body Fracture Sound with Precomputed Soundbanks.ACM Transactions on Graphics 29, 4 (July), 69:1--69:13."
+            },
+            {
+                "key": "key-10.1145/2897824.2925904-60",
+                "unstructured": "Zheng, W., Yong, J.-H., and Paul, J.-C. 2009. Simulation of bubbles.Graphical Models 71, 6, 229--239."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925904&amp;ftid=1755894&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:45:48Z",
+            "timestamp": 1568162748000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925904",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

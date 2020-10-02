@@ -1,0 +1,125 @@
+{
+    "Timestamp": "1/4/2020 2:37:14",
+    "Title": "CofiFab: Coarse-to-Fine Fabrication of Large 3D Objects",
+    "DOI": "10.1145/2897824.2925876",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "No",
+    "Availability": "",
+    "Main languages": "",
+    "How long did take for you to evaluate the code this paper (if any)?": 1,
+    "Build info / instructions": "",
+    "arXiv (page URL)": "",
+    "code URL": "",
+    "code URL  2": "",
+    "PDF URL": "https://songpenghit.github.io/Publication/projects/2016-SIGGRAPH-CofiFab/download/paper.highres.pdf",
+    "License type": "",
+    "Build mechanism": "",
+    "Mandatory Software dependencies": "",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": "",
+    "Feedbacks [easy to configure/build (5=easy)]": "",
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": "",
+    "Feedbacks [Interface user-friendly (5=easy)]": "",
+    "Documentation": "",
+    "Authors": "Academia",
+    "ACM 1": "Shape modeling",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "",
+    "OS of the test": "",
+    "General comments": "",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 60,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "",
+    "Project URL": "https://songpenghit.github.io/Publication/projects/2016-SIGGRAPH-CofiFab/index.html",
+    "Did I manage to perform a complete test (deps/build)?": "",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "",
+    "Topic": "Fabrication",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": "",
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Peng",
+            "family": "Song",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Bailin",
+            "family": "Deng",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Hull"
+                }
+            ]
+        },
+        {
+            "given": "Ziqi",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Zhichao",
+            "family": "Dong",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Wei",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        },
+        {
+            "given": "Chi-Wing",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The Chinese University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Ligang",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Science and Technology of China"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

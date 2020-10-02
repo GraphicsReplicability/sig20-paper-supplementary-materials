@@ -1,0 +1,364 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:48Z",
+            "timestamp": 1575507228874
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100006280",
+                "name": "Ministerio de Ciencia y Tecnolog\u00eda",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "TIN2010-21543"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "251415, 288914"
+                ]
+            },
+            {
+                "name": "Gobierno de Aragon",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601131",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 30,
+        "title": [
+            "A similarity measure for illustration style"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Elena",
+                "family": "Garces",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Aseem",
+                "family": "Agarwala",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Aaron",
+                "family": "Hertzmann",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601131-1",
+                "unstructured": "Aucouturier, J.-J., and Pachet, F. 2002. Music Similarity Measures: What's the Use? InProc. SMIR, 157--163."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-2",
+                "unstructured": "Bae, S., Paris, S., and Durand, F. 2006. Two-scale tone management for photographic look.ACM Trans. Graphics 25, 3, 637--645.",
+                "DOI": "10.1145/1141911.1141935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-3",
+                "unstructured": "Bell, R. M., and Koren, Y. 2007. Lessons from the Netflix Prize Challenge.SIGKDD Explor. Newsl. 9, 2, 75--79.",
+                "DOI": "10.1145/1345448.1345465",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-4",
+                "unstructured": "Chen, T., Cheng, M.-M., Tan, P., Shamir, A., and Hu, S.-M. 2009. Sketch2photo: Internet image montage.ACM Trans. Graphics 28, 5, 124:1--124:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-5",
+                "unstructured": "Chen, X., Bennett, P. N., Collins-Thompson, K., and Horvitz, E. 2013. Pairwise Ranking Aggregation in a Crowdsourced Setting. InProc. WSDM, 193--202.",
+                "DOI": "10.1145/2433396.2433420",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-6",
+                "unstructured": "Datta, R., Joshi, D., Li, J., and Wang, J. Z. 2008. Image Retrieval: Ideas, Influences, and Trends of the New Age.ACM Computing Surveys 40, 2, 5:1--5:60."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-7",
+                "unstructured": "Doersch, C., Singh, S., Gupta, A., Sivic, J., and Efros, A. 2012. What Makes Paris Look like Paris?ACM Trans. Graphics 31, 4, 101:1--101:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-8",
+                "unstructured": "Durand, F. 2002. An Invitation to Discuss Computer Depiction. InProc. NPAR, 111--124."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-9",
+                "unstructured": "Epshtein, B., Ofek, E., and Wexler, Y. 2010. Detecting Text in Natural Scenes with Stroke Width Transform. InProc. CVPR, 2963--2970."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-10",
+                "unstructured": "Gooch, B., and Gooch, A. 2001.Non-Photorealistic Rendering. AK Peters Ltd.",
+                "DOI": "10.1201/9781439864173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-11",
+                "unstructured": "Haralick, R. M., Shanmugam, K., and Dinstein, I. 1973. Textural Features for Image Classification.IEEE Trans. Systems, Man and Cybernetics 3, 6, 610--621.",
+                "DOI": "10.1109/TSMC.1973.4309314",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-12",
+                "unstructured": "Hasler, D., and Susstrunk, S. 2003. Measuring Colourfulness in Natural Images. InProc. SPIE: Human Vision and Electronic Imaging, vol. 5007, 87--95."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-13",
+                "unstructured": "Hertzmann, A., Jacobs, C. E., Oliver, N., Curless, B., and Salesin, D. H. 2001. Image Analogies. InProc. SIGGRAPH, 327--340."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-14",
+                "unstructured": "Hurtut, T., Gousseau, Y., Cheriet, F., and Schmitt, F. 2011. Artistic line-drawings retrieval based on the pictorial content.ACM J. Computing and Cultural Heritage 4, 1, 1--23.",
+                "DOI": "10.1145/2001416.2001419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-15",
+                "unstructured": "Kalogerakis, E., Nowrouzezahrai, D., Breslav, S., and Hertzmann, A. 2012. Learning Hatching for Pen-and-Ink Illustration of Surfaces.ACM Trans. Graphics 31, 1:1--1:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-16",
+                "unstructured": "Kulis, B. 2013. Metric learning: A survey.Foundations and Trends in Machine Learning 5, 4, 287--364.",
+                "DOI": "10.1561/2200000019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-17",
+                "unstructured": "Lalonde, J.-F., Hoiem, D., Efros, A. A., Rother, C., Winn, J., and Criminisi, A. 2007. Photo clip art.ACM Trans. Graphics 26, 3, 3:1--3:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-18",
+                "unstructured": "Lessig, L. 2008.Remix: Making Art and Commerce Thrive in the Hybrid Economy. Penguin Press.",
+                "DOI": "10.5040/9781849662505",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-19",
+                "unstructured": "Li, C., Member, S., and Chen, T. 2009. Aesthetic Visual Quality Assessment of Paintings.IEEE J. Sel. Topics in Signal Processing 3, 2, 236--252.",
+                "DOI": "10.1109/JSTSP.2009.2015077",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-20",
+                "unstructured": "Li, H., Zhang, H., Wang, Y., Cao, J., Shamir, A., and Cohen-Or, D. 2013. Curve Style Analysis in a Set of Shapes.Computer Graphics Forum 32, 6, 77--88.",
+                "DOI": "10.1111/cgf.12015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-21",
+                "unstructured": "McFee, B., and Lanckriet, G. 2011. Learning Multi-modal Similarity.J. Machine Learning Research 12, 491--523."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-22",
+                "unstructured": "Murray, N., Barcelona, D., Marchesotti, L., and Perronnin, F. 2012. AVA: A Large-Scale Database for Aesthetic Visual Analysis. InProc. CVPR, 2408--2415."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-23",
+                "unstructured": "O'Donovan, P., L&#299;beks, J., Agarwala, A., and Hertzmann, A. 2014. Exploratory Font Selection Using Crowdsourced Attributes.ACM Trans. Graphics 33.",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-24",
+                "unstructured": "Ojala, T., Pietik&#228;inen, M., and M&#228;enp&#228;&#228;, T. 2002. Multiresolution gray-scale and rotation invariant texture classification with local binary patterns.IEEE Trans. PAMI 24, 7, 971--987."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-25",
+                "unstructured": "Parikh, D., and Grauman, K. 2011. Relative attributes.In Proc. ICCV, 503--510."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-26",
+                "unstructured": "Radlinski, F., Bennett, P. N., Carterette, B., and Joachims, T. 2009. Redundancy, Diversity and Interdependent Document Relevance.SIGIR Forum 43, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-27",
+                "unstructured": "Schultz, M., and Joachims, T. 2003. Learning a Distance Metric from Relative Comparisons. InProc. NIPS."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-28",
+                "unstructured": "Shamir, L., Macura, T., Orlov, N., Eckley, D. M., and Goldberg, I. G. 2010. Impressionism, Expressionism, Surrealism: Automated Recognition of Painters and Schools of Art.ACM Trans. Applied Perception 7, 2, 8:1--8:17."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-29",
+                "unstructured": "Tamuz, O., Liu, C., Belongie, S., Shamir, O., and Kalai, A. 2011. Adaptively Learning the Crowd Kernel. InProc. ICML, 673--680."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-30",
+                "unstructured": "Tenenbaum, J. B., and Freeman, W. T. 2000. Separating Style and Content with Bilinear Models.Neural Computation 12, 6, 1247--1283.",
+                "DOI": "10.1162/089976600300015349",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-31",
+                "unstructured": "van der Maaten, L., and Hinton, G. E. 2008. Visualizing High-Dimensional Data Using t-SNE.J. Machine Learning Research 9, 2579--2605."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-32",
+                "unstructured": "Welinder, P., Branson, S., Belongie, S., and Perona, P. 2010. The Multidimensional Wisdom of Crowds. InProc. NIPS, 2424--2432."
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-33",
+                "unstructured": "Willats, J., and Durand, F. 2005. Defining pictorial style: Lessons from linguistics and computer graphics.Axiomathes 15, 3, 319--351.",
+                "DOI": "10.1007/s10516-004-5449-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-34",
+                "unstructured": "Zhu, C., Byrd, R. H., Lu, P., and Nocedal, J. 1997. Algorithm 778: L-BFGS-B: Fortran subroutines for large-scale bound-constrained optimization.ACM Trans. on Mathematical Software 23, 4.",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601131-35",
+                "unstructured": "Zhu, C., Bichot, C.-E., and Chen, L. 2010. Multi-scale Color Local Binary Patterns for Visual Object Classes Recognition. InProc. ICPR, 3065--3068."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601131&amp;ftid=1488901&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:11Z",
+            "timestamp": 1565663711000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601131",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

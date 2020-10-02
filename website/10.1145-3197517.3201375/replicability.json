@@ -1,0 +1,75 @@
+{
+    "Timestamp": "1/22/2020 13:00:52",
+    "Title": "Integer-only cross field computation",
+    "DOI": "10.1145/3197517.3201375",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...)",
+    "Main languages": "Matlab / Mathematica / .., Shader language",
+    "How long did take for you to evaluate the code this paper (if any)?": 4,
+    "Build info / instructions": "README",
+    "arXiv (page URL)": "",
+    "code URL": "http://www.cs.technion.ac.il/~mirela/code/ioq.zip",
+    "code URL  2": "",
+    "PDF URL": "http://www.cs.technion.ac.il/~mirela/publications/ioq.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Other script, Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Paywall Closed source software or libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 4,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Mesh models",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Minor fixes to the code: when running the examples from the examples directory, you need to replace './data/bunny.off' by '../data/bunny.off' in the demo files, and similarly change the '.' to '..' in the vis_vector_field.m file in addOptional(p, 'BinaryPath', fullfile('..', 'bin', 'vis_vector_field', 'vis_vector_field_bin.exe')); \nI also had to add my visual studio bin directory to my PATH.\nAlso, the readme mentions a code snippet to compute cross fields. There is an error in the routine to display the result : it is not m.draw(CF, alpha) but m.plot(CF, alpha) (the method draw is not a method of the class Mesh, and 'draw_face_field' is not correct either).\nA single example (bunny) is provided, though I believe it should work similarly well on other examples.\nIt took me significant time making this code run only because I had to perform a fresh cuda install -- it otherwise trivially installs.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 2,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "matlab / libigl",
+    "Project URL": "",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2018,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": true,
+    "Feedbacks [could reproduce results (5=highly confident)]": 5,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Nahum",
+            "family": "Farchi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Technion Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Mirela",
+            "family": "Ben-Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Technion Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

@@ -1,0 +1,614 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:04Z",
+            "timestamp": 1574859844824
+        },
+        "reference-count": 80,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201318",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Toward wave-based sound synthesis for computer animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jui-Hsien",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ante",
+                "family": "Qu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201318-1",
+                "unstructured": "T. Akenine-M&#246;ller. 2002. Fast 3D Triangle-box Overlap Testing.J. Graph. Tools6, 1 (2002).",
+                "DOI": "10.1080/10867651.2001.10487535",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-2",
+                "unstructured": "A. Allen and N. Raghuvanshi. 2015. Aerophones in Flatland: Interactive Wave Simulation of Wind Instruments.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2015)34, 4 (Aug. 2015).",
+                "DOI": "10.1145/2767001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-3",
+                "unstructured": "S. S. An, D. L. James, and S. Marschner. 2012. Motion-driven Concatenative Synthesis of Cloth Sounds.ACM Transactions on Graphics (SIGGRAPH 2012)(Aug. 2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-4",
+                "unstructured": "Avid Technology. 2018. Pro Tools. (2018). http://www.avid.com/pro-tools."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-5",
+                "unstructured": "D. R. Begault. 1994.3-D Sound for Virtual Reality and Multimedia.Academic Press Professional, Cambridge, MA."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-6",
+                "unstructured": "S. Bilbao. 2009.Numerical Sound Synthesis: Finite Difference Schemes and Simulation in Musical Acoustics.John Wiley and Sons.",
+                "DOI": "10.1002/9780470749012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-7",
+                "unstructured": "S. Bilbao. 2011. Time domain simulation and sound synthesis for the snare drum.J. Acoust. Soc. Am.131, 1 (2011).",
+                "DOI": "10.1121/1.3651240",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-8",
+                "unstructured": "Stefan Bilbao. 2013. Modeling of complex geometries and boundary conditions in finite different/finite volume time domain room acoustics simulation.IEEE Transactions on Audio, Speech, and Language Processing21 (2013).",
+                "DOI": "10.1109/TASL.2013.2256897",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-9",
+                "unstructured": "S. Bilbao and C. J. Webb. 2013. Physical modeling of timpani drums in 3D on GPGPUs.Journal of the Audio Engineering Society61, 10 (2013), 737--748."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-10",
+                "unstructured": "N. Bonneel, G. Drettakis, N. Tsingos, I. Viaud-Delmon, and D. James. 2008. Fast Modal Sounds with Scalable Frequency-Domain Synthesis.ACM Transactions on Graphics27, 3 (Aug. 2008), 24:1--24:9."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-11",
+                "unstructured": "D. Botteldooren. 1994. Acoustical finite-difference time-domain simulation in a quasi-cartesian grid.Journal of the Acoustical Society of America95 (1994).",
+                "DOI": "10.1121/1.409866",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-12",
+                "unstructured": "D. Botteldooren. 1997. Time-domain simulation of the influence of close barriers on sound propagation to the environment.The Journal of the Acoustical Society of America101, 3 (1997), 1278--1285.",
+                "DOI": "10.1121/1.418101",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-13",
+                "unstructured": "J. N. Chadwick, S. S. An, and D. L. James. 2009. Harmonic Shells: A Practical Nonlinear Sound Model for Near-Rigid Thin Shells.ACM Transactions on Graphics(Aug. 2009).",
+                "DOI": "10.1145/1661412.1618465",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-14",
+                "unstructured": "J. N. Chadwick and D. L. James. 2011. Animating Fire with Sound.ACM Transactions on Graphics30, 4 (Aug. 2011).",
+                "DOI": "10.1145/2010324.1964979",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-15",
+                "unstructured": "J. N. Chadwick, C. Zheng, and D. L. James. 2012a. Faster Acceleration Noise for Multi-body Animations using Precomputed Soundbanks.ACM Eurographics Symposium on Computer Animation(2012)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-16",
+                "unstructured": "J. N. Chadwick, C. Zheng, and D. L. James. 2012b. Precomputed Acceleration Noise for Improved Rigid-Body Sound.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2012)31, 4 (Aug. 2012).",
+                "DOI": "10.1145/2185520.2185599",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-17",
+                "unstructured": "A. Chaigne, C. Touz&#233;, and O. Thomas. 2005. Nonlinear vibrations and chaos in gongs and cymbals.Acoustical science and technology26, 5 (2005), 403--409.",
+                "DOI": "10.1250/ast.26.403",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-18",
+                "unstructured": "A. Chandak, C. Lauterbach, M. Taylor, Z. Ren, and D. Manocha. 2008. Ad-frustum: Adaptive frustum tracing for interactive sound propagation.IEEE Transactions on Visualization and Computer Graphics14, 6 (2008), 1707--1722.",
+                "DOI": "10.1109/TVCG.2008.111",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-19",
+                "unstructured": "G. Cirio, D. Li, E. Grinspun, Mi. A. Otaduy, and C. Zheng. 2016. Crumpling sound synthesis.ACM Transactions on Graphics (TOG)35, 6 (2016), 181."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-20",
+                "unstructured": "R. Clayton and B. Engquist. 1977. Absorbing boundary conditions for acoustic and elastic wave equations.Bulletin of the Seismological Society of America67, 6 (1977), 1529."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-21",
+                "unstructured": "M. Cook. 2015. Pixar, 'The Road to Point Reyes' and the long history of landscape in new visual technologies. (2015).",
+                "DOI": "10.5040/9781501304804.ch-004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-22",
+                "unstructured": "P. R. Cook. 2002. Sound Production and Modeling.IEEE Computer Graphics &#38; Applications22, 4 (July/Aug. 2002), 23--27.",
+                "DOI": "10.1109/MCG.2002.1016695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-23",
+                "unstructured": "R. L. Cook, L. Carpenter, and E. Catmull. 1987. The Reyes Image Rendering Architecture. InProceedings of the 14th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '87).ACM, New York, NY, USA, 95--102.",
+                "DOI": "10.1145/37401.37414",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-24",
+                "unstructured": "M. Ducceschi and C. Touz&#233;. 2015. Modal approach for nonlinear vibrations of damped impacted plates: Application to sound synthesis of gongs and cymbals.Journal of Sound and Vibration344 (2015), 313--331.",
+                "DOI": "10.1016/j.jsv.2015.01.029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-25",
+                "unstructured": "B. Engquist and A. Majda. 1977. Absorbing boundary conditions for numerical simulation of waves.Proceedings of the National Academy of Sciences74, 5 (1977), 1765--1766.",
+                "DOI": "10.1073/pnas.74.5.1765",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-26",
+                "unstructured": "Ronald P Fedkiw, Tariq Aslam, Barry Merriman, and Stanley Osher. 1999. A Non-oscillatory Eulerian Approach to Interfaces in Multimaterial Flows (the Ghost Fluid Method).J. Comput. Phys.152, 2 (1999), 457 -- 492."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-27",
+                "unstructured": "T. Funkhouser, I. Carlbom, G. Elko, G. Pingali, M. Sondhi, and J. West. 1998. A Beam Tracing Approach to Acoustic Modeling for Interactive Virtual Environments. InProceedings of SIGGRAPH 98 (Computer Graphics Proceedings, Annual Conference Series).21--32.",
+                "DOI": "10.1145/280814.280818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-28",
+                "unstructured": "T. A. Funkhouser, P. Min, and I. Carlbom. 1999. Real-Time Acoustic Modeling for Distributed Virtual Environments. InProceedings of SIGGRAPH 99 (Computer Graphics Proceedings, Annual Conference Series).365--374.",
+                "DOI": "10.1145/311535.311590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-29",
+                "unstructured": "W. W. Gaver. 1993. Synthesizing auditory icons. InProceedings of the TNTERACT'93 and CHI'93 conference on Human factors in computing systems.ACM, 228--235.",
+                "DOI": "10.1145/169059.169184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-30",
+                "unstructured": "Y. I. Gingold, A. Secord, J. Y. Han, E. Grinspun, and D. Zorin. 2004. A Discrete Model for Inelastic Deformation of Thin Shells."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-31",
+                "unstructured": "G. Guennebaud, B.Jacob, et al. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-32",
+                "unstructured": "Jon H&#228;ggblad and Bj&#246;rn Engquist. 2012. Consistent modeling of boundaries in acoustic finite-difference Time-domain simulations.Journal of the Acoustical Society of America132 (2012).",
+                "DOI": "10.1121/1.4740490",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-33",
+                "unstructured": "P. S. Heckbert. 1987. Ray tracing Jell-O brand gelatin. InACM SIGGRAPH Computer Graphics, Vol. 21. ACM, 73--74.",
+                "DOI": "10.1145/37401.37411",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-34",
+                "unstructured": "A. Jacobson, D. Panozzo, et al. 2017. libigl: A simple C++ geometry processing library. (2017). http://libigl.github.io/libigl/."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-35",
+                "unstructured": "D. L. James, J. Barbie, and D. K. Pai. 2006. Precomputed Acoustic Transfer: Output-sensitive, accurate sound generation for geometrically complex vibration sources.ACM Transactions on Graphics25, 3 (July 2006), 987--995.",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-36",
+                "unstructured": "D. L. James and D. K. Pai. 2002. DyRT: Dynamic Response Textures for Real Time Deformation Simulation with Graphics Hardware.ACM Trans. Graph.21, 3 (July 2002), 582--585.",
+                "DOI": "10.1145/566654.566621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-37",
+                "unstructured": "M. Kleiner, B.-I. Dalenb&#228;ck, and P. Svensson. 1993. Auralization-An Overview.J. Audio Engineering Society41 (1993), 861--861. Issue 11."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-38",
+                "unstructured": "D. Komatitsch, G. Erlebacher, D. G&#246;ddeke, and D. Mich&#233;a. 2010. High-order finite-element seismic wave propagation modeling with MPI on a large GPU cluster.Journal of computational physics229, 20 (2010), 7692--7714.",
+                "DOI": "10.1016/j.jcp.2010.06.024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-39",
+                "unstructured": "T. R. Langlois, S. S. An, K. K. Jin, and D. L. James. 2014. Eigenmode Compression for Modal Sound Models.ACM Trans. Graph.33, 4, Article 40 (July 2014), 9 pages.",
+                "DOI": "10.1145/2601097.2601177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-40",
+                "unstructured": "T. R Langlois and D. L James. 2014. Inverse-foley animation: Synchronizing rigid-body motions to sound.ACM Transactions on Graphics (TOG)33, 4 (2014), 41.",
+                "DOI": "10.1145/2601097.2601178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-41",
+                "unstructured": "T. R. Langlois, C. Zheng, and D. L. James. 2016. Toward Animating Water with Complex Acoustic Bubbles.ACM Trans. Graph.35, 4, Article 95 (July 2016), 13 pages.",
+                "DOI": "10.1145/2897824.2925904",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-42",
+                "unstructured": "S. Larsson and V Thom&#233;e. 2009.Partial Differential Equations with Numerical Methods.Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-43",
+                "unstructured": "Q.-H. Liu and J. Tao. 1997. The perfectly matched layer for acoustic waves in absorptive media.The Journal of the Acoustical Society of America102, 4 (1997), 2072--2082.",
+                "DOI": "10.1121/1.419657",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-44",
+                "unstructured": "S. Marburg and B. Nolte. 2008.Computational acoustics of noise propagation in fluids: finite and boundary element methods.Vol. 578. Springer.",
+                "DOI": "10.1007/978-3-540-77448-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-45",
+                "unstructured": "R. Mehra, N. Raghuvanshi, L. Antani, A. Chandak, S. Curtis, and D. Manocha. 2013. Wave-based sound propagation in large open scenes using an equivalent source formulation.ACM Transactions on Graphics (TOG)32, 2 (2013), 19."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-46",
+                "unstructured": "R. Mehra, N. Raghuvanshi, L. Savioja, M. C. Lin, and D. Manocha. 2012. An efficient GPU-based time domain solver for the acoustic wave equation.Applied Acoustics73, 2(2012), 83--94.",
+                "DOI": "10.1016/j.apacoust.2011.05.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-47",
+                "unstructured": "A. Meshram, R. Mehra, H. Yang, E. Dunn, J.-M. Frahm, and D. Manochak. 2014. P-hrtf: Efficient personalized hrtf computation for high-fidelity spatial sound.Mixed and Augmented Reality (ISMAR), 2014 IEEE International Symposium on(2014).",
+                "DOI": "10.1109/ISMAR.2014.6948409",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-48",
+                "unstructured": "P. Micikevicius. 2009. 3D Finite Difference Computation on GPUs Using CUDA. InProceedings of 2Nd Workshop on General Purpose Processing on Graphics Processing Units (GPGPU-2).ACM, New York, NY, USA, 79--84."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-49",
+                "unstructured": "M. Minnaert. 1933. XVI. On musical air-bubbles and the sounds of running water.The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science16, 104 (1933), 235--248."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-50",
+                "unstructured": "R. Mittal, H. Dong, M. Bozkurttas, F. M. Najjar, A. Vargas, and A. Loebbecke. 2008. A versatile sharp interface immersed boundary method for incompressible flows with complex boundaries.J. Comput. Phys.227 (2008).",
+                "DOI": "10.1016/j.jcp.2008.01.028",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-51",
+                "unstructured": "R. Mittal and G. Iaccarino. 2005. Immersed Boundary Methods.Annual Review of Fluid Mechanics37 (2005).",
+                "DOI": "10.1146/annurev.fluid.37.061903.175743",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-52",
+                "unstructured": "P. Morse and K. U. Ingard. 1968.Theoretical Acoustics.Princeton University Press, Princeton, New Jersey."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-53",
+                "unstructured": "W. Moss, H. Yeh, J.-M. Hong, M. C. Lin, and D. Manocha. 2010. Sounding Liquids: Automatic Sound Synthesis from Fluid Simulation.ACM Trans. Graph.29, 3 (2010).",
+                "DOI": "10.1145/1805964.1805965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-54",
+                "unstructured": "J. F. O'Brien, P. R. Cook, and G. Essl. 2001. Synthesizing Sounds From Physically Based Motion. InProceedings of SIGGRAPH 2001.529--536.",
+                "DOI": "10.1145/945191.945250",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-55",
+                "unstructured": "J. F. O'Brien, C. Shen, and C. M. Gatchalian. 2002. Synthesizing sounds from rigid-body simulations. InThe ACM SIGGRAPH 2002 Symposium on Computer Animation.ACM Press, 175--181.",
+                "DOI": "10.1145/545261.545290",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-56",
+                "unstructured": "C. S. Peskin. 1981. The fluid dynamics of heart valves: experimental, theoretical and computational methods.Annual Review of Fluid Mechanics14 (1981).",
+                "DOI": "10.1146/annurev.fl.14.010182.001315",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-57",
+                "unstructured": "N. Raghuvanshi, R. Narain, and M. C. Lin. 2009. Efficient and Accurate Sound Propagation Using Adaptive Rectangular Decomposition.IEEE Trans. Vis. Comput. Graph.15, 5 (2009), 789--801.",
+                "DOI": "10.1109/TVCG.2009.28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-58",
+                "unstructured": "N. Raghuvanshi and J. Snyder. 2014. Parametric wave field coding for precomputed sound propagation.ACM Transactions on Graphics (TOG)33, 4 (2014), 38."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-59",
+                "unstructured": "J. Saarelma, J. Botts, B. Hamilton, and L. Savioja. 2016. Audibility of dispersion error in room acoustic finite-difference time-domain simulation as a function of simulation distance.The Journal of the Acoustical Society of America139, 4 (2016), 1822--1832.",
+                "DOI": "10.1121/1.4945746",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-60",
+                "unstructured": "C. Schissler, R. Mehra, and D. Manocha. 2014. High-order diffraction and diffuse reflections for interactive sound propagation in large environments.ACM Transactions on Graphics (TOG)33, 4 (2014), 39."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-61",
+                "unstructured": "C. Schreck, D. Rohmer, D. James, S. Hahmann, and M.-P. Cani. 2016. Real-time sound synthesis for paper material based on geometric analysis. InEurographics/ACM SIGGRAPH Symposium on Computer Animation (2016)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-62",
+                "unstructured": "E. Schweickart, D. L. James, and S. Marschner. 2017. Animating Elastic Rods with Sound.ACM Transactions on Graphics36, 4 (July 2017).",
+                "DOI": "10.1145/3072959.3073680",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-63",
+                "unstructured": "A. A. Shabana. 2012.Theory of Vibration: An Introduction.Springer Science &#38; Business Media."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-64",
+                "unstructured": "A. A. Shabana. 2013.Dynamics of multibody systems.Cambridge university press.",
+                "DOI": "10.1017/CBO9781107337213",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-65",
+                "unstructured": "Side Effects. 2018. Houdini Engine. (2018). http://www.sidefx.com."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-66",
+                "unstructured": "J. O. Smith. 1992. Physical modeling using digital waveguides.Computer music journal16, 4 (1992), 74--91.",
+                "DOI": "10.2307/3680470",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-67",
+                "unstructured": "A. Taflove and S. C. Hagness. 2005.Computational Electrodynamics: The Finite-Difference Time-Domain Method.Artech House.",
+                "DOI": "10.1002/0471654507.eme123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-68",
+                "unstructured": "T. Takala and J. Hahn. 1992. Sound rendering. InComputer Graphics (Proceedings of SIGGRAPH 92).211--220.",
+                "DOI": "10.1145/133994.134063",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-69",
+                "unstructured": "J. G. Tolan and J. B. Schneider. 2003. Locally conformal method for acoustic finite-difference time-domain modeling of rigid surfaces.Journal of the Acoustical Society of America114 (2003).",
+                "DOI": "10.1121/1.1616576",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-70",
+                "unstructured": "N. Tsingos, T. Funkhouser, A. Ngan, and I. Carlbom. 2001. Modeling acoustics in virtual environments using the uniform theory of diffraction. InSIGGRAPH '01: Proceedings of the 28th annual conference on Computer graphics and interactive techniques.ACM, New York, NY, USA, 545--552.",
+                "DOI": "10.1145/383259.383323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-71",
+                "unstructured": "K. van den Doel. 2005. Physically Based Models for Liquid Sounds.ACM Trans. Appl. Percept.2, 4 (Oct. 2005), 534--546.",
+                "DOI": "10.1145/1101530.1101554",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-72",
+                "unstructured": "K. van den Doel, P. G. Kry, and D. K. Pai. 2001. FoleyAutomatic: Physically-based Sound Effects for Interactive Simulation and Animation. (2001), 537--544.",
+                "DOI": "10.1145/383259.383322",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-73",
+                "unstructured": "K. van den Doel and D. K. Pai. 1998. The sounds of physical shapes.Presence: Teleoperators and Virtual Environments7, 4 (1998), 382--395.",
+                "DOI": "10.1162/105474698565794",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-74",
+                "unstructured": "M. Vorl&#228;nder. 2008. Auralization.Aachen: Springer(2008)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-75",
+                "unstructured": "C.J. Webb. 2014.Parallel computation techniques for virtual acoustics and physical modelling synthesis.Ph.D. Dissertation."
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-76",
+                "unstructured": "C. J. Webb and S. Bilbao. 2011. Computing room acoustics with CUDA - 3D FDTD schemes with boundary losses and viscosity.2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2011), 317--320.",
+                "DOI": "10.1109/ICASSP.2011.5946404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-77",
+                "unstructured": "H. Yeh, R. Mehra, Z. Ren, L. Antani, D. Manocha, and M. Lin. 2013. Wave-ray Coupling for Interactive Sound Propagation in Large Complex Scenes.ACM Trans. Graph.32, 6, Article 165 (Nov. 2013), 11 pages.",
+                "DOI": "10.1145/2508363.2508420",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-78",
+                "unstructured": "C. Zheng and D. L. James. 2009. Harmonic Fluids.ACM Transactions on Graphics (SIGGRAPH 2009)28, 3 (Aug. 2009).",
+                "DOI": "10.1145/1531326.1531343",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-79",
+                "unstructured": "C. Zheng and D. L. James. 2010. Rigid-Body Fracture Sound with Precomputed Sound-banks.ACM Transactions on Graphics (SIGGRAPH 2010)29, 3 (July 2010).",
+                "DOI": "10.1145/1833349.1778806",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201318-80",
+                "unstructured": "C. Zheng and D. L. James. 2011. Toward High-Quality Modal Contact Sound.ACM Transactions on Graphics (Proceedings of SIGGRAPH 2011)30, 4 (Aug. 2011).",
+                "DOI": "10.1145/1964921.1964933",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201318&ftid=1991598&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:55:08Z",
+            "timestamp": 1571673308000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 80,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201318",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

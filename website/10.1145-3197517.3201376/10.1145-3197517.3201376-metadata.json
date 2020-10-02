@@ -1,0 +1,546 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:14Z",
+            "timestamp": 1574859854155
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003422",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Baseline Funding"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "715767"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201376",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Computational design of nanostructural color for additive manufacturing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Auzinger",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Institute of Science and Technology Austria, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Kingdom of Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institute of Science and Technology Austria, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201376-1",
+                "unstructured": "Carlos I. Aguirre, Edilso Reguera, and Andreas Stein. 2010. Colloidal Photonic Crystal Pigments with Low Angle Dependence.ACS Applied Materials &#38; Interfaces2, 11 (nov 2010), 3257--3262.",
+                "DOI": "10.1021/am100704f",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-2",
+                "unstructured": "Jacob Andkj&#230;r, Villads Egede Johansen, Kasper Storgaard Friis, and Ole Sigmund. 2013. Inverse design of nanostructured surfaces for color effects.Journal of the Optical Society of America B31, 1 (dec 2013), 164."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-3",
+                "unstructured": "Vahid Babaei, Kiril Vidim&#269;e, Michael Foshey, Alexandre Kaspar, Piotr Didyk, and Wojciech Matusik. 2017. Color contoning for 3D printing.ACM Transactions on Graphics36, 4 (jul 2017), 1--15.",
+                "DOI": "10.1145/3072959.3073605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-4",
+                "unstructured": "Anton A. Bauhofer, Sebastian Kr&#246;del, Jan Rys, Osama R. Bilal, Andrei Constantinescu, and Chiara Daraio. 2017. Harnessing Photochemical Shrinkage in Direct Laser Writing for Shape Morphing of Polymer Sheets.Advanced Materials29, 42 (sep 2017), 1703024."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-5",
+                "unstructured": "Ferm&#237;n S. V. Baz&#225;n. 2000. Conditioning of Rectangular Vandermonde Matrices with Nodes in the Unit Disk.SIAM J. Matrix Anal. Appl.21, 2 (jan 2000), 679--693.",
+                "DOI": "10.1137/S0895479898336021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-6",
+                "unstructured": "Laurent Belcour and Pascal Barla. 2017. A practical extension to microfacet theory for the modeling of varying iridescence.ACM Transactions on Graphics36, 4 (jul 2017), 1--14.",
+                "DOI": "10.1145/3072959.2990495",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-7",
+                "unstructured": "Jean-Pierre Berenger. 1994. A perfectly matched layer for the absorption of electromagnetic waves.J. Comput. Phys.114, 2 (oct 1994), 185--200.",
+                "DOI": "10.1006/jcph.1994.1159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-8",
+                "unstructured": "Amit H. Bermano, Thomas Funkhouser, and Szymon Rusinkiewicz. 2017. State of the Art in Methods and Representations for Fabrication-Aware Design.Computer Graphics Forum36, 2 (may 2017), 509--535.",
+                "DOI": "10.1111/cgf.13146",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-9",
+                "unstructured": "Alan Brunton, Can Ates Arikan, and Philipp Urban. 2015. Pushing the Limits of 3D Color Printing: Error Diffusion with Translucent Materials.ACM Transactions on Graphics35, 1 (dec 2015), 1--13.",
+                "DOI": "10.1145/2832905",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-10",
+                "unstructured": "Ian B. Burgess, Marko Lon&#269;ar, and Joanna Aizenberg. 2013. Structural colour in colourimetric sensors and indicators.Journal of Materials Chemistry C1, 38 (2013), 6075."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-11",
+                "unstructured": "Richard H. Byrd, Peihuang Lu, Jorge Nocedal, and Ciyou Zhu. 1995. A Limited Memory Algorithm for Bound Constrained Optimization.SIAM Journal on Scientific Computing16, 5 (sep 1995), 1190--1208.",
+                "DOI": "10.1137/0916069",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-12",
+                "unstructured": "Jennefir Digaum. 2016.Fabrication and Characterization of Spatially-Variant Self-Collimating Photonic Crystals.phdthesis. University of Central Florida. http://purl.fcla.edu/fcla/etd/CFE0006527"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-13",
+                "unstructured": "Yue Dong, Jiaping Wang, Fabio Pellacini, Xin Tong, and Baining Guo. 2010. Fabricating spatially-varying subsurface scattering.ACM Transactions on Graphics29, 4 (jul 2010), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-14",
+                "unstructured": "Oskar Elek, Denis Sumin, Ran Zhang, Tim Weyrich, Karol Myszkowski, Bernd Bickel, Alexander Wilkie, and Jaroslav K&#345;iv&#225;nek. 2017. Scattering-aware texture reproduction for 3D printing.ACM Transactions on Graphics36, 6 (nov 2017), 1--15.",
+                "DOI": "10.1145/3130800.3130890",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-15",
+                "unstructured": "Moritz Emons, Kotaro Obata, Thomas Binhammer, Aleksandr Ovsianikov, Boris N. Chichkov, and Uwe Morgner. 2012. Two-photon polymerization technique with sub-50 nm resolution by sub-10 fs laser pulses.Optical Materials Express2, 7 (jun 2012), 942."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-16",
+                "unstructured": "Grant T England and Joanna Aizenberg. 2017. Emerging optical properties from the combination of simple optical effects.Reports on Progress in Physics81, 1 (nov 2017), 016402."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-17",
+                "unstructured": "A. Farjadpour, David Roundy, Alejandro Rodriguez, M. Ibanescu, Peter Bermel, J. D. Joannopoulos, Steven G.Johnson, and G. W. Burr. 2006. Improving accuracy by subpixel smoothing in the finite-difference time domain.Optics Letters31, 20 (sep 2006), 2972."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-18",
+                "unstructured": "Yulan Fu, Cary A. Tippets, Eugenii U. Donev, and Rene Lopez. 2016. Structural colors: from natural to artificial systems.Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology8, 5 (mar 2016), 758--775.",
+                "DOI": "10.1002/wnan.1396",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-19",
+                "unstructured": "Henning Galinski, Gael Favraud, Hao Dong, Juan S Totero Gongora, Gr&#233;gory Favaro, Max D&#246;beli, Ralph Spolenak, Andrea Fratalocchi, and Federico Capasso. 2016. Scalable, ultra-resistant structural colors based on network metamaterials.Light: Science &#38; Applications6, 5 (sep 2016), e16233."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-20",
+                "unstructured": "Helen Ghiradella. 1991. Light and color on the wing: structural colors in butterflies and moths.Applied Optics30, 24 (aug 1991), 3492."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-21",
+                "unstructured": "Walton C. Gibson. 2014.The Method of Moments in Electromagnetics(2 ed.). Chapman and Hall/CRC, Boca Raton, FL.",
+                "DOI": "10.1201/b17119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-22",
+                "unstructured": "Ming Gu and Stanley C. Eisenstat. 1996. Efficient Algorithms for Computing a Strong Rank-Revealing QR Factorization.SIAM Journal on Scientific Computing17, 4 (jul 1996), 848--869.",
+                "DOI": "10.1137/0917055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-23",
+                "unstructured": "X. Wendy Gu and Julia. R. Greer. 2015. Ultra-strong architected Cu meso-lattices.Extreme Mechanics Letters2 (mar 2015), 7--14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-24",
+                "unstructured": "M G Guney and G K Fedder. 2016. Estimation of line dimensions in 3D direct laser writing lithography.Journal of Micromechanics and Microengineering26, 105011 (sep 2016), 10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-25",
+                "unstructured": "Milo&#353; Ha&#353;an, Martin Fuchs, Wojciech Matusik, Hanspeter Pfister, and Szymon Rusinkiewicz. 2010. Physical reproduction of materials with specified subsurface scattering.ACM Transactions on Graphics29, 4 (jul 2010), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-26",
+                "unstructured": "Nicolas Holzschuch and Romain Pacanowski. 2017. A two-scale microfacet reflectance model combining reflection and diffraction.ACM Transactions on Graphics36, 4 (jul 2017), 1--12.",
+                "DOI": "10.1145/3072959.3073621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-27",
+                "unstructured": "Chia Wei Hsu, Owen D. Miller, Steven G. Johnson, and Marin Solja&#269;i&#263;. 2015. Optimization of sharp and viewing-angle-independent structural color.Optics Express23, 7 (apr 2015), 9516."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-28",
+                "unstructured": "Matthias B. Hullin, Ivo Ihrke, Wolfgang Heidrich, Tim Weyrich, Gerwin Damberg, and Martin Fuchs. 2013. Computational Fabrication and Display of Material Appearance. InEurographics 2013 - State of the Art Reports, M. Sbert and L. Szirmay-Kalos (Eds.). The Eurographics Association, 1--17."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-29",
+                "unstructured": "Jian-Ming Jin. 2014.The Finite Element Method in Electromagnetics(3 ed.). John Wiley &#38; Sons, New York."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-30",
+                "unstructured": "Villads Egede Johansen. 2014. Optical role of randomness for structured surfaces.Applied Optics53, 11 (apr 2014), 2405."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-31",
+                "unstructured": "Villads Egede Johansen, Jacob Andkj&#230;r, and Ole Sigmund. 2014. Design of structurally colored surfaces based on scalar diffraction theory.Journal of the Optical Society of America B31, 2 (jan 2014), 207."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-32",
+                "unstructured": "Villads Egede Johansen, Lasse H&#248;jlund Thamdrup, Kristian Smistrup, Theodor Nielsen, Ole Sigmund, and Peter Vukusic. 2015. Designing visual appearance using a structured surface.Optica2, 3 (mar 2015), 239."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-33",
+                "unstructured": "Steven G. Johnson, M. Ibanescu, M. A. Skorobogatiy, O. Weisberg, J. D. Joannopoulos, and Y. Fink. 2002. Perturbation theory for Maxwell's equations with shifting material boundaries.Physical Review E65, 6 (jun 2002), 7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-34",
+                "unstructured": "Eric Jones, Travis Oliphant, Pearu Peterson, et al. 2001--. SciPy: Open source scientific tools for Python. (2001--). http://www.scipy.org/ [Online; accessed 01.01.2018]."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-35",
+                "unstructured": "S Kinoshita, S Yoshioka, and J Miyazaki. 2008. Physics of structural colors.Reports on Progress in Physics71, 7 (jun 2008), 076401."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-36",
+                "unstructured": "Karthik Kumar, Huigao Duan, Ravi S. Hegde, Samuel C. W. Koh, Jennifer N. Wei, and Joel K. W. Yang. 2012. Printing colour at the optical diffraction limit.Nature Nanotechnology7, 9 (aug 2012), 557--561.",
+                "DOI": "10.1038/nnano.2012.128",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-37",
+                "unstructured": "Yanxiang Lan, Yue Dong, Fabio Pellacini, and Xin Tong. 2013. Bi-scale appearance fabrication.ACM Transactions on Graphics32, 4 (jul 2013), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-38",
+                "unstructured": "Hye Soo Lee, Tae Soup Shim, Hyerim Hwang, Seung-Man Yang, and Shin-Hyun Kim. 2013. Colloidal Photonic Crystals toward Structural Color Palettes for Security Materials.Chemistry of Materials25, 13 (jun 2013), 2684--2690.",
+                "DOI": "10.1021/cm4012603",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-39",
+                "unstructured": "Anat Levin, Daniel Glasner, Ying Xiong, Fr&#233;do Durand, William Freeman, Wojciech Matusik, and Todd Zickler. 2013. Fabricating BRDFs at high spatial resolution using wave optics.ACM Transactions on Graphics32, 4 (jul 2013), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-40",
+                "unstructured": "Jacques Louis Lions. 1971.Optimal Control of Systems Governed by Partial Differential Equations(1 ed.). Grundlehren der mathematischen Wissenschaften, Vol. 170. Springer-Verlag Berlin Heidelberg."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-41",
+                "unstructured": "Wojciech Matusik, Boris Ajdin, Jinwei Gu, Jason Lawrence, Hendrik P. A. Lensch, Fabio Pellacini, and Szymon Rusinkiewicz. 2009. Printing spatially-varying reflectance.ACM Transactions on Graphics28, 5 (dec 2009), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-42",
+                "unstructured": "Mariana Medina-S&#225;nchez, Lukas Schwarz, Anne K. Meyer, Franziska Hebenstreit, and Oliver G. Schmidt. 2015. Cellular Cargo Delivery: Toward Assisted Fertilization by Sperm-Carrying Micromotors.Nano Letters16, 1 (dec 2015), 555--561.",
+                "DOI": "10.1021/acs.nanolett.5b04221",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-43",
+                "unstructured": "Lucas R. Meza, Alex J. Zelhofer, Nigel Clarke, Arturo J. Mateos, Dennis M. Kochmann, and Julia R. Greer. 2015. Resilient 3D hierarchical architected metamaterials.Proceedings of the National Academy of Sciences112, 37 (sep 2015), 11502--11507.",
+                "DOI": "10.1073/pnas.1509120112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-44",
+                "unstructured": "Vygantas Mizeikis. 2014. Realization of Structural Color by Direct Laser Write Technique in Photoresist.Journal of Laser Micro/Nanoengineering9, 1 (mar 2014), 42--45.",
+                "DOI": "10.2961/jlmn.2014.01.0009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-45",
+                "unstructured": "Micha&#322; Nawrot, &#321;ukasz Zinkiewicz, Bart&#322;omiej W&#322;odarczyk, and Piotr Wasylczyk. 2013. Transmission phase gratings fabricated with direct laser writing as color filters in the visible.Optics Express21, 26 (dec 2013), 31919."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-46",
+                "unstructured": "Ardavan F. Oskooi, David Roundy, Mihai Ibanescu, Peter Bermel, J.D. Joannopoulos, and Steven G. Johnson. 2010. Meep: A flexible free-software package for electromagnetic simulations by the FDTD method.Computer Physics Communications181, 3 (mar 2010), 687--702.",
+                "DOI": "10.1016/j.cpc.2009.11.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-47",
+                "unstructured": "Yoh-Han Pao and P. M. Rentzepis. 1965. Laser-Induced Production of Free Radicals in Organic Compounds.Applied Physics Letters6, 5 (mar 1965), 93--95.",
+                "DOI": "10.1063/1.1754182",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-48",
+                "unstructured": "Marios Papas, Christian Regg, Wojciech Jarosz, Bernd Bickel, Philip Jackson, Wojciech Matusik, Steve Marschner, and Markus Gross. 2013. Fabricating translucent materials using continuous pigment mixtures.ACM Transactions on Graphics32, 4 (jul 2013), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-49",
+                "unstructured": "Chul-Soon Park, Vivek Raj Shrestha, Sang-Shin Lee, and Duk-Yong Choi. 2016. Trans-Reflective Color Filters Based on a Phase Compensated Etalon Enabling Adjustable Color Saturation.Scientific Reports6, 1 (may 2016), 10."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-50",
+                "unstructured": "Thiago Pereira, Carolina L. A. Paes Lerne, Steve Marschner, and Szymon Rusinkiewicz. 2017. Printing anisotropic appearance with magnetic flakes.ACM Transactions on Graphics36, 4 (jul 2017), 1--10.",
+                "DOI": "10.1145/3072959.3073701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-51",
+                "unstructured": "Andrew D. Pris, Yogen Utturkar, Cheryl Surman, William G. Morris, Alexey Vert, Sergiy Zalyubovskiy, Tao Deng, Helen T Ghiradella, and Radislav A. Potyrailo. 2012. Towards high-speed imaging of infrared photons with bio-inspired nano architectures.Nature Photonics6, 3 (feb 2012), 195--200.",
+                "DOI": "10.1038/nphoton.2011.355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-52",
+                "unstructured": "Manuela T Raimondi, Shane M. Eaton, Michele M. Nava, Matteo Lagan&#224;, Giulio Cerullo, and Roberto Osellame. 2012. Two-photon laser polymerization: from fundamentals to biomedical application in tissue engineering and regenerative medicine.Journal of Applied Biomaterials &#38; Functional Materials10, 1 (2012), 56--66."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-53",
+                "unstructured": "Louis B. Rall. 1981.Automatic Differentiation: Techniques and Applications.Lecture Notes in Computer Science, Vol. 120. Springer-Verlag Berlin Heidelberg",
+                "DOI": "10.1007/3-540-10861-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-54",
+                "unstructured": "Bahaa E. A. Saleh and Malvin Carl Teich. 2001.Fundamentals of Photonics.John Wiley &#38; Sons, Inc."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-55",
+                "unstructured": "Osamu Sato, Shoichi Kubo, and Zhong-Ze Gu. 2009. Structural Color Films with Lotus Effects, Superhydrophilicity, and Tunable Stop-Bands.Accounts of Chemical Research42, 1 (jan 2009), 1--10.",
+                "DOI": "10.1021/ar700197v",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-56",
+                "unstructured": "Tom D. Schultz and Ola M. Fincke. 2009. Structural colours create a flashing cue for sexual recognition and male quality in a Neotropical giant damselfly.Functional Ecology23, 4 (aug 2009), 724--732.",
+                "DOI": "10.1111/j.1365-2435.2009.01584.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-57",
+                "unstructured": "Bokwang Song, Villads Egede Johansen, Ole Sigmund, and Jung H. Shin. 2017. Reproducing the hierarchy of disorder for Morpho-inspired, broad-angle color reflection.Scientific Reports7 (apr 2017), 46023.",
+                "DOI": "10.1038/srep46023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-58",
+                "unstructured": "Allen Taflove and Susan C Hagness. 2005.Computational electrodynamics: the finite-difference time-domain method(3rd ed.). Artech House.",
+                "DOI": "10.1002/0471654507.eme123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-59",
+                "unstructured": "St&#233;fan van der Walt, S Chris Colbert, and Ga&#235;l Varoquaux. 2011. The NumPy Array: A Structure for Efficient Numerical Computation.Computing in Science &#38; Engineering13, 2 (mar 2011), 22--30.",
+                "DOI": "10.1109/MCSE.2011.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-60",
+                "unstructured": "Emma Vargo. 2017. Finding nanostructures that reproduce colors with adaptive mesh search techniques.Journal of the Optical Society of America B34, 10 (sep 2017), 2250."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-61",
+                "unstructured": "Mark Jayson Villangca, Darwin Palima, Andrew Rafael Bahas, and Jesper Gl&#252;ckstad. 2016. Light-driven micro-tool equipped with a syringe function.Light: Science &#38; Applications5, 9 (apr 2016), e16148--e16148.",
+                "DOI": "10.1038/lsa.2016.148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-62",
+                "unstructured": "Pete Vukusic and J. Roy Sambles. 2003. Photonic structures in biology.Nature424, 6950 (aug 2003), 852--855."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-63",
+                "unstructured": "Sebastian Werner, Zdravko Velinov, Wenzel Jakob, and Matthias B. Hullin. 2017. Scratch iridescence.ACM Transactions on Graphics36, 6 (nov 2017), 1--14.",
+                "DOI": "10.1145/3130800.3130840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-64",
+                "unstructured": "Tim Weyrich, Pieter Peers, Wojciech Matusik, and Szymon Rusinkiewicz. 2009. Fabricating microgeometry for custom surface reflectance.ACM Transactions on Graphics28, 3 (jul 2009), 1."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-65",
+                "unstructured": "W. Wickler. 1965. Mimicry and the Evolution of Animal Communication.Nature208, 5010 (nov 1965), 519--521.",
+                "DOI": "10.1038/208519a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-66",
+                "unstructured": "Wilhelm Wirtinger. 1927. Zur formalen Theorie der Funktionen von mehr komplexen Ver&#228;nderlichen.Math. Ann.97, 1 (dec 1927), 357--375.",
+                "DOI": "10.1007/BF01447872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-67",
+                "unstructured": "Richard Wollhofen, Julia Katzmann, Calin Hrelescu, Jaroslaw Jacak, and Thomas A. Klar. 2013. 120 nm resolution and 55 nm structure size in STED-lithography.Optics Express21, 9 (apr 2013), 10831."
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-68",
+                "unstructured": "Jun Wu, Niels Aage, Sylvain Lefebvre, and Charlie Wang. 2017. Topology Optimization for Computational Fabrication. InEurographics 2017 - Tutorials, Adrien Bousseau and Diego Gutierrez (Eds.). The Eurographics Association"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-69",
+                "unstructured": "Zhengmei Yang, Yanming Zhou, Yiqin Chen, Yasi Wang, Peng Dai, Zhaogang Zhang, and Huigao Duan. 2016. Reflective Color Filters and Monolithic Color Printing Based on Asymmetric Fabry-Perot Cavities Using Nickel as a Broadband Absorber.Advanced Optical Materials4, 8 (may 2016), 1196--1202.",
+                "DOI": "10.1002/adom.201600110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-70",
+                "unstructured": "Guilian Yi and Byeng D. Youn. 2016. A comprehensive survey on topology optimization of phononic crystals.Structural and Multidisciplinary Optimization54, 5 (jun 2016), 1315--1344.",
+                "DOI": "10.1007/s00158-016-1520-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201376-71",
+                "unstructured": "Gordon Zyla, Alexander Kovalev, Evgeny L. Gurevich, Cemal Esen, Andreas Ostendorf, and Stanislav Gorb. 2018. Printing structural colors via direct laser writing. InAdvanced Fabrication Technologies for Micro/Nano Optics and Photonics XI, Georg von Freymann, Winston V. Schoenfeld, and Raymond C. Rumpf (Eds.), Vol. 10544. SPIE, 9.",
+                "DOI": "10.1117/12.2289820",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201376&ftid=1991691&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:59:27Z",
+            "timestamp": 1571673567000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201376",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

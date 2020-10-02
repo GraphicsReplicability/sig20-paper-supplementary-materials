@@ -1,0 +1,594 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:03:51Z",
+            "timestamp": 1574859831432
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201335",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "In the blink of an eye"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Eike",
+                "family": "Langbehn",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Hamburg, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Frank",
+                "family": "Steinicke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hamburg, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Lappe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Muenster, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Gregory F.",
+                "family": "Welch",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Central Florida"
+                    }
+                ]
+            },
+            {
+                "given": "Gerd",
+                "family": "Bruder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Central Florida"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201335-1",
+                "unstructured": "Mahdi Azmandian, Timofey Grechkin, Mark Bolas, and Evan Suma. 2016. Automated Path Prediction for Redirected Walking Using Navigation Meshes. InIEEE Symposium on 3D User Interfaces (3DUI).63--66.",
+                "DOI": "10.1109/3DUI.2016.7460032",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-2",
+                "unstructured": "Mark W. Becker, Harold Pashler, and Stuart M. Anstis. 2000. The Role of Iconic Memory in Change-Detection Tasks.Perception29, 3 (2000), 273--286."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-3",
+                "unstructured": "Benjamin Bolte and Markus Lappe. 2015. Subliminal Reorientation and Repositioning in Immersive Virtual Environments using Saccadic Suppression.IEEE Transactions on Visualization and Computer Graphics (TVCG)21, 4 (2015), 545--552.",
+                "DOI": "10.1109/TVCG.2015.2391851",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-4",
+                "unstructured": "Bruce Bridgeman, Derek Hendry, and Lawrence Stark. 1975. Failure to Detect Displacement of the Visual World During Saccadic Eye Movements.Vision Research15, 6 (1975), 719--722.",
+                "DOI": "10.1016/0042-6989(75)90290-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-5",
+                "unstructured": "Bruce Bridgeman, A. H. C. van der Heijden, and Boris M. Velichkovsky 1994. A Theory of Visual Stability Across Saccadic Eye Movements.Behav. Brain Sci.17 (1994), 247--292.",
+                "DOI": "10.1017/S0140525X00034361",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-6",
+                "unstructured": "Davina Bristow, John-Dylan Haynes, Richard Sylvester, Christopher D. Frith, and Geraint Rees. 2005. Blinking Suppresses the Neural Response to Unchanging Retinal Stimulation.Current Biology15, 14 (2005), 1296--1300.",
+                "DOI": "10.1016/j.cub.2005.06.025",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-7",
+                "unstructured": "Gerd Bruder, Victoria Interrante, Lane Phillips, and Frank Steinicke. 2012a. Redirecting Walking and Driving for Natural Navigation in Immersive Virtual Environments.IEEE Transactions on Visualization and Computer Graphics (TVCG)18, 4 (2012), 538--545.",
+                "DOI": "10.1109/TVCG.2012.55",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-8",
+                "unstructured": "Gerd Bruder, Aandreas Pusch, and Frank Steinicke. 2012b. Analyzing Effects of Geometric Rendering Parameters on Size and Distance Estimation in On-Axis Stereographies. InProceedings of ACM Symposium on Applied Perception (SAP).ACM, 111--118.",
+                "DOI": "10.1145/2338676.2338699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-9",
+                "unstructured": "Gerd Bruder, Frank Steinicke, Benjamin Bolte, Phil Wieland, Harald Frenz, and Markus Lappe. 2013. Exploiting Perceptual Limitations and Illusions to Support Walking Through Virtual Environments in Confined Physical Spaces.Displays34, 2 (2013), 132--141.",
+                "DOI": "10.1016/j.displa.2012.10.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-10",
+                "unstructured": "Michael Collins, Rhonda Seeto, Louella Campbell, and Murray Ross. 1989. Blinking and Corneal Sensitivity.Acta ophthalmologica67, 5 (1989), 525--531.",
+                "DOI": "10.1111/j.1755-3768.1989.tb04103.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-11",
+                "unstructured": "Max Coltheart. 1980. Iconic Memory and Visible Persistence.Perception &#38; Psychophysics27, 3 (1980), 183--228.",
+                "DOI": "10.3758/BF03204258",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-12",
+                "unstructured": "Mark S. Dennison, A. Zachary Wisti, and Michael D&#226;&#258;&Zacute;Zmura. 2016. Use of Physiological Signals to Predict Cybersickness.Displays44 (2016), 42--52.",
+                "DOI": "10.1016/j.displa.2016.07.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-13",
+                "unstructured": "AO Dick. 1974. Iconic Memory and its Relation to Perceptual Processing and Other Memory Mechanisms.Attention, Perception, &#38; Psychophysics16, 3 (1974), 575--596.",
+                "DOI": "10.3758/BF03198590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-14",
+                "unstructured": "Michael J. Doughty. 2002. Further Assessment of Gender-and Blink Pattern-related Differences in the Spontaneous Eyeblink Activity in Primary Gaze in Young Adult Humans.Optometry &#38; Vision Science79, 7 (2002), 439--447.",
+                "DOI": "10.1097/00006324-200207000-00013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-15",
+                "unstructured": "&#193;ngel Esteban, Alfredo Traba, and Julio Prieto. 2004. Eyelid Movements in Health and Disease. The Supranuclear Impairment of the Palpebral Motility.Neurophysiologie CUnique/Clinical Neurophysiology34, 1 (2004), 3--15.",
+                "DOI": "10.1016/j.neucli.2004.01.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-16",
+                "unstructured": "Craig Evinger, Karen A. Manning, John J. Pellegrini, Michele A. Basso, Alice S. Powers, and Patrick A. Sibony. 1994. Not Looking While Leaping: The Linkage of Blinking and Saccadic Gaze Shifts.Experimental Brain Research100, 2 (1994), 337--344.",
+                "DOI": "10.1007/BF00227203",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-17",
+                "unstructured": "Craig Evinger, MD Shaw, CK Peck, KA Manning, and R Baker. 1984. Blinking and Associated Eye Movements in Humans, Guinea Pigs, and Rabbits.Journal of Neuro-physiology52, 2 (1984), 323--339."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-18",
+                "unstructured": "Janet Fitzakerley 2015. Eyelid Movements. http://www.d-umn.edu/~jfitzake/Lectures/DMED/Vision/Optics/Blinking.html. [Online; accessed 28-Feb-2017]."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-19",
+                "unstructured": "Anatoly M. Fonarev. 1961. A Vestibulo-Palpebral Reflex.Bulletin of Experimental Biology and Medicine50, 6 (01 Jun 1961), 1249--1251.",
+                "DOI": "10.1007/BF00785378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-20",
+                "unstructured": "Timofey Grechkin, Jerald Thomas, Mahdi Azmandian, Mark Bolas, and Evan Suma. 2016. Revisiting Detection Thresholds for Redirected Walking: Combining Translation and Curvature Gains. InProceedings of ACM Symposium on Applied Perception (SAP).113--120.",
+                "DOI": "10.1145/2931002.2931018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-21",
+                "unstructured": "Helin&#228; H&#228;kk&#228;nen, Heikki Summala, Markku Partinen, Mikko Tiihonen, and Jouni Silvo. 1999. Blink Duration as an Indicator of Driver Sleepiness in Professional Bus Drivers.Sleep22, 6 (1999), 798--802.",
+                "DOI": "10.1093/sleep/22.6.798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-22",
+                "unstructured": "Arthur Hall. 1945. The Origin and Purposes of Blinking.The British Journal of Ophthalmology29, 9 (1945), 445."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-23",
+                "unstructured": "Eric Hodgson, Eric Bachmann, and Tyler Thrash. 2014. Performance of Redirected Walking Algorithms in a Constrained Virtual World.IEEE transactions on visualization and computer graphics (TVCG)20, 4 (2014), 579--587."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-24",
+                "unstructured": "Victoria Ivleva. 2016.Redirected Walking in Virtual Reality during Eye Blinking.Master's thesis. University of Bremen."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-25",
+                "unstructured": "Murray Johns, Kate Crowley, Robert Chapman, Andrew Tucker, and Christopher Hocking. 2009. The Effect of Blinks and Saccadic Eye Movements on Visual Reaction Times.Attention, Perception, &#38; Psychophysics71, 4 (2009), 783--788.",
+                "DOI": "10.3758/APP.71.4.783",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-26",
+                "unstructured": "Robert S. Kennedy, Norman E. Lane, Kevin S. Berbaum, and Michael G. Lilienthal. 1993. Simulator Sickness Questionnaire: An Enhanced Method for Quantifying Simulator Sickness.The International Journal of Aviation Psychology3, 3 (1993), 203--220.",
+                "DOI": "10.1207/s15327108ijap0303_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-27",
+                "unstructured": "J. Kevin O'Regan, Heiner Deubel, James J. Clark, and Ronald A. Rensink. 2000. Picture Changes during Blinks: Looking Without Seeing and Seeing Without Looking.Visual Cognition 7, 1-3 (2000), 191--211.",
+                "DOI": "10.1080/135062800394766",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-28",
+                "unstructured": "Eike Langbehn, Paul Lubos, Gerd Bruder, and Frank Steinicke. 2017. Bending the Curve: Sensitivity to Bending of Curved Paths and Application in Room-Scale VR.IEEE Transactions on Visualization and Computer Graphics (TVCG)(2017), 1389--1398.",
+                "DOI": "10.1109/TVCG.2017.2657220",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-29",
+                "unstructured": "Eike Langbehn and Frank Steinicke. 2018.Redirected Walking in Virtual Reality.Springer International Publishing.",
+                "DOI": "10.1007/978-3-319-08234-9_253-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-30",
+                "unstructured": "Joseph J. LaViola Jr. 2000. A Discussion of Cybersickness in Virtual Environments.ACM SIGCHI Bulletin32, 1 (2000), 47--56.",
+                "DOI": "10.1145/333329.333344",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-31",
+                "unstructured": "R. John Leigh and David S. Zee. 2006. The Neurology of Eye Movements, edition 4 (contemporary neurology series)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-32",
+                "unstructured": "Daniel T. Levin, Sarah B. Drivdahl, Nausheen Momen, and Melissa R. Beck. 2002. False Predictions About the Detectability of Visual Changes: The Role of Beliefs About Attention, Memory, and the Continuity of Attended Objects in Causing Change Blindness Blindness.Consciousness and Cognition11, 4 (2002), 507--527.",
+                "DOI": "10.1016/S1053-8100(02)00020-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-33",
+                "unstructured": "Daniel T. Levin, Nausheen Momen, Sarah B. Drivdahl IV, and Daniel J. Simons. 2000. Change Blindness Blindness: The Metacognitive Error of Overestimating Change-Detection Ability.Visual Cognition 7, 1-3 (2000), 397--412.",
+                "DOI": "10.1080/135062800394865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-34",
+                "unstructured": "Keigo Matsumoto, Yuki Ban, Takuji Narumi, Yohei Yanase, Tomohiro Tanikawa, and Michitaka Hirose. 2016. Unlimited Corridor: Redirected Walking Techniques Using Visuo Haptic Interaction. InACM SIGGRAPH Emerging Technologies.20.",
+                "DOI": "10.1145/2929464.2929482",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-35",
+                "unstructured": "Betty J. Mohler, Jennifer L. Campos, M.B. Weyel, and Heinrich H. B&#252;lthoff. 2007. Gait Parameters While Walking in a Head-Mounted Display Virtual Environment and the Real World. InProceedings of Eurographics Symposium on Virtual Environments.85--88."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-36",
+                "unstructured": "Robert A. Moses. 1981.Adler's Physiology of the Eye.Mosby."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-37",
+                "unstructured": "Thomas Nescher, Ying-Yin Huang, and Andreas Kunz. 2014. Planning Redirection Techniques for Optimal Free Walking Experience Using Model Predictive Control. InIEEE Symposium on 3D User Interfaces (3DUI).",
+                "DOI": "10.1109/3DUI.2014.6798851",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-38",
+                "unstructured": "Christian T. Neth, Jan L. Souman, David Engel, Uwe Kloos, Heinrich H. Bulfhoff, and Betty J. Mohler. 2012. Velocity-Dependent Dynamic Curvature Gain for Redirected Walking.IEEE Transactions on Visualization and Computer Graphics (TVCG)18, 7 (2012), 1041--1052.",
+                "DOI": "10.1109/TVCG.2011.275",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-39",
+                "unstructured": "Lasse T. Nielsen, Matias B. M&#248;ller, Sune D. Hartmeyer, Troels C. M. Ljung, Niels C. Nilsson, Rolf Nordahl, and Stefania Serafin. 2016. Missing the Point: An Exploration of How to Guide Users' Attention During Cinematic Virtual Reality. InProceedings of ACM Virtual Reality Software and Technology (VRST) (VRST '16).ACM, New York, NY, USA, 229--232.",
+                "DOI": "10.1145/2993369.2993405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-40",
+                "unstructured": "Matthias Niemeier, J. Douglas Crawford, and Douglas B. Tweed. 2003. Optimal Transsaccadic Integration Explains Distorted Spatial Perception.Nature422, 6927 (2003), 76--80.",
+                "DOI": "10.1038/nature01439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-41",
+                "unstructured": "Niels Nilsson, Tabitha Peck, Gerd Bruder, Eric Hodgson, Stefania Serafin, Evan Suma, Mary Whitton, and Frank Steinicke. 2018. 15 Years of Research on Redirected Walking in Immersive Virtual Environments.IEEE Computer Graphics and ApplicationsPP, 99(2018), 1--1.",
+                "DOI": "10.1109/MCG.2018.111125628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-42",
+                "unstructured": "S. Patel, Ross Henderson, L. Bradley, B. Galloway, and L. Hunter. 1991. Effect of Visual Display Unit Use on Blink Rate and Tear Stability.Optometry &#38; Vision Science68, 11 (1991), 888--892.",
+                "DOI": "10.1097/00006324-199111000-00010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-43",
+                "unstructured": "Marjan Persuh, Boris Genzer, and Robert D. Melara. 2012. Iconic Memory Requires Attention.Frontiers in Human Neuroscience6 (2012).",
+                "DOI": "10.3389/fnhum.2012.00126",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-44",
+                "unstructured": "Daniel Ramot. 2008. Average Duration of a Single Eye Blink, http://bionumbers.hms.harvard.edu/bionumber.aspx?s=y&id=100706&ver=0. &ver=0. [Online; accessed 28-Feb-2017]."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-45",
+                "unstructured": "Sharif Razzaque. 2005.Redirected Walking.Ph.D. Dissertation. University of North Carolina, Chapel Hill."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-46",
+                "unstructured": "Sharif Razzaque, Zachariah Kohn, and Mary Whitton. 2001. Redirected Walking. InProceedings of Eurographics.ACM, 289--294."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-47",
+                "unstructured": "UCL Media Relations. 2006. Blink and You Miss It! http://www.ucl.ac.uk/media/library/blinking. [Online; accessed 28-Feb-2017]. Ronald A. Rensink. 2002. Change Detection.Annual Review of Psychology53 (2002), 245--277."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-48",
+                "unstructured": "Ronald A Rensink, J. Kevin O'Regan, and James J. Clark. 2000. On the Failure to Detect Changes in Scenes Across Brief Interruptions.Visual Cognition7, 1-3 (2000), 127--145."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-49",
+                "unstructured": "Ronald A. Rensink, J. Kevin O'Regan, and James J. Clark. 1997. To See or Not to See: The Need for Attention to Perceive Changes in Scenes.Psychological Science8, 5 (1997), 368--373.",
+                "DOI": "10.1111/j.1467-9280.1997.tb00427.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-50",
+                "unstructured": "Sylvia Rothe, Heinrich Hussmann, and Mathias Allary. 2017. Diegetic Cues for Guiding the Viewer in Cinematic Virtual Reality. InProceedings of ACM Virtual Reality Software and Technology (VRST) (VRST '17).ACM, New York, NY, USA, Article 54, 2 pages.",
+                "DOI": "10.1145/3139131.3143421",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-51",
+                "unstructured": "Chiarella Sforza, Mario Rango, Domenico Galante, Nereo Bresolin, and Virgilio F. Ferrario. 2008. Spontaneous Blinking in Healthy Persons: an Optoelectronic Study of Eyelid Motion.Ophthalmic and Physiological Optics28, 4 (2008), 345--353.",
+                "DOI": "10.1111/j.1475-1313.2008.00577.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-52",
+                "unstructured": "Daniel J. Simons and Daniel T. Levin. 1997. Change Blindness.Trends in Cognitive Sciences1, 7 (1997), 261--267.",
+                "DOI": "10.1016/S1364-6613(97)01080-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-53",
+                "unstructured": "Daniel J. Simons and Daniel T. Levin. 1998. Failure to Detect Changes to People During a Real-World Interaction.Psychonomic Bulletin and Review5 (1998), 644--649.",
+                "DOI": "10.3758/BF03208840",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-54",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Klaus Hinrichs, and Anthony Steed. 2009. Presence-enhancing Real Walking User Interface for First-Person Video Games. InProceedings of ACM SIGGRAPH Symposium on Video Games.111--118.",
+                "DOI": "10.1145/1581073.1581091",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-55",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Klaus Hinrichs, and Pete Willemsen. 2010a. Change Blindness Phenomena for Stereoscopic Projection Systems. InProceedings of IEEE Virtual Reality (VR).187--194.",
+                "DOI": "10.1109/VR.2010.5444790",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-56",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Klaus Hinrichs, and Pete Willemsen. 2011. Change Blindness Phenomena for Virtual Reality Display Systems.IEEE Transactions on Visualization and Computer Graphics (TVCG)17, 9 (2011), 1223--1233.",
+                "DOI": "10.1109/TVCG.2011.41",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-57",
+                "unstructured": "Frank Steinicke, Gerd Bruder, Jason Jerald, Harald Fenz, and Markus Lappe. 2010b. Estimation of Detection Thresholds for Redirected Walking Techniques.IEEE Transactions on Visualization and Computer Graphics (TVCG)16, 1 (2010), 17--27.",
+                "DOI": "10.1109/TVCG.2009.62",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-58",
+                "unstructured": "Frank Steinicke, Yon Visell, Jennifer Campos, and Anatole L&#233;cuyer. 2013.Human Walking in Virtual Environments: Perception, Technology, and Applications.Springer Verlag.",
+                "DOI": "10.1007/978-1-4419-8432-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-59",
+                "unstructured": "Evan A. Suma, Mahdi Azmandian, Timofey Grechkin, Thai Phan, and Mark Bolas. 2015. Making Small Spaces Feel Large: Infinite Walking in Virtual Reality. InACM SIGGRAPH 2015 Emerging Technologies.ACM, 16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-60",
+                "unstructured": "Evan A. Suma, Gerd Bruder, Frank Steinicke, David M. Krum, and Marc Bolas. 2012a. A Taxonomy for Deploying Redirection Techniques in Immersive Virtual Environments. InProceedings of IEEE Virtual Reality (VR).43--46.",
+                "DOI": "10.1109/VR.2012.6180877",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-61",
+                "unstructured": "Evan A. Suma, Seth Clark, Samantha L. Finkelstein, and Zachary Wartell. 2010. Exploiting Change Blindness to Expand Walkable Space in a Virtual Environment. InProceedings of IEEE Virtual Reality (VR).305--306.",
+                "DOI": "10.1109/VR.2010.5444752",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-62",
+                "unstructured": "Evan A. Suma, Zachary Lipps, Samantha Finkelstein, David M. Krum, and Marc Bolas. 2012b. Impossible Spaces: Maximizing Natural Walking in Virtual Environments with Self-Overlapping Architecture.IEEE Transactions on Visualization and Computer Graphics (TVCG)18, 4 (2012), 555--564.",
+                "DOI": "10.1109/TVCG.2012.47",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-63",
+                "unstructured": "Qi Sun, Anjul Patney, Li-Yi Wei, Omer Shapira, Jingwan Lu, Paul Asente, Suwen Zhu, Morgan McGuire, David Luebke, and Arie Kaufman. 2018. Towards Virtual Reality Infinite Walking: Dynamic Saccadic Redirection.ACM Transactions on Graphics (TOG)37, 4 (2018), 67."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-64",
+                "unstructured": "Qi Sun, Li-Yi Wei, and Arie Kaufman. 2016. Mapping Virtual and Physical Reality.ACM Transactions on Graphics (TOG)35, 4 (2016), 64."
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-65",
+                "unstructured": "Kaori Takehara, Shigenori Kawahara, and Yutaka Kirino. 2003. Time-Dependent Reorganization of the Brain Components Underlying Memory Retention in Trace Eyeblink Conditioning.Journal of Neuroscience23, 30 (2003), 9897--9905. arXiv:http://www.jneurosci.org/content/23/30/9897.full.pdf http://www.jneurosci.org/content/23/30/9897"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-66",
+                "unstructured": "Martin Usoh, Kevin Arthur, Mary C. Whitton, Rui Bastos, Aanthony Steed, Mel Slater, and Frederick P. Brooks, Jr. 1999a. Walking &gt; Walking-in-Place &gt; Flying, in Virtual Environments. InProceedings of ACM SIGGRAPH.359--364.",
+                "DOI": "10.1145/311535.311589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-67",
+                "unstructured": "Martin Usoh, Ernest Catena, Sima Arman, and Mel Slater. 1999b. Using Presence Questionaires in Reality.Presence: Teleoperators &#38; Virtual Environments9, 5 (1999), 497--503.",
+                "DOI": "10.1162/105474600566989",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-68",
+                "unstructured": "Frances C. Volkmann. 1986. Human Visual Suppression.Vision Research26, 9 (1986), 1401--1416.",
+                "DOI": "10.1016/0042-6989(86)90164-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-69",
+                "unstructured": "Frances C. Volkmann, Lorrin A. Riggs, and Robert K. Moore. 1980. Eyeblinks and Visual Suppression.Science207, 4433 (1980), 900--902.",
+                "DOI": "10.1126/science.7355270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-70",
+                "unstructured": "Guy Wallis and Heinrich Bulfhoff. 2000. What's Scene and not Seen: Influences of Movement and Task Upon What We See.Visual Cognition7, 1-3 (2000), 175--190.",
+                "DOI": "10.1080/135062800394757",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201335-71",
+                "unstructured": "Gabrielle Weidemann, Erin Best, Jessica C. Lee, and Peter F. Lovibond. 2013. The Role of Contingency Awareness in Single-Cue Human Eyeblink Conditioning.Learning &#38; Memory20, 7 (2013), 363--366.",
+                "DOI": "10.1101/lm.029975.112",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201335&ftid=1991749&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:48:09Z",
+            "timestamp": 1571672889000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201335",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

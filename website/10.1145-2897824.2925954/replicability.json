@@ -1,0 +1,96 @@
+{
+    "Timestamp": "1/22/2020 21:14:51",
+    "Title": "The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies",
+    "DOI": "10.1145/2897824.2925954",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "Python",
+    "How long did take for you to evaluate the code this paper (if any)?": 5,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers)",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/janesjanes/sketchy",
+    "code URL  2": "",
+    "PDF URL": "https://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf",
+    "License type": "MIT",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 3,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data, Pre-trained models / Hardcoded data / lookup tables /...",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 5,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "User-documentation (readme-note-tutorial) more than just build instructions, API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Image representations",
+    "ACM 2": "Image processing",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "The github repsitory provides two scripts, which both require to download the\" sketch and photos\"dataset (https://goo.gl/SNpMmK):\n- Retrieval_Example.ipynb, which demonstrates how to retrieve images from a sketch. I had to flatten the content of the directory \"256x256/photo/tx_00000000000\" to be able to load in the photo database (8th code block in jupyter notebook).\n- Compute_Sketchy_score.ipynb, which compute the network matching accuracy. I tried to flatten the directory \"256x256/sketch/tx_00000000000\", and replace the use of the file test_img_list.txt (which is not provided) by test_img_list = os.listdir(photo_paths). Unfortunatly, even with this change, I couldn't run the script, and I couldn't find a way to format the data as required by the last code block. No instruction is given on how to modify or adapt file loading and directory structure.\n\nBug fixes (for both scripts):\n - scripts use python2 syntax for the print function (ie. without parenthesis). Can be adapted to python3 by using parenthesis.\n - scripts attempt to load LSHForest from sklearn.neighbors, which is deprecated and not provided by modern sklearn packages. Replace \nfrom sklearn.neighbors import NearestNeighbors,LSHForest\nby \nfrom sklearn.neighbors import NearestNeighbors\n\nI have tested both scripts using caffe_cpu (see 4th code block in both scripts: caffe.set_mode_cpu()).\n\nThe provided scripts does not demonstrate how to retrieve sketches from an image. The broken script does not demonstrate a functionality of the approach but rather its performances, and so its failure does not impact the replicability of the approach.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 186,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Caffe",
+    "Project URL": "http://sketchy.eye.gatech.edu/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 2,
+    "Paper authors": [
+        {
+            "given": "Patsorn",
+            "family": "Sangkloy",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Nathan",
+            "family": "Burnell",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University"
+                }
+            ]
+        },
+        {
+            "given": "Cusuh",
+            "family": "Ham",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "James",
+            "family": "Hays",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Georgia Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

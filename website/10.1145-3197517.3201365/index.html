@@ -1,0 +1,90 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Deep exemplar-based colorization <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Mingming <span class="family">He</span></li>
+<li> Dongdong <span class="family">Chen</span></li>
+<li> Jing <span class="family">Liao</span></li>
+<li> Pedro V. <span class="family">Sander</span></li>
+<li> Lu <span class="family">Yuan</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201365">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://www.dongdongchen.bid/pubs/colorization_sig18.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/msracver/Deep-Exemplar-based-Colorization">Code</a></li>
+<li class="web"> <i class="fas fa-university"></i> <a href="https://arxiv.org/abs/1807.06587">arXiv or openarchive initiative</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201365-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201365-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries, Closed source (e.g. commercial) software or libraries free for research purposes</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   29</li>
+<li><span class="family">Reviewer</span>: 4</li>
+</ul><h2>Comments</h2><pre>As reviewer 1, I could not build the provided Visual Studio solution (see details of my attemp below).
+However, it appears that the code is shipped with precompiled demos I didn't find at the first look.
+Before running the demo, I had to install the following dependencies (tested with Python 3.6):
+>pip install image opencv-python scikit-image
+Then, to install pytorch, I followed the instructions given at https://pytorch.org/get-started/locally/, for me it was
+>pip install torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+Then you need to download and put the data as described here: https://github.com/msracver/Deep-Exemplar-based-Colorization#download-models
+
+And then simply run the script demo\run.bat. It should output two colored images in demo\examples\res\.
+
+Compilation attempt:
+=================
+I could however compile caffe and other dependencies using CK (https://codereef.ai/portal/c/032630d041b4fd8a:7d5e081bda47dcbc/), namely opencv, boost, gflags, glogs, hd5f, lmbd and protobuf. I had to install precompiled version of 
+
+
+---- Review 2 -----
+Could not test on Windows because Caffe is unavailable for VS2017. I spent multiple hours trying to compile Caffe with VS2017, but stopped after compiling the 13th dependency, ATLAS, that compiles unix-style with cygwin. Pre-built binaries *may* be found for VS2015. Caffe is not maintained as of 2019.</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [5,5,5,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

@@ -1,0 +1,548 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848697
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201322",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Perception-aware modeling and fabrication of digital drawing tools"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Michal",
+                "family": "Piovar\u010di",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Saarland University and Universit\u00e0 della Svizzera italiana, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "United States of America"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University and Universit\u00e0 della Svizzera italiana, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201322-1",
+                "unstructured": "Michelle Annett, Fraser Anderson, Walter F Bischof, and Anoop Gupta. 2014. The pen is mightier: understanding stylus behaviour while inking on tablets. InProceedings of Graphics Interface 2014.Canadian Information Processing Society, 193--200."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-2",
+                "unstructured": "Atakan Arasan, Cagatay Basdogan, and Tevfik Metin Sezgin. 2013. Haptic stylus with inertial and vibro-tactile feedback. In2013 World Haptics Conference (WHC).425--430.",
+                "DOI": "10.1109/WHC.2013.6548446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-3",
+                "unstructured": "John F. Archard. 1953. Contact and Rubbing of Flat Surfaces.Journal of Applied Physics24, 8 (1953), 981--988. arXiv:https://doi.org/10.1063/1.1721448",
+                "DOI": "10.1063/1.1721448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-4",
+                "unstructured": "Brian Armstrong-H&#233;louvry. 1991.Control of Machines with Friction.Kluwer Academic Publishers, Boston, Massachusetts.",
+                "DOI": "10.1007/978-1-4615-3972-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-5",
+                "unstructured": "Mordecai Avriel. 2003.Nonlinear Programming: Analysis and Methods.Dover Publications."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-6",
+                "unstructured": "Olivier Bau, Ivan Poupyrev, Ali Israr, and Chris Harrison. 2010. TeslaTouch: Electro-vibration for Touch Surfaces. InProceedings of the 23Nd Annual ACM Symposium on User Interface Software and Technology (UIST '10).ACM, New York, NY, USA, 283--292.",
+                "DOI": "10.1145/1866029.1866074",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-7",
+                "unstructured": "Sliman Bensma&#239;a, Mark Hollins, and Jeffrey Yau. 2005. Vibrotactile intensity and frequency information in the Pacinian system: A psychophysical model.Attention, Perception, &#38; Psychophysics67, 5 (2005), 828--841.",
+                "DOI": "10.3758/BF03193536",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-8",
+                "unstructured": "Wouter M Bergmann Tiest and Astrid ML Kappers. 2006. Analysis of haptic perception of materials by multidimensional scaling and physical measurements of roughness and compressibility.Acta psychologica121, 1 (2006), 1--20.",
+                "DOI": "10.1016/j.actpsy.2005.04.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-9",
+                "unstructured": "Florence Bertails-Descoubes, Florent Cadoux, Gilles Daviet, and Vincent Acary. 2011. A nonsmooth Newton solver for capturing exact Coulomb friction in fiber assemblies.ACM Transactions on Graphics30, 1 (Feb. 2011), 6:1--6:14."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-10",
+                "unstructured": "Brian Blood. 2009. Physics of musical instruments. (2009)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-11",
+                "unstructured": "Carlos Canudas de Wit, Henrik Olsson, Karl J. Astrom, and Pablo Lischinsky. 1995. A new model for control of systems with friction.IEEE Trans. Automat. Control40, 3 (Mar 1995), 419--425.",
+                "DOI": "10.1109/9.376053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-12",
+                "unstructured": "Desai Chen, David I. W. Levin, Wojciech Matusik, and Danny M. Kaufman. 2017. Dynamics-aware Numerical Coarsening for Fabrication Design.ACM Trans. Graph.36, 4, Article 84 (July 2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073669",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-13",
+                "unstructured": "Youngjun Cho, Andrea Bianchi, Nicolai Marquardt, and Nadia Bianchi-Berthouze. 2016. RealPen: Providing Realism in Handwriting Tasks on Touch Surfaces Using Auditory-Tactile Feedback. InProceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16).ACM, New York, NY, USA, 195--205.",
+                "DOI": "10.1145/2984511.2984550",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-14",
+                "unstructured": "Seungmoon Choi and Hong Z. Tan. 2005. Toward Realistic Haptic Rendering of Surface Textures. InACM SIGGRAPH 2005 Courses (SIGGRAPH '05).ACM, New York, NY, USA, Article 125."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-15",
+                "unstructured": "Vasilios G Chouvardas, Amalia N Miliou, and Miltiadis K Hatalis. 2008. Tactile displays: Overview and recent advances.Displays29, 3 (2008), 185--194."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-16",
+                "unstructured": "Vasilios G Chouvardas, Amalia N Miliou, Miltiadis K Hatalis, et al. 2005. Tactile displays: a short overview and recent developments. InProceedings of the 5th International Conference on Technology and Automation (ICTA'05).246--251."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-17",
+                "unstructured": "Theresa Cooke, Sebastian Kannengiesser, Christian Wallraven, and Heinrich H B&#252;lthoff."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-18",
+                "unstructured": "2006. Object feature validation using visual and haptic similarity ratings.ACM Transactions on Applied Perception (TAP)3, 3 (2006), 239--261.",
+                "DOI": "10.1145/1166087.1166093",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-19",
+                "unstructured": "Theresa Cooke, Christian Wallraven, and Heinrich H B&#252;lthoff. 2010. Multidimensional scaling analysis of haptic exploratory procedures.ACM Transactions on Applied Perception (TAP)7, 1 (2010), 7."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-20",
+                "unstructured": "Philip R. Dahl. 1976. Solid Friction Damping of Mechanical Vibrations.AIAA Journal14, 12 (1976), 1675--1682.",
+                "DOI": "10.2514/3.61511",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-21",
+                "unstructured": "J&#233;r&#233;my Danna and Jean-Luc Velay. 2015. Basic and supplementary sensory feedback in handwriting.Frontiers in Psychology6 (2015), 169.",
+                "DOI": "10.3389/fpsyg.2015.00169",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-22",
+                "unstructured": "Nicholas Fellion, Thomas Pietrzak, and Audrey Girouard. 2017. FlexStylus: leveraging flexion input for pen interaction. InUIST 2017 (UIST 2017).Qu&#233;bec, Canada, 2482 -- 2489.",
+                "DOI": "10.1145/3126594.3126597",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-23",
+                "unstructured": "Claire Watson Garcia. 2003.Drawing for the Absolute and Utter Beginner.Watson-Guptill."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-24",
+                "unstructured": "Ioannis Gkioulekas, Bei Xiao, Shuang Zhao, Edward H Adelson, Todd Zickler, and Kavita Bala. 2013. Understanding the role of phase function in translucent appearance.ACM Transactions on Graphics (TOG)32, 5 (2013), 147."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-25",
+                "unstructured": "Avraham Harnoy, Bernard Friedland, and Simon Cohn. 2008. Modeling and measuring friction effects.IEEE Control Systems28, 6 (Dec 2008), 82--91.",
+                "DOI": "10.1109/MCS.2008.929546",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-26",
+                "unstructured": "Vincent Hayward and M Cruz-Hernandez. 2000. Tactile display device using distributed lateral skin stretch. InProceedings of the haptic interfaces for virtual environment and teleoperator systems symposium, Vol. 69. ASME, 1309--1314."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-27",
+                "unstructured": "Richard Helps and Clarissa Helps. 2016. Measuring Stylus and Tablet Performance for Usability in Sketching. InProceedings of the 5th Annual Conference on Research in Information Technology.ACM, 19--24.",
+                "DOI": "10.1145/2978178.2978186",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-28",
+                "unstructured": "Marlis Hochbruck and Alexander Ostermann. 2010. Exponential integrators.Acta Numerica19 (2010), 209--286.",
+                "DOI": "10.1017/S0962492910000048",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-29",
+                "unstructured": "Mark Hollins, Sliman Bensma&#239;a, Kristie Karlof, and Forrest Young. 2000. Individual differences in perceptual space for tactile textures: Evidence from multidimensional scaling.Perception &#38; Psychophysics62, 8 (2000), 1534--1544.",
+                "DOI": "10.3758/BF03212154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-30",
+                "unstructured": "Mark Hollins, Florian Lorenz, and Daniel Harper. 2006. Somatosensory Coding of Roughness: The Effect of Texture Adaptation in Direct and Indirect Touch.Journal of Neuroscience26, 20 (2006), 5582--5588.",
+                "DOI": "10.1523/JNEUROSCI.0028-06.2006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-31",
+                "unstructured": "Ali Israr, Seungmoon Choi, and Hong Z. Tan. 2006a. Detection Threshold and Mechanical Impedance of the Hand in a Pen-Hold Posture. In2006 IEEE/RSJ International Conference on Intelligent Robots and Systems.472--477.",
+                "DOI": "10.1109/IROS.2006.282353",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-32",
+                "unstructured": "Ali Israr, Hong Z. Tan, and Charlotte M. Reed. 2006b. Frequency and amplitude discrimination along the kinesthetic-cutaneous continuum in the presence of masking stimuli.The Journal of the Acoustical Society of America120, 5 (2006), 2789--2800.",
+                "DOI": "10.1121/1.2354022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-33",
+                "unstructured": "Lynette A Jones and Ian W Hunter. 1990. A perceptual analysis of stiffness.Experimental Brain Research79, 1 (1990), 150--156."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-34",
+                "unstructured": "Dean Karnopp. 1985. Computer Simulation of Stick-Slip Friction in Mechanical Dynamic Systems.ASME Journal of dynamic Systems, Measurement and Control107, 1 (Mar 1985), 100--103.",
+                "DOI": "10.1115/1.3140698",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-35",
+                "unstructured": "Danny M. Kaufman, Timothy Edmunds, and Dinesh K. Pai. 2005. Fast Frictional Dynamics for Rigid Bodies.ACM Trans. Graph.24, 3 (July 2005), 946--956.",
+                "DOI": "10.1145/1073204.1073295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-36",
+                "unstructured": "Danny M. Kaufman, Shinjiro Sueda, Doug L. James, and Dinesh K. Pai. 2008. Staggered Projections for Frictional Contact in Multibody Systems.ACM Trans. Graph.27, 5, Article 164 (Dec. 2008), 11 pages.",
+                "DOI": "10.1145/1457515.1409117",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-37",
+                "unstructured": "Seung-Chan Kim, Ali Israr, and Ivan Poupyrev. 2013. Tactile Rendering of 3D Features on Touch Surfaces. InProceedings of the 26th Annual ACM Symposium on User Interface Software and Technology (UIST '13).ACM, New York, NY, USA, 531--538.",
+                "DOI": "10.1145/2501988.2502020",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-38",
+                "unstructured": "Roberta L. Klatzky and Susan J. Lederman. 2002. Perceiving texture through a probe.Touch in virtual environments(2002), 180--193."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-39",
+                "unstructured": "Roberta L. Klatzky and Susan J. Lederman. 2008. Perceiving object properties through a rigid link.Haptic Rendering: Algorithms and Applications1 (2008), 7--19."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-40",
+                "unstructured": "Roberta L. Klatzky, Susan J. Lederman, Cheryl Hamilton, Molly Grindley, and Robert H. Swendsen. 2003. Feeling textures through a probe: Effects of probe and surface geometry and exploratory factors.Attention, Perception, &#38; Psychophysics65, 4 (2003), 613--631.",
+                "DOI": "10.3758/BF03194587",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-41",
+                "unstructured": "Johnny C. Lee, Paul H. Dietz, Darren Leigh, William S. Yerazunis, and Scott E. Hudson. 2004. Haptic Pen: A Tactile Feedback Stylus for Touch Screens. InProceedings of the 17th Annual ACM Symposium on User Interface Software and Technology (UIST '04).ACM, New York, NY, USA, 291--294.",
+                "DOI": "10.1145/1029632.1029682",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-42",
+                "unstructured": "Dingzeyu Li, David I. W. Levin, Wojciech Matusik, and Changxi Zheng. 2016. Acoustic Voxels: Computational Optimization of Modular Acoustic Filters.ACM Trans. Graph.35, 4, Article 88 (July 2016), 12 pages.",
+                "DOI": "10.1145/2897824.2925960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-43",
+                "unstructured": "Thomas H. Massie, J. Kenneth Salisbury, et al. 1994. The phantom haptic interface: A device for probing virtual objects. InProceedings of the ASME winter annual meeting, symposium on haptic interfaces for virtual environment and teleoperator systems, Vol. 55. Chicago, IL, 295--300."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-44",
+                "unstructured": "Ralph Mayer. 1991.Artist's Handbook of Materials and Techniques: Revised and Updated.Viking Books."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-45",
+                "unstructured": "Dominik L. Michels, Gerrit A. Sobottka, and Andreas G. Weber. 2014. Exponential Integrators for Stiff Elastodynamic Problems.ACM Trans. Graph.33, 1, Article 7 (Feb. 2014), 20 pages.",
+                "DOI": "10.1145/2508462",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-46",
+                "unstructured": "Brian Mirtich and John Canny. 1995. Impulse-based Simulation of Rigid Bodies. InProceedings of the 1995 Symposium on Interactive 3D Graphics (I3D '95).ACM, New York, NY, USA, 181--ff.",
+                "DOI": "10.1145/199404.199436",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-47",
+                "unstructured": "Ilana Nisky, Assaf Pressman, Carla M. Pugh, Ferdinando A. Mussa-Ivaldi, and Amir Karniel. 2011. Perception and Action in Teleoperated Needle Insertion.EEE Trans. Haptics4, 3 (July 2011), 155--166.",
+                "DOI": "10.1109/TOH.2011.30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-48",
+                "unstructured": "Miguel A. Otaduy and Ming C. Lin. 2004. A Perceptually-inspired Force Model for Haptic Texture Rendering. InProceedings of the 1st Symposium on Applied Perception in Graphics and Visualization (APGV '04).ACM, New York, NY, USA, 123--126.",
+                "DOI": "10.1145/1012551.1012574",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-49",
+                "unstructured": "Fabio Pellacini, James A. Ferwerda, and Donald P. Greenberg. 2000. Toward a psychophysically-based light reflection model for image synthesis. InProceedings of the 27th annual conference on Computer graphics and interactive techniques.ACM Press/Addison-Wesley Publishing Co., 55--64.",
+                "DOI": "10.1145/344779.344812",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-50",
+                "unstructured": "Alvaro G. Perez, Daniel Lobo, Francesco Chinello, Gabriel Cirio, Monica Malvezzi, Jose San Martin, Domenico Prattichizzo, and Miguel A. Otaduy. 2017. Optimization-based wearable tactile rendering.IEEE transactions on haptics(2017).",
+                "DOI": "10.1109/TOH.2016.2619708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-51",
+                "unstructured": "Henry Petroski. 1992.The pencil: A history of design and circumstance.Alfred a Knopf Incorporated."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-52",
+                "unstructured": "Michal Piovar&#269;i, David I.W. Levin, Jason Rebello, Desai Chen, Roman &#270;urikovi&#269;, Hanspeter Pfister, Wojciech Matusik, and Piotr Didyk. 2016. An Interaction-Aware, Perceptual Model For Non-Linear Elastic Objects.ACM Transactions on Graphics (Proc. SIGGRAPH)35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925885",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-53",
+                "unstructured": "Helena Pongrac. 2008. Vibrotactile perception: examining the coding of vibrations and the just noticeable difference under various conditions.Multimedia Systems13, 4 (2008), 297--307.",
+                "DOI": "10.1007/s00530-007-0105-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-54",
+                "unstructured": "Ivan Poupyrev, Makoto Okabe, and Shigeaki Maruyama. 2004. Haptic Feedback for Pen Computing: Directions and Strategies. InCHI '04 Extended Abstracts on Human Factors in Computing Systems (CHI EA '04).ACM, New York, NY, USA, 1309--1312.",
+                "DOI": "10.1145/985921.986051",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-55",
+                "unstructured": "Joseph M. Romano and Katherine J. Kuchenbecker. 2012. Creating Realistic Virtual Textures from Contact Acceleration Data.IEEE Transactions on Haptics5, 2 (April 2012), 109--119.",
+                "DOI": "10.1109/TOH.2011.38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-56",
+                "unstructured": "Leonid Sigal, Moshe Mahler, Spencer Diaz, Kyna McIntosh, Elizabeth Carter, Timothy Richards, and Jessica Hodgins. 2015. A Perceptual Control Space for Garment Simulation.ACM Trans. Graph.34, 4, Article 117 (July 2015), 10 pages.",
+                "DOI": "10.1145/2766971",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-57",
+                "unstructured": "D. Amnon Silverstein and Joyce E. Farrell. 2001. Efficient method for paired comparison.Journal of Electronic Imaging10, 2 (2001), 394--398.",
+                "DOI": "10.1117/1.1344187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-58",
+                "unstructured": "Hyunyoung Song, Hrvoje Benko, Francois Guimbretiere, Shahram Izadi, Xiang Cao, and Ken Hinckley. 2011. Grips and Gestures on a Multi-Touch Pen. 1323--1332. https://www.microsoft.com/en-us/research/publication/grips-and-gestures-on-a-multi-touch-pen/",
+                "DOI": "10.1145/1978942.1979138",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-59",
+                "unstructured": "Gwidon W Stachowiak. 2006.Wear: materials, mechanisms and practice.John Wiley &#38; Sons.",
+                "DOI": "10.1002/9780470017029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-60",
+                "unstructured": "Luis L. Thurstone. 1927. A law of comparative judgment.Psychological Review34, 4 (1927).",
+                "DOI": "10.1037/h0070288",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-61",
+                "unstructured": "Wouter M Bergmann Tiest and Astrid ML Kappers. 2009. Cues for haptic perception of compliance.Haptics, IEEE Transactions on2, 4 (2009), 189--199."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-62",
+                "unstructured": "Stephen Van Dulken. 2002.Inventing the 20th Century: 100 Inventions that Shaped the World from the Airplane to the Zipper.NYU Press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-63",
+                "unstructured": "Hector Vazquez-Leal, Roberto Castaneda-Sheissa, Uriel Filobello-Nino, Arturo Sarmiento-Reyes, and Jesus Sanchez Orea. 2012. High Accurate Simple Approximation of Normal Distribution Integral.Mathematical Problems in Engineering2012 (2012).",
+                "DOI": "10.1155/2012/124029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-64",
+                "unstructured": "Qinglong Wang, Xiangshi Ren, Sayan Sarcar, and Xiaoying Sun. 2016. EV-Pen: Leveraging Electrovibration Haptic Feedback in Pen Interaction. InProceedings of the 2016 ACM on Interactive Surfaces and Spaces (ISS '16).ACM, New York, NY, USA, 57--66.",
+                "DOI": "10.1145/2992154.2992161",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-65",
+                "unstructured": "Rhiannon Williams. 2015. Jony Ive interview: The story of the Apple Pencil. http://www.telegraph.co.uk/technology/apple/11988396/Jony-Ive-interview-The-story-of-the-Apple-Pencil.html. (2015). accessed on: 8 January 2018."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-66",
+                "unstructured": "Josh Wills, Sameer Agarwal, David Kriegman, and Serge Belongie. 2009. Toward a perceptual space for gloss.ACM Transactions on Graphics28, 4 (2009), 1--15.",
+                "DOI": "10.1145/1559755.1559760",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-67",
+                "unstructured": "Takashi Yoshioka, Sliman Bensma&#239;a, James C. Craig, and Shen-Fu. Hsiao. 2007. Texture perception through direct and indirect touch: An analysis of perceptual space for tactile textures in two modes of exploration.Somatosensory &#38; Motor Research24, 1--2 (2007), 53--70."
+            },
+            {
+                "key": "key-10.1145/3197517.3201322-68",
+                "unstructured": "Takashi Yoshioka and Julia Zhou. 2009. Factors Involved in Tactile Texture Perception Through Probes.Advanced Robotics23, 6 (2009), 747--766.",
+                "DOI": "10.1163/156855309X431703",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201322&ftid=1991710&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:27Z",
+            "timestamp": 1571673387000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201322",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

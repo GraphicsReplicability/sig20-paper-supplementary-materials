@@ -1,0 +1,286 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    11
+                ]
+            ],
+            "date-time": "2020-01-11T06:23:33Z",
+            "timestamp": 1578723813514
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000266",
+                "name": "Engineering and Physical Sciences Research Council",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "EP/I031170/1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601212",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 27,
+        "title": [
+            "Learning a manifold of fonts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Neill D. F.",
+                "family": "Campbell",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Jan",
+                "family": "Kautz",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601212-1",
+                "unstructured": "Adobe Systems. 1997. Designing multiple master typefaces. Technical Note #5087."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-2",
+                "unstructured": "Alexa, M., Cohen-Or, D., and Levin, D. 2000. As-rigid-as-possible shape interpolation. InProc. of SIGGRAPH '00, 157--164.",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-3",
+                "unstructured": "Barrow, H., Tenenbaum, J., Bolles, R., and Wolf, H. 1977. Parametric correspondence and chamfer matching: Two new techniques for image matching. InProc. of the International Joint Conference of Artificial Intelligence, 659--663."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-4",
+                "unstructured": "Bonneel, N., van de Panne, M., Paris, S., and Heidrich, W. 2011. Displacement interpolation using lagrangian mass transport.ACM Trans. Graphics 30, 6, 158:1--158:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-5",
+                "unstructured": "Hassan, T., Hu, C., and Hersch, R. D. 2010. Next generation typeface representations: Revisiting parametric fonts. InProc. 10&#60;sup&#62;th&#60;/sup&#62;ACM Symposium on Document Engineering, 181--184."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-6",
+                "unstructured": "Hersch, R. D., and Betrisey, C. 1991. Model-based matching and hinting of fonts.Proc. of SIGGRAPH '91, 71--80.",
+                "DOI": "10.1145/122718.122726",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-7",
+                "unstructured": "Hu, C., and Hersch, R. D. 2001. Parameterizable fonts based on shape components.IEEE Comput. Graphics Appl. 21, 3, 70--85."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-8",
+                "unstructured": "Itoh, K., and Ohno, Y. 1993. A curve fitting algorithm for character fonts.Electronic Publishing 6, 3, 195--205."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-9",
+                "unstructured": "Kalogerakis, E., Chaudhuri, S., Koller, D., and Koltun, V. 2012. A probabilistic model for component-based shape synthesis.ACM Trans. Graphics 31, 4, 55:1--55:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-10",
+                "unstructured": "Kazhdan, M., Funkhouser, T., and Rusinkiewicz, S. 2004. Shape matching and anisotropy.ACM Trans. Graphics 23, 3, 623--629.",
+                "DOI": "10.1145/1015706.1015770",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-11",
+                "unstructured": "Kim, V. G., Li, W., Mitra, N. J., Chaudhuri, S., DiVerdi, S., and Funkhouser, T. 2013. Learning part-based templates from large collections of 3d shapes.ACM Trans. Graphics 32, 4, 70:1--70:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-12",
+                "unstructured": "Knuth, D. E. 1986.The Metafont Book. Addison-Wesley."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-13",
+                "unstructured": "Kuhl, F., and Giardina, C. 1982. Elliptic fourier features of a closed contour.Computer Graphics and Image Proc. 18, 3, 236--258.",
+                "DOI": "10.1016/0146-664X(82)90034-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-14",
+                "unstructured": "Lau, V. M. K. 2009. Learning by example for parametric font design. InSIGGRAPH ASIA '09 Posters, 5:1--5:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-15",
+                "unstructured": "Lawrence, N. 2005. Probabilistic non-linear principal component analysis with gaussian process latent variable models.The Journal of Machine Learning Research 6, 1783--1816."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-16",
+                "unstructured": "Loviscach, J. 2010. The universe of fonts, charted by machine. InSIGGRAPH '10 Talks, 27:1--27:1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-17",
+                "unstructured": "Navaratnam, R., Fitzgibbon, A., and Cipolla, R. 2007. The joint manifold model for semi-supervised multi-valued regression. InProc. of IEEE 11&#60;sup&#62;th&#60;/sup&#62;International Conf. on Computer Vision.",
+                "DOI": "10.1109/ICCV.2007.4408976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-18",
+                "unstructured": "Prisacariu, V., and Reid, I. 2011. Nonlinear shape manifolds as shape priors in level set segmentation and tracking. InProc. of IEEE Conf. on Computer Vision and Pattern Recognition.",
+                "DOI": "10.1109/CVPR.2011.5995687",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-19",
+                "unstructured": "Rasmussen, C. E., and Williams, C. 2006.Gaussian Processes for Machine Learning. MIT Press.",
+                "DOI": "10.7551/mitpress/3206.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-20",
+                "unstructured": "Shamir, A., and Rappoport, A. 1998. Feature-based design of fonts using constraints. InProc. of Raster Imag. and Dig. Typography '98.",
+                "DOI": "10.1007/BFb0053265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-21",
+                "unstructured": "Suveeranont, R., and Igarashi, T. 2010. Example-based automatic font generation. InProc. of 10&#60;sup&#62;th&#60;/sup&#62;Int. Symp. on Smart Graphics."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-22",
+                "unstructured": "Titsias, M., and Lawrence, N. 2010. Bayesian gaussian process latent variable model. InProc. of 13&#60;sup&#62;th&#60;/sup&#62;Int. Workshop on AI and Stats."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-23",
+                "unstructured": "van Kaick, O., Zhang, H., Hamarneh, G., and Cohen-Or, D. 2011. A survey on shape correspondence.Computer Graphics Forum 30, 6, 1681--1707.",
+                "DOI": "10.1111/j.1467-8659.2011.01884.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-24",
+                "unstructured": "Zitnick, C. L. 2013. Handwriting beautification using token means.ACM Trans. Graphics 32, 4, 53:1--53:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601212-25",
+                "unstructured": "Zongker, D. E., Wade, G., and Salesin, D. H. 2000. Example-based hinting of true type fonts. InProc. of SIGGRAPH '00, 411--416.",
+                "DOI": "10.1145/344779.344969",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601212&amp;ftid=1488899&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:35:16Z",
+            "timestamp": 1565663716000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601212",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

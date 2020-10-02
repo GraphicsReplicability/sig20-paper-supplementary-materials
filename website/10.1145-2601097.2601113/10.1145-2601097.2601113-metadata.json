@@ -1,0 +1,340 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227727
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Intel Science and Technology Center for Visual Computing",
+                "award": []
+            },
+            {
+                "name": "NSF",
+                "award": [
+                    "CGV 1115242, 1116303"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601113",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Factored axis-aligned filtering for rendering multiple distribution effects"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Soham Uday",
+                "family": "Mehta",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "JiaXian",
+                "family": "Yao",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Fredo",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601113-1",
+                "unstructured": "Belcour, L., Soler, C., Subr, K., Holzschuch, N., and Durand, F. 2013. 5D covariance tracing for efficient defocus and motion blur.ACM Transanctions on Graphics 32, 3, 31:1--31:18."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-2",
+                "unstructured": "Chai, J.-X., Tong, X., Chan, S.-C., and Shum, H.-Y. 2000. Plenoptic Sampling. InProceedings of SIGGRAPH 00, 307--318.",
+                "DOI": "10.1145/344779.344932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-3",
+                "unstructured": "Cook, R., Porter, T., and Carpenter, L. 1984. Distributed Ray Tracing. InProceedings of SIGGRAPH 84, 137--145.",
+                "DOI": "10.1145/800031.808590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-4",
+                "unstructured": "Dabov, K., Foi, A., Katkovnik, V., and Egiazarian, K. 2007. Image denoising by sparse 3D transform-domain collaborative filtering.IEEE Transactions on Image Processing 16, 8, 2080--2095.",
+                "DOI": "10.1109/TIP.2007.901238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-5",
+                "unstructured": "Dammertz, H., Sewtz, D., Hanika, J., and Lensch, H. P. A. 2010. Edge-avoiding &#192;-trous wavelet transform for fast global illumination filtering. InProceedings of the Conference on High Performance Graphics, 67--75."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-6",
+                "unstructured": "Delbracio, M., Mus&#233;, P., Buades, A., Chauvier, J., Phelps, N., and Morel, J.-M. 2014. Boosting monte carlo rendering by ray histogram fusion.ACM Transactions on Graphics 33, 1, 8:1--8:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-7",
+                "unstructured": "Durand, F., Holzschuch, N., Soler, C., Chan, E., and Sillion, F. 2005. A Frequency Analysis of Light Transport.ACM Transactions on Graphics 24, 3, 1115--1126.",
+                "DOI": "10.1145/1073204.1073320",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-8",
+                "unstructured": "Egan, K., Tseng, Y., Holzschuch, N., Durand, F., and Ramamoorthi, R. 2009. Frequency analysis and sheared reconstruction for rendering motion blur.ACM Transactions on Graphics 28, 3, 93:1--93:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-9",
+                "unstructured": "Egan, K., Hecht, F., Durand, F., and Ramamoorthi, R. 2011. Frequency analysis and sheared filtering for shadow light fields of complex occluders.ACM Transactions on Graphics 30, 2, 9:1--9:13."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-10",
+                "unstructured": "Gershbein, R., Schr&#246;der, P., and Hanrahan, P. 1994. Textures and Radiosity: Controlling Emission and Reflection with Texture Maps. InProceedings of SIGGRAPH 94, 51--58.",
+                "DOI": "10.1145/192161.192171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-11",
+                "unstructured": "Hachisuka, T., Jarosz, W., Weistroffer, R., Dale, K., Humphreys, G., Zwicker, M., and Jensen, H. 2008. Multidimensional adaptive sampling and reconstruction for ray tracing.ACM Transactions on Graphics 27, 3, 33:1--33:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-12",
+                "unstructured": "Kajiya, J. 1986. The Rendering Equation. InProceedings of SIGGRAPH 86, 143--150.",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-13",
+                "unstructured": "Kalantari, N. K., and Sen, P. 2013. Removing the noise in Monte Carlo rendering with general image denoising algorithms.Computer Graphics Forum (Proc. of Eurographics 2013) 32, 2, 93--102."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-14",
+                "unstructured": "Lehtinen, J., Aila, T., Chen, J., Laine, S., and Durand, F. 2011. Temporal light field reconstruction for rendering distribution effects.ACM Transactions on Graphics 30, 4, 55:1--55:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-15",
+                "unstructured": "Lehtinen, J., Aila, T., Laine, S., and Durand, F. 2012. Reconstructing the indirect light field for global illumination.ACM Transanctions on Graphics 31, 4, 51:1--51:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-16",
+                "unstructured": "Li, T.-M., Wu, Y.-T., and Chuang, Y.-Y. 2012. SURE-based optimization for adaptive sampling and reconstruction.ACM Transactions on Graphics 31, 6, 186:1--186:9."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-17",
+                "unstructured": "Max, N. L., and Lerner, D. M. 1985. A two-and-a-half-D motion-blur algorithm. InProceedings of SIGGRAPH 85, 85--93.",
+                "DOI": "10.1145/325334.325188",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-18",
+                "unstructured": "Mehta, S., Wang, B., and Ramamoorthi, R. 2012. Axis-aligned filtering for interactive sampled soft shadows.ACM Transactions on Graphics 31, 6, 163:1--163:10."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-19",
+                "unstructured": "Mehta, S. U., Wang, B., Ramamoorthi, R., and Durand, F. 2013. Axis-aligned filtering for interactive physically-based diffuse indirect lighting.ACM Transactions on Graphics 32, 4, 96:1--96:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-20",
+                "unstructured": "Mitchell, D. 1991. Spectrally Optimal Sampling for Distribution Ray Tracing. InSIGGRAPH 91, 157--164."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-21",
+                "unstructured": "Overbeck, R., Donner, C., and Ramamoorthi, R. 2009. Adaptive Wavelet Rendering.ACM Transactions on Graphics 28, 5.",
+                "DOI": "10.1145/1618452.1618486",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-22",
+                "unstructured": "Potmesil, M., and Chakravarty, I. 1981. A lens and aperture camera model for synthetic image generation. InProceedings of SIGGRAPH 81, 297--305.",
+                "DOI": "10.1145/800224.806818",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-23",
+                "unstructured": "Ramamoorthi, R., and Hanrahan, P. 2001. A Signal-Processing Framework for Inverse Rendering. InProceedings of SIGGRAPH 01, 117--128.",
+                "DOI": "10.1145/383259.383271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-24",
+                "unstructured": "Ritschel, T., Engelhardt, T., Grosch, T., Seidel, H.-P., Kautz, J., and Dachsbacher, C. 2009. Micro-rendering for scalable, parallel final gathering.ACM Transactions on Graphics 28, 5, 132:1--132:8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-25",
+                "unstructured": "Rouselle, F., Knaus, C., and Zwicker, M. 2012. Adaptive rendering with non-local means filtering.ACM Transactions on Graphics 31, 6, 195:1--195:11."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-26",
+                "unstructured": "Rousselle, F., Knaus, C., and Zwicker, M. 2011. Adaptive sampling and reconstruction using greedy error minimization.ACM Transactions on Graphics 30, 6, 159:1--159:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-27",
+                "unstructured": "Sen, P., and Darabi, S. 2012. On filtering the noise from the random parameters in monte carlo rendering.ACM Transactions on Graphics 31, 3, 18:1--18:15."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-28",
+                "unstructured": "Sen, P., Darabi, S., and Xiao, L. 2011. Compressive rendering of multidimensional scenes. InProceedings of the 2010 International Conference on Video Processing and Computational Video, Springer-Verlag, Berlin, Heidelberg, 152--183."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-29",
+                "unstructured": "Shirley, P., and Morley, R. K. 2003.Realistic Ray Tracing, 2 ed. A. K. Peters, Ltd., Natick, MA, USA."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-30",
+                "unstructured": "Shirley, P., Aila, T., Cohen, J., Enderton, E., Laine, S., Luebke, D., and McGuire, M. 2011. A local image reconstruction algorithm for stochastic rendering. InACM Symposium on Interactive 3D Graphics, 9--14."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-31",
+                "unstructured": "Soler, C., Subr, K., Durand, F., Holzschuch, N., and Sillion, F. 2009. Fourier depth of field.ACM Transactions on Graphics 28, 2, 18:1--18:12."
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-32",
+                "unstructured": "Vaidyanathan, K., Munkberg, J., Clarberg, P., and Salvi, M. 2014. Layered Light Field Reconstruction for Defocus Blur.To appear in ACM Transactions on Graphics. http://software.intel.com/en-us/articles/layered-light-field-reconstruction-for-defocus-blur.",
+                "DOI": "10.1111/cgf.12415",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-33",
+                "unstructured": "Walter, B., Arbree, A., Bala, K., and Greenberg, D. 2006. Multidimensional lightcuts.ACM Transactions on Graphics 25, 3, 1081--1088.",
+                "DOI": "10.1145/1141911.1141997",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601113-34",
+                "unstructured": "Ward, G., and Heckbert, P. 1992. Irradiance Gradients. InEurographics Rendering Workshop 92, 85--98."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601113&amp;ftid=1488865&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:38Z",
+            "timestamp": 1565663678000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601113",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

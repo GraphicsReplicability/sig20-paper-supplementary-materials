@@ -1,0 +1,108 @@
+{
+    "Timestamp": "1/20/2020 21:32:28",
+    "Title": "Automatic Triage for a Photo Series",
+    "DOI": "10.1145/2897824.2925908",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on the authors website or project page (zip file, direct download...), on github, gitlab or other code platform",
+    "Main languages": "Other",
+    "How long did take for you to evaluate the code this paper (if any)?": 10,
+    "Build info / instructions": "None",
+    "arXiv (page URL)": "",
+    "code URL": "https://phototriage.cs.princeton.edu/data/vggsms.zip",
+    "code URL  2": "https://phototriage.cs.princeton.edu/data/alexsms.zip",
+    "PDF URL": "https://juew.org/publication/sig16-triage.pdf",
+    "License type": "unspecified",
+    "Build mechanism": "Not applicable (python, Matlab..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 5,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": 1,
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "Yes",
+    "Available data (provided or url / ref)": "Training data",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 1,
+    "Feedbacks [Interface user-friendly (5=easy)]": 5,
+    "Documentation": "None",
+    "Authors": "Academia, Private Companies",
+    "ACM 1": "Computational photography",
+    "ACM 2": "Image processing",
+    "ACM 3": "Neural networks",
+    "ACM 4": "Content ranking",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Linux",
+    "General comments": "I managed to install all the dependencies and prepare the data using the provided scripts.\nI could also call the train.py script (requires 30GB of RAM), unfortunately after several hours of training, the script ended but didn't generate the file weights.hdf5. As such, I couldn't evaluate the network.\nNote that two models are provided by the authors online (https://phototriage.cs.princeton.edu/download.html), but there is no indication on how to use them in practice.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 25,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "caffe",
+    "Project URL": "https://gfx.cs.princeton.edu/pubs/Chang_2016_ATF/index.php",
+    "Did I manage to perform a complete test (deps/build)?": "No due to technical issue",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Image",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 1,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 4,
+    "Documentation score": 0,
+    "Paper authors": [
+        {
+            "given": "Huiwen",
+            "family": "Chang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Fisher",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Jue",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adobe Research"
+                }
+            ]
+        },
+        {
+            "given": "Douglas",
+            "family": "Ashley",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Adam",
+            "family": "Finkelstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

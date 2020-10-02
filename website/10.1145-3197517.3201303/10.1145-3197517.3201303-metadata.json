@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410012
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320, 1409286, 1717268, 1319483"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201303",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Developability of triangle meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Oded",
+                "family": "Stein",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201303-1",
+                "unstructured": "Miklos Bergou, Max Wardetzky, David Harmon, Denis Zorin, and Eitan Grinspun. 2006. A Quadratic Bending Model for Inextensible Surfaces. InSymposium on Geometry Processing, Alla Sheffer and Konrad Polthier (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-2",
+                "unstructured": "J. Berkmann and T. Caelli. 1994. Computation of Surface Geometry and Segmentation using Covariance Techniques.IEEE Transactions on Pattern Analysis and Machine Intelligence16, 11 (1994), 1114--1116.",
+                "DOI": "10.1109/34.334391",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-3",
+                "unstructured": "Alexander Bobenko. 2008.Discrete Differential Geometry.Springer London, Limited.",
+                "DOI": "10.1090/gsm/098",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-4",
+                "unstructured": "Vincent Borrelli, Sa&#239;d Jabrane, Francis Lazarus, and Boris Thibert. 2012. Flat tori in three-dimensional space and convex integration.Proc. Natl. Acad. Sci. U. S. A.109, 19 (2012), 7218--7223.",
+                "DOI": "10.1073/pnas.1118478109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-5",
+                "unstructured": "Davide P Cervone. 1996. Tight immersions of simplicial surfaces in three space.Topology35, 4 (1996), 863 -- 873.",
+                "DOI": "10.1016/0040-9383(95)00047-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-6",
+                "unstructured": "Lian Chang. 2015. The Software Behind Frank Gehry's Geometrically Complex Architecture. (2015). https://priceonomics.com/the-software-behind-frank-gehrys-geometrically/ Online (Priceonomics.com); posted May 12, 2015."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-7",
+                "unstructured": "Chih-Hsing Chu and Jang-Ting Chen. 2005. Tool path planning for five-axis flank milling with developable surface approximation.The International Journal of Advanced Manufacturing Technology29, 7 (12 Oct 2005), 707."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-8",
+                "unstructured": "Keenan Crane and Max Wardetzky. 2017. A Glimpse Into Discrete Differential Geometry.Notices of the American Mathematical Society64, 10 (November 2017), 1153--1159.",
+                "DOI": "10.1090/noti1578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-9",
+                "unstructured": "Philippe Decaudin, Dan Julius, Jamie Wither, Laurence Boissieux, Alla Sheffer, and Marie-Paule Cani. 2006. Virtual Garments: A Fully Geometric Approach for Clothing Design.Computer Graphics Forum(2006).",
+                "DOI": "10.1111/j.1467-8659.2006.00982.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-10",
+                "unstructured": "Levi H Dudte, Etienne Vouga, Tomohiro Tachi, and L Mahadevan. 2016. Programming curvature using origami tessellations.Nature materials(2016).",
+                "DOI": "10.1038/nmat4540",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-11",
+                "unstructured": "Jeff Erickson and Sariel Har-Peled. 2004. Optimally Cutting a Surface into a Disk.Discrete &#38; Computational Geometry31, 1 (2004), 37--59.",
+                "DOI": "10.1007/s00454-003-2948-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-12",
+                "unstructured": "Michael Garland. 1999.Quadric-Based Polygonal Surface Simplification.Ph.D. Dissertation. Carnegie Mellon University."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-13",
+                "unstructured": "Michael Garland and Paul S. Heckbert. 1997. Surface Simplification Using Quadric Error Metrics. InProceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '97).ACM Press/Addison-Wesley Publishing Co., New York, NY, USA, 209--216.",
+                "DOI": "10.1145/258734.258849",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-14",
+                "unstructured": "Ramy F. Harik, Hu Gong, and Alain Bernard. 2013. Review: 5-axis Flank Milling: A State-of-the-art Review.Comput. Aided Des.45, 3 (March 2013), 796--808.",
+                "DOI": "10.1016/j.cad.2012.08.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-15",
+                "unstructured": "Wenzel Jakob, Marco Tarini, Daniele Panozzo, and Olga Sorkine-Hornung. 2015. Instant Field-aligned Meshes.ACM Trans. Graph.34, 6, Article 189 (Oct. 2015), 15 pages.",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-16",
+                "unstructured": "Dan Julius, Vladislav Kraevoy, and Alla Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation.Computer Graphics Forum(2005).",
+                "DOI": "10.1111/j.1467-8659.2005.00883.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-17",
+                "unstructured": "Martin Kilian, Simon Fl&#246;ry, Zhonggui Chen, Niloy J. Mitra, Alla Sheffer, and Helmut Pottmann. 2008. Curved Folding.ACM Trans. Graph.27, 3, Article 75 (Aug. 2008), 9 pages.",
+                "DOI": "10.1145/1399504.1360674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-18",
+                "unstructured": "J. Kopp. 2008. Efficient Numerical Diagonalization of Hermitian 3 X 3 Matrices.International Journal of Modern Physics C19 (2008), 523--548.",
+                "DOI": "10.1142/S0129183108012303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-19",
+                "unstructured": "Adrian S. Lewis and Michael L. Overton. 2013. Nonsmooth optimization via quasi-Newton methods.Math. Program.A, 141 (2013), 135--163.",
+                "DOI": "10.1007/s10107-012-0514-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-20",
+                "unstructured": "Yang Liu, Helmut Pottmann, Johannes Wallner, Yong-Liang Yang, and Wenping Wang. 2006. Geometric Modeling with Conical Meshes and Developable Surfaces.ACM Trans. Graph.25, 3 Quly 2006), 681--689."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-21",
+                "unstructured": "Fady Massarwi, Craig Gotsman, and Gershon Elber. 2007. Papercraft Models using Generalized Cylinders. InProceedings of the Pacific Conference on Computer Graphics and Applications, Pacific Graphics 2007, Maui, Hawaii, USA, October 29 - November 2, 2007.148--157.",
+                "DOI": "10.1109/PG.2007.16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-22",
+                "unstructured": "Jun Mitani and Hiromasa Suzuki. 2004. Making Papercraft Toys from Meshes Using Strip-based Approximate Unfolding.ACM Trans. Graph.23, 3 (Aug. 2004), 259--263.",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-23",
+                "unstructured": "Jean-Marie Morvan and Boris Thibert. 2006. Unfolding of Surfaces.Discrete &#38; Computational Geometry36, 3 (01 Oct 2006), 393--418.",
+                "DOI": "10.1007/s00454-006-1255-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-24",
+                "unstructured": "Rahul Narain, Tobias Pfaff, and James F. O'Brien. 2013. Folding and Crumpling Adaptive Sheets.ACM Transactions on Graphics32, 4 (July 2013), 51:1--8. http://graphics.berkeley.edu/papers/Narain-FCA-2013-07/ Proceedings of ACM SIGGRAPH 2013, Anaheim.",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-25",
+                "unstructured": "Jorge Nocedal and Stephen J. Wright. 2006. Numerical Optimization (2nd ed.). Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-26",
+                "unstructured": "Martin Peternell. 2004. Developable Surface Fitting to Point Clouds.Comput. Aided Geom. Des.21, 8 (Oct. 2004), 785--803.",
+                "DOI": "10.1016/j.cagd.2004.07.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-27",
+                "unstructured": "Roi Poranne, Marco Tarini, Sandro Huber, Daniele Panozzo, and Olga Sorkine-Hornung. 2017. Autocuts: Simultaneous Distortion and Cut Optimization for UV Mapping.ACM Trans. on Graphics - Siggraph Asia 201736, 6 (2017). http://vcg.isti.cnr.it/Publications/2017/PTHPS17"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-28",
+                "unstructured": "Helmut Pottmann, Alexander Schiftner, Pengbo Bo, Heinz Schmiedhofer, Wenping Wang, Niccolo Baldassini, and Johannes Wallner. 2008. Freeform Surfaces from Single Curved Panels.ACM Trans. Graph.27, 3, Article 76 (Aug. 2008), 10 pages.",
+                "DOI": "10.1145/1399504.1360675",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-29",
+                "unstructured": "Michael Rabinovich, Tim Hoffmann, and Olga Sorkine-Hornung. 2018. Discrete Geodesic Nets for Modeling Developable Surfaces.ACM Trans. Graph.37, 2, Article 16 (Feb. 2018), 17 pages.",
+                "DOI": "10.1145/3180494",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-30",
+                "unstructured": "Kenneth Rose, Alla Sheffer, Jamie Wither, Marie-Paule Cani, and Boris Thibert. 2007. Developable Surfaces from Arbitrary Sketched Boundaries. InProceedings of the Fifth Eurographics Symposium on Geometry Processing (SGP '07).Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 163--172. http://dl.acm.org/citation.cfm?id=1281991.1282014"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-31",
+                "unstructured": "Robert Sauer. 1970.Differenzengeometrie.Springer.",
+                "DOI": "10.1007/978-3-642-86411-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-32",
+                "unstructured": "Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening.CoRRabs/1704.06873 (2017). arXiv:1704.06873 http://arxiv.org/abs/1704.06873"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-33",
+                "unstructured": "Camille Schreck, Damien Rohmer, Stefanie Hahmann, Marie-Paule Cani, Shuo Jin, Charlie C.L. Wang, and Jean-Francis Bloch. 2015. Non-smooth developable geometry for interactively animating paper crumpling.ACM Transactions on Graphics35, 1 (Dec. 2015), 10:1--10:18."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-34",
+                "unstructured": "Idan Shatz, Ayellet Tal, and George Leifman. 2006. Paper craft models from meshes.The Visual Computer22, 9--11 (2006), 825--834."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-35",
+                "unstructured": "Justin Solomon, Etienne Vouga, Max Wardetzky, and Eitan Grinspun. 2012. Flexible Developable Surfaces.Computer Graphics Forum(2012).",
+                "DOI": "10.1111/j.1467-8659.2012.03162.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-36",
+                "unstructured": "Olga Sorkine, Daniel Cohen-Or, Rony Goldenthal, and Dani Lischinski. 2002. Bounded-distortion Piecewise Mesh Parameterization. InProceedings of the Conference on Visualization '02 (VIS '02).IEEE Computer Society, Washington, DC, USA, 355--362. http://dl.acm.org/citation.cfm?id=602099.602154",
+                "DOI": "10.1109/VISUAL.2002.1183795",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-37",
+                "unstructured": "Chengcheng Tang, Pengbo Bo, Johannes Wallner, and Helmut Pottmann. 2016. Interactive Design of Developable Surfaces.ACM Trans. Graph.35, 2, Article 12 (Jan. 2016), 12 pages.",
+                "DOI": "10.1145/2832906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-38",
+                "unstructured": "Boris Thibert, Jean-Pierre Gratier, and Jean-Marie Morvan. 2005. A direct method for modeling and unfolding developable surfaces and its application to the Ventura Basin (California).Journal of Structural Geology27, 2 (2005), 303--316.",
+                "DOI": "10.1016/j.jsg.2004.08.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-39",
+                "unstructured": "Charlie CL Wang and Kai Tang. 2004. Achieving developability of a polygonal surface by minimum deformation: a study of global and local optimization approaches.The Visual Computer20, 8 (2004), 521--539."
+            },
+            {
+                "key": "key-10.1145/3197517.3201303-40",
+                "unstructured": "Yong-Liang Yang, Yi-Jun Yang, Helmut Pottmann, and Niloy J. Mitra. 2011. Shape Space Exploration of Constrained Meshes.ACM Trans. Graph.30, 6, Article 124 (Dec. 2011), 12 pages.",
+                "DOI": "10.1145/2024156.2024158",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201303&ftid=1991731&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:49:52Z",
+            "timestamp": 1571672992000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201303",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

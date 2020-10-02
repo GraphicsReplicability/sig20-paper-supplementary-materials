@@ -1,0 +1,106 @@
+{
+    "Timestamp": "1/22/2020 1:59:03",
+    "Title": "Erosion thickness on medial axes of 3D shapes",
+    "DOI": "10.1145/2897824.2925938",
+    "PDF availability (beside dl.acm)": "On the author(s) website or its institution",
+    "Is the code or software publicly available ?": "Yes",
+    "Availability": "on github, gitlab or other code platform",
+    "Main languages": "C/C++",
+    "How long did take for you to evaluate the code this paper (if any)?": 2,
+    "Build info / instructions": "README, LICENSE or explicit license (e.g. in the readme / headers), AUTHORS or explicitly mentioned",
+    "arXiv (page URL)": "",
+    "code URL": "https://github.com/danielyan86129/ET",
+    "code URL  2": "https://yajieyan.github.io/et_sig16/et.v2.zip",
+    "PDF URL": "https://www.cse.wustl.edu/~taoju/research/et.pdf",
+    "License type": "MPL",
+    "Build mechanism": "IDE Project (VS,..)",
+    "Mandatory Software dependencies": "Open-source libraries",
+    "Feedback [easy deps]": "",
+    "Feedbacks [easy to find/install dependencies  (5=easy)]": 5,
+    "Feedbacks [easy to configure/build (5=easy)]": 4,
+    "Feedbacks [easy to fix bugs (5=easy N/A if no bug)]": "N/A",
+    "Execution experience [Row 1]": "",
+    "Does the code need data (other than examples/inputs) ?": "No",
+    "Available data (provided or url / ref)": "",
+    "License for the data (if any)": "",
+    "Feedbacks [easy to adapt / use in other contexts (5=easy)]": 4,
+    "Feedbacks [Interface user-friendly (5=easy)]": 3,
+    "Documentation": "API documentation, Technical documentation (comments-doxygen...)",
+    "Authors": "Academia",
+    "ACM 1": "Shape analysis",
+    "ACM 2": "Computational geometry",
+    "Feedbacks [if matlab does it run on OSS alternatives (5=easy)]": "N/A",
+    "OS of the test": "Windows",
+    "General comments": "Compiling the project with Qt 5.12.6 instead of 5.7.0 (~40GB install) is relatively easy.\n- EtDev.sln: replace  qt5.7_msvc2015 by qt5.12_msvc2017\n- EtDev.vcxproj: replace Qt5Version_x0020_x64=\"qt5.7_msvc2015\" by  Qt5Version_x0020_x64=\"qt5.12_msvc2017\"\n- EtDev.vcxproj.user: replace C:\\Libs\\Qt\\Qt5.7.0\\5.7\\msvc2015_64 by the actual path of your Qt install (e.g., C:\\Libs\\Qt\\5.12.6\\msvc2017_64).\n- trimesh/include/Vec.h, line 819: #if (_MSC_VER != 1900)  should be replaced by #if (_MSC_VER <= 1900)\nThe program compiles and produces the same executable as the one provided on the author website. It is however not very easy to use, and it is undocumented. The startup is intuitive (load the hand medial axis, model and radius files provided in the sample data), but then parameter tuning and what steps need to be performed were not trivial to find. I managed to produce a clean hand skeleton nevertheless that somewhat looks like results shown in the paper.\nI assume the .r file contains a radius for each vertex of the medial axis .off file, so that should be relatively easy to produce given a medial axis code (not provided).\nWhile results were convincing on the hand model, models used in the paper are not provided.",
+    "Does the paper already have a reproducibility stamp": "No",
+    "Citation count (google scholar)": 22,
+    "List of the required dependencies (if any, \"/\" separated, ex: matlab, libpng,cgal...)": "Qt / gflags / trimesh / Eigen / boost / CGAL / oglplus / glew",
+    "Project URL": "https://yajieyan.github.io/project/et/",
+    "Did I manage to perform a complete test (deps/build)?": "Yes",
+    "Year": 2016,
+    "Misc. comment": "",
+    "Software Type": "Code",
+    "Topic": "Geometry",
+    "Deep learning": "False",
+    "hasThumbnail": true,
+    "Open access": false,
+    "Feedbacks [could reproduce results (5=highly confident)]": 4,
+    "Could paper be trivially implemented using the pseudo-code": "",
+    "Reviewer": 2,
+    "Documentation score": 1,
+    "Paper authors": [
+        {
+            "given": "Yajie",
+            "family": "Yan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Washington Univ. in St. Louis"
+                }
+            ]
+        },
+        {
+            "given": "Kyle",
+            "family": "Sykes",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "St. Louis Univ."
+                }
+            ]
+        },
+        {
+            "given": "Erin",
+            "family": "Chambers",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "St. Louis Univ."
+                }
+            ]
+        },
+        {
+            "given": "David",
+            "family": "Letscher",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "St. Louis Univ."
+                }
+            ]
+        },
+        {
+            "given": "Tao",
+            "family": "Ju",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Washington Univ. in St. Louis"
+                }
+            ]
+        }
+    ],
+    "Altmetric score": 0,
+    "Altmetric badge": 0,
+    "Altmetric url": 0
+}

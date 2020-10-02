@@ -1,0 +1,310 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:53Z",
+            "timestamp": 1575507233285
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601171",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Smoke rings from smoke"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Steffen",
+                "family": "Wei\u00dfmann",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Ulrich",
+                "family": "Pinkall",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Peter",
+                "family": "Schr\u00f6der",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601171-1",
+                "unstructured": "Angelidis, A., and Neyret, F. 2005. Simulation of Smoke based on Vortex Filament Primitives. InProc. Symp. Comp. Anim., 87--96."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-2",
+                "unstructured": "Bernard, P. S. 2006. Turbulent Flow Properties of Large-scale Vortex Systems.PNAS 103, 27, 10174--10179.",
+                "DOI": "10.1073/pnas.0604159103",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-3",
+                "unstructured": "Bernard, P. S. 2009. Vortex Filament Simulation of the Turbulent Coflowing Jet.Phys. Fluids 21, 2.",
+                "DOI": "10.1063/1.3081559",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-4",
+                "unstructured": "Brochu, T., Keeler T., and Bridson, R. 2012. Linear-Time Smoke Animation with Vortex Sheet Meshes. InProc. Symp. Comp. Anim., 87--95."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-5",
+                "unstructured": "Chatelain, P., Curioni, A., Bergdorf, M., Rossinelli, D., Andreoni, W., and Koumoutsakos, P. 2008. Billion Vortex Particle Direct Numerical Simulations of Aircraft Wakes.Comp. Meth. Appl. Mech. &#38; Eng. 197, 13--16, 1296--1304."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-6",
+                "unstructured": "Chorin, A. J. 1990. Hairpin Removal in Vortex Interactions.J. Comput. Phys. 91, 1, 1--21.",
+                "DOI": "10.1016/0021-9991(90)90001-H",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-7",
+                "unstructured": "Chorin, A. J. 1993. Hairpin Removal in Vortex Interactions II.J. Comput. Phys. 107, 1, 1--9.",
+                "DOI": "10.1006/jcph.1993.1120",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-8",
+                "unstructured": "Christiansen, S. H., and Halvorsen, T. G. 2011. A Gauge Invariant Discretization on Simplicial Grids of the Schr&#246;dinger Eigenvalue Problem in an Electromagnetic Field.SIAM J. Numer. Anal. 49, 1, 331--345.",
+                "DOI": "10.1137/090757502",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-9",
+                "unstructured": "Crane, K., de Goes, F., Desbrun, M., and Schr&#246;der, P. 2013. Digital Geometry Processing with Discrete Exterior Calculus. InACM SIGGRAPH 2013 Courses, 7:1--7:126."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-10",
+                "unstructured": "Desbrun, M., Kanso, E., and Tong, Y. 2008. Discrete Differential Forms for Computational Modeling. InDiscrete Differential Geometry, A. I. Bobenko, P. Schr&#246;der, J. M. Sullivan, and G. M. Ziegler, Eds., Vol. 38 ofOberwolfach Seminars. Birkh&#228;user Verlag, 287--324."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-11",
+                "unstructured": "Golas, A., Narain, R., Sewall, J., Krajcevski, P., Dubey, P., and Lin, M. 2012. Large-Scale Fluid Simulation using Velocity-Vorticity Domain Decomposition.ACM Trans. Graph. 31, 6.",
+                "DOI": "10.1145/2366145.2366167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-12",
+                "unstructured": "Governale, M., and Ungarelli, C. 1998. Gauge Invariant Grid Discretization of the Schr&#246;dinger Equation.Phys. Rev. B 58, 12, 7816--7821.",
+                "DOI": "10.1103/PhysRevB.58.7816",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-13",
+                "unstructured": "Halvorsen, T. G., and Kvaal, S. 2012. Manifestly Gauge Invariant Discretizations of the Schr&#246;dinger Operator.Phys. Lett. A 376, 12--13, 1107--1114.",
+                "DOI": "10.1016/j.physleta.2012.02.028",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-14",
+                "unstructured": "Jiang, M., Machiraju, R., and Thompson, D. 2005. Detection and Visualization of Vortices. InThe Visualization Handbook, C. D. Hansen and C. R. Johnson, Eds. Elsevier, 295--309.",
+                "DOI": "10.1016/B978-012387582-2/50016-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-15",
+                "unstructured": "Kim, D., young Song, O., and Ko, H.-S. 2009. Stretching and Wiggling Liquids.ACM Trans. Graph. 28, 5."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-16",
+                "unstructured": "Kleckner, D., and Irvine, W. T. M. 2013. Creation and Dynamics of Knotted Vortices.Nat. Phys. 9, 4, 253--258.",
+                "DOI": "10.1038/nphys2560",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-17",
+                "unstructured": "Kn&#246;ppel, F., Crane, K., Pinkall, U., and Schr&#246;der, P. 2013. Globally Optimal Direction Fields.ACM Trans. Graph. 32, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-18",
+                "unstructured": "Le, T. B., Borazjani, I., Kang, S., and Sotiropoulos, F. 2011. On the Structure of Vortex Rings from Inclined Nozzles.J. Fluid Mech. 686, 451--483.",
+                "DOI": "10.1017/jfm.2011.340",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-19",
+                "unstructured": "Museth, K. 2013. VDB: High-resolution Sparse Volumes with Dynamic Topology.ACM Trans. Graph. 32, 3, 27:1--27:22."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-20",
+                "unstructured": "Pfaff, T., Thuerey, N., and Gross, M. 2012. Lagrangian Vortex Sheets for Animating Fluids.ACM Trans. Graph. 31, 4.",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-21",
+                "unstructured": "Saad, Y. 2005. ILUT: A Dual Threshold Incomplete LU Factorization.Num. Lin. Alg. Appl. 1, 4, 387--402.",
+                "DOI": "10.1002/nla.1680010405",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-22",
+                "unstructured": "Side Effects Software Inc., 2013. Houdini&#60;sup&#62;#8482;&#60;/sup&#62; FX."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-23",
+                "unstructured": "Stathopoulos, A., and McCombs, J. R. 2010. PRIMME: PRe-conditioned Iterative MultiMethod Eigensolver: Methods and Software Description.ACM Trans. Math. Softw. 37, 2, 21:1--21:30."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-24",
+                "unstructured": "Stock, M. J., Dahm, W. J. A., and Tryggvason, G. 2008. Impact of a Vortex Ring on a Density Interface using a Regularized Inviscid Vortex Sheet Method.J. Comput. Phys. 227, 21, 9021--9043.",
+                "DOI": "10.1016/j.jcp.2008.05.022",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-25",
+                "unstructured": "Troolin, D. R., and Longmire, E. K. 2010. Volumetric Velocity Measurements of Vortex Rings from Inclined Exits.Exp. Fluids 48, 3, 409--420.",
+                "DOI": "10.1007/s00348-009-0745-z",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-26",
+                "unstructured": "Wei&#223;mann, S., and Pinkall, U. 2010. Filament-based Smoke with Vortex Shedding and Variational Reconnection.ACM Trans. Graph. 29, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-27",
+                "unstructured": "Wikipedia, 2014. Hamiltonian (quantum mechanics) --- Wikipedia, The Free Encyclopedia."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-28",
+                "unstructured": "Wikipedia, 2014. Winding Number --- Wikipedia, The Free Encyclopedia."
+            },
+            {
+                "key": "key-10.1145/2601097.2601171-29",
+                "unstructured": "Wilson, K. G. 1974. Confinement of Quarks.Phys. Rev. D 10, 8, 2445--2459.",
+                "DOI": "10.1103/PhysRevD.10.2445",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601171&amp;ftid=1488949&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    22
+                ]
+            ],
+            "date-time": "2017-06-22T17:08:01Z",
+            "timestamp": 1498151281000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601171",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

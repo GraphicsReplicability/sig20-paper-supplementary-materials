@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:09Z",
+            "timestamp": 1574859849607
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100010663",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "StG-2012-307877"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100005304",
+                "name": "Agence Nationale de la Recherche",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ANR-17-CE10-0002"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201343",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Polyhedral voronoi diagrams for additive manufacturing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jon\u00e0s",
+                "family": "Mart\u00ednez",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Samuel",
+                "family": "Hornus",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Haichuan",
+                "family": "Song",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201343-1",
+                "unstructured": "Jean-Daniel Boissonnat, Micha Sharir, Boaz Tagansky, and Mariette Yvinec. 1995. Voronoi Diagrams in Higher Dimensions Under Certain Polyhedral Distance Functions. InProceedings of the Eleventh Annual Symposium on Computational Geometry.79--88.",
+                "DOI": "10.1145/220279.220288",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-2",
+                "unstructured": "Guylaine Boittin, Daniela Garajeu, Alice Lab&#233;, Herv&#233; Moulinec, Fabrice Silva, and Pierre Suquet. 2014. CraFT. http://craft.lma.cnrs-mrs.fr/"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-3",
+                "unstructured": "Guylaine Boittin, Pierre-Guy Vincent, Herv&#233; Moulinec, and Mihai G&#259;r&#259;jeu. 2017. Numerical simulations and modeling of the effective plastic flow surface of a bi-porous material with pressurized intergranular voids.Computer Methods in Applied Mechanics and Engineering323, Supplement C (2017), 174 -- 201."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-4",
+                "unstructured": "L. Paul Chew and Robert L. (Scot) Dyrsdale, III. 1985. Voronoi Diagrams Based on Convex Distance Functions. InProceedings of the First Annual Symposium on Computational Geometry.235--244.",
+                "DOI": "10.1145/323233.323264",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-5",
+                "unstructured": "A.G. Corbalan, M. Mazon, and T. Recio. 1996. Geometry of bisectors for strictly convex distances.International Journal of Computational Geometry &#38; Applications06, 01 (1996), 45--58.",
+                "DOI": "10.1142/S0218195996000046",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-6",
+                "unstructured": "Lorna J Gibson and Michael F Ashby. 1999.Cellular solids: structure and properties.Cambridge university press."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-7",
+                "unstructured": "Richard Hill. 1952. The elastic behaviour of a crystalline aggregate.Proceedings of the Physical Society Section A65, 5 (1952), 349."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-8",
+                "unstructured": "Samuel Hornus, Sylvain Lefebvre, J&#233;r&#233;mie Dumas, and Fr&#233;d&#233;ric Claux. 2016. Tight Printable Enclosures and Support Structures for Additive Manufacturing. InProceedings of the Eurographics Workshop on Graphics for Digital Fabrication (GraDiFab '16).11--21."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-9",
+                "unstructured": "Christian Icking and Lihong Ha. 2001. A Tight Bound for the Complexity of Voronoi Diagrams Under Polyhedral Convex Distance Functions in 3D. InProceedings of the Thirty-third Annual ACM Symposium on Theory of Computing.316--321.",
+                "DOI": "10.1145/380752.380815",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-10",
+                "unstructured": "Christian Icking, Rolf Klein, Ngoc-Minh L&#233;, and Lihong Ma. 1995. Convex distance functions in 3-space are different.Fundamenta Informaticae22, 4 (1995), 331--352."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-11",
+                "unstructured": "Christian Icking, Rolf Klein, Lihong Ma, Stefan Nickel, and Ansgar Wei&#223;ler. 2001. On bisectors for different distance functions.Discrete Applied Mathematics109, 1 (2001), 139--161.",
+                "DOI": "10.1016/S0166-218X(00)00238-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-12",
+                "unstructured": "Alexandra Ion, Johannes Frohnhofen, Ludwig Wall, Robert Kovacs, Mirela Alistar, Jack Lindsay, Pedro Lopes, Hsiang-Ting Chen, and Patrick Baudisch. 2016. Metamaterial Mechanisms. InProceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16).529--539.",
+                "DOI": "10.1145/2984511.2984540",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-13",
+                "unstructured": "Rolf Klein and Derick Wood. 1988.Voronoi diagrams based on general metrics in the plane.Springer Berlin Heidelberg, 281--291."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-14",
+                "unstructured": "M. Leary, M. Babaee, M. Brandt, and A. Subic. 2013. Feasible Build Orientations for Self-Supporting Fused Deposition Manufacture: A Novel Approach to Space-Filling Tesselated Geometries.Advanced Materials Research633 (2013), 148--168.",
+                "DOI": "10.4028/www.scientific.net/AMR.633.148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-15",
+                "unstructured": "Jusung Lee and Kunwoo Lee. 2017. Block-based inner support structure generation algorithm for 3D printing using fused deposition modeling.The International Journal of Advanced Manufacturing Technology89, 5 (2017), 2151--2163.",
+                "DOI": "10.1007/s00170-016-9239-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-16",
+                "unstructured": "Mokwon Lee, Qing Fang, Joonghyun Ryu, Ligang Liu, and Deok-Soo Kim. 2018. Support-Free Hollowing for 3D Printing via Voronoi Diagram of Ellipses.Computer-Aided Design101 (2018), 23--36. https://arxiv.org/abs/1708.06577",
+                "DOI": "10.1016/j.cad.2018.03.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-17",
+                "unstructured": "Sylvain Lefebvre. 2015. 3D infilling: faster, stronger, simpler, http://sylefeb.blogspot.fr/2015/07/3dprint-3d-infilling-faster-stronger.html."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-18",
+                "unstructured": "Xingchen Liu and Vadim Shapiro. 2016. Homogenization of material properties in additively manufactured structures.Computer-Aided Design78, Supplement C (2016), 71--82."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-19",
+                "unstructured": "Marco Livesu, Stefano Ellero, Jonas Mart&#237;nez, Sylvain Lefebvre, and Marco Attene. 2017. From 3D Models to 3D Prints: An Overview of the Processing Pipeline.Computer Graphics Forum36 (2017), 537--564.",
+                "DOI": "10.1111/cgf.13147",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-20",
+                "unstructured": "Lin Lu, Andrei Sharf, Haisen Zhao, Yuan Wei, Qingnan Fan, Xuelin Chen, Yann Savoye, Changhe Tu, Daniel Cohen-Or, and Baoquan Chen. 2014. Build-to-last: Strength to Weight 3D Printed Objects.ACM Trans. Graph.33, 4, Article 97 (July 2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-21",
+                "unstructured": "Mathias H. Luxner, Juergen Stampfl, and Heinz E. Pettermann. 2007. Numerical simulations of 3D open cell structures - influence of structural irregularities on elasto-plasticity and deformation localization.International Journal of Solids and Structures44, 9 (2007), 2990 -- 3003.",
+                "DOI": "10.1016/j.ijsolstr.2006.08.039",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-22",
+                "unstructured": "Lihong Ma. 2000.Bisectors and Voronoi diagrams for convex distance functions.Ph.D. Dissertation. Fernuniversit&#228;t, Fachbereich Informatik."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-23",
+                "unstructured": "Jon&#224;s Mart&#237;nez, J&#233;r&#233;mie Dumas, and Sylvain Lefebvre. 2016. Procedural Voronoi Foams for Additive Manufacturing.ACM Trans. Graph.35, 4 (2016), 44:1--44:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-24",
+                "unstructured": "Jon&#224;s Mart&#237;nez, Haichuan Song, J&#233;r&#233;mie Dumas, and Sylvain Lefebvre. 2017. Orthotropic k-nearest foams for additive manufacturing.ACM Transactions on Graphics36, 4 (July 2017), 121:1--121:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-25",
+                "unstructured": "H. Martini and K.J. Swanepoel. 2004. The geometry of Minkowski spaces - A survey. Part II.Expositiones Mathematicae22, 2 (2004), 93 -- 144.",
+                "DOI": "10.1016/S0723-0869(04)80009-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-26",
+                "unstructured": "Sara McMains, Jordan Smith, Jianlin Wang, and Carlo Sequin. 2000. Layered Manufacturing of Thin-Walled Parts. InASME Design Engineering Technical Conference, Baltimore, Maryland.arXiv:http://www.cs.berkeley.edu/ sequin/PAPERS/ASMEdetc00.pdf"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-27",
+                "unstructured": "Asla Medeiros e S&#225;, Vin&#237;cius Moreira Mello, Karina Rodriguez Echavarria, and Derek Covill. 2015. Adaptive voids.The Visual Computer31, 6 (2015), 799--808.",
+                "DOI": "10.1007/s00371-015-1109-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-28",
+                "unstructured": "Maher Moakher and Andrew N. Norris. 2006. The Closest Elastic Tensor of Arbitrary Symmetry to an Elasticity Tensor of Lower Symmetry.Journal of Elasticity85, 3 (2006), 215--263.",
+                "DOI": "10.1007/s10659-006-9082-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-29",
+                "unstructured": "H. Moulinec and P. Suquet. 1998. A numerical method for computing the overall response of nonlinear composites with complex micro structure.Computer Methods in Applied Mechanics and Engineering157, 1 (1998), 69--94.",
+                "DOI": "10.1016/S0045-7825(97)00218-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-30",
+                "unstructured": "Atsuyuki Okabe, Barry Boots, Kokichi Sugihara, and Sung Nok Chiu. 2009.Spatial Tessellations: Concepts and Applications of Voronoi Diagrams.John Wiley &#38; Sons."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-31",
+                "unstructured": "Julian Panetta, Abtin Rahimian, and Denis Zorin. 2017. Worst-case Stress Relief for Micro structures.ACM Transactions on Graphics36, 4 (2017), 122:1--122:16."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-32",
+                "unstructured": "Julian Panetta, Qingnan Zhou, Luigi Malomo, Nico Pietroni, Paolo Cignoni, and Denis Zorin. 2015. Elastic Textures for Additive Fabrication.ACM Trans. Graph.34, 4 (2015), 135:1--135:12."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-33",
+                "unstructured": "Alexander Pasko, Oleg Fryazinov, Turlif Vilbrandt, Pierre-Alain Fayolle, and Valery Adzhiev. 2011. Procedural function-based modelling of volumetric microstructures.Graphical Models73, 5 (2011), 165--181.",
+                "DOI": "10.1016/j.gmod.2011.03.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-34",
+                "unstructured": "A.P. Roberts and E.J. Garboczi. 2002. Elastic properties of model random three-dimensional open-cell solids.J. Mech. Phy. Solids50, 1 (2002), 33 -- 55.",
+                "DOI": "10.1016/S0022-5096(01)00056-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-35",
+                "unstructured": "Christian Schumacher, Bernd Bickel, Jan Rys, Steve Marschner, Chiara Daraio, and Markus Gross. 2015. Microstructures to Control Elasticity in 3D Printing.ACM Trans. Graph.34, 4 (2015), 136:1--136:13."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-36",
+                "unstructured": "Ole Sigmund, Niels Aage, and Erik Andreassen. 2016. On the (non-)optimality of Michell structures.Structural and Multidisciplinary Optimization54, 2 (2016), 361--373.",
+                "DOI": "10.1007/s00158-016-1420-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-37",
+                "unstructured": "TCT Ting and Tungyang Chen. 2005. Poisson's ratio for anisotropic elastic materials can have no bounds.Quart. J. Mech. Appl. Math.58, 1 (2005), 73--82."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-38",
+                "unstructured": "Kiril Vidim&#269;e, Szu-Po Wang, Jonathan Ragan-Kelley, and Wojciech Matusik. 2013. OpenFab: A Programmable Pipeline for Multi-material Fabrication.ACM Trans. Graph.32, 4 (2013), 136:1--136:12.",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-39",
+                "unstructured": "W. Wang, Y. J. Liu, J. Wu, S. Tian, C. C. L. Wang, L. Liu, and X. Liu. 2017. Support-Free Hollowing.IEEE Transactions on Visualization and Computer Graphics(2017)."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-40",
+                "unstructured": "Jun Wu, Charlie C.L. Wang, Xiaoting Zhang, and R&#252;diger Westermann. 2016. Self-supporting rhombic infill structures for additive manufacturing.Computer-Aided Design80 (2016), 32--42.",
+                "DOI": "10.1016/j.cad.2016.07.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-41",
+                "unstructured": "Yue Xie and Xiang Chen. 2017. Support-free interior carving for 3D printing.Visual Informatics1, 1 (2017), 9--15.",
+                "DOI": "10.1016/j.visinf.2017.01.002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-42",
+                "unstructured": "Qingnan Zhou. 2015. A study in fabricating microstructures. https://medium.com/3d-printing-stories/a-study-in-fabricating-microstructures-part-1-f267d298326e."
+            },
+            {
+                "key": "key-10.1145/3197517.3201343-43",
+                "unstructured": "Bo Zhu, M&#233;lina Skouras, Desai Chen, and Wojciech Matusik. 2017. Two-Scale Topology Optimization with Microstructures.ACM Trans. Graph.36, 5, Article 164 (July 2017), 16 pages.",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201343&ftid=1991758&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:57Z",
+            "timestamp": 1571673417000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201343",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

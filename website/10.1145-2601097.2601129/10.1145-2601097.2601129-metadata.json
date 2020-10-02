@@ -1,0 +1,348 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2019-12-05T00:53:47Z",
+            "timestamp": 1575507227745
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "JSPS",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601129",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 44,
+        "title": [
+            "Pteromys"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Nobuyuki",
+                "family": "Umetani",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Yuki",
+                "family": "Koyama",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Ryan",
+                "family": "Schmidt",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Takeo",
+                "family": "Igarashi",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2601097.2601129-1",
+                "unstructured": "Abbott, I. H. 1959.Theory of Wing Sections: Including a Summary of Airfoil Data. Dover Publications."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-2",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Matusik, W., Pfister, H., and Gross, M. 2009. Capture and modeling of non-linear heterogeneous soft tissue.ACM TOG 28, 3."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-3",
+                "unstructured": "Bickel, B., B&#228;cher, M., Otaduy, M. A., Lee, H. R., Pfister, H., Gross, M., and Matusik, W. 2010. Design and fabrication of materials with desired deformation behavior.ACM TOG 29, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-4",
+                "unstructured": "Ceylan, D., Li, W., Mitra, N. J., Agrawala, M., and Pauly, M. 2013. Designing and fabricating mechanical automata from mocap sequences.ACM TOG 32, 6.",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-5",
+                "unstructured": "Chen, D., Levin, D. I. W., Didyk, P., Sitthi-Amorn, P., and Matusik, W. 2013. Spec2Fab: A reducer-tuner model for translating specifications to 3D prints.ACM TOG 32, 4.",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-6",
+                "unstructured": "Coros, S., Thomaszewski, B., Noris, G., Sueda, S., Forberg, M., Sumner, R. W., Matusik, W., and Bickel, B. 2013. Computational design of mechanical characters.ACM TOG 32, 4.",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-7",
+                "unstructured": "Hildebrand, K., Bickel, B., and Alexa, M. 2012. Crdbrd: Shape fabrication by sliding planar slices.CGF 31.",
+                "DOI": "10.1111/j.1467-8659.2012.03037.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-8",
+                "unstructured": "Igarashi, T., Moscovich, T., and Hughes, J. F. 2005. As-rigid-as-possible shape manipulation.ACM TOG 24, 3.",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-9",
+                "unstructured": "Igarashi, Y., Igarashi, T., and Mitani, J. 2012. Beady: Interactive beadwork design and construction.ACM TOG 31, 4.",
+                "DOI": "10.1145/2185520.2185545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-10",
+                "unstructured": "Ju, E., Won, J., Lee, J., Choi, B., Noh, J., and Choi, M. G. 2013. Data-driven control of flapping flight.ACM TOG 32, 5.",
+                "DOI": "10.1145/2516971.2516976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-11",
+                "unstructured": "Li, X.-Y., Ju, T., Gu, Y., and Hu, S.-M. 2011. A geometric study of v-style pop-ups: Theories and algorithms.ACM TOG 30, 4.",
+                "DOI": "10.1145/2010324.1964993",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-12",
+                "unstructured": "Luo, L., Baran, I., Rusinkiewicz, S., and Matusik, W. 2012. Chopper: Partitioning models into 3D-printable parts.ACM TOG 31, 6.",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-13",
+                "unstructured": "McCrae, J., Singh, K., and Mitra, N. J. 2011. Slices: A shape-proxy based on planar sections.ACM TOG 30, 6.",
+                "DOI": "10.1145/2070781.2024202",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-14",
+                "unstructured": "Miguel, E., Tamstorf, R., Bradley, D., Schvartzman, S. C., Thomaszewski, B., Bickel, B., Matusik, W., Marschner, S., and Otaduy, M. A. 2013. Modeling and estimation of internal friction in cloth.ACM TOG 32, 6.",
+                "DOI": "10.1145/2508363.2508389",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-15",
+                "unstructured": "Otaduy, M. A., Bickel, B., Bradley, D., and Wang, H. 2012. Data-driven simulation methods in computer graphics: Cloth, tissue and faces. InSIGGRAPH Courses.",
+                "DOI": "10.1145/2343483.2343495",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-16",
+                "unstructured": "Pai, D. K., Doel, K. v. d., James, D. L., Lang, J., Lloyd, J. E., Richmond, J. L., and Yau, S. H. 2001. Scanning physical interaction behavior of 3D objects. InProc. SIGGRAPH.",
+                "DOI": "10.1145/383259.383268",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-17",
+                "unstructured": "Panozzo, D., Block, P., and Sorkine-Hornung, O. 2013. Designing unreinforced masonry models.ACM TOG 32, 4.",
+                "DOI": "10.1145/2461912.2461958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-18",
+                "unstructured": "Perkins, C. D., and Hage, R. E. 1949.Airplane Performance, Stability and Control, 1 ed. Wiley, 1."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-19",
+                "unstructured": "Pr&#233;vost, R., Whiting, E., Lefebvre, S., and Sorkine-Hornung, O. 2013. Make it stand: Balancing shapes for 3D fabrication.ACM TOG 32, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-20",
+                "unstructured": "Schmidt, R., and Ratto, M. 2013. Design-to-fabricate: Maker hardware requires maker software.IEEE CG&#38;A 33, 6."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-21",
+                "unstructured": "Schwartzburg, Y., and Pauly, M. 2013. Fabrication-aware design with intersecting planar pieces.CGF 32, 2."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-22",
+                "unstructured": "Shevell, R. S. 1988.Fundamentals of Flight (2nd Edition), 2 ed. Prentice Hall, 8."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-23",
+                "unstructured": "Sobieszczanski-Sobieski, J., and Haftka, R. T. 1997. Multidisciplinary aerospace design optimization: survey of recent developments.Structural optimization 14, 1.",
+                "DOI": "10.1007/BF01197554",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-24",
+                "unstructured": "Song, P., Fu, C.-W., Goswami, P., Zheng, J., Mitra, N. J., and Cohen-Or, D. 2013. Reciprocal frame structures made easy.ACM TOG 32, 4.",
+                "DOI": "10.1145/2461912.2461915",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-25",
+                "unstructured": "Stava, O., Vanek, J., Benes, B., Carr, N., and M&#283;ch, R. 2012. Stress relief: Improving structural strength of 3D printable objects.ACM TOG 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-26",
+                "unstructured": "Umetani, N., Kaufman, D. M., Igarashi, T., and Grinspun, E. 2011. Sensitive couture for interactive garment modeling and editing.ACM TOG 30, 4.",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-27",
+                "unstructured": "Umetani, N., Igarashi, T., and Mitra, N. J. 2012. Guided exploration of physically valid shapes for furniture design.ACM TOG 31, 4.",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-28",
+                "unstructured": "Vouga, E., H&#246;binger, M., Wallner, J., and Pottmann, H. 2012. Design of self-supporting surfaces.ACM TOG 31, 4."
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-29",
+                "unstructured": "Wang, H., O'Brien, J. F., and Ramamoorthi, R. 2011. Data-driven elastic models for cloth: Modeling and measurement.ACM TOG 30, 4.",
+                "DOI": "10.1145/2010324.1964966",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-30",
+                "unstructured": "Weissmann, S., and Pinkall, U. 2012. Underwater rigid body dynamics.ACM TOG 31, 4.",
+                "DOI": "10.1145/2185520.2185600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-31",
+                "unstructured": "Whiting, E., Shin, H., Wang, R., Ochsendorf, J., and Durand, F. 2012. Structural optimization of 3D masonry buildings.ACM TOG 31, 6.",
+                "DOI": "10.1145/2366145.2366178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2601097.2601129-32",
+                "unstructured": "Zhu, L., Xu, W., Snyder, J., Liu, Y., Wang, G., and Guo, B. 2012. Motion-guided mechanical toy modeling.ACM TOG 31, 6.",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601129&amp;ftid=1488873&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    8,
+                    13
+                ]
+            ],
+            "date-time": "2019-08-13T02:34:45Z",
+            "timestamp": 1565663685000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "interactive design and optimization of free-formed free-flight model airplanes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2601097.2601129",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

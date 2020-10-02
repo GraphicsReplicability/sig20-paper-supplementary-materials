@@ -1,0 +1,88 @@
+<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <link rel="stylesheet"
+       href="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
+ <script src="http://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="../mystyle.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+</head>
+<body>
+ <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../index.html">< Index</a></ul><h1 class="title">Let there be color!: joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i></h1><ul class="authors">
+<li> Satoshi <span class="family">Iizuka</span></li>
+<li> Edgar <span class="family">Simo-Serra</span></li>
+<li> Hiroshi <span class="family">Ishikawa</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925974">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.pdf">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/satoshiiizuka/siggraph2016_colorization">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925974-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925974-thumb.png"></img></center>
+    <hr>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    <div class="column2"><h2>Informations</h2>
+    <ul><li><span class="family">Paper topic</span>: Image</li>
+<li><span class="family">Nature of the artefact</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: Yes</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">License</span>: CC BY-NC-SA 4.0</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Mandatory dependencies</span>:Open-source libraries</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Google Scholar Citation</span> (19/01/2020):   380</li>
+<li><span class="family">Reviewer</span>: 2</li>
+</ul><h2>Comments</h2><pre>The short LUA code comes with a downloadable pretrained network (the data to retrain the network is from http://places.csail.mit.edu/ but the code to train the network is not provided). I used the Ubuntu for Windows framework (with Windows 10) to run the code, which was simpler here.
+I still needed to perform a number of steps:
+- dos2unix download_model.sh to prevent including the \r in the download URL
+- sudo apt-get install cmake and sudo apt-get install libreadline-dev for dependencies
+- installing torch with nn was slightly harder than the instructions on the torch website claim:
+git clone https://github.com/torch/distro.git ~/torch --recursive
+cd ~/torch
+then on line 178 of install--deps  you need to change
+sudo apt-get install -y python-software-properties
+to sudo apt-get install -y software-properties-common since python-software-properties is not supported anymore.
+Then you can run bash install-deps and ./install.sh
+But then you still need to install nn:
+sudo apt install luarocks
+sudo ~/torch/install/bin/luarocks install torch
+sudo ~/torch/install/bin/luarocks install nn
+and finally run the colorize script, not directly with "th" but using:
+~/torch/install/bin/th colorize.lua ansel_colorado_1941.png out.png
+Then everything works fine, runs smoothly (counts 2-3 minutes on the CPU for the only example image provided, which exactly replicate the landscape result in the teaser).</pre>
+    </div>
+    </div>
+        <script>
+
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'radar',
+              data: {
+    labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Build/Run Experience (the higher, the better,  {1..5}, 0=N/A )',
+                      backgroundColor: 'rgba(54, 162, 235, 0.3)',
+                      borderColor: 'rgb(54, 162, 235)',
+                      data: [3,0,0,5]
+                  }]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+
+        </script>
+    <br><br>
+<br><br><ul class="publist-inline" style="text-align:left;font-size:110%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul></code></pre></body></html>

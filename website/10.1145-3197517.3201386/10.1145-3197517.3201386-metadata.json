@@ -1,0 +1,380 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    27
+                ]
+            ],
+            "date-time": "2019-11-27T13:04:08Z",
+            "timestamp": 1574859848447
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61522209, 61210007"
+                ]
+            },
+            {
+                "name": "Fundamental Research Funds for the Central Universities",
+                "award": [
+                    "2018FZA5011"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201386",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Numerical coarsening using discontinuous shape functions"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jiong",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hujun",
+                "family": "Bao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Tianyu",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Jin",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/3197517.3201386-1",
+                "unstructured": "Jernej Barbi&#269; and Doug L. James. 2005. Real-Time Subspace Integration for St. Venant-Kirchhoff Deformable Models.ACM Transactions on Graphics (TOG)24, 3 (July 2005), 982--990.",
+                "DOI": "10.1145/1073204.1073300",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-2",
+                "unstructured": "Alain Bensoussan, Jacques-Louis Lions, and George Papanicolaou. 1978.Asymptotic analysis for periodic structures.Vol. 5. North-Holland Publishing Company."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-3",
+                "unstructured": "Desai Chen, David IW Levin, Wojciech Matusik, and Danny M Kaufman. 2017. Dynamics-aware numerical coarsening for fabrication design.ACM Transactions on Graphics (TOG)36, 4, Article 84 (2017), 15 pages.",
+                "DOI": "10.1145/3072959.3073669",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-4",
+                "unstructured": "Desai Chen, David IW Levin, Shinjiro Sueda, and Wojciech Matusik. 2015. Data-driven finite elements for geometry and material design.ACM Transactions on Graphics (TOG)34, 4, Article 74 (2015), 10 pages.",
+                "DOI": "10.1145/2766889",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-5",
+                "unstructured": "Bernardo Cockburn, George E. Karniadakis, and Chi-Wang Shu. 2011.Discontinuous Galerkin Methods: Theory, Computation and Applications.Springer."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-6",
+                "unstructured": "Tim Davis. 2017. Suitesparse: a suite of sparse matrix software. Found at http://faculty.cse.tamu.edu/davis/suitesparse.html."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-7",
+                "unstructured": "Gilles Debunne, Mathieu Desbrun, Marie-Paule Cani, and Alan H. Barr. 2001. Dynamic Real-time Deformations Using Space &#38; Time Adaptive Sampling. InACM SIGGRAPH Proceedings.ACM, New York, NY, USA, 31--36.",
+                "DOI": "10.1145/383259.383262",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-8",
+                "unstructured": "Yalchin Efendiev, Juan Galvis, and Xiao-Hui Wu. 2011. Multiscale finite element methods for high-contrast problems using local spectral basis functions.J. Comput. Phys.230, 4 (2011), 937--955.",
+                "DOI": "10.1016/j.jcp.2010.09.026",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-9",
+                "unstructured": "Elliot English and Robert Bridson. 2008. Animating developable surfaces using non-conforming elements.ACM Transactions on Graphics (TOG)27, 3, Article 66 (2008), 5 pages.",
+                "DOI": "10.1145/1360612.1360665",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-10",
+                "unstructured": "Fran&#231;ois Faure, Benjamin Gilles, Guillaume Bousquet, and Dinesh K Pai. 2011. Sparse meshless models of complex deformable solids.ACM transactions on graphics (TOG)30, 4, Article 73 (2011), 10 pages.",
+                "DOI": "10.1145/2010324.1964968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-11",
+                "unstructured": "Benjamin Gilles, Guillaume Bousquet, Francois Faure, and Dinesh K. Pai. 2011. Frame-based Elastic Models.ACM Transactions on Graphics (TOG)30, 2, Article 15 (2011), 12 pages.",
+                "DOI": "10.1145/1944846.1944855",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-12",
+                "unstructured": "Eitan Grinspun, Petr Krysl, and Peter Schr&#246;der. 2002. CHARMS: A Simple Framework for Adaptive Simulation.ACM Transactions on Graphics21, 3 (July 2002), 281--290.",
+                "DOI": "10.1145/566654.566578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-13",
+                "unstructured": "Geoffrey Irving, Joseph Teran, and Ronald Fedkiw. 2006. Tetrahedral and hexahedral invertible finite elements.Graphical Models68, 2 (2006), 66--89.",
+                "DOI": "10.1016/j.gmod.2005.03.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-14",
+                "unstructured": "A. Johnen, J.-F. Remade, and C. Geuzaine. 2013. Geometrical validity of curvilinear finite elements.J. Comp. Phys.233, Supplement C (2013), 359--372."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-15",
+                "unstructured": "Lily Kharevych, Patrick Mullen, Houman Owhadi, and Mathieu Desbrun. 2009. Numerical coarsening of inhomogeneous elastic materials.ACM Transactions on Graphics (TOG)28, 3, Article 51 (2009), 8 pages.",
+                "DOI": "10.1145/1531326.1531357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-16",
+                "unstructured": "Peter. Krysl, Sanjay Lall, and Jerrold E. Marsden. 2001. Dimensional model reduction in non-linear finite element dynamics of solids and structures.Int. J. Num. Methods Eng.51, 4 (2001), 479--504."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-17",
+                "unstructured": "Siwang Li, Jin Huang, Fernando de Goes, Xiaogang Jin, Hujun Bao, and Mathieu Desbrun. 2014. Space-time Editing of Elastic Motion Through Material Optimization and Reduction.ACM Transactions on Graphics (TOG)33, 4, Article 108 (2014), 10 pages.",
+                "DOI": "10.1145/2601097.2601217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-18",
+                "unstructured": "Sebastian Martin, Peter Kaufmann, Mario Botsch, Martin Wicke, and Markus Gross. 2008. Polyhedral finite elements using harmonic basis functions.Computer Graphics Forum27, 5 (2008), 1521--1529.",
+                "DOI": "10.1111/j.1467-8659.2008.01293.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-19",
+                "unstructured": "Sebastian Martin, Bernhard Thomaszewski, Eitan Grinspun, and Markus Gross. 2011. Example-based elastic materials.ACM Transactions on Graphics (TOG)30, 4, Article 72 (2011), 8 pages.",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-20",
+                "unstructured": "Aleka McAdams, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf Joseph Teran, and Eftychios Sifakis. 2011. Efficient elasticity for character skinning with contact and collisions.ACM Transactions on Graphics (TOG)30, 4 (2011), 37."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-21",
+                "unstructured": "Matthias M&#252;ller and Markus Gross. 2004. Interactive Virtual Materials. InProceedings of Graphics Interface 2004 (GI '04).Canadian Human-Computer Communications Society, School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada, 239--246."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-22",
+                "unstructured": "Rahul Narain, Armin Samii, and James F. O'Brien. 2012. Adaptive anisotropic remeshing for cloth simulation.ACM Transactions on Graphics (TOG)31, 6, Article 152 (2012), 10 pages.",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-23",
+                "unstructured": "Matthieu Nesme, Paul G Kry Lenka Je&#345;&#225;bkov&#225;, and Fran&#231;ois Faure. 2009. Preserving topology and elasticity for embedded deformable models.ACM Transactions on Graphics (TOG)28, 3, Article 52 (2009), 9 pages.",
+                "DOI": "10.1145/1531326.1531358",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-24",
+                "unstructured": "Houman Owhadi, Lei Zhang, and Leonid Berlyand. 2014. Polyharmonic homogenization, rough polyharmonic splines and sparse super-localization.ESAIM: Mathematical Modelling and Numerical Analysis48, 2 (2014), 517--552.",
+                "DOI": "10.1051/m2an/2013118",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-25",
+                "unstructured": "Julian Panetta, Qingnan Zhou, Luigi Malomo, Nico Pietroni, Paolo Cignoni, and Denis Zorin. 2015. Elastic Textures for Additive Fabrication.ACM Transactions on Graphics (TOG)34, 4, Article 135 (2015), 12 pages.",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-26",
+                "unstructured": "Alex Pentland and John Williams. 1989. Good Vibrations: Modal Dynamics for Graphics and Animation.SIGGRAPH Comput. Graph.23, 3 (1989), 207--214.",
+                "DOI": "10.1145/74334.74355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-27",
+                "unstructured": "Gangan Prathap. 1993.The Finite Element Method in Structural Mechanics.Solid Mechanics and Its Applications, Vol. 24. Springer.",
+                "DOI": "10.1007/978-94-017-3319-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-28",
+                "unstructured": "Christian Schumacher, Bernd Bickel, Jan Rys, Steve Marschner, Chiara Daraio, and Markus Gross. 2015. Microstructures to control elasticity in 3D printing.ACM Transactions on Graphics (TOG)34, 4, Article 136 (2015), 13 pages.",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-29",
+                "unstructured": "Jonathan R. Shewchuk. 2002. What is a Good Linear Element? Interpolation, Conditioning, and Quality Measures. InInt. Meshing Roundtable.115--126."
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-30",
+                "unstructured": "Rosell Torres, Jose M. Espadero, Felipe A. Calvo, and Miguel A. Otaduy. 2014. Interactive Deformation of Heterogeneous Volume Data.Lecture Notes in Computer Science8789 (2014).",
+                "DOI": "10.1007/978-3-319-12057-7_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/3197517.3201386-31",
+                "unstructured": "Rosell Torres, Alejandro Rodr&#237;iguez, Jos&#233; M Espadero, and Miguel A Otaduy. 2016. High-resolution interaction with corotational coarsening models.ACM Transactions on Graphics (TOG)35, 6, Article 211 (2016), 11 pages.",
+                "DOI": "10.1145/2980179.2982414",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201386&ftid=1991740&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    21
+                ]
+            ],
+            "date-time": "2019-10-21T15:56:15Z",
+            "timestamp": 1571673375000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/3197517.3201386",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}

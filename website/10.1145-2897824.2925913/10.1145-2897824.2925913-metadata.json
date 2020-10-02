@@ -1,0 +1,464 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    9
+                ]
+            ],
+            "date-time": "2020-01-09T15:23:30Z",
+            "timestamp": 1578583410066
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "307754"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1284/12"
+                ]
+            },
+            {
+                "name": "I-CORE (Israel PBC and ISF)",
+                "award": [
+                    "4/11"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "TOG",
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925913",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Point registration via efficient convex relaxation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Haggai",
+                "family": "Maron",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Nadav",
+                "family": "Dym",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Itay",
+                "family": "Kezurer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Shahar",
+                "family": "Kovalsky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2897824.2925913-1",
+                "unstructured": "Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., and Davis, J. (2005). SCAPE: shape completion and animation of people. InACM Transactions on Graphics (TOG), volume 24, pages 408--416. ACM.",
+                "DOI": "10.1145/1186822.1073207",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-2",
+                "unstructured": "Aubry, M., Schlickewei, U., and Cremers, D. (2011). The wave kernel signature: A quantum mechanical approach to shape analysis. InComputer Vision Workshops (ICCV Workshops), 2011 IEEE International Conference on, pages 1626--1633. IEEE.",
+                "DOI": "10.1109/ICCVW.2011.6130444",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-3",
+                "unstructured": "Babai, L., Grigoryev, D. Y., and Mount, D. M. (1982). Isomorphism of graphs with bounded eigenvalue multiplicity. InProceedings of the Fourteenth Annual ACM Symposium on Theory of Computing, STOC '82, pages 310--324, New York, NY, USA. ACM.",
+                "DOI": "10.1145/800070.802206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-4",
+                "unstructured": "Belkin, M. and Niyogi, P. (2003). Laplacian eigenmaps for dimensionality reduction and data representation.Neural computation, 15(6):1373--1396."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-5",
+                "unstructured": "Berg, A. C., Berg, T. L., and Malik, J. (2005). Shape matching and object recognition using low distortion correspondences. InComputer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on, volume 1, pages 26--33. IEEE.",
+                "DOI": "10.1109/CVPR.2005.320",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-6",
+                "unstructured": "Besl, P. and McKay, N. (1992). A method for registration of 3d shapes.IEEE Transactions on Pattern Analysis and Machine Intelligence, 14(2):239--256."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-7",
+                "unstructured": "Bogo, F., Romero, J., Loper, M., and Black, M. J. (2014). FAUST: Dataset and evaluation for 3D mesh registration. InComputer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, pages 3794--3801. IEEE.",
+                "DOI": "10.1109/CVPR.2014.491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-8",
+                "unstructured": "Boyer, D. M., Lipman, Y., Clair, E. S., Puente, J., Patel, B. A., Funkhouser, T., Jernvall, J., and Daubechies, I. (2011). Algorithms to automatically quantify the geometric similarity of anatomical surfaces.Proceedings of the National Academy of Sciences, 108(45):18221--18226."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-9",
+                "unstructured": "Bronstein, A. M., Bronstein, M. M., and Kimmel, R. (2006). Generalized multidimensional scaling: A framework for isometry-invariant partial surface matching.Proceedings of the National Academy of Sciences of the United States of America, 103(5):1168--1172."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-10",
+                "unstructured": "Brown, B. J. and Rusinkiewicz, S. (2007). Global non-rigid alignment of 3-d scans.ACM Transactions on Graphics (TOG), 26(3):21."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-11",
+                "unstructured": "Chen, Q. and Koltun, V. (2015). Robust nonrigid registration by convex optimization. InProceedings of the IEEE International Conference on Computer Vision, pages 2039--2047.",
+                "DOI": "10.1109/ICCV.2015.236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-12",
+                "unstructured": "Dym, N. and Lipman, Y. (2016). Exact recovery with symmetries for procrustes matching.Technical report."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-13",
+                "unstructured": "Eldar, Y., Lindenbaum, M., Porat, M., and Zeevi, Y. Y. (1997). The farthest point strategy for progressive image sampling.Image Processing, IEEE Transactions on, 6(9):1305--1315."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-14",
+                "unstructured": "Fischler, M. A. and Bolles, R. C. (1981). Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography.Communications of the ACM, 24(6):381--395."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-15",
+                "unstructured": "Fukuda, M., Kojima, M., Murota, K., and Nakata, K. (2000). Exploiting sparsity in semidefinite programming via matrix completion I: General framework.SIAM J. on Optimization, 11(3):647--674."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-16",
+                "unstructured": "Gelfand, N., Mitra, N. J., Guibas, L. J., and Pottmann, H. (2005). Robust global registration. InProceedings of the Third Eurographics Symposium on Geometry Processing, SGP '05, Aire-la-Ville, Switzerland, Switzerland. Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-17",
+                "unstructured": "Giorgi, D., Biasotti, S., and Paraboschi, L. (2007). Shape retrieval contest 2007: Watertight models track.SHREC competition, 8."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-18",
+                "unstructured": "Gower, J. C. and Dijksterhuis, G. B. (2004).Procrustes problems, volume 3. Oxford University Press Oxford."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-19",
+                "unstructured": "Grone, R., Johnson, C. R., S&#225;, E. M., and Wolkowicz, H. (1984). Positive definite completions of partial Hermitian matrices.Linear algebra and its applications, 58:109--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-20",
+                "unstructured": "Huang, Q., Wang, F., and Guibas, L. (2014). Functional map networks for analyzing and exploring large shape collections.ACM Trans. Graph., 33(4):36:1--36:11."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-21",
+                "unstructured": "Jain, V., Zhang, H., and Van Kaick, O. (2007). Non-Rigid Spectral Correspondence of Triangle Meshes.International Journal of Shape Modeling, 13:101--124."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-22",
+                "unstructured": "Kendall, D. G. (1984). Shape manifolds, Procrustean metrics, and complex projective spaces.Bulletin of the London Mathematical Society, 16(2):81--121."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-23",
+                "unstructured": "Kezurer, I., Kovalsky, S. Z., Basri, R., and Lipman, Y. (2015). Tight relaxation of quadratic matching.Computer Graphics Forum, 34(5):115--128."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-24",
+                "unstructured": "Kim, V. G., Lipman, Y., and Funkhouser, T. (2011). Blended intrinsic maps.ACM Transactions on Graphics, 30(4):1."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-25",
+                "unstructured": "Leordeanu, M. and Hebert, M. (2005). A spectral technique for correspondence problems using pairwise constraints. InComputer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on, volume 2, pages 1482--1489. IEEE.",
+                "DOI": "10.1109/ICCV.2005.20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-26",
+                "unstructured": "Li, H., Sumner, R. W., and Pauly, M. (2008). Global correspondence optimization for non-rigid registration of depth scans. InComputer Graphics Forum, volume 27, pages 1421--1430. Wiley Online Library.",
+                "DOI": "10.1111/j.1467-8659.2008.01282.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-27",
+                "unstructured": "Lipman, Y. and Funkhouser, T. (2009). M&#246;bius voting for surface correspondence. InACM Transactions on Graphics (TOG), volume 28, page 72. ACM.",
+                "DOI": "10.1145/1576246.1531378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-28",
+                "unstructured": "Luo, Z.-Q., Ma, W.-k., So, A. M.-C., Ye, Y., and Zhang, S. (2010). Semidefinite relaxation of quadratic optimization problems. Signal Processing Magazine, IEEE, 27(3):20--34.",
+                "DOI": "10.1109/MSP.2010.936019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-29",
+                "unstructured": "M&#233;moli, F. and Sapiro, G. (2004). Comparing point clouds. InProceedings of the 2004 Eurographics/ACM SIGGRAPH Symposium on Geometry Processing, SGP '04, pages 32--40, New York, NY, USA. ACM.",
+                "DOI": "10.1145/1057432.1057436",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-30",
+                "unstructured": "Mitteroecker, P. and Gunz, P. (2009). Advances in geometric mor-phometrics.Evolutionary Biology, 36(2):235--247."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-31",
+                "unstructured": "MOSEK (2015).The MOSEK optimization toolbox for MATLAB manual. Version 7.1 (Revision 49)."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-32",
+                "unstructured": "Nguyen, A., Ben-Chen, M., Welnicka, K., Ye, Y., and Guibas, L. (2011). An optimization approach to improving collections of shape maps.Computer Graphics Forum, 30(5):1481--1491."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-33",
+                "unstructured": "Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., and Guibas, L. (2012). Functional maps: a flexible representation of maps between shapes.ACM Transactions on Graphics (TOG), 31(4):30."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-34",
+                "unstructured": "Ovsjanikov, M., M&#233;rigot, Q., M&#233;moli, F., and Guibas, L. (2010). One point isometric matching with the heat kernel. InComputer Graphics Forum, volume 29, pages 1555--1564. Wiley Online Library.",
+                "DOI": "10.1111/j.1467-8659.2010.01764.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-35",
+                "unstructured": "Ovsjanikov, M., Sun, J., and Guibas, L. (2008). Global intrinsic symmetries of shapes. InComputer Graphics Forum, volume 27, pages 1341--1348. Wiley Online Library.",
+                "DOI": "10.1111/j.1467-8659.2008.01273.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-36",
+                "unstructured": "Pinkall, U. and Polthier, K. (1993). Computing discrete minimal surfaces and their conjugates.Experimental mathematics, 2(1):15--36."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-37",
+                "unstructured": "Pokrass, J., Bronstein, A. M., Bronstein, M. M., Sprechmann, P., and Sapiro, G. (2013). Sparse modeling of intrinsic correspondences.Computer Graphics Forum, 32(2 PART4):459--468."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-38",
+                "unstructured": "Poljak, S., Rendl, F., and Wolkowicz, H. (1995). A recipe for semidefinite relaxation for (0, 1)-quadratic programming.Journal of Global Optimization, 7(1):51--73."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-39",
+                "unstructured": "Rusinkiewicz, S. and Levoy, M. (2001). Efficient variants of the ICP algorithm.Proceedings Third International Conference on 3-D Digital Imaging and Modeling, pages 145--152.",
+                "DOI": "10.1109/IM.2001.924423",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-40",
+                "unstructured": "Rustamov, R. M. (2007). Laplace-Beltrami eigenfunctions for deformation invariant shape representation. InProceedings of the Fifth Eurographics Symposium on Geometry Processing, SGP '07, pages 225--233, Aire-la-Ville, Switzerland, Switzerland. Eurographics Association."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-41",
+                "unstructured": "Saunderson, J., Parrilo, P. A., and Willsky, A. S. (2014). Semidefinite descriptions of the convex hull of rotation matrices.arXiv preprint arXiv:1403.4914."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-42",
+                "unstructured": "Singer, A. and Wu, H.-T. (2012). Vector diffusion maps and the connection laplacian.Communications on Pure and Applied Mathematics, 65(8):1067--1144."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-43",
+                "unstructured": "Tam, G. K., Cheng, Z.-Q., Lai, Y.-K., Langbein, F. C., Liu, Y., Marshall, D., Martin, R. R., Sun, X.-F., and Rosin, P. L. (2013). Registration of 3D point clouds and meshes: a survey from rigid to nonrigid.Visualization and Computer Graphics, IEEE Transactions on, 19(7):1199--1217."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-44",
+                "unstructured": "Tevs, A., Bokeloh, M., Wand, M., Schilling, A., and Seidel, H.-P. (2009). Isometric registration of ambiguous and partial data. InComputer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on, pages 1185--1192. IEEE.",
+                "DOI": "10.1109/CVPR.2009.5206775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-45",
+                "unstructured": "Van Kaick, O., Zhang, H., Hamarneh, G., and Cohen-Or, D. (2011). A survey on shape correspondence. InComputer Graphics Forum, volume 30, pages 1681--1707. Wiley Online Library."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-46",
+                "unstructured": "Waki, H., Kim, S., Kojima, M., and Muramatsu, M. (2006). Sums of squares and semidefinite programming relaxations for polynomial optimization problems with structured sparsity.SIAM Journal on Optimization, 17:218--242."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-47",
+                "unstructured": "Wand, M., Chang, W., Li, H., Mitra, N., Pauly, M., and Rusinkiewicz, S. (2011). Computing correspondences in geometric data sets tutorial. http://resources.mpi-inf.mpg.de/deformableShapeMatching/EG2011_Tutorial/."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-48",
+                "unstructured": "Wei, L., Huang, Q., Ceylan, D., Vouga, E., and Li, H. (2015). Dense Human Body Correspondences Using Convolutional Networks.",
+                "DOI": "10.1109/CVPR.2016.171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-49",
+                "unstructured": "Yang, J., Li, H., and Jia, Y. (2013). Go-ICP: Solving 3D Registration Efficiently and Globally Optimally.2013 IEEE International Conference on Computer Vision, pages 1457--1464.",
+                "DOI": "10.1109/ICCV.2013.184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-50",
+                "unstructured": "Zeng, Y., Wang, C., Wang, Y., Gu, X., Samaras, D., and Paragios, N. (2010). Dense non-rigid surface registration using high-order graph matching. InComputer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on, pages 382--389. IEEE.",
+                "DOI": "10.1109/CVPR.2010.5540189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-51",
+                "unstructured": "Zhao, Q., Karisch, S. E., Rendl, F., and Wolkowicz, H. (1998). Semidefinite programming relaxations for the quadratic assignment problem.Journal of Combinatorial Optimization, 2(1):71--109."
+            },
+            {
+                "key": "key-10.1145/2897824.2925913-52",
+                "unstructured": "Zuffi, S. and Black, M. J. (2015). The stitched puppet: A graphical model of 3D human shape and pose. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3537--3546.",
+                "DOI": "10.1109/CVPR.2015.7298976",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925913&amp;ftid=1755931&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    11
+                ]
+            ],
+            "date-time": "2019-09-11T00:43:37Z",
+            "timestamp": 1568162617000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "URL": "http://dx.doi.org/10.1145/2897824.2925913",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            }
+        ]
+    }
+}
