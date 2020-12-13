@@ -13,8 +13,6 @@ Supplementary material website for the paper:
 * Nicolas Mellado (CNRS, IRIT, Toulouse, France)
 
 More details: https://replicability.graphics
-
-Citing
 ```
 @article{replicGraph2020,
   author  =    {Nicolas Bonneel, David Coeurjolly, Julie Digne and Nicolas Mellado},
