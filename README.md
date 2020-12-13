@@ -43,4 +43,4 @@ The website can be launched using the file `index.html` available in the *websit
 
 License
 ==================================
-The scripts and data follow the (BSD like) [CeCILL-B](https://cecill.info/licences/Licence_CeCILL-B_V1-en.html) License.
+The scripts and data follow the (BSD like) [CeCILL-B](https://cecill.info/licences/Licence_CeCILL-B_V1-en.html) license.
